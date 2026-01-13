@@ -36,7 +36,7 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 	- [Currency and Prices](#currency-and-prices)
 	- [Armor](#armor)
 	- [Weapons](#weapons)
-	- [Cyphers](#cyphers)
+	- [Cypher](#cypher)
 	- [Artifacts](#artifacts)
 
 [Rules](#rules)
@@ -231,7 +231,7 @@ The GM can also give players XP between sessions as a reward for making discover
 
 Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.
 
-## CYPHERS
+## CYPHERS BASICS
 
 Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.
 
@@ -11643,7 +11643,7 @@ Inexpensive clothing is just a step up from rags, but moderately priced clothing
 
 Other sorts of miscellaneous items can be found in the Genre chapter.
 
-### CYPHERS
+### CYPHER
 
 Cyphers can sometimes be physical items like equipment, but they work very differently. To be entirely accurate, cyphers might have the veneer of equipment, but don’t fall into the trap of confusing the two. Cyphers are far more akin to PC special abilities than to gear. In a fantasy game, they might be potions, scrolls, or charms. In a science fiction game, cyphers might be interesting throwaway devices or alien crystals of unknown providence. In other games, they might just represent good fortune or sudden inspiration. See the Cyphers chapter for more details.
 
@@ -13074,7 +13074,7 @@ Someone did something that harmed you. Unlike the Avenge arc, this arc probably 
 - Climax: Confrontation. You confront the culprit.
 - Resolution: You deal with the aftermath of the confrontation and move on. You think about whether you are satisfied by gaining your revenge.
 
-#### ROMANCE
+#### ROMANCES
 
 You want to strike up a relationship with a romantic partner. Perhaps you have a specific person in mind, or maybe you’re just interested in a relationship in general.
 - Opening(s): Caught Someone’s Eye. You meet someone you are interested in. (Since this can be short-lived, it’s possible to have this opening occur more than once.)
