@@ -287,9 +287,9 @@ Should follow the following template :
 
 ## Linking conventions
 
-- Links are a mess
-- Links need to work in github in priority, but obsidian would be nice
-- Definitely using markdown, not wiki
-- How do I make this work in one file and in multiple files ? Prioritise multiple single file in the meantime, but may require software
+- Links are going to be a mess
+- For now, use markdown standard links to headers. Link to # then header name, all lowercase, - instead of space. Special characters who knows
+	- [https://blog.markdowntools.com/posts/how-to-link-to-a-header-in-markdown](https://blog.markdowntools.com/posts/markdown-internal-links)
+- How do I make this work in one file and in multiple files ? Prioritise single file in the meantime, but may require software
 
  

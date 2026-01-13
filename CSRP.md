@@ -13,14 +13,44 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 [Characters](#characters)
 - [Creating Your Character](#creating-your-character)
 - [Type](#type)
+	- [Warrior](#warrior)
+	- [Adept](#adept)
+	- [Explorer](#explorer)
+	- [Speaker](#speaker)
 - [Flavor](#flavor)
+	- [Stealth Flavor](#stealth-flavor)
+	- [Technology Flavor](#technology-flavor)
+	- [Magic Flavor](#magic-flavor)
+	- [Combat Flavor](#combat-flavor)
+	- [Skills and Knowledge Flavor](#skills-and-knowledge-flavor)
 - [Descriptor](#descriptor)
 - [Focus](#focus)
+	- [Choosing Foci](#choosing-foci)
+	- [Focus Connections](#focus-connections)
+	- [Story Behind the Focus](#story-behind-the-focus)
+	- [Customizing Foci](#customizing-foci)
+	- [Focus Categories](#focus-categories)
+	- [Foci](#foci)
 - [Abilities](#abilities)
 - [Equipment](#equipment)
+	- [Currency and Prices](#currency-and-prices)
+	- [Armor](#armor)
+	- [Weapons](#weapons)
+	- [Cyphers](#cyphers)
+	- [Artifacts](#artifacts)
 
 [Rules](#rules)
 - [Rules of the Game](#rules-of-the-game)
+	- [Key Concepts](#key-concepts)
+	- [Taking Action](#taking-action)
+	- [Actions](#actions)
+	- [Action: Attack](#action-attack)
+	- [Action: Activate a Special Ability](#action-activate-a-special-ability)
+	- [Action: Move](#action-move)
+	- [Action: Wait](#action-wait)
+	- [Action: Defend](#action-defend)
+	- [Action: Do Something Else](#action-do-something-else)
+	- [Followers](#followers)
 - [Experience Points](#experience-points)
 
 [Game Mastering](#game-mastering)
@@ -11627,7 +11657,7 @@ Depowered artifacts can sometimes be recharged using the repair rules, depending
 
 For GM information on artifacts, see the Running the Cypher System chapter.
 
-### Finding, Identifying, and Using Artifacts
+**Finding, Identifying, and Using Artifacts**
 
 Characters can sometimes find artifacts while on adventures. They might be in ancient ruins, either intact or in need of manipulation to get them working. They could have been stolen from well-guarded military installations. They might be granted as rewards or taken from fallen foes. Sometimes they can even be purchased from a specialized source, but this occurs more rarely than most PCs would probably like.
 
