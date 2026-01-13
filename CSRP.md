@@ -7,7 +7,9 @@ This product is an independent production and is not affiliated with Monte Cook 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC.
 
 # Contents
+
 [How to Play the Cypher System](#How-to-Play-the-Cypher-System)
+
 [Characters](#Characters)
 - [Creating Your Character](#Creating-Your-Character)
 - [Type](#Type)
@@ -16,14 +18,17 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 - [Focus](#Focus)
 - [Abilities](#Abilities)
 - [Equipment](#Equipment)
+
 [Rules](#Rules)
 - [Rules of the Game](#Rules-of-the-Game)
 - [Experience Points](#Experience-Points)
+
 [Game Mastering](#Game-Mastering)
 - [Creatures](#Creatures)
 - [NPCs](#NPCs)
 - [Cyphers](#Cyphers)
 - [Running the Cypher System](#Running-the-Cypher-System)
+
 Genres
 - [Fantasy](#Fantasy)
 - [Modern](#Modern)
@@ -36,6 +41,7 @@ Genres
 - [Cyberpunk](#Cyberpunk)
 - [Weird West](#Weird-West)
 - [Modern Fantasy](#Modern-Fantasy)
+
 # SECTION 1 : Core
 
 # How to Play the Cypher System
