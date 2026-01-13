@@ -5,10 +5,9 @@ This reference aims to be matching in content the CSRD of 22/08/2025
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at [http://csol.montecookgames.com](http://csol.montecookgames.com).
 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC.
-
 # Contents
 
-[How to Play the Cypher System](#how-to-play-the-cypher-system)
+[How to Play the Cypher System](#how-to-play-the-cypher-system) ^4954ad
 
 [Characters](#characters)
 - [Creating Your Character](#creating-your-character)
@@ -74,9 +73,13 @@ Genres
 - [Weird West](#weird-west)
 - [Modern Fantasy](#modern-fantasy)
 
+[How to Play The Cypher System](#^2351b9)
+
 # SECTION 1 : Core
 
 # How to Play the Cypher System
+
+^2351b9
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.
 
@@ -6688,7 +6691,7 @@ Enabler.
 
 ### Applying Your Knowledge
 
-Applying Your Knowledge #Ability #SupportAbility #Core 
+Applying Your Knowledge #Ability #SupportAbility #Mid #Core 
 
 When you help another character undertake any action that you’re untrained in, you are treated as if you are trained in it. 
 
@@ -6838,7 +6841,7 @@ Action.
 
 ### Babel
 
-Babel #Ability #informationAbility #Low #Core 
+Babel #Ability #InformationAbility #Low #Core 
 
 After hearing a language spoken for a few minutes, you can speak it and make yourself understood. If you continue to use the language to interact with native speakers, your skills improve rapidly, to the point where you might be mistaken for a native speaker after just a few hours of speaking the new language. 
 
@@ -7310,9 +7313,13 @@ If you are outside or in a location that has a ceiling at least 300 feet (90 m) 
 
 Three actions to initiate; action to call down a lightning strike.
 
-### Call Swarm (4 Intellect points)
+### Call Swarm
 
-If you’re in a location where it’s possible for the creatures from your Influence Swarm ability to come, you call a swarm of them for one hour. During this hour, they do as you telepathically command as long as they are within long range. They can swarm about and hinder any or all opponents’ tasks. While the creatures are in long range, you can speak to them telepathically and perceive through their senses. Action to initiate.
+Call Swarm (4 Intellect points) #Ability #CompanionAbility #Mid #Core 
+
+If you’re in a location where it’s possible for the creatures from your Influence Swarm ability to come, you call a swarm of them for one hour. During this hour, they do as you telepathically command as long as they are within long range. They can swarm about and hinder any or all opponents’ tasks. While the creatures are in long range, you can speak to them telepathically and perceive through their senses. 
+
+Action to initiate.
 
 ### Call Through Time
 
