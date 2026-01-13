@@ -98,7 +98,7 @@ All Cards follow the following principles :
 		- #CraftAbility 
 		- #CureAbility 
 		- #EnvironmentAbility 
-		- #informationAbility 
+		- #InformationAbility 
 		- #MetaAbility 
 		- #MovementAbility 
 		- #ProtectionAbility 
