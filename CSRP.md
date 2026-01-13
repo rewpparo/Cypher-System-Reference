@@ -1,4 +1,4 @@
-[Cypher System Reference Project](https://github.com/rewpparo/Cypher-System-Reference-Project)  
+[Cypher System Reference Project on Github](https://github.com/rewpparo/Cypher-System-Reference)  
 
 This reference aims to be matching in content the CSRD of 22/08/2025
 
@@ -387,20 +387,6 @@ If you gain a special ability through your type, your focus, or some other aspec
 
 In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
 
-## Type
-
-Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an _adjective noun_ who _verbs_.”
-
-(In some roleplaying games, your character type might be called your character class.)
-
-You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
-
-Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
-
-To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).
-
-Finally, more fundamental options for further customization are provided at the end of this chapter.
-
 ### PLAYER INTRUSION
 
 A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.
@@ -411,7 +397,7 @@ Using an intrusion does not require a character to use an action to trigger it. 
 
 (Player intrusions should be limited to no more than one per player per session.)
 
-### Defense Tasks
+### DEFENSE TASKS
 
 Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
 
@@ -421,15 +407,54 @@ Speed defense: Used for dodging attacks and escaping danger. This is by far the 
 
 Intellect defense: Used for fending off mental attacks or anything that might affect or influence one’s mind.
 
+## Type
+
+Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective* *noun* who *verbs*.”
+
+(In some roleplaying games, your character type might be called your character class.)
+
+You can choose from four character types: **Warrior**, **Adept**, **Explorer**, and **Speaker**. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
+
+Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
+
+To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).
+
+Finally, more fundamental options for further customization are provided at the end of this chapter.
+
+**FURTHER CUSTOMIZATION**
+
+The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
+
+**MODIFYING TYPE ASPECTS**
+
+The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.
+
+Stat Pools: Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.
+
+Edge: A player can start with an Edge of 1 in whichever stat they wish.
+
+Cypher Use: If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.
+
+Weapons: Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
+
+**DRAWBACKS AND PENALTIES**
+
+In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.
+
+Weakness: A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.
+
+Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
+
+Inabilities: Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game).
+
 ### WARRIOR
 
-Fantasy/Fairy tale: Warrior, fighter, swordsman, knight, barbarian, soldier, myrmidon, valkyrie
+Warrior #Type #Core 
 
-Modern/Horror/Romance: police officer, soldier, watchman, detective, guard, brawler, tough, athlete
-
-Science fiction: security officer, warrior, trooper, soldier, merc
-
-Superhero/Post-Apocalyptic: hero, brick, bruiser
+- Fantasy/Fairy tale: Warrior, fighter, swordsman, knight, barbarian, soldier, myrmidon, valkyrie
+- Modern/Horror/Romance: police officer, soldier, watchman, detective, guard, brawler, tough, athlete
+- Science fiction: security officer, warrior, trooper, soldier, merc
+- Superhero/Post-Apocalyptic: hero, brick, bruiser
 
 You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
 
@@ -442,7 +467,7 @@ Societal Role: Warriors aren’t always soldiers or mercenaries. Anyone who is r
 
 Advanced Warriors: As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 
-#### Warrior Background Connection
+**Warrior Background Connection**
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
@@ -469,7 +494,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.|
 |20|Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors.|
 
-#### WARRIOR PLAYER INTRUSIONS
+**WARRIOR PLAYER INTRUSIONS**
 
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -479,7 +504,7 @@ Old Friend: A comrade in arms from your past shows up unexpectedly and provides 
 
 Weapon Break: Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
-#### WARRIOR STAT POOLS
+**WARRIOR STAT POOLS**
 
 |Stat|Pool Starting Value|
 |---|---|
@@ -489,19 +514,14 @@ Weapon Break: Your foe’s weapon has a weak spot. In the course of the combat, 
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### FIRST-TIER WARRIOR
+**FIRST-TIER WARRIOR**
 
 First-tier warriors have the following abilities:
-
-Effort: Your Effort is 1.
-
-Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
-
-Cypher Use: You can bear two cyphers at a time.
-
-Weapons: You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.
-
-Starting Equipment: Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.
+- Effort: Your Effort is 1.
+- Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
+- Cypher Use: You can bear two cyphers at a time.
+- Weapons: You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.
+- Starting Equipment: Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.
 
 Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 - Bash
@@ -516,7 +536,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Swipe
 - Trained Without Armor
 
-#### SECOND-TIER WARRIOR
+**SECOND-TIER WARRIOR**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Crushing Blow
@@ -526,7 +546,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Skill With Defense
 - Successive Attack
 
-#### THIRD-TIER WARRIOR
+**THIRD-TIER WARRIOR**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Deadly Aim
@@ -542,7 +562,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Trick Shot
 - Vigilance
 
-#### FOURTH-TIER WARRIOR
+**FOURTH-TIER WARRIOR**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Amazing Effort
@@ -555,7 +575,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Snipe
 - Tough As Nails
 
-#### FIFTH-TIER WARRIOR
+**FIFTH-TIER WARRIOR**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
@@ -569,7 +589,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 (Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.)
 
-#### SIXTH-TIER WARRIOR
+**SIXTH-TIER WARRIOR**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
@@ -579,7 +599,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Spin Attack
 - Weapon and Body
 
-#### WARRIOR EXAMPLE
+**WARRIOR EXAMPLE**
 
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
@@ -599,10 +619,12 @@ For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none o
 
 ### ADEPT
 
-Fantasy/Fairy tale: wizard, mage, sorcerer, cleric, druid, seer, diabolist, fey-touched
-Modern/Horror/Romance: psychic, occultist, witch, practitioner, medium, fringe scientist
-Science fiction: psion, psionicist, telepath, seeker, master, scanner, ESPer, abomination
-Superhero/Post-Apocalyptic: mage, sorcerer, power-wielder, master, psion, telepath
+Adept #Type #Core 
+
+- Fantasy/Fairy tale: wizard, mage, sorcerer, cleric, druid, seer, diabolist, fey-touched
+- Modern/Horror/Romance: psychic, occultist, witch, practitioner, medium, fringe scientist
+- Science fiction: psion, psionicist, telepath, seeker, master, scanner, ESPer, abomination
+- Superhero/Post-Apocalyptic: mage, sorcerer, power-wielder, master, psion, telepath
 
 You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
 
@@ -616,7 +638,7 @@ Advanced Adepts: Even at low tiers, Adept powers are impressive. Higher-tier Ade
 
 (Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.)
 
-#### ADEPT PLAYER INTRUSIONS
+**ADEPT PLAYER INTRUSIONS**
 
 When playing an Adept, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -626,7 +648,7 @@ Convenient Idea: A flash of insight provides you with a clear answer or suggests
 
 Inexplicably Unbroken: An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.
 
-#### ADEPT STAT POOLS
+**ADEPT STAT POOLS**
 
 |Stat|Pool Starting Value|
 |---|---|
@@ -636,7 +658,7 @@ Inexplicably Unbroken: An inactive, ruined, or presumed-destroyed device tempora
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### Adept Background Connection
+**Adept Background Connection**
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
@@ -663,19 +685,14 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.|
 |20|You belong to a secretive social club that gathers monthly to drink and talk.|
 
-#### FIRST-TIER ADEPT
+**FIRST-TIER ADEPT**
 
 First-tier Adepts have the following abilities:
-
-Effort: Your Effort is 1.
-
-Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
-
-Expert Cypher Use: You can bear three cyphers at a time.
-
-Starting Equipment: Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items of your choice.
-
-Weapons: You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered.
+- Effort: Your Effort is 1.
+- Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
+- Expert Cypher Use: You can bear three cyphers at a time.
+- Starting Equipment: Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items of your choice.
+- Weapons: You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered.
 
 Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)
 - Distortion
@@ -690,7 +707,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Shatter
 - Ward
 
-#### SECOND-TIER ADEPT
+**SECOND-TIER ADEPT**
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adaptation
@@ -701,7 +718,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Reveal
 - Stasis
 
-#### THIRD-TIER ADEPT
+**THIRD-TIER ADEPT**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
@@ -712,7 +729,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Sensor
 - Targeting Eye
 
-#### FOURTH-TIER ADEPT
+**FOURTH-TIER ADEPT**
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Death Touch
@@ -726,7 +743,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Reshape
 - Wormhole
 
-#### FIFTH-TIER ADEPT
+**FIFTH-TIER ADEPT**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Absorb Energy
@@ -739,7 +756,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Teleportation
 - True Senses
 
-#### SIXTH-TIER ADEPT
+**SIXTH-TIER ADEPT**
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Control Weather
@@ -748,7 +765,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Traverse the Worlds
 - Usurp Cypher
 
-#### ADEPT EXAMPLE
+**ADEPT EXAMPLE**
 
 Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
 
@@ -766,6 +783,8 @@ For her character arc, Jen chooses Aid a Friend. She decides that when her sorce
 
 ### EXPLORER
 
+Explorer #Type #Core 
+
 - Fantasy/Fairy tale: Explorer, adventurer, delver, mystery seeker
 - Modern/Horror/Romance: athlete, explorer, adventurer, drifter, detective, scholar, spelunker, trailblazer, investigative reporter
 - Science fiction: Explorer, adventurer, wanderer, planetary specialist, xenobiologist
@@ -781,7 +800,7 @@ Societal Role: Not all Explorers are out traipsing through the wilderness or pok
 
 Advanced Explorers: Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
 
-#### EXPLORER PLAYER INTRUSIONS
+**EXPLORER PLAYER INTRUSIONS**
 
 When playing an Explorer, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -791,7 +810,7 @@ Serendipitous Landmark: Just when it seems like the path is lost (or you are), a
 
 Weak Strain: The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.
 
-#### EXPLORER STAT POOLS
+**EXPLORER STAT POOLS**
 
 |Stat|Pool Starting Value|
 |---|---|
@@ -801,8 +820,7 @@ Weak Strain: The poison or disease turns out not to be as debilitating or deadly
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### Explorer Background Connection
-
+**Explorer Background Connection**
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
 |d20|Background|
@@ -828,19 +846,14 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|Your sister owns a store and gives you a hefty discount.|
 |20|Your father is a high-ranking officer in the military with many connections.|
 
-#### FIRST-TIER EXPLORER
+**FIRST-TIER EXPLORER**
 
 First-tier Explorers have the following abilities:
-
-Effort: Your Effort is 1.
-
-Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an Intellect Edge of 0.
-
-Cypher Use: You can bear two cyphers at a time.
-
-Starting Equipment: Appropriate clothing and a weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.
-
-Weapons: You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.
+- Effort: Your Effort is 1.
+- Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an Intellect Edge of 0.
+- Cypher Use: You can bear two cyphers at a time.
+- Starting Equipment: Appropriate clothing and a weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.
+- Weapons: You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.
 
 Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 - Block
@@ -859,7 +872,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Surging Confidence
 - Trained Without Armor
 
-#### SECOND-TIER EXPLORER
+**SECOND-TIER EXPLORER**
 
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Curious
@@ -877,7 +890,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 - Travel Skills
 - Wreck
 
-#### THIRD-TIER EXPLORER
+**THIRD-TIER EXPLORER**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Controlled Fall
@@ -894,7 +907,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Trapfinder
 - Wrest From Chance
 
-#### FOURTH-TIER EXPLORER
+**FOURTH-TIER EXPLORER**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Capable Warrior
@@ -905,7 +918,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Subtle Steps
 - Tough As Nails
 
-#### FIFTH-TIER EXPLORER
+**FIFTH-TIER EXPLORER**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
@@ -919,7 +932,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Take Command
 - Vigilant
 
-#### SIXTH-TIER EXPLORER
+**SIXTH-TIER EXPLORER**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
@@ -931,7 +944,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Spin Attack
 - Wild Vitality
 
-#### EXPLORER EXAMPLE
+**EXPLORER EXAMPLE**
 
 Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.
 
@@ -949,6 +962,8 @@ For their character arc, Sam chooses Enterprise. Exploring alien places sometime
 
 ### SPEAKER
 
+Speaker #Type #Core 
+
 - Fantasy/Fairy tale: bard, speaker, skald, emissary, priest, advocate
 - Modern/Horror/Romance: diplomat, charmer, face, spinner, manipulator, minister, mediator, lawyer
 - Science fiction: diplomat, empath, glam, consul, legate
@@ -964,8 +979,7 @@ Societal Role: Speakers are frequently political or religious leaders. Just as o
 
 Advanced Speakers: Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
-#### SPEAKER PLAYER INTRUSIONS
-
+**SPEAKER PLAYER INTRUSIONS**
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
 Friendly NPC: An NPC you don’t know, someone you don’t know that well, or someone you know but who hasn’t been particularly friendly in the past chooses to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a favor in return afterward, depending on how much trouble they go to.
@@ -974,7 +988,7 @@ Perfect Suggestion: A follower or other already-friendly NPC suggests a course o
 
 Unexpected Gift: An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
 
-#### SPEAKER STAT POOLS
+**SPEAKER STAT POOLS**
 
 |Stat|Pool Starting Value|
 |---|---|
@@ -984,7 +998,7 @@ Unexpected Gift: An NPC hands you a physical gift you were not expecting, one th
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-#### Speaker Background Connection
+**Speaker Background Connection**
 
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
@@ -1011,7 +1025,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You are in a close romantic relationship with someone in local politics.|
 |20|Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|
 
-#### FIRST-TIER SPEAKER
+**FIRST-TIER SPEAKER**
 
 First-tier speakers have the following abilities:
 - Effort: Your Effort is 1.
@@ -1036,7 +1050,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Terrifying Presence
 - Understanding
 
-#### SECOND-TIER SPEAKER
+**SECOND-TIER SPEAKER**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Basic Follower
@@ -1051,7 +1065,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Speedy Recovery
 - Unexpected Betrayal
 
-#### THIRD-TIER SPEAKER
+**THIRD-TIER SPEAKER**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Accelerate
@@ -1067,7 +1081,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Quick Wits
 - Telling
 
-#### FOURTH-TIER SPEAKER
+**FOURTH-TIER SPEAKER**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Anticipate Attack
@@ -1080,7 +1094,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Strategize
 - Suggestion
 
-#### FIFTH-TIER SPEAKER
+**FIFTH-TIER SPEAKER**
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
@@ -1093,7 +1107,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Skill With Attacks
 - Stimulate
 
-#### SIXTH-TIER SPEAKER
+**SIXTH-TIER SPEAKER**
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Assume Control
@@ -1105,7 +1119,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - True Senses
 - Word of Command
 
-#### SPEAKER EXAMPLE
+**SPEAKER EXAMPLE**
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
@@ -1120,32 +1134,6 @@ Mary chooses Resilient for her descriptor and decides that she can probably lear
 For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 
 For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.
-
-### FURTHER CUSTOMIZATION
-
-The rules in this section are more advanced and always involve the GM. They can be used by the GM to tailor a type to better fit the genre or setting, or by a player and a GM to tweak a character to fit a concept.
-
-### MODIFYING TYPE ASPECTS
-
-The following aspects of the four character types can be modified at character creation. Other abilities should not be changed.
-
-Stat Pools: Each character type has a starting stat Pool value. A player can exchange points between their Pools on a one-for-one basis. For example, they can trade 2 points of Might for 2 points of Speed. However, no starting stat Pool should be higher than 20.
-
-Edge: A player can start with an Edge of 1 in whichever stat they wish.
-
-Cypher Use: If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.
-
-Weapons: Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
-
-### DRAWBACKS AND PENALTIES
-
-In addition to other customization options, a player can choose to take drawbacks or penalties to gain further advantages.
-
-Weakness: A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.
-
-Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
-
-Inabilities: Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game).
 
 ## Flavor
 
@@ -1163,9 +1151,11 @@ The full description for each listed ability can be found in the Abilities chapt
 
 ### STEALTH FLAVOR
 
+Stealth #Flavor #Core 
+
 Characters with the stealth flavor are good at sneaking around, infiltrating places they don’t belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.
 
-#### FIRST-TIER STEALTH ABILITIES
+**FIRST-TIER STEALTH ABILITIES**
 
 - Danger Sense
 - Goad
@@ -1173,7 +1163,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 - Opportunist
 - Stealth Skills
 
-#### SECOND-TIER STEALTH ABILITIES
+**SECOND-TIER STEALTH ABILITIES**
 
 - Contortionist
 - Find an Opening
@@ -1181,7 +1171,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 - Sense Ambush
 - Surprise Attack
 
-#### THIRD-TIER STEALTH ABILITIES
+**THIRD-TIER STEALTH ABILITIES**
 
 - Evanesce
 - From the Shadows
@@ -1191,7 +1181,7 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 - Run and Fight
 - Seize the Moment
 
-#### FOURTH-TIER STEALTH ABILITIES
+**FOURTH-TIER STEALTH ABILITIES**
 
 - Ambusher
 - Debilitating Strike
@@ -1199,14 +1189,14 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 - Preternatural Senses
 - Tumbling Moves
 
-#### FIFTH-TIER STEALTH ABILITIES
+**FIFTH-TIER STEALTH ABILITIES**
 
 - Assassin Strike
 - Mask
 - Return to Sender
 - Uncanny Luck
 
-#### SIXTH-TIER STEALTH ABILITIES
+**SIXTH-TIER STEALTH ABILITIES**
 
 - Exploit Advantage
 - Spring Away
@@ -1215,12 +1205,14 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 
 ### TECHNOLOGY FLAVOR
 
+Technology #Flavor #Core 
+
 Characters with a flavor of technology typically are from science fiction or at least modern-day  
 settings (although anything is possible). They excel at using, dealing with, and building machines. An Explorer with technology flavor might be a starship pilot, and a Speaker flavored with technology could be a techno-priest.
 
 Some of the less computer-oriented abilities might be appropriate for a steampunk character, while a modern-day character could use some of the abilities that don’t involve starships or ultratech.
 
-#### FIRST-TIER TECHNOLOGY ABILITIES
+**FIRST-TIER TECHNOLOGY ABILITIES**
 
 - Datajack
 - Hacker
@@ -1229,7 +1221,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 - Tech Skills
 - Tinker
 
-#### SECOND-TIER TECHNOLOGY ABILITIES
+**SECOND-TIER TECHNOLOGY ABILITIES**
 
 - Distant Interface
 - Machine Efficiency
@@ -1239,7 +1231,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 - Serv-0 Repair
 - Tool Mastery
 
-#### THIRD-TIER TECHNOLOGY ABILITIES
+**THIRD-TIER TECHNOLOGY ABILITIES**
 
 - Mechanical Telepathy
 - Serv-0 Scanner
@@ -1247,7 +1239,7 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 - Shipspeak
 - Spray
 
-#### FOURTH-TIER TECHNOLOGY ABILITIES
+**FOURTH-TIER TECHNOLOGY ABILITIES**
 
 - Machine Bond
 - Robot Fighter
@@ -1255,24 +1247,26 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 - Serv-0 Brawler
 - Serv-0 Spy
 
-#### FIFTH-TIER TECHNOLOGY ABILITIES
+**FIFTH-TIER TECHNOLOGY ABILITIES**
 
 - Control Machine
 - Jury-Rig
 - Machine Companion
 
-#### SIXTH-TIER TECHNOLOGY ABILITIES
+**SIXTH-TIER TECHNOLOGY ABILITIES**
 
 - Information Gathering
 - Master Machine
 
 ### MAGIC FLAVOR
 
+Magic #Flavor #Core 
+
 You know a little about magic. You might not be a wizard, but you know the basics—how it works, and how to accomplish a few wondrous things. Of course, in your setting, “magic” might actually mean psychic powers, mutant abilities, weird alien tech, or anything else that produces interesting and useful effects.
 
 An Explorer flavored with magic might be a wizard-hunter, and a Speaker with magical flavor might be a sorcerer-bard. Although an Adept flavored with magic is still an Adept, you might find that swapping some of the type’s basic abilities with those given here tailors the character in desirable ways.
 
-#### FIRST-TIER MAGIC ABILITIES
+**FIRST-TIER MAGIC ABILITIES**
 
 - Blessing of the Gods
 - Closed Mind
@@ -1282,7 +1276,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 - Mental Link
 - Premonition
 
-#### SECOND-TIER MAGIC ABILITIES
+**SECOND-TIER MAGIC ABILITIES**
 
 - Concussive Blast
 - Fetch
@@ -1290,7 +1284,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 - Lock
 - Repair Flesh
 
-#### THIRD-TIER MAGIC ABILITIES
+**THIRD-TIER MAGIC ABILITIES**
 
 - Distance Viewing
 - Fire Bloom
@@ -1298,13 +1292,13 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 - Force at Distance
 - Summon Giant Spider
 
-#### FOURTH-TIER MAGIC ABILITIES
+**FOURTH-TIER MAGIC ABILITIES**
 
 - Elemental Protection
 - Ignition
 - Pry Open
 
-#### FIFTH-TIER MAGIC ABILITIES
+**FIFTH-TIER MAGIC ABILITIES**
 
 - Create
 - Divine Intervention
@@ -1312,7 +1306,7 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 - Fast Travel
 - True Senses
 
-#### SIXTH-TIER MAGIC ABILITIES
+**SIXTH-TIER MAGIC ABILITIES**
 
 - Relocate
 - Summon Demon
@@ -1321,28 +1315,30 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 ### COMBAT FLAVOR
 
+Combat #Flavor #Core
+
 Combat flavor makes a character more martial. A Speaker with combat flavor in a fantasy setting would be a battle bard. An Explorer with combat flavor in a historical game might be a pirate. An Adept flavored with combat in a science fiction setting could be a veteran of a thousand psychic wars.
 
-#### FIRST-TIER COMBAT ABILITIES
+**FIRST-TIER COMBAT ABILITIES**
 
 - Danger Sense
 - Practiced in Armor
 - Practiced With Medium Weapons
 
-#### SECOND-TIER COMBAT ABILITIES
+**SECOND-TIER COMBAT ABILITIES**
 
 - Bloodlust
 - Combat Prowess
 - Trained Without Armor
 
-#### THIRD-TIER COMBAT ABILITIES
+**THIRD-TIER COMBAT ABILITIES**
 
 - Practiced With All Weapons
 - Skill With Attacks
 - Skill With Defense
 - Successive Attack
 
-#### FOURTH-TIER COMBAT ABILITIES
+**FOURTH-TIER COMBAT ABILITIES**
 
 - Capable Warrior
 - Deadly Aim
@@ -1350,13 +1346,13 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 - Misdirect
 - Spray
 
-#### FIFTH-TIER COMBAT ABILITIES
+**FIFTH-TIER COMBAT ABILITIES**
 
 - Experienced Defender
 - Hard Target
 - Parry
 
-#### SIXTH-TIER COMBAT ABILITIES
+**SIXTH-TIER COMBAT ABILITIES**
 
 - Greater Skill With Attacks
 - Mastery in Armor
@@ -1364,12 +1360,14 @@ Combat flavor makes a character more martial. A Speaker with combat flavor in a 
 
 ### SKILLS AND KNOWLEDGE FLAVOR
 
+Skills and Knowledge #Flavor #Core 
+
 This flavor is for characters in roles that call for more knowledge and more real-world application of talent. It’s less flashy and dramatic than supernatural powers or the ability to hack apart multiple foes, but sometimes expertise or  
 know-how is the real solution to a problem.
 
 A Warrior flavored with skills and knowledge might be a military engineer. An Explorer flavored with skills and knowledge could be a field scientist. A Speaker with this flavor might be a teacher.
 
-#### FIRST-TIER SKILLS AND KNOWLEDGE ABILITIES
+**FIRST-TIER SKILLS AND KNOWLEDGE ABILITIES**
 
 - Interaction Skills
 - Investigative Skills
@@ -1377,29 +1375,29 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 - Physical Skills
 - Travel Skills
 
-#### SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES
+**SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES**
 
 - Extra Skill
 - Tool Mastery
 - Understanding
 
-#### THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES
+**THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES**
 
 - Flex Skill
 - Improvise
 
-#### FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+**FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES**
 
 - Multiple Skills
 - Quick Wits
 - Task Specialization
 
-#### FIFTH-TIER SKILLS ANd KNOWLEDGE ABILITIES
+**FIFTH-TIER SKILLS AND KNOWLEDGE ABILITIES**
 
 - Practiced With Medium Weapons
 - Read the Signs
 
-#### SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+**SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES**
 
 - Skill With Attacks
 - Skill With Defense
@@ -1415,6 +1413,30 @@ Descriptors also offer a few brief suggestions for how your character got involv
 This section details fifty descriptors. Choose one of them for your character. You can pick any descriptor you wish regardless of your type. At the end of this chapter, a few options are provided for Customizing Descriptors, including making a character’s species their descriptor.
 
 (Your descriptor matters most when you are a beginning character. The benefits (and perhaps drawbacks) that come from your descriptor will eventually be overshadowed by the growing importance of your type and focus. However, the influence of your descriptor will remain at least somewhat important throughout your character’s life.)
+
+**CUSTOMIZING DESCRIPTORS**
+
+Under the normal rules, each descriptor is based on some modification of the following guidelines:
+
+Some descriptors offer +4 to one stat Pool and either two narrow skills or one broad skill.
+
+Other descriptors offer +2 to one stat Pool and either three narrow skills or one narrow skill and one broad skill.
+
+A broad skill covers many areas (such as all interactions). A narrow skill covers fewer areas (such as deceptive interactions). Combat-related skills, such as defense or initiative, are considered broad skills in this sense.
+
+Regardless, you can add an additional skill if it is balanced by an inability.
+
+You can add other non-skill abilities by eyeballing them and trying to equate them to the value of a skill, if possible. If the descriptor seems lacking, add a moderately priced item as additional equipment to balance things out.
+
+With this general information, you can customize a descriptor, but keep in mind that a heavily customized descriptor isn’t a descriptor if it no longer says one thing about a character. It’s better to use this information to create a new descriptor that fits exactly how the player wants to portray the character.
+
+**SPECIES AS DESCRIPTOR**
+
+Sometimes, in settings that have alien or fantasy species, players want to play a member of that species rather than the default (which is usually “human”). Most of the time, this choice is one of flavor rather than game mechanics. If you’re a 7-foot-tall furry Rigellian with three eyes, that’s great, but it doesn’t change your stats or skills (though it may have roleplaying challenges).
+
+However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the Strong or Tough descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to Strong or Tough but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a Tough Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
+
+The Genre chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a Mysterious character and a Virtuous one are probably greater than those between an Alpha Centauran and an Earthling.
 
 DESCRIPTORS
 
@@ -1471,6 +1493,8 @@ DESCRIPTORS
 
 ### APPEALING
 
+Appealing #Descriptor #Core 
+
 You’re attractive to others, but perhaps more important, you are likeable and charismatic. You’ve got that “special something” that draws others to you. You often know just the right thing to say to make someone laugh, put them at ease, or spur them to action. People like you, want to help you, and want to be your friend.
 
 You gain the following characteristics:
@@ -1485,6 +1509,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. Your charismatic ways helped get one of the PCs out of a difficult spot a long time ago, and they always ask you to join them on new adventures.
 
 ### BENEFICENT
+
+Beneficent #Descriptor #Core 
 
 Helping others is your calling. It’s why you’re here. Others delight in your outgoing and charitable nature, and you delight in their happiness. You’re at your best when you’re aiding people, either by explaining how they can best overcome a challenge or by demonstrating how to do so yourself.
 
@@ -1503,6 +1529,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### BRASH
 
+Brash #Descriptor #Core 
+
 You’re a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don’t agree with. Some people call you bold and brave, but those you’ve put in their place might call you puffed up and arrogant. Whatever. It’s not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first.
 
 You gain the following characteristics:
@@ -1517,6 +1545,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You told your friend that nothing could scare you, and nothing you saw would change your mind. They brought you to your current point.
 
 ### CALM
+
+Calm #Descriptor #Core 
 
 You’ve spent most of your life in sedentary pursuits—books, movies, hobbies, and so on—rather than active ones. You’re well versed in all manner of academia or other intellectual pursuits, but nothing physical. You’re not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.
 
@@ -1537,6 +1567,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### CHAOTIC
 
+Chaotic #Descriptor #Core 
+
 Danger doesn’t mean much to you, mainly because you don’t think much about repercussions. In fact, you enjoy sowing surprises, just to see what will happen. The more unexpected the result, the happier you are. Sometimes you are particularly manic, and for the sake of your companions, you restrain yourself from taking actions that you know will lead to disaster.
 
 You gain the following characteristics:
@@ -1552,6 +1584,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You have no idea how you joined the PCs. You’re just going along with it for now until answers present themselves.
 
 ### CHARMING
+
+Charming #Descriptor #Core 
 
 You’re a smooth talker and a charmer. Whether through seemingly supernatural means or just a way with words, you can convince others to do as you wish. Most likely, you’re physically attractive or at least highly charismatic, and others enjoy listening to your voice. You probably pay attention to your appearance, keeping yourself well groomed. You make friends easily. You play up the personality facet of your Intellect stat; intelligence is not your strong suit. You’re personable, but not necessarily studious or strong-willed.
 
@@ -1572,6 +1606,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### CLEVER
 
+Clever #Descriptor #Core 
+
 You’re quick-witted, thinking well on your feet. You understand people, so you can fool them but are rarely fooled. Because you easily see things for what they are, you get the lay of the land swiftly, size up threats and allies, and assess situations with accuracy. Perhaps you’re physically attractive, or maybe you use your wit to overcome any physical or mental imperfections.
 
 You gain the following characteristics:
@@ -1589,6 +1625,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You suspect that the other PCs won’t succeed without you.
 
 ### CLUMSY
+
+Clumsy #Descriptor #Core 
 
 Graceless and awkward, you were told that you’d grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.
 
@@ -1609,6 +1647,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You stumbled into the PCs as they were discussing their mission, and they took a liking to you.
 
 ### CRAVEN
+
+Craven #Descriptor #Core 
 
 Courage fails you at every turn. You lack the willpower and resolve to stand fast in the face of danger. Fear gnaws at your heart, chewing away at your mind, driving you to distraction until you cannot bear it. Most times, you back down from confrontations. You flee from threats and vacillate when faced with difficult decisions.
 
@@ -1633,6 +1673,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### CREATIVE
 
+Creative #Descriptor #Core 
+
 Maybe you have a notebook where you write down ideas so you can develop them later. Perhaps you email yourself ideas that strike you out of the blue so you can sort them in an electronic document. Or maybe you just sit down, stare at your screen and, by indomitable force of will, produce something from nothing. However your gift works, you’re creative—you code, write, compose, sculpt, design, direct, or otherwise create narratives that enthrall other people with your vision.
 
 You gain the following characteristics:
@@ -1650,6 +1692,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. A creative life is often one beset with financial hurdles. You joined the PCs because you hoped it would be profitable.
 
 ### CRUEL
+
+Cruel #Descriptor #Core 
 
 Misfortune and suffering do not move you. When another endures hardship, you find it hard to care, and you may even enjoy the pain and difficulty the person experiences if they’ve done you wrong in the past. Your cruel streak may derive from bitterness brought about by your own struggles and disappointments. You might be a hard pragmatist, doing what you feel you must even if others are worse for it. Or you could be a sadist, delighting in the pain you inflict.
 
@@ -1673,6 +1717,8 @@ advantage from helping the other PCs and may be able to use that advantage again
 
 ### DISHONORABLE
 
+Dishonorable #Descriptor #Core 
+
 There is no honor among thieves—or betrayers, backstabbers, liars, or cheats. You are all of these things, and either you don’t lose any sleep over it, or you deny the truth to others or to yourself. Regardless, you are willing to do whatever it takes to get your own way. Honor, ethics, and principles are merely words. In your estimation, they have no place in the real world.
 
 You gain the following characteristics:
@@ -1691,6 +1737,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### DOOMED
 
+Doomed #Descriptor #Core 
+
 You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.
 
 You gain the following characteristics:
@@ -1707,6 +1755,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You suspect that the only hope you have of avoiding your fate might lie on this path.
 
 ### EMPATHIC
+
+Empathic #Descriptor #Core 
 
 Other people are open books to you. You may have a knack for reading a person’s tells, those subtle movements that convey an individual’s mood and disposition. Or you may receive information in a more direct way, feeling a person’s emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.
 
@@ -1726,6 +1776,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### EXILED
 
+Exiled #Descriptor #Core 
+
 You have walked a long and lonely road, leaving your home and your life behind. You might have committed a heinous crime, something so awful that your people forced you out, and if you dare return, you face death. You might have been accused of a crime you didn’t commit and now must pay the price for someone else’s wicked deed. Your exile might be the result of a social gaffe—perhaps you shamed your family or a friend, or you embarrassed yourself in front of your peers, an authority, or someone you respect. Whatever the reason, you have left your old life behind and now strive to make a new one.
 
 You gain the following characteristics:
@@ -1744,6 +1796,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### FAST
 
+Fast #Descriptor #Core 
+
 You’re fleet of foot. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.
 
 You gain the following characteristics:
@@ -1759,6 +1813,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. This mission ties in with a personal goal of your own.
 
 ### FOOLISH
+
+Foolish #Descriptor #Core 
 
 Not everyone can be brilliant. Oh, you don’t think of yourself as stupid, and you’re not. It’s just that others might have a bit more . . . wisdom. Insight. You prefer to barrel along headfirst through life and let other people worry about things. Worrying’s never helped you, so why bother? You take things at face value and don’t fret about what tomorrow might bring.
 
@@ -1781,6 +1837,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### GRACEFUL
 
+Graceful #Descriptor #Core 
+
 You have a perfect sense of balance, moving and speaking with grace and beauty. You’re quick, lithe, flexible, and dexterous. Your body is perfectly suited to dance, and you use that advantage in combat to dodge blows. You might wear garments that enhance your agile movement and sense of style.
 
 You gain the following characteristics:
@@ -1796,6 +1854,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. There is reward involved, and you need the money.
 
 ### GUARDED
+
+Guarded #Descriptor #Core 
 
 You conceal your true nature behind a mask and are loath to let anyone see who you really are. Protecting yourself, physically and emotionally, is what you care about most, and you prefer to keep everyone else at a safe distance. You may be suspicious of everyone you meet, expecting the worst from people so you won’t be surprised when they prove you right. Or you might just be a bit reserved, careful about letting people through your gruff exterior to the person you really are.
 
@@ -1814,6 +1874,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. The PCs are the only people who will put up with you.
 
 ### HARDY
+
+Hardy #Descriptor #Core 
 
 Your body was built to take abuse. Whether you’re pounding down stiff drinks while holding up a bar in your favorite watering hole or trading blows with a thug in a back alley, you keep going, shrugging off hurts and injuries that might slow or incapacitate a lesser person. Neither hunger nor thirst, cut flesh nor broken bone can stop you. You just press on through the pain and continue.
 
@@ -1835,6 +1897,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### HIDEOUS
 
+Hideous #Descriptor #Core 
+
 You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.
 
 You’ve more than made up for your appearance in other ways, however. Because you have to hide your appearance, you excel at sneaking about unnoticed or disguising yourself. But perhaps most important, being ostracized while others socialized, you took the time growing up to develop yourself as you saw fit—you grew strong or quick, or you honed your mind.
@@ -1853,6 +1917,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### HONORABLE
 
+Honorable #Descriptor #Core 
+
 You are trustworthy, fair, and forthright. You try to do what is right, to help others, and to treat them well. Lying and cheating are no way to get ahead—these things are for the weak, the lazy, or the despicable. You probably spend a lot of time thinking about your personal honor, how best to maintain it, and how to defend it if challenged. In combat, you are straightforward and offer quarter to any foe.
 
 You were likely instilled with this sense of honor by a parent or a mentor. Sometimes the distinction between what is and isn’t honorable varies with different schools of thought, but in broad strokes, honorable people can agree on most aspects of what honor means.
@@ -1869,6 +1935,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You asked politely if you could join the other PCs in their mission.
 
 ### IMPULSIVE
+
+Impulsive #Descriptor #Core 
 
 You have a hard time tamping down your enthusiasm. Why wait when you can just do it (whatever it is) and get it done? You deal with problems when they arise rather than plan ahead. Putting out the small fires now prevents them from becoming one big fire later. You are the first to take risks, to jump in and lend a hand, to step into dark passages, and to find danger.
 
@@ -1890,6 +1958,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### INQUISITIVE
 
+Inquisitive #Descriptor #Core 
+
 The world is vast and mysterious, with wonders and secrets to keep you amazed for several lifetimes. You feel the tugging on your heart, the call to explore the wreckage of past civilizations, to discover new peoples, new places, and whatever bizarre wonders you might find along the way. However, as strongly as you feel the pull to roam the world, you know there is danger aplenty, and you take precautions to ensure that you are prepared for any eventuality. Research, preparation, and readiness will help you live long enough to see everything you want to see and do everything you want to do.
 
 You probably have a dozen books and travelogues about the world on you at any time. When not hitting the road and looking around, you spend your time with your nose in a book, learning everything you can about the place you’re going so you know what to expect when you get there.
@@ -1910,6 +1980,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### INTELLIGENT
 
+Intelligent #Descriptor #Core 
+
 You’re quite smart. Your memory is sharp, and you easily grasp concepts that others might struggle with. This aptitude doesn’t necessarily mean that you’ve had years of formal education, but you have learned a great deal in your life, primarily because you pick things up quickly and retain so much.
 
 You gain the following characteristics:
@@ -1924,6 +1996,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. A colleague requested that you take part in the mission as a favor.
 
 ### INTUITIVE
+
+Intuitive #Descriptor #Core 
 
 You are often tickled by a sense of knowing what someone will say, how they will react, or how events might unfold. Maybe you have a mutant sense, maybe you can see just a few moments ahead through time, or maybe you’re just good at reading people and extrapolating a situation. Whatever the case, many who look into your eyes immediately glance away, as if afraid of what you might see in their expression.
 
@@ -1940,6 +2014,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### JOVIAL
 
+Jovial #Descriptor #Core 
+
 You’re cheerful, friendly, and outgoing. You put others at ease with a big smile and a joke, possibly one at your own expense, though lightly ribbing your companions who can take it is also one of your favorite pastimes. Sometimes people say you never take anything seriously. That’s not true, of course, but you have learned that to dwell on the bad too long quickly robs the world of joy. You’ve always got a new joke in your back pocket because you collect them like some people collect bottles of wine.
 
 You gain the following characteristics:
@@ -1954,6 +2030,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. It was either go with the PCs or face up to a circumstance that was anything but jovial.
 
 ### KIND
+
+Kind #Descriptor #Core 
 
 It’s always been easy for you to see things from the point of view of other people. That ability has made you sympathetic to what they really want or need. From your perspective, you’re just applying the old proverb that “it’s easier to catch flies with honey than with vinegar,” but others simply see your behavior as kindness. Of course, being kind takes time, and yours is limited. You’ve learned that a small fraction of people don’t deserve your time or kindness—true sadists, narcissists, and similar folk will only waste your energy. So you deal with them swiftly, saving your kindness for those who deserve it and can benefit from your attention.
 
@@ -1971,6 +2049,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### LEARNED
 
+Learned #Descriptor #Core 
+
 You have studied, either on your own or with an instructor. You know many things and are an expert on a few topics, such as history, biology, geography, mythology, nature, or any other area of study. Learned characters typically carry a few books around with them and spend their spare time reading.
 
 You gain the following characteristics:
@@ -1987,6 +2067,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### LUCKY
 
+Lucky #Descriptor #Core 
+
 You rely on chance and timely good luck to get you through many situations. When people say that someone was born under a lucky star, they mean you. When you try your hand at something new, no matter how unfamiliar the task is, as often as not you find a measure of success. Even when disaster strikes, it’s rarely as bad as it could be. More often, small things seem to go your way, you win contests, and you’re often in the right place at the right time.
 
 You gain the following characteristics:
@@ -2002,6 +2084,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. Your luck saved you when you avoided a speeding vehicle by a fortuitous fall through an opening in the ground (a manhole, if in a modern setting). Beneath the ground, you found something you couldn’t ignore.
 
 ### MAD
+
+Mad #Descriptor #Core 
 
 You have delved too deeply into subjects people were not meant to know. You are knowledgeable in things beyond the scope of most, but this knowledge has come at a terrible price. You are likely in questionable physical shape and occasionally shake with nervous tics. You sometimes mutter to yourself without realizing it.
 
@@ -2020,6 +2104,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### MECHANICAL
 
+Mechanical #Descriptor #Core 
+
 You have a special talent with machines of all kinds, and you’re adept at understanding and, if need be, repairing them. Perhaps you’re a bit of an inventor, creating new machines from time to time. You get called “techie,” “tech,” “mech,” “gear-head,” “motor-head,” or any of a number of other nicknames. Mechanics usually wear practical work clothes and carry around a lot of tools.
 
 You gain the following characteristics:
@@ -2036,6 +2122,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### MYSTERIOUS
 
+Mysterious #Descriptor #Core 
+
 The dark figure lurking silently in the corner? That’s you. No one really knows where you came from or what your motives are—you play things close to the vest. Your manner perplexes and confounds others, but that doesn’t make you a poor friend or ally. You’re just good at keeping things to yourself, moving about unseen, and concealing your presence and identity.
 
 You gain the following characteristics:
@@ -2051,6 +2139,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. Something—a feeling, a dream—told you where to be and when to join the group.
 
 ### MYSTICAL
+
+Mystical #Descriptor #Core 
 
 You think of yourself as mystical, attuned with the mysterious and the paranormal. Your true talents lie with the supernatural. You likely have experience with ancient lore, and you can sense and wield the supernatural—though whether that means “magic,” “psychic phenomena,” or something else is up to you (and probably up to those around you as well). Mystical characters often wear jewelry, such as a ring or an amulet, or have tattoos or other marks that show their interests.
 
@@ -2069,6 +2159,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### NAIVE
 
+Naive #Descriptor #Core 
+
 You’ve lived a sheltered life. Your childhood was safe and secure, so you didn’t get a chance to learn much about the world—and even less chance to experience it. Whether you were training for something, had your nose in a book, or just were sequestered in a secluded place, you haven’t done much, met many people, or seen many interesting things so far. That’s probably going to change soon, but as you go forward into a larger world, you do so without some of the understanding that others possess about how it all works.
 
 You gain the following characteristics:
@@ -2084,6 +2176,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. Sounded like fun.
 
 ### PERCEPTIVE
+
+Perceptive #Descriptor #Core 
 
 You miss little. You pick out the small details in the world around you and are skilled at making deductions from the information you find. Your talents make you an exceptional sleuth, a formidable scientist, or a talented scout.
 
@@ -2105,6 +2199,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### RESILIENT
 
+Resilient #Descriptor #Core 
+
 You can take a lot of punishment, both physically and mentally, and still come back for more. It takes a lot to put you down. Neither physical nor mental shocks or damage have a lasting effect. You’re tough to faze. Unflappable. Unstoppable.
 
 You gain the following characteristics:
@@ -2123,6 +2219,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### RISK-TAKING
 
+Risk-Taking #Descriptor #Core 
+
 It’s part of your nature to question what others think can’t or shouldn’t be done. You’re not insane, of course—you wouldn’t attempt to leap across a mile-wide chasm just because you were dared. There’s impossible and then there’s the just barely possible. You like to push the latter further than others, because it gives you a rush of satisfaction and pleasure when you succeed. The more you succeed, the more you find yourself looking for that next risky challenge to try yourself against.
 
 You gain the following characteristics:
@@ -2138,6 +2236,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You bragged that you never saw a risk you didn’t like, which is how you reached your current point.
 
 ### RUGGED
+
+Rugged #Descriptor #Core 
 
 You’re a nature lover accustomed to living rough, pitting your wits against the elements. Most likely, you’re a skilled hunter, gatherer, or naturalist. Years of living in the wild have left their mark with a worn countenance, wild hair, or scars. Your clothing is probably much less refined than the garments worn by city dwellers.
 
@@ -2156,6 +2256,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### SHARP-EYED
 
+Sharp-Eyed #Descriptor #Core 
+
 You’re perceptive and well aware of your surroundings. You notice the little details and remember them. You can be difficult to surprise.
 
 You gain the following characteristics:
@@ -2171,6 +2273,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### SKEPTICAL
 
+Skeptical #Descriptor #Core 
+
 You possess a questioning attitude regarding claims that are often taken for granted by others. You’re not necessarily a “doubting Thomas” (a skeptic who refuses to believe anything without direct personal experience), but you’ve often benefited from questioning the statements, opinions, and received knowledge presented to you by others.
 
 You gain the following characteristics:
@@ -2185,6 +2289,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You need money to fund your research.
 
 ### STEALTHY
+
+Stealthy #Descriptor #Core 
 
 You’re sneaky, slippery, and fast. These talents help you hide, move quietly, and pull off tricks that require sleight of hand. Most likely, you’re wiry and small. However, you’re not much of a sprinter—you’re more dexterous than fleet of foot.
 
@@ -2203,6 +2309,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### STRONG
 
+Strong #Descriptor #Core 
+
 You’re extremely strong and physically powerful, and you use these qualities well, whether through violence or feats of prowess. You likely have a brawny build and impressive muscles.
 
 You gain the following characteristics:
@@ -2218,6 +2326,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. There is reward involved, and you need the money.
 
 ### STRONG-WILLED
+
+Strong-Willed #Descriptor #Core 
 
 You’re tough-minded, willful, and independent. No one can talk you into anything or change your mind when you don’t want it changed. This quality doesn’t necessarily make you smart, but it does make you a bastion of willpower and resolve. You likely dress and act with unique style and flair, not caring what others think.
 
@@ -2235,6 +2345,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### SWIFT
 
+Swift #Descriptor #Core 
+
 You move quickly, able to sprint in short bursts and work with your hands with dexterity. You’re great at crossing distances quickly but not always smoothly. You are likely slim and muscular.
 
 You gain the following characteristics:
@@ -2250,6 +2362,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. There is reward involved, and you need the money.
 
 ### TONGUE-TIED
+
+Tongue-Tied #Descriptor #Core 
 
 You’ve never been much of a talker. When forced to interact with others, you never think of the right thing to say—words fail you entirely, or they come out all wrong. You often end up saying precisely the wrong thing and insult someone unintentionally. Most of the time, you just keep mum. This makes you a listener instead—a careful observer. It also means that you’re better at doing things than talking about them. You’re quick to take action.
 
@@ -2268,6 +2382,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### TOUGH
 
+Tough #Descriptor #Core 
+
 You’re strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.
 
 You gain the following characteristics:
@@ -2283,6 +2399,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You stepped in to defend one of the PCs when that character was threatened. While talking to them afterward, you heard about the group’s task.
 
 ### VICIOUS
+
+Vicious #Descriptor #Core 
 
 You try to hide what’s inside, fold it into yourself when everything inside you screams to let go, make them pay, make them hurt, and make them bleed. Sometimes you succeed for your friends—smiling like they smile, laughing when they laugh, and sometimes even having other emotions of your own. But it’s always there, that feeling of frantic glee mixed with hate that sometimes leaps out of you when you confront a foe. Violence your friends can tolerate, but you sometimes worry they will also learn that you are cruel.
 
@@ -2300,6 +2418,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ### VIRTUOUS
 
+Virtous #Descriptor #Core 
+
 Doing the right thing is a way of life. You live by a code, and that code is something you attend to every day. Whenever you slip, you reproach yourself for your weakness and then get right back on track. Your code probably includes moderation, respect for others, cleanliness, and other characteristics that most people would agree are virtues, while you eschew their opposites: sloth, greed, gluttony, and so on.
 
 You gain the following characteristics:
@@ -2314,6 +2434,8 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You put virtue before sense and defended someone’s honor in the face of an organization or power far greater than you. You joined the PCs because they offered aid and friendship when, out of fear of reprisals, no one else would.
 
 ### WEIRD
+
+Weird #Descriptor #Core 
 
 You aren’t like anyone else, and that’s fine with you. People don’t seem to understand you—they even seem put off by you—but who cares? You understand the world better than they do because you’re weird, and so is the world you live in. The concept of “the weird” is well known to you. Strange devices, ancient locales, bizarre creatures, storms that can transform you, living energy fields, conspiracies, aliens, and things most people can’t even name populate the world, and you thrive on them. You have a special attachment to it all, and the more you discover about the weirdness in the world, the more you might discover about yourself.
 
@@ -2331,30 +2453,6 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 2. Whether the other PCs realize it or not, their mission has to do with something weird that you know about, so you got involved.
 3. As an expert in the weird, you were specifically recruited by the other PCs.
 4. You felt drawn to join the other PCs, but you don’t know why.
-
-### CUSTOMIZING DESCRIPTORS
-
-Under the normal rules, each descriptor is based on some modification of the following guidelines:
-
-Some descriptors offer +4 to one stat Pool and either two narrow skills or one broad skill.
-
-Other descriptors offer +2 to one stat Pool and either three narrow skills or one narrow skill and one broad skill.
-
-A broad skill covers many areas (such as all interactions). A narrow skill covers fewer areas (such as deceptive interactions). Combat-related skills, such as defense or initiative, are considered broad skills in this sense.
-
-Regardless, you can add an additional skill if it is balanced by an inability.
-
-You can add other non-skill abilities by eyeballing them and trying to equate them to the value of a skill, if possible. If the descriptor seems lacking, add a moderately priced item as additional equipment to balance things out.
-
-With this general information, you can customize a descriptor, but keep in mind that a heavily customized descriptor isn’t a descriptor if it no longer says one thing about a character. It’s better to use this information to create a new descriptor that fits exactly how the player wants to portray the character.
-
-### SPECIES AS DESCRIPTOR
-
-Sometimes, in settings that have alien or fantasy species, players want to play a member of that species rather than the default (which is usually “human”). Most of the time, this choice is one of flavor rather than game mechanics. If you’re a 7-foot-tall furry Rigellian with three eyes, that’s great, but it doesn’t change your stats or skills (though it may have roleplaying challenges).
-
-However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the Strong or Tough descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to Strong or Tough but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a Tough Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
-
-The Genre chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a Mysterious character and a Virtuous one are probably greater than those between an Alpha Centauran and an Earthling.
 
 ## Focus
 
@@ -2456,1560 +2554,609 @@ You probably care more about your work than trivialities such as your appearance
 
 If you want to go even further, you could determine where a character’s focus abilities come from. Depending on the genre, they could derive those abilities from advanced and persistent training, via magical runes, through cybernetic parts, from their genetic heritage, or because of their access to advanced technology. For instance, a character might be able to blast targets with lightning because they got zapped by strange radiation or because they picked up a lightning gun. On the other hand, it might be because their intense training allowed them to learn lightning magic. The possibilities are nearly endless, and up to you to include or forgo. Because however a focus’s abilities were gained, it’s also enough that they just work.
 
-### FOCI
+### CUSTOMIZING FOCI
 
-The full description for each focus ability listed in this section is found in the Abilities chapter, which has descriptions for type, flavor, and focus abilities in a single vast catalog.
+Sometimes not everything about a focus is right for a character’s concept, or perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.
 
-#### Abides in Stone
+At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech  
+devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.
 
-Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.
+TIER 1
+- Combat Prowess
+- Enhanced Potential
 
-- Tier 1: Golem Body
-- Tier 1: Golem Healing
-- Tier 2: Golem Grip
-- Tier 3: Trained Basher
-- Tier 3: Golem Stomp or Weaponization
-- Tier 4: Deep Reserves
-- Tier 5: Specialized Basher
-- Tier 5: Still As a Statue
-- Tier 6: Ultra Enhancement or Mind Surge
+TIER 2
+- Lower-tier ability: choose any tier 1 replacement ability, above.
+- Skill With Defense
+- Practiced With All Weapons
+- Skill With Attacks
 
-GM Intrusions: Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.
+TIER 3
+- Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
+- Incredible Health
+- Fusion Armor
 
-#### Absorbs Energy
-You can harness kinetic energy and transform it into other kinds of energy.
+TIER 4
+- Lower-tier ability: choose any tier 1, 2, or 3 replacement ability, above.
+- Poison Resistance
+- Built-in Weaponry
 
-- Tier 1: Absorb Kinetic Energy
-- Tier 1: Release Energy
-- Tier 2: Energize Object
-- Tier 3: Absorb Pure Energy or Improved Absorb Kinetic Energy
-- Tier 4: Overcharge Energy
-- Tier 5: Energize Creature
-- Tier 6: Energize Crowd or Overcharge Device
+TIER 5
+- Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
+- Adaptation
+- Defensive Field
 
-GM Intrusions: Energy goes to ground in a destructive way. Some predators feed directly on energy. An unintended item is drained of energy.
+TIER 6
+- Lower-tier ability: choose any tier 1, 2, 3, 4, or 5 replacement ability, above.
+- Reactive Field
 
-#### Awakens Dreams
+### FOCUS CATEGORIES
 
-You can pull images from dreams and bring them to life in the waking world.
+#### ALLY USE
 
-- Tier 1: Dreamcraft
-- Tier 1: Oneirochemy
-- Tier 2: Dream Thief
-- Tier 3: Dream Becomes Reality or Enhanced Intellect
-- Tier 4: Daydream
-- Tier 5: Nightmare
-- Tier 6: Chamber of Dreams or Reactive Field
+Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character’s actions.
 
-GM Intrusions: An unexpected sleepwalking episode puts the character into a dangerous situation. A nightmare breaks free of a dream.
+Multiple potential themes exist within the ally use category, from abilities that allow a character to summon or craft allies to those that allow them to attract allies through fame, magic, or essential authority or charisma.
 
-#### Battles Robots
-You excel in battling robots, automatons, and machine entities.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-- Tier 1: Machine Vulnerabilities
-- Tier 1: Tech Skills
-- Tier 2: Defense Against Robots
-- Tier 2: Machine Hunting
-- Tier 3: Disable Mechanisms or Surprise Attack
-- Tier 4: Robot Fighter
-- Tier 5: Drain Power
-- Tier 6: Deactivate Mechanisms or Lethal Damage
+Additional Equipment: Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don’t require anything to gain or retain their benefits.
 
-GM Intrusions: The robot explodes upon defeat. Other robots come after the character for revenge.
+Minor Effect Suggestions: The NPC ally’s tasks are eased on its next turn.
 
-#### Bears a Halo of Fire
+Major Effect Suggestions: The NPC ally gains an immediate extra action.
 
-You can sheath your body in flames, which protects you and harms your foes.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Builds Robots
+- Consorts With the Dead
+- Controls Beasts
+- Exists in Two Places at Once
+- Leads
+- Masters the Swarm
+- Shepherds Spirits
 
-- Tier 1: Shroud of Flame
-- Tier 2: Hurl Flame
-- Tier 3: Wings of Fire or Fiery Hand of Doom
-- Tier 4: Flameblade
-- Tier 5: Fire Tendrils
-- Tier 6: Fire Servant or Inferno Trail
+**Ability Selection Guidelines**
 
-GM Intrusions: Fire burns flammable material. Fire spreads out of control. Primitive creatures fear fire and often attack what they fear.
+Tier 1: Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
 
-#### Blazes With Radiance
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. For instance, training in a skill related to the kind of NPC follower the character gains would be appropriate.
 
-You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.
+Tier 2: Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now.
 
-- Tier 1: Enlightened
-- Tier 1: Illuminating Touch
-- Tier 2: Dazzling Sunburst
-- Tier 3: Burning Light or Skill With Defense
-- Tier 4: Sunlight
-- Tier 5: Disappear
-- Tier 6: Living Light or Defensive Field
+Sometimes a secondary ability might be appropriate in addition to the ability provided above, perhaps a low-power ability that grants 2 or 3 points to a Pool.
 
-GM Intrusions: Allies are accidentally dazzled or blinded. Bright flashes draw guards.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Brandishes an Exotic Shield
+One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
 
-You deploy an amazing shield of pure force that provides protection and some offensive options.
+The other option should be something that benefits the character—perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
 
-- Tier 1: Force Field Shield
-- Tier 1: Force Bash
-- Tier 2: Enveloping Shield
-- Tier 3: Healing Pulse or Throw Force Shield
-- Tier 4: Energized Shield
-- Tier 5: Force Wall
-- Tier 6: Bouncing Shield or Shield Burst
+Tier 4: Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven’t previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
 
-GM Intrusions: The shield is temporarily lost. A foe temporarily ends up with the shield.
+Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
 
-#### Builds Robots
+Tier 5: Choose an ability that improves the character by providing a defense, an improved stat Pool, or another kind of protection.
 
-Your robotic creations do as they are commanded.
+Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
 
-(The word “robot” is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible “robots.”)
+Finally, this ability might improve a previously gained follower to level 5.
 
-- Tier 1: Robot Assistant
-- Tier 1: Robot Builder
-- Tier 2: Robot Control
-- Tier 3: Expert Follower or Skill With Defense
-- Tier 4: Robot Upgrade
-- Tier 5: Robot Fleet
-- Tier 6: Robot Evolution or Robot Upgrade
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: The robot is hacked, gains a mind of its own, or unexpectedly detonates.
+One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided _in addition_ to two other related abilities.
 
-#### Calculates the Incalculable
+Another high-tier option could provide a handful of level 3 followers to the character.
 
-Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
+The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
 
-- Tier 1: Predictive Equation
-- Tier 1: Higher Mathematics
-- Tier 2: Predictive Model
-- Tier 3: Subconscious Defense or Enhanced Intellect
-- Tier 4: Cognizant Offense
-- Tier 5: Greater Enhanced Intellect
-- Tier 5: Further Mathematics
-- Tier 6: Knowing the Unknown or Greater Enhanced Intellect
+#### BASIC
 
-GM Intrusions: Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
+Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
 
-#### Channels Divine Blessings
+In addition, because the benefits provided by such foci are mostly straightforward (usually with a few exceptions), most basic foci would also be appropriate for non-fantastic campaigns where magic, super-science, or psychic abilities normally don’t come into play. That said, just because the abilities granted by basic foci are straightforward doesn’t mean they are not potent when combined with the abilities granted by type, descriptor, cyphers, and other character aspects.
 
-A devout follower of a divine being, you channel some of your deity’s power to achieve wonders.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-- Tier 1: Blessing of the Gods
-- Tier 2: Enhanced Intellect
-- Tier 3: Divine Radiance or Fire Bloom
-- Tier 4: Overawe
-- Tier 5: Divine Intervention
-- Tier 6: Divine Symbol or Summon Demon
+Additional Equipment: Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Would Rather Be Reading should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
 
-GM Intrusions: A demon investigates divine magic use. A rival cult has issues with the character’s teachings.
+Minor Effect Suggestions: Next action is eased.
 
-#### Commands Mental Powers
+Major Effect Suggestions: Make a free, no-action recovery roll that doesn’t count against daily recovery rolls.
 
-You have honed the power of your mind to perform amazing psychic deeds.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Doesn’t Do Much
+- Interprets the Law
+- Learns Quickly
+- Works for a Living
+- Would Rather Be Reading
 
-- Tier 1: Telepathic
-- Tier 2: Mind Reading
-- Tier 3: Psychic Burst or Psychic Suggestion
-- Tier 4: Use Senses of Others
-- Tier 5: Precognition
-- Tier 6: Mind Control or Telepathic Network
+**Ability Selection Guidelines**
 
-GM Intrusions: Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.
+Tier 1: Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
 
-#### Conducts Weird Science
+Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
 
-Your preternatural insight and ability make you a scientist capable of amazing feats.
+Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
 
-- Tier 1: Lab Analysis
-- Tier 1: Knowledge Skills
-- Tier 2: Modify Device
-- Tier 3: Better Living Through Chemistry or Incredible Health
-- Tier 4: Knowledge Skills
-- Tier 4: Just a Bit Mad
-- Tier 5: Weird Science Breakthrough
-- Tier 6: Incredible Feat of Science
-- Tier 6: Inventor or Defensive Field
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.
+One option should be a non-fantastic ability that improves the character’s abilities within the focus’s theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
 
-#### Consorts With the Dead
+The other option should be something that either improves the character’s Edge in an appropriate stat or provides the character with some kind of defense.
 
-The dead answer your questions, and their reanimated corpses serve you.
+Tier 4: Choose another ability that grants additional training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool best suited to the focus. Or choose two abilities that provide only 2 or 3 points plus another tier 4 ability that improves a single task or skill.
 
-- Tier 1: Speaker for the Dead
-- Tier 2: Necromancy
-- Tier 3: Reading the Room or Repair Flesh
-- Tier 4: Greater Necromancy
-- Tier 5: Terrifying Gaze
-- Tier 6: True Necromancy or Word of Death
+Alternatively, provide a branch-out ability suggested at tier 5.
 
-GM Intrusions: The character’s necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
+Finally, if the focus has yet to grant some kind of defense, a defensive ability could be provided here.
 
-#### Controls Beasts
+Tier 5: Choose an ability that allows the character to branch out slightly—perhaps one like Expert Skill that allows them to automatically succeed on a task they’re trained in.
 
-Your ability to communicate and lead beasts is uncanny.
+Alternatively, if a nonstandard benefit was provided at tier 4, provide the benefits suggested at tier 4 here.
 
-- Tier 1: Beast Companion
-- Tier 2: Soothe the Savage
-- Tier 2: Communication
-- Tier 3: Mount or Stronger Together
-- Tier 4: Beast Eyes
-- Tier 4: Improved Companion
-- Tier 5: Beast Call
-- Tier 6: As If One Creature or Control the Savage
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.
+One option should be an ability that provides another 5 or 6 points to a particular Pool best suited to the focus, or that the character can divide up as they wish. Alternatively, training in offense or defense would also be appropriate.
 
-#### Controls Gravity
+The other tier 6 option should give the character a brand-new ability within their theme, but not one that strays into the realm of the fantastic. For instance, an ability that allows a character to take two actions instead of one would be reasonable. Granting additional training, assets, or Edge would also be fine.
 
-You can sway the attraction of gravity itself.
+#### ENERGY MANIPULATION
 
-- Type Swap Option: Weighty
-- Tier 1: Hover
-- Tier 2: Enhanced Speed Edge
-- Tier 3: Define Down or Gravity Cleave
-- Tier 4: Field of Gravity
-- Tier 5: Flight
-- Tier 6: Improved Gravity Cleave or Weight of the World
+Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like “void” or “shadow.” These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
 
-GM Intrusions: Onlookers react with unreasoning fear. A weird interaction sends an ally or object careening into the sky.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-#### COPIES SUPERPOWERS
+Additional Equipment: One or more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don’t require additional equipment.
 
-You can copy others’ skills, abilities, and superpowers.
+Energy Abilities: If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
 
-- Tier 1: Flex Skill 
-- Tier 1: Flex Skill 
-- Tier 2: Copy Power
-- Tier 3: Steal Power or Wildcard Powers
-- Tier 4: Improved Copying
-- Tier 5: Power Memory
-- Tier 6: Amazing Copying or Multiple
+Minor Effect Suggestions: The target or something near the target is hindered because of residual energy.
 
-Copying GM Intrusions: A copied power ends unexpectedly or goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).
+Major Effect Suggestions: An important item on the target’s person is destroyed.
 
-#### Crafts Illusions
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Absorbs Energy
+- Bears a Halo of Fire
+- Dances With Dark Matter
+- Rides the Lightning
+- Thunders
+- Wears a Sheen of Ice
 
-You fashion images from light that are so perfect they seem real.
+**Ability Selection Guidelines**
 
-- Tier 1: Minor Illusion
-- Tier 2: Illusory Disguise
-- Tier 3: Cast Illusion or Major Illusion
-- Tier 4: Illusory Selves
-- Tier 5: Terrifying Image
-- Tier 6: Grandiose Illusion or Permanent Illusion
+Tier 1: Choose a low-tier ability that either inflicts damage or provides protection using the appropriate energy type in some fashion.
 
-GM Intrusions: The illusion isn’t believable. The illusion is pierced at just the wrong moment.
+Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact or have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
 
-#### Crafts Unique Objects
+Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
 
-You’re an inventor of strange and useful objects.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-- Tier 1: Crafter
-- Tier 1: Master Identifier
-- Tier 2: Artifact Tinkerer
-- Tier 2: Quick Work
-- Tier 3: Master Crafter or Built-In Weaponry
-- Tier 4: Cyphersmith
-- Tier 5: Innovator
-- Tier 6: Inventor or Fusion Armor
+One option should be an ability that inflicts damage using the appropriate energy type (and possibly a related effect).
 
-GM Intrusions: The object malfunctions, breaks, or suffers catastrophic or unexpected failure.
+The other should grant enhanced movement by use of the appropriate energy type, give additional protection provided by the preferred energy, or use the energy in a completely new way, such as by draining the energy from a machine (if using electricity), entombing a victim in a layer of ice (if using cold), creating perfect silence (if using sound), creating a dazzling blast of illumination (if using light), and so on.
 
-(Cyphersmith works only in a setting where the cyphers are physical objects. If this isn’t the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.)
+Tier 4: Choose whichever kind of ability wasn’t chosen at tier 3.
 
-#### Dances With Dark Matter
+Tier 5: Choose a high-tier ability that inflicts damage (and possibly a related effect) that can affect more than one target using the appropriate energy type, or an ability that uses the energy in some fashion not previously used, as described in tiers 3 and 6.
 
-You can manipulate shadow and “dark” matter.
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-- Tier 1: Ribbons of Dark Matter
-- Tier 2: Void Wings
-- Tier 3: Dark Matter Shroud or Dark Matter Strike
-- Tier 4: Dark Matter Shell
-- Tier 5: Windwracked Traveler
-- Tier 6: Dark Matter Structure or Embrace the Night
+One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several.
 
-GM Intrusions: Dark matter skulks away as if possessed by a mind of its own.
+The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
 
-#### Defends the Gate
+#### ENVIRONMENT MANIPULATION
 
-Everyone wants you on their side when it comes to a fight because nothing gets by you.
+Foci that allow a character to move objects, affect gravity, create objects (or illusions of objects), and so on are environment manipulation foci. Given that, in many cases, energy is used as part of this process, this category and energy manipulation overlap to some extent. Environment manipulation foci prioritize abilities that indirectly affect enemies and allies via objects, forces, and alterations of the surroundings; energy manipulation foci prioritize directly damaging targets with the chosen energy or force.
 
-- Tier 1: Fortified Position
-- Tier 1: Rally to Me
-- Tier 2: Mind for Might
-- Tier 3: Fortification Builder or Divert Attacks
-- Tier 4: Greater Enhanced Might
-- Tier 5: Reinforcing Field
-- Tier 6: Generate Force Field or Stun Attack
+For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, or lower gravity in a particular area or even on a particular object.
 
-GM Intrusions: A strategically important structure collapses. The enemy attacks from an unexpected direction.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-#### Defends the Weak
+Additional Equipment: Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don’t require anything to gain or retain their benefits.
 
-You stand up for the helpless, the weak, and the unprotected.
+Environment Manipulation Abilities: Foci themes that involve imagery or visible energies can affect the look of your type abilities. Such alterations, if any, do nothing but change the appearance of effects. If gravity is manipulated, perhaps a telltale bluish glow permeates all ability uses, including type abilities. If illusion is generated, perhaps flamboyant visual and auditory qualities accompany type abilities, such as the appearance of a tentacled beast holding a target in place when Stasis is used. And so on.
 
-- Tier 1: Courageous
-- Tier 1: Warding Shield
-- Tier 2: Devoted Defender
-- Tier 2: Insight
-- Tier 3: Dual Wards or True Guardian
-- Tier 4: Combat Challenge
-- Tier 5: Willing Sacrifice
-- Tier 6: Resuscitate or True Defender
+Minor Effect Suggestions: The target gets turned around, and its next attack is hindered.
 
-GM Intrusions: A character focused on protecting others may periodically leave themselves vulnerable to attacks.
+Major Effect Suggestions: The character is refreshed and recovers 4 points to one Pool.
 
-#### Descends From Nobility
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Awakens Dreams
+- Blazes With Radiance
+- Calculates the Incalculable
+- Controls Gravity
+- Crafts Illusions
+- Crafts Unique Objects
+- Employs Magnetism
+- Focuses Mind Over Matter
 
-A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
+**Ability Selection Guidelines**
 
-- Type Swap Option: Retinue
-- Tier 1: Privileged Nobility
-- Tier 2: Trained Interlocutor
-- Tier 3: Advanced Command or Noble’s Courage
-- Tier 4: Expert Follower
-- Tier 5: Asserting Your Privilege
-- Tier 6: Able Assistance or Mind of a Leader
+Tier 1: Choose a low-tier ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus’s theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter or heavier. An  
+illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
 
-GM Intrusions: Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
 
-#### Doesn’t Do Much
+Tier 2: Choose a low-tier ability that provides a new defensive or offensive capability related to the focus’s theme.
 
-You’re a slacker, but you know a little about a lot of things.
+Alternatively, this ability might provide an additional or brand-new capability to manipulate the environment related to the focus’s theme.
 
-- Tier 1: Life Lessons
-- Tier 2: Totally Chill
-- Tier 3: Skill With Attacks or Improvise
-- Tier 4: Life Lessons
-- Tier 4: Greater Skill With Defense
-- Tier 5: Greater Enhanced Potential
-- Tier 6 Drawing on Life’s Experiences or Quick Wits
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
+One option should be a mid-tier ability related to the focus’s theme that provides an additional environment manipulation capacity or further improves the basic environment manipulation ability previously granted. This ability isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or one that increases the strength, range, or some other extension of the previously unlocked basic ability.
 
-#### Drives Like A Maniac
+The other mid-tier option should provide an offensive or defensive ability related to the specific form of movement the focus provides, if possible.
 
-Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don’t think about the risks when you’re behind the wheel.
+Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use of the ability, whichever one wasn’t chosen as an option in the previous tier.
 
-(Someone who Drives Like a Maniac needs access to a vehicle.)
+Tier 5: Choose a high-tier penultimate use of the environment-manipulation ability. For instance, if the focus-granted manipulation is illusory, this ability might haunt a target with terrifying images. If the focus is gravity based, it might unlock flight. If magnetic, it might allow the user to reshape metal. If the focus grants telekinetic powers, this ability could allow a character to hurl massive objects at foes. And so on.
 
-- Tier 1: Driver
-- Tier 1: Driving on the Edge
-- Tier 2: Car Surfer
-- Tier 2: Stare Them Down
-- Tier 3: Expert Driver or Enhanced Speed Edge
-- Tier 4: Sharp-Eyed
-- Tier 4: Enhanced Speed
-- Tier 5: Something in the Road
-- Tier 6: Trick Driver or Lethal Damage
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
+One of the abilities should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
 
-#### Emerged From the Obelisk
+The other option should be something that further explores the use of the basic environment manipulation capability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
-Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
+#### EXPLORATION
 
-- Tier 1: Crystalline Body
-- Tier 2: Hover
-- Tier 3: Inhabit Crystal or Immovable
-- Tier 4: Crystal Lens
-- Tier 5: Resonant Frequency
-- Tier 6: Resonant Quake or Return to the Obelisk
+Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations or track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized.
 
-GM Intrusions: Cyphers and artifacts react unexpectedly in the character’s hands.
+Exploration foci rely on a variety of methods, though training and expertise are the mainstays. Some methods require specific tools (such as a vehicle) to grant the benefits provided, while others might rely on the supernatural or  
+super-science to learn new things and explore strange places from afar.
 
-#### Employs Magnetism
+Connection: Choose four relevant connections from the Focus Connections list.
 
-You command metal and the power of magnetism.
+Additional Equipment: Any object necessary to explore. For instance, starting maps and/or  
+a compass would be basic equipment, while someone who uses psychic abilities might require a mirror or crystal sphere to gaze into. Equipment might also include access to a vehicle required for exploration, as previously noted.
 
-- Tier 1: Move Metal
-- Tier 2: Repel Metal
-- Tier 3: Destroy Metal or Guide Bolt
-- Tier 4: Magnetic Field
-- Tier 5: Command Metal
-- Tier 6: Diamagnetism or Iron Punch
+Minor Effect Suggestions: You have an asset on any action that involves using your senses, such as perceiving or attacking, until the end of the next round.
 
-GM Intrusions: The metal twists, bends, or produces shrapnel. A lapse in concentration might cause something to slip or drop at just the wrong time.
+Major Effect Suggestions: Your Intellect Edge increases by 1 until the end of the next round.
 
-#### Entertains
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Explores Dark Places
+- Infiltrates
+- Operates Undercover
+- Pilots Starcraft
+- Sees Beyond
+- Separates Mind From Body
 
-You perform, mostly for the benefit of others.
+**Ability Selection Guidelines**
 
-- Tier 1: Levity
-- Tier 2: Inspiring Ease
-- Tier 3: Knowledge Skills or Greater Enhanced Potential
-- Tier 4: Calm
-- Tier 5: Able Assistance
-- Tier 6: Master Entertainer or Vindictive Performance
+Tier 1: Choose a low-tier ability that grants the character basic exploratory, survival, or information-gathering capabilities within the focus’s theme.
 
-GM Intrusions: The audience is annoyed or offended. Musical instruments break. Paints dry in their pots. The words to a poem or song are forgotten.
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the Might Pool.
 
-#### Exists in Two Places at Once
+Tier 2: Choose another low-tier ability that grants an additional capability related to exploration, survival, or information gathering.
 
-You exist in two places at once.
+For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, or a capability that others normally lack (like the ability to see in the dark).
 
-- Tier 1: Duplicate
-- Tier 2: Share Senses
-- Tier 3: Superior Duplicate or Resilient Duplicate
-- Tier 4: Damage Transference
-- Tier 5: Coordinated Effort
-- Tier 6: Multiplicity or Resilient Duplicate
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, or confusion.
+One option should further improve the basic exploration ability granted, or give a new exploratory, survival, or information-gathering ability.
 
-#### Exists Partially Out of Phase
+The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn’t already granted that) or something that further broadens the character’s ability to explore in the focus’s chosen realm.
 
-A bit translucent, you’re slightly out of phase and can move through solid objects.
+Tier 4: Choose a mid-tier offensive or defensive ability (whichever wasn’t offered at tier 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-tier ability that broadens the character’s ability to explore, survive, or gather information.
 
-- Tier 1: Walk Through Walls
-- Tier 2: Defensive Phasing
-- Tier 3: Phased Attack or Phase Door
-- Tier 4: Ghost
-- Tier 5: Untouchable
-- Tier 6: Enhanced Phased Attack or Phase Foe
+Tier 5: Choose a high-tier ability that alleviates some of the penalties for exploring, surviving, or gathering information in a normally inhospitable place.
 
-GM Intrusions: The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Explores Dark Places
+One option should further improve the basic exploration-themed ability previously granted, or give a brand-new exploratory, survival, or information-gathering ability.
 
-You’re the archetypal treasure hunter, scavenger, and finder of lost things.
+The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
 
-- Tier 1: Superb Explorer
-- Tier 2: Superb Infiltrator
-- Tier 2: Eyes Adjusted
-- Tier 3: Nightstrike or Slippery Customer
-- Tier 4: Hard-Won Resilience
-- Tier 5: Dark Explorer
-- Tier 6: Blinding Attack or Embraced by Darkness
+#### INFLUENCE
 
-GM Intrusions: Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.
+Foci that prioritize authority and influence—whether that’s to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position—fall within the influence category.
 
-#### Fights Dirty
+These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people’s attention and influence their actions, or simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
 
-You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-- Tier 1: Tracker
-- Tier 1: Stalker
-- Tier 2: Sneak
-- Tier 2: Quarry
-- Tier 3: Betrayal or Surprise Attack
-- Tier 4: Mind Games
-- Tier 4: Capable Warrior
-- Tier 5: Using the Environment
-- Tier 6: Twisting the Knife or Murderer
+Additional Equipment: Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don’t require anything to gain or retain their benefits.
 
-GM Intrusions: People look poorly upon those who cheat or fight without honor. Sometimes a dirty trick backfires.
+Minor Effect Suggestions: The range or duration of the influencing ability is doubled.
 
-#### Fights With Panache
+Major Effect Suggestions: An ally or indicated target can take an additional action.
 
-You’re a swashbuckling daredevil who fights with flamboyant style that’s entertaining to watch.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Commands Mental Powers
+- Conducts Weird Science
+- Fuses Mind and Machine
+- Is Idolized by Millions
+- Solves Mysteries
+- Talks to Machines
+- Works the System
 
-- Tier 1: Attack Flourish
-- Tier 2: Quick Block
-- Tier 3: Acrobatic Attack or Flamboyant Boast
-- Tier 4: Block for Another
-- Tier 4: Fast Kill
-- Tier 5: Using the Environment
-- Tier 6: Agile Wit or Return to Sender
+**Ability Selection Guidelines**
 
-GM Intrusions: The display comes off looking silly, clumsy, or unattractive.
+Tier 1: Choose a low-tier ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade or intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
 
-#### Flies Faster Than a Bullet
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
 
-You can fly, and you’re superstrong, hard to hurt, and fast too. Is there anything you can’t do?
+Tier 2: Choose a low-tier ability that improves the character’s ability to apply influence. This might open an additional front on the focus’s basic theme or simply further enhance the basic ability already provided. For instance, this tier 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they’d otherwise not reveal, or grant influence over physical objects (either to improve them or to learn more about them). And so on.
 
-- Tier 1: Hover
-- Tier 2: Greater Enhanced Potential
-- Tier 3: Hidden Reserves or See Through Matter
-- Tier 4: Blink of an Eye
-- Tier 4: Up to Speed
-- Tier 5: Not Dead Yet
-- Tier 6: Burning Light or Ignore Affliction
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-GM Intrusions: A nemesis finds the character. A strange material is found to nullify the character’s abilities.
+One option should provide an offensive or defensive capability related to the focus’s specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense or defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training or their entourage.
 
-#### Focuses Mind Over Matter
+The other mid-tier option should provide an additional ability to influence in the theme of the focus, or further improve the basic influence ability previously granted. This option isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or increases the strength, range, or some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
 
-You can telekinetically move objects with your mind without physically touching them.
+Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use of the influence ability, whichever one wasn’t chosen as an option in the previous tier.
 
-- Tier 1: Divert Attacks
-- Tier 2: Telekinesis
-- Tier 3: Cloak of Opportunity or Enhance Strength
-- Tier 4: Apportation
-- Tier 5: Psychokinetic Attack
-- Tier 6: Improved Apportation or Reshape
+Alternatively, this ability could grant an additional capability related to the kind of influence the focus provides.
 
-GM Intrusions: One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.
+Tier 5: Choose a high-tier penultimate use of the specific influence ability granted at lower tiers.
 
-#### Fuses Flesh and Steel
+Alternatively, choose an ability not previously gained at a lower tier, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the tier 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies).
 
-Your body is part machine.
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-- Tier 1: Enhanced Body
-- Tier 2: Interface
-- Tier 3: Sensing Package or Weaponization
-- Tier 4: Fusion
-- Tier 5: Deep Reserves
-- Tier 6: Mind Surge or Ultra Enhancement
+One of the options should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
 
-GM Intrusions: People in most societies are afraid of someone who is revealed to have mechanical parts.
+The other option should be something that further explores the use of the basic influence ability provided by the focus. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
-#### Fuses Mind and Machine
+#### IRREGULAR
 
-Electronic aids implanted in your brain make you a mental powerhouse.
+Most foci have a basic theme, a “character story” that logically leads to a series of related abilities. However, certain foci themes are so wide that they don’t fit into any other category except an irregular one of their own.
 
-- Tier 1: Enhanced Intellect
-- Tier 1: Knowledge Skills
-- Tier 2: Network Tap
-- Tier 3: Action Processor or Machine Telepathy
-- Tier 4: Greater Enhanced Intellect
-- Tier 4: Knowledge Skills
-- Tier 5: See the Future
-- Tier 6: Machine Enhancement or Mind Surge
+Irregular foci provide a basket of disparate abilities. Usually that’s because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
 
-GM Intrusions: Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don’t trust a person who isn’t fully organic.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-#### Grows to Towering Heights
+Additional Equipment: Any object necessary to the focus’s theme. For instance, a superhero-themed focus might grant a superhero costume.
 
-For brief periods, you can grow larger and, with enough experience, to towering heights.
+Minor Effect Suggestions: The target is also dazed for one round, during which time all of its tasks are hindered.
 
-- Tier 1: Enlarge
-- Tier 1: Freakishly Large
-- Tier 2: Bigger
-- Tier 2: Advantages of Being Big
-- Tier 3: Huge or Throw
-- Tier 4: Grab
-- Tier 5: Gargantuan
-- Tier 6: Colossal or Lethal Damage
+Major Effect Suggestions: The target is stunned and loses its next turn.
 
-GM Intrusions: Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Channels Divine Blessings
+- Descends From Nobility
+- Emerged From the Obelisk
+- Flies Faster Than a Bullet
+- Masters Spells
+- Speaks for the Land
 
-#### HAS A THOUSAND FACES
+**Ability Selection Guidelines**
 
-You can change your appearance to look like anyone else.
+Tier 1: Choose a low-tier ability that grants one of the benefits the focus theme promises, one that a first-tier character should have.
 
-- Tier 1: Face Morph
-- Tier 1: Interaction Skills 
-- Tier 2: Body Morph
-- Tier 2: War Flesh
-- Tier 3: Disguise Other or Resilience
-- Tier 4: Ageless
-- Tier 4: Think Your Way Out 
-- Tier 5: Memory Becomes Action 
-- Tier 6: Divide Your Mind or Infer Thoughts 
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. Alternatively, it might offer a simple bonus of 2 or 3 points to a Pool.
 
-GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.
+Tier 2: Choose a low-tier ability that grants one of the benefits the focus theme promises, one that’s presumably not immediately related to the one provided at tier 1. That said, if a defense wasn’t provided at tier 1, tier 2 is a good place to add it.
 
-#### Helps Their Friends
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-You love your friends and help them out of any difficulty, no matter what.
+One option should provide one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
-Type Swap Option: Advice From a Friend
-- Tier 1: Friendly Help
-- Tier 1: Courageous
-- Tier 2: Weather the Vicissitudes
-- Tier 3: Buddy System or Skill With Attacks
-- Tier 4: In Harm’s Way
-- Tier 4: Enhanced Physique
-- Tier 5: Inspire Action
-- Tier 6: Deep Consideration or Skill With Defense
+The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-tier abilities don’t quite get the character where they need to be, this option might further increase a capability unlocked at a lower tier.
 
-GM Intrusions: Others sometimes have ulterior motives. The law takes an undue interest. Even when everything goes right, repercussions follow.
+Tier 4: Choose a mid-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
-#### Howls at the Moon
+Tier 5: Choose a high-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
-For brief periods, you become a fearsome and powerful creature with control issues.
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-- Tier 1: Beast Form
-- Tier 2: Controlled Change
-- Tier 3: Bigger Beast Form or Greater Beast Form
-- Tier 4: Greater Controlled Change
-- Tier 5: Enhanced Beast Form
-- Tier 6: Lethal Damage or Perfect Control
+One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. However, this ability might also provide an ultimate version of a lower-tier ability if a mid-tier or low-tier option wasn’t quite sufficient.
 
-GM Intrusions: The change happens in an uncontrolled fashion. People are terrified of monsters.
+The other option should provide an alternate method to round out the character in a way that doesn’t replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus’s overarching theme.
 
-#### Hunts
+#### MOVEMENT EXPERTISE
 
-You are a stalking hunter who excels at bringing down your selected quarry.
+Foci that prioritize novel forms of movement—in order to excel in combat, escape situations most others can’t, move with stealth for purposes of theft or escape, or move into locations normally inaccessible—fall within the movement expertise category. These foci usually have methods of granting either offense or defense through movement, though they may provide some means of doing both.
 
-- Tier 1: Attack Flourish
-- Tier 1: Tracker
-- Tier 2: Quarry
-- Tier 2: Sneak
-- Tier 3: Horde Fighting or Sprint and Grab
-- Tier 4: Surprise Attack
-- Tier 5: Hunter’s Drive
-- Tier 6: Greater Skill With Attacks or Multiple Quarry
+The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water or air, or to instantly move via teleportation.
 
-GM Intrusions: The quarry notices the character. The quarry isn’t as vulnerable as it seemed.
+Connection: Choose four relevant connections from the Focus Connections list.
 
-#### IGNORES PHYSICAL DISTANCE
+Additional Equipment: Any object necessary to achieve great speeds, change state, or otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don’t require anything to gain or retain their benefits.
 
-You can teleport from one place to another by briefly passing through a parallel dimension.
+Minor Effect Suggestions: The target is dazed, and their next action is hindered.
 
-- Tier 1: Dimensional Squeeze
-- Tier 2: Opportunist 
-- Tier 3: Defensive Blinking or Teleportation Burst
-- Tier 4: Short Teleportation
-- Tier 5: Medium Teleportation
-- Tier 6: Teleportation or Teleportive Wound
+Major Effect Suggestions: The target is stunned and loses their next action.
 
-GM Intrusions: A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Exists Partially Out of Phase
+- Moves Like a Cat
+- Moves Like the Wind
+- Runs Away
+- Shreds the Walls of the World
+- Travels Through Time
+- Works the Back Alleys
 
-#### Infiltrates
+**Ability Selection Guidelines**
 
-Subtlety, guile, and stealth allow you to get in where others can’t.
+Tier 1: Choose a low-tier ability that grants the basic benefit of the specific movement style, whether that’s enhanced speed, agility, immateriality, and so on.
 
-- Tier 1: Stealth Skills
-- Tier 1: Sense Attitudes
-- Tier 2: Impersonate
-- Tier 2: Flight Not Fight
-- Tier 3: Awareness or Skill With Attacks
-- Tier 4: Invisibility
-- Tier 5: Evasion
-- Tier 6: Brainwashing or Spring Away
+Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding or training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive or defensive benefit (relying on the use of the initial basic ability), append it as well.
 
-GM Intrusions: Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.
+Tier 2: Choose a low-tier ability that provides a new offensive or defensive capability related to the focus’s theme.
 
-#### Interprets the Law
+Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
 
-You excel at winning others over to your views.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-- Tier 1: Opening Statement
-- Tier 1: Knowledge of the Law
-- Tier 2: Debate
-- Tier 3: Able Assistance or Enhanced Intellect Edge
-- Tier 4: Castigate
-- Tier 5: No One Knows Better
-- Tier 6: Greater Enhanced Potential or Legal Intern
+One option should provide an additional movement capacity or further improve the basic movement capacity, related to the focus’s theme. This isn’t directly offensive or defensive, but provides the character with a new level of ability or an all-new ability related to their basic movement ability.
 
-GM Intrusions: Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.
+The other option should provide either an offensive or a defensive capability related to the specific form of movement the focus provides.
 
-#### Is Idolized by Millions
+Tier 4: Choose a mid-tier ability that further enhances the advantages provided by focus’s movement-enhancing paradigm. This could provide a new or better form of defense (directly, or indirectly if moving to a location or time where danger doesn’t threaten), or a new or better form of offense.
 
-You’re a celebrity and most people adore you.
+Tier 5: Choose a high-tier penultimate use of the movement-related ability. For instance, if the focus-provided movement is temporal, this ability might allow actual (if brief) jaunts of time travel. If the focus enhances speed, this ability might allow the character to move up to a very long distance with one action. And so on.
 
-- Tier 1: Entourage
-- Tier 1: Celebrity Talent
-- Tier 2: Perks of Stardom
-- Tier 3: Incredible Health or Skill With Attacks
-- Tier 4: Captivate With Starshine
-- Tier 4: Expert Follower
-- Tier 5: Do You Know Who I Am?
-- Tier 6: Transcend the Script or Improved Companion
+Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
 
-GM Intrusions: Fans are endangered or hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, or other event is canceled. The media posts photos of you in an embarrassing situation.
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Is Licensed to Carry
+One of the options should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
 
-You carry a gun and you know how to use it in a fight.
+The other option should be something that further explores the use of the basic  
+movement ability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
 
-(Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.)
+#### STRIKER COMBAT
 
-- Tier 1: Gunner
-- Tier 1: Practiced With Guns
-- Tier 2: Careful Shot
-- Tier 3: Trained Gunner or Damage Dealer
-- Tier 4: Snap Shot
-- Tier 5: Arc Spray
-- Tier 6: Special Shot or Lethal Damage
+Striker combat foci prioritize dealing damage in battle over other concerns. Foci in this category offer defensive abilities as well, but they emphasize abilities that provide ways to spike damage to heights that other foci normally don’t reach.
 
-GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.
+To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon or martial art, or the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, or something much broader, such as adopting a particularly vicious or unsporting style. A striker combatant might use fire, force, or magnetism as their preferred method of spiking damage.
 
-#### Is Wanted by the Law
+Connection: Choose four relevant connections from the Focus Connections list.
 
-“WANTED, DEAD OR ALIVE” posters (or their equivalent) have appeared featuring your face. It’s up to you whether it’s a mistake that snowballed out of control or you actually would kill someone just for looking at you.
+Additional Equipment: The weapon, tool, or other special item or substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Fights Dirty or Murders, a trophy from a previously defeated foe for Battles Robots, or stylish clothes for Fights With Panache.
 
-- Tier 1: Enhanced Speed
-- Tier 1: Danger Sense
-- Tier 2: Surprise Attack
-- Tier 3: Outlaw Reputation or Successive Attack
-- Tier 4: Fast Kill
-- Tier 5: Band of Desperados
-- Tier 6: Not Dead Yet or Lethal Damage
+Minor Effect Suggestions: The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
 
-GM Intrusions: Most people do not take well to discovering a wanted outlaw in their midst.
+Major Effect Suggestions: Make an immediate additional attack using an attack provided by the focus as part of your turn.
 
-#### Keeps a Magic Ally
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Battles Robots
+- Fights Dirty
+- Fights With Panache
+- Hunts
+- Is Licensed to Carry
+- Looks for Trouble
+- Masters Weaponry
+- Murders
+- Needs No Weapon
+- Performs Feats of Strength
+- Rages
+- Slays Monsters
+- Throws With Deadly Accuracy
+- Wields Two Weapons at Once
 
-An allied magic creature bound to an object (such as a minor djinn in a lamp, or a ghost in a pipe) is your friend, protector, and weapon.
+**Ability Selection Guidelines**
 
-- Tier 1: Bound Magic Creature
-- Tier 2: Object Bond
-- Tier 2: Hidden Closet
-- Tier 3: Minor Wish or Mount
-- Tier 4: Improved Object Bond
-- Tier 5: Moderate Wish
-- Tier 6: Object Bond Mastery or Trust to Luck
+Tier 1: Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
 
-GM Intrusions: The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn’t do as asked. The creature says it’s leaving unless a task is performed for it.
+Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, or just have general knowledge about that foe. A fighting style that involves fighting in a vicious or dirty manner might provide training in intimidation. And so on.
 
-#### Leads
+If the focus is about fighting a particular enemy, additional secondary powers (more than might otherwise be offered) may be appropriate. Those either further enhance effectiveness against the chosen enemy, or offer broader but related abilities that give the character who takes the focus some functionality even when not fighting that enemy.
 
-Your natural leadership capability allows you to command others, including a loyal band of followers.
+Tier 2: Choose a low-tier ability that provides some form of defense using the weapon, weapon style, or chosen energy. If the weapon style is being especially good at fighting a certain kind of foe, the ability should be a defense against that kind of foe. Alternatively, the focus might offer another method for increasing damage within the chosen paradigm.
 
-- Tier 1: Natural Charisma
-- Tier 1: Good Advice
-- Tier 2: Enhanced Potential
-- Tier 2: Basic Follower
-- Tier 3: Advanced Command or Expert Follower
-- Tier 4: Captivate or Inspire
-- Tier 5: Greater Enhanced Potential
-- Tier 6: Band of Followers or Mind of a Leader
+Sometimes an additional low-power ability is appropriate at tier 2. If so, choose whichever  
+low-power ability wasn’t gained at tier 1.
 
-GM Intrusions: Followers fail, betray, lie, become corrupted, get kidnapped, or die.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Learns Quickly
+One option should inflict additional damage when using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 
-You deal with bad situations as they arise, learning new lessons each time.
+The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy.
 
-- Tier 1: Enhanced Intellect
-- Tier 1: There’s Your Problem
-- Tier 2: Quick Study
-- Tier 3: Hard to Distract
-- Tier 3: Enhanced Intellect Edge or Flex Skill
-- Tier 4: Pay It Forward
-- Tier 5: Enhanced Intellect
-- Tier 5: Learned a Few Things
-- Tier 6: Two Things at Once or Skill With Defense
+Tier 4: Choose a mid-tier ability that further enhances the advantages provided by the focus’s paradigm. Often, this includes training in a particular kind of attack. Alternatively, the ability might increase the advantages provided by achieving a certain combat status, such as gaining surprise.
 
-GM Intrusions: Accidents and mistakes are great teachers.
+Tier 5: Choose a high-tier ability that inflicts damage. Alternatively, if focused on fighting a particular kind of foe, this ability might give the character a chance to completely neutralize, destroy, blind, or kill a singular target of up to level 3 (or higher, if the focus is on a singular foe).
 
-#### Lives in the Wilderness
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-You can survive in badlands where others perish.
+One of the options should use the focus paradigm to inflict an exceptional amount of damage.
 
-- Tier 1: Wilderness Life
-- Tier 1: Enhanced Might
-- Tier 2: Living Off the Land
-- Tier 2: Wilderness Explorer
-- Tier 3: Animal Senses and Sensibilities or Wilderness Encouragement
-- Tier 4: Wilderness Awareness
-- Tier 5: The Wild Is on Your Side
-- Tier 6: One With the Wild or Wild Camouflage
+The other option could be a different way of inflicting damage, either using the focus paradigm or just dealing lots of damage in general (and relying on previous focus tier abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill or neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), or to select yet another foe, make another attack, or get away in order to fight another day.
 
-GM Intrusions: People in cities and towns sometimes disparage those who look (and smell) like they live in the wilds, as if they were ignorant or barbaric.
+#### SUPPORT
 
-#### Looks for Trouble
+Foci that allow a character to help others succeed, defend others, heal others who are hurt, and so on are support foci. Of course, most foci abilities are often used in aid of others, but support foci (such as Siphons Power) prioritize aiding, healing, and improving the character who takes the focus.
 
-You’re a scrapper and love a good fight.
+Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural or sci-fi means of providing healing, or simply easing the cares of others through entertainment.
 
-- Tier 1: Fists of Fury
-- Tier 1: Wound Tender
-- Tier 2: Protector
-- Tier 2: Straightforward
-- Tier 3: Skill With Attacks or Greater Enhanced Potential
-- Tier 4: Knock Out
-- Tier 5: Mastery With Attacks
-- Tier 6: Greater Enhanced Might or Lethal Damage
+Connection: Choose four relevant connections from the Focus Connections list.
 
-GM Intrusions: Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.
+Additional Equipment: Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument or similar object in aid of their craft. Some foci in this category don’t require anything to gain or retain their benefits.
 
-#### Loves the Void
+Minor Effect Suggestions: You can draw an attack without having to use an action at any point before the end of the next round.
 
-When it’s just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
+Major Effect Suggestions: You can take an extra action in aid of an ally.
 
-- Type Swap Option: Have Spacesuit, Will Travel
-- Tier 1: Vacuum Skilled
-- Tier 1: Microgravity Adept
-- Tier 2: Enhanced Speed Edge
-- Tier 2: Enhanced Physique
-- Tier 3: Space Fighting or Fusion Armor
-- Tier 4: Silent As Space
-- Tier 4: Push Off and Throw
-- Tier 5: Microgravity Avoidance
-- Tier 6: Weightless Shot or Reactive Field
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Defends the Weak
+- Entertains
+- Helps Their Friends
+- Metes Out Justice
+- Shepherds the Community
+- Siphons Power
+- Works Miracles
 
-GM Intrusions: Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
+**Ability Selection Guidelines**
 
-#### Masters Defense
+Tier 1: Choose a low-tier ability that provides some form of defense, aid or entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
 
-You use protective equipment and practiced techniques to avoid becoming hurt in a fight.
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn’t do much.
 
-- Tier 1: Shield Master
-- Tier 2: Sturdy
-- Tier 2: Practiced in Armor
-- Tier 3: Dodge and Resist or Dodge and Respond
-- Tier 4: Tower of Will
-- Tier 4: Experienced in Armor
-- Tier 5: Nothing but Defend
-- Tier 6: Defense Master or Wear It Well
+Tier 2: Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
 
-GM Intrusions: Shields break when hit, as do weapons used to parry. Armor straps break.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Masters Spells
+One option should work within the focus’s theme to aid, heal, protect, or otherwise help another.
 
-By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.
+The other option should be something that benefits the character, either an offensive or defensive ability, or something that broadens their expertise in some fashion. Alternatively, it could be another, different method of helping someone else.
 
-- Tier 1: Arcane Flare
-- Tier 2: Ray of Confusion
-- Tier 3: Fire Bloom or Summon Giant Spider
-- Tier 4: Soul Interrogation
-- Tier 5: Granite Wall
-- Tier 6: Summon Demon or Word of Death
+Tier 4: Choose a mid-tier ability that gives an ally a direct boon or provides the character with a way to help another. It could also be an ability that harms or nullifies a foe, as removing foes certainly helps allies.
 
-GM Intrusions: The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.
+Tier 5: Choose a high-tier ability that provides an offensive or defensive option for the character, if none have been provided yet. If this need has been previously addressed or is deemed unnecessary, choose a high-tier ability that provides some form of defense, aid or entertainment, benefit to recovery or healing, or protection to another. For example, a tier 5 ability might grant an ally an additional free action or allow them to repeat a failed action.
 
-#### Masters the Swarm
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.
+One of the options should provide an ultimate method of helping another in the theme of the focus.
 
-- Tier 1: Influence Swarm
-- Tier 2: Control Swarm
-- Tier 3: Living Armor or Skill With Attacks
-- Tier 4: Call Swarm
-- Tier 5: Gain Unusual Companion
-- Tier 6: Deadly Swarm or Skill With Defense
+The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-tier offense or defense is also completely reasonable.
 
-GM Intrusions: A command is misunderstood. Control is erratic or is lost. Bites and stings are not uncommon for masters of the swarm.
+#### TANK COMBAT
 
-#### Masters Weaponry
+Foci that prioritize being able to take a lot of punishment and soak up excess damage from foes fall within the tank combat category. These foci provide offensive abilities too, as well as additional abilities related to the particular method by which improved protection is achieved, but defensive abilities are most pronounced.
 
-You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.
+Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character’s skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
 
-(Someone who Masters Weaponry might have additional equipment, including a high- quality weapon.)
+Connection: Choose four relevant connections from the Focus Connections list.
 
-- Tier 1: Weapon Master
-- Tier 1: Weapon Crafter
-- Tier 2: Weapon Defense
-- Tier 3: Rapid Attack or Disarming Strike
-- Tier 4: Never Fumble
-- Tier 5: Extreme Mastery
-- Tier 6: Murderer or Deadly Strike
+Additional Equipment: Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield or other defensive tool used if skilled, or possibly some kind of amulet or serum). Some tank combat foci don’t require anything to gain or retain their benefits.
 
-GM Intrusions: Weapons break. Weapons can be stolen. Weapons can be dropped or forced out of your hand.
+Minor Effect Suggestions: +2 to Armor for a few rounds.
 
-#### Metes Out Justice
+Major Effect Suggestions: Regain 2 points to Might Pool.
 
-You right wrongs, protect the innocent, and punish the guilty.
+The following are examples and not meant to provide a complete list of all possible foci in this category.
+- Abides in Stone
+- Brandishes an Exotic Shield
+- Defends the Gate
+- Fuses Flesh and Steel
+- Grows to Towering Heights
+- Howls at the Moon
+- Lives in the Wilderness
+- Masters Defense
+- Never Says Die
+- Stands Like a Bastion
 
-- Tier 1: Make Judgment
-- Tier 1: Designation
-- Tier 2: Defend the Innocent
-- Tier 2: Improved Designation
-- Tier 3: Defend All the Innocent or Punish the Guilty
-- Tier 4: Find the Guilty
-- Tier 4: Greater Designation
-- Tier 5: Punish All the Guilty
-- Tier 6: Damn the Guilty or Inspire the Innocent
+**Ability Selection Guidelines**
 
-GM Intrusions: Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.
+Tier 1: Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
 
-#### Moves Like a Cat
+Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
 
-Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.
+Tier 2: If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
 
-- Tier 1: Greater Enhanced Speed
-- Tier 1: Balance
-- Tier 2: Movement Skills
-- Tier 2: Safe Fall
-- Tier 3: Hard to Hit
-- Tier 3: Enhanced Speed Edge or Greater Enhanced Speed
-- Tier 4: Quick Strike
-- Tier 5: Slippery
-- Tier 6: Perfect Speed Burst or Greater Enhanced Speed
+If the theme of the focus is physical transformation, choose a low-tier ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, or otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 
-GM Intrusions: Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.
+Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-#### Moves Like the Wind
+One option should provide an additional form of protection in keeping with the focus’s theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing.
 
-You can move so fast that you become a blur.
+The other option should provide an offensive  
+capability, especially if creating a non-transformation  
+focus that doesn’t already have offensive benefits. That capability could be an enhanced attack or provide some other benefit useful in combat, such as quickly evading or (on the other end of the continuum) becoming immovable.
 
-- Tier 1: Greater Enhanced Speed
-- Tier 1: Fleet of Foot
-- Tier 2: Hard to Hit
-- Tier 3: Speed Burst or Greater Enhanced Speed
-- Tier 4: Blink of an Eye
-- Tier 5: Hard to See
-- Tier 6: Perfect Speed Burst or Incredible Running Speed
+Tier 4: Choose a mid-tier ability that further enhances the advantages provided by the focus’s damage-soaking paradigm. Often, this includes training in a particular kind of defense. Alternatively, it might increase the advantages provided by previously unlocked defensive abilities, whether that means gaining greater control over a transformation, gaining additional chances to avoid damage or retry tasks related to enhanced determination, and so on. If the focus is lacking in offensive options, this is a good place to include one.
 
-GM Intrusions: Surfaces can be slick or offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.
+Tier 5: Choose a high-tier ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, or something related to exploration or interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
 
-#### Murders
+Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-You’re an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
+One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage.
 
-- Tier 1: Surprise Attack
-- Tier 1: Assassin Skills
-- Tier 2: Quick Death
-- Tier 2: Infiltrator
-- Tier 3: Awareness or Poison Crafter
-- Tier 4: Better Surprise Attack
-- Tier 5: Damage Dealer
-- Tier 6: Escape Plan or Murderer
-
-GM Intrusions: Most people do not react well to a professional killer.
-
-#### Needs No Weapon
-
-Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.
-
-- Tier 1: Fists of Fury
-- Tier 1: Flesh of Stone
-- Tier 2: Advantage to Disadvantage
-- Tier 2: Unarmed Fighting Style
-- Tier 3: Moving Like Water or Greater Enhanced Potential
-- Tier 4: Divert Attacks
-- Tier 5: Stun Attack
-- Tier 6: Master of Unarmed Fighting Style or Lethal Damage
-
-GM Intrusions: Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off balance.
-
-#### Never Says Die
-
-You never quit, can shrug off a beating, and always come back for more.
-
-- Tier 1: Improved Recovery
-- Tier 1: Push on Through
-- Tier 2: Ignore the Pain
-- Tier 3: Blood Fever or Hidden Reserves
-- Tier 4: Increasing Determination or Outlast the Foe
-- Tier 5: Not Dead Yet
-- Tier 6: Final Defiance or Ignore Affliction
-
-GM Intrusions: Sometimes, it’s equipment or weapons that give out.
-
-#### Operates Undercover
-
-Under the guise of someone else, you seek to find answers the powerful do not want divulged.
-
-(Someone who Operates Undercover might have additional equipment that includes a disguise kit.)
-
-- Tier 1: Investigate
-- Tier 2: Disguise
-- Tier 3: Agent Provocateur or Run and Fight
-- Tier 4: Pull a Fast One
-- Tier 5: Using What’s Available
-- Tier 6: Trust to Luck or Deadly Strike
-
-GM Intrusions: Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
-
-#### Performs Feats of Strength
-
-A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.
-
-- Tier 1: Athlete
-- Tier 1: Enhanced Might Edge
-- Tier 2: Feat of Strength
-- Tier 3: Iron Fist or Throw
-- Tier 4: Greater Enhanced Might
-- Tier 5: Brute Strike
-- Tier 6: Greater Enhanced Might or Jump Attack
-
-GM Intrusions: It’s easy to break delicate things or hurt someone accidentally.
-
-#### Pilots Starcraft
-
-You’re a crack starship pilot.
-
-- Tier 1: Pilot
-- Tier 1: Flex Lore
-- Tier 2: Salvage and Comfort
-- Tier 2: Mentally Tough
-- Tier 3: Expert Pilot
-- Tier 3: Ship Footing or Machine Companion
-- Tier 4: Sensor Array
-- Tier 4: Enhanced Speed
-- Tier 5: Like the Back of Your Hand
-- Tier 6: Incomparable Pilot
-- Tier 6: Remote Control or Skill With Attacks
-
-GM Intrusions: Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
-
-#### Plays Too Many Games
-
-Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.
-
-- Tier 1: Game Lessons
-- Tier 1: Gamer
-- Tier 2: Zero Dark Eyes
-- Tier 2: Resist Tricks
-- Tier 3: Sniper’s Aim or Enhanced Speed Edge
-- Tier 4: Mind Games
-- Tier 4: Enhanced Intellect
-- Tier 5: Gamer’s Fortitude
-- Tier 6: Mind Surge or Gaming God
-
-GM Intrusions: Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
-#### Rages
-
-When you go berserk, everyone fears you.
-
-- Tier 1: Frenzy
-- Tier 2: Greater Enhanced Might
-- Tier 2: Movement Skills
-- Tier 3: Power Strike or Unarmored Fighter
-- Tier 4: Greater Frenzy
-- Tier 5: Attack and Attack Again
-- Tier 6: Greater Enhanced Potential or Lethal Damage
-
-GM Intrusions: It’s easy for a berserker to lose control and attack friend as well as foe.
-
-#### Rides the Lightning
-
-You create and discharge electrical power.
-
-- Tier 1: Shock
-- Tier 1: Charge
-- Tier 2: Bolt Rider
-- Tier 3: Electric Armor or Drain Charge
-- Tier 4: Bolts of Power
-- Tier 5: Electrical Flight
-- Tier 6: Flash Across the Miles or Wall of Lightning
-
-GM Intrusions: Targets other than those intended are shocked. Objects explode.
-
-#### Runs Away
-
-Your first instinct is to run from danger, and you’ve gotten very good at it.
-
-- Tier 1: Go Defensive
-- Tier 2: Enhanced Speed
-- Tier 2: Quick to Flee
-- Tier 3: Incredible Running Speed or Greater Enhanced Speed
-- Tier 4: Increasing Determination
-- Tier 4: Quick Wits
-- Tier 5: Go to Ground
-- Tier 6: Burst of Escape or Skill With Defense
-
-GM Intrusions: Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.
-
-#### Sailed Beneath the Jolly Roger
-
-You sailed with a crew of dread pirates, but you’ve decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
-
-- Tier 1: Ignore the Pain
-- Tier 1: Sailor
-- Tier 2: Taking Advantage
-- Tier 2: Fearsome Reputation
-- Tier 3: Skill With Attacks or Skill With Defense
-- Tier 4: Sea Legs
-- Tier 4: Movement Skills
-- Tier 5: Lost in the Chaos
-- Tier 6: Duel to the Death or Successive Attack
-
-GM Intrusions: The dangers of the high seas are many, including severe storms and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks down former sailing mates to find hidden treasure.
-
-#### Scavenges
-
-When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
-
-- Tier 1: Post-Apocalyptic Survivor
-- Tier 1: Ruin Lore
-- Tier 2: Junkmonger
-- Tier 3: Taking Advantage or Incredible Health
-- Tier 4: Know Where to Look
-- Tier 5: Recycled Cyphers
-- Tier 6: Artifact Scavenger or Reactive Field
-
-GM Intrusions: An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.
-
-#### SCULPTS HARD LIGHT
-
-You create physical objects out of hard light that you can use for offense and defense.
-
-- Tier 1: Automatic Glow
-- Tier 1: Temporary Light
-- Tier 2: Entangling Force 
-- Tier 3: Harder Light or Sculpt Light 
-- Tier 4: Greater Enhanced Intellect 
-- Tier 5: Improved Sculpt Light 
-- Tier 6: Defensive Field or Flight 
-
-GM Intrusions: A hard light object disappears early. A hard light object cannot affect a certain creature or color.
-
-#### Sees Beyond
-
-You have a psychic sense that allows you to see what others cannot.
-
-- Tier 1: See the Unseen
-- Tier 2: See Through Matter
-- Tier 3: Find the Hidden or Sensor
-- Tier 4: Remote Viewing
-- Tier 5: See Through Time
-- Tier 6: Mental Projection or Total Awareness
-
-GM Intrusions: Some secrets are too terrible to know.
-
-#### Separates Mind From Body  
-
-You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.
-
-- Tier 1: Third Eye
-- Tier 2: Open Mind
-- Tier 2: Sharp Senses
-- Tier 3: Roaming Third Eye or Find the Hidden
-- Tier 4: Sensor
-- Tier 5: Psychic Passenger
-- Tier 6: Mental Projection or Improved Sensor
-
-GM Intrusions: Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
-
-#### Shepherds the Community
-
-You keep the place where you live safe from all danger.
-
-- Tier 1: Community Knowledge
-- Tier 1: Community Activist
-- Tier 2: Skill With Attacks
-- Tier 3: Shepherd’s Fury or Skill With Defense
-- Tier 4: Greater Enhanced Potential
-- Tier 5: Evasion
-- Tier 6: Greater Skill With Attacks or Protective Wall
-
-GM Intrusions: People in the community misunderstand the character’s motives. Rivals try to oust the character.
-
-#### Shepherds Spirits
-
-Wandering souls, nature spirits, and elemental beings aid and support you.
-
-(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)
-
-- Tier 1: Question the Spirits
-- Tier 2: Spirit Accomplice
-- Tier 3: Command Spirit or Preternatural Senses
-- Tier 4: Wraith Cloak
-- Tier 5: Call Dead Spirit
-- Tier 6: Call Otherworldly Spirit or Infuse Spirit
-
-GM Intrusions: Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.
-
-#### Shreds the Walls of the World
-
-Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
-
-- Tier 1: Phase Sprint
-- Tier 1: Disrupting Touch
-- Tier 2: Scratch Existence
-- Tier 3: Invisible Phasing or Walk Through Walls
-- Tier 4: Phase Detonation
-- Tier 5: Very Long Sprinting
-- Tier 6: Shred Existence or Untouchable While Moving
-
-GM Intrusions: Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
-
-#### SHRINKS TO MINUTE SIZE
-
-You can shrink down to the size of a bug and, with enough experience, even smaller. 
-
-- Tier 1: Shrink
-- Tier 1: Beneath Notice
-- Tier 2: Smaller
-- Tier 2: Advantages of Being Small
-- Tier 3: Enlarge or Quick Switch
-- Tier 4: Small Flight
-- Tier 5: Shrink Others
-- Tier 6: Bigger or Tiny
-
-GM Intrusions: A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.
-
-A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
-
-#### Siphons Power
-
-You suck power out of machines and creatures alike in order to empower yourself.
-
-(Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.)
-
-- Tier 1: Drain Machine
-- Tier 2: Drain Creature
-- Tier 3: Drain at a Distance or Unraveling Consumption
-- Tier 4: Store Energy
-- Tier 5: Share the Power
-- Tier 6: Explosive Release or Sun Siphon
-
-GM Intrusions: Drained power also transmits something unwanted—compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.
-
-#### Slays Monsters
-
-You kill monsters.
-
-(Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.)
-
-- Tier 1: Practiced With Swords
-- Tier 1: Monster Bane
-- Tier 1: Monster Lore
-- Tier 2: Will of Legend
-- Tier 3: Trained Slayer
-- Tier 3: Improved Monster Bane or Misdirect
-- Tier 4: Fight On
-- Tier 5: Greater Skill With Attacks (swords)
-- Tier 6: Murderer or Heroic Monster Bane
-
-GM Intrusions: The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster’s mother vows revenge.
-
-#### SOARS ON AMAZING WINGS
-
-Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
-
-- Tier 1: Hover
-- Tier 1: Flight Exertion
-- Tier 2: Wing Weapons
-- Tier 3: Acrobatic Attack or Flying Companion
-- Tier 4: Hard to Hit 
-- Tier 5: Up to Speed 
-- Tier 6: Hard Target or Defense Master
-
-GM Intrusions: A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
-
-#### Solves Mysteries
-
-You’re a master of deduction, using evidence to find the answer.
-
-- Tier 1: Investigator
-- Tier 1: Sleuth
-- Tier 2: Out of Harm’s Way
-- Tier 3: You Studied or Skill With Attacks
-- Tier 4: Draw Conclusion
-- Tier 5: Defuse Situation
-- Tier 6: Seize the Initiative or Greater Skill With Defense
-
-GM Intrusions: Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
-
-#### Speaks for the Land
-
-Your spiritual connection to nature and the environment grants you mystical abilities.
-
-- Tier 1: Seeds of Fury
-- Tier 1: Wilderness Lore
-- Tier 2: Grasping Foliage
-- Tier 3: Soothe the Savage or Communication
-- Tier 4: Moon Shape
-- Tier 5: Insect Eruption
-- Tier 6: Call the Storm or Earthquake
-
-GM Intrusions: An injured natural (but dangerous) creature is discovered. Someone’s poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
-
-#### Stands Like a Bastion
-
-Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.
-
-(Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.)
-
-- Tier 1: Practiced in Armor
-- Tier 1: Experienced Defender
-- Tier 2: Resist the Elements
-- Tier 3: Unmovable
-- Tier 3: Greater Enhanced Might or Practiced With All Weapons
-- Tier 4: Living Wall
-- Tier 5: Hardiness
-- Tier 5: Mastery in Armor
-- Tier 6: Lethal Damage or Shield Training
-
-GM Intrusions: Armor is damaged. Small foes conspire in ingenious ways.
-
-#### STRETCHES
-
-Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
-
-- Tier 1: Contortionist
-- Tier 1: Far Step
-- Tier 2: Elastic Grip
-- Tier 2: Safe Fall
-- Tier 3: Bypass Barrier or Misdirect 
-- Tier 4: Resilience 
-- Tier 5: Free to Move 
-- Tier 6: Break the Ranks or Not Dead Yet
-
-GM Intrusions: An attack or effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
-
-#### TAKES ANIMAL SHAPE
-
-You can transform yourself into an animal. 
-
-- Tier 1: Animal Shape
-- Tier 2: Communication 
-- Tier 2: Soothe the Savage
-- Tier 3: Bigger Animal Shape or Greater Beast Form
-- Tier 4: Animal Scrying
-- Tier 5: Hard to Kill
-- Tier 6: Blurring Speed or Lend Animal Shape
-
-GM Intrusions: The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
-
-Greater Beast Form applies to using Animal Shape.
-
-#### Talks to Machines
-
-You use your organic brain like a computer, interfacing “wirelessly” with any electronic device. You can control and influence them in ways that others can’t.
-
-- Tier 1: Machine Affinity
-- Tier 1: Distant Interface
-- Tier 2: Coaxing Power
-- Tier 2: Charm Machine
-- Tier 3: Intelligent Interface or Command Machine
-- Tier 4: Machine Companion
-- Tier 4: Robot Fighter
-- Tier 5: Information Gathering
-- Tier 6: Control Machine or Improved Machine Companion
-
-GM Intrusions: The machine malfunctions or acts unpredictably.
-
-#### Throws With Deadly Accuracy
-
-Everything that leaves your hand goes exactly where you’d like it to go and at the range and speed to make the perfect impact.
-
-- Tier 1: Precision
-- Tier 2: Careful Aim
-- Tier 3: Quick Throw or Skill With Defense
-- Tier 4: Everything Is a Weapon
-- Tier 4: Specialized Throwing
-- Tier 5: Whirlwind of Throws
-- Tier 6: Lethal Damage or Mastery With Defense
-
-GM Intrusions: Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.
-
-#### Thunders
-
-You emit destructive sound and manipulate soundscapes.
-
-- Tier 1: Thunder Beam
-- Tier 2: Sound Conversion Barrier
-- Tier 3: Nullify Sound or Echolocation
-- Tier 4: Shattering Shout
-- Tier 5: Subsonic Rumble
-- Tier 5: Amplify Sounds
-- Tier 6: Earthquake or Lethal Vibration
-
-GM Intrusions: Loud noises attract attention.
-
-#### TOUCHES THE SKY
-
-You can summon storms or break them apart.
-
-- Tier 1: Hover 
-- Tier 2: Wind Armor 
-- Tier 3: Bolts of Power or Storm Seed
-- Tier 4: Windrider 
-- Tier 5: Cold Burst 
-- Tier 6: Control Weather or Wind Chariot 
-
-GM Intrusions: An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
-
-#### Travels Through Time
-
-You can see through time, try to reach through it, and eventually even travel through it.
-
-(Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM’s setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.)
-
-- Tier 1: Anticipation
-- Tier 2: See History
-- Tier 3: Temporal Acceleration or Time Loop
-- Tier 4: Temporal Dislocation
-- Tier 5: Time Doppelganger
-- Tier 6: Call Through Time or Time Travel
-
-GM Intrusions: Paradoxes are created. Others remember past events differently.
-
-#### Was Foretold
-
-You are the “chosen one,” and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.
-
-- Tier 1: Interaction Skills
-- Tier 1: Knowing
-- Tier 2: Destined for Greatness
-- Tier 3: Overcome All Obstacles or Hard-Won Resilience
-- Tier 4: Center of Attention
-- Tier 5: Show Them the Way
-- Tier 6: As Foretold in Prophecy or Greater Enhanced Potential
-
-GM Intrusions: An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
-
-#### Wears a Sheen of Ice
-
-You command the wintery power of cold and ice.
-
-- Tier 1: Ice Armor
-- Tier 2: Frost Touch
-- Tier 3: Freezing Touch or Ice Creation
-- Tier 4: Resilient Ice Armor
-- Tier 5: Cold Burst
-- Tier 6: Ice Storm or Winter Gauntlets
-
-GM Intrusions: Ice makes surfaces slippery. Extreme cold causes objects to crack and break.
-
-#### Wears Power Armor
-
-- Tier 1: Powered Armor
-- Tier 1: Enhanced Might
-- Tier 2: Heads-Up Display
-- Tier 3: Fusion Armor or Incredible Health
-- Tier 4: Force Blast
-- Tier 5: Field-Reinforced Armor
-- Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)
-
-GM Intrusions: The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.
-
-#### WIELDS AN ENCHANTED WEAPON
-
-You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
-
-- Tier 1: Enchanted Weapon
-- Tier 1: Innate Power
-- Tier 1: Charge Weapon
-- Tier 2: Power Crash
-- Tier 3: Rapid Attack or Throw Enchanted Weapon
-- Tier 4: Defending Weapon
-- Tier 5: Enchanted Movement
-- Tier 6: Deadly Strike or Spin Attack 
-
-GM Intrusions: A weapon breaks or is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
-
-#### WIELDS INVISIBLE FORCE
-
-You bend light and manipulate beams of force for offense and defense.
-
-- Tier 1: Vanish 
-- Tier 2: Entangling Force 
-- Tier 2: Sharp Senses
-- Tier 3: Force Field Barrier or Multi-Vanish 
-- Tier 4: Invisibility 
-- Tier 5: Defensive Field
-- Tier 6: Concussion or Generate Force Field 
-
-GM Intrusions: Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual or unexpected attack.
-
-#### Wields Two Weapons at Once
-
-You bear steel with both hands, ready to take on any foe.
-
-- Tier 1: Dual Light Wield
-- Tier 2: Double Strike
-- Tier 2: Infiltrator
-- Tier 3: Dual Medium Wield or Precise Cut
-- Tier 4: Dual Defense
-- Tier 5: Dual Distraction
-- Tier 6: Disarming Attack or Spin Attack
-
-GM Intrusions: A blade snaps in two or a weapon flies loose from its bearer’s grip.
-
-#### Works for a Living
-
-You take great satisfaction in a job well done, whether it’s coding, building houses, or mining asteroids.
-
-- Tier 1: Handy
-- Tier 2: Muscles of Iron
-- Tier 3: Eye for Detail or Improvise
-- Tier 4: Enhanced Might
-- Tier 4: Tough It Out
-- Tier 5: Expert Skill
-- Tier 6: Greater Enhanced Potential or Hard-Won Resilience
-
-GM Intrusions: Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
-
-#### Works Miracles
-
-You can heal others with a touch, alter time to help others, and are generally beloved by everyone.
-
-- Tier 1: Healing Touch
-- Tier 2: Alleviate
-- Tier 3: Font of Healing or Miraculous Health
-- Tier 4: Inspire Action
-- Tier 5: Undo
-- Tier 6: Greater Healing Touch or Restore Life
-
-GM Intrusions: Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.
-
-#### Works the Back Alleys
-
-You make your way unseen, stealing from the wealthy to achieve your ends.
-
-- Tier 1: Stealth Skills
-- Tier 2: Underworld Contacts
-- Tier 3: Pull a Fast One or Guild Training
-- Tier 4: Master Thief
-- Tier 5: Dirty Fighter
-- Tier 6: Alley Rat or All-Out Con
-
-GM Intrusions: Thieves are thrown in jail. Powerful enemies are made.
-
-#### Works the System
-
-You can exploit flaws in artificial systems, including but not limited to computer code.
-
-- Tier 1: Hack the Impossible
-- Tier 1: Computer Programming
-- Tier 2: Connected
-- Tier 3: Confidence Artist or Skill With Attacks
-- Tier 4: Confuse Enemy
-- Tier 5: Work the Friendship
-- Tier 6: Call in Favor or Greater Enhanced Potential
-
-GM Intrusions: Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.
-
-#### Would Rather Be Reading
-
-Books are your friends. What’s more important than knowledge? Nothing.
-
-- Tier 1: Knowledge Is Power
-- Tier 2: Greater Enhanced Intellect
-- Tier 3: Applying Your Knowledge or Flex Skill
-- Tier 4: Knowledge Is Power
-- Tier 4: Knowing the Unknown
-- Tier 5: Greater Enhanced Intellect
-- Tier 6: Knowledge Is Power
-- Tier 6: Tower of Intellect or Read the Signs
-
-GM Intrusions: Books burn, get wet, or get lost. Computers break or lose power. Glasses break.
-
-#### TakeS ANiMAL SHAPE
-
-A shapechanger who can take the form of various animals. 
-
-- Tier 1: Animal Shape
-- Tier 2: Communication 
-- Tier 2: Soothe the Savage 
-- Tier 3: Bigger Animal Shape or Greater Beast Form (works with Animal Shape)
-- Tier 4: Animal Scrying
-- Tier 5: Hard to Kill
-- Tier 6: Blurring Speed or Lend Animal Shape
-
-GM Intrusions: The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
-
-#### USES WILD MAGIC
-
-A spellcaster who learns a variety of spells instead of focusing on just one kind of magic. 
-
-- Tier 1: Magical Repertoire
-- Tier 1: Cypher Casting
-- Tier 2: Expanded Repertoire
-- Tier 3: Cypher Surge or Faster Wild Magic
-- Tier 4: Expanded Repertoire
-- Tier 5: Magical Training
-- Tier 6: Maximize Cypher or Wild Insight
-
-GM Intrusions: A spell performserratically or rebounds upon the caster.Something interferes with preparingspells. Spellcasting attracts the attentionof a powerful creature or potential rival.The cypher spell being cast is replacedwith that of a random cypher.
-
-#### WALKS THE WILD WOODS
-
-An adherent of nature magic who draws on the power and strength of trees. 
-
-- Tier 1: Wilderness Life 
-- Tier 1: Patient Recovery
-- Tier 2: Wooden Body
-- Tier 3: Tree Companion or Wilderness Awareness 
-- Tier 4: Tree Travel
-- Tier 5: Great Tree
-- Tier 6: Dreadwood or Restorative Bloom
-
-GM Intrusions: A wooden charactercatches fire. A wild swing from a treebranch hits or trips an ally. Some treeshave evil hearts and hate all walkingthings.
-
-#### WEILDS AN ENCHANTED WEAPON
-
-One who channels magic through or from a weapon to create a unique fighting style.
-
-- Tier 1: Enchanted Weapon
-- Tier 1: Innate Power
-- Tier 1: Charge Weapon
-- Tier 2: Power Crash
-- Tier 3: Rapid Attack or Throw Enchanted Weapon
-- Tier 4: Defending Weapon
-- Tier 5: Enchanted Movement
-- Tier 6: Deadly Strike or Spin Attack 
-
-GM Intrusions: A weapon breaks or isdropped. The weapon loses its connectionto you until you use an action toreestablish the attunement. The weapon’senergy discharges in an unexpected way
+The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus’s theme, whether that’s a straight-up damage boost on attacks or better control of an unstable physical transformation.
 
 ### CREATING NEW FOCI
 
@@ -4090,609 +3237,1743 @@ As a good rule of thumb, a typical ability should cost points equal to its tier.
 
 Think about the kinds of things that might surprise, alarm, or go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
 
-#### FOCUS CATEGORIES
+### FOCI
 
-##### ALLY USE
+The full description for each focus ability listed in this section is found in the Abilities chapter, which has descriptions for type, flavor, and focus abilities in a single vast catalog.
 
-Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character’s actions.
+#### Abides in Stone
 
-Multiple potential themes exist within the ally use category, from abilities that allow a character to summon or craft allies to those that allow them to attract allies through fame, magic, or essential authority or charisma.
+Abides in Stone #Focus #TankFocus  #Core
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Your flesh is made of hard mineral, making you a hulking, difficult-to-harm humanoid.
 
-Additional Equipment: Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don’t require anything to gain or retain their benefits.
+- Tier 1: Golem Body
+- Tier 1: Golem Healing
+- Tier 2: Golem Grip
+- Tier 3: Trained Basher
+- Tier 3: Golem Stomp or Weaponization
+- Tier 4: Deep Reserves
+- Tier 5: Specialized Basher
+- Tier 5: Still As a Statue
+- Tier 6: Ultra Enhancement or Mind Surge
 
-Minor Effect Suggestions: The NPC ally’s tasks are eased on its next turn.
+GM Intrusions: Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.
 
-Major Effect Suggestions: The NPC ally gains an immediate extra action.
+#### Absorbs Energy
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Builds Robots
-- Consorts With the Dead
-- Controls Beasts
-- Exists in Two Places at Once
-- Leads
-- Masters the Swarm
-- Shepherds Spirits
+Absorbs Energy #Focus #EnergyFocus #Core 
 
-**Ability Selection Guidelines**
+You can harness kinetic energy and transform it into other kinds of energy.
 
-Tier 1: Choose a low-tier ability that grants a level 2 NPC follower to the character, or gives a similar benefit provided by an NPC. Alternatively, lay the groundwork for gaining such NPC allies at higher tiers by choosing an ability that gives the character influence over others.
+- Tier 1: Absorb Kinetic Energy
+- Tier 1: Release Energy
+- Tier 2: Energize Object
+- Tier 3: Absorb Pure Energy or Improved Absorb Kinetic Energy
+- Tier 4: Overcharge Energy
+- Tier 5: Energize Creature
+- Tier 6: Energize Crowd or Overcharge Device
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. For instance, training in a skill related to the kind of NPC follower the character gains would be appropriate.
+GM Intrusions: Energy goes to ground in a destructive way. Some predators feed directly on energy. An unintended item is drained of energy.
 
-Tier 2: Choose a low-tier ability that grants influence over similar kinds of NPCs as the follower gained at the previous tier. If no follower was gained at the previous tier, this ability should provide that benefit now.
+#### Awakens Dreams
 
-Sometimes a secondary ability might be appropriate in addition to the ability provided above, perhaps a low-power ability that grants 2 or 3 points to a Pool.
+Awakens Dreams #Focus #EnvironmentFocus #Core 
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+You can pull images from dreams and bring them to life in the waking world.
 
-One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
+- Tier 1: Dreamcraft
+- Tier 1: Oneirochemy
+- Tier 2: Dream Thief
+- Tier 3: Dream Becomes Reality or Enhanced Intellect
+- Tier 4: Daydream
+- Tier 5: Nightmare
+- Tier 6: Chamber of Dreams or Reactive Field
 
-The other option should be something that benefits the character—perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
+GM Intrusions: An unexpected sleepwalking episode puts the character into a dangerous situation. A nightmare breaks free of a dream.
 
-Tier 4: Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven’t previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
+#### Battles Robots
 
-Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
+Battles Robots #Focus #StrikerFocus #Core 
 
-Tier 5: Choose an ability that improves the character by providing a defense, an improved stat Pool, or another kind of protection.
+You excel in battling robots, automatons, and machine entities.
 
-Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
+- Tier 1: Machine Vulnerabilities
+- Tier 1: Tech Skills
+- Tier 2: Defense Against Robots
+- Tier 2: Machine Hunting
+- Tier 3: Disable Mechanisms or Surprise Attack
+- Tier 4: Robot Fighter
+- Tier 5: Drain Power
+- Tier 6: Deactivate Mechanisms or Lethal Damage
 
-Finally, this ability might improve a previously gained follower to level 5.
+GM Intrusions: The robot explodes upon defeat. Other robots come after the character for revenge.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Bears a Halo of Fire
 
-One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided _in addition_ to two other related abilities.
+Bears a Halo of Fire #Focus #EnergyFocus #Core 
 
-Another high-tier option could provide a handful of level 3 followers to the character.
+You can sheath your body in flames, which protects you and harms your foes.
 
-The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
+- Tier 1: Shroud of Flame
+- Tier 2: Hurl Flame
+- Tier 3: Wings of Fire or Fiery Hand of Doom
+- Tier 4: Flameblade
+- Tier 5: Fire Tendrils
+- Tier 6: Fire Servant or Inferno Trail
 
-##### BASIC
+GM Intrusions: Fire burns flammable material. Fire spreads out of control. Primitive creatures fear fire and often attack what they fear.
 
-Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
+#### Blazes With Radiance
 
-In addition, because the benefits provided by such foci are mostly straightforward (usually with a few exceptions), most basic foci would also be appropriate for non-fantastic campaigns where magic, super-science, or psychic abilities normally don’t come into play. That said, just because the abilities granted by basic foci are straightforward doesn’t mean they are not potent when combined with the abilities granted by type, descriptor, cyphers, and other character aspects.
+Blazes With Radiance #Focus #EnvironmentFocus #Core 
 
-Connection: Choose four relevant connections from the Focus Connections list.
+You can create light, sculpt it, bend it away from you, or gather it to use as a weapon.
 
-Additional Equipment: Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Would Rather Be Reading should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
+- Tier 1: Enlightened
+- Tier 1: Illuminating Touch
+- Tier 2: Dazzling Sunburst
+- Tier 3: Burning Light or Skill With Defense
+- Tier 4: Sunlight
+- Tier 5: Disappear
+- Tier 6: Living Light or Defensive Field
 
-Minor Effect Suggestions: Next action is eased.
+GM Intrusions: Allies are accidentally dazzled or blinded. Bright flashes draw guards.
 
-Major Effect Suggestions: Make a free, no-action recovery roll that doesn’t count against daily recovery rolls.
+#### Brandishes an Exotic Shield
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Doesn’t Do Much
-- Interprets the Law
-- Learns Quickly
-- Works for a Living
-- Would Rather Be Reading
+Brandishes an Exotic Shield #Focus #TankFocus #Core 
 
-**Ability Selection Guidelines**
+You deploy an amazing shield of pure force that provides protection and some offensive options.
 
-Tier 1: Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
+- Tier 1: Force Field Shield
+- Tier 1: Force Bash
+- Tier 2: Enveloping Shield
+- Tier 3: Healing Pulse or Throw Force Shield
+- Tier 4: Energized Shield
+- Tier 5: Force Wall
+- Tier 6: Bouncing Shield or Shield Burst
 
-Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
+GM Intrusions: The shield is temporarily lost. A foe temporarily ends up with the shield.
 
-Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
+#### Builds Robots
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+Builds Robots #Focus #AllyFocus #Core 
 
-One option should be a non-fantastic ability that improves the character’s abilities within the focus’s theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
+Your robotic creations do as they are commanded.
 
-The other option should be something that either improves the character’s Edge in an appropriate stat or provides the character with some kind of defense.
+(The word “robot” is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible “robots.”)
 
-Tier 4: Choose another ability that grants additional training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool best suited to the focus. Or choose two abilities that provide only 2 or 3 points plus another tier 4 ability that improves a single task or skill.
+- Tier 1: Robot Assistant
+- Tier 1: Robot Builder
+- Tier 2: Robot Control
+- Tier 3: Expert Follower or Skill With Defense
+- Tier 4: Robot Upgrade
+- Tier 5: Robot Fleet
+- Tier 6: Robot Evolution or Robot Upgrade
 
-Alternatively, provide a branch-out ability suggested at tier 5.
+GM Intrusions: The robot is hacked, gains a mind of its own, or unexpectedly detonates.
 
-Finally, if the focus has yet to grant some kind of defense, a defensive ability could be provided here.
+#### Calculates the Incalculable
 
-Tier 5: Choose an ability that allows the character to branch out slightly—perhaps one like Expert Skill that allows them to automatically succeed on a task they’re trained in.
+Calculates the Incalculable #Focus #EnvironmentFocus #Core 
 
-Alternatively, if a nonstandard benefit was provided at tier 4, provide the benefits suggested at tier 4 here.
+Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+- Tier 1: Predictive Equation
+- Tier 1: Higher Mathematics
+- Tier 2: Predictive Model
+- Tier 3: Subconscious Defense or Enhanced Intellect
+- Tier 4: Cognizant Offense
+- Tier 5: Greater Enhanced Intellect
+- Tier 5: Further Mathematics
+- Tier 6: Knowing the Unknown or Greater Enhanced Intellect
 
-One option should be an ability that provides another 5 or 6 points to a particular Pool best suited to the focus, or that the character can divide up as they wish. Alternatively, training in offense or defense would also be appropriate.
+GM Intrusions: Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
 
-The other tier 6 option should give the character a brand-new ability within their theme, but not one that strays into the realm of the fantastic. For instance, an ability that allows a character to take two actions instead of one would be reasonable. Granting additional training, assets, or Edge would also be fine.
+#### Channels Divine Blessings
 
-##### ENERGY MANIPULATION
+Channels Divine Blessings #Focus #IrregularFocus #Core 
 
-Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like “void” or “shadow.” These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
+A devout follower of a divine being, you channel some of your deity’s power to achieve wonders.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+- Tier 1: Blessing of the Gods
+- Tier 2: Enhanced Intellect
+- Tier 3: Divine Radiance or Fire Bloom
+- Tier 4: Overawe
+- Tier 5: Divine Intervention
+- Tier 6: Divine Symbol or Summon Demon
 
-Additional Equipment: One or more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don’t require additional equipment.
+GM Intrusions: A demon investigates divine magic use. A rival cult has issues with the character’s teachings.
 
-Energy Abilities: If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
+#### Commands Mental Powers
 
-Minor Effect Suggestions: The target or something near the target is hindered because of residual energy.
+Commands Mental Powers #Focus #InfluenceFocus #Core 
 
-Major Effect Suggestions: An important item on the target’s person is destroyed.
+You have honed the power of your mind to perform amazing psychic deeds.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Absorbs Energy
-- Bears a Halo of Fire
-- Dances With Dark Matter
-- Rides the Lightning
-- Thunders
-- Wears a Sheen of Ice
+- Tier 1: Telepathic
+- Tier 2: Mind Reading
+- Tier 3: Psychic Burst or Psychic Suggestion
+- Tier 4: Use Senses of Others
+- Tier 5: Precognition
+- Tier 6: Mind Control or Telepathic Network
 
-**Ability Selection Guidelines**
+GM Intrusions: Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.
 
-Tier 1: Choose a low-tier ability that either inflicts damage or provides protection using the appropriate energy type in some fashion.
+#### Conducts Weird Science
 
-Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact or have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
+Conducts Weird Science #Focus #InfluenceFocus #Core 
 
-Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
+Your preternatural insight and ability make you a scientist capable of amazing feats.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+- Tier 1: Lab Analysis
+- Tier 1: Knowledge Skills
+- Tier 2: Modify Device
+- Tier 3: Better Living Through Chemistry or Incredible Health
+- Tier 4: Knowledge Skills
+- Tier 4: Just a Bit Mad
+- Tier 5: Weird Science Breakthrough
+- Tier 6: Incredible Feat of Science
+- Tier 6: Inventor or Defensive Field
 
-One option should be an ability that inflicts damage using the appropriate energy type (and possibly a related effect).
+GM Intrusions: Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.
 
-The other should grant enhanced movement by use of the appropriate energy type, give additional protection provided by the preferred energy, or use the energy in a completely new way, such as by draining the energy from a machine (if using electricity), entombing a victim in a layer of ice (if using cold), creating perfect silence (if using sound), creating a dazzling blast of illumination (if using light), and so on.
+#### Consorts With the Dead
 
-Tier 4: Choose whichever kind of ability wasn’t chosen at tier 3.
+Consorts With the Dead #Focus #AllyFocus #Core
 
-Tier 5: Choose a high-tier ability that inflicts damage (and possibly a related effect) that can affect more than one target using the appropriate energy type, or an ability that uses the energy in some fashion not previously used, as described in tiers 3 and 6.
+The dead answer your questions, and their reanimated corpses serve you.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+- Tier 1: Speaker for the Dead
+- Tier 2: Necromancy
+- Tier 3: Reading the Room or Repair Flesh
+- Tier 4: Greater Necromancy
+- Tier 5: Terrifying Gaze
+- Tier 6: True Necromancy or Word of Death
 
-One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several.
+GM Intrusions: The character’s necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
 
-The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
+#### Controls Beasts
 
-##### ENVIRONMENT MANIPULATION
+Controls Beasts #Focus #AllyFocus #Core 
 
-Foci that allow a character to move objects, affect gravity, create objects (or illusions of objects), and so on are environment manipulation foci. Given that, in many cases, energy is used as part of this process, this category and energy manipulation overlap to some extent. Environment manipulation foci prioritize abilities that indirectly affect enemies and allies via objects, forces, and alterations of the surroundings; energy manipulation foci prioritize directly damaging targets with the chosen energy or force.
+Your ability to communicate and lead beasts is uncanny.
 
-For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, or lower gravity in a particular area or even on a particular object.
+- Tier 1: Beast Companion
+- Tier 2: Soothe the Savage
+- Tier 2: Communication
+- Tier 3: Mount or Stronger Together
+- Tier 4: Beast Eyes
+- Tier 4: Improved Companion
+- Tier 5: Beast Call
+- Tier 6: As If One Creature or Control the Savage
 
-Connection: Choose four relevant connections from the Focus Connections list.
+GM Intrusions: The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.
 
-Additional Equipment: Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don’t require anything to gain or retain their benefits.
+#### Controls Gravity
 
-Environment Manipulation Abilities: Foci themes that involve imagery or visible energies can affect the look of your type abilities. Such alterations, if any, do nothing but change the appearance of effects. If gravity is manipulated, perhaps a telltale bluish glow permeates all ability uses, including type abilities. If illusion is generated, perhaps flamboyant visual and auditory qualities accompany type abilities, such as the appearance of a tentacled beast holding a target in place when Stasis is used. And so on.
+Controls Gravity #Focus #EnvironmentFocus #Core 
 
-Minor Effect Suggestions: The target gets turned around, and its next attack is hindered.
+You can sway the attraction of gravity itself.
 
-Major Effect Suggestions: The character is refreshed and recovers 4 points to one Pool.
+- Type Swap Option: Weighty
+- Tier 1: Hover
+- Tier 2: Enhanced Speed Edge
+- Tier 3: Define Down or Gravity Cleave
+- Tier 4: Field of Gravity
+- Tier 5: Flight
+- Tier 6: Improved Gravity Cleave or Weight of the World
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Awakens Dreams
-- Blazes With Radiance
-- Calculates the Incalculable
-- Controls Gravity
-- Crafts Illusions
-- Crafts Unique Objects
-- Employs Magnetism
-- Focuses Mind Over Matter
+GM Intrusions: Onlookers react with unreasoning fear. A weird interaction sends an ally or object careening into the sky.
 
-**Ability Selection Guidelines**
+#### Copies Superpowers
 
-Tier 1: Choose a low-tier ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus’s theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter or heavier. An  
-illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
+Copies Superpowers #Focus #Core #SuperHeroes
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
+You can copy others’ skills, abilities, and superpowers.
 
-Tier 2: Choose a low-tier ability that provides a new defensive or offensive capability related to the focus’s theme.
+- Tier 1: Flex Skill 
+- Tier 1: Flex Skill 
+- Tier 2: Copy Power
+- Tier 3: Steal Power or Wildcard Powers
+- Tier 4: Improved Copying
+- Tier 5: Power Memory
+- Tier 6: Amazing Copying or Multiple
 
-Alternatively, this ability might provide an additional or brand-new capability to manipulate the environment related to the focus’s theme.
+Copying GM Intrusions: A copied power ends unexpectedly or goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Crafts Illusions
 
-One option should be a mid-tier ability related to the focus’s theme that provides an additional environment manipulation capacity or further improves the basic environment manipulation ability previously granted. This ability isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or one that increases the strength, range, or some other extension of the previously unlocked basic ability.
+Crafts Illusions #Focus #EnvironmentFocus #Core 
 
-The other mid-tier option should provide an offensive or defensive ability related to the specific form of movement the focus provides, if possible.
+You fashion images from light that are so perfect they seem real.
 
-Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use of the ability, whichever one wasn’t chosen as an option in the previous tier.
+- Tier 1: Minor Illusion
+- Tier 2: Illusory Disguise
+- Tier 3: Cast Illusion or Major Illusion
+- Tier 4: Illusory Selves
+- Tier 5: Terrifying Image
+- Tier 6: Grandiose Illusion or Permanent Illusion
 
-Tier 5: Choose a high-tier penultimate use of the environment-manipulation ability. For instance, if the focus-granted manipulation is illusory, this ability might haunt a target with terrifying images. If the focus is gravity based, it might unlock flight. If magnetic, it might allow the user to reshape metal. If the focus grants telekinetic powers, this ability could allow a character to hurl massive objects at foes. And so on.
+GM Intrusions: The illusion isn’t believable. The illusion is pierced at just the wrong moment.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Crafts Unique Objects
 
-One of the abilities should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
+Crafts Unique Objects #Focus #EnvironmentFocus #Core 
 
-The other option should be something that further explores the use of the basic environment manipulation capability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
+You’re an inventor of strange and useful objects.
 
-##### EXPLORATION
+- Tier 1: Crafter
+- Tier 1: Master Identifier
+- Tier 2: Artifact Tinkerer
+- Tier 2: Quick Work
+- Tier 3: Master Crafter or Built-In Weaponry
+- Tier 4: Cyphersmith
+- Tier 5: Innovator
+- Tier 6: Inventor or Fusion Armor
 
-Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations or track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized.
+GM Intrusions: The object malfunctions, breaks, or suffers catastrophic or unexpected failure.
 
-Exploration foci rely on a variety of methods, though training and expertise are the mainstays. Some methods require specific tools (such as a vehicle) to grant the benefits provided, while others might rely on the supernatural or  
-super-science to learn new things and explore strange places from afar.
+(Cyphersmith works only in a setting where the cyphers are physical objects. If this isn’t the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.)
 
-Connection: Choose four relevant connections from the Focus Connections list.
+#### Dances With Dark Matter
 
-Additional Equipment: Any object necessary to explore. For instance, starting maps and/or  
-a compass would be basic equipment, while someone who uses psychic abilities might require a mirror or crystal sphere to gaze into. Equipment might also include access to a vehicle required for exploration, as previously noted.
+Dances With Dark Matter #Focus #EnergyFocus #Core 
 
-Minor Effect Suggestions: You have an asset on any action that involves using your senses, such as perceiving or attacking, until the end of the next round.
+You can manipulate shadow and “dark” matter.
 
-Major Effect Suggestions: Your Intellect Edge increases by 1 until the end of the next round.
+- Tier 1: Ribbons of Dark Matter
+- Tier 2: Void Wings
+- Tier 3: Dark Matter Shroud or Dark Matter Strike
+- Tier 4: Dark Matter Shell
+- Tier 5: Windwracked Traveler
+- Tier 6: Dark Matter Structure or Embrace the Night
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Explores Dark Places
-- Infiltrates
-- Operates Undercover
-- Pilots Starcraft
-- Sees Beyond
-- Separates Mind From Body
+GM Intrusions: Dark matter skulks away as if possessed by a mind of its own.
 
-**Ability Selection Guidelines**
+#### Defends the Gate
 
-Tier 1: Choose a low-tier ability that grants the character basic exploratory, survival, or information-gathering capabilities within the focus’s theme.
+Defends the Gate #Focus #TankFocus #Core 
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the Might Pool.
+Everyone wants you on their side when it comes to a fight because nothing gets by you.
 
-Tier 2: Choose another low-tier ability that grants an additional capability related to exploration, survival, or information gathering.
+- Tier 1: Fortified Position
+- Tier 1: Rally to Me
+- Tier 2: Mind for Might
+- Tier 3: Fortification Builder or Divert Attacks
+- Tier 4: Greater Enhanced Might
+- Tier 5: Reinforcing Field
+- Tier 6: Generate Force Field or Stun Attack
 
-For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, or a capability that others normally lack (like the ability to see in the dark).
+GM Intrusions: A strategically important structure collapses. The enemy attacks from an unexpected direction.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Defends the Weak
 
-One option should further improve the basic exploration ability granted, or give a new exploratory, survival, or information-gathering ability.
+Defends the Weak #Focus #SupportFocus #Core 
 
-The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn’t already granted that) or something that further broadens the character’s ability to explore in the focus’s chosen realm.
+You stand up for the helpless, the weak, and the unprotected.
 
-Tier 4: Choose a mid-tier offensive or defensive ability (whichever wasn’t offered at tier 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-tier ability that broadens the character’s ability to explore, survive, or gather information.
+- Tier 1: Courageous
+- Tier 1: Warding Shield
+- Tier 2: Devoted Defender
+- Tier 2: Insight
+- Tier 3: Dual Wards or True Guardian
+- Tier 4: Combat Challenge
+- Tier 5: Willing Sacrifice
+- Tier 6: Resuscitate or True Defender
 
-Tier 5: Choose a high-tier ability that alleviates some of the penalties for exploring, surviving, or gathering information in a normally inhospitable place.
+GM Intrusions: A character focused on protecting others may periodically leave themselves vulnerable to attacks.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Descends From Nobility
 
-One option should further improve the basic exploration-themed ability previously granted, or give a brand-new exploratory, survival, or information-gathering ability.
+Descends From Nobility #Focus #IrregularFocus #Core 
 
-The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
+A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
 
-##### INFLUENCE
+- Type Swap Option: Retinue
+- Tier 1: Privileged Nobility
+- Tier 2: Trained Interlocutor
+- Tier 3: Advanced Command or Noble’s Courage
+- Tier 4: Expert Follower
+- Tier 5: Asserting Your Privilege
+- Tier 6: Able Assistance or Mind of a Leader
 
-Foci that prioritize authority and influence—whether that’s to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position—fall within the influence category.
+GM Intrusions: Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
 
-These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people’s attention and influence their actions, or simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
+#### Doesn’t Do Much
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Doesn’t Do Much #Focus #BasicFocus #Core 
 
-Additional Equipment: Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don’t require anything to gain or retain their benefits.
+You’re a slacker, but you know a little about a lot of things.
 
-Minor Effect Suggestions: The range or duration of the influencing ability is doubled.
+- Tier 1: Life Lessons
+- Tier 2: Totally Chill
+- Tier 3: Skill With Attacks or Improvise
+- Tier 4: Life Lessons
+- Tier 4: Greater Skill With Defense
+- Tier 5: Greater Enhanced Potential
+- Tier 6 Drawing on Life’s Experiences or Quick Wits
 
-Major Effect Suggestions: An ally or indicated target can take an additional action.
+GM Intrusions: New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Commands Mental Powers
-- Conducts Weird Science
-- Fuses Mind and Machine
-- Is Idolized by Millions
-- Solves Mysteries
-- Talks to Machines
-- Works the System
+#### Drives Like A Maniac
 
-**Ability Selection Guidelines**
+Drives Like A Maniac #Focus #Core 
 
-Tier 1: Choose a low-tier ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade or intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
+Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don’t think about the risks when you’re behind the wheel.
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
+(Someone who Drives Like a Maniac needs access to a vehicle.)
 
-Tier 2: Choose a low-tier ability that improves the character’s ability to apply influence. This might open an additional front on the focus’s basic theme or simply further enhance the basic ability already provided. For instance, this tier 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they’d otherwise not reveal, or grant influence over physical objects (either to improve them or to learn more about them). And so on.
+- Tier 1: Driver
+- Tier 1: Driving on the Edge
+- Tier 2: Car Surfer
+- Tier 2: Stare Them Down
+- Tier 3: Expert Driver or Enhanced Speed Edge
+- Tier 4: Sharp-Eyed
+- Tier 4: Enhanced Speed
+- Tier 5: Something in the Road
+- Tier 6: Trick Driver or Lethal Damage
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+GM Intrusions: The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
 
-One option should provide an offensive or defensive capability related to the focus’s specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense or defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training or their entourage.
+#### Emerged From the Obelisk
 
-The other mid-tier option should provide an additional ability to influence in the theme of the focus, or further improve the basic influence ability previously granted. This option isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or increases the strength, range, or some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
+Emerged From the Obelisk #Focus #IrregularFocus #Core 
 
-Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use of the influence ability, whichever one wasn’t chosen as an option in the previous tier.
+Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
 
-Alternatively, this ability could grant an additional capability related to the kind of influence the focus provides.
+- Tier 1: Crystalline Body
+- Tier 2: Hover
+- Tier 3: Inhabit Crystal or Immovable
+- Tier 4: Crystal Lens
+- Tier 5: Resonant Frequency
+- Tier 6: Resonant Quake or Return to the Obelisk
 
-Tier 5: Choose a high-tier penultimate use of the specific influence ability granted at lower tiers.
+GM Intrusions: Cyphers and artifacts react unexpectedly in the character’s hands.
 
-Alternatively, choose an ability not previously gained at a lower tier, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the tier 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies).
+#### Employs Magnetism
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+Employs Magnetism #Focus #EnvironmentFocus #Core 
 
-One of the options should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
+You command metal and the power of magnetism.
 
-The other option should be something that further explores the use of the basic influence ability provided by the focus. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
+- Tier 1: Move Metal
+- Tier 2: Repel Metal
+- Tier 3: Destroy Metal or Guide Bolt
+- Tier 4: Magnetic Field
+- Tier 5: Command Metal
+- Tier 6: Diamagnetism or Iron Punch
 
-##### IRREGULAR
+GM Intrusions: The metal twists, bends, or produces shrapnel. A lapse in concentration might cause something to slip or drop at just the wrong time.
 
-Most foci have a basic theme, a “character story” that logically leads to a series of related abilities. However, certain foci themes are so wide that they don’t fit into any other category except an irregular one of their own.
+#### Entertains
 
-Irregular foci provide a basket of disparate abilities. Usually that’s because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
+Entertains #Focus #SupportFocus #Core 
 
-Connection: Choose four relevant connections from the Focus Connections list.
+You perform, mostly for the benefit of others.
 
-Additional Equipment: Any object necessary to the focus’s theme. For instance, a superhero-themed focus might grant a superhero costume.
+- Tier 1: Levity
+- Tier 2: Inspiring Ease
+- Tier 3: Knowledge Skills or Greater Enhanced Potential
+- Tier 4: Calm
+- Tier 5: Able Assistance
+- Tier 6: Master Entertainer or Vindictive Performance
 
-Minor Effect Suggestions: The target is also dazed for one round, during which time all of its tasks are hindered.
+GM Intrusions: The audience is annoyed or offended. Musical instruments break. Paints dry in their pots. The words to a poem or song are forgotten.
 
-Major Effect Suggestions: The target is stunned and loses its next turn.
+#### Exists in Two Places at Once
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Channels Divine Blessings
-- Descends From Nobility
-- Emerged From the Obelisk
-- Flies Faster Than a Bullet
-- Masters Spells
-- Speaks for the Land
+Exists in Two Places at Once #Focus #AllyFocus #Core 
 
-**Ability Selection Guidelines**
+You exist in two places at once.
 
-Tier 1: Choose a low-tier ability that grants one of the benefits the focus theme promises, one that a first-tier character should have.
+- Tier 1: Duplicate
+- Tier 2: Share Senses
+- Tier 3: Superior Duplicate or Resilient Duplicate
+- Tier 4: Damage Transference
+- Tier 5: Coordinated Effort
+- Tier 6: Multiplicity or Resilient Duplicate
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. Alternatively, it might offer a simple bonus of 2 or 3 points to a Pool.
+GM Intrusions: Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, or confusion.
 
-Tier 2: Choose a low-tier ability that grants one of the benefits the focus theme promises, one that’s presumably not immediately related to the one provided at tier 1. That said, if a defense wasn’t provided at tier 1, tier 2 is a good place to add it.
+#### Exists Partially Out of Phase
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+Exists Partially Out of Phase #Focus #MovementFocus #Core 
 
-One option should provide one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
+A bit translucent, you’re slightly out of phase and can move through solid objects.
 
-The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-tier abilities don’t quite get the character where they need to be, this option might further increase a capability unlocked at a lower tier.
+- Tier 1: Walk Through Walls
+- Tier 2: Defensive Phasing
+- Tier 3: Phased Attack or Phase Door
+- Tier 4: Ghost
+- Tier 5: Untouchable
+- Tier 6: Enhanced Phased Attack or Phase Foe
 
-Tier 4: Choose a mid-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
+GM Intrusions: The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
 
-Tier 5: Choose a high-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
+#### Explores Dark Places
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+Explores Dark Places #Focus #ExplorationFocus #Core 
 
-One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. However, this ability might also provide an ultimate version of a lower-tier ability if a mid-tier or low-tier option wasn’t quite sufficient.
+You’re the archetypal treasure hunter, scavenger, and finder of lost things.
 
-The other option should provide an alternate method to round out the character in a way that doesn’t replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus’s overarching theme.
+- Tier 1: Superb Explorer
+- Tier 2: Superb Infiltrator
+- Tier 2: Eyes Adjusted
+- Tier 3: Nightstrike or Slippery Customer
+- Tier 4: Hard-Won Resilience
+- Tier 5: Dark Explorer
+- Tier 6: Blinding Attack or Embraced by Darkness
 
-##### MOVEMENT EXPERTISE
+GM Intrusions: Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.
 
-Foci that prioritize novel forms of movement—in order to excel in combat, escape situations most others can’t, move with stealth for purposes of theft or escape, or move into locations normally inaccessible—fall within the movement expertise category. These foci usually have methods of granting either offense or defense through movement, though they may provide some means of doing both.
+#### Fights Dirty
 
-The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water or air, or to instantly move via teleportation.
+Fights Dirty #Focus #StrikerFocus #Core 
 
-Connection: Choose four relevant connections from the Focus Connections list.
+You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
 
-Additional Equipment: Any object necessary to achieve great speeds, change state, or otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don’t require anything to gain or retain their benefits.
+- Tier 1: Tracker
+- Tier 1: Stalker
+- Tier 2: Sneak
+- Tier 2: Quarry
+- Tier 3: Betrayal or Surprise Attack
+- Tier 4: Mind Games
+- Tier 4: Capable Warrior
+- Tier 5: Using the Environment
+- Tier 6: Twisting the Knife or Murderer
 
-Minor Effect Suggestions: The target is dazed, and their next action is hindered.
+GM Intrusions: People look poorly upon those who cheat or fight without honor. Sometimes a dirty trick backfires.
 
-Major Effect Suggestions: The target is stunned and loses their next action.
+#### Fights With Panache
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Exists Partially Out of Phase
-- Moves Like a Cat
-- Moves Like the Wind
-- Runs Away
-- Shreds the Walls of the World
-- Travels Through Time
-- Works the Back Alleys
+Fights With Panache #Focus #StrikerFocus #Core 
 
-**Ability Selection Guidelines**
+You’re a swashbuckling daredevil who fights with flamboyant style that’s entertaining to watch.
 
-Tier 1: Choose a low-tier ability that grants the basic benefit of the specific movement style, whether that’s enhanced speed, agility, immateriality, and so on.
+- Tier 1: Attack Flourish
+- Tier 2: Quick Block
+- Tier 3: Acrobatic Attack or Flamboyant Boast
+- Tier 4: Block for Another
+- Tier 4: Fast Kill
+- Tier 5: Using the Environment
+- Tier 6: Agile Wit or Return to Sender
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding or training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive or defensive benefit (relying on the use of the initial basic ability), append it as well.
+GM Intrusions: The display comes off looking silly, clumsy, or unattractive.
 
-Tier 2: Choose a low-tier ability that provides a new offensive or defensive capability related to the focus’s theme.
+#### Flies Faster Than a Bullet
 
-Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
+Flies Faster Than a Bullet #Focus #IrregularFocus #Core 
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+You can fly, and you’re superstrong, hard to hurt, and fast too. Is there anything you can’t do?
 
-One option should provide an additional movement capacity or further improve the basic movement capacity, related to the focus’s theme. This isn’t directly offensive or defensive, but provides the character with a new level of ability or an all-new ability related to their basic movement ability.
+- Tier 1: Hover
+- Tier 2: Greater Enhanced Potential
+- Tier 3: Hidden Reserves or See Through Matter
+- Tier 4: Blink of an Eye
+- Tier 4: Up to Speed
+- Tier 5: Not Dead Yet
+- Tier 6: Burning Light or Ignore Affliction
 
-The other option should provide either an offensive or a defensive capability related to the specific form of movement the focus provides.
+GM Intrusions: A nemesis finds the character. A strange material is found to nullify the character’s abilities.
 
-Tier 4: Choose a mid-tier ability that further enhances the advantages provided by focus’s movement-enhancing paradigm. This could provide a new or better form of defense (directly, or indirectly if moving to a location or time where danger doesn’t threaten), or a new or better form of offense.
+#### Focuses Mind Over Matter
 
-Tier 5: Choose a high-tier penultimate use of the movement-related ability. For instance, if the focus-provided movement is temporal, this ability might allow actual (if brief) jaunts of time travel. If the focus enhances speed, this ability might allow the character to move up to a very long distance with one action. And so on.
+Focuses Mind Over Matter #Focus #EnvironmentFocus #Core 
 
-Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
+You can telekinetically move objects with your mind without physically touching them.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+- Tier 1: Divert Attacks
+- Tier 2: Telekinesis
+- Tier 3: Cloak of Opportunity or Enhance Strength
+- Tier 4: Apportation
+- Tier 5: Psychokinetic Attack
+- Tier 6: Improved Apportation or Reshape
 
-One of the options should provide either an offensive or a defensive ability, opposite the ability provided at tier 4 (though high tier rather than mid tier).
+GM Intrusions: One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.
 
-The other option should be something that further explores the use of the basic  
-movement ability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
+#### Fuses Flesh and Steel
 
-##### STRIKER COMBAT
+Fuses Flesh and Steel #Focus #TankFocus #Core 
 
-Striker combat foci prioritize dealing damage in battle over other concerns. Foci in this category offer defensive abilities as well, but they emphasize abilities that provide ways to spike damage to heights that other foci normally don’t reach.
+Your body is part machine.
 
-To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon or martial art, or the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, or something much broader, such as adopting a particularly vicious or unsporting style. A striker combatant might use fire, force, or magnetism as their preferred method of spiking damage.
+- Tier 1: Enhanced Body
+- Tier 2: Interface
+- Tier 3: Sensing Package or Weaponization
+- Tier 4: Fusion
+- Tier 5: Deep Reserves
+- Tier 6: Mind Surge or Ultra Enhancement
 
-Connection: Choose four relevant connections from the Focus Connections list.
+GM Intrusions: People in most societies are afraid of someone who is revealed to have mechanical parts.
 
-Additional Equipment: The weapon, tool, or other special item or substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Fights Dirty or Murders, a trophy from a previously defeated foe for Battles Robots, or stylish clothes for Fights With Panache.
+#### Fuses Mind and Machine
 
-Minor Effect Suggestions: The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
+Fuses Mind and Machine #Focus #InfluenceFocus #Core 
 
-Major Effect Suggestions: Make an immediate additional attack using an attack provided by the focus as part of your turn.
+Electronic aids implanted in your brain make you a mental powerhouse.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Battles Robots
-- Fights Dirty
-- Fights With Panache
-- Hunts
-- Is Licensed to Carry
-- Looks for Trouble
-- Masters Weaponry
-- Murders
-- Needs No Weapon
-- Performs Feats of Strength
-- Rages
-- Slays Monsters
-- Throws With Deadly Accuracy
-- Wields Two Weapons at Once
+- Tier 1: Enhanced Intellect
+- Tier 1: Knowledge Skills
+- Tier 2: Network Tap
+- Tier 3: Action Processor or Machine Telepathy
+- Tier 4: Greater Enhanced Intellect
+- Tier 4: Knowledge Skills
+- Tier 5: See the Future
+- Tier 6: Machine Enhancement or Mind Surge
 
-**Ability Selection Guidelines**
+GM Intrusions: Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don’t trust a person who isn’t fully organic.
 
-Tier 1: Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
+#### Grows to Towering Heights
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, or just have general knowledge about that foe. A fighting style that involves fighting in a vicious or dirty manner might provide training in intimidation. And so on.
+Grows to Towering Heights #Focus #TankFocus #Core 
 
-If the focus is about fighting a particular enemy, additional secondary powers (more than might otherwise be offered) may be appropriate. Those either further enhance effectiveness against the chosen enemy, or offer broader but related abilities that give the character who takes the focus some functionality even when not fighting that enemy.
+For brief periods, you can grow larger and, with enough experience, to towering heights.
 
-Tier 2: Choose a low-tier ability that provides some form of defense using the weapon, weapon style, or chosen energy. If the weapon style is being especially good at fighting a certain kind of foe, the ability should be a defense against that kind of foe. Alternatively, the focus might offer another method for increasing damage within the chosen paradigm.
+- Tier 1: Enlarge
+- Tier 1: Freakishly Large
+- Tier 2: Bigger
+- Tier 2: Advantages of Being Big
+- Tier 3: Huge or Throw
+- Tier 4: Grab
+- Tier 5: Gargantuan
+- Tier 6: Colossal or Lethal Damage
 
-Sometimes an additional low-power ability is appropriate at tier 2. If so, choose whichever  
-low-power ability wasn’t gained at tier 1.
+GM Intrusions: Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Has a Thousand Faces
 
-One option should inflict additional damage when using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
+Has a Thousand Faces #Focus #Core #SuperHeroes
 
-The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy.
+You can change your appearance to look like anyone else.
 
-Tier 4: Choose a mid-tier ability that further enhances the advantages provided by the focus’s paradigm. Often, this includes training in a particular kind of attack. Alternatively, the ability might increase the advantages provided by achieving a certain combat status, such as gaining surprise.
+- Tier 1: Face Morph
+- Tier 1: Interaction Skills 
+- Tier 2: Body Morph
+- Tier 2: War Flesh
+- Tier 3: Disguise Other or Resilience
+- Tier 4: Ageless
+- Tier 4: Think Your Way Out 
+- Tier 5: Memory Becomes Action 
+- Tier 6: Divide Your Mind or Infer Thoughts 
 
-Tier 5: Choose a high-tier ability that inflicts damage. Alternatively, if focused on fighting a particular kind of foe, this ability might give the character a chance to completely neutralize, destroy, blind, or kill a singular target of up to level 3 (or higher, if the focus is on a singular foe).
+GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Helps Their Friends
 
-One of the options should use the focus paradigm to inflict an exceptional amount of damage.
+Helps Their Friends #Focus #SupportFocus #Core 
 
-The other option could be a different way of inflicting damage, either using the focus paradigm or just dealing lots of damage in general (and relying on previous focus tier abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill or neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), or to select yet another foe, make another attack, or get away in order to fight another day.
+You love your friends and help them out of any difficulty, no matter what.
 
-##### SUPPORT
+- Type Swap Option: Advice From a Friend
+- Tier 1: Friendly Help
+- Tier 1: Courageous
+- Tier 2: Weather the Vicissitudes
+- Tier 3: Buddy System or Skill With Attacks
+- Tier 4: In Harm’s Way
+- Tier 4: Enhanced Physique
+- Tier 5: Inspire Action
+- Tier 6: Deep Consideration or Skill With Defense
 
-Foci that allow a character to help others succeed, defend others, heal others who are hurt, and so on are support foci. Of course, most foci abilities are often used in aid of others, but support foci (such as Siphons Power) prioritize aiding, healing, and improving the character who takes the focus.
+GM Intrusions: Others sometimes have ulterior motives. The law takes an undue interest. Even when everything goes right, repercussions follow.
 
-Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural or sci-fi means of providing healing, or simply easing the cares of others through entertainment.
+#### Howls at the Moon
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Howls at the Moon #Focus #TankFocus #Core 
 
-Additional Equipment: Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument or similar object in aid of their craft. Some foci in this category don’t require anything to gain or retain their benefits.
+For brief periods, you become a fearsome and powerful creature with control issues.
 
-Minor Effect Suggestions: You can draw an attack without having to use an action at any point before the end of the next round.
+- Tier 1: Beast Form
+- Tier 2: Controlled Change
+- Tier 3: Bigger Beast Form or Greater Beast Form
+- Tier 4: Greater Controlled Change
+- Tier 5: Enhanced Beast Form
+- Tier 6: Lethal Damage or Perfect Control
 
-Major Effect Suggestions: You can take an extra action in aid of an ally.
+GM Intrusions: The change happens in an uncontrolled fashion. People are terrified of monsters.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Defends the Weak
-- Entertains
-- Helps Their Friends
-- Metes Out Justice
-- Shepherds the Community
-- Siphons Power
-- Works Miracles
+#### Hunts
 
-**Ability Selection Guidelines**
+Hunts #Focus #StrikerFocus #Core 
 
-Tier 1: Choose a low-tier ability that provides some form of defense, aid or entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
+You are a stalking hunter who excels at bringing down your selected quarry.
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn’t do much.
+- Tier 1: Attack Flourish
+- Tier 1: Tracker
+- Tier 2: Quarry
+- Tier 2: Sneak
+- Tier 3: Horde Fighting or Sprint and Grab
+- Tier 4: Surprise Attack
+- Tier 5: Hunter’s Drive
+- Tier 6: Greater Skill With Attacks or Multiple Quarry
 
-Tier 2: Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
+GM Intrusions: The quarry notices the character. The quarry isn’t as vulnerable as it seemed.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Ignores Physical Distance
 
-One option should work within the focus’s theme to aid, heal, protect, or otherwise help another.
+Ignores Physical Distance #Focus #Core #SuperHeroes
 
-The other option should be something that benefits the character, either an offensive or defensive ability, or something that broadens their expertise in some fashion. Alternatively, it could be another, different method of helping someone else.
+You can teleport from one place to another by briefly passing through a parallel dimension.
 
-Tier 4: Choose a mid-tier ability that gives an ally a direct boon or provides the character with a way to help another. It could also be an ability that harms or nullifies a foe, as removing foes certainly helps allies.
+- Tier 1: Dimensional Squeeze
+- Tier 2: Opportunist 
+- Tier 3: Defensive Blinking or Teleportation Burst
+- Tier 4: Short Teleportation
+- Tier 5: Medium Teleportation
+- Tier 6: Teleportation or Teleportive Wound
 
-Tier 5: Choose a high-tier ability that provides an offensive or defensive option for the character, if none have been provided yet. If this need has been previously addressed or is deemed unnecessary, choose a high-tier ability that provides some form of defense, aid or entertainment, benefit to recovery or healing, or protection to another. For example, a tier 5 ability might grant an ally an additional free action or allow them to repeat a failed action.
+GM Intrusions: A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Infiltrates
 
-One of the options should provide an ultimate method of helping another in the theme of the focus.
+Infiltrates #Focus #ExplorationFocus #Core 
 
-The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-tier offense or defense is also completely reasonable.
+Subtlety, guile, and stealth allow you to get in where others can’t.
 
-##### TANK COMBAT
+- Tier 1: Stealth Skills
+- Tier 1: Sense Attitudes
+- Tier 2: Impersonate
+- Tier 2: Flight Not Fight
+- Tier 3: Awareness or Skill With Attacks
+- Tier 4: Invisibility
+- Tier 5: Evasion
+- Tier 6: Brainwashing or Spring Away
 
-Foci that prioritize being able to take a lot of punishment and soak up excess damage from foes fall within the tank combat category. These foci provide offensive abilities too, as well as additional abilities related to the particular method by which improved protection is achieved, but defensive abilities are most pronounced.
+GM Intrusions: Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.
 
-Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character’s skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
+#### Interprets the Law
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Interprets the Law #Focus #BasicFocus #Core 
 
-Additional Equipment: Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield or other defensive tool used if skilled, or possibly some kind of amulet or serum). Some tank combat foci don’t require anything to gain or retain their benefits.
+You excel at winning others over to your views.
 
-Minor Effect Suggestions: +2 to Armor for a few rounds.
+- Tier 1: Opening Statement
+- Tier 1: Knowledge of the Law
+- Tier 2: Debate
+- Tier 3: Able Assistance or Enhanced Intellect Edge
+- Tier 4: Castigate
+- Tier 5: No One Knows Better
+- Tier 6: Greater Enhanced Potential or Legal Intern
 
-Major Effect Suggestions: Regain 2 points to Might Pool.
+GM Intrusions: Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-- Abides in Stone
-- Brandishes an Exotic Shield
-- Defends the Gate
-- Fuses Flesh and Steel
-- Grows to Towering Heights
-- Howls at the Moon
-- Lives in the Wilderness
-- Masters Defense
-- Never Says Die
-- Stands Like a Bastion
+#### Is Idolized by Millions
 
-**Ability Selection Guidelines**
+Is Idolized by Millions #Focus #InfluenceFocus #Core 
 
-Tier 1: Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
+You’re a celebrity and most people adore you.
 
-Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
+- Tier 1: Entourage
+- Tier 1: Celebrity Talent
+- Tier 2: Perks of Stardom
+- Tier 3: Incredible Health or Skill With Attacks
+- Tier 4: Captivate With Starshine
+- Tier 4: Expert Follower
+- Tier 5: Do You Know Who I Am?
+- Tier 6: Transcend the Script or Improved Companion
 
-Tier 2: If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
+GM Intrusions: Fans are endangered or hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, or other event is canceled. The media posts photos of you in an embarrassing situation.
 
-If the theme of the focus is physical transformation, choose a low-tier ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, or otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
+#### Is Licensed to Carry
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+Is Licensed to Carry #Focus #StrikerFocus #Core 
 
-One option should provide an additional form of protection in keeping with the focus’s theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing.
+You carry a gun and you know how to use it in a fight.
 
-The other option should provide an offensive  
-capability, especially if creating a non-transformation  
-focus that doesn’t already have offensive benefits. That capability could be an enhanced attack or provide some other benefit useful in combat, such as quickly evading or (on the other end of the continuum) becoming immovable.
+(Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.)
 
-Tier 4: Choose a mid-tier ability that further enhances the advantages provided by the focus’s damage-soaking paradigm. Often, this includes training in a particular kind of defense. Alternatively, it might increase the advantages provided by previously unlocked defensive abilities, whether that means gaining greater control over a transformation, gaining additional chances to avoid damage or retry tasks related to enhanced determination, and so on. If the focus is lacking in offensive options, this is a good place to include one.
+- Tier 1: Gunner
+- Tier 1: Practiced With Guns
+- Tier 2: Careful Shot
+- Tier 3: Trained Gunner or Damage Dealer
+- Tier 4: Snap Shot
+- Tier 5: Arc Spray
+- Tier 6: Special Shot or Lethal Damage
 
-Tier 5: Choose a high-tier ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, or something related to exploration or interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
+GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
+#### Is Wanted by the Law
 
-One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage.
+Is Wanted by the Law #Focus #Core 
 
-The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus’s theme, whether that’s a straight-up damage boost on attacks or better control of an unstable physical transformation.
+“WANTED, DEAD OR ALIVE” posters (or their equivalent) have appeared featuring your face. It’s up to you whether it’s a mistake that snowballed out of control or you actually would kill someone just for looking at you.
 
-### CUSTOMIZING FOCI
+- Tier 1: Enhanced Speed
+- Tier 1: Danger Sense
+- Tier 2: Surprise Attack
+- Tier 3: Outlaw Reputation or Successive Attack
+- Tier 4: Fast Kill
+- Tier 5: Band of Desperados
+- Tier 6: Not Dead Yet or Lethal Damage
 
-Sometimes not everything about a focus is right for a character’s concept, or perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.
+GM Intrusions: Most people do not take well to discovering a wanted outlaw in their midst.
 
-At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech  
-devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.
+#### Keeps a Magic Ally
 
-TIER 1
-- Combat Prowess
-- Enhanced Potential
+Keeps a Magic Ally #Focus #Core 
 
-TIER 2
-- Lower-tier ability: choose any tier 1 replacement ability, above.
-- Skill With Defense
-- Practiced With All Weapons
-- Skill With Attacks
+An allied magic creature bound to an object (such as a minor djinn in a lamp, or a ghost in a pipe) is your friend, protector, and weapon.
 
-TIER 3
-- Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
-- Incredible Health
-- Fusion Armor
+- Tier 1: Bound Magic Creature
+- Tier 2: Object Bond
+- Tier 2: Hidden Closet
+- Tier 3: Minor Wish or Mount
+- Tier 4: Improved Object Bond
+- Tier 5: Moderate Wish
+- Tier 6: Object Bond Mastery or Trust to Luck
 
-TIER 4
-- Lower-tier ability: choose any tier 1, 2, or 3 replacement ability, above.
-- Poison Resistance
-- Built-in Weaponry
+GM Intrusions: The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn’t do as asked. The creature says it’s leaving unless a task is performed for it.
 
-TIER 5
-- Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
-- Adaptation
-- Defensive Field
+#### Leads
 
-TIER 6
-- Lower-tier ability: choose any tier 1, 2, 3, 4, or 5 replacement ability, above.
-- Reactive Field
+Leads #Focus #AllyFocus #Core 
+
+Your natural leadership capability allows you to command others, including a loyal band of followers.
+
+- Tier 1: Natural Charisma
+- Tier 1: Good Advice
+- Tier 2: Enhanced Potential
+- Tier 2: Basic Follower
+- Tier 3: Advanced Command or Expert Follower
+- Tier 4: Captivate or Inspire
+- Tier 5: Greater Enhanced Potential
+- Tier 6: Band of Followers or Mind of a Leader
+
+GM Intrusions: Followers fail, betray, lie, become corrupted, get kidnapped, or die.
+
+#### Learns Quickly
+
+Learns Quickly #Focus #BasicFocus #Core 
+
+You deal with bad situations as they arise, learning new lessons each time.
+
+- Tier 1: Enhanced Intellect
+- Tier 1: There’s Your Problem
+- Tier 2: Quick Study
+- Tier 3: Hard to Distract
+- Tier 3: Enhanced Intellect Edge or Flex Skill
+- Tier 4: Pay It Forward
+- Tier 5: Enhanced Intellect
+- Tier 5: Learned a Few Things
+- Tier 6: Two Things at Once or Skill With Defense
+
+GM Intrusions: Accidents and mistakes are great teachers.
+
+#### Lives in the Wilderness
+
+Lives in the Wilderness #Focus #TankFocus #Core 
+
+You can survive in badlands where others perish.
+
+- Tier 1: Wilderness Life
+- Tier 1: Enhanced Might
+- Tier 2: Living Off the Land
+- Tier 2: Wilderness Explorer
+- Tier 3: Animal Senses and Sensibilities or Wilderness Encouragement
+- Tier 4: Wilderness Awareness
+- Tier 5: The Wild Is on Your Side
+- Tier 6: One With the Wild or Wild Camouflage
+
+GM Intrusions: People in cities and towns sometimes disparage those who look (and smell) like they live in the wilds, as if they were ignorant or barbaric.
+
+#### Looks for Trouble
+
+Looks for Trouble #Focus #StrikerFocus #Core 
+
+You’re a scrapper and love a good fight.
+
+- Tier 1: Fists of Fury
+- Tier 1: Wound Tender
+- Tier 2: Protector
+- Tier 2: Straightforward
+- Tier 3: Skill With Attacks or Greater Enhanced Potential
+- Tier 4: Knock Out
+- Tier 5: Mastery With Attacks
+- Tier 6: Greater Enhanced Might or Lethal Damage
+
+GM Intrusions: Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.
+
+#### Loves the Void
+
+Loves the Void #Focus #Core 
+
+When it’s just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
+
+- Type Swap Option: Have Spacesuit, Will Travel
+- Tier 1: Vacuum Skilled
+- Tier 1: Microgravity Adept
+- Tier 2: Enhanced Speed Edge
+- Tier 2: Enhanced Physique
+- Tier 3: Space Fighting or Fusion Armor
+- Tier 4: Silent As Space
+- Tier 4: Push Off and Throw
+- Tier 5: Microgravity Avoidance
+- Tier 6: Weightless Shot or Reactive Field
+
+GM Intrusions: Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
+
+#### Masters Defense
+
+Masters Defense #Focus #TankFocus #Core 
+
+You use protective equipment and practiced techniques to avoid becoming hurt in a fight.
+
+- Tier 1: Shield Master
+- Tier 2: Sturdy
+- Tier 2: Practiced in Armor
+- Tier 3: Dodge and Resist or Dodge and Respond
+- Tier 4: Tower of Will
+- Tier 4: Experienced in Armor
+- Tier 5: Nothing but Defend
+- Tier 6: Defense Master or Wear It Well
+
+GM Intrusions: Shields break when hit, as do weapons used to parry. Armor straps break.
+
+#### Masters Spells
+
+Masters Spells #Focus #IrregularFocus #Core 
+
+By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.
+
+- Tier 1: Arcane Flare
+- Tier 2: Ray of Confusion
+- Tier 3: Fire Bloom or Summon Giant Spider
+- Tier 4: Soul Interrogation
+- Tier 5: Granite Wall
+- Tier 6: Summon Demon or Word of Death
+
+GM Intrusions: The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.
+
+#### Masters the Swarm
+
+Masters the Swarm #Focus #AllyFocus #Core 
+
+Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.
+
+- Tier 1: Influence Swarm
+- Tier 2: Control Swarm
+- Tier 3: Living Armor or Skill With Attacks
+- Tier 4: Call Swarm
+- Tier 5: Gain Unusual Companion
+- Tier 6: Deadly Swarm or Skill With Defense
+
+GM Intrusions: A command is misunderstood. Control is erratic or is lost. Bites and stings are not uncommon for masters of the swarm.
+
+#### Masters Weaponry
+
+Masters Weaponry #Focus #StrikerFocus #Core 
+
+You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.
+
+(Someone who Masters Weaponry might have additional equipment, including a high- quality weapon.)
+
+- Tier 1: Weapon Master
+- Tier 1: Weapon Crafter
+- Tier 2: Weapon Defense
+- Tier 3: Rapid Attack or Disarming Strike
+- Tier 4: Never Fumble
+- Tier 5: Extreme Mastery
+- Tier 6: Murderer or Deadly Strike
+
+GM Intrusions: Weapons break. Weapons can be stolen. Weapons can be dropped or forced out of your hand.
+
+#### Metes Out Justice
+
+Metes Out Justice #Focus #SupportFocus #StrikerFocus #Core 
+
+You right wrongs, protect the innocent, and punish the guilty.
+
+- Tier 1: Make Judgment
+- Tier 1: Designation
+- Tier 2: Defend the Innocent
+- Tier 2: Improved Designation
+- Tier 3: Defend All the Innocent or Punish the Guilty
+- Tier 4: Find the Guilty
+- Tier 4: Greater Designation
+- Tier 5: Punish All the Guilty
+- Tier 6: Damn the Guilty or Inspire the Innocent
+
+GM Intrusions: Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.
+
+#### Moves Like a Cat
+
+Moves Like a Cat #Focus #MovementFocus #Core 
+
+Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.
+
+- Tier 1: Greater Enhanced Speed
+- Tier 1: Balance
+- Tier 2: Movement Skills
+- Tier 2: Safe Fall
+- Tier 3: Hard to Hit
+- Tier 3: Enhanced Speed Edge or Greater Enhanced Speed
+- Tier 4: Quick Strike
+- Tier 5: Slippery
+- Tier 6: Perfect Speed Burst or Greater Enhanced Speed
+
+GM Intrusions: Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.
+
+#### Moves Like the Wind
+
+Moves Like the Wind #Focus #MovementFocus #Core 
+
+You can move so fast that you become a blur.
+
+- Tier 1: Greater Enhanced Speed
+- Tier 1: Fleet of Foot
+- Tier 2: Hard to Hit
+- Tier 3: Speed Burst or Greater Enhanced Speed
+- Tier 4: Blink of an Eye
+- Tier 5: Hard to See
+- Tier 6: Perfect Speed Burst or Incredible Running Speed
+
+GM Intrusions: Surfaces can be slick or offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.
+
+#### Murders
+
+Murders #Focus #StrikerFocus #Core 
+
+You’re an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
+
+- Tier 1: Surprise Attack
+- Tier 1: Assassin Skills
+- Tier 2: Quick Death
+- Tier 2: Infiltrator
+- Tier 3: Awareness or Poison Crafter
+- Tier 4: Better Surprise Attack
+- Tier 5: Damage Dealer
+- Tier 6: Escape Plan or Murderer
+
+GM Intrusions: Most people do not react well to a professional killer.
+
+#### Needs No Weapon
+
+Needs No Weapon #Focus #StrikerFocus #Core 
+
+Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.
+
+- Tier 1: Fists of Fury
+- Tier 1: Flesh of Stone
+- Tier 2: Advantage to Disadvantage
+- Tier 2: Unarmed Fighting Style
+- Tier 3: Moving Like Water or Greater Enhanced Potential
+- Tier 4: Divert Attacks
+- Tier 5: Stun Attack
+- Tier 6: Master of Unarmed Fighting Style or Lethal Damage
+
+GM Intrusions: Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off balance.
+
+#### Never Says Die
+
+Never Says Die #Focus #TankFocus #Core 
+
+You never quit, can shrug off a beating, and always come back for more.
+
+- Tier 1: Improved Recovery
+- Tier 1: Push on Through
+- Tier 2: Ignore the Pain
+- Tier 3: Blood Fever or Hidden Reserves
+- Tier 4: Increasing Determination or Outlast the Foe
+- Tier 5: Not Dead Yet
+- Tier 6: Final Defiance or Ignore Affliction
+
+GM Intrusions: Sometimes, it’s equipment or weapons that give out.
+
+#### Operates Undercover
+
+Operates Undercover #Focus #ExplorationFocus #Core 
+
+Under the guise of someone else, you seek to find answers the powerful do not want divulged.
+
+(Someone who Operates Undercover might have additional equipment that includes a disguise kit.)
+
+- Tier 1: Investigate
+- Tier 2: Disguise
+- Tier 3: Agent Provocateur or Run and Fight
+- Tier 4: Pull a Fast One
+- Tier 5: Using What’s Available
+- Tier 6: Trust to Luck or Deadly Strike
+
+GM Intrusions: Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
+
+#### Performs Feats of Strength
+
+Performs Feats of Strength #Focus #StrikerFocus #Core 
+
+A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.
+
+- Tier 1: Athlete
+- Tier 1: Enhanced Might Edge
+- Tier 2: Feat of Strength
+- Tier 3: Iron Fist or Throw
+- Tier 4: Greater Enhanced Might
+- Tier 5: Brute Strike
+- Tier 6: Greater Enhanced Might or Jump Attack
+
+GM Intrusions: It’s easy to break delicate things or hurt someone accidentally.
+
+#### Pilots Starcraft
+
+Pilots Starcraft #Focus #ExplorationFocus #Core 
+
+You’re a crack starship pilot.
+
+- Tier 1: Pilot
+- Tier 1: Flex Lore
+- Tier 2: Salvage and Comfort
+- Tier 2: Mentally Tough
+- Tier 3: Expert Pilot
+- Tier 3: Ship Footing or Machine Companion
+- Tier 4: Sensor Array
+- Tier 4: Enhanced Speed
+- Tier 5: Like the Back of Your Hand
+- Tier 6: Incomparable Pilot
+- Tier 6: Remote Control or Skill With Attacks
+
+GM Intrusions: Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
+
+#### Plays Too Many Games
+
+Plays Too Many Games #Focus #Core 
+
+Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.
+
+- Tier 1: Game Lessons
+- Tier 1: Gamer
+- Tier 2: Zero Dark Eyes
+- Tier 2: Resist Tricks
+- Tier 3: Sniper’s Aim or Enhanced Speed Edge
+- Tier 4: Mind Games
+- Tier 4: Enhanced Intellect
+- Tier 5: Gamer’s Fortitude
+- Tier 6: Mind Surge or Gaming God
+
+GM Intrusions: Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
+
+#### Rages
+
+Rages #Focus #StrikerFocus  #Core 
+
+When you go berserk, everyone fears you.
+
+- Tier 1: Frenzy
+- Tier 2: Greater Enhanced Might
+- Tier 2: Movement Skills
+- Tier 3: Power Strike or Unarmored Fighter
+- Tier 4: Greater Frenzy
+- Tier 5: Attack and Attack Again
+- Tier 6: Greater Enhanced Potential or Lethal Damage
+
+GM Intrusions: It’s easy for a berserker to lose control and attack friend as well as foe.
+
+#### Rides the Lightning
+
+Rides the Lightning #Focus #EnergyFocus #Core 
+
+You create and discharge electrical power.
+
+- Tier 1: Shock
+- Tier 1: Charge
+- Tier 2: Bolt Rider
+- Tier 3: Electric Armor or Drain Charge
+- Tier 4: Bolts of Power
+- Tier 5: Electrical Flight
+- Tier 6: Flash Across the Miles or Wall of Lightning
+
+GM Intrusions: Targets other than those intended are shocked. Objects explode.
+
+#### Runs Away
+
+Runs Away #Focus #MovementFocus #Core 
+
+Your first instinct is to run from danger, and you’ve gotten very good at it.
+
+- Tier 1: Go Defensive
+- Tier 2: Enhanced Speed
+- Tier 2: Quick to Flee
+- Tier 3: Incredible Running Speed or Greater Enhanced Speed
+- Tier 4: Increasing Determination
+- Tier 4: Quick Wits
+- Tier 5: Go to Ground
+- Tier 6: Burst of Escape or Skill With Defense
+
+GM Intrusions: Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.
+
+#### Sailed Beneath the Jolly Roger
+
+Sailed Beneath the Jolly Roger #Focus #Core 
+
+You sailed with a crew of dread pirates, but you’ve decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
+
+- Tier 1: Ignore the Pain
+- Tier 1: Sailor
+- Tier 2: Taking Advantage
+- Tier 2: Fearsome Reputation
+- Tier 3: Skill With Attacks or Skill With Defense
+- Tier 4: Sea Legs
+- Tier 4: Movement Skills
+- Tier 5: Lost in the Chaos
+- Tier 6: Duel to the Death or Successive Attack
+
+GM Intrusions: The dangers of the high seas are many, including severe storms and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks down former sailing mates to find hidden treasure.
+
+#### Scavenges
+
+Scavenges #Focus #Core 
+
+When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
+
+- Tier 1: Post-Apocalyptic Survivor
+- Tier 1: Ruin Lore
+- Tier 2: Junkmonger
+- Tier 3: Taking Advantage or Incredible Health
+- Tier 4: Know Where to Look
+- Tier 5: Recycled Cyphers
+- Tier 6: Artifact Scavenger or Reactive Field
+
+GM Intrusions: An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.
+
+#### Sculpts Hard Light
+
+Sculpts Hard Light #Focus #Core #SuperHeroes
+
+You create physical objects out of hard light that you can use for offense and defense.
+
+- Tier 1: Automatic Glow
+- Tier 1: Temporary Light
+- Tier 2: Entangling Force 
+- Tier 3: Harder Light or Sculpt Light 
+- Tier 4: Greater Enhanced Intellect 
+- Tier 5: Improved Sculpt Light 
+- Tier 6: Defensive Field or Flight 
+
+GM Intrusions: A hard light object disappears early. A hard light object cannot affect a certain creature or color.
+
+#### Sees Beyond
+
+Sees Beyond #Focus #ExplorationFocus #Core 
+
+You have a psychic sense that allows you to see what others cannot.
+
+- Tier 1: See the Unseen
+- Tier 2: See Through Matter
+- Tier 3: Find the Hidden or Sensor
+- Tier 4: Remote Viewing
+- Tier 5: See Through Time
+- Tier 6: Mental Projection or Total Awareness
+
+GM Intrusions: Some secrets are too terrible to know.
+
+#### Separates Mind From Body
+
+Separates Mind From Body #Focus #ExplorationFocus #Core 
+
+You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.
+
+- Tier 1: Third Eye
+- Tier 2: Open Mind
+- Tier 2: Sharp Senses
+- Tier 3: Roaming Third Eye or Find the Hidden
+- Tier 4: Sensor
+- Tier 5: Psychic Passenger
+- Tier 6: Mental Projection or Improved Sensor
+
+GM Intrusions: Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
+
+#### Shepherds the Community
+
+Shepherds the Community #Focus #SupportFocus #Core 
+
+You keep the place where you live safe from all danger.
+
+- Tier 1: Community Knowledge
+- Tier 1: Community Activist
+- Tier 2: Skill With Attacks
+- Tier 3: Shepherd’s Fury or Skill With Defense
+- Tier 4: Greater Enhanced Potential
+- Tier 5: Evasion
+- Tier 6: Greater Skill With Attacks or Protective Wall
+
+GM Intrusions: People in the community misunderstand the character’s motives. Rivals try to oust the character.
+
+#### Shepherds Spirits
+
+Shepherds Spirits #Focus #AllyFocus #Core 
+
+Wandering souls, nature spirits, and elemental beings aid and support you.
+
+(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)
+
+- Tier 1: Question the Spirits
+- Tier 2: Spirit Accomplice
+- Tier 3: Command Spirit or Preternatural Senses
+- Tier 4: Wraith Cloak
+- Tier 5: Call Dead Spirit
+- Tier 6: Call Otherworldly Spirit or Infuse Spirit
+
+GM Intrusions: Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.
+
+#### Shreds the Walls of the World
+
+Shreds the Walls of the World #Focus #MovementFocus #Core 
+
+Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
+
+- Tier 1: Phase Sprint
+- Tier 1: Disrupting Touch
+- Tier 2: Scratch Existence
+- Tier 3: Invisible Phasing or Walk Through Walls
+- Tier 4: Phase Detonation
+- Tier 5: Very Long Sprinting
+- Tier 6: Shred Existence or Untouchable While Moving
+
+GM Intrusions: Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
+
+#### Shrinks to Minute Size
+
+Shrinks to Minute Size #Focus #Core #SuperHeroes
+
+You can shrink down to the size of a bug and, with enough experience, even smaller. 
+
+- Tier 1: Shrink
+- Tier 1: Beneath Notice
+- Tier 2: Smaller
+- Tier 2: Advantages of Being Small
+- Tier 3: Enlarge or Quick Switch
+- Tier 4: Small Flight
+- Tier 5: Shrink Others
+- Tier 6: Bigger or Tiny
+
+GM Intrusions: A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.
+
+A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
+
+#### Siphons Power
+
+Siphons Power #Focus #SupportFocus #Core 
+
+You suck power out of machines and creatures alike in order to empower yourself.
+
+(Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.)
+
+- Tier 1: Drain Machine
+- Tier 2: Drain Creature
+- Tier 3: Drain at a Distance or Unraveling Consumption
+- Tier 4: Store Energy
+- Tier 5: Share the Power
+- Tier 6: Explosive Release or Sun Siphon
+
+GM Intrusions: Drained power also transmits something unwanted—compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.
+
+#### Slays Monsters
+
+Slays Monsters #Focus #StrikerFocus #Core 
+
+You kill monsters.
+
+(Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.)
+
+- Tier 1: Practiced With Swords
+- Tier 1: Monster Bane
+- Tier 1: Monster Lore
+- Tier 2: Will of Legend
+- Tier 3: Trained Slayer
+- Tier 3: Improved Monster Bane or Misdirect
+- Tier 4: Fight On
+- Tier 5: Greater Skill With Attacks (swords)
+- Tier 6: Murderer or Heroic Monster Bane
+
+GM Intrusions: The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster’s mother vows revenge.
+
+#### Soars on Amazing Wings
+
+Soars on Amazing Wings #Focus #Core #SuperHeroes 
+
+Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
+
+- Tier 1: Hover
+- Tier 1: Flight Exertion
+- Tier 2: Wing Weapons
+- Tier 3: Acrobatic Attack or Flying Companion
+- Tier 4: Hard to Hit 
+- Tier 5: Up to Speed 
+- Tier 6: Hard Target or Defense Master
+
+GM Intrusions: A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
+
+#### Solves Mysteries
+
+Solves Mysteries #Focus #InfluenceFocus #Core 
+
+You’re a master of deduction, using evidence to find the answer.
+
+- Tier 1: Investigator
+- Tier 1: Sleuth
+- Tier 2: Out of Harm’s Way
+- Tier 3: You Studied or Skill With Attacks
+- Tier 4: Draw Conclusion
+- Tier 5: Defuse Situation
+- Tier 6: Seize the Initiative or Greater Skill With Defense
+
+GM Intrusions: Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
+
+#### Speaks for the Land
+
+Speaks for the Land #Focus #IrregularFocus #Core 
+
+Your spiritual connection to nature and the environment grants you mystical abilities.
+
+- Tier 1: Seeds of Fury
+- Tier 1: Wilderness Lore
+- Tier 2: Grasping Foliage
+- Tier 3: Soothe the Savage or Communication
+- Tier 4: Moon Shape
+- Tier 5: Insect Eruption
+- Tier 6: Call the Storm or Earthquake
+
+GM Intrusions: An injured natural (but dangerous) creature is discovered. Someone’s poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
+
+#### Stands Like a Bastion
+
+Stands Like a Bastion #Focus #TankFocus #Core 
+
+Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.
+
+(Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.)
+
+- Tier 1: Practiced in Armor
+- Tier 1: Experienced Defender
+- Tier 2: Resist the Elements
+- Tier 3: Unmovable
+- Tier 3: Greater Enhanced Might or Practiced With All Weapons
+- Tier 4: Living Wall
+- Tier 5: Hardiness
+- Tier 5: Mastery in Armor
+- Tier 6: Lethal Damage or Shield Training
+
+GM Intrusions: Armor is damaged. Small foes conspire in ingenious ways.
+
+#### Stretches
+
+Stretches #Focus #Core #SuperHeroes 
+
+Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
+
+- Tier 1: Contortionist
+- Tier 1: Far Step
+- Tier 2: Elastic Grip
+- Tier 2: Safe Fall
+- Tier 3: Bypass Barrier or Misdirect 
+- Tier 4: Resilience 
+- Tier 5: Free to Move 
+- Tier 6: Break the Ranks or Not Dead Yet
+
+GM Intrusions: An attack or effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
+
+#### Takes Animal Shape
+
+Takes Animal Shape #Focus #Core #SuperHeroes #Fantasy
+
+You can transform yourself into an animal. 
+
+- Tier 1: Animal Shape
+- Tier 2: Communication 
+- Tier 2: Soothe the Savage
+- Tier 3: Bigger Animal Shape or Greater Beast Form
+- Tier 4: Animal Scrying
+- Tier 5: Hard to Kill
+- Tier 6: Blurring Speed or Lend Animal Shape
+
+GM Intrusions: The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
+
+Greater Beast Form applies to using Animal Shape.
+
+#### Talks to Machines
+
+Talks to Machines #Focus #InfluenceFocus #Core 
+
+You use your organic brain like a computer, interfacing “wirelessly” with any electronic device. You can control and influence them in ways that others can’t.
+
+- Tier 1: Machine Affinity
+- Tier 1: Distant Interface
+- Tier 2: Coaxing Power
+- Tier 2: Charm Machine
+- Tier 3: Intelligent Interface or Command Machine
+- Tier 4: Machine Companion
+- Tier 4: Robot Fighter
+- Tier 5: Information Gathering
+- Tier 6: Control Machine or Improved Machine Companion
+
+GM Intrusions: The machine malfunctions or acts unpredictably.
+
+#### Throws With Deadly Accuracy
+
+Throws With Deadly Accuracy #Focus #StrikerFocus #Core 
+
+Everything that leaves your hand goes exactly where you’d like it to go and at the range and speed to make the perfect impact.
+
+- Tier 1: Precision
+- Tier 2: Careful Aim
+- Tier 3: Quick Throw or Skill With Defense
+- Tier 4: Everything Is a Weapon
+- Tier 4: Specialized Throwing
+- Tier 5: Whirlwind of Throws
+- Tier 6: Lethal Damage or Mastery With Defense
+
+GM Intrusions: Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.
+
+#### Thunders
+
+Thunders #Focus #EnergyFocus #Core 
+
+You emit destructive sound and manipulate soundscapes.
+
+- Tier 1: Thunder Beam
+- Tier 2: Sound Conversion Barrier
+- Tier 3: Nullify Sound or Echolocation
+- Tier 4: Shattering Shout
+- Tier 5: Subsonic Rumble
+- Tier 5: Amplify Sounds
+- Tier 6: Earthquake or Lethal Vibration
+
+GM Intrusions: Loud noises attract attention.
+
+#### Touches the Sky
+
+Touches the Sky #Focus #Core #SuperHeroes 
+
+You can summon storms or break them apart.
+
+- Tier 1: Hover 
+- Tier 2: Wind Armor 
+- Tier 3: Bolts of Power or Storm Seed
+- Tier 4: Windrider 
+- Tier 5: Cold Burst 
+- Tier 6: Control Weather or Wind Chariot 
+
+GM Intrusions: An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
+
+#### Travels Through Time
+
+Travels Through Time #Focus #MovementFocus #Core 
+
+You can see through time, try to reach through it, and eventually even travel through it.
+
+(Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM’s setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.)
+
+- Tier 1: Anticipation
+- Tier 2: See History
+- Tier 3: Temporal Acceleration or Time Loop
+- Tier 4: Temporal Dislocation
+- Tier 5: Time Doppelganger
+- Tier 6: Call Through Time or Time Travel
+
+GM Intrusions: Paradoxes are created. Others remember past events differently.
+
+#### Uses Wild Magic
+
+Uses Wild Magic #Focus #Core #Fantasy 
+
+A spellcaster who learns a variety of spells instead of focusing on just one kind of magic. 
+
+- Tier 1: Magical Repertoire
+- Tier 1: Cypher Casting
+- Tier 2: Expanded Repertoire
+- Tier 3: Cypher Surge or Faster Wild Magic
+- Tier 4: Expanded Repertoire
+- Tier 5: Magical Training
+- Tier 6: Maximize Cypher or Wild Insight
+
+GM Intrusions: A spell performserratically or rebounds upon the caster.Something interferes with preparingspells. Spellcasting attracts the attentionof a powerful creature or potential rival.The cypher spell being cast is replacedwith that of a random cypher.
+
+#### Was Foretold
+
+Was Foretold #Focus #Core 
+
+You are the “chosen one,” and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.
+
+- Tier 1: Interaction Skills
+- Tier 1: Knowing
+- Tier 2: Destined for Greatness
+- Tier 3: Overcome All Obstacles or Hard-Won Resilience
+- Tier 4: Center of Attention
+- Tier 5: Show Them the Way
+- Tier 6: As Foretold in Prophecy or Greater Enhanced Potential
+
+GM Intrusions: An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
+
+#### Wears a Sheen of Ice
+
+Wears a Sheen of Ice #Focus #EnergyFocus #Core 
+
+You command the wintery power of cold and ice.
+
+- Tier 1: Ice Armor
+- Tier 2: Frost Touch
+- Tier 3: Freezing Touch or Ice Creation
+- Tier 4: Resilient Ice Armor
+- Tier 5: Cold Burst
+- Tier 6: Ice Storm or Winter Gauntlets
+
+GM Intrusions: Ice makes surfaces slippery. Extreme cold causes objects to crack and break.
+
+#### Wears Power Armor
+
+Wears Power Armor #Focus #Core 
+
+- Tier 1: Powered Armor
+- Tier 1: Enhanced Might
+- Tier 2: Heads-Up Display
+- Tier 3: Fusion Armor or Incredible Health
+- Tier 4: Force Blast
+- Tier 5: Field-Reinforced Armor
+- Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)
+
+GM Intrusions: The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.
+
+#### Wields an Enchanted Weapon
+
+Wields an Enchanted Weapon #Focus #Core #SuperHeroes #Fantasy 
+
+You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
+
+- Tier 1: Enchanted Weapon
+- Tier 1: Innate Power
+- Tier 1: Charge Weapon
+- Tier 2: Power Crash
+- Tier 3: Rapid Attack or Throw Enchanted Weapon
+- Tier 4: Defending Weapon
+- Tier 5: Enchanted Movement
+- Tier 6: Deadly Strike or Spin Attack 
+
+GM Intrusions: A weapon breaks or is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
+
+#### Wields an Invisible Force
+
+Wields an Invisible Force #Focus #Core #SuperHeroes 
+
+You bend light and manipulate beams of force for offense and defense.
+
+- Tier 1: Vanish 
+- Tier 2: Entangling Force 
+- Tier 2: Sharp Senses
+- Tier 3: Force Field Barrier or Multi-Vanish 
+- Tier 4: Invisibility 
+- Tier 5: Defensive Field
+- Tier 6: Concussion or Generate Force Field 
+
+GM Intrusions: Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual or unexpected attack.
+
+#### Wields Two Weapons at Once
+
+Wields Two Weapons at Once #Focus #StrikerFocus #Core 
+
+You bear steel with both hands, ready to take on any foe.
+
+- Tier 1: Dual Light Wield
+- Tier 2: Double Strike
+- Tier 2: Infiltrator
+- Tier 3: Dual Medium Wield or Precise Cut
+- Tier 4: Dual Defense
+- Tier 5: Dual Distraction
+- Tier 6: Disarming Attack or Spin Attack
+
+GM Intrusions: A blade snaps in two or a weapon flies loose from its bearer’s grip.
+
+#### Works for a Living
+
+Works for a Living #Focus #BasicFocus #Core 
+
+You take great satisfaction in a job well done, whether it’s coding, building houses, or mining asteroids.
+
+- Tier 1: Handy
+- Tier 2: Muscles of Iron
+- Tier 3: Eye for Detail or Improvise
+- Tier 4: Enhanced Might
+- Tier 4: Tough It Out
+- Tier 5: Expert Skill
+- Tier 6: Greater Enhanced Potential or Hard-Won Resilience
+
+GM Intrusions: Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
+
+#### Works Miracles
+
+Works Miracles #Focus #SupportFocus #Core 
+
+You can heal others with a touch, alter time to help others, and are generally beloved by everyone.
+
+- Tier 1: Healing Touch
+- Tier 2: Alleviate
+- Tier 3: Font of Healing or Miraculous Health
+- Tier 4: Inspire Action
+- Tier 5: Undo
+- Tier 6: Greater Healing Touch or Restore Life
+
+GM Intrusions: Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.
+
+#### Works the Back Alleys
+
+Works the Back Alleys #Focus #MovementFocus #Core 
+
+You make your way unseen, stealing from the wealthy to achieve your ends.
+
+- Tier 1: Stealth Skills
+- Tier 2: Underworld Contacts
+- Tier 3: Pull a Fast One or Guild Training
+- Tier 4: Master Thief
+- Tier 5: Dirty Fighter
+- Tier 6: Alley Rat or All-Out Con
+
+GM Intrusions: Thieves are thrown in jail. Powerful enemies are made.
+
+#### Works the System
+
+Works the System #Focus #InfluenceFocus #Core 
+
+You can exploit flaws in artificial systems, including but not limited to computer code.
+
+- Tier 1: Hack the Impossible
+- Tier 1: Computer Programming
+- Tier 2: Connected
+- Tier 3: Confidence Artist or Skill With Attacks
+- Tier 4: Confuse Enemy
+- Tier 5: Work the Friendship
+- Tier 6: Call in Favor or Greater Enhanced Potential
+
+GM Intrusions: Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.
+
+#### Would Rather Be Reading
+
+Would Rather Be Reading #Focus #BasicFocus #Core 
+
+Books are your friends. What’s more important than knowledge? Nothing.
+
+- Tier 1: Knowledge Is Power
+- Tier 2: Greater Enhanced Intellect
+- Tier 3: Applying Your Knowledge or Flex Skill
+- Tier 4: Knowledge Is Power
+- Tier 4: Knowing the Unknown
+- Tier 5: Greater Enhanced Intellect
+- Tier 6: Knowledge Is Power
+- Tier 6: Tower of Intellect or Read the Signs
+
+GM Intrusions: Books burn, get wet, or get lost. Computers break or lose power. Glasses break.
+
+#### Walks the Wild Woods
+
+Walks the Wild Woods #Focus #Core #Fantasy
+
+An adherent of nature magic who draws on the power and strength of trees. 
+
+- Tier 1: Wilderness Life 
+- Tier 1: Patient Recovery
+- Tier 2: Wooden Body
+- Tier 3: Tree Companion or Wilderness Awareness 
+- Tier 4: Tree Travel
+- Tier 5: Great Tree
+- Tier 6: Dreadwood or Restorative Bloom
+
+GM Intrusions: A wooden charactercatches fire. A wild swing from a treebranch hits or trips an ally. Some treeshave evil hearts and hate all walkingthings.
 
 ## Abilities
 
@@ -4706,7 +4987,7 @@ These abilities are further sorted into ability categories based on the kinds of
 
 (Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.)
 
-### ABILITY CATEGORIES AND RELATIVE POWER
+**ABILITY CATEGORIES AND RELATIVE POWER**
 
 Abilities can be divided into several categories based on the kinds of things they do—improve your physical attacks, assist allies, provide defense, give you a special attack form, and so on. Under each of the following category descriptions is a list of abilities that fit that category, sorted into low-, medium-, and high-tier abilities.
 
@@ -10923,7 +11204,7 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 |Medium|+2|
 |Heavy|+3|
 
-### Shields
+**Shields**
 
 Shields provide an asset to Speed defense rolls. You must have one free hand to use a shield.
 

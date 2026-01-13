@@ -31,7 +31,7 @@ https://www.markdownguide.org/basic-syntax/
 - Use a blank line to indicate paragraphs
 - Use a blank line before and after headings
 - Never use more 5 level of headings (5x# max)
-- To comply with safe linking, never use in a header a character that would not be a filename
+- Never use in a header a character that would not be a filename.
 	 - https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
 
 ## Cards
@@ -40,7 +40,7 @@ Cards are categories of brief descriptions that follow, or could follow, the sam
 
 Card types are defined below, and the most precise and consistent formatting should be applied for this content.
 
-All Cards follow the following principles :
+All Cards follow the following principles :  
 - Cards are contained in their own headings
 	- They start with a heading, whose name is the name of the object described in the card.
 	- They end just before the next heading.
@@ -58,6 +58,18 @@ All Cards follow the following principles :
 	- Then Tags should include Genre tags.
 		- If the card is defined in the core rules (as opposed to a module or genre), the #Core tag should be on the tag line. 
 		- If any genre explicitly endorses or defines that card, a tag with the name of the genre should be applied. A genre endorsement could be implicit, as in an ability in a type or focus that is recommanded should be tagged for that genre.
+			- #Fantasy
+			- #Modern
+			- #ScienceFiction
+			- #Horror 
+			- #Romance 
+			- #SuperHeroes 
+			- #PostApo
+			- #FairyTale
+			- #Historical
+			- #Cyberpunk
+			- #WeirdWest
+			- #ModernFantasy
 	- Cards have blocks that are defined for each type. 
 		- A block ends with a free line. 
 		- Blocks cannot contain free lines. 
@@ -84,7 +96,7 @@ All Cards follow the following principles :
 		- #ControlAbility 
 		- #CraftAbility 
 		- #CureAbility 
-		- #EnvonmentAbility 
+		- #EnvironmentAbility 
 		- #informationAbility 
 		- #MetaAbility 
 		- #MovementAbility 
@@ -166,6 +178,7 @@ All Cards follow the following principles :
 		- #EnvironmentFocus
 		- #ExplorationFocus
 		- #InfluenceFocus
+		- #IrregularFocus
 		- #MovementFocus
 		- #StrikerFocus 
 		- #SupportFocus
@@ -275,3 +288,5 @@ Should follow the following template :
 
 - Links use Markdown convention, linking to relative file path ?
 - How do I make this work in one file and in multiple files ? Prioritise multiple files in the meantime
+
+ 
