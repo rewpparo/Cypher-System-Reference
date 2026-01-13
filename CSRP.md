@@ -4999,12 +4999,10 @@ The ability categories are not intended to be rigid or comprehensive. Some abili
 
 These categories have some overlap with the categories in the Focus chapter. For example, there is a support category here and a support category in the Focus chapter. They aren’t intended to be exact parallels and they don’t mean exactly the same thing. That said, if you’re creating a support-centric focus, many of the abilities in the support ability category would be appropriate choices.
 
-### ATTACK SKILL
-
+**ATTACK SKILL**  
 Gives you training or specialization in a specific physical attack (like swords or unarmed combat), a category of physical attacks (light bladed, heavy bashing, and so on), or another physical skill primarily used to inflict harm (such as breaking objects).
 
-#### Low Tier:
-
+**Low Tier:**  
 - Heads-Up Display
 - Practiced With Guns
 - Practiced With Medium Weapons
@@ -5012,8 +5010,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 - Quarry
 - Unarmed Fighting Style
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Blood Fever
 - Cognizant Offense
 - Greater Skill With Defense
@@ -5025,8 +5022,7 @@ Gives you training or specialization in a specific physical attack (like swords 
 - Sniper’s Aim
 - Specialized Throwing
 
-#### High Tier:
-
+**High Tier:**  
 - As Foretold in Prophecy
 - Duel to the Death
 - Greater Skill With Attacks
@@ -5035,12 +5031,10 @@ Gives you training or specialization in a specific physical attack (like swords 
 - Mastery With Attacks
 - Specialized Basher
 
-### COMPANION
-
+**COMPANION**  
 Gives you a follower, modifies a follower, or gives you an additional benefit when interacting with or near your follower. This category includes humanoid followers, beast companions, and temporary companions like summoned swarms, conjured spirits, and so on.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Basic Follower
 - Beast Companion
 - Bound Magic Creature
@@ -5055,8 +5049,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - Serv-0
 - Spirit Accomplice
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Beast Eyes
 - Call Swarm
 - Expert Follower
@@ -5076,8 +5069,7 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - Time Doppelganger
 - Time Loop
 
-#### High Tier:
-
+**High Tier:**  
 - As If One Creature
 - Band of Desperados
 - Band of Followers
@@ -5105,12 +5097,10 @@ Gives you a follower, modifies a follower, or gives you an additional benefit wh
 - Time Doppelganger
 - True Necromancy
 
-### CONTROL
-
+**CONTROL**  
 Controls or influences minds in ways outside of what could be done with conventional intimidation and persuasion, such as using psychic mind control, fear gas, and so on.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Calm Stranger
 - Charm Machine
 - Cloud Personal Memories
@@ -5122,8 +5112,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - Soothe the Savage
 - Terrifying Presence
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Calm
 - Captivate or Inspire
 - Captivate With Starshine
@@ -5137,8 +5126,7 @@ Controls or influences minds in ways outside of what could be done with conventi
 - Mind Control
 - Psychic Suggestion
 
-#### High Tier:
-
+**High Tier:**  
 - Advanced Command
 - Assume Control
 - Brainwashing
@@ -5152,12 +5140,10 @@ Controls or influences minds in ways outside of what could be done with conventi
 - Suggestion
 - Word of Command
 
-### CRAFT
-
+**CRAFT**  
 Creates useful physical things, such as mundane tools (hammers, crowbars), limited-use devices (manifest cyphers, artifacts), or independent beings (robots, elementals, zombies). Includes blueprints, plans, and effects that aid or speed crafting.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Create Deadly Poison
 - Fortification Builder
 - Junkmonger
@@ -5169,8 +5155,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 - Trapster
 - Weapon Crafter
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Dream Becomes Reality
 - Expert Crafter
 - Ice Creation
@@ -5178,8 +5163,7 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 - Robot Upgrade
 - Sculpt Light
 
-#### High Tier:
-
+**High Tier:**  
 - Create
 - Dark Matter Structure
 - Improved Sculpt Light
@@ -5188,12 +5172,10 @@ Creates useful physical things, such as mundane tools (hammers, crowbars), limit
 - Modify Artifact Power
 - Reshape
 
-### CURE
-
+**CURE**  
 Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or otherwise gives immunity to a harmful effect or condition, such as poison, disease, mental attacks, moving down on the damage track, or dying.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Alleviate
 - Crystalline Body
 - Destined for Greatness
@@ -5218,8 +5200,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - Water Adaptation
 - Will of Legend
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Aquatic Combatant
 - Biomorphic Healing
 - Damage Transference
@@ -5244,8 +5225,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - Wilderness Encouragement
 - Willing Sacrifice
 
-#### High Tier:
-
+**High Tier:**  
 - Deep Reserves
 - Final Defiance
 - Free to Move
@@ -5268,12 +5248,10 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or o
 - Trick Driver
 - Vigilant
 
-### ENVIRONMENT
-
+**ENVIRONMENT**  
 Manipulates the environment or things in the environment, such as with telekinesis, weather control, gravity control, illusions, and so on.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Create Water
 - Dreamcraft
 - Fetch
@@ -5291,8 +5269,7 @@ Manipulates the environment or things in the environment, such as with telekines
 - Telekinesis
 - Wilderness Explorer
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Daydream
 - Define Down
 - Field of Gravity
@@ -5321,12 +5298,10 @@ Manipulates the environment or things in the environment, such as with telekines
 - Wall of Lightning
 - The Wild Is on Your Side
 
-### INFORMATION
-
+**INFORMATION**  
 Gives the ability to learn information about something, whether chosen by the GM like Scan, by asking a question and the GM giving the answer, or by learning a language.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Babel
 - Communication
 - Community Knowledge
@@ -5348,8 +5323,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 - Speaker for the Dead
 - Telepathic
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Creature Insight
 - Device Insight
 - Draw Conclusion
@@ -5365,8 +5339,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 - Spot Weakness
 - Wilderness Awareness
 
-#### High Tier:
-
+**High Tier:**  
 - Deep Consideration
 - Drawing on Life’s Experiences
 - Information Gathering
@@ -5375,12 +5348,10 @@ Gives the ability to learn information about something, whether chosen by the GM
 - Read the Signs
 - Telepathic Network
 
-### META
-
+**META**  
 Modifies an existing ability or character trait’s effects or parameters, such as increasing range or, damage, easing the difficulty, giving you additional noncombat actions each turn, rerolling a failed attempt, or treating a number on the die as something different than normal.
 
-#### Low Tier:
-
+**Low Tier:**  
 - A Smile and a Word
 - Arcane Flare
 - Artifact Tinkerer
@@ -5429,8 +5400,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - Weapon Master
 - Wreck
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Amazing Effort
 - Betrayal
 - Better Living Through Chemistry
@@ -5516,8 +5486,7 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - Willing Sacrifice
 - Wrest From Chance
 
-#### High Tier:
-
+**High Tier:**  
 - Adroit Cypher Use
 - Again and Again
 - Agile Wit
@@ -5585,12 +5554,10 @@ Modifies an existing ability or character trait’s effects or parameters, such 
 - Wild Vitality
 - Winter Gauntlets
 
-### MOVEMENT
-
+**MOVEMENT**  
 Increases your movement (such as increasing your basic movement speed from short to long) or adds a new type of movement (such as flight, wallcrawling, phasing, or teleporting).
 
-#### Low Tier:
-
+**Low Tier:**  
 - Bolt Rider
 - Contortionist
 - Danger Instinct
@@ -5601,8 +5568,7 @@ Increases your movement (such as increasing your basic movement speed from short
 - Void Wings
 - Walk Through Walls
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Apportation
 - Blink of an Eye
 - Bypass Barrier
@@ -5619,8 +5585,7 @@ Increases your movement (such as increasing your basic movement speed from short
 - Wings of Fire
 - Wormhole
 
-#### High Tier:
-
+**High Tier:**  
 - Alley Rat
 - Blurring Speed
 - Chamber of Dreams
@@ -5644,12 +5609,10 @@ Increases your movement (such as increasing your basic movement speed from short
 - Wind Chariot
 - Windwracked Traveler
 
-### PROTECTION
-
+**PROTECTION**  
 Gives training or specialization in one or more types of combat defenses (Might, Speed, or Intellect), provides or increases Armor, or otherwise helps prevent damage.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Absorb Kinetic Energy
 - Block
 - Closed Mind
@@ -5702,8 +5665,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - Weather the Vicissitudes
 - Wind Armor
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Absorb Pure Energy
 - Anticipate Attack
 - Blood Fever
@@ -5752,8 +5714,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - Vigilance
 - Wraith Cloak
 
-#### High Tier:
-
+**High Tier:**  
 - Defense Master
 - Defensive Augmentation
 - Defensive Field
@@ -5780,12 +5741,10 @@ Gives training or specialization in one or more types of combat defenses (Might,
 - Untouchable While Moving
 - Wear It Well
 
-### SENSES
-
+**SENSES**  
 Enhances your senses (seeing in the dark, seeing underwater or through mist, sensing danger, finding optimal places to stand in combat, and so on), but doesn’t provide direct answers to questions like an information ability does.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Eyes Adjusted
 - Familiarize
 - Find an Opening
@@ -5799,8 +5758,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 - Share Senses
 - Third Eye
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Animal Senses and Sensibilities
 - Awareness
 - Beast Eyes
@@ -5817,8 +5775,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 - Trapfinder
 - Use Senses of Others
 
-#### High Tier:
-
+**High Tier:**  
 - Amplify Sounds
 - Battlefield Tactician
 - Dark Explorer
@@ -5827,12 +5784,10 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist, sen
 - See Through Time
 - True Senses
 
-### SOCIAL
-
+**SOCIAL**  
 Gives you an indirect social benefit, such as providing a useful contact in a city or letting you take advantage of your social status.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Connected
 - Debate
 - Demeanor of Command
@@ -5845,24 +5800,20 @@ Gives you an indirect social benefit, such as providing a useful contact in a ci
 - Underworld Contacts
 - Unexpected Betrayal
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Betrayal
 - Flamboyant Boast
 - Informer
 - Oratory
 - Perfect Stranger
 
-#### High Tier:
-
+**High Tier:**  
 - Group Friendship
 
-### SPECIAL ATTACK
-
+**SPECIAL ATTACK**  
 Gives the ability to make a special melee or ranged attack (weapon, energy blast, psychic, and so on). The attack might do damage, have a special effect (disarm, hinder, move the target, and so on), or both. This also includes abilities like Spray that let you attack multiple targets as your action.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Advantage to Disadvantage
 - Aggression
 - Arcane Flare
@@ -5912,8 +5863,7 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - Thunder Beam
 - Weighty
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Acrobatic Attack
 - Ambusher
 - Answering Attack
@@ -5978,8 +5928,7 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - Throw Force Shield
 - Trick Shot
 
-#### High Tier:
-
+**High Tier:**
 - Absorb Energy
 - Arc Spray
 - Assassin Strike
@@ -6043,12 +5992,10 @@ Gives the ability to make a special melee or ranged attack (weapon, energy blast
 - Winter Gauntlets
 - Word of Death
 
-### SUPPORT
-
+**SUPPORT**  
 Gives some sort of benefit to an ally rather than yourself, such as an extra action or an asset on their roll.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Advice From a Friend
 - Anecdote
 - Attack Flourish
@@ -6068,8 +6015,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - Sculpt Flesh
 - Teamwork
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Accelerate
 - Applying Your Knowledge
 - Buddy System
@@ -6085,8 +6031,7 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - Take Command
 - True Guardian
 
-#### High Tier:
-
+**High Tier:**  
 - Able Assistance
 - Battle Management
 - Block for Another
@@ -6106,12 +6051,10 @@ Gives some sort of benefit to an ally rather than yourself, such as an extra act
 - Will of a Leader
 - Work the Friendship
 
-### TASK
-
+**TASK**
 Gives training, specialization, or an asset in one or more noncombat skills (climbing, healing, computers, initiative, and so on).
 
-#### Low Tier:
-
+**Low Tier:**  
 - Advantages of Being Big
 - Anticipation
 - Assassin Skills
@@ -6228,8 +6171,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - Wound Tender
 - Zero Dark Eyes
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Action Processor
 - Agent Provocateur
 - Animal Senses and Sensibilities
@@ -6278,8 +6220,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - Verbal Misdirection
 - You Studied
 
-#### High Tier:
-
+**High Tier:**  
 - Amplify Sounds
 - As Foretold in Prophecy
 - Coordinated Effort
@@ -6300,12 +6241,10 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 - Trick Driver
 - Using the Environment
 
-### TRANSFORM
-
+**TRANSFORM**  
 A significant change that temporarily enhances you, such as growing bigger, turning into a werewolf, and so on. Also includes apparent transformations like disguises and invisibility.
 
-#### Low Tier:
-
+**Low Tier:**  
 - Beast Form
 - Bigger
 - Controlled Change
@@ -6317,8 +6256,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 - Spin Identity
 - Vanish
 
-#### Mid Tier:
-
+**Mid Tier:**  
 - Bigger Beast Form
 - Blend In
 - Evanesce
@@ -6328,8 +6266,7 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 - Invisible Phasing
 - Moon Shape
 
-#### High Tier:
-
+**High Tier:**  
 - Colossal
 - Command Metal
 - Disappear
@@ -6341,136 +6278,260 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 - Perfect Control
 - Wild Camouflage
 
-### Abilities—A
+### A Smile and a Word
 
-#### A Smile and a Word
+A Smile and a Word #Ability #MetaAbility #Low #Core
 
-When you use Effort on any action involving interactions—even those having to do with calming animals or communicating with someone or something whose language you do not speak—you gain a free level of Effort on the task. Action.
+When you use Effort on any action involving interactions—even those having to do with calming animals or communicating with someone or something whose language you do not speak—you gain a free level of Effort on the task.
 
-#### Able Assistance
+Action.
 
-When you help someone with a task and they apply a level of Effort, they get a free level of Effort on that task. Enabler.
+### Able Assistance
 
-#### Absorb Energy (7 Intellect points)
+Able Assistance #Ability #SupportAbility #High #Core
 
-You touch an object and absorb its energy. If you touch a manifest cypher, you render it useless. If you touch an artifact, roll for its depletion. If you touch another kind of powered machine or device, the GM determines whether its power is fully drained. In any case, you absorb energy from the object touched and regain 1d10 Intellect points. If this would give you more Intellect than your Pool’s maximum, the extra points are lost, and you must make a Might defense roll. The difficulty of the roll is equal to the number of points over your maximum you absorbed. If you fail the roll, you take 5 points of damage and are unable to act for one round. You can use this ability as a defense action when you’re the target of an incoming ability. Doing so cancels the incoming ability, and you absorb the energy as if it were a device. Action.
+When you help someone with a task and they apply a level of Effort, they get a free level of Effort on that task. 
 
-#### Absorb Kinetic Energy
+Enabler.
 
-You absorb a portion of the energy of a physical attack or impact. You negate 1 point of damage you would have suffered and store that point as energy. Once you have absorbed 1 point of energy, you continue to negate 1 point of damage from any incoming blow or impact, but the residual energy bleeds off with a flare of harmless light (you cannot store more than 1 point at a time). Enabler.
+### Absorb Energy
 
-#### Absorb Pure Energy
+Absorb Energy (7 Intellect points) #Ability #SpecialAttackAbility #High #Core
 
-When you use Absorb Kinetic Energy, you can also absorb and store energy from attacks made with pure energy (focused light, radiation, transdimensional, psychic, etc.) or from conduits that direct energy, if you can make direct contact. This ability does not change how many points of energy you can store. If you also have Improved Absorb Kinetic Energy, you can absorb 2 points of damage from other energy sources as well. Enabler.
+You touch an object and absorb its energy. If you touch a manifest cypher, you render it useless. If you touch an artifact, roll for its depletion. If you touch another kind of powered machine or device, the GM determines whether its power is fully drained. In any case, you absorb energy from the object touched and regain 1d10 Intellect points. If this would give you more Intellect than your Pool’s maximum, the extra points are lost, and you must make a Might defense roll. The difficulty of the roll is equal to the number of points over your maximum you absorbed. If you fail the roll, you take 5 points of damage and are unable to act for one round. You can use this ability as a defense action when you’re the target of an incoming ability. Doing so cancels the incoming ability, and you absorb the energy as if it were a device.
 
-#### Accelerate (4+ Intellect points)
+Action.
 
-Your words imbue the spirit of a character within immediate range who is able to understand you, accelerating them so they gain an asset on initiative tasks and Speed defense rolls for ten minutes. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. You must speak to additional targets to accelerate them, one target per round. Action per target to initiate.
+### Absorb Kinetic Energy
 
-#### Acrobatic Attack (1+ Speed points)
+Absorb Kinetic Energy #Ability #ProtectionAbility #Low #Core
 
-You leap into the attack, twisting or flipping through the air. If you roll a natural 17 or 18, you can choose to have a minor effect rather than deal extra damage. If you apply Effort to the attack, you get a free level of Effort on the task. You can’t use this ability if your Speed Effort costs are reduced from wearing armor. Enabler.
+You absorb a portion of the energy of a physical attack or impact. You negate 1 point of damage you would have suffered and store that point as energy. Once you have absorbed 1 point of energy, you continue to negate 1 point of damage from any incoming blow or impact, but the residual energy bleeds off with a flare of harmless light (you cannot store more than 1 point at a time). 
 
-#### Action Processor (4 Intellect points)
+Enabler.
 
-Drawing upon stored information and the ability to process incoming data at amazing speeds, you are trained in one physical task of your choice for ten minutes. For example, you can choose running, climbing, swimming, Speed defense, or attacks with a specific weapon. Action to initiate.
+### Absorb Pure Energy
 
-#### Adaptation
+Absorb Pure Energy #Ability #ProtectionAbility #Mid #Core
 
-Thanks to a latent mutation, a device implanted in your spine, a ritual performed with dragon’s blood, or some other gift, you now remain at a comfortable temperature; never need to worry about dangerous radiation, diseases, or gases; and can always breathe in any environment (even the vacuum of space). Enabler.
+When you use Absorb Kinetic Energy, you can also absorb and store energy from attacks made with pure energy (focused light, radiation, transdimensional, psychic, etc.) or from conduits that direct energy, if you can make direct contact. This ability does not change how many points of energy you can store. If you also have Improved Absorb Kinetic Energy, you can absorb 2 points of damage from other energy sources as well. 
 
-#### Adroit Cypher Use
+Enabler.
 
-You can bear four cyphers at a time. Enabler.
+### Accelerate
 
-#### Advanced Command (7 Intellect points)
+Accelerate (4+ Intellect points) #Ability #SupportAbility #Mid #Core
 
-A target within short range obeys any command you give as long as they can hear and understand you. Further, as long as you continue to do nothing but issue commands (taking no other action), you can give that same target a new command. This effect ends when you stop issuing commands or they are out of short range. Action to initiate.
+Your words imbue the spirit of a character within immediate range who is able to understand you, accelerating them so they gain an asset on initiative tasks and Speed defense rolls for ten minutes. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. You must speak to additional targets to accelerate them, one target per round. 
 
-#### Advantage to Disadvantage (3 Speed points)
+Action per target to initiate.
 
-With a number of quick moves, you make an attack against an armed foe, inflicting damage and disarming them so that their weapon is now in your hands or 10 feet (3 m) away on the ground—your choice. This disarming attack is hindered. Action.
+### Acrobatic Attack
 
-#### Advantages of Being Big
+Acrobatic Attack (1+ Speed points) #Ability #SpecialAttackAbility #Mid #Core
 
-When you use Enlarge, you’re so big that you can move massive objects more easily, climb buildings by using hand- and footholds unavailable to regular-sized people, and jump much farther. While you enjoy the effects of Enlarge, all climbing, lifting, and jumping tasks are eased. Enabler.
+You leap into the attack, twisting or flipping through the air. If you roll a natural 17 or 18, you can choose to have a minor effect rather than deal extra damage. If you apply Effort to the attack, you get a free level of Effort on the task. You can’t use this ability if your Speed Effort costs are reduced from wearing armor. 
 
-#### Advantages of Being Small
+Enabler.
 
-You’ve learned how to leverage your strength and accuracy in proportion to your size. Your damage is no longer halved when using Shrink, and climbing and jumping tasks are eased. Enabler.
+### Action Processor
 
-#### Advice From a Friend (1 Intellect point)
+Action Processor (4 Intellect points) #Ability #TaskAbility #Mid #Core
 
-You know your friend’s strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. Action.
+Drawing upon stored information and the ability to process incoming data at amazing speeds, you are trained in one physical task of your choice for ten minutes. For example, you can choose running, climbing, swimming, Speed defense, or attacks with a specific weapon. 
 
-#### Again and Again (8 Speed points)
+Action to initiate.
 
-You can take an additional action in a round in which you have already acted. Enabler.
+### Adaptation
 
-#### Ageless
+Adaptation #Ability #EnvironmentAbility #Mid #Core
 
-Your body and mind do not age. Unless you are killed by violence (or some outside force such as poison or infection), you will never die. Enabler.
+Thanks to a latent mutation, a device implanted in your spine, a ritual performed with dragon’s blood, or some other gift, you now remain at a comfortable temperature; never need to worry about dangerous radiation, diseases, or gases; and can always breathe in any environment (even the vacuum of space). 
 
-#### Agent Provocateur
+Enabler.
 
-Choose one of the following to be trained in: attacking with a weapon of your choice, demolitions, or sneaking and lockpicking (if you choose this last option, you are trained in both). Enabler.
+### Adroit Cypher Use
 
-#### Aggression (2 Might points)
+Adroit Cypher Use #Ability #MetaAbility #High #Core
 
-You focus on making attacks to such an extent that you leave yourself vulnerable to your opponents. While this ability is active, you gain an asset on your melee attacks, and your Speed defense rolls against melee and ranged attacks are hindered. This effect lasts for as long as you wish, but it ends if no combat is taking place within range of your senses. Enabler.
+You can bear four cyphers at a time. 
 
-#### Agile Wit
+Enabler.
 
-When attempting a Speed task, you instead can roll (and spend points) as if it were an Intellect action. If you apply Effort to this task, you can spend points from your Intellect Pool instead of your Speed Pool (in which case you also use your Intellect Edge instead of your Speed Edge). Enabler.
+### Advanced Command
 
-#### All-Out Con (7 Intellect points)
+Advanced Command (7 Intellect points) #Ability #ControlAbility #High #Core
+
+A target within short range obeys any command you give as long as they can hear and understand you. Further, as long as you continue to do nothing but issue commands (taking no other action), you can give that same target a new command. This effect ends when you stop issuing commands or they are out of short range. 
+
+Action to initiate.
+
+### Advantage to Disadvantage
+
+Advantage to Disadvantage (3 Speed points) #Ability #SpecialAttackAbility #Low #Core
+
+With a number of quick moves, you make an attack against an armed foe, inflicting damage and disarming them so that their weapon is now in your hands or 10 feet (3 m) away on the ground—your choice. This disarming attack is hindered. 
+
+Action.
+
+### Advantages of Being Big
+
+Advantages of Being Big #Ability #TaskAbility #Low #Core
+
+When you use Enlarge, you’re so big that you can move massive objects more easily, climb buildings by using hand- and footholds unavailable to regular-sized people, and jump much farther. While you enjoy the effects of Enlarge, all climbing, lifting, and jumping tasks are eased. 
+
+Enabler.
+
+### Advantages of Being Small
+
+Advantages of Being Small #Ability #Core
+
+You’ve learned how to leverage your strength and accuracy in proportion to your size. Your damage is no longer halved when using Shrink, and climbing and jumping tasks are eased. 
+
+Enabler.
+
+### Advice From a Friend
+
+Advice From a Friend (1 Intellect point) #Ability #SupportAbility #Low #Core
+
+You know your friend’s strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. 
+
+Action.
+
+### Again and Again
+
+Again and Again  (8 Speed points) #Ability #MetaAbility #High #Core
+
+You can take an additional action in a round in which you have already acted. 
+
+Enabler.
+
+### Ageless
+
+Ageless #Ability #Core
+
+Your body and mind do not age. Unless you are killed by violence (or some outside force such as poison or infection), you will never die. 
+
+Enabler.
+
+### Agent Provocateur
+
+Agent Provocateur #Ability #TaskAbility #Mid #Core 
+
+Choose one of the following to be trained in: attacking with a weapon of your choice, demolitions, or sneaking and lockpicking (if you choose this last option, you are trained in both). 
+
+Enabler.
+
+### Aggression
+
+Aggression (2 Might points) #Ability #SpecialAttackAbility #Low #Core 
+
+You focus on making attacks to such an extent that you leave yourself vulnerable to your opponents. While this ability is active, you gain an asset on your melee attacks, and your Speed defense rolls against melee and ranged attacks are hindered. This effect lasts for as long as you wish, but it ends if no combat is taking place within range of your senses. 
+
+Enabler.
+
+### Agile Wit
+
+Agile Wit #Ability #MetaAbility #High #Core 
+
+When attempting a Speed task, you instead can roll (and spend points) as if it were an Intellect action. If you apply Effort to this task, you can spend points from your Intellect Pool instead of your Speed Pool (in which case you also use your Intellect Edge instead of your Speed Edge). 
+
+Enabler.
+
+### All-Out Con
+
+All-Out Con (7 Intellect points) #Ability #MetaAbility #High #Core 
 
 You put everything into it. You add three free levels of Effort to the next task you attempt. You can’t use this ability again until after you’ve taken a  
-ten-hour recovery action. Action.
+ten-hour recovery action. 
 
-#### Alleviate (3 Intellect points)
+Action.
 
-You attempt to cancel or cure one malady (such as disease or poison) in one creature. Action.
+### Alleviate
 
-#### Alley Rat (6 Intellect points)
+Alleviate (3 Intellect points) #Ability #CureAbility #Low #Core 
 
-While in a city, you find or create a significant shortcut, secret entrance, or emergency escape route where it looked like none existed. Doing so requires that you succeed on an Intellect action whose difficulty is set by the GM based on the situation. You and the GM should work out the details. Action.
+You attempt to cancel or cure one malady (such as disease or poison) in one creature. 
 
-#### Always Tinkering
+Action.
 
-If you have any tools and materials at all, and you are carrying fewer cyphers than your limit, you can create a manifest cypher if you have an hour of time to spend. The new cypher is random and always 2 levels lower than normal (minimum 1). It’s also temperamental and fragile. These are called temperamental cyphers. If you give one to anyone else to use, it falls apart immediately, useless. Action to initiate; one hour to complete.
+### Alley Rat
 
-#### Amazing Copying
+Alley Rat (6 Intellect points) #Ability #MovementAbility #High #Core 
 
-You can use Copy Power to copy more powerful abilities. In addition to the normal options for using Effort with Copy Power, if you apply two levels of Effort, the GM chooses a high-tier ability that most closely resembles that power (instead of a low-tier ability). Enabler.
+While in a city, you find or create a significant shortcut, secret entrance, or emergency escape route where it looked like none existed. Doing so requires that you succeed on an Intellect action whose difficulty is set by the GM based on the situation. You and the GM should work out the details. 
 
-#### Amazing Effort
+Action.
 
-When you apply at least one level of Effort to a noncombat task, you get a free level of Effort on that task. When you choose this ability, decide if it applies to Might Effort or Speed Effort. Enabler.
+### Always Tinkering
 
-#### Amazing Leap (2 Might points)
+Always Tinkering #Ability #Core 
 
-You leap through the air and land safely some distance away. You can jump up, down, or across to anywhere you choose within long range if you have a clear and unobstructed path to that location. If you have three or more power shifts in strength, your leaping range increases to very long. If you have five or more power shifts in strength, your leaping range increases to 1,000 feet (300 m). Action.
+If you have any tools and materials at all, and you are carrying fewer cyphers than your limit, you can create a manifest cypher if you have an hour of time to spend. The new cypher is random and always 2 levels lower than normal (minimum 1). It’s also temperamental and fragile. These are called temperamental cyphers. If you give one to anyone else to use, it falls apart immediately, useless. 
 
-#### Ambusher
+Action to initiate; one hour to complete.
 
-When you attack a creature that has not yet acted during the first round of combat, your attack is eased. Enabler.
+### Amazing Copying
 
-#### Amplify Sounds (2 Might points)
+Amazing Copying #Ability #Core #SuperHeroes 
 
-For one minute, you can amplify distant or small sounds so that you can hear them clearly, even if it’s a conversation or the sound of a small animal moving through an underground burrow up to a very long distance away. You can attempt to perceive the sound even if interceding barriers block it or the sound is very slight, though this requires a few additional rounds of concentration. To discriminate the sound you wish in a noisy environment might also require a few additional rounds of concentration as you audibly explore the surrounding soundscape. Given enough time, you could pinpoint every conversation, every breathing creature, and every device creating noise within range. Action to initiate, up to several rounds to complete, depending on the difficulty of the task.
+You can use Copy Power to copy more powerful abilities. In addition to the normal options for using Effort with Copy Power, if you apply two levels of Effort, the GM chooses a high-tier ability that most closely resembles that power (instead of a low-tier ability). 
 
-#### Anecdote (2 Intellect points)
+Enabler.
 
-You can lift the spirits of a group of creatures and help them bond together by entertaining them with an uplifting or pointed anecdote. For the next hour, those who pay attention to your story are trained in a task you choose that’s related to the anecdote, as long as it’s not an attack or defense task. Action to initiate, one minute to complete.
+### Amazing Effort
 
-#### Animal Scrying (4+ Intellect points)
+Amazing Effort #Ability #MetaAbility #Mid #Core 
 
-If you know the general location of an animal that is friendly toward you and within 1 mile (1.5 km) of your location, you can sense through its senses for up to ten minutes. If you are not in animal form or not in a form similar to that animal, you must apply a level of Effort to use this ability. Action to establish.
+When you apply at least one level of Effort to a noncombat task, you get a free level of Effort on that task. When you choose this ability, decide if it applies to Might Effort or Speed Effort. 
 
-#### Animal Shape (3+ Intellect points)
+Enabler.
 
-You change into an animal as small as a rat or up to your own size (such as a large dog or small bear) for ten minutes. Each time you transform, you can take a different animal shape. Your equipment becomes part of the transformation, rendering it unusable unless it has a passive effect, such as armor. In this form your stats remain the same as your normal form, but you can move and attack according to your animal shape (attacks from most animals this size are medium weapons, which you can use without penalty). Tasks requiring hands (such as using door handles or pushing buttons) are hindered when in animal form. You cannot speak but can still use abilities that don’t rely on human speech. You gain two minor abilities associated with the creature you become (see the Animal Form Minor Abilities table at the end of the Character Abilities section of this document). For example, if you transform into a bat, you become trained in perception and can fly up to a long distance each round. If you transform into an octopus, you are trained in stealth and can breathe underwater. If you apply a level of Effort when you use this ability, you can either become a talking animal or take a hybrid shape. The talking animal shape looks exactly like a normal animal, but you can still talk and use any abilities that rely on human speech. The hybrid shape is like your normal form but with animalistic features, even if that animal is something much smaller than you (such as a bat or rat). In this hybrid form you can speak, use all of your abilities, make attacks like an animal, and perform tasks using hands without being hindered. Anyone who sees you clearly in this hybrid form would never mistake you for a mere animal. Action to change or revert. 
+### Amazing Leap
+
+Amazing Leap (2 Might points) #Ability #Core 
+
+You leap through the air and land safely some distance away. You can jump up, down, or across to anywhere you choose within long range if you have a clear and unobstructed path to that location. If you have three or more power shifts in strength, your leaping range increases to very long. If you have five or more power shifts in strength, your leaping range increases to 1,000 feet (300 m). 
+
+Action.
+
+### Ambusher
+
+Ambusher #Ability #SpecialAttackAbility #Mid #Core 
+
+When you attack a creature that has not yet acted during the first round of combat, your attack is eased. 
+
+Enabler.
+
+### Amplify Sounds
+
+Amplify Sounds (2 Might points) #Ability #TaskAbility #High  #Core 
+
+For one minute, you can amplify distant or small sounds so that you can hear them clearly, even if it’s a conversation or the sound of a small animal moving through an underground burrow up to a very long distance away. You can attempt to perceive the sound even if interceding barriers block it or the sound is very slight, though this requires a few additional rounds of concentration. To discriminate the sound you wish in a noisy environment might also require a few additional rounds of concentration as you audibly explore the surrounding soundscape. Given enough time, you could pinpoint every conversation, every breathing creature, and every device creating noise within range. 
+
+Action to initiate, up to several rounds to complete, depending on the difficulty of the task.
+
+### Anecdote
+
+Anecdote (2 Intellect points) #Ability #SupportAbility #Low #Core 
+
+You can lift the spirits of a group of creatures and help them bond together by entertaining them with an uplifting or pointed anecdote. For the next hour, those who pay attention to your story are trained in a task you choose that’s related to the anecdote, as long as it’s not an attack or defense task. 
+
+Action to initiate, one minute to complete.
+
+### Animal Scrying
+
+Animal Scrying (4+ Intellect points) #Ability #Core #Fantasy 
+
+If you know the general location of an animal that is friendly toward you and within 1 mile (1.5 km) of your location, you can sense through its senses for up to ten minutes. If you are not in animal form or not in a form similar to that animal, you must apply a level of Effort to use this ability. 
+
+Action to establish.
+
+### Animal Shape
+
+Animal Shape (3+ Intellect points) #Ability #Core #Fantasy 
+
+You change into an animal as small as a rat or up to your own size (such as a large dog or small bear) for ten minutes. Each time you transform, you can take a different animal shape. Your equipment becomes part of the transformation, rendering it unusable unless it has a passive effect, such as armor. In this form your stats remain the same as your normal form, but you can move and attack according to your animal shape (attacks from most animals this size are medium weapons, which you can use without penalty). Tasks requiring hands (such as using door handles or pushing buttons) are hindered when in animal form. You cannot speak but can still use abilities that don’t rely on human speech. You gain two minor abilities associated with the creature you become (see the Animal Form Minor Abilities table at the end of the Character Abilities section of this document). For example, if you transform into a bat, you become trained in perception and can fly up to a long distance each round. If you transform into an octopus, you are trained in stealth and can breathe underwater. If you apply a level of Effort when you use this ability, you can either become a talking animal or take a hybrid shape. The talking animal shape looks exactly like a normal animal, but you can still talk and use any abilities that rely on human speech. The hybrid shape is like your normal form but with animalistic features, even if that animal is something much smaller than you (such as a bat or rat). In this hybrid form you can speak, use all of your abilities, make attacks like an animal, and perform tasks using hands without being hindered. Anyone who sees you clearly in this hybrid form would never mistake you for a mere animal. 
 
 “Similar” is a broad term. Lions are similar to tigers and leopards, hawks are similar to ravens and swans, dogs are similar to wolves and foxes, and so on.
 
@@ -6505,119 +6566,207 @@ Use the following as examples or suggestions of what a character gains when in t
 |Venomous snake|Climbing|Venom|
 |Wolf|Perception|Scent|
 
-Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
+- Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
+- Armor: The animal has a thick hide or shell, granting +1 to Armor.
+- Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.
+- Fast: The animal can move a long distance on its turn instead of a short distance.
+- Flying: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.
+- Hands: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).
+- Scent: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.
+- Small: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.
+- Venom: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.
 
-Armor: The animal has a thick hide or shell, granting +1 to Armor.
+Action to change or revert. 
 
-Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.
+### Animal Senses and Sensibilities
 
-Fast: The animal can move a long distance on its turn instead of a short distance.
+Animal Senses and Sensibilities #Ability #SensesAbility #TaskAbility #Mid 
 
-Flying: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.
+You are trained in listening and spotting things. In addition, most of the time, the GM should alert you if you’re about to walk into an ambush or a trap that is lower than level 5. 
 
-Hands: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).
+Enabler.
 
-Scent: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.
+### Answering Attack
 
-Small: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.
+Answering Attack (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-Venom: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.
+If you are struck in melee, you can make an immediate melee attack against that attacker once per round. The attack is hindered, and you can still take your normal action during the round. 
 
-#### Animal Senses and Sensibilities
+Enabler.
 
-You are trained in listening and spotting things. In addition, most of the time, the GM should alert you if you’re about to walk into an ambush or a trap that is lower than level 5. Enabler.
+### Anticipate Attack
 
-#### Answering Attack (3 Speed points)
+Anticipate Attack (4 Intellect points) #Ability #ProtectionAbility #Mid #Core 
 
-If you are struck in melee, you can make an immediate melee attack against that attacker once per round. The attack is hindered, and you can still take your normal action during the round. Enabler.
+You can sense when and how creatures attacking you will make their attacks. Speed defense rolls are eased for one minute. 
 
-#### Anticipate Attack (4 Intellect points)
+Action.
 
-You can sense when and how creatures attacking you will make their attacks. Speed defense rolls are eased for one minute. Action.
+### Anticipation
 
-#### Anticipation (1 Intellect point)
+Anticipation (1 Intellect point) #Ability #TaskAbility #Low #Core 
 
-You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. Action.
+You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. 
 
-#### Automatic Glow
+Action.
 
-Hard light objects you create with your type and focus abilities shed light, illuminating everything in immediate range. Whenever you want, your body (entirely or just part of it) sheds light, illuminating everything in short range. Enabler.
+### Automatic Glow
 
-#### Applying Your Knowledge
+Automatic Glow #Ability #Core #SuperHeroes 
 
-When you help another character undertake any action that you’re untrained in, you are treated as if you are trained in it. Action.
+Hard light objects you create with your type and focus abilities shed light, illuminating everything in immediate range. Whenever you want, your body (entirely or just part of it) sheds light, illuminating everything in short range. 
 
-#### Apportation (4 Intellect points)
+Enabler.
 
-You call a physical object to you. You can choose any piece of normal equipment on the standard equipment list, or (no more than once per day) you can allow the GM to determine the object randomly. If you call a random object, it has a 10 percent chance of being a manifest cypher or artifact, a 50 percent chance of being a piece of standard equipment, and a 40 percent chance of being a bit of worthless junk. You can’t use this ability to take an item held by another creature. Action.
+### Applying Your Knowledge
 
-#### Aquatic Combatant
+Applying Your Knowledge #Ability #SupportAbility #Core 
 
-You ignore penalties for any action (including fighting) in underwater environments. Enabler.
+When you help another character undertake any action that you’re untrained in, you are treated as if you are trained in it. 
 
-#### Arc Spray (3 Speed points)
+Action.
 
-If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. Action.
+### Apportation
 
-#### Arcane Flare (1 Intellect point)
+Apportation (4 Intellect points) #Ability #MovementAbility #Mid #Core 
 
-You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage. Enabler for enhancement; action for long-range attack.
+You call a physical object to you. You can choose any piece of normal equipment on the standard equipment list, or (no more than once per day) you can allow the GM to determine the object randomly. If you call a random object, it has a 10 percent chance of being a manifest cypher or artifact, a 50 percent chance of being a piece of standard equipment, and a 40 percent chance of being a bit of worthless junk. You can’t use this ability to take an item held by another creature. 
 
-#### Artifact Scavenger (6 Intellect points + 2 XP)
+Action.
 
-You’ve developed a sixth sense for searching for the most valuable items in the wasteland. If you spend the time required to succeed on two scavenging tasks, you can exchange all the results you would otherwise obtain for a chance to gain an artifact of the GM’s choosing if you succeed on a difficulty 6 Intellect task. You can use this ability at most once per day, and never within the same general area. Action to initiate, several hours to complete.
+### Aquatic Combatant
 
-#### Artifact Tinkerer
+Aquatic Combatant #Ability #CureAbility #Mid #Core 
 
-If you spend at least one day tinkering with an artifact in your possession, it functions at one level higher than normal. This applies to all artifacts in your possession, but they retain this bonus only for you. Enabler.
+You ignore penalties for any action (including fighting) in underwater environments. 
 
-#### As Foretold in Prophecy
+Enabler.
+
+### Arc Spray
+
+Arc Spray (3 Speed points) #Ability #SpecialAttackAbility #High #Core 
+
+If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. 
+
+Action.
+
+### Arcane Flare
+
+Arcane Flare (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
+
+You enhance the damage of another attack spell with an extra charge of energy so that it deals 1 additional point of damage. Alternatively, you attack a target within long range by projecting a flare of raw magic that inflicts 4 points of damage. 
+
+Enabler for enhancement; action for long-range attack.
+
+### Artifact Scavenger
+
+Artifact Scavenger (6 Intellect points + 2 XP) #Ability #MetaAbility #High #Core 
+
+You’ve developed a sixth sense for searching for the most valuable items in the wasteland. If you spend the time required to succeed on two scavenging tasks, you can exchange all the results you would otherwise obtain for a chance to gain an artifact of the GM’s choosing if you succeed on a difficulty 6 Intellect task. You can use this ability at most once per day, and never within the same general area. 
+
+Action to initiate, several hours to complete.
+
+### Artifact Tinkerer
+
+Artifact Tinkerer #Ability #MetaAbility #Low #Core 
+
+If you spend at least one day tinkering with an artifact in your possession, it functions at one level higher than normal. This applies to all artifacts in your possession, but they retain this bonus only for you. 
+
+Enabler.
+
+### As Foretold in Prophecy
+
+As Foretold in Prophecy #Ability #AttackAbility #High #Core 
 
 You accomplish something that proves you are truly the chosen one. The next task you attempt is eased by three steps. You can’t use this ability again until after you’ve taken a one-hour or a ten-hour recovery action. Action.
 
-#### As If One Creature
+### As If One Creature
 
-When you and your beast (from your Beast Companion ability) are within immediate distance of each other, you can share damage inflicted on either of you. For instance, if one of you is struck by a weapon for 4 points of damage, divide the damage between the two of you as you see fit. Only the Armor and resistances of the target initially damaged come into play. So if you have 2 Armor and are struck by a force blast for 4 points of damage, your beast can take the 2 points of damage you would suffer, but their Armor does not come into play, nor does their immunity to force blasts, if any. Enabler.
+As If One Creature #Ability #CompanionAbility #High #Core 
 
-#### Assassin Skills
+When you and your beast (from your Beast Companion ability) are within immediate distance of each other, you can share damage inflicted on either of you. For instance, if one of you is struck by a weapon for 4 points of damage, divide the damage between the two of you as you see fit. Only the Armor and resistances of the target initially damaged come into play. So if you have 2 Armor and are struck by a force blast for 4 points of damage, your beast can take the 2 points of damage you would suffer, but their Armor does not come into play, nor does their immunity to force blasts, if any. 
 
-You are trained in stealth and disguise tasks. Enabler.
+Enabler.
 
-#### Assassin Strike (5 Intellect points)
+### Assassin Skills
 
-If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. Enabler.
+Assassin Skills #Ability #TaskAbility #Low #Core 
 
-#### Asserting Your Privilege (3 Intellect points)
+You are trained in stealth and disguise tasks. 
 
-Acting as only a privileged person can, you verbally harangue a foe who can hear and understand you so forcefully that they are unable to take any action, including attacks, for one round. Whether you succeed or fail, the next action the target takes is hindered. Action.
+Enabler.
 
-#### Assume Control (6+ Intellect points)
+### Assassin Strike
 
-You control the actions of another creature you have interacted with or studied for at least a round. This effect lasts for ten minutes. The target must be level 2 or lower. Once you have assumed control, the target acts as if it wants to accomplish your desire to the best of its ability, freely using its own best judgment unless you use an action to give it a specific instruction on an issue-by-issue basis. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to attempt to command a level 5 target (three levels above the normal limit), you must apply three levels of Effort. When the effect ends, the target remembers everything that happened and reacts according to its nature and your relationship to it; assuming control might have soured that relationship if it was previously a positive one. Action to initiate.
+Assassin Strike (5 Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-#### Athlete
+If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. 
 
-You are trained in carrying, climbing, jumping, and smashing. Enabler.
+Enabler.
 
-#### Attack and Attack Again
+### Asserting Your Privilege
 
-Rather than granting additional damage or a minor or major effect, a natural 17 or higher on your attack roll allows you the option of immediately making another attack. Enabler.
+Asserting Your Privilege (3 Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-#### Attack Flourish
+Acting as only a privileged person can, you verbally harangue a foe who can hear and understand you so forcefully that they are unable to take any action, including attacks, for one round. Whether you succeed or fail, the next action the target takes is hindered. 
 
-With your attack, you add stylish moves, entertaining quips, or a certain something that entertains or impresses others. One creature you choose within short range who can see you gains an asset to its next task if taken within a round or two. Enabler.
+Action.
 
-#### Augment Cypher (2+ Intellect points)
+### Assume Control
 
-When you activate a cypher, add +1 to its level. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher by an additional +1 (per level of Effort applied). You can’t increase the cypher’s level above 10. Enabler.
+Assume Control (6+ Intellect points) #Ability #ControlAbility #High #Core 
 
-#### Autodoctor
+You control the actions of another creature you have interacted with or studied for at least a round. This effect lasts for ten minutes. The target must be level 2 or lower. Once you have assumed control, the target acts as if it wants to accomplish your desire to the best of its ability, freely using its own best judgment unless you use an action to give it a specific instruction on an issue-by-issue basis. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to attempt to command a level 5 target (three levels above the normal limit), you must apply three levels of Effort. When the effect ends, the target remembers everything that happened and reacts according to its nature and your relationship to it; assuming control might have soured that relationship if it was previously a positive one. 
 
-You are trained in healing, performing surgical procedures, and withstanding pain. You can perform surgeries on yourself, remaining conscious while you do so. Enabler.
+Action to initiate.
 
-#### Awareness (3 Intellect points)
+### Athlete
 
-You become hyperaware of your surroundings in order to better locate your target. For ten minutes, you are aware of all living things within long range (including their general position), and by concentrating (another action), you can attempt to learn the general health and power level of any one of them. Action.
+Athlete #Ability #TaskAbility #Low #Core 
+
+You are trained in carrying, climbing, jumping, and smashing. 
+
+Enabler.
+
+### Attack and Attack Again
+
+Attack and Attack Again #Ability #SpecialAttackAbility #High #Core 
+
+Rather than granting additional damage or a minor or major effect, a natural 17 or higher on your attack roll allows you the option of immediately making another attack. 
+
+Enabler.
+
+### Attack Flourish
+
+Attack Flourish #Ability #SupportAbility #Low #Core 
+
+With your attack, you add stylish moves, entertaining quips, or a certain something that entertains or impresses others. One creature you choose within short range who can see you gains an asset to its next task if taken within a round or two. 
+
+Enabler.
+
+### Augment Cypher
+
+Augment Cypher (2+ Intellect points) #Ability #MetaAbility #Low #Core 
+
+When you activate a cypher, add +1 to its level. In addition to the normal options for using Effort, you can choose to use Effort to increase the level of the cypher by an additional +1 (per level of Effort applied). You can’t increase the cypher’s level above 10. 
+
+Enabler.
+
+### Autodoctor
+
+Autodoctor #Ability #TaskAbility #Low #Core 
+
+You are trained in healing, performing surgical procedures, and withstanding pain. You can perform surgeries on yourself, remaining conscious while you do so. 
+
+Enabler.
+
+### Awareness
+
+Awareness (3 Intellect points) #Ability #SensesAbility #Mid #Core 
+
+You become hyperaware of your surroundings in order to better locate your target. For ten minutes, you are aware of all living things within long range (including their general position), and by concentrating (another action), you can attempt to learn the general health and power level of any one of them. 
+
+Action.
 
 ### Abilities—B
 
@@ -11161,8 +11310,7 @@ The GM can figure out what those things mean in their setting. In a fantasy sett
 
 But some GMs might want to keep things simple and use only the general terms, indicating currency just as flavor now and then. In a space opera game, where the PCs are the crew of a starship blazing about the galaxy in search of adventure and profit, fuel and upkeep for the ship might be expensive. Hauling a few passengers from Epsilon Eridani back to Earth might earn enough to purchase six expensive items but cost the equivalent of two expensive items, leaving the crew with the means to refuel and maintain the ship for two further voyages. In such a game, where money only means keeping the ship flying, no one has to talk in specific amounts. Characters might refer to “galactic credits” or something similar, but amounts might not be tracked on the character sheets.
 
-### PRICE CATEGORIES
-
+**PRICE CATEGORIES**  
 There are five price categories for goods and services.
 - An inexpensive item is something that common people buy. A simple meal or a drink in the bar. A pen and some paper. A book or magazine.
 - A moderately priced item is something that common people buy, but not too often and not in great quantities. A small piece of furniture. A major entertainment. An expensive meal. A new outfit.
@@ -11173,8 +11321,7 @@ Think of the categories as powers of 10. That is to say, a moderately priced ite
 
 (In some settings, even the generalization offered by the pricing categories might be too specific or cumbersome. In many superhero games, for example, prices are relatively moot. After saving the city, typical superheroes don’t worry about paying rent or how much dinner will cost. On the other hand, in a grittier superhero game, maybe that’s exactly what they worry about.)
 
-### USING THE PRICE CATEGORIES
-
+**USING THE PRICE CATEGORIES**  
 Regardless of how precise you want to be with prices and currency, you can use the price categories in a variety of ways.
 
 It’s easy for a GM to say to a player “You can afford two extra moderately priced things at the start of the game.” The player can look on the list and pick two moderately priced items without worrying about their cost. Plus, this approach makes it clear that they get two items, not twenty inexpensive items or one more expensive item that perhaps would not be appropriate for a starting character. The categories make it easy to lump similar items together.
@@ -11183,8 +11330,7 @@ The GM can also say “You can have whatever inexpensive items you want, and don
 
 Finally, the categories can be shorthand when evaluating loot, dividing up the spoils among the PCs, and resolving other story-based occurrences that crop up in the game without dealing in the minutiae of exact prices. This is of particular use in high-powered games where the PCs are rich and powerful.
 
-### Level of Equipment
-
+**Level of Equipment**  
 Mundane equipment is about level 4—less if of inferior quality or materials, more if of superior quality or materials. This means that in a setting based on the distant past, the default level might be 3, while in the future it might be 5 or 6. So an average serf ’s tool in the Dark Ages is level 3, easily broken, while an average tool on a space station is level 6, made of advanced polymers.
 
 ### ARMOR
@@ -11195,7 +11341,7 @@ You can wear only one type of armor at a time—you cannot wear chainmail hauber
 
 In general, light armor is a moderately priced item, medium armor is expensive, and heavy armor is very expensive. The Genre chapter offers more specific details on the kinds of armor available in a given setting. Keep in mind that in many genres, it’s quite odd, at best, to run around in armor tougher than a leather jacket.
 
-**USING ARMOR**
+**USING ARMOR**  
 Anyone can wear any armor, but it can be taxing. Wearing armor increases the cost of using a level of Effort when attempting a Speed-based action. So if you’re wearing light armor and want to use two levels of Effort on a Speed-based roll to run across difficult terrain, it costs 7 points from your Speed Pool rather than 5 (3 for the first level of Effort, plus 2 for the second level of Effort, plus 1 per level for wearing light armor). Edge reduces the overall cost as normal. If you are not experienced with a certain type of armor but wear it anyway, this cost is further increased by 1. Having experience with a type of armor is called being practiced with the armor.
 
 |Armor|Speed Effort<br>Additional Cost Per Level|
@@ -11204,8 +11350,7 @@ Anyone can wear any armor, but it can be taxing. Wearing armor increases the cos
 |Medium|+2|
 |Heavy|+3|
 
-**Shields**
-
+**Shields**  
 Shields provide an asset to Speed defense rolls. You must have one free hand to use a shield.
 
 ### WEAPONS
@@ -11231,8 +11376,7 @@ Bombs, grenades, missiles, and other explosives operate differently than other w
 
 Explosives like grenades can be thrown a short distance. Otherwise, another launcher weapon is needed to project them a long distance (or farther).
 
-### Miscellaneous Items and Services
-
+**Miscellaneous Items and Services**  
 Although the types of items for sale vary greatly based on the setting, a few things are always present, like food, lodging, and clothing. However, these goods and services can span the price categories. For example, you can get an inexpensive meal, a moderately priced meal, an expensive meal, and so on. An inexpensive meal is light and probably not very nutritious. An expensive meal is available only in nice restaurants in certain locations. An exorbitant meal is probably a feast for a crowd, with the finest foods and drink available.
 
 Nightly lodging is similar, although the bottom end starts out worse. An inexpensive night’s lodging is probably a flea-ridden mat on the floor of a room filled with other lodgers. Typical lodging (a private room with a decent bed) is probably in the moderately priced range. Very expensive lodging might be a suite of rooms with delicious meals and personal services (such as massages and grooming) included.
@@ -11842,16 +11986,16 @@ Attacker Is Moving: An attacker trying to make an attack while moving under thei
 
 Attacker Is Jostled: Being jostled, such as while standing on a listing ship or a vibrating platform, makes attacking difficult. Such attacks are hindered. Characters trained in balancing or sailing would ignore penalties for being on a ship.
 
-#### SPECIAL SITUATION: COMBAT BETWEEN NPCs
+##### SPECIAL SITUATION: COMBAT BETWEEN NPCs
 
 When an NPC ally of the PCs attacks another NPC, the GM can designate a player to roll and handle it like a PC attacking. Often, the choice is obvious. For example, a character who has a trained attack animal should roll when their pet attacks enemies. If an NPC ally accompanying the party leaps into the fray, that ally’s favorite PC rolls for them. NPCs cannot apply Effort. Of course, it’s perfectly fitting (and easier) to have the NPC ally use the cooperative action rules to aid a PC instead of making direct attacks, or to compare the levels of the two NPCs (higher wins).
 
-#### SPECIAL SITUATION: COMBAT BETWEEN PCs
+##### SPECIAL SITUATION: COMBAT BETWEEN PCs
 
 When one PC attacks another PC, the attacking character makes an attack roll, and the other character makes a defense roll, adding any appropriate modifiers. If the attacking PC has a skill, ability, asset, or other effect that would ease the attack if it were made against an NPC, the character adds 3 to the roll for each step reduction (+3 for one step, +6 for two steps, and so on). If the attacker’s final result is higher, the attack hits. If the defender’s result is higher,  
 the attack misses. Damage is resolved normally. The GM mediates all special effects.
 
-#### SPECIAL SITUATION: AREA ATTACKS
+##### SPECIAL SITUATION: AREA ATTACKS
 
 Sometimes, an attack or effect affects an area rather than a single target. For example, a grenade or a landslide can potentially harm or affect everyone in the area.
 
@@ -11861,7 +12005,7 @@ Some area attacks always deal at least a minimum amount of damage, even if the a
 
 For example, consider a character who uses Shatter to attack six cultists (level 2; target number 6) and their leader (level 4; target number 12). The PC applies Effort to increase the damage and rolls an 11 for the attack roll. This hits the six cultists, but not the leader, so the ability deals 3 points of damage to each of the cultists. The description of Shatter says that applying Effort to increase the damage also means that targets take 1 point of damage if the PC fails the attack roll, so the leader takes 1 point of damage. In terms of what happens in the story, the cultists are caught flat-footed by the sudden detonation of one of their knives, but the leader ducks and is shielded from the blast. Despite the leader’s quick moves, the blast is so intense that a few bits of metal slice them.
 
-#### SPECIAL SITUATION: ATTACKING OBJECTS
+##### SPECIAL SITUATION: ATTACKING OBJECTS
 
 Attacking an object is rarely a matter of hitting it. Sure, you can hit the broad side of a barn, but can you damage it? Attacking inanimate objects with a melee weapon is a Might action. Objects have  
 levels and thus target numbers. Objects have a damage track that works like the damage track for PCs.
