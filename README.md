@@ -287,7 +287,9 @@ Should follow the following template :
 
 ## Linking conventions
 
-- Links use Markdown convention, linking to relative file path ?
-- How do I make this work in one file and in multiple files ? Prioritise multiple files in the meantime
+- Links are a mess
+- Links need to work in github in priority, but obsidian would be nice
+- Definitely using markdown, not wiki
+- How do I make this work in one file and in multiple files ? Prioritise multiple single file in the meantime, but may require software
 
  
