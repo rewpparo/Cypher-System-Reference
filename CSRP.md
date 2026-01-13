@@ -45,6 +45,8 @@ CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A.
 	- [Taking Action](#taking-action)
 	- [Actions](#actions)
 	- [Action: Attack](#action-attack)
+		- [Damage](#damage)
+		- [Attack Modifiers and Special Situations](#attack-modifiers-and-special-situations)
 	- [Action: Activate a Special Ability](#action-activate-a-special-ability)
 	- [Action: Move](#action-move)
 	- [Action: Wait](#action-wait)
