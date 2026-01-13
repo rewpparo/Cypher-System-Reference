@@ -7,7 +7,7 @@ This product is an independent production and is not affiliated with Monte Cook 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC.
 # Contents
 
-[How to Play the Cypher System](#how-to-play-the-cypher-system) ^4954ad
+[How to Play the Cypher System](#how-to-play-the-cypher-system)
 
 [Characters](#characters)
 - [Creating Your Character](#creating-your-character)
@@ -73,13 +73,12 @@ Genres
 - [Weird West](#weird-west)
 - [Modern Fantasy](#modern-fantasy)
 
-[How to Play The Cypher System](#^2351b9)
-
+[Test](#^e53ce4)
 # SECTION 1 : Core
 
 # How to Play the Cypher System
 
-^2351b9
+^e53ce4
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.
 
