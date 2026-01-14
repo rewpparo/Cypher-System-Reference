@@ -96,7 +96,7 @@ A skill is a category of knowledge, ability, or activity relating to a task, suc
 
 If you are trained in a skill relating to a task, you ease the difficulty of that task by one step. If you are specialized, you ease the difficulty by two steps. A skill can never decrease a task’s difficulty by more than two steps.
 
-Anything else that reduces difficulty (help from an ally, a particular piece of equipment, or some other advantage) is referred to as an _asset_. Assets can never decrease a task’s difficulty by more than two steps.
+Anything else that reduces difficulty (help from an ally, a particular piece of equipment, or some other advantage) is referred to as an **asset**. Assets can never decrease a task’s difficulty by more than two steps.
 
 You can also decrease the difficulty of a given task by applying Effort. (Effort is described in more detail in the Rules of the Game chapter.)
 
@@ -6986,7 +6986,7 @@ Enabler.
 
 ### Bigger Animal Shape
 
-Bigger Animal Shape #Ability #Core #SuperHeroes 
+Bigger Animal Shape #Ability #Core #SuperHeroes #Fantasy 
 
 When you use Animal Shape, your animal form grows to about twice its normal size. Being so large, your beast form gains the following additional bonuses: +1 to Armor, +5 to your Might Pool, and you are trained in using your animal form’s natural attacks as heavy weapons (if you weren’t already). However, your Speed defense tasks are hindered. While bigger, you also gain an asset to tasks that are easier for a larger creature to perform, like climbing, intimidating, wading rivers, and so on. 
 
@@ -7009,7 +7009,7 @@ You radiate a pulse of biomorphic energy up to a short distance away, but you tu
 
 Action.
 
-### Biomorphic Healing (4+ Might points)
+### Biomorphic Healing
 
 Biomorphic Healing (4+ Might points) #Ability #CureAbility #Mid #Core 
 
@@ -7116,9 +7116,9 @@ You move so quickly that until your next turn, you look like a blur. While you a
 
 Enabler.
 
-### Body Morph (3+ Intellect points)
+### Body Morph
 
-Body Morph #Ability #Core #SuperHeroes 
+Body Morph (3+ Intellect points) #Ability #Core #SuperHeroes 
 
 You alter your facial and bodily features and coloration for one hour, hiding your identity or impersonating someone. If you apply a level of Effort, you can imitate a specific person accurately enough to fool someone who knows them well or has observed them closely (including fingerprints and voice prints, but not their retina print or DNA). You have an asset in all tasks involving disguise (this is in addition to the asset from Face Morph). You must apply a separate level of Effort to be able to impersonate a different species (such as a human morphing into a humanoid alien). 
 
@@ -7451,7 +7451,7 @@ Action.
 
 ### Charge Weapon
 
-Charge Weapon (2+ Intellect points) #Ability #Core 
+Charge Weapon (2+ Intellect points) #Ability #Core #Fantasy 
 
 As part of making an attack with your enchanted weapon, you charge it with magical power, inflicting 2 additional points of energy damage. If you make more than one attack on your turn, you choose whether to spend the cost for this ability before you make each attack. 
 
@@ -7887,7 +7887,7 @@ Action.
 
 ### Cypher Casting
 
-Cypher Casting #Ability #Core 
+Cypher Casting #Ability #Core #Fantasy 
 
 You can cast any of your subtle cyphers on another creature instead of yourself. You must touch the creature to affect it. 
 
@@ -7909,401 +7909,781 @@ All manifest cyphers you use function at one level higher than normal. If given 
 
 Enabler.
 
-### Abilities—D
+### Damage Dealer
 
-#### Damage Dealer
+Damage Dealer #Ability #MetaAbility #High #Core 
 
-You inflict an additional 3 points of damage with your chosen weapon. Enabler.
+You inflict an additional 3 points of damage with your chosen weapon. 
 
-#### Damage Transference
+Enabler.
 
-When you or your duplicate (from the Duplicate ability) would take damage, you can transfer 1 point of damage from one to the other provided that you and your duplicate are within 1 mile (1.5 km) of each other. Enabler.
+### Damage Transference
 
-#### Damn the Guilty (3 Intellect points)
+Damage Transference #Ability #CureAbility #Mid #Core 
 
-You speak words of revelation and judgment to everyone within close range. Those whom you have designated as guilty with your Designation ability take an additional 3 points of damage from any attack they receive from anyone who heard your judgment. This judgment lasts for up to one minute or until they move at least a long distance away from you. Action.
+When you or your duplicate (from the Duplicate ability) would take damage, you can transfer 1 point of damage from one to the other provided that you and your duplicate are within 1 mile (1.5 km) of each other. 
 
-#### Danger Instinct (3 Speed points)
+Enabler.
 
-If you are attacked by surprise, whether by a creature, a device, or simply an environmental hazard (a tree falling on you), you can move an immediate distance before the attack occurs. If moving prevents the attack, you are safe. If the attack can still potentially affect you—if the attacking creature can move to keep pace, if the attack fills an area too big to escape, etc. —the ability offers no benefit. Enabler.
+### Damn the Guilty
 
-#### Danger Sense (1 Speed point)
+Damn the Guilty (3 Intellect points) #Ability #MetaAbility #High #Core 
 
-Your initiative task is eased. You pay the cost each time the ability is used. Enabler.
+You speak words of revelation and judgment to everyone within close range. Those whom you have designated as guilty with your Designation ability take an additional 3 points of damage from any attack they receive from anyone who heard your judgment. This judgment lasts for up to one minute or until they move at least a long distance away from you. 
 
-#### Dark Explorer
+Action.
 
-You ignore penalties for any action (including fighting) in extremely dim light or in cramped spaces. If you also have the Eyes Adjusted ability, you can act without penalty even in total darkness. You are trained in sneaking tasks while in dim or no light. Enabler.
+### Danger Instinct 
 
-#### Dark Matter Shell (5 Intellect points)
+Danger Instinct (3 Speed points) #Ability #MovementAbility #Low #Core 
 
-For the next minute, you cover yourself with a shell of dark matter. Your appearance becomes a dark silhouette, and you gain an asset to sneaking tasks and gain +1 to your Armor. The dark matter shell works seamlessly with your desires, and if you apply a level of Effort to any physical task while the shell persists, you can apply an additional free level of Effort to that same task. Action to initiate.
+If you are attacked by surprise, whether by a creature, a device, or simply an environmental hazard (a tree falling on you), you can move an immediate distance before the attack occurs. If moving prevents the attack, you are safe. If the attack can still potentially affect you—if the attacking creature can move to keep pace, if the attack fills an area too big to escape, etc. —the ability offers no benefit. 
 
-#### Dark Matter Shroud (4 Intellect points)
+Enabler.
 
-Ribbons of dark matter condense and swirl about you for up to one minute. This shroud eases your Speed defense tasks, inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack, and gives you +1 Armor. Action to initiate.
+### Danger Sense
 
-#### Dark Matter Strike (4 Intellect points)
+Danger Sense (1 Speed point) #Ability #TaskAbility #Low #Core 
 
-When you attack a foe within long range, dark matter condenses around your target and entangles its limbs, holding it in place and easing your attack by two steps. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). Enabler.
+Your initiative task is eased. You pay the cost each time the ability is used. 
 
-#### Dark Matter Structure (5 Intellect points)
+Enabler.
 
-You can form dark matter into a large structure consisting of up to ten 10-foot (3 m) cubes. The structure can be somewhat complex, though everything has the same matte black color from which no light shines. Otherwise, the structure can possess different densities, textures, and capacities. This means it can include windows, doors with locks, furnishings, and even decor, as long as it is all black as pitch. For example, you could shape the dark matter into a large, defensible structure; a sturdy 100-foot (30 m) bridge; or anything similar. The structure is a level 6 creation and lasts for 24 hours. You can’t keep more than one such structure solid at any one time. Action.
+### Dark Explorer
 
-#### Datajack (1 Intellect point)
+Dark Explorer #Ability #TaskAbility #High #Core 
 
-With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. Action.
+You ignore penalties for any action (including fighting) in extremely dim light or in cramped spaces. If you also have the Eyes Adjusted ability, you can act without penalty even in total darkness. You are trained in sneaking tasks while in dim or no light. 
 
-#### Daydream (4 Intellect points)
+Enabler.
 
-You pull someone into a daydream, substituting a dream of your own creation for the target’s reality for up to one minute. You can affect a target within long range that you can see, or a target within 10 miles (16 km) that you have hair or skin clippings from. To all outward appearances, an affected target stands (or lies) unmoving. But inside, the substituted reality (or dream within a dream, if the target was sleeping) is what the target experiences. If the target is under duress, it can attempt another Intellect defense roll each round to break free, though the target may not realize its state. Either the dream unfolds according to a script you prepared when you used this ability, or if you use your own actions (forcing you into a similar state as the target), you can direct the unfolding dream from round to round. Using this ability on a sleeping target eases the initial attack. Action to initiate; if you direct the dream, action to direct per round.
+### Dark Matter Shell
 
-#### Dazing Attack (3 Might points)
+Dark Matter Shell (5 Intellect points) #Ability #TaskAbility #Mid #Core 
 
-You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. Action.
+For the next minute, you cover yourself with a shell of dark matter. Your appearance becomes a dark silhouette, and you gain an asset to sneaking tasks and gain +1 to your Armor. The dark matter shell works seamlessly with your desires, and if you apply a level of Effort to any physical task while the shell persists, you can apply an additional free level of Effort to that same task. 
 
-#### Dazzling Sunburst (2 Intellect points)
+Action to initiate.
 
-You send a barrage of dazzling colors at a creature within short range and, if successful, inflict 2 points of damage on the target. In addition, the creature’s attacks are hindered on its next turn, unless the target relies primarily on senses other than sight. Action.
+### Dark Matter Shroud
 
-#### Deactivate Mechanisms (5+ Speed points)
+Dark Matter Shroud (4 Intellect points) #Ability #ProtectionAbility #Mid #Core 
 
-You make a melee attack that inflicts no damage against a machine. Instead, if the attack hits, make a second Speed-based roll. If successful, a machine of level 3 or lower is deactivated for one minute. For each additional level of Effort applied, you can affect one higher level of machine or you can extend the duration for an additional minute. If you have the Scramble Machine or Disable Mechanisms ability (or an ability that works similarly), when you apply a level of Effort to any of them, you gain an additional free level of Effort. Action.
+Ribbons of dark matter condense and swirl about you for up to one minute. This shroud eases your Speed defense tasks, inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack, and gives you +1 Armor. 
 
-#### Deadly Aim (3 Speed points)
+Action to initiate.
 
-For the next minute, all ranged attacks you make inflict 2 additional points of damage. Action to initiate.
+### Dark Matter Strike
 
-#### Deadly Strike (5 Might points)
+Dark Matter Strike (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-If you strike a foe of level 3 or lower with a weapon you’re practiced with, you kill the target instantly. Action.
+When you attack a foe within long range, dark matter condenses around your target and entangles its limbs, holding it in place and easing your attack by two steps. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). 
 
-#### Deadly Swarm (6 Intellect points)
+Enabler.
 
-If you’re in a location where it’s possible for your swarm of creatures from your Influence Swarm ability to come, you call a swarm of them for ten minutes. During this time, they do as you telepathically command as long as they are within long range. They can swarm about and hinder any or all opponents’ tasks, or they can focus the swarm and attack all opponents within immediate range of each other (all within long range of you). The attacking swarm inflicts 4 points of damage. While the creatures are in long range, you can speak to them telepathically and perceive through their senses. Action to initiate. (Swarms don’t usually have game stats, but if needed, a typical swarm is level 2. Only attacks that affect a large area affect the swarm.)
+### Dark Matter Structure
 
-#### Death Touch (6 Intellect points)
+Dark Matter Structure (5 Intellect points) #Ability #CraftAbility #High #Core 
 
-You gather disrupting energy in your fingertip and touch a creature. If the target is an NPC or a creature of level 3 or lower, it dies. If the target is a PC of any tier, they move down one step on the damage track. Action.
+You can form dark matter into a large structure consisting of up to ten 10-foot (3 m) cubes. The structure can be somewhat complex, though everything has the same matte black color from which no light shines. Otherwise, the structure can possess different densities, textures, and capacities. This means it can include windows, doors with locks, furnishings, and even decor, as long as it is all black as pitch. For example, you could shape the dark matter into a large, defensible structure; a sturdy 100-foot (30 m) bridge; or anything similar. The structure is a level 6 creation and lasts for 24 hours. You can’t keep more than one such structure solid at any one time. 
 
-#### Debate (3 Intellect points)
+Action.
 
-In any gathering of two or more people trying to establish the truth or come to a decision, you can sway the verdict with masterful rhetoric. If you are given one minute or more to argue your point, either the decision goes your way or, if someone else effectively argues a competing point, any associated persuasion or deception task is eased by two steps. Action to initiate; one minute to complete.
+### Datajack
 
-#### Debilitating Strike (4 Speed points)
+Datajack (1 Intellect point) #Ability #TaskAbility #Low #Core 
 
-You make an attack to deliver a painful or debilitating strike. The attack is hindered. If it hits, the creature takes 2 additional points of damage at the end of the next round, and its attacks are hindered until the end of the next round. Action.
+With computer access, you jack in instantly and learn a bit more about something you can see. You get an asset on a task involving that person or object. 
 
-#### Decipher (1 Intellect point)
+Action.  
 
-If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate.
+### Daydream
 
-#### Deep Consideration (6 Intellect points)
+Daydream (4 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
 
-When you develop a plan that involves you and your friends working together to accomplish a goal, you can ask the GM one very general question about what is likely to happen if you carry out the plan, and you will get a simple, brief answer. In addition, all of you gain an asset to one roll related to enacting the plan you developed together, as long as you put the plan into action within a few days of the plan’s creation. Action.
+You pull someone into a daydream, substituting a dream of your own creation for the target’s reality for up to one minute. You can affect a target within long range that you can see, or a target within 10 miles (16 km) that you have hair or skin clippings from. To all outward appearances, an affected target stands (or lies) unmoving. But inside, the substituted reality (or dream within a dream, if the target was sleeping) is what the target experiences. If the target is under duress, it can attempt another Intellect defense roll each round to break free, though the target may not realize its state. Either the dream unfolds according to a script you prepared when you used this ability, or if you use your own actions (forcing you into a similar state as the target), you can direct the unfolding dream from round to round. Using this ability on a sleeping target eases the initial attack. 
 
-#### Deep Reserves
+Action to initiate; if you direct the dream, action to direct per round.
 
-When others are exhausted, you can push through. Once each day, you can transfer up to 5 points among your Pools in any combination, at a rate of 1 point per round. For example, you could transfer 3 points of Might to Speed and 2 points of Intellect to Speed, which would take a total of five rounds. Action.
+### Dazing Attack
 
-#### Deep Resources
+Dazing Attack (3 Might points) #Ability #SpecialAttackAbility #Mid #Core 
 
-You gain an additional 6 points to your Speed Pool. Enabler.
+You hit your foe in just the right spot, dazing them so that tasks they attempt on their next turn are hindered. This attack inflicts normal damage. 
 
-#### Deep Water Guide
+Action.
 
-While underwater, any creature you choose that can see you has an asset on swimming tasks. Enabler.
+### Dazzling Sunburst
 
-#### Defend All the Innocent
+Dazzling Sunburst (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
 
-You protect everyone within immediate range whom you have designated as innocent with your Designation ability. Speed defense rolls made by such creatures gain an asset. Enabler.
+You send a barrage of dazzling colors at a creature within short range and, if successful, inflict 2 points of damage on the target. In addition, the creature’s attacks are hindered on its next turn, unless the target relies primarily on senses other than sight. 
 
-#### Defend the Innocent (2 Speed points)
+Action.
 
-For the next ten minutes, if someone you have designated as innocent with the Designation ability stands next to you, that creature shares any defensive advantages that you might have, other than mundane armor. These advantages include the Speed defense from your shield, the Armor offered from a force field, and so on. In addition, Speed defense rolls made by the innocent creature gain an asset. You can protect only one innocent creature at a time. Action to initiate.
+### Deactivate Mechanisms
 
-#### Defending Weapon
+Deactivate Mechanisms (5+ Speed points) #Ability #SpecialAttackAbility #High #Core 
 
-When using your enchanted weapon, you are trained in Speed defense tasks. Enabler. 
+You make a melee attack that inflicts no damage against a machine. Instead, if the attack hits, make a second Speed-based roll. If successful, a machine of level 3 or lower is deactivated for one minute. For each additional level of Effort applied, you can affect one higher level of machine or you can extend the duration for an additional minute. If you have the Scramble Machine or Disable Mechanisms ability (or an ability that works similarly), when you apply a level of Effort to any of them, you gain an additional free level of Effort. 
 
-#### Defense Against Robots
+Action.
 
-You have studied your enemy and are trained in anticipating the actions that a robot or machine is likely to take in a fight. Defense tasks you attempt against these foes are eased. Enabler.
+### Deadly Aim
 
-#### Defense Master
+Deadly Aim (3 Speed points) #Ability #MetaAbility #Mid #Core 
 
-Every time you succeed at a Speed defense task, you can make an immediate attack against your foe. (If you have Dodge and Respond, you can exchange that ability for Dodge and Resist.) Your attack must be the same type (melee weapon, ranged weapon, or unarmed) as the attack you defend against. If you don’t have an appropriate type of weapon ready, you can’t use this ability. Enabler.
+For the next minute, all ranged attacks you make inflict 2 additional points of damage. 
 
-#### Defensive Augmentation
+Action to initiate.
 
-By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler.
+### Deadly Strike
 
-#### Defensive Blinking (4 Intellect points)
+Deadly Strike (5 Might points) #Ability #SpecialAttackAbility #High #Core 
 
-You enter a heightened reactive state so that when you are struck hard enough to take damage, you teleport an immediate distance in a random direction (not up or down) to help evade the brunt of the attack. Your Speed defense rolls are eased for one minute. Action.
+If you strike a foe of level 3 or lower with a weapon you’re practiced with, you kill the target instantly. 
 
-#### Defensive Field
+Action.
 
-Thanks to subdermal implants, a permanent spell, alien modifications, or something similar, you now have a force field that radiates 1 inch (2.5 cm) from your body and provides you with +2 Armor. Enabler.
+### Deadly Swarm
 
-#### Defensive Phasing (2 Intellect points)
+Deadly Swarm (6 Intellect points) #Ability #CompanionAbility #High #Core 
 
-You can change your phase so that some attacks pass through you harmlessly. For the next ten minutes, you gain an asset to your Speed defense tasks, but during this time you lose any benefit from armor you wear. Action to initiate.
+If you’re in a location where it’s possible for your swarm of creatures from your Influence Swarm ability to come, you call a swarm of them for ten minutes. During this time, they do as you telepathically command as long as they are within long range. They can swarm about and hinder any or all opponents’ tasks, or they can focus the swarm and attack all opponents within immediate range of each other (all within long range of you). The attacking swarm inflicts 4 points of damage. While the creatures are in long range, you can speak to them telepathically and perceive through their senses. 
 
-#### Define Down (4 Intellect points)
+(Swarms don’t usually have game stats, but if needed, a typical swarm is level 2. Only attacks that affect a large area affect the swarm.)
 
-The natural gravity within an area a short distance across that you are within immediate range of changes directions so that it flows in the direction you determine (up, up and to the south, west, and so on) for a few seconds, then snaps back. Affected targets could be tossed up to 20 feet (6 m) and take a few points of damage. Action.
+Action to initiate. 
 
-#### Deflect Attacks (1 Intellect point)
+### Death Touch
 
-Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks. Action to initiate.
+Death Touch (6 Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-#### Defuse Situation
+You gather disrupting energy in your fingertip and touch a creature. If the target is an NPC or a creature of level 3 or lower, it dies. If the target is a PC of any tier, they move down one step on the damage track. 
 
-During the course of an investigation, your questions sometimes elicit an angry or even violent response. Through dissembling, verbal distraction, or similar evasion, you prevent a living foe from attacking anyone or anything for one round. Action.
+Action.
 
-#### Demeanor of Command (2 Intellect points)
+### Debate
 
-You project confidence, knowledge, and charisma to all who see you for the next hour. Your demeanor is such that those who see you automatically understand that you are someone important, accomplished, and with authority. When you speak, strangers who are not already attacking give you at least a round to have your say. If speaking to a group that can understand you, you can attempt to have them produce their leader or ask that they take you to their leader. You gain a free level of Effort that can be applied to one persuasion task you attempt during this period. Action to initiate.
+Debate (3 Intellect points) #Ability #TaskAbility #Low #Core 
 
-#### Designation
+In any gathering of two or more people trying to establish the truth or come to a decision, you can sway the verdict with masterful rhetoric. If you are given one minute or more to argue your point, either the decision goes your way or, if someone else effectively argues a competing point, any associated persuasion or deception task is eased by two steps. 
 
-You assign an innocent or guilty label to one creature within immediate range, based on your assessment of a given situation or a predominant feeling. In other words, someone who is labeled innocent can be innocent in a certain circumstance, or they can be generally innocent of terrible crimes (such as murder, major theft, and so on). Likewise, you can declare that a creature is guilty of a particular crime or of terrible deeds in general. The accuracy of your assessment isn’t important as long as you believe it to be the truth; the GM may require you to give a rationale. Henceforth, your tasks to socially interact with someone you designate as innocent gain an asset, and your attacks against those you designate as guilty gain an asset. You can change your assessment, but it requires another designation action. The benefits of the designation last until you change it or until you are shown proof that it is wrong. Action. (The benefits provided by Designation apply to the character using the ability, their allies, and anyone who hears or is told of their judgment and believes their assessment.)
+Action to initiate; one minute to complete.
 
-#### Destined for Greatness
+### Debilitating Strike
 
-You enjoy uncanny luck as if something was watching over you and keeping you from harm. When you would otherwise descend a step on the damage track, make an Intellect defense roll versus the difficulty set by the level of the foe or effect. If you succeed, you do not descend that step. If the step was because you fell to 0 points in a Pool, you are still at 0 points; you just don’t suffer the negative effects of being impaired or debilitated. If you would otherwise descend the final step on the damage track to death, a successful defense roll keeps you at 1 point in one Pool, and you remain debilitated. Enabler.
+Debilitating Strike (4 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Destroy Metal (3 Intellect points)
+You make an attack to deliver a painful or debilitating strike. The attack is hindered. If it hits, the creature takes 2 additional points of damage at the end of the next round, and its attacks are hindered until the end of the next round. 
 
-You instantly tear, rip, or burst a metal object that is within sight, within short range, and no bigger than half your size. Attempt an Intellect task to destroy the object; the task is eased by three steps compared to breaking it with brute strength. Action.
+Action.
 
-#### Destroyer (6 Might points)
+### Decipher
 
-If you succeed on a Might task to damage an object, instead of descending one step on the object damage track, the object descends all three steps and is destroyed. Action.
+Decipher (1 Intellect point) #Ability #InformationAbility #Low #Core 
 
-#### Detect Life (3+ Might points)
+If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. 
 
-You consciously send out a pulse of your your life energy. You detect all living creatures within short range, even if they are behind cover, though not if they’re behind a force field. When you detect a creature, you detect its general location (to within an immediate range). If you apply two additional levels of Effort, you can increase the range of detection to long. Action.
+Action to initiate.
 
-#### Device Insight (3 Intellect points)
+### Deep Consideration
 
-When examining any unknown, alien, or high-technology device, you can ask the GM one question to gain an idea of its capabilities, how it functions, how it can be activated or deactivated, what its weaknesses are (if any), how it can be repaired, or any other similar query. This is for difficult or strange things beyond those readily identified by using the appropriate knowledge or technical skill. Action.
+Deep Consideration (6 Intellect points) #Ability #InformationAbility #High #Core 
 
-#### Devoted Defender (2 Might or Intellect points)
+When you develop a plan that involves you and your friends working together to accomplish a goal, you can ask the GM one very general question about what is likely to happen if you carry out the plan, and you will get a simple, brief answer. In addition, all of you gain an asset to one roll related to enacting the plan you developed together, as long as you put the plan into action within a few days of the plan’s creation. 
 
-Choose one character you can see. That character becomes your ward. You are trained in all tasks involving finding, healing, interacting with, and protecting that character. You can have only one ward at a time. Action to initiate.
+Action.
 
-#### Diamagnetism
+### Deep Reserves
 
-You magnetize any nonmetallic object within short range so that it can be affected by your other magnetic powers. Thus, with Move Metal, you can move any object. With Repel Metal, you are trained in all Speed defense tasks, regardless of whether the incoming attack uses metal. And so on. Enabler.
+Deep Reserves #Ability #MetaAbility #High #Core 
 
-#### Dimensional Squeeze (2+ Intellect points)
+When others are exhausted, you can push through. Once each day, you can transfer up to 5 points among your Pools in any combination, at a rate of 1 point per round. For example, you could transfer 3 points of Might to Speed and 2 points of Intellect to Speed, which would take a total of five rounds. 
 
-You cram yourself into a transitional dimension, allowing you to instantaneously appear anywhere you choose within short range if you have a clear and unobstructed path to that location. You can pass through an intervening barrier if it has an open space that you could easily fit your head through—about 1 square foot (30 cm by 30 cm square). In addition to the normal options for using Effort, you can choose to use Effort to pass through a smaller opening in a barrier; each level of Effort used in this way reduces the minimum opening size by one-fourth. You land safely when you use this ability. Action.
+Action.
 
-#### Transitional dimension
+### Deep Resources
 
-A dimension where distances are shorter compared to those in other dimensions, so travel through it is faster than normal movement.
+Deep Resources #Ability #MetaAbility #Mid #Core 
 
-#### Dirty Fighter (2 Speed points)
+You gain an additional 6 points to your Speed Pool. 
 
-You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. Action.
+Enabler.
 
-#### Disable Mechanisms (3 Speed points)
+### Deep Water Guide
+
+Deep Water Guide #Ability #TaskAbility #Low #Core 
+
+While underwater, any creature you choose that can see you has an asset on swimming tasks. 
+
+Enabler.
+
+### Defend All the Innocent
+
+Defend All the Innocent #Ability #SupportAbility #Mid #Core 
+
+You protect everyone within immediate range whom you have designated as innocent with your Designation ability. Speed defense rolls made by such creatures gain an asset. 
+
+Enabler.
+
+### Defend the Innocent 
+
+Defend the Innocent (2 Speed points) #Ability #SupportAbility #Low #Core 
+
+For the next ten minutes, if someone you have designated as innocent with the Designation ability stands next to you, that creature shares any defensive advantages that you might have, other than mundane armor. These advantages include the Speed defense from your shield, the Armor offered from a force field, and so on. In addition, Speed defense rolls made by the innocent creature gain an asset. You can protect only one innocent creature at a time. 
+
+Action to initiate.
+
+### Defending Weapon
+
+Defending Weapon #Ability #Core #Fantasy 
+
+When using your enchanted weapon, you are trained in Speed defense tasks. 
+
+Enabler. 
+
+### Defense Against Robots
+
+Defense Against Robots #Ability #ProtectionAbility #Low #Core 
+
+You have studied your enemy and are trained in anticipating the actions that a robot or machine is likely to take in a fight. Defense tasks you attempt against these foes are eased. 
+
+Enabler.
+
+### Defense Master
+
+Defense Master #Ability #SpecialAttackAbility #High #Core 
+
+Every time you succeed at a Speed defense task, you can make an immediate attack against your foe. (If you have Dodge and Respond, you can exchange that ability for Dodge and Resist.) Your attack must be the same type (melee weapon, ranged weapon, or unarmed) as the attack you defend against. If you don’t have an appropriate type of weapon ready, you can’t use this ability. 
+
+Enabler.
+
+### Defensive Augmentation
+
+Defensive Augmentation #Ability #ProtectionAbility #High #Core 
+
+By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. 
+
+Enabler.
+
+### Defensive Blinking
+
+Defensive Blinking (4 Intellect points) #Ability #Core 
+
+You enter a heightened reactive state so that when you are struck hard enough to take damage, you teleport an immediate distance in a random direction (not up or down) to help evade the brunt of the attack. Your Speed defense rolls are eased for one minute. 
+
+Action.
+
+### Defensive Field
+
+Defensive Field #Ability #ProtectionAbility #High #Core 
+
+Thanks to subdermal implants, a permanent spell, alien modifications, or something similar, you now have a force field that radiates 1 inch (2.5 cm) from your body and provides you with +2 Armor. 
+
+Enabler.
+
+### Defensive Phasing
+
+Defensive Phasing (2 Intellect points) #Ability #ProtectionAbility #Low #Core 
+
+You can change your phase so that some attacks pass through you harmlessly. For the next ten minutes, you gain an asset to your Speed defense tasks, but during this time you lose any benefit from armor you wear. 
+
+Action to initiate.
+
+### Define Down
+
+Define Down (4 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
+
+The natural gravity within an area a short distance across that you are within immediate range of changes directions so that it flows in the direction you determine (up, up and to the south, west, and so on) for a few seconds, then snaps back. Affected targets could be tossed up to 20 feet (6 m) and take a few points of damage. 
+
+Action.
+
+### Deflect Attacks
+
+Deflect Attacks (1 Intellect point) #Ability #ProtectionAbility #Low #Core 
+
+Using your mind, you protect yourself from incoming attacks. For the next ten minutes, you are trained in Speed defense tasks. 
+
+Action to initiate.
+
+### Defuse Situation
+
+Defuse Situation #Ability #ControlAbility #High #Core 
+
+During the course of an investigation, your questions sometimes elicit an angry or even violent response. Through dissembling, verbal distraction, or similar evasion, you prevent a living foe from attacking anyone or anything for one round. 
+
+Action.
+
+### Demeanor of Command
+
+Demeanor of Command (2 Intellect points) #Ability #SocialAbility #Low #Core 
+
+You project confidence, knowledge, and charisma to all who see you for the next hour. Your demeanor is such that those who see you automatically understand that you are someone important, accomplished, and with authority. When you speak, strangers who are not already attacking give you at least a round to have your say. If speaking to a group that can understand you, you can attempt to have them produce their leader or ask that they take you to their leader. You gain a free level of Effort that can be applied to one persuasion task you attempt during this period. 
+
+Action to initiate.
+
+### Designation
+
+Designation #Ability #TaskAbility #Low #Core 
+
+You assign an innocent or guilty label to one creature within immediate range, based on your assessment of a given situation or a predominant feeling. In other words, someone who is labeled innocent can be innocent in a certain circumstance, or they can be generally innocent of terrible crimes (such as murder, major theft, and so on). Likewise, you can declare that a creature is guilty of a particular crime or of terrible deeds in general. The accuracy of your assessment isn’t important as long as you believe it to be the truth; the GM may require you to give a rationale. Henceforth, your tasks to socially interact with someone you designate as innocent gain an asset, and your attacks against those you designate as guilty gain an asset. You can change your assessment, but it requires another designation action. The benefits of the designation last until you change it or until you are shown proof that it is wrong. 
+
+(The benefits provided by Designation apply to the character using the ability, their allies, and anyone who hears or is told of their judgment and believes their assessment.)
+
+Action.
+
+### Destined for Greatness
+
+Destined for Greatness #Ability #CureAbility #Low #Core 
+
+You enjoy uncanny luck as if something was watching over you and keeping you from harm. When you would otherwise descend a step on the damage track, make an Intellect defense roll versus the difficulty set by the level of the foe or effect. If you succeed, you do not descend that step. If the step was because you fell to 0 points in a Pool, you are still at 0 points; you just don’t suffer the negative effects of being impaired or debilitated. If you would otherwise descend the final step on the damage track to death, a successful defense roll keeps you at 1 point in one Pool, and you remain debilitated. 
+
+Enabler.
+
+### Destroy Metal
+
+Destroy Metal (3 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You instantly tear, rip, or burst a metal object that is within sight, within short range, and no bigger than half your size. Attempt an Intellect task to destroy the object; the task is eased by three steps compared to breaking it with brute strength. 
+
+Action.
+
+### Destroyer
+
+Destroyer (6 Might points) #Ability #SpecialAttackAbility #High #Core 
+
+If you succeed on a Might task to damage an object, instead of descending one step on the object damage track, the object descends all three steps and is destroyed. 
+
+Action.
+
+### Detect Life
+
+Detect Life (3+ Might points) #Ability #SensesAbility #Mid #Core 
+
+You consciously send out a pulse of your your life energy. You detect all living creatures within short range, even if they are behind cover, though not if they’re behind a force field. When you detect a creature, you detect its general location (to within an immediate range). If you apply two additional levels of Effort, you can increase the range of detection to long. 
+
+Action.
+
+### Device Insight
+
+Device Insight (3 Intellect points) #Ability #InformationAbility #Mid #Core 
+
+When examining any unknown, alien, or high-technology device, you can ask the GM one question to gain an idea of its capabilities, how it functions, how it can be activated or deactivated, what its weaknesses are (if any), how it can be repaired, or any other similar query. This is for difficult or strange things beyond those readily identified by using the appropriate knowledge or technical skill. 
+
+Action.
+
+### Devoted Defender 
+
+Devoted Defender (2 Might or Intellect points) #Ability #TaskAbility #Low #Core 
+
+Choose one character you can see. That character becomes your ward. You are trained in all tasks involving finding, healing, interacting with, and protecting that character. You can have only one ward at a time. 
+
+Action to initiate.
+
+### Diamagnetism
+
+Diamagnetism #Ability #EnvironmentAbility #High #Core 
+
+You magnetize any nonmetallic object within short range so that it can be affected by your other magnetic powers. Thus, with Move Metal, you can move any object. With Repel Metal, you are trained in all Speed defense tasks, regardless of whether the incoming attack uses metal. And so on. 
+
+Enabler.
+
+### Dimensional Squeeze
+
+Dimensional Squeeze (2+ Intellect points) #Ability #Core 
+
+You cram yourself into a transitional dimension, allowing you to instantaneously appear anywhere you choose within short range if you have a clear and unobstructed path to that location. You can pass through an intervening barrier if it has an open space that you could easily fit your head through—about 1 square foot (30 cm by 30 cm square). In addition to the normal options for using Effort, you can choose to use Effort to pass through a smaller opening in a barrier; each level of Effort used in this way reduces the minimum opening size by one-fourth. You land safely when you use this ability. 
+
+Transitional dimension : A dimension where distances are shorter compared to those in other dimensions, so travel through it is faster than normal movement.
+
+Action.
+
+### Dirty Fighter 
+
+Dirty Fighter (2 Speed points) #Ability #SpecialAttackAbility #High #Core 
+
+You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. 
+
+Action.
+
+### Disable Mechanisms
+
+Disable Mechanisms (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
 With a keen eye and quick moves, you disrupt some functions of a robot or machine and inflict upon it one of the following maladies:
 - All its tasks are hindered for one minute.
 - Its speed is halved.
 - It can take no action for one round.
 - It deals 2 fewer points of damage (minimum 1 point) for one minute.
-You must touch the robot or machine to disrupt it (if you are making an attack, it inflicts no damage). Action.
+You must touch the robot or machine to disrupt it (if you are making an attack, it inflicts no damage). 
 
-#### Disappear (4 Intellect points)
+Action.
 
-You bend light that falls on you so you seem to disappear. You are invisible to other creatures for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. Action to initiate or reinitiate.
+### Disappear
 
-#### Disarming Attack (5 Speed points)
+Disappear (4 Intellect points) #Ability #TransformAbility #High #Core 
 
-You attempt a Speed task to disarm a foe as part of your melee attack. If you succeed, your attack inflicts 3 additional points of damage and the target’s weapon is knocked from their grip, landing up to 20 feet (6 m) away. If you fail, you still attempt your normal attack, but you don’t inflict the extra damage or disarm the opponent if you hit. Action.
+You bend light that falls on you so you seem to disappear. You are invisible to other creatures for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. 
 
-#### Disarming Strike (3 Speed points)
+Action to initiate or reinitiate.
 
-Your attack inflicts 1 point less damage and disarms your foe so that their weapon is now 10 feet (3 m) away on the ground. (If your chosen weapon is a whip, you can instead deposit the disarmed weapon into your hands; if your chosen weapon is a bow or other ranged weapon that fires physical rounds, you can instead “nail” the disarmed weapon to a nearby object or structure. Choosing to do either of these hinders your attack.) Action.
+### Disarming Attack
 
-#### Discerning Mind
+Disarming Attack (5 Speed points) #Ability #SpecialAttackAbility #High #Core 
 
-You have +3 Armor against damaging attacks and damaging effects that target your mind and Intellect. Defense rolls you make against attacks that attempt to confuse, persuade, frighten, or otherwise influence you are eased. Enabler.
+You attempt a Speed task to disarm a foe as part of your melee attack. If you succeed, your attack inflicts 3 additional points of damage and the target’s weapon is knocked from their grip, landing up to 20 feet (6 m) away. If you fail, you still attempt your normal attack, but you don’t inflict the extra damage or disarm the opponent if you hit. 
 
-#### Discipline of Watchfulness (7 Intellect points)
+Action.
 
-You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies can apply a free level of Effort to any initiative tasks they attempt. This benefit is ongoing while you remain in the allies’ company. It ends if you leave, but it resumes if you return to the allies’ company within 24 hours. If you leave the allies’ company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit. You must spend the Intellect point cost each 24 hours you wish to keep the benefit active. Enabler.
+### Disarming Strike
 
-#### Disguise
+Disarming Strike (3 Speed points) #Ability #SpecialAttackAbility #Mid  #Core 
 
-You are trained in disguise. You can alter your posture, voice, mannerisms, and hair to look like someone else for as long as you keep up the disguise. However, it is extremely difficult to adopt the appearance of a specific individual without a disguise kit at your disposal. Enabler.
+Your attack inflicts 1 point less damage and disarms your foe so that their weapon is now 10 feet (3 m) away on the ground. (If your chosen weapon is a whip, you can instead deposit the disarmed weapon into your hands; if your chosen weapon is a bow or other ranged weapon that fires physical rounds, you can instead “nail” the disarmed weapon to a nearby object or structure. Choosing to do either of these hinders your attack.) 
 
-#### Disguise Other (4+ Intellect points)
+Action.
+
+### Discerning Mind
+
+Discerning Mind #Ability #ProtectionAbility #Mid #Core 
+
+You have +3 Armor against damaging attacks and damaging effects that target your mind and Intellect. Defense rolls you make against attacks that attempt to confuse, persuade, frighten, or otherwise influence you are eased. 
+
+Enabler.
+
+### Discipline of Watchfulness
+
+Discipline of Watchfulness (7 Intellect points) #Ability #MetaAbility #High #Core 
+
+You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies can apply a free level of Effort to any initiative tasks they attempt. This benefit is ongoing while you remain in the allies’ company. It ends if you leave, but it resumes if you return to the allies’ company within 24 hours. If you leave the allies’ company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit. You must spend the Intellect point cost each 24 hours you wish to keep the benefit active. 
+
+Enabler.
+
+### Disguise
+
+Disguise #Ability #TaskAbility #Low #Core 
+
+You are trained in disguise. You can alter your posture, voice, mannerisms, and hair to look like someone else for as long as you keep up the disguise. However, it is extremely difficult to adopt the appearance of a specific individual without a disguise kit at your disposal. 
+
+Enabler.
+
+### Disguise Other
+
+Disguise Other (4+ Intellect points) #Ability #Core 
 
 You apply your shapechanging ability to another creature of your size or smaller, giving them a form that you are able to assume. This lasts for about ten minutes.
 
-In addition to the normal options for using Effort, you can choose to use Effort to increase the duration; one level of Effort increases it to an hour, two increases it to a day. A creature can revert to its normal form as an action, but it cannot then change back into the altered form. Action.
+In addition to the normal options for using Effort, you can choose to use Effort to increase the duration; one level of Effort increases it to an hour, two increases it to a day. A creature can revert to its normal form as an action, but it cannot then change back into the altered form. 
 
 You probably can’t use Disguise Other to disguise a kind of creature that is very different from you, such as a human disguising a robot, animal, or crystalline alien
 
-#### Disincentivize (1 Intellect point)
+Action.
 
-You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets’ actions are hindered for one round. Enabler.
+### Disincentivize
 
-#### Disrupting Touch (1+ Might points)
+Disincentivize (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
 
-You can turn your Phase Sprint into a melee attack by purposefully grazing another creature as you run. When you do, the touch releases a violent blast of energy that inflicts 2 points of damage to the target (ignores Armor). Whether you hit or miss, your movement (and turn) ends immediately, which puts you within immediate distance of your target. If you apply Effort to increase damage rather than to ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); the target takes 1 point of damage even if you fail the attack roll. Enabler.
+You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets’ actions are hindered for one round. 
 
-#### Distance Viewing (5 Intellect points)
+Enabler.
 
-You know that space and distance are illusions. You concentrate to create an invisible, immobile sensor at a location you have previously visited or viewed (at the GM’s discretion, you may have to succeed at an Intellect task if the location is warded). The sensor lasts for one hour. Once it is created, you can concentrate to see, hear, and smell through the sensor. It doesn’t grant you sensory capabilities beyond the norm. Action to create; action to check.
+### Disrupting Touch
 
-#### Distant Interface (2 Intellect points)
+Disrupting Touch (1+ Might points) #Ability #SpecialAttackAbility #Low #Core 
 
-You can activate, deactivate, or control a machine at long range as if you were next to it, even if normally you would have to touch or manually operate it. If you have never interacted with the particular machine before, the task is hindered by two steps. To use this ability, you must understand the function of the machine, it must be your size or smaller, and it can’t be connected to another intelligence (or be intelligent itself). Action.
+You can turn your Phase Sprint into a melee attack by purposefully grazing another creature as you run. When you do, the touch releases a violent blast of energy that inflicts 2 points of damage to the target (ignores Armor). Whether you hit or miss, your movement (and turn) ends immediately, which puts you within immediate distance of your target. If you apply Effort to increase damage rather than to ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); the target takes 1 point of damage even if you fail the attack roll. 
 
-#### Distortion (2 Intellect points)
+Enabler.
 
-You modify how a willing creature within short range reflects light for one minute. The target rapidly shifts between its normal appearance and a blot of darkness. The target has an asset on Speed defense rolls until the effect wears off. Action to initiate.
+### Distance Viewing
 
-#### Diver
+Distance Viewing (5 Intellect points) #Ability #SensesAbility #Mid #Core 
+
+You know that space and distance are illusions. You concentrate to create an invisible, immobile sensor at a location you have previously visited or viewed (at the GM’s discretion, you may have to succeed at an Intellect task if the location is warded). The sensor lasts for one hour. Once it is created, you can concentrate to see, hear, and smell through the sensor. It doesn’t grant you sensory capabilities beyond the norm. 
+
+Action to create; action to check.
+
+### Distant Interface
+
+Distant Interface (2 Intellect points) #Ability #MetaAbility #Low #Core 
+
+You can activate, deactivate, or control a machine at long range as if you were next to it, even if normally you would have to touch or manually operate it. If you have never interacted with the particular machine before, the task is hindered by two steps. To use this ability, you must understand the function of the machine, it must be your size or smaller, and it can’t be connected to another intelligence (or be intelligent itself). 
+
+Action.
+
+### Distortion
+
+Distortion (2 Intellect points) #Ability #ProtectionAbility #Low #Core 
+
+You modify how a willing creature within short range reflects light for one minute. The target rapidly shifts between its normal appearance and a blot of darkness. The target has an asset on Speed defense rolls until the effect wears off. 
+
+Action to initiate.
+
+### Diver
+
+Diver #Ability #ProtectionAbility #Mid #Core 
 
 You can safely dive into water from heights of up to 100 feet (30 m), and you can withstand pressure when in water as deep as  
-100 feet. Enabler.
+100 feet. 
 
-#### Divert Attacks (4 Speed points)
+Enabler.
 
-For one minute, you automatically deflect or dodge any ranged projectile attacks. However, on your next turn after you’re attacked with ranged projectiles, all your other actions are hindered. Action to initiate.
+### Divert Attacks
 
-#### Divide Your Mind (7 Intellect points)
+Divert Attacks (4 Speed points) #Ability #ProtectionAbility #Mid #Core 
 
-You split your consciousness into two parts. For one minute, you can take two actions on each of your turns, but only one of them can be to use a special ability. Action.
+For one minute, you automatically deflect or dodge any ranged projectile attacks. However, on your next turn after you’re attacked with ranged projectiles, all your other actions are hindered. 
 
-#### Divine Intervention (2 Intellect points, or 2 Intellect points + 4 XP)
+Action to initiate.
 
-You ask the divine to intervene on your behalf, usually against a creature within long range, changing the course of its life in a small way by introducing a major special effect upon it. The major special effect is akin to what occurs when you roll a natural 20 on an attack. If you want to try for a larger effect, and if the GM allows it, you can attempt a divine intervention with a more far-reaching effect, which is more like the kind of GM intrusion initiated by the GM on their players. In this case, Divine Intervention also costs 4 XP, the effect may not work out exactly like you hope, and you may not make another plea for divine intervention for a week. Action.
+### Divide Your Mind 
 
-#### Divine Knowledge
+Divide Your Mind (7 Intellect points) #Ability #MetaAbility #High #Core 
 
-You are trained in all tasks related to knowledge of godly beings. Enabler.
+You split your consciousness into two parts. For one minute, you can take two actions on each of your turns, but only one of them can be to use a special ability. 
 
-#### Divine Radiance (2 Intellect points)
+Action.
 
-Your prayer calls divine radiance from the heavens to punish an unworthy target within long range, inflicting 4 points of damage. If the target is a demon, spirit, or something similar, it also stands in unwilling awe of the divine energy coursing through it and is unable to act on its next turn. Once exposed to this blessing, the target can’t be awed by this attack again for several hours. Action.
+### Divine Intervention
 
-#### Divine Symbol (5+ Intellect points)
+Divine Intervention (2 Intellect points, or 2 Intellect points + 4 XP) #Ability #SpecialAttackAbility #High #Core 
 
-You invoke divine power by scribing a glowing symbol in the air with your fingers. Writhing pillars of divine radiance spear up to five targets within long range. A successful attack on a target inflicts 5 points of damage. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets take 1 point of damage even if you fail the attack roll. Action.
+You ask the divine to intervene on your behalf, usually against a creature within long range, changing the course of its life in a small way by introducing a major special effect upon it. The major special effect is akin to what occurs when you roll a natural 20 on an attack. If you want to try for a larger effect, and if the GM allows it, you can attempt a divine intervention with a more far-reaching effect, which is more like the kind of GM intrusion initiated by the GM on their players. In this case, Divine Intervention also costs 4 XP, the effect may not work out exactly like you hope, and you may not make another plea for divine intervention for a week. 
 
-#### Do You Know Who I Am? (3 Intellect points)
+Action.
 
-Acting only as someone who is famous and used to privilege can, you verbally harangue a living foe who can hear and understand you so forcefully that it is unable to take any action, including making attacks, for one round. Whether you succeed or fail, the next action the target takes after your attempt is hindered. Action.
+### Divine Knowledge
 
-#### Dodge and Resist (3 Speed points)
+Divine Knowledge #Ability #TaskAbility #Low #Core 
 
-You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. Enabler.
+You are trained in all tasks related to knowledge of godly beings. 
 
-#### Dodge and Respond (3 Might points)
+Enabler.
 
-If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. Enabler.
+### Divine Radiance
 
-#### Double Strike (3 Might points)
+Divine Radiance (2 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-When you wield two weapons, you can choose to make one attack roll against a foe. If you hit, you inflict damage with both weapons plus 2 additional points of damage, and because you made a single attack, the target’s Armor is subtracted only once. Action.
+Your prayer calls divine radiance from the heavens to punish an unworthy target within long range, inflicting 4 points of damage. If the target is a demon, spirit, or something similar, it also stands in unwilling awe of the divine energy coursing through it and is unable to act on its next turn. Once exposed to this blessing, the target can’t be awed by this attack again for several hours. 
 
-#### Dragon’s Maw (6 Intellect points)
+Action.
 
-You fashion and control a “hovering” phantasmal construct of magic within long range that resembles a dragon’s head. The construct lasts for up to an hour, until it is destroyed, or until you cast another spell. It is a level 4 construct that inflicts 6 points of damage with its bite when directed. While the construct persists, you can use it to manipulate large objects, carry heavy items in its mouth, or attack foes. If you use it to attack foes, you must use your action to directly control the phantom maw for each attack. Action to initiate.
+### Divine Symbol
 
-#### Drain at a Distance
+Divine Symbol (5+ Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-Your Drain Machine and Drain Creature abilities work on a target within short range. Enabler.
+You invoke divine power by scribing a glowing symbol in the air with your fingers. Writhing pillars of divine radiance spear up to five targets within long range. A successful attack on a target inflicts 5 points of damage. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets take 1 point of damage even if you fail the attack roll. 
 
-#### Drain Charge
+Action.
 
-You can drain the power from an artifact or device, allowing you to regain 1 Intellect point per level drained. You regain points at the rate of 1 point per round and must give your full concentration to the process each round. The GM determines whether the device is fully drained (likely true of most handheld or smaller devices) or retains some power (likely true of large machines). Action to initiate; action each round to drain.
+### Do You Know Who I Am
 
-#### Drain Creature (3+ Intellect points)
+Do You Know Who I Am? (3 Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-You can drain energy from a living creature you touch, inflicting 3 points of damage and restoring 3 points to your Might or Speed Pool. Action.
+Acting only as someone who is famous and used to privilege can, you verbally harangue a living foe who can hear and understand you so forcefully that it is unable to take any action, including making attacks, for one round. Whether you succeed or fail, the next action the target takes after your attempt is hindered. 
 
-#### Drain Machine (3+ Intellect points)
+Action.
 
-You can drain the power from an artifact or powered device you touch. If the target is a robot, you inflict 3 points of damage and restore 3 points to your Might or Speed Pool. If the target is an object, you restore points to your Might or Speed Pool equal to the level of the target. If the target is a manifest cypher, it is fully drained and useless. Artifacts and similar devices must immediately check for depletion (items with a depletion of “—” are either immune to this ability or have a depletion of 1 in 1d10 when attacked with this ability). Action.
+### Dodge and Resist
 
-#### Drain Power (5 Speed points)
+Dodge and Resist (3 Speed points) #Ability #MetaAbility #Mid #Core 
 
-You affect the main power source of a robot or machine, inflicting upon it all four conditions in Disable Mechanisms at once. You must touch the robot to do this (if you are making an attack, it inflicts no damage). Action.
+You can reroll any of your Might, Speed, or Intellect defense rolls and take the better of the two results. 
 
-#### Draw Conclusion (3 Intellect points)
+Enabler.
 
-After careful observation and investigation (questioning one or more NPCs on a topic, searching an area or a file, and so on) lasting a few minutes, you can learn a pertinent fact. This ability is a difficulty 3 Intellect task. Each additional time you use this ability, the task is hindered by an additional step. The difficulty returns to 3 after you rest for ten hours. Action.
+### Dodge and Respond
 
-#### Drawing on Life’s Experiences (6 Intellect points)
+Dodge and Respond (3 Might points) #Ability #SpecialAttackAbility #Mid #Core 
 
-You’ve seen a lot and done a lot, and that experience comes in handy. Ask the GM one question, and you’ll receive a general answer. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. Generally, knowledge that you could find by looking somewhere other than your current location is level 1, and obscure knowledge of the past is level 7. Action.
+If a melee attack misses you, you can immediately make a melee attack in return, but no more than once per turn. 
 
-#### Dreadwood (6 Intellect points)
+Enabler.
 
-You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear. Action. 
+### Double Strike
 
-#### Dream Becomes Reality (4 Intellect points)
+Double Strike (3 Might points) #Ability #MetaAbility #Low #Core 
 
-You create a dream object of any shape you can imagine that is your size or smaller, which takes on apparent substance and heft. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. The dream object has the approximate mass of the real object, if you choose. Your dream objects are as strong as iron, but if you do not remain within long range of them, they function for only one minute before fading away. Action.
+When you wield two weapons, you can choose to make one attack roll against a foe. If you hit, you inflict damage with both weapons plus 2 additional points of damage, and because you made a single attack, the target’s Armor is subtracted only once. 
 
-#### Dream Thief (2 Intellect points)
+Action.
 
-You steal a previous dream from a living creature within short range. The creature loses 2 points of Intellect (ignores Armor), and you learn something the GM chooses to reveal about the creature—its nature, a portion of its plans, a memory, and so on. Action.
+### Dragon’s Maw
 
-#### Dreamcraft (1 Intellect point)
+Dragon’s Maw (6 Intellect points) #Ability #CompanionAbility #High #Core 
 
-You pull an image from a dream into the waking world and place it somewhere within long range. The dream lasts for up to one minute, and it can be tiny or fill an area an immediate distance in diameter. Though it appears solid, the dream is intangible. The dream (a scene, a creature, or an object) is static unless you use your action each round to animate it. As part of that animation, you could move the dream up to a short distance each round, as long as it remains within long range. If you animate the dream, it can make sound but does not produce odor. Direct physical interaction or sustained interaction with the dream shatters it into dispersing mist. For example, attacking the dream shatters it, as does the strain of keeping up appearances when an NPC moves through a dream scene or engages a dream creature in conversation for more than a couple of rounds. Action to initiate; action to animate.
+You fashion and control a “hovering” phantasmal construct of magic within long range that resembles a dragon’s head. The construct lasts for up to an hour, until it is destroyed, or until you cast another spell. It is a level 4 construct that inflicts 6 points of damage with its bite when directed. While the construct persists, you can use it to manipulate large objects, carry heavy items in its mouth, or attack foes. If you use it to attack foes, you must use your action to directly control the phantom maw for each attack. 
 
-#### Driver
+Action to initiate.
 
-You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. Enabler.
+### Drain at a Distance
 
-#### Driving on the Edge
+Drain at a Distance #Ability #MetaAbility #Mid #Core 
 
-You can make an attack with a light or medium ranged weapon and attempt a driving task as a single action. Enabler.
+Your Drain Machine and Drain Creature abilities work on a target within short range. 
 
-#### Dual Defense
+Enabler.
 
-When you wield two weapons, you are trained in Speed defense tasks. Enabler.
+### Drain Charge
 
-#### Dual Distraction (1+ Speed points)
+Drain Charge #Ability #SpecialAttackAbility #Mid #Core 
 
-When you wield two weapons, your opponent’s next attack is hindered, and if you apply Effort on your next attack against that same foe, you get a free level of Effort on the task. Enabler.
+You can drain the power from an artifact or device, allowing you to regain 1 Intellect point per level drained. You regain points at the rate of 1 point per round and must give your full concentration to the process each round. The GM determines whether the device is fully drained (likely true of most handheld or smaller devices) or retains some power (likely true of large machines). 
 
-#### Dual Light Wield
+Action to initiate; action each round to drain.
 
-You can use two light weapons at the same time, making two separate attacks on your turn as a single action. You remain limited by the amount of Effort you can apply on one action, but because you make separate attacks, your opponent’s Armor applies to both. Anything that modifies your attack or damage applies to both attacks, unless it’s specifically tied to one of the weapons. Enabler.
+### Drain Creature
 
-#### Dual Medium Wield
+Drain Creature (3+ Intellect points) #Ability #MetaAbility #Low #Core 
 
-You can use two light weapons or medium weapons at the same time (or one light weapon and one medium weapon), making two separate attacks on your turn as a single action. This ability otherwise works like the Dual Light Wield ability. Enabler.
+You can drain energy from a living creature you touch, inflicting 3 points of damage and restoring 3 points to your Might or Speed Pool. 
 
-#### Dual Wards
+Action.
 
-You can have two wards from Devoted Defender at a time. Choosing a second ward can be its own action, or you can choose two wards with one action (and only pay the cost once for doing so). The wards must remain within an immediate distance of each other. Benefits provided by Devoted Defender apply to both your wards. If your wards separate, you choose which retains the benefit. If they come back together, both regain the benefit immediately. Enabler.
+### Drain Machine
 
-#### Duel to the Death (5 Speed points)
+Drain Machine (3+ Intellect points) #Ability #SpecialAttackAbility #Low #Core 
 
-Choose a target (a single individual creature that you can see). You are trained in all tasks involving fighting that creature. When you successfully attack that target, you inflict +5 damage, or +7 damage if the creature is engaging someone else instead of you. You can duel only one creature at a time. A duel lasts up to one minute, or until you break it off. Action to initiate.
+You can drain the power from an artifact or powered device you touch. If the target is a robot, you inflict 3 points of damage and restore 3 points to your Might or Speed Pool. If the target is an object, you restore points to your Might or Speed Pool equal to the level of the target. If the target is a manifest cypher, it is fully drained and useless. Artifacts and similar devices must immediately check for depletion (items with a depletion of “—” are either immune to this ability or have a depletion of 1 in 1d10 when attacked with this ability). 
 
-#### Duplicate (2 Might points)
+Action.
 
-You cause a duplicate of yourself to appear at any point you can see within short range. The duplicate has no clothing or possessions when it appears. The duplicate is a level 2 NPC with 6 health. The duplicate obeys your commands and does as you direct it. The duplicate remains until you dismiss it using an action or until it is killed. When the duplicate disappears, it leaves behind anything it was wearing or carrying. If the duplicate disappears because it was killed, you take 4 points of damage that ignore Armor, and you lose your next action. Action to initiate.
+### Drain Power
 
-#### Dust to Dust (7 Intellect points)
+Drain Power (5 Speed points) #Ability #SpecialAttackAbility #High #Core 
 
-You disintegrate one object that is smaller than you and whose level is less than or equal to your tier. You must touch the object to affect it. If the GM feels it appropriate to the circumstances, you can disintegrate a portion of an object (the total volume of which is smaller than you) rather than the entire thing. Action.
+You affect the main power source of a robot or machine, inflicting upon it all four conditions in Disable Mechanisms at once. You must touch the robot to do this (if you are making an attack, it inflicts no damage). 
+
+Action.
+
+### Draw Conclusion
+
+Draw Conclusion (3 Intellect points) #Ability #InformationAbility #Mid #Core 
+
+After careful observation and investigation (questioning one or more NPCs on a topic, searching an area or a file, and so on) lasting a few minutes, you can learn a pertinent fact. This ability is a difficulty 3 Intellect task. Each additional time you use this ability, the task is hindered by an additional step. The difficulty returns to 3 after you rest for ten hours. 
+
+Action.
+
+### Drawing on Life’s Experiences
+
+Drawing on Life’s Experiences (6 Intellect points) #Ability #InformationAbility #High #Core 
+
+You’ve seen a lot and done a lot, and that experience comes in handy. Ask the GM one question, and you’ll receive a general answer. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. Generally, knowledge that you could find by looking somewhere other than your current location is level 1, and obscure knowledge of the past is level 7. 
+
+Action.
+
+### Dreadwood
+
+Dreadwood (6 Intellect points) #Ability #Core 
+
+You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear. 
+
+Action. 
+
+### Dream Becomes Reality 
+
+Dream Becomes Reality (4 Intellect points) #Ability #CraftAbility #Mid #Core 
+
+You create a dream object of any shape you can imagine that is your size or smaller, which takes on apparent substance and heft. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. The dream object has the approximate mass of the real object, if you choose. Your dream objects are as strong as iron, but if you do not remain within long range of them, they function for only one minute before fading away. 
+
+Action.
+
+### Dream Thief
+
+Dream Thief (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You steal a previous dream from a living creature within short range. The creature loses 2 points of Intellect (ignores Armor), and you learn something the GM chooses to reveal about the creature—its nature, a portion of its plans, a memory, and so on. 
+
+Action.
+
+### Dreamcraft
+
+Dreamcraft (1 Intellect point) #Ability #EnvironmentAbility #Low #Core 
+
+You pull an image from a dream into the waking world and place it somewhere within long range. The dream lasts for up to one minute, and it can be tiny or fill an area an immediate distance in diameter. Though it appears solid, the dream is intangible. The dream (a scene, a creature, or an object) is static unless you use your action each round to animate it. As part of that animation, you could move the dream up to a short distance each round, as long as it remains within long range. If you animate the dream, it can make sound but does not produce odor. Direct physical interaction or sustained interaction with the dream shatters it into dispersing mist. For example, attacking the dream shatters it, as does the strain of keeping up appearances when an NPC moves through a dream scene or engages a dream creature in conversation for more than a couple of rounds. 
+
+Action to initiate; action to animate.
+
+### Driver
+
+Driver #Ability #TaskAbility #Low #Core 
+
+You are trained in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. 
+
+Enabler.
+
+### Driving on the Edge
+
+Driving on the Edge #Ability #MetaAbility #Low #Core 
+
+You can make an attack with a light or medium ranged weapon and attempt a driving task as a single action. 
+
+Enabler.
+
+### Dual Defense
+
+Dual Defense #Ability #ProtectionAbility #Mid #Core 
+
+When you wield two weapons, you are trained in Speed defense tasks. 
+
+Enabler.
+
+### Dual Distraction 
+
+Dual Distraction (1+ Speed points) #Ability #MetaAbility #High #Core 
+
+When you wield two weapons, your opponent’s next attack is hindered, and if you apply Effort on your next attack against that same foe, you get a free level of Effort on the task. 
+
+Enabler.
+
+### Dual Light Wield
+
+Dual Light Wield #Ability #SpecialAttackAbility #Low #Core 
+
+You can use two light weapons at the same time, making two separate attacks on your turn as a single action. You remain limited by the amount of Effort you can apply on one action, but because you make separate attacks, your opponent’s Armor applies to both. Anything that modifies your attack or damage applies to both attacks, unless it’s specifically tied to one of the weapons. 
+
+Enabler.
+
+### Dual Medium Wield
+
+Dual Medium Wield #Ability #SpecialAttackAbility #Mid #Core 
+
+You can use two light weapons or medium weapons at the same time (or one light weapon and one medium weapon), making two separate attacks on your turn as a single action. This ability otherwise works like the Dual Light Wield ability. 
+
+Enabler.
+
+### Dual Wards
+
+Dual Wards #Ability #SupportAbility #Mid #Core 
+
+You can have two wards from Devoted Defender at a time. Choosing a second ward can be its own action, or you can choose two wards with one action (and only pay the cost once for doing so). The wards must remain within an immediate distance of each other. Benefits provided by Devoted Defender apply to both your wards. If your wards separate, you choose which retains the benefit. If they come back together, both regain the benefit immediately. 
+
+Enabler.
+
+### Duel to the Death
+
+Duel to the Death (5 Speed points) #Ability #MetaAbility #High #Core 
+
+Choose a target (a single individual creature that you can see). You are trained in all tasks involving fighting that creature. When you successfully attack that target, you inflict +5 damage, or +7 damage if the creature is engaging someone else instead of you. You can duel only one creature at a time. A duel lasts up to one minute, or until you break it off. 
+
+Action to initiate.
+
+### Duplicate
+
+Duplicate (2 Might points) #Ability #CompanionAbility #Low #Core 
+
+You cause a duplicate of yourself to appear at any point you can see within short range. The duplicate has no clothing or possessions when it appears. The duplicate is a level 2 NPC with 6 health. The duplicate obeys your commands and does as you direct it. The duplicate remains until you dismiss it using an action or until it is killed. When the duplicate disappears, it leaves behind anything it was wearing or carrying. If the duplicate disappears because it was killed, you take 4 points of damage that ignore Armor, and you lose your next action. 
+
+Action to initiate.
+
+### Dust to Dust
+
+Dust to Dust (7 Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+You disintegrate one object that is smaller than you and whose level is less than or equal to your tier. You must touch the object to affect it. If the GM feels it appropriate to the circumstances, you can disintegrate a portion of an object (the total volume of which is smaller than you) rather than the entire thing. 
+
+Action.
 
 ### Abilities—E
 
@@ -18882,10 +19262,13 @@ But it depends on the situation at hand. If the PCs are already worn down from p
 
 
 # SECTION 2 : Genres
+
 The Cypher System can be used to play in many settings. This chapter provides additional information and rules for fantasy, modern, science fiction, horror, romance, superheroes, post-apocalyptic, fairy tale, and historical genres.
 
 # Fantasy
+
 ## Setting
+
 For our purposes, fantasy is any genre that has magic, or something so inexplicable it might as well be magic. The sort of core default of this type is Tolkienesque fantasy, also known as second-world fantasy because it includes a completely new world not our own. Big fantasy epics like those penned by J. R. R. Tolkien (hence the name), C. S. Lewis, George R. R. Martin, Stephen R. Donaldson, David Eddings, Ursula K. Le Guin, and others are indicative of this genre. It usually involves swords, sorcery, nonhuman species (such as elves, dwarves, helborn, and half-giants), and epic struggles.
 
 Of course, fantasy might also involve the modern world, with creatures of myth and sorcerers dwelling among us. It might involve mythic traditions of any number of cultures (elves, dwarves, and the like, usually being decidedly European) or bear little resemblance to anything on Earth, past or present. It might even involve some of the trappings of science fiction, with spaceships and laser guns amid the wizardry and swords (this is often called science fantasy).
@@ -18895,7 +19278,8 @@ Fantasy can also be defined by the amount of fantasy elements within it. A secon
 The point is, there are many, many types of fantasy.
 
 ## Characters
-### Suggested Types for a FANTASY Game
+
+### Suggested Types
 
 |Role|Character Type|
 |---|---|
@@ -18910,7 +19294,8 @@ The point is, there are many, many types of fantasy.
 |Warrior mage|Warrior flavored with magic|
 |Bard|Speaker|
 
-### Other types
+### Other Types
+
 In some cases, the ideas here require minor changes to the flavor described in the character options; you should work with your GM to make sure these changes are suitable for the campaign. Most of the foci in this section appear in the Cypher System; foci with an asterisk (*) are found later in this document. Some of these options recommend swapping out a type ability for an ability from one of the character flavors such as combat, magic, or stealth. 
 
 - Alchemist: In the sense that an alchemist is someone who makes magical items or similar types of things, Adept and Explorer are appropriate type choices for academic alchemists. For a general sort of alchemist who makes potions of magical effects, choose the Masters Spells focus (instead of spells, you learn potions). For one who transforms into a powerful and dangerous creature, choose Howls at the Moon. For one who loves throwing bombs, choose Bears a Halo of Fire. For a healer, choose Works Miracles.
@@ -18963,51 +19348,58 @@ In some cases, the ideas here require minor changes to the flavor described in t
 - Wizard (transmuter): Controls Gravity, Focuses Mind Over Matter, Takes Animal Shape*
 
 #### PREPARED VS. SPONTANEOUS SPELLCASTING
+
 Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you’d like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
 
-### Fantasy SPECIES DESCRIPTORS
+### Descriptors
+
 In a high fantasy setting, some GMs may want dwarves and elves to be mechanically different from humans. Below are some possibilities for how this might work.
 
 #### VARIANT RULE: TWO DESCRIPTORS
+
 By having dwarf, elf, or other species take the place of a character’s descriptor, it creates a situation where only human characters have the variability of choosing a descriptor that suits their personality. The GM might instead allow all human characters to have two descriptors, and nonhuman characters to have a standard descriptor in addition to their species descriptor.
 
 Sometimes contradictory descriptors might weaken or negate each other’s benefits and drawbacks. If one descriptor gives training in a skill and another gives an inability in that skill, they cancel each other out and the character doesn’t have any modifier for that skill at all.
 
 #### DESCRIPTORS AS SPECIES 
+
 If a player wants to play a nearly human species without any exceptional or unique special abilities, it’s easy for a GM to pick an appropriate descriptor and use it as that species’ descriptor. A greyhound-like species might have the Fast descriptor.
 
-#### CATFOLK
+##### CATFOLK
+
 You are unmistakably feline. Your people have fur; large, pointed ears; sharp teeth and claws; and even tails. You are nimble, graceful, and quick. An ancient and sophisticated culture, your people have their own language, customs, and traditions developed in relative seclusion over the centuries. Neither conquerors nor conquered, the success of your society has come from the fact that you have given most others a wide berth. As a people, you almost never get involved in wars or similar matters, which has given other cultures the idea that you are aloof, unapproachable, or mysterious. As long as they leave you alone, what they think is fine with you. 
 
-You gain the following characteristics: 
+You gain the following characteristics:  
 - Agile: +4 to your Speed Pool. Skill: You are trained in climbing and balance tasks. 
 - Bared Claws: Even unarmed, your claws are light weapons that inflict 4 points of damage. 
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure. 
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You were curious as to what the other PCs were up to. 
 2. You needed to get out of town, and the PCs were going in the same direction as you. 
 3. You are interested in making a profit, and the other PCs seem to have a lead on doing just that. 
 4. It seemed like a lark.
 
-#### DRAGONFOLK
+##### DRAGONFOLK
+
 You have scales, fangs, claws, and magic—gifts of the dragons. You might have been born of dragonfolk parents, willingly transformed in a magical ceremony, or chosen by a dragon to be their agent or champion. You have a great destiny before you, but it is your choice whether to make it your own or bend to the will of those who made you what you are. Some people mistrust or fear you, and others consider you a prophet or wish to exploit your power for their own goals. 
 
-You gain the following characteristics: 
+You gain the following characteristics:  
 - Sturdy: +2 to your Might Pool. Skill: You are trained in intimidation
 - Dragonbreath (3 Might points): You breathe out a blast of energy in an immediate area. Choose one type of energy (arcane, cold, fire, thorn, and so on); the blast inflicts 2 points of damage of this kind of energy (ignores Armor) to all creatures or objects within the area. Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. Action. 
 - Draconic Resistance: You gain +2 Armor against the type of energy you create with your dragonbreath. 
 - Scaly: +1 to Armor. Inability: You have difficulty relating to non-dragons. Tasks to persuade non-dragons are hindered. 
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You believe the other PCs can help you solve a mystery about your heritage. 
 2. You needed to get out of town, and the PCs were going in the same direction as you. 
 3. Your creator, master, or mentor told you to help the PCs. 
 4. You want to make a name for yourself, and the other PCs seem competent and compatible.
 
-#### DWARF
+##### DWARF
+
 You’re a stocky, broad-shouldered, bearded native of the mountains and hills. You’re also as stubborn as the stone in which the dwarves carve their homes under the mountains. Tradition, honor, pride in smithcraft and warcraft, and a keen appreciation of the wealth buried under the roots of the world are all part of your heritage. Those who wish you ill should be wary of your temper. When dwarves are wronged, they never forget.
 
-You gain the following characteristics:
+You gain the following characteristics:  
 - Stalwart: +2 to your Might Pool.
 - Skill: You are trained in Might defense rolls.
 - Skill: You are trained in tasks related to stone, including sensing stonework traps, knowing the history of a particular piece of stonecraft, and knowing your distance beneath the surface.
@@ -19016,16 +19408,17 @@ You gain the following characteristics:
 - Vulnerability: When you fail an Intellect defense roll to avoid damage, you take 1 extra point of damage.
 - Additional Equipment: You have an axe.
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You found the PCs wandering a maze of tunnels and led them to safety.
 2. The PCs hired you to dig out the entrance to a buried ruin.
 3. You tracked down the thieves of your ancestor’s tomb and found they were the PCs. Instead of killing them, you joined them.
 4. Before dwarves settle down, they need to see the world.
 
-#### ELF
+##### ELF
+
 You haunt the woodlands and deep, natural realms, as your people have for millennia. You are the arrow in the night, the shadow in the glade, and the laughter on the wind. As an elf, you are slender, quick, graceful, and long lived. You manage the sorrows of living well past many mortal lifetimes with song, wine, and an appreciation for the deep beauties of growing things, especially trees, which can live even longer than you do.
 
-You gain the following characteristics:
+You gain the following characteristics:  
 - Agile: +2 to your Speed Pool.
 - Long-Lived: Your natural lifespan (unless tragically cut short) is thousands of years.
 - Skill: You are specialized in tasks related to perception.
@@ -19034,16 +19427,17 @@ You gain the following characteristics:
 - Fragile: When you fail a Might defense roll to avoid damage, you take 1 extra point of damage.
 - Additional Equipment: You have a bow and a quiver of arrows to go with it.
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. Before putting an arrow in the forest intruders, you confronted them and met the PCs, who were on an important quest.
 2. Your heart yearned for farther shores, and the PCs offered to take you along to new places.
 3. Your home was burned by strangers from another place, and you gathered the PCs along the way as you tracked down the villains.
 4. An adventure was in the offing, and you didn’t want to be left behind.
 
-#### GNOME
+##### GNOME
+
 You are curious and love discovering ways to turn found things into art, tools, or weapons. You might be a sculptor, smith, artist, chef, storyteller, or inventor. Alchemy, magic, and engineering fascinate you. Other beings may see you as a strange mix of a nature-loving elf and a craft-obsessed dwarf, but you and your kind are unique people with a passion for life, exploration, and creation. 
 
-You gain the following characteristics: 
+You gain the following characteristics:  
 - Genius: +2 to your Intellect Pool. 
 - Skill: You are trained in two skills that suit your creative nature, such as alchemy, smithing, poetry, cooking, woodcarving, or pottery. 
 -Skill: You are practiced in using hammers. 
@@ -19051,33 +19445,34 @@ You gain the following characteristics: 
 - Inability: Your small size makes some physical tasks difficult. Might-based tasks are hindered. 
 - Additional Equipment: You have a bag of light tools or a bag of heavy tools.
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure. 
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You think an object or material you’ve been looking for can be found where the other PCs are going. 
 2. You were recruited because of your knowledge on a particular subject.
 3. You were bored and it sounded like the PCs were going to do something interesting. 
 4. You owe one of the PCs a favor for a useful gift in the past.
 
-#### HALF-GIANT
+##### HALF-GIANT
+
 You stand at least 12 feet (4 m) tall and tower over everyone around you. Whether you are a full-blooded giant or merely have giant heritage from large ancestors, you’re massive. Always large for your age, it became an issue only once you reached puberty and topped 7 feet (2 m) in height, and kept growing from there.
 
-You gain the following characteristics:
+You gain the following characteristics:  
 - Tough: +4 to your Might Pool.
 - Mass and Strength: You inflict +1 point of damage with your melee attacks and attacks with thrown weapons.
 - Breaker: Tasks related to breaking things by smashing them are eased.
 - Inability: You’re too large to accomplish normal things. Tasks related to initiative, stealth, and fine manipulation of any sort (such as lockpicking or repair tasks) are hindered.
+- Additional Equipment: You have a heavy weapon of your choice.
 
-Additional Equipment: You have a heavy weapon of your choice.
-
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You fished the PCs out of a deep hole they’d fallen into while exploring.
 2. You were the PCs’ guide in the land of giants and stayed with them afterward.
 3. The PCs helped you escape a nether realm where other giants were imprisoned by the gods.
 4. You kept the PCs from being discovered by hiding them behind your bulk when they were on the run.
 
-#### HALFLING
+##### HALFLING
+
 Three feet tall and proud, you are fond of the comforts of home but itching for a little adventure now and then. Small and quick, you have a way of getting along with everyone. You might have been raised in a halfling village, a mixed community where humans and the small folk work and eat side by side as friends, or a less welcoming environment where your people get things done using deception and criminal activity. You and humans have a lot in common—you’re just more compact and efficient about it. 
 
-You gain the following characteristics: 
+You gain the following characteristics:  
 - Agile: +2 to your Speed Pool. 
 - Skill: You are trained in pleasant social interactions. 
 - Skill: You are trained in stealth. 
@@ -19085,16 +19480,17 @@ You gain the following characteristics: 
 - Advantage: When you use 1 XP to reroll a d20 for any roll that affects only you, add 3 to the reroll. 
 - Inability: Your small size makes some physical tasks difficult. Might-based tasks are hindered. 
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure. 
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You were fleeing someone and literally ran into the other PCs. 
 2. You were invited (or invited yourself) as a good luck charm. 
 3. You were tricked into going with the other PCs or were brought along despite your very reasonable objections. 
 4. You’re very protective of another PC and want to make sure they get through the upcoming challenges.
 
-#### HELBORN
+##### HELBORN
+
 Demons of the underworld sometimes escape. When they do, they can taint human bloodlines. Things like you are the result of such unnatural unions. Part human and part something else, you are an orphan of a supernatural dalliance. Thanks to your unsettling appearance, you’ve probably been forced to make your own way in a world that often fears and resents you. Some of your kin have large horns, tails, and pointed teeth. Others are more subtle or more obvious in their differences—a shadow of a knife-edge in their face and a touch that withers normal plants, a little too much fire in their eyes and a scent of ash in the air, a forked tongue, goatlike legs, or the inability to cast a shadow. Work with the GM on your particular helborn appearance.
 
-You gain the following characteristics.
+You gain the following characteristics.  
 - Devious: +2 to your Intellect Pool.
 - Skill: You are trained in tasks related to magic lore and lore of the underworld.
 - Fire Adapted: +2 to Armor against damage from fire only.
@@ -19102,16 +19498,17 @@ You gain the following characteristics.
 - Inner Evil: You sometimes lose control and risk hurting your allies. When you roll a 1, the GM has the option to intrude by indicating that you lose control. Once you’ve lost control, you attack any and every living creature within short range. You can’t spend Intellect points for any reason other than to try to regain control (a difficulty 2 task). After you regain control, you suffer a –1 penalty to all rolls for one hour.
 - Inability: People distrust you. Tasks to persuade or deceive are hindered.
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. You were nearly beaten to death by people who didn’t like your look, but the PCs found and revived you.
 2. The PCs hired you for your knowledge of magic.
 3. Every so often you get visions of people trapped in the underworld. You tracked those people down and found the PCs, who’d never visited the underworld. Yet.
 4. Your situation at home became untenable because of how people reacted to your looks. You joined the PCs to get away.
 
-#### LIZARDFOLK
+##### LIZARDFOLK
+
 You are from a long line of fierce reptilian predators. You show your fangs and scales proudly. Your people survive and thrive in the wetlands, guarding their eggs, raising their hatchlings, and protecting their territory. City-builders may call you a savage and your culture primitive, but there is grace in your hunting, artistry in your crafting, joy in your songs, and reverence in your worship. 
 
-You gain the following characteristics: 
+You gain the following characteristics:  
 - Agile: +2 to your Speed Pool. 
 - Skill: You are trained in balancing, jumping, and swimming. 
 - Skill: You are trained in hunting and tracking. 
@@ -19120,58 +19517,11 @@ You gain the following characteristics: 
 - Inability: Your slightly clawed hands make fine detail work difficult. You have an inability with picking locks, picking pockets, and other manual dexterity tasks (but not crafting). 
 - Additional Equipment: You have a spear and a pair of javelins. 
 
-Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure. 
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.  
 1. The other PCs were lost in your territory and you were sent to escort them out. 
 2. Something has been attacking your community and you want to find and destroy it. 
 3. You were exiled from your community and need to prove your worthiness before you can return to it. 
 4. You or your priest had a vision of you traveling with the other PCs.
-
-### NEW FOCI
-
-#### Takes Animal Shape
-A shapechanger who can take the form of various animals. 
-
-Tier 1: Animal Shape
-Tier 2: Communication 
-Tier 2: Soothe the Savage 
-Tier 3: Bigger Animal Shape or Greater Beast Form [This ability is described in the main portion of the CSOL.] 
-Tier 4: Animal Scrying
-Tier 5: Hard to Kill
-Tier 6: Blurring Speed or Lend Animal Shape
-
-#### Uses Wild Magic
-A spellcaster who learns a variety of spells instead of focusing on just one kind of magic. 
-
-Tier 1: Magical Repertoire
-Tier 1: Cypher Casting
-Tier 2: Expanded Repertoire
-Tier 3: Cypher Surge or Faster Wild Magic
-Tier 4: Expanded Repertoire
-Tier 5: Magical Training
-Tier 6: Maximize Cypher or Wild Insight
-
-#### Walks the Wild Woods
-An adherent of nature magic who draws on the power and strength of trees. 
-
-Tier 1: Wilderness Life 
-Tier 1: Patient Recovery
-Tier 2: Wooden Body
-Tier 3: Tree Companion or Wilderness Awareness 
-Tier 4: Tree Travel
-Tier 5: Great Tree
-Tier 6: Dreadwood or Restorative Bloom
-
-#### Wields an Enchanted Weapon
-One who channels magic through or from a weapon to create a unique fighting style.
-
-Tier 1: Enchanted Weapon
-Tier 1: Innate Power
-Tier 1: Charge Weapon
-Tier 2: Power Crash
-Tier 3: Rapid Attack or ThrowEnchanted Weapon
-Tier 4: Defending Weapon
-Tier 5: Enchanted Movement
-Tier 6: Deadly Strike or Spin Attack 
 
 ### NEW ABILITIES
 
@@ -19389,12 +19739,15 @@ Wooden portcullis (level 3): The gaps in a portcullis present more defense oppor
 Iron portcullis (level 6): Much sturdier than wood, an iron portcullis is meant to keep creatures in place as long as necessary. Often the best way to get past a portcullis is to lift it instead of breaking it, but some are designed to lock in place to prevent this. A door to a prison cell is essentially a type of iron portcullis.
 
 ### TRAPS
+
 One common element of fantasy exploration—particularly for castles and dungeons—is the danger of traps.
 
 #### TRIGGERING TRAPS
+
 Mechanical traps have a triggering mechanism—something set up to react when an unauthorized creature is in the area. Magical traps have triggers that are usually based on proximity—if a creature enters the area the trap is “watching,” it activates.
 
 #### FINDING TRAPS
+
 Most characters won’t notice traps unless actively looking for them; they don’t know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present. 
 
 Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don’t have to keep stating over and over that they’re looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).
@@ -19402,6 +19755,7 @@ Passive searching for traps means one character (usually in the front of the gro
 Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don’t find it. If there is a second trap, the GM can have them make another roll after they’ve resolved the first trap.
 
 #### DISABLING, DAMAGING, AND BYPASSING TRAPS
+
 A character can attempt to disable a trap so it’s no longer able to activate or harm anyone. Normally this task has the same difficulty as the trap’s level, but some traps are rickety and easy to disable, while others are carefully crafted and much harder to disable. Traps are objects and use the object damage track. Characters can attack a trap with weapons or special abilities to damage or destroy it. Some traps may be vulnerable to certain attacks or unusual means of sabotage (such as hammering a piton into a groove where a blade springs out). Magical traps can be damaged or disabled with special abilities.
 
 Instead of disabling a trap, a character can try to bypass it so they and their allies can get past it without triggering it but still leave it as a danger to anyone else who passes through the area. The task to bypass a trap is hindered by two steps
@@ -19411,6 +19765,7 @@ Failing an attempt to disable, bypass, or sabotage a trap means it activates. Us
 Unless a character has the ability to manipulate magic, it’s very difficult to bypass a magical trap (the attempt is hindered by two additional steps).
 
 #### UNDERSTANDING THE LISTINGS
+
 The rest of the chapter presents a large number of traps with game stats. Every trap is presented by name, followed by a standard template that includes the following categories. If an entry doesn’t apply to a particular trap, it is omitted from the listing. 
 
 Level: Like the difficulty of a task, each trap has a level. You use the level to determine the target number a PC must reach to find, evade, or disable the trap. In each entry, the difficulty number for the trap is listed after its level (always three times the trap’s level). 
@@ -19441,7 +19796,10 @@ Paralysis: The poison prevents the creature from taking any physical actions if 
 
 Sleep: The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they’re awakened early).
 
+#### EXAMPLE TRAPS
+
 ##### ARROW
+
 Level : 4 (12)
 
 Fires an arrow or crossbow bolt. The simplest one-use trap of this kind is an actual crossbow (perhaps hidden behind a hole in a wall or door) rigged with a tripwire to pull the trigger; a creature would need to manually reset this trap for it to be a danger again. More complex traps might automatically reload from a supply of bolts so the trap can be triggered multiple times, or fire automatically once triggered until the ammunition is expended. A variant of this trap releases a volley of arrows into the targeted area, affecting multiple creatures or the same creature more than once. 
@@ -19453,6 +19811,7 @@ Modifications: Defense and stealth as level 6 (if hidden behind a hole in the wa
 GM Intrusion: The arrow is barbed, and removing it inflicts 3 points of damage. The arrow is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock.
 
 ##### CRUSHING WALL
+
 Level : 6 (18)
 
 A section of a wall falls over onto the targeted character. This is usually a one-use trap (although a similar trap could be built in its place). 
@@ -19466,6 +19825,7 @@ Damage Inflicted: 6 points (ignores Armor) 
 GM Intrusion: The fallen wall blocks access to an exit. The wall debris buries the character, who is trapped until they can dig free. Another trap, hazard, or threat is behind the fallen wall (such as arrow traps or a room full of zombies) and can now reach the characters.
 
 ##### DISINTEGRATION
+
 Level : 7 (21)
 
 A magical ray of eerie energy blasts the character, disrupting their physical matter. Any creature killed by the ray (or any object destroyed by it) turns to dust. 
@@ -19475,6 +19835,7 @@ Damage Inflicted: 15 points 
 GM Intrusion: In addition to inflicting damage, the ray moves the character one step down the damage track. Part of the ray splits or ricochets off the character and strikes a second creature, inflicting 10 points of damage. 
 
 ##### EXPLOSIVE GLYPH
+
 Level : 4 (12)
 
 A magical rune activates when touched or passed over, exploding in an immediate or short area. Typical glyphs inflict acid, cold, electricity, or fire damage, but more unusual versions include ones that inflict holy, shadow, thorn, unholy, or stranger types of magical energy damage. A nonmagical variant of this trap sprays a mist of acid, a jet of electrified salt water, or a gout of burning oil. 
@@ -19486,6 +19847,7 @@ Modifications: Stealth as level 5 
 GM Intrusion: The glyph marks the character’s face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.
 
 ##### FLOODING ROOM
+
 Level : 4 (12)
 
 Exits to the room close off and the area starts to fill with water. Within a few minutes, the entire room is flooded and creatures in it begin to drown. 
@@ -19499,6 +19861,7 @@ Modifications: Defends as level 7 
 GM Intrusion: Hostile creatures such as piranhas or electric eels are in the water and attack all creatures. The room fills with water faster than expected because the floor and/or ceiling are also moving toward each other.
 
 ##### MANGLER
+
 Level : 3 (9)
 
 A small hole in the wall extends sharp blades or weights when a creature reaches into it, mangling their hand and hindering all actions requiring that hand by one or two steps. 
@@ -19514,6 +19877,7 @@ Modifications: Stealth as level 4 
 GM Intrusion: The trap has hooks, holding the character in place and inflicting damage when they try to escape if they fail a Speed defense roll. The glue attracts a swarm of fire ants or wasps. The glue is also a slow-acting acid or poison.
 
 ##### NET
+
 Level : 3 (9)
 
 A net suspended above the character drops and constricts (and perhaps lifts the character off the ground). Large net traps can affect multiple creatures at once. This kind of trap usually requires a creature to manually reset it.
@@ -19527,6 +19891,7 @@ Modifications: Attacks as level 5, defends as level 2 
 GM Intrusion: The net is barbed, inflicting 1 point of damage each round that the trapped character tries to move. The net is the nesting place for biting insects, which swarm and attack the trapped character and all nearby creatures each round.
 
 ##### PIT
+
 Level : 4 (12)
 
 A trapdoor in the floor opens, dropping the triggering character into a pit. Larger versions of this trap can catch multiple characters at once. The trap can be reset by moving the trapdoor back into its closed position. In outdoor areas, this trap is more likely to be a pit covered in leafy branches (or a tarp) and camouflaged by soil and other debris. 
@@ -19538,6 +19903,7 @@ Damage Inflicted: 1 point of ambient damage per 10 feet fallen (ignores Armor) 
 GM Intrusion: The trapdoor is slippery with oil, hindering attempts to catch the edge and avoid falling. The trapdoor closes after the character falls through, trapping them inside in the darkness. The walls of the pit are greased, hindering attempts to climb out by two steps. A dangerous creature is at the bottom of the pit (or in a room adjacent to it). The pit is filled with poison gas. The trapdoor detaches and falls into the pit, inflicting 1 point of ambient damage per 10 feet it falls. The pit has spikes at the bottom, inflicting an additional 4 points of damage to anyone who falls in.
 
 ##### POISON GAS
+
 Level : 3 (9)
 
 The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won’t realize at first that they’ve sprung a trap. 
@@ -19553,6 +19919,7 @@ Modifications: Stealth as level 5 
 GM Intrusion: The character has an allergic reaction to the gas, which hinders all their actions for an hour after exposure because of sneezing, watery eyes, or itchy skin. The gas makes the character hallucinate, mistaking their companions for enemies, until they make an Intellect defense roll. The gas is flammable.
 
 ##### POISON NEEDLE
+
 Level : 5 (15)
 
 A poisoned needle jabs at a character touching the trapped object (usually a lock or treasure chest) or is fired from a mechanism similar to an arrow trap. It may have a reservoir of poison that allows it to attack several times. 
@@ -19564,6 +19931,7 @@ Modifications: Stealth as level 6 
 GM Intrusion: The trap releases acid into the lock mechanism, making the trapped object impossible to unlock. The trap releases acid into the container, destroying some of the valuables inside. The trap releases a puff of poison gas instead of a poisoned needle, affecting all nearby characters.
 
 ##### PORTCULLIS
+
 Level : 5 (15)
 
 An iron portcullis drops from the ceiling to block access to an area or separate a character from others nearby. If the creature dodging the falling portcullis wants to choose which side of the trap they end up on, the Speed defense roll is hindered. Otherwise, it is even chances what side they end up on. 
@@ -19575,6 +19943,7 @@ Damage Inflicted: 5 points
 GM Intrusion: The portcullis impales the character, trapping them beneath it until it is lifted or destroyed. The portcullis is electrified, inflicting 1 point of damage each time it is touched or attacked with flesh or a metal object. A second portcullis drops nearby, trapping a character in a small area. Murder-holes in the ceiling allow enemies to make ranged attacks on the trapped character.
 
 ##### ROLLING BOULDER
+
 Level : 6 (12)
 
 A large boulder, wheel, or barrel rolls into the area, crushing anything in its path. Depending on the configuration of the area, the boulder might follow a specific path, ricochet erratically, break open pit traps, or get stuck somewhere. 
@@ -19588,6 +19957,7 @@ Modifications: Defends as level 7 
 GM Intrusion: The boulder crashes through a door or wall, giving other dangerous creatures access to the character’s location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.
 
 ##### SLICING BLADE
+
 Level : 5 (15)
 
 A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade’s reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually. 
@@ -19599,6 +19969,7 @@ Modifications: Attacks as level 6 
 GM Intrusion: The blade is a magical weapon with an additional effect, such as inflicting 3 points of fire damage. The blade is rusted and breaks off when it hits the character, inflicting 1 point of damage (ignores Armor) each round after the initial attack until it is healed.
 
 ##### SLIDING STAIR
+
 Level : 4 (12)
 
 A stairway or section of stairs unexpectedly turns into a ramp. Anyone who makes a Speed defense roll can catch hold near where they were standing; otherwise, they slide or tumble to the bottom and take damage. This kind of trap usually resets after a minute or has a manual reset lever at the top or bottom of the stairs. 
@@ -19608,6 +19979,7 @@ Damage Inflicted: 1 point of ambient damage per 20 feet slid (ignores Armor) 
 GM Intrusion: The trap releases oil, hindering attempts to climb the ramp or stairs by two steps. Tiny blades stick out between the sections of the ramp, inflicting an additional 3 points of damage. The trap releases a boulder to roll down the stairs after the sliding character, inflicting an additional 3 points of damage.
 
 ##### SNAKE PIT
+
 Level : 4 (12)
 
 The trap drops the character into a pit full of snakes or drops a large number of snakes on the character. The snakes immediately attack the character and perhaps others in the area. 
@@ -19617,6 +19989,7 @@ Damage Inflicted: As per the swarm of snakes 
 GM Intrusion: The snake poison is especially potent, moving the character one step down the damage track if they fail a Might defense roll. The snakes constrict the character, hindering their actions until the snakes are defeated.
 
 ##### SPEAR
+
 Level : 4 (12)
 
 The trap fires a spear, javelin, or other large projectile. (In many ways, this is a scaled-up and more dangerous version of an arrow trap, and the same suggestions for that trap apply to this one.) 
@@ -19628,6 +20001,7 @@ Modifications: Defense and stealth as level 5 (if hidden behind a hole in a wall
 GM Intrusion: The impact of the spear knocks the character prone. The spear is barbed, and removing it inflicts 3 points of damage. The spear is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock
 
 ##### TELEPORTER
+
 Level : 6 (18)
 
 The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It’s more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation. 
@@ -19636,473 +20010,13 @@ Damage Inflicted: None 
 
 GM Intrusion: The teleport destination is above the ground, causing the character to fall some distance and take damage (1 point of ambient damage per 10 feet fallen). The destination is dangerous, such as a tiny room lined with spikes, a shark tank, or a boulder in a lava lake.
 
-#### CRAFTING MAGIC ITEMS
-
-Potions, scrolls, and other one-use items are cyphers, and longer-lasting items are generally artifacts.
-
-#### CRAFTING CYPHERS 
-1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher they’re trying to create, which must be in the level range for the cypher as listed in the Cypher System Reference Document. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range, and should always be treated as a level 6 cypher when crafted by a PC. 
-
-2. Determine Materials. Just as crafting an axe requires iron and wood, crafting a magical cypher requires strange and exotic materials—powdered gems, ink from monsters, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
-
-|Cypher Level|Materials Cost|
-|---|---|
-|1|One inexpensive item|
-|2|Two inexpensive items|
-|3|One moderate item|
-|4|Two moderate items|
-|5|Three moderate items|
-|6|One expensive item|
-|7|Two expensive items|
-|8|Three expensive items|
-|9|One very expensive item|
-|10|Two very expensive items|
-
-3. Assess Difficulty. The difficulty of a magic item crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of a crafting task with skill training (such as being trained or specialized in brewing potions or scribing scrolls), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose. Because this is an activity requiring special knowledge, it is not possible for a character with no skill (or with an inability in this skill) to do this sort of crafting; the character cannot attempt the task at all. 
-
-4. Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing the assessed difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. See the table below. 
-
-For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking on it occasionally to make sure everything is going as planned— allowing the base ingredients of a potion to cook for a few hours, stirring to make sure the ingredients don’t congeal, allowing ink on a scroll to dry, and so on. In other words, the character is able to perform other actions in the vicinity of the crafting (such as studying, resting, eating, and so on), but couldn’t craft on the road or in the middle of a dungeon.
- 
-|Assessed Difficulty|Time to Craft|
-|---|---|
-|1|Ten minutes|
-|2|One hour|
-|3|Four hours|
-|4|Nine hours|
-|5|One day|
-|6|Two days|
-|7|One week|
-|8|Three weeks|
-|9|Two months|
-|10|Six months|
-
-5. Complete Subtasks. The crafting character must complete multiple subtasks that are steps toward finishing the process. The number of subtasks required is equal to the assessed difficulty of the crafting task attempted. So a crafting task assessed as difficulty 5 requires five subtask successes. 
-
-The difficulty of each individual subtask begins at 1 and increases by one step for each remaining subtask, until the crafter succeeds on the final, highest-difficulty subtask. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to craft the item. 
-
-If at any point the crafter fails on a subtask, the item isn’t ruined. Instead, the character only wasted the time spent on that subtask, and can spend that much time again and then try to succeed at that same subtask. If the crafter fails twice in a row on the same subtask, the character can continue crafting, but in addition to losing another interval of crafting time, more crafting material (equal to one of the kind of item needed to craft it) is destroyed in a mishap and must be replaced before crafting can continue.
-
-A player may ask to apply Effort to each subtask. Applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day
-
-#### CRAFTING ARTIFACTS
-
-Crafting an artifact is similar to choosing a new type or focus ability—the character has many to choose from, they select the one that best fits their intention, and thereafter they can use the artifact much like they’d use any of their other character abilities. The main difference is that most artifacts don’t cost Pool points to activate, and character abilities don’t have a depletion stat that eventually removes the item from play. Crafting artifacts is handled as a long-term benefit of character advancement; the character and GM agree on the artifact to be crafted, and the character spends 3 XP. If the item is fairly simple, the GM can skip the crafting details and just say that after a period of time, the PC creates the artifact. For an item that significantly alters gameplay—granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the crafting steps for creating a magical cypher. Crafting this kind of artifact takes up to five times as many materials and up to twenty times as long as crafting a cypher of the same assessed difficulty
-
-### RITUAL MAGIC
-
-#### TIME
-
-Ritual magic has two aspects related to time: how long it takes to prepare the ritual, and how long it takes to perform it. The preparation time is how long it takes to get ready to perform the ritual. The performance time is how long the ritual takes from start to finish, once the preparations (if any) are complete. 
-
-#### DIFFICULTY AND SUBTASKS
-
-Completing a ritual has an overall difficulty level, usually equal to the level of the challenge. Sometimes there isn’t a clear idea of what level the challenge should be— teleporting a group of people to a nearby city and raising a person from the dead don’t have an obvious task level. In these cases, the GM should choose a level for the ritual based on what would make an interesting experience for the players. Instead of having the success or failure of this sort of magic come down to one roll, ritual magic lets the GM build tension by requiring the players to make rolls for multiple subtasks. The subtasks start at difficulty 1, and the subtask difficulty increases by 1 each time until the players make a final roll at the highest difficulty. A ritual with an overall difficulty of 4 has four subtasks, with the first one at difficulty 1, the second at difficulty 2, the third at 3, and the last one at 4. 
-
-If at any point the PC fails a subtask, the ritual isn’t automatically ruined, but it costs time—a failure means the time spent on that subtask was wasted, but the character can spend that much time again and try to succeed at that same subtask. The GM may decide that later attempts at that subtask are hindered, or that a certain number of failures during the ritual (perhaps equal to half the ritual’s overall level) means the whole thing needs to be started again. Skills, assets, and other special abilities can ease subtasks just like they do with any other task (which might make some of the subtasks routine and not require a roll at all). Characters may apply Effort to each subtask. 
-
-#### POOL INVESTMENT
-
-Some rituals might require the PCs to spend points from their Pools on each subtask, with Might representing blood or vitality, Speed representing energy, and Intellect representing will or sanity. Multiple PCs involved in the ritual could collectively contribute to this cost (and if a ritual costs many points, spreading out the cost in this way may be necessary to prevent a participating PC from dying during the ritual). 
-
-#### ACCELERATED PERFORMANCE
-
-The GM may allow a character to speed up a ritual, reducing the time required for one or more subtasks. Generally, reducing a subtask’s time by half should hinder the subtask, and reducing it by half again (reducing the time needed to a quarter of the normal amount) should hinder the subtask by an additional step (two steps total). The minimum amount of time for a subtask is 1 round (unless the subtask is routine, in which case the GM may allow it to take no time at all).
-
-#### EXAMPLE RITUALS 
-
-The following are examples of common magical rituals suitable for many fantasy settings. Specific details of a ritual may vary depending on what the characters are trying to accomplish; for example, a ritual to ask a demon for a favor might be similar to one used to ask an angel, but the exact details are probably very different. Everything listed in a ritual is merely a suggestion, and the GM should alter, add, or remove whatever they like to suit their campaign.
-
-##### UNDERSTANDING THE EXAMPLES
-
-Each ritual is described in the following format. 
-
-Level: The overall level of the ritual, which determines how many subtasks it has.
-
-Time: The preparation time (if any) and performance time. 
-
-Roles: Things other characters can do to participate and help. 
-
-Side Effects: Negative consequences for failed rolls or GM intrusions.  
-Reagents: Resources that can help success. 
-
-Pool: What kind of Pool points the ritual costs. 
-
-Other Assets: Kinds of abilities that can help success.
-
-##### BESEECH
-
-Call upon a powerful supernatural entity such as a deity, archangel, demon lord, or ancient elemental to ask for a favor that the entity can and is likely to do (nothing it would ethically oppose). If the ritual is successful, the entity makes its attention known, such as by manifesting as a light, noise, or visible spirit. It may ask for more information, for a task or favor in return, or for a service to be named later. The entity is not compelled to do the favor; the ritual merely gains its attention and gives the characters the opportunity to speak their case. 
-
-Level: The level of the entity 
-
-Time: Four hours of preparation, one hour of performance 
-
-Roles: Chanting, lighting candles, holding gifts/reagents 
-
-Side Effects: Curse, hallucination, prerequisite quest (a challenge or task the characters must perform before the entity will consider answering) 
-
-Reagents: Scroll giving the history of and important details about the entity, offerings of gratitude or appeasement 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities
-
-Beseech only draws the entity’s attention; the various Conjure rituals bring the summoned entity bodily to the ritual space to talk in person.
-
-##### CONJURE THE DEAD
-
-Summons the spirit of a dead person or creature (commonly called a “ghost”), which appears in the summoning circle prepared for the ritual. The spirit remains there for about a minute, during which time the summoners can interrogate them or persuade them to share information. The spirit usually wants something in return (such as messages conveyed to the living or unfulfilled tasks completed). If the characters don’t comply, they must magically threaten or compel the spirit to obey. 
-
-Level: The level of the dead spirit 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Chanting, holding hands in a circle, manipulating a spirit device 
-
-Side Effects: Haunting, possession 
-
-Reagents: Mementos of the spirit’s life, the spirit’s former physical remains, a person or creature to possess 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, religious or cultural connections, secret name of the spirit 
-
-A ghost remembers much of its life, including whether it knows, likes, or hates the people summoning it, and will act accordingly.
-
-##### CONJURE DEMON 
-
-Summons a demon (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The demon is primitive and bestial, not a creature of great wits and charm. The demon remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—spying, murder, and destruction of property are common tasks. Usually the demon has to be threatened or magically coerced into obeying. If the summoners fail to get it to comply, it makes one attack against them and then returns to wherever it came from (and probably bears a grudge for the unwanted summoning). 
-
-Level: The level of the demon 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Aggression, bad smell, curse, equipment damage or theft, possession 
-
-Reagents: Blood; meat; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing anger, destruction, or hatred (according to the desired service) 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, secret name of the demon
-
-##### CONJURE DEVIL 
-
-Summons a devil (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The devil remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires the devil to travel no more than about 50 miles (80 km)—spying, stealing, guarding, and murdering are common tasks. The devil usually wants something in return (even if just an agreement for a later favor); otherwise, the characters must threaten it or have some way to force it to obey. If the characters fail to strike a bargain, the devil returns to wherever it came from (and probably is annoyed at the interruption).
-
-Level: The level of the devil 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Bad smell, curse, infernal mark, possession
-
-Reagents: Blood; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing betrayal, deception, or greed (according to the desired service) 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, secret name of the devil 
-
-##### CONJURE ELEMENTAL 
-
-Summons a primordial elemental spirit of air, earth, fire, or water, which appears in a physical form. The elemental remains for about a minute, during which time the characters must attempt to bribe, threaten, or bargain with it. An elemental is usually summoned to do something that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—attack, guard, and scout are common tasks. The elemental typically wants something in return for its service, usually a gift or bribe appropriate to its nature—incense for air, gems for earth, oil for fire, salts for water, and so on. If the summoners can’t come to an agreement with the elemental, it might make one attack before it leaves. 
-
-Level: The level of the elemental 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Chanting, music, using ceremonial objects, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Damage, weakness toward one kind of attack 
-
-Reagents: Gifts (black powder, gems, ice, incense, oil, salt, soil, water, wood), destroying opposing items or creatures 
-
-Pool: Might, Speed, or Intellect, depending on the kind of elemental 
-
-Other Assets: Elemental power, knowledge or control of similar entities, nature magic, secret name of the elemental
-
-Elementals are simple creatures whose interests and attentions are focused on themselves and their element. Flattery and playing up their strengths are the key to bargaining with them.
-
-##### CONSECRATION 
-
-Wards a location against evil influences and unwanted magic for a year and a day. The ritual affects an area up to a very long distance across. Evil creatures and magical effects of less than the ritual’s level can’t enter the area or use abilities against it. If the PCs are warded out of the designated area, they must make an Intellect defense roll to enter it (and another each minute while within the area, or retreat) and all their actions inside or targeted within the area are hindered by two steps. 
-
-Level: The level of the effects to protect against 
-
-Time: One hour of preparation, two hours of performance 
-
-Roles: Drawing lines and symbols along the border, chanting, calling out local features (with candles, runestones, or other suitable markers) 
-
-Side Effects: Lights, sounds, weak spots or “back doors” in the barrier 
-
-Reagents: Silver dust, sacred oil, buried blessed gemstones 
-
-Pool: Intellect 
-
-Other Assets: Warding magic, religious knowledge 
-
-##### ENCHANT WEAPON 
-
-Enchants a light, medium, or heavy weapon with magical power, granting an asset on attack rolls with the weapon for the next day. 
-
-Level: 3 or 4 
-
-Time: Thirty minutes of preparation, one hour of performance 
-
-Roles: — 
-
-Side Effects: Weapon attack hindered, higher GM intrusion rate
-
-Reagents: Rare oils, gem dust 
-
-Pool: Speed or Intellect 
-
-Other Assets: Battle tactics, weapon crafting
-
-In a high-magic campaign, a higher-level version of the Enchant Weapon ritual might grant a second asset on attack rolls, grant extra damage, affect multiple weapons at once, or all of the above.
-
-##### ENTOMBMENT 
-
-Imprisons a creature in a vessel (usually a valuable box, clay pot, or other closeable container, but it might be a gem, the heart of a tree, or another atypical object) for as long as the vessel remains closed and undamaged. The ritual forces the creature into the vessel, either in a spiritual form or by shrinking it to a size that will fit within the vessel. 
-
-Level: The level of the creature 
-
-Time: Sixteen hours of preparation, one hour of performance 
-
-Roles: Chanting, carrying or protecting the vessel 
-
-Side Effects: Bystander imprisoned with the target, containment has a flaw, target lashes out 
-
-Reagents: Vessel, symbolic bindings (chains, ropes, shackles, and so on), anathema objects 
-
-Pool: Intellect 
-
-Other Assets: Control magic, grappling, imprisoning magic, wards
-
-##### EXORCISM 
-
-Drives out unwanted spirits (ghosts, demons, or something else) from an area up to a long distance across. Once cast out, the spirits cannot return for a year and a day (although most of them decide to move on long before that time comes). Completing the ritual doesn’t prevent other spirits from entering or inhabiting the area, but it is likely that they can sense that an exorcism happened there, and most choose to avoid such an area so they don’t suffer the same fate. The ritual can also be used to cast out spirits from a possessed creature, preventing those spirits from returning for a year and a day. As with using the ritual to cleanse a location, this doesn’t prevent other spirits from afflicting the creature, but later spirits can sense the recent exorcism and prefer to avoid that creature.
-
-Level: The level of the most powerful hostile presence to be exorcised 
-
-Time: Two hours of preparation, two hours of performance 
-
-Roles: Chanting, positive emotions, presenting holy objects, restraining afflicted individuals, tracing the area with incense 
-
-Side Effects: Lights, sounds, hideous physical transformations, injuries, telekinesis 
-
-Reagents: Bindings, candles, holy water, religious icons and books, scapegoats 
-
-Pool: Intellect 
-
-Other Assets: Warding magic, religious knowledge 
-
-Using an exorcism ritual on an area is mainly for getting rid of spirits afflicting the area in ways other than possessing a creature— throwing objects, causing nightmares, making noises, and so on.
-
-##### FLESH FOR KNOWLEDGE 
-
-Sacrifices some of the ritualist’s flesh, inflicting Might and Speed damage equal to the level of the ritual and permanently reducing the character’s Pools by 4 points (the character can divide this loss between Might and Speed as they see fit). The character experiences painful hallucinations that give them insight and understanding. They immediately learn one type or focus ability available to them (any ability they could learn by spending 4 XP as an advancement). 
-
-Level: Twice the tier of the ability the character wishes to learn 
-
-Time: One hour of preparation, one hour of performance 
-
-Roles: Chanting, restraining the subject of the ritual 
-
-Side Effects: Lasting damage, permanent damage, scarring 
-
-Reagents: Silver knife, silver vessel 
-
-Pool: See above 
-
-Other Assets: Pain tolerance, surgery 
-
-Instead of permanently reducing a character’s Pools by 4 points, the GM could allow other permanent penalties such as reducing an Edge stat by 1 (to a minimum of 0), gaining an inability in a useful skill, or permanently reducing all points gained through recovery rolls by 2.
-
-##### PURIFICATION 
-
-Rids a creature of an ongoing affliction, such as a disease or poison, or any unwanted magical effect, such as a curse or charm spell. In some versions of this ritual, whatever is ailing the creature gets forced into a nearby specified creature or object, which is then discarded or safely destroyed.
-
-Level: The level of the affliction or effect to remove 
-
-Time: One hour of preparation, two hours of performance 
-
-Roles: Applying reagents, chanting 
-
-Side Effects: Affliction or effect spreads to another creature, target moves a step down the damage track 
-
-Reagents: Anointing oils, healing herbs, objects repellent to the source of the affliction, magical paint for writing on the target, scapegoat, silver dust 
-
-Pool: Might 
-
-Other Assets: Healing magic, resistance to the target’s affliction
-
-##### RESURRECTION 
-
-Restores a dead being to life. The creature is restored to full health and is ready to act as soon as the ritual is completed. Depending on how they died and the nature of death in the setting, the creature may or may not remember anything that happened after they died. 
-
-Level: The level of the deceased (at least tier 6 if a PC) 
-
-Time: Five hours of preparation, two hours of performance 
-
-Roles: Applying reagents, chanting, prayers, shielding the corpse from hostile entities 
-
-Side Effects: Creature moves a step down the damage track, enmity of a death god, lasting damage, scarring, sympathetic damage 
-
-Reagents: Deceased’s corpse, healing ointment, items of emotional significance (such as devotion, hope, or regret), items of importance to the deceased, parchment extolling the deceased’s history and deeds, soul-sympathetic items 
-
-Pool: Might or Intellect 
-
-Other Assets: Close relationship with the deceased (such as a connection or family relation), healing magic, necromancy, spirit knowledge, secret name of the deceased
-
-A lesser version of the Resurrection ritual might bring the creature back to life, but only to the debilitated or impaired state on the damage track instead of hale, requiring further rest or healing. 
-
-##### SACRIFICIAL RITE 
-
-A creature is ritually killed and its soul is placed in an object. The soul object might be a temporary destination so the soul can be transported and used elsewhere (such as an offering to a demon or as part of a spell), or it might be the final destination for the soul (such as placing it in a sword to create a magic item). 
-
-Level: The level of the creature (at least tier 6 if a PC) 
-
-Time: One hour of preparation, one hour of performance Roles: Chanting, playing instruments, bearing the soul object, restraining the creature, slaying the creature 
-
-Side Effects: Creature rages or escapes, damage, dying curse, haunting 
-
-Reagents: Bindings, creature to be sacrificed, drum, flute, silver knife, soul object (its level must be at least as high as the creature’s level) 
-
-Pool: Might or Intellect 
-
-Other Assets: Death spells, instant-kill abilities, soul manipulation
-
-### MAGICAL TECHNOLOGY
-
-To craft items of magical technology in a setting where they are commonplace, use the standard rules for crafting regular (nonmagical) items.
-
-#### MAGIC PLUS TECHNOLOGY
-
-Whatever technology exists in the setting could be magically enhanced if magic is also present. Such items would almost certainly be manifest cyphers or artifacts. Here’s an example cypher:
-
-FROZEN TIMEPIECE
-
-Level: 1d6 + 2
-
-Effect: Creates or transforms into a pocket watch that seems to be made of ice. Upon activation of the cypher, the user can take normal actions, but everything and everyone around them is frozen in time. The user cannot affect anything else, but they can move through the world and take actions that affect themselves or their own belongings (bandage a wound, repair a broken item, and so on). The effect lasts for one round per cypher level.
-
-And here’s an example artifact:
-
-TRUTH BINOCULARS
-
-Level: 1d6 + 2
-
-Form: Pair of binoculars with a large runic symbol on them
-
-Effect: Not only do these make it easy to see things far away, but looking through them also allows the viewer to see through illusions and see things that are normally invisible, assuming the effect has a level lower than that of the binoculars.
-
-Depletion: 1–2 in 1d100 (check each use)
-
-To craft items that are both technological and magical, either you need to make the device first and then enchant it, or you need to enchant it as it is made. Either way, the skills for making the device and for making it magical are likely very different.
-
-#### TECHNOLOGY THAT INTERACTS WITH MAGIC
-
-In a world with scientists and engineers faced with the presence of real magic, some of them would develop ways to interact and cope with it. Technological devices that are not magical but deal with magic could include:
-
-Magic detector (expensive): This simple white badge glows purple in the presence of magic. Once it detects something magical, it does not function again. 
-
-Mystical hazard suit (very expensive): This full-body protective suit is cumbersome and clumsy, not unlike a hazmat suit. However, all of the wearer’s tasks to resist magical effects are eased. If the wearer takes even 1 point of physical damage, the suit rips and no longer functions until it is repaired and resealed. 
-
-Spellscrambler (very expensive): Essentially a sonic grenade, this device produces a variety of strange electromagnetic signals—some audible and very loud, some not—on a number of frequencies. The mental processes needed to cast a spell are impossible to achieve for one round within a short distance of the device. Like any grenade, it can be used only once.
-
-#### MAGIC THAT INTERACTS WITH TECHNOLOGY
-
-In a world where magic and technology coexist, wizards will have spells and effects that protect them from shotgun blasts as well as sword blades, and radiation as well as fire or frost. Consider, for example, these effects as cyphers:
-
-FINDING PRYING EYES 
-
-Level: 1d6 + 3 
-
-Effect: Magically discovers if anything is watching or listening to the user right at that moment, and reveals the source. Electronic surveillance devices, long-range scopes, hidden cameras, and magical scrying attempts all trigger this effect. In all these cases, the “source” is the nearest representation. So a hidden microphone is revealed, but not the location of the listener. 
-
-POWER DEVICE 
-
-Level: 1d6 + 2 
-
-Effect: Magically powers one device that can fit within an area a short distance across. The device is now fully powered, charged, or fueled. If the cypher is used on an automobile, for example, the gas tank is full. If used on a flashlight, the battery is fully charged. 
-
-SCREEN CONTROL 
-
-Level: 1d6 + 2 
-
-Effect: A technological screen (a television, computer monitor, smartphone, or the like) within short range shows whatever the user wishes for up to one minute per cypher level. The display can be pictures, text, or meaningless shapes and colors.
-
-Because magic works on intuitive rather than scientific levels, mages could have spells that disrupt technology, even though the technology involved might not have any common principles
-
-### MIND CONTROL
-
-From a rules perspective, mind control is fairly straightforward: one creature decides what actions another creature takes (perhaps limited in that the controlled creature won’t take actions that harm them or go against their nature, such as attacking friends). But what’s happening inside the controlled creature’s head—whether during the effect or afterward—often isn’t specified. There are several options for the GM to consider, either for all kinds of mind-control magic or on a case-by-case basis. 
-
-Confusion: The controlled creature doesn’t understand why they’re doing things they normally wouldn’t do, but they aren’t aware of any outside influence on their thoughts and actions. Once the control is over, the creature may admit that they don’t know why they did those things, or come up with an explanation justifying (to themselves and others) their reasons for those actions. 
-
-Dream: The controlled creature is aware of what’s going on but perceives it in a dreamlike state. They may believe that they’re in control of themselves the entire time, or somewhat aware that they’re not fully in control (similar to being intoxicated by drugs or alcohol or disoriented by an illness). Afterward, the creature might feel strange about the events but may not realize that someone else was controlling them. 
-
-Trapped: The active thoughts in the controlled creature’s head come from the controller, but the creature still has a small voice or awareness in the background, like they’re a prisoner in their own mind. This horrible situation usually means the controlled creature reverts to normal once the control is gone, and is probably very upset that their mind and body autonomy were violated.
-
-One way to present mind control more safely is to disallow certain actions but otherwise leave the character in control. For example, being charmed by a vampire might mean the PC can’t attack the vampire (or its allies) or run away, but is still able to call for help, heal themselves, leave at a normal pace, and take other actions. Alternatively, the character can be given a specific command, and until they comply with that command their other actions are hindered by one or more steps. If the player is willing to engage with the parameters of the mind control, the GM may award them an additional 1 XP (or, to approach it from the opposite direction, the GM can offer them a GM intrusion that the mind control is happening, and allow the player to spend 1 XP to refuse it, or go into XP debt if they want to refuse it but have no XP to spend).
-
-A rule for any game: don’t use mind control (or anything) to make a character have sex without the player’s permission. For more information and guidelines about consent in RPGs, read the free Consent in Gaming PDF at myMCG.info/consent
-
-### MYSTICAL MARTIAL ARTS
-
-If the setting calls for wuxia-style fantasy martial arts or similar types of action, you can make a few rule changes to portray the kinds of things characters in such stories can accomplish.
-
-Running and climbing speeds and jumping distances are doubled. For those trained in running, climbing, or jumping, the speeds and distances are tripled instead of doubled. For those specialized, they are quintupled. For all intents and purposes, this means that everyone can run up a wall or jump very high in the air, and masters can practically fly or run across water.
-
-Everyone knows kung fu. Unless a person is a simple farmer, herder, or merchant, they know how to fight with elaborate and powerful martial arts styles. This doesn’t change anything in the game mechanically—no one gets the ability to use weapons that they wouldn’t normally have under the rules. But it does change the flavor, suggesting that no PC is entirely ignorant of weapons or close combat. 
-
-Players are encouraged to come up with interesting names for their martial arts abilities. Instead of using a Bash attack, perhaps it is “The Three-Flower Fist,” and instead of Fury, a character uses “The Rage of the Sevenfold.” It is reasonable for high-tier martial abilities such as Amazing Effort, Jump Attack, or Finishing Blow to be described with a magical flare— blazing auras of fire, brilliant cascades of light, ethereal figures overlaying the character, and so on. 
-
-Materials and objects are easier to destroy. For the purpose of attacking objects, subtract 2 from the level of any material (minimum of 0). It should be relatively simple for any character to smash through a plain wooden door with little effort, and true warriors can shatter stones with their blows. 
-
-Wounds heal faster. Everyone gains +1 to all recovery rolls. 
-
-Superhuman abilities exist. Consider adopting some of the superhero rules from the Cypher System Reference Document, in particular the power shift optional rules. These may derive from almost supernatural levels of training in various techniques (such as dianxue) but probably mostly from neili.
-
-Dianxue: The touch of death—killing by using precise nonlethal force on key points of the body. Neili: Internal force— building up and cultivating the energy known as qi and using it for supernatural effects.
-
-### POSSESSION
-
-Some creatures (demons, ghosts, entities of living mental energy, and so on) have the ability to possess a living person, taking over a character’s body as if it were the creature’s own. The creature must touch the character to attempt possession (even if the creature’s touch normally inflicts damage, the possession attempt doesn’t inflict damage). The character must make an Intellect defense roll or become possessed, whereupon the creature’s immaterial form disappears into the character.
-
-The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing creature can try to control the actions of the host, but the character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. When the creature isn’t trying to control the host, the character can act as they choose. Usually, a possessing creature’s actions are limited to controlling its host and leaving the host (the creature’s own abilities are unavailable to it while in someone else’s body).
-
-While it possesses a character, the creature is immune to most direct attacks (though not so the host; killing the host will eject the creature). For example, hitting a demon-possessed human with a sword hurts only the human, not the demon controlling them. Mental attacks and special abilities that only affect possession or the type of possessing creature usually work normally
-
-A possessed character is allowed an Intellect defense roll to eject the creature once per day. The defense roll is hindered by one additional step each day of possession after the first seven days. An ejected, cast-out, or exorcised demon is powerless for one or more days. One way to exorcise a demon is to command it out in the name of an entity that has power over the demon. This can be attempted once per day and grants the possessed character an additional Intellect defense roll to eject the demon.
-
-Possession is like mind control in that it takes away a player’s ability to control their character, and that can make some players very uncomfortable. See the section on mind control and consent for more information (page 67).
-
-### SECRET AND TRUE NAMES
-
-Learning a creature’s true name comes with a subtle and instinctive awareness and understanding of that creature, including its strengths and weaknesses. In general, this eases all tasks related to that creature (including attacks, defenses, and interactions) by two steps. In some cases, confronting a creature with knowledge of its true name might be enough to convince it to perform a service without compensation. A creature doesn’t automatically know if someone has learned its true name (although there is magic that can reveal this knowledge), but they can usually figure out that an informed opponent has some kind of advantage against them and deduce that their secret name is involved. 
-
-Learning a true name is difficult and takes time. A character wanting to discover a creature’s true name might choose the Uncover a Secret character arc to do so.
-
-### WISHES
-
-Unless the GM’s intention is to make the players regret that their characters were offered a wish, it’s best to give them what they ask for, as much as it is within the power of the creature to do so. If the GM wants to twist the wish, do so as a GM intrusion— that way, the character still gets a reward, and they can either accept the twisted wish (which isn’t as good as they had hoped) or pay 1 XP to reject the intrusion (which represents them coming up with airtight wording that can’t be twisted).
-
-Second, consider the level of the creature granting the wish—that’s basically the level of the wish, as the creature shouldn’t be able to grant a boon more powerful than itself. Therefore, it’s reasonable that a level 6 creature could create a level 6 effect. The GM could look at the creature’s other abilities (or abilities of other creatures of its level), decide if what the PC is asking for is within its power, and either grant the requested wish or adjust the result downward until it’s appropriate for the creature’s power. 
-
-Wishing for more wishes doesn’t work because a creature shouldn’t be able to create something more powerful than itself—at least not without some investment of time and other resources, like a character using XP to acquire an artifact.
-
 ### OPTIONAL RULE: SPELLCASTING
 
 Fantasy settings prioritize magic as an essential ingredient. But why restrict that magic to just wizards and similar characters? It’s not uncommon in fantasy literature for a thief or warrior to learn a few spells as they steal or brawl through their adventures. Leiber’s Gray Mouser knew some spells, Moorcock’s Elric knew a lot, pretty much everyone in Anthony’s Xanth books knew at least one, and so on. Of course, wizards and sorcerers specialize in spellcasting, which gives them clear superiority in magic use. But whether a character is a fireball-flinging wizard or a belligerent barbarian, anyone can learn some spellcasting under this optional rule.
 
 Under the spellcasting rule, any character, no matter their role or type, can choose to learn a spell as a long-term benefit. After they learn one spell, they may learn more later if they wish, or just stick with the one.
 
-FIRST SPELL
+**FIRST SPELL**
 
 Any character can gain a spell by spending 3 XP and working with the GM to come up with an in-game story of how the PC learned it. Maybe they learned it as a child from their parent and practiced it enough to actually do it; perhaps they spent a month hiding in a wizard’s library reading; it could be that they found a weird magical amulet that imbues them with the spell; and so on.
 
@@ -20112,7 +20026,7 @@ Using a Recovery Roll to Cast a Spell: If the character uses a one-action, ten-m
 
 Spending Time to Cast a Spell: If the character takes at least ten minutes chanting, mumbling occult phonemes, concentrating deeply, or otherwise using all their actions, they can cast a low-tier spell (if they also pay any Pool costs). An hour is required to cast mid-tier spells. Ten hours are required to cast a high-tier spell.
 
-MORE SPELLS
+**MORE SPELLS**
 
 Once a character has learned at least one spell, they can opt to learn additional spells later. Each time, they must spend an additional 3 XP and work with the GM to come up with an in-game story of how the character’s magical learning has progressed.
 
@@ -20124,7 +20038,7 @@ Second, a character must be at least tier 5 and have previously gained one mid-t
 
 Otherwise, gaining and casting additional spells are as described for the character’s first spell.
 
-WIZARDS AND THE OPTIONAL SPELLCASTING RULE
+**WIZARDS AND THE OPTIONAL SPELLCASTING RULE**
 
 Wizards (usually Adepts) and characters with explicit spellcasting foci like Masters Spells, Channels Divine Blessings, Speaks for the Land, and possibly others are also considered to be spellcasters, and moreover, specialized ones. Their spells—abilities provided by their type or focus—are used simply by paying their Pool costs. Extra time or physical effort isn’t required to cast them. That’s because, in the parlance of the fantasy genre, these spells are considered to be “prepared.”
 
@@ -20136,14 +20050,14 @@ For instance, if a wizard exchanges Ward (an ability gained from their type) wit
 
 (A PC might choose the 4 XP character advancement option to select a new type-based ability from their tier or a lower tier. If so, the ability gained doesn’t count as a spell, and the spellcasting rule limitations do not apply to the ability so gained. If the PC is a wizard and uses the 4 XP character advancement option, treat the ability as one more prepared spell.)
 
-## Cyphers
-### FANTASY CYPHERS
+## Fantasy Cyphers
+
 Magic items are a staple of fantasy stories and games. In the Cypher System, these magic items are, of course, cyphers. The Cypher System assumes that subtle cyphers are the default, but in a fantasy game the assumption is usually the opposite—cyphers are physical objects (manifest cyphers) with magical powers, which the heroes find as treasure, gifts, or rewards for their adventures and exploits. 
 
-### MIXING SUBTLE AND MANIFEST CYPHERS  
+**MIXING SUBTLE AND MANIFEST CYPHERS**  
 There’s no reason why a fantasy campaign can’t use manifest cyphers and subtle cyphers. In this setup, manifest cyphers are the tangible objects found in treasure hoards, and subtle cyphers represent good fortune, the blessings of the gods, and other coincidences that benefit the characters. 
 
-### CYPHER FORMS
+**CYPHER FORMS**
 What form a manifest cypher takes— such as a potion or scroll—doesn’t affect its abilities at all. A potion that eases the user’s next task by three steps is functionally identical to a magical scroll that does the same thing.
 
 To randomly determine a manifest cypher’s form, roll on the following table.
@@ -20182,35 +20096,31 @@ To randomly determine a manifest cypher’s form, roll on the following table.
 |93-96|Watery potion|
 |97-00|Wood runeplate|
 
-### EXAMPLE FANTASY CYPHERS
+**EXAMPLE FANTASY CYPHERS**
 All of the cyphers in this chapter are manifest and fantastic cyphers.
-FANTASY CYPHERS TABLE
 
-|   |   |
-|---|---|
-|01-05|Acid resistance|
-|06-11|Animal control|
-|12-18|Beast shape|
-|19-27|Cold resistance|
-|28-34|Demon ward|
-|35-39|Dragon ward|
-|40-44|Electricity resistance|
-|45-48|Elemental conjuration|
-|49-57|Fire resistance|
-|58-61|Giant size|
-|62-65|Instant boat|
-|66-68|Instant tower|
-|69-72|Lycanthrope ward|
-|73-76|Penultimate key|
-|77-82|Poison resistance|
-|83-86|Restorative aura|
-|87-89|Thought listening|
-|90-93|Tiny size|
-|94-98|Undead ward|
-|99-00|Walking corpse|
-
-  
-
+|       |                        |
+| ----- | ---------------------- |
+| 01-05 | Acid resistance        |
+| 06-11 | Animal control         |
+| 12-18 | Beast shape            |
+| 19-27 | Cold resistance        |
+| 28-34 | Demon ward             |
+| 35-39 | Dragon ward            |
+| 40-44 | Electricity resistance |
+| 45-48 | Elemental conjuration  |
+| 49-57 | Fire resistance        |
+| 58-61 | Giant size             |
+| 62-65 | Instant boat           |
+| 66-68 | Instant tower          |
+| 69-72 | Lycanthrope ward       |
+| 73-76 | Penultimate key        |
+| 77-82 | Poison resistance      |
+| 83-86 | Restorative aura       |
+| 87-89 | Thought listening      |
+| 90-93 | Tiny size              |
+| 94-98 | Undead ward            |
+| 99-00 | Walking corpse         |
 #### ACID RESISTANCE
 
 Level: 1d6 + 3 
@@ -20359,10 +20269,7 @@ Level: 1d6 
 
 Effect: Animates a corpse as a level 1 (or level 2 for cypher level 5 and higher) undead skeleton or zombie, depending on the condition of the body. The corpse can be no larger than a typical human. The animated corpse has none of the intelligence, memories, or special abilities that it had in life. The creature follows the user’s verbal commands for one hour, after which it becomes an inert corpse. Unless the creature is killed by damage, the user can reanimate it again when its time expires, but any damage it had when it became inert applies to its newly reanimated state.
 
-
-
-## Artifacts
-### FANTASY ARTIFACTS
+## Fantasy Artifacts
 
 If cyphers are the expendable magic that is ever-present in fantasy, artifacts are the more durable magic items that can be used over and over again—swords, armor, tomes of weird magic, cloaks of invisibility, and so on. Unlike cyphers, there is no limit to how many artifacts a character can bear; an entire campaign might stem from an ongoing quest to collect all of the legendary items carried by a famous hero.
 
@@ -20370,84 +20277,85 @@ The rest of this chapter is examples of artifacts suitable for a fantasy game. T
 
 In many ways, fantasy is the genre for artifacts. All magic items—wands that shoot lightning, magic carpets, singing swords, rings that make the wearer invisible, and so on—are artifacts. Below are a few sample artifacts to give a template for GMs to follow. Those running a fantasy campaign will likely want to create many magic artifacts.
 
-### MINOR FANTASY ARTIFACTS TABLE
+**MINOR FANTASY ARTIFACTS TABLE**
  
-|   |   |
-|---|---|
-|01-02|Adamantine rope|
-|03-06|Alchemist bag|
-|07-09|Armored cloth|
-|10-15|Belt of strength|
-|16-18|Bounding boots|
-|19-21|Cat’s eye spectacles|
-|22-24|Cloak of elfkind|
-|25-26|Coil of endless rope|
-|27-28|Crown of the mind|
-|34|Crystal ball|
-|35-37|Deflecting shield|
-|38-40|Elfblade|
-|41-43|Enchanted armor|
-|44-49|Exploding arrow|
-|50-55|Gloves of agility|
-|56-58|Gruelmake|
-|59-60|Helm of water breathing|
-|61-66|Mastercraft armor|
-|67-72|Mastercraft weapon|
-|73-75|Mindshield helment|
-|76-77|Pack of storage|
-|78-79|Poisoner’s touch|
-|80-85|Protection amulet|
-|86-87|Shield of two skies|
-|88-92|Skill ring|
-|93|Soulflaying weapon*|
-|94-96|Sovereign key|
-|97-98|Tunneling gauntlets|
-|99|Vorpal sword|
-|00|Whisperer in the ether|
+|       |                         |
+| ----- | ----------------------- |
+| 01-02 | Adamantine rope         |
+| 03-06 | Alchemist bag           |
+| 07-09 | Armored cloth           |
+| 10-15 | Belt of strength        |
+| 16-18 | Bounding boots          |
+| 19-21 | Cat’s eye spectacles    |
+| 22-24 | Cloak of elfkind        |
+| 25-26 | Coil of endless rope    |
+| 27-28 | Crown of the mind       |
+| 34    | Crystal ball            |
+| 35-37 | Deflecting shield       |
+| 38-40 | Elfblade                |
+| 41-43 | Enchanted armor         |
+| 44-49 | Exploding arrow         |
+| 50-55 | Gloves of agility       |
+| 56-58 | Gruelmake               |
+| 59-60 | Helm of water breathing |
+| 61-66 | Mastercraft armor       |
+| 67-72 | Mastercraft weapon      |
+| 73-75 | Mindshield helment      |
+| 76-77 | Pack of storage         |
+| 78-79 | Poisoner’s touch        |
+| 80-85 | Protection amulet       |
+| 86-87 | Shield of two skies     |
+| 88-92 | Skill ring              |
+| 93    | Soulflaying weapon*     |
+| 94-96 | Sovereign key           |
+| 97-98 | Tunneling gauntlets     |
+| 99    | Vorpal sword            |
+| 00    | Whisperer in the ether  |
 
-### MAJOR FANTASY ARTIFACTS TABLE 
+**MAJOR FANTASY ARTIFACTS TABLE** 
 
-|   |   |
-|---|---|
- |01-03|Angelic ward*|
-|04|Book of all spells|
-|05|Cloak of Balakar|
-|06-07|Crown of eyes|
-|08|Death’s scythe|
-|09-10|Demonflesh|
-|11|Demonic rune blade|
-|12-15|Dragontongue weapon|
-|16-18|Dragontooth soldiers|
-|19-20|Explorer’s gloves|
-|21-23|Falcon cloak|
-|24-25|Flying carpet|
-|26-27|Ghostly armor|
-|28-30|Guardian idol|
-|31-33|Hand of glory|
-|34-36|Horn of thunder|
-|37-39|Instant ladder|
-|40-43|Lightening hammer|
-|44-47|Necromantic wand|
-|48-50|Ring of dragon’s flight*|
-|51-53|Ring of fall flourishing|
-|54-56|Ring of invisibility|
-|57|Ring of wishes|
-|58-60|Smooth stepping boots|
-|61-62|Soul-stealing knife|
-|63-65|Spellbook of elemental summoning|
-|66|Spellbook of the amber mage*|
-|67-69|Staff of black iron|
-|70-74|Staff of healing|
-|75-77|Staff of the prophet|
-|78-79|Storm shack|
-|80-83|Trap runestone|
-|84-88|Wand of firebolts*|
-|89-93|Wand of spider’s webbing|
-|94-97|Witch’s broom|
-|98-00|Roll twice on the Minor Fantasy Artifacts table|
+|       |                                                 |
+| ----- | ----------------------------------------------- |
+| 01-03 | Angelic ward*                                   |
+| 04    | Book of all spells                              |
+| 05    | Cloak of Balakar                                |
+| 06-07 | Crown of eyes                                   |
+| 08    | Death’s scythe                                  |
+| 09-10 | Demonflesh                                      |
+| 11    | Demonic rune blade                              |
+| 12-15 | Dragontongue weapon                             |
+| 16-18 | Dragontooth soldiers                            |
+| 19-20 | Explorer’s gloves                               |
+| 21-23 | Falcon cloak                                    |
+| 24-25 | Flying carpet                                   |
+| 26-27 | Ghostly armor                                   |
+| 28-30 | Guardian idol                                   |
+| 31-33 | Hand of glory                                   |
+| 34-36 | Horn of thunder                                 |
+| 37-39 | Instant ladder                                  |
+| 40-43 | Lightening hammer                               |
+| 44-47 | Necromantic wand                                |
+| 48-50 | Ring of dragon’s flight*                        |
+| 51-53 | Ring of fall flourishing                        |
+| 54-56 | Ring of invisibility                            |
+| 57    | Ring of wishes                                  |
+| 58-60 | Smooth stepping boots                           |
+| 61-62 | Soul-stealing knife                             |
+| 63-65 | Spellbook of elemental summoning                |
+| 66    | Spellbook of the amber mage*                    |
+| 67-69 | Staff of black iron                             |
+| 70-74 | Staff of healing                                |
+| 75-77 | Staff of the prophet                            |
+| 78-79 | Storm shack                                     |
+| 80-83 | Trap runestone                                  |
+| 84-88 | Wand of firebolts*                              |
+| 89-93 | Wand of spider’s webbing                        |
+| 94-97 | Witch’s broom                                   |
+| 98-00 | Roll twice on the Minor Fantasy Artifacts table |
 
-### Artifacts
-#### ADAMANTINE ROPE
+* Artifact found in the Fantasy Artifacts section of the Cypher System
+
+### ADAMANTINE ROPE
 
 Level: 1d6 + 4
 
@@ -20457,7 +20365,7 @@ Effect: This length of rope has the flexibility of ordinary rope but a hardness 
 
 Depletion: —
 
-#### ALCHEMIST BAG
+### ALCHEMIST BAG
 
 Level: 1d6
 
@@ -20467,7 +20375,7 @@ Effect: This bag can contain up to one cypher per artifact level, as long as eac
 
 Depletion: 1 in 1d20 (check each time a cypher is added to the bag)
 
-#### ARMORED CLOTH
+### ARMORED CLOTH
 
 Level: 1d6
 
@@ -20477,7 +20385,7 @@ Effect: This clothing is soft and flexible, as expected, except when it is struc
 
 Depletion: —
 
-#### BELT OF STRENGTH
+### BELT OF STRENGTH
 
 Level: 1d6
 
@@ -20487,7 +20395,7 @@ Effect: The belt enhances the strength and endurance of the wearer. This increas
 
 Depletion: —
 
-#### BOOK OF ALL SPELLS 
+### BOOK OF ALL SPELLS 
 
 Level: 1d6 + 2 
 
@@ -20512,7 +20420,7 @@ The artifact always remembers the last page it was turned to. Opening the book a
 
 Depletion: 1 in 1d100 (Check each time the book is used or the bearer turns a page. The chance of depletion increases by 1 each time it is used [1 in 1d100, 2 in 1d100, 3 in 1d100, and so on]. Instead of depleting, the book might turn to a later page, or disappear and reappear somewhere else in the world.)
 
-#### BOUNDING BOOTS 
+### BOUNDING BOOTS 
 
 Level: 1d6 + 1 
 
@@ -20522,7 +20430,7 @@ Effect: The boots assist the wearer’s every step to make jumping and running e
 
 Depletion: — 
 
-#### CAT’S EYE SPECTACLES 
+### CAT’S EYE SPECTACLES 
 
 Level: 1d6 
 
@@ -20532,7 +20440,7 @@ Effect: Outside, the wearer can see at night as if it were daylight. Inside, the
 
 Depletion: — 
 
-#### CLOAK OF BALAKAR 
+### CLOAK OF BALAKAR 
 
 Level: 1d6 + 3 
 
@@ -20542,7 +20450,7 @@ Effect: The wearer can calm winds of the artifact’s level or lower in a radius
 
 Depletion: 1 in 1d6 (on depletion, cloak disappears and reappears somewhere else in the world) 
 
-#### CLOAK OF ELFKIND 
+### CLOAK OF ELFKIND 
 
 Level: 1d6 + 2 
 
@@ -20552,7 +20460,7 @@ Effect: When activated (by drawing the hood over the wearer’s head), the cloak
 
 Depletion: 1 in 1d100
 
-#### CLOAK OF FINERY 
+### CLOAK OF FINERY 
 
 Level: 1d6 + 1 
 
@@ -20562,7 +20470,7 @@ Effect: This cloak is woven of beautiful fibers and set with dazzling gems. It a
 
 Depletion: 1 in 1d20 
 
-#### COIL OF ENDLESS ROPE 
+### COIL OF ENDLESS ROPE 
 
 Level: 1d6 
 
@@ -20572,7 +20480,7 @@ Effect: The coil of rope can be let out at a rate of 50 feet (15 m) per round; h
 
 Depletion: 1 in 1d20 (check each use that extends it beyond 50 feet) 
 
-#### CROWN OF EYES 
+### CROWN OF EYES 
 
 Level: 1d6 
 
@@ -20582,7 +20490,7 @@ Effect: It takes one round to activate the crown. When activated, the crystal sp
 
 Depletion: 1 in 1d100
 
-#### CROWN OF THE MIND 
+### CROWN OF THE MIND 
 
 Level: 1d6 
 
@@ -20592,7 +20500,7 @@ Effect: The crown augments the mind and thoughts of the wearer. This increases t
 
 Depletion: — 
 
-#### CRYSTAL BALL 
+### CRYSTAL BALL 
 
 Level: 1d6 + 3 
 
@@ -20624,7 +20532,7 @@ Depletion: 1 in 1d20
 
 An unwilling creature’s defenses against magic and Intellect attacks should hinder scrying attempts just as they would against a directly harmful mental spell.
 
-#### DEATH’S SCYTHE 
+### DEATH’S SCYTHE 
 
 Level: 1d6 + 4 
 
@@ -20636,7 +20544,7 @@ Depletion: 1 in 1d20 (check per killing effect; upon depletion, a manifestation 
 
 Death manifestation: level 7
 
-#### DEMONFLESH 
+### DEMONFLESH 
 
 Level: 1d6 + 1 
 
@@ -20648,7 +20556,7 @@ Depletion: 1 in 1d20
 
 To randomly determine what kind of dragontongue weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-#### DEMONIC RUNE BLADE 
+### DEMONIC RUNE BLADE 
 
 Level: 1d6 + 4 
 
@@ -20662,7 +20570,7 @@ If the wielder misses with an attack, the blade sometimes hits an ally of the wi
 
 Depletion: 1 in 1d10 (check each time a killed creature’s life force is absorbed; if depleted, the sword’s magical abilities can be recharged if it kills an “innocent” creature) 
 
-#### DRAGONTONGUE WEAPON 
+### DRAGONTONGUE WEAPON 
 
 Level: 1d6 + 2 
 
@@ -20672,7 +20580,7 @@ Effect: This weapon functions as a normal weapon of its type. If the wielder use
 
 Depletion: 1 in 1d100
 
-#### DRAGONTOOTH SOLDIERS 
+### DRAGONTOOTH SOLDIERS 
 
 Level: 1d6 + 1 
 
@@ -20684,7 +20592,7 @@ Depletion: 1 in 1d10 
 
 Dragontooth warrior: level equal to the artifact level, Speed defense as artifact level + 1 due to shield; Armor 1; spear attack (melee or short range) inflicts damage and impedes movement of victim to immediate range for one round
 
-#### ELFBLADE 
+### ELFBLADE 
 
 Level: 1d6 + 3 
 
@@ -20692,7 +20600,7 @@ Form: Medium sword
 
 Effect: This sword can be used as a normal medium sword that deals 2 additional points of damage (for a total of 6 points). The short sword can cut through any material of its level or lower with ease, owing to its exceptional sharpness. The blade sheds a blue light as bright as a candle to warn when goblins, orcs, trolls, or similar creatures are within 300 feet (90 m). Depletion: — 
 
-#### ENCHANTED ARMOR L
+### ENCHANTED ARMOR L
 
 evel: 1d6 + 3 
 
@@ -20704,7 +20612,7 @@ The additional Armor provided by the magic also applies to damage that often isn
 
 Depletion: —
 
-#### EXPLODING ARROW 
+### EXPLODING ARROW 
 
 Level: 1d6 
 
@@ -20726,7 +20634,7 @@ One advantage of an exploding arrow over a detonation cypher is that the arrow d
 
 An exploding arrow can instead be a crossbow bolt, sling stone, or other thrown weapon or projectile.
 
-#### EXPLORER’S GLOVES 
+### EXPLORER’S GLOVES 
 
 Level: 1d6 
 
@@ -20736,7 +20644,7 @@ Effect: The wearer can cling to or climb any surface for up to one hour. Even le
 
 Depletion: 1 in 1d20
 
-#### FALCON CLOAK
+### FALCON CLOAK
 
 Level: 1d6 
 
@@ -20748,7 +20656,7 @@ Depletion: 1 in 1d100
 
 Most magic items that turn a character into a different creature make it difficult to use any of the character’s special abilities (other than skills) in that form.
 
-#### FLYING CARPET
+### FLYING CARPET
 
 Level: 1d6 + 1
 
@@ -20758,7 +20666,7 @@ Effect: The carpet flies a long distance each round, carrying up to five passeng
 
 Depletion: 1 in 1d20 
 
-#### GHOSTLY ARMOR 
+### GHOSTLY ARMOR 
 
 Level: 1d6 + 3 
 
@@ -20772,7 +20680,7 @@ Depletion: 1 in 1d10 (for the ghostly defense ability, but after depletion, the 
 
 To randomly determine what kind of ghostly armor is found, see Chapter 4: Medieval Fantasy Equipment, page 34. 
 
-#### GLOVES OF AGILITY 
+### GLOVES OF AGILITY 
 
 Level: 1d6 
 
@@ -20782,7 +20690,7 @@ Effect: The gloves enhance the dexterity and reflexes of the wearer. This increa
 
 Depletion: — 
 
-#### GRUELMAKER 
+### GRUELMAKER 
 
 Level: 1d6 
 
@@ -20792,7 +20700,7 @@ Effect: The bowl fills itself to the brim with a bland-tasting tan porridge that
 
 Depletion: 1 in 1d10 
 
-#### GUARDIAN IDOL 
+### GUARDIAN IDOL 
 
 Level: 1d6 + 3 
 
@@ -20801,7 +20709,7 @@ Form: Demonic idol on top of a thin metal leg that is 1 foot (30 cm) tall 
 Effect: It takes two rounds to balance this artifact on its metal leg, and then it requires an action to activate. When activated, the idol stares at the activating character and nearby creatures for five rounds, memorizing their faces and shapes. After that, if anything the idol doesn’t recognize (and is larger than a mouse) comes within long range, it spits a small ball of fire at the target. The fire inflicts damage equal to the artifact level. The idol can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for twenty-four hours or until it has made one hundred attacks, whichever comes first.  
 Depletion: Automatic
 
-#### HAND OF GLORY 
+### HAND OF GLORY 
 
 Level: 1d6 + 3 
 
@@ -20811,7 +20719,7 @@ Effect: A hand of glory has several potential uses, including the following. In 
 
 Depletion: 1 in 1d20 
 
-#### HELM OF WATER BREATHING 
+### HELM OF WATER BREATHING 
 
 Level: 1d6 
 
@@ -20819,7 +20727,7 @@ Form: Green metal helm with a scaly or fishy motif Effect: The wearer’s head i
 
 Depletion: 1–2 in 1d100 (check each day) 
 
-#### HORN OF THUNDER 
+### HORN OF THUNDER 
 
 Level: 1d6 + 4 
 
@@ -20829,7 +20737,7 @@ Effect: This massive instrument can barely be held or carried by a single person
 
 Depletion: 1 in 1d10
 
-#### INSTANT LADDER 
+### INSTANT LADDER 
 
 Level: 1d6 
 
@@ -20841,7 +20749,7 @@ Depletion: 1 in 1d100 
 
 A creature unfamiliar with the buttons on an instant ladder needs to spend several rounds figuring out the proper sequence to expand or collapse it.
 
-#### LIGHTNING HAMMER 
+### LIGHTNING HAMMER 
 
 Level: 1d6 + 2 
 
@@ -20851,7 +20759,7 @@ Effect: This hammer functions as a normal heavy weapon. However, if the wielder 
 
 Depletion: 1 in 1d6 (still usable as a normal heavy weapon after depletion)
 
-#### MASTERCRAFT ARMOR 
+### MASTERCRAFT ARMOR 
 
 Level: 1d6 
 
@@ -20861,7 +20769,7 @@ Effect: This armor grants its wearer an asset for Speed defense rolls. 
 
 Depletion: — 
 
-#### MASTERCRAFT WEAPON 
+### MASTERCRAFT WEAPON 
 
 Level: 1d6 
 
@@ -20873,7 +20781,7 @@ Depletion: — 
 
 Depending on the game world, mastercraft armor and weapons might be magical, mundanely crafted with exceptional quality, or both. To randomly determine what kind of mastercraft armor or weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-#### MINDSHIELD HELMET 
+### MINDSHIELD HELMET 
 
 Level: 1d6 + 2 
 
@@ -20883,7 +20791,7 @@ Effect: The wearer gains 3 Armor that protects against Intellect damage only. Fu
 
 Depletion: — 
 
-#### NECROMANTIC WAND 
+### NECROMANTIC WAND 
 
 Level: 1d6 + 4 
 
@@ -20895,7 +20803,7 @@ This device is a rapid-fire weapon and thus can be used with the Spray or Arc Sp
 
 Depletion: 1 in 1d10
 
-#### PACK OF STORAGE 
+### PACK OF STORAGE 
 
 Level: 1d6 + 1 
 
@@ -20905,7 +20813,7 @@ Effect: This pack’s mouth can be loosened to open as wide as 6 feet (2 m) in d
 
 Depletion: 1 in 1d100 (check each time something is added to the pack; on depletion, all objects are expelled from the pack) 
 
-#### POISONER’S TOUCH 
+### POISONER’S TOUCH 
 
 Level: 1d6 + 1 
 
@@ -20915,7 +20823,7 @@ Effect: When the wearer activates the glove (which might require speaking a comm
 
 Depletion: 1 in 1d10 
 
-#### PROTECTION AMULET 
+### PROTECTION AMULET 
 
 Level: 1d6 
 
@@ -20933,7 +20841,7 @@ Effect: The amulet reduces one type of damage by an amount equal to the artifact
 
 Depletion: 1 in 1d6 (check each time the amulet reduces damage)
 
-#### RING OF FALL FLOURISHING 
+### RING OF FALL FLOURISHING 
 
 Level: 1d6 
 
@@ -20943,7 +20851,7 @@ Effect: The wearer of the ring can fall any distance safely, landing easily and 
 
 Depletion: 1 in 1d100 
 
-#### RING OF INVISIBILITY 
+### RING OF INVISIBILITY 
 
 Level: 1d6 
 
@@ -20953,7 +20861,7 @@ Effect: The wearer of the ring becomes invisible for one minute. While invisible
 
 Depletion: 1 in 1d20 
 
-#### RING OF WISHES 
+### RING OF WISHES 
 
 Level: 1d6 + 4 
 
@@ -20963,7 +20871,7 @@ Effect: The user makes a wish, and it is granted, within limits. The level of th
 
 Depletion: 1–3 in 1d6 
 
-#### SHIELD OF TWO SKIES 
+### SHIELD OF TWO SKIES 
 
 Level: 1d6 + 2 
 
@@ -20973,7 +20881,7 @@ Effect: Upon activation, the amulet creates a faint glow around the wearer that 
 
 Depletion: 1 in 1d100
 
-#### SKILL RING
+### SKILL RING
 
 Level: 1d6 
 
@@ -20983,7 +20891,7 @@ Effect: This ring grants its wearer knowledge of a specific skill, such as climb
 
 Depletion: — 
 
-#### SMOOTH-STEPPING BOOTS 
+### SMOOTH-STEPPING BOOTS 
 
 Level: 1d6 + 1 
 
@@ -20993,7 +20901,7 @@ Effect: When the boots are activated, for the next hour the wearer can move acro
 
 Depletion: 1 in 1d100 
 
-#### SOUL-STEALING KNIFE 
+### SOUL-STEALING KNIFE 
 
 Level: 1d6 
 
@@ -21005,7 +20913,7 @@ As a separate activation, the wielder can ask three questions of a creature whos
 
 Depletion: 1 in 1d20 (check each activation)
 
-#### SOVEREIGN KEY 
+### SOVEREIGN KEY 
 
 Level: 1d6 + 2 
 
@@ -21015,7 +20923,7 @@ Effect: When touched to a lock or the surface of a sealed object (such as a ches
 
 Depletion: 1 in 1d10 
 
-#### SPELLBOOK OF ELEMENTAL SUMMONING 
+### SPELLBOOK OF ELEMENTAL SUMMONING 
 
 Level: 1d6 + 1 
 
@@ -21025,7 +20933,7 @@ Effect: When the user incants from the spellbook and succeeds at a level 3 Intel
 
 Depletion: 1–3 in 1d20
 
-#### STAFF OF BLACK IRON 
+### STAFF OF BLACK IRON 
 
 Level: 1d6 + 2 
 
@@ -21043,7 +20951,7 @@ The staff can have more than one effect ongoing at a time (such as using the shi
 
 Depletion: 1 in 1d100 
 
-#### STAFF OF HEALING
+### STAFF OF HEALING
 
 Level: 1d6 + 4 
 
@@ -21053,7 +20961,7 @@ Effect: The staff emits a short-range beam of silvery light that affects only li
 
 Depletion: 1 in 1d10
 
-#### STAFF OF THE PROPHET 
+### STAFF OF THE PROPHET 
 
 Level: 1d6 + 2 
 
@@ -21068,7 +20976,7 @@ Water From Stone. Produces approximately 10 gallons (38 liters) of pure water wi
 
 Depletion: 1 in 1d20 
 
-#### STORM SHACK 
+### STORM SHACK 
 
 Level: 1d6 + 3 
 
@@ -21078,7 +20986,7 @@ Effect: Activating the artifact transforms it over the next few rounds into a si
 
 Depletion: 1 in 1d100
 
-#### TRAP RUNESTONE 
+### TRAP RUNESTONE 
 
 Level: 1d6 
 
@@ -21090,7 +20998,7 @@ The trigger can react to a specified movement within 3 feet (1 m)—a door openi
 
 Depletion: Automatic 
 
-#### TUNNELING GAUNTLETS 
+### TUNNELING GAUNTLETS 
 
 Level: 1d6 + 1 
 
@@ -21100,7 +21008,7 @@ Effect: When activated, for one hour the gauntlets let the wearer burrow up to a
 
 Depletion: 1 in 1d20
 
-#### VORPAL SWORD 
+### VORPAL SWORD 
 
 Level: 1d6 + 3 
 
@@ -21110,7 +21018,7 @@ Effect: The vorpal sword cuts through any material of a level lower than its own
 
 Depletion: 1–2 in 1d100 (check each decapitation and specific attempt to cut through solid material) 
 
-#### WAND OF SPIDER’S WEBBING 
+### WAND OF SPIDER’S WEBBING 
 
 Level: 1d6 + 1 
 
@@ -21120,7 +21028,7 @@ Effect: This wand produces a long-range stream of grey spider’s webbing that e
 
 Depletion: 1 in 1d20 
 
-#### WHISPERER IN THE ETHER 
+### WHISPERER IN THE ETHER 
 
 Level: 1d6 + 1 
 
@@ -21132,7 +21040,7 @@ The whisperer’s willingness and ability to converse varies considerably. Somet
 
 Depletion: 1 in 1d20 (check each day)
 
-#### WITCH’S BROOM
+### WITCH’S BROOM
 
 Level: 1d6 + 2 
 
@@ -21144,7 +21052,7 @@ The bearer can call upon the broom to grant them a powerful hallucinogenic state
 
 Depletion: 1 in 1d20
 
-#### ANGELIC WARD
+### ANGELIC WARD
 
 Level: 1d6 + 2
 
@@ -21154,7 +21062,7 @@ Effect: Once activated, the figurine’s spirit emerges and becomes semisolid as
 
 Depletion: 1 in 1d10
 
-#### RING OF DRAGON’S FLIGHT
+### RING OF DRAGON’S FLIGHT
 
 Level: 1d6 + 2
 
@@ -21164,7 +21072,7 @@ Effect: When the wearer activates the ring, dragon wings unfurl from their back,
 
 Depletion: 1 in 1d10
 
-#### SOULFLAYING WEAPON
+### SOULFLAYING WEAPON
 
 Level: 1d6 + 1
 
@@ -21174,7 +21082,7 @@ Effect: This weapon functions as a normal weapon of its kind. The wielder can us
 
 Depletion: 1 in 1d100
 
-#### SPELLBOOK OF THE AMBER MAGE
+### SPELLBOOK OF THE AMBER MAGE
 
 Level: 1d6
 
@@ -21184,7 +21092,7 @@ Effect: When the user incants from the spellbook and succeeds at a level 3 Intel
 
 Depletion: 1 in 1d20
 
-#### WAND OF FIREBOLTS
+### WAND OF FIREBOLTS
 
 Level: 1d6 + 2
 
@@ -21194,7 +21102,7 @@ Effect: When activated, the wand looses a blast of fire at a chosen target withi
 
 Depletion: 1 in 1d20
 
-## Equipment
+## Fantasy Equipment
 
 |Category|GP Value|
 |Inexpensive|Less than 1 gp|
@@ -21769,7 +21677,10 @@ The modern setting is easy because it’s just the real world, right? Well, yes 
 But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.
 
 ## Characters
-### MOLDING CHARACTERS FOR A MODERN GAME
+
+### Types
+
+**MOLDING CHARACTERS FOR A MODERN GAME**
 If you’re trying to portray a psychic with a few basic powers, you might not want to use the Adept character type. Instead, choose a different type (perhaps a Speaker) and encourage foci such as Commands Mental Powers or Focuses Mind Over Matter. Some of the Adept’s powers might be too over the top for the genre.
 
 Similarly, the technology flavor is probably too high-tech for a modern game. For someone with technical skills, use the skills and knowledge flavor instead.
@@ -21778,7 +21689,7 @@ Sometimes, the types might be more physical than is always desirable for a moder
 
 Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading for “normal” characters who have useful skills but not much in the way of flashy abilities.
 
-### Suggested Types for a MODERN Game
+**Suggested Types for a MODERN Game**
 
 |   |   |
 |---|---|
@@ -21798,479 +21709,6 @@ Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading f
 |Spy|Speaker with stealth flavor|
 |Occultist|Adept|
 |Mystic/Psychic|Adept|
-
-## Extra Rules
-### OPTIONAL RULE: HANDLING PCs AS CHILDREN
-The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.
-
-AGE 9 TO 13
-- Slight: –4 to your Might Pool.
-- Vulnerable: Adults look out for you. You are trained in all pleasant social interactions with adults.
-- Inability: Might-based tasks are hindered.
-- Inability: Tasks involving knowledge are hindered.
-
-AGE 14 TO 17
-- Youthful: –2 to your Might Pool.
-- Inability: Tasks involving knowledge are hindered.
-
-### Modern Fantasy Rules
-#### CRAFTING MAGIC ITEMS
-Potions, scrolls, and other one-use items are cyphers, and longer-lasting items are generally artifacts.
-
-##### CRAFTING CYPHERS 
-1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher they’re trying to create, which must be in the level range for the cypher as listed in the Cypher System Reference Document. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range, and should always be treated as a level 6 cypher when crafted by a PC. 
-2. Determine Materials. Just as crafting an axe requires iron and wood, crafting a magical cypher requires strange and exotic materials—powdered gems, ink from monsters, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
-
-|   |   |
-|---|---|
-|Cypher Level|Materials Cost|
-|1|One inexpensive item|
-|2|Two inexpensive items|
-|3|One moderate item|
-|4|Two moderate items|
-|5|Three moderate items|
-|6|One expensive item|
-|7|Two expensive items|
-|8|Three expensive items|
-|9|One very expensive item|
-|10|Two very expensive items|
-
-3. Assess Difficulty. The difficulty of a magic item crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of a crafting task with skill training (such as being trained or specialized in brewing potions or scribing scrolls), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose. Because this is an activity requiring special knowledge, it is not possible for a character with no skill (or with an inability in this skill) to do this sort of crafting; the character cannot attempt the task at all. 
-4. Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing the assessed difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. See the table below. 
-   For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking on it occasionally to make sure everything is going as planned— allowing the base ingredients of a potion to cook for a few hours, stirring to make sure the ingredients don’t congeal, allowing ink on a scroll to dry, and so on. In other words, the character is able to perform other actions in the vicinity of the crafting (such as studying, resting, eating, and so on), but couldn’t craft on the road or in the middle of a dungeon.
-
-|   |   |
-|---|---|
-|Assessed Difficulty|Time to Craft|
-|1|Ten minutes|
-|2|One hour|
-|3|Four hours|
-|4|Nine hours|
-|5|One day|
-|6|Two days|
-|7|One week|
-|8|Three weeks|
-|9|Two months|
-|10|Six months|
-
-5. Complete Subtasks. The crafting character must complete multiple subtasks that are steps toward finishing the process. The number of subtasks required is equal to the assessed difficulty of the crafting task attempted. So a crafting task assessed as difficulty 5 requires five subtask successes. 
-   
-   The difficulty of each individual subtask begins at 1 and increases by one step for each remaining subtask, until the crafter succeeds on the final, highest-difficulty subtask. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to craft the item. 
-   
-   If at any point the crafter fails on a subtask, the item isn’t ruined. Instead, the character only wasted the time spent on that subtask, and can spend that much time again and then try to succeed at that same subtask. If the crafter fails twice in a row on the same subtask, the character can continue crafting, but in addition to losing another interval of crafting time, more crafting material (equal to one of the kind of item needed to craft it) is destroyed in a mishap and must be replaced before crafting can continue.
-   
-   A player may ask to apply Effort to each subtask. Applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day
-
-##### CRAFTING ARTIFACTS
-Crafting an artifact is similar to choosing a new type or focus ability—the character has many to choose from, they select the one that best fits their intention, and thereafter they can use the artifact much like they’d use any of their other character abilities. The main difference is that most artifacts don’t cost Pool points to activate, and character abilities don’t have a depletion stat that eventually removes the item from play. Crafting artifacts is handled as a long-term benefit of character advancement; the character and GM agree on the artifact to be crafted, and the character spends 3 XP. If the item is fairly simple, the GM can skip the crafting details and just say that after a period of time, the PC creates the artifact. For an item that significantly alters gameplay—granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the crafting steps for creating a magical cypher. Crafting this kind of artifact takes up to five times as many materials and up to twenty times as long as crafting a cypher of the same assessed difficulty
-
-#### RITUAL MAGIC
-
-##### TIME
-
-Ritual magic has two aspects related to time: how long it takes to prepare the ritual, and how long it takes to perform it. The preparation time is how long it takes to get ready to perform the ritual. The performance time is how long the ritual takes from start to finish, once the preparations (if any) are complete. 
-
-##### DIFFICULTY AND SUBTASKS
-
-Completing a ritual has an overall difficulty level, usually equal to the level of the challenge. Sometimes there isn’t a clear idea of what level the challenge should be— teleporting a group of people to a nearby city and raising a person from the dead don’t have an obvious task level. In these cases, the GM should choose a level for the ritual based on what would make an interesting experience for the players. Instead of having the success or failure of this sort of magic come down to one roll, ritual magic lets the GM build tension by requiring the players to make rolls for multiple subtasks. The subtasks start at difficulty 1, and the subtask difficulty increases by 1 each time until the players make a final roll at the highest difficulty. A ritual with an overall difficulty of 4 has four subtasks, with the first one at difficulty 1, the second at difficulty 2, the third at 3, and the last one at 4. 
-
-If at any point the PC fails a subtask, the ritual isn’t automatically ruined, but it costs time—a failure means the time spent on that subtask was wasted, but the character can spend that much time again and try to succeed at that same subtask. The GM may decide that later attempts at that subtask are hindered, or that a certain number of failures during the ritual (perhaps equal to half the ritual’s overall level) means the whole thing needs to be started again. Skills, assets, and other special abilities can ease subtasks just like they do with any other task (which might make some of the subtasks routine and not require a roll at all). Characters may apply Effort to each subtask. 
-
-##### POOL INVESTMENT
-
-Some rituals might require the PCs to spend points from their Pools on each subtask, with Might representing blood or vitality, Speed representing energy, and Intellect representing will or sanity. Multiple PCs involved in the ritual could collectively contribute to this cost (and if a ritual costs many points, spreading out the cost in this way may be necessary to prevent a participating PC from dying during the ritual). 
-
-##### ACCELERATED PERFORMANCE
-
-The GM may allow a character to speed up a ritual, reducing the time required for one or more subtasks. Generally, reducing a subtask’s time by half should hinder the subtask, and reducing it by half again (reducing the time needed to a quarter of the normal amount) should hinder the subtask by an additional step (two steps total). The minimum amount of time for a subtask is 1 round (unless the subtask is routine, in which case the GM may allow it to take no time at all).
-
-##### EXAMPLE RITUALS 
-
-The following are examples of common magical rituals suitable for many fantasy settings. Specific details of a ritual may vary depending on what the characters are trying to accomplish; for example, a ritual to ask a demon for a favor might be similar to one used to ask an angel, but the exact details are probably very different. Everything listed in a ritual is merely a suggestion, and the GM should alter, add, or remove whatever they like to suit their campaign.
-
-UNDERSTANDING THE EXAMPLES
-
-Each ritual is described in the following format. 
-
-Level: The overall level of the ritual, which determines how many subtasks it has.
-
-Time: The preparation time (if any) and performance time. 
-
-Roles: Things other characters can do to participate and help. 
-
-Side Effects: Negative consequences for failed rolls or GM intrusions.  
-Reagents: Resources that can help success. 
-
-Pool: What kind of Pool points the ritual costs. 
-
-Other Assets: Kinds of abilities that can help success.
-
-###### BESEECH
-
-Call upon a powerful supernatural entity such as a deity, archangel, demon lord, or ancient elemental to ask for a favor that the entity can and is likely to do (nothing it would ethically oppose). If the ritual is successful, the entity makes its attention known, such as by manifesting as a light, noise, or visible spirit. It may ask for more information, for a task or favor in return, or for a service to be named later. The entity is not compelled to do the favor; the ritual merely gains its attention and gives the characters the opportunity to speak their case. 
-
-Level: The level of the entity 
-
-Time: Four hours of preparation, one hour of performance 
-
-Roles: Chanting, lighting candles, holding gifts/reagents 
-
-Side Effects: Curse, hallucination, prerequisite quest (a challenge or task the characters must perform before the entity will consider answering) 
-
-Reagents: Scroll giving the history of and important details about the entity, offerings of gratitude or appeasement 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities
-
-Beseech only draws the entity’s attention; the various Conjure rituals bring the summoned entity bodily to the ritual space to talk in person.
-
-###### CONJURE THE DEAD
-
-Summons the spirit of a dead person or creature (commonly called a “ghost”), which appears in the summoning circle prepared for the ritual. The spirit remains there for about a minute, during which time the summoners can interrogate them or persuade them to share information. The spirit usually wants something in return (such as messages conveyed to the living or unfulfilled tasks completed). If the characters don’t comply, they must magically threaten or compel the spirit to obey. 
-
-Level: The level of the dead spirit 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Chanting, holding hands in a circle, manipulating a spirit device 
-
-Side Effects: Haunting, possession 
-
-Reagents: Mementos of the spirit’s life, the spirit’s former physical remains, a person or creature to possess 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, religious or cultural connections, secret name of the spirit 
-
-A ghost remembers much of its life, including whether it knows, likes, or hates the people summoning it, and will act accordingly.
-
-###### CONJURE DEMON 
-
-Summons a demon (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The demon is primitive and bestial, not a creature of great wits and charm. The demon remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—spying, murder, and destruction of property are common tasks. Usually the demon has to be threatened or magically coerced into obeying. If the summoners fail to get it to comply, it makes one attack against them and then returns to wherever it came from (and probably bears a grudge for the unwanted summoning). 
-
-Level: The level of the demon 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Aggression, bad smell, curse, equipment damage or theft, possession 
-
-Reagents: Blood; meat; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing anger, destruction, or hatred (according to the desired service) 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, secret name of the demon
-
-###### CONJURE DEVIL 
-
-Summons a devil (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The devil remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires the devil to travel no more than about 50 miles (80 km)—spying, stealing, guarding, and murdering are common tasks. The devil usually wants something in return (even if just an agreement for a later favor); otherwise, the characters must threaten it or have some way to force it to obey. If the characters fail to strike a bargain, the devil returns to wherever it came from (and probably is annoyed at the interruption).
-
-Level: The level of the devil 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Bad smell, curse, infernal mark, possession
-
-Reagents: Blood; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing betrayal, deception, or greed (according to the desired service) 
-
-Pool: Might or Intellect 
-
-Other Assets: Knowledge or control of similar entities, secret name of the devil 
-
-###### CONJURE ELEMENTAL 
-
-Summons a primordial elemental spirit of air, earth, fire, or water, which appears in a physical form. The elemental remains for about a minute, during which time the characters must attempt to bribe, threaten, or bargain with it. An elemental is usually summoned to do something that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—attack, guard, and scout are common tasks. The elemental typically wants something in return for its service, usually a gift or bribe appropriate to its nature—incense for air, gems for earth, oil for fire, salts for water, and so on. If the summoners can’t come to an agreement with the elemental, it might make one attack before it leaves. 
-
-Level: The level of the elemental 
-
-Time: Three hours of preparation, one hour of performance 
-
-Roles: Chanting, music, using ceremonial objects, holding gifts/reagents, tracing the summoning circle 
-
-Side Effects: Damage, weakness toward one kind of attack 
-
-Reagents: Gifts (black powder, gems, ice, incense, oil, salt, soil, water, wood), destroying opposing items or creatures 
-
-Pool: Might, Speed, or Intellect, depending on the kind of elemental 
-
-Other Assets: Elemental power, knowledge or control of similar entities, nature magic, secret name of the elemental
-
-Elementals are simple creatures whose interests and attentions are focused on themselves and their element. Flattery and playing up their strengths are the key to bargaining with them.
-
-###### CONSECRATION 
-
-Wards a location against evil influences and unwanted magic for a year and a day. The ritual affects an area up to a very long distance across. Evil creatures and magical effects of less than the ritual’s level can’t enter the area or use abilities against it. If the PCs are warded out of the designated area, they must make an Intellect defense roll to enter it (and another each minute while within the area, or retreat) and all their actions inside or targeted within the area are hindered by two steps. 
-
-Level: The level of the effects to protect against 
-
-Time: One hour of preparation, two hours of performance 
-
-Roles: Drawing lines and symbols along the border, chanting, calling out local features (with candles, runestones, or other suitable markers) 
-
-Side Effects: Lights, sounds, weak spots or “back doors” in the barrier 
-
-Reagents: Silver dust, sacred oil, buried blessed gemstones 
-
-Pool: Intellect 
-
-Other Assets: Warding magic, religious knowledge 
-
-###### ENCHANT WEAPON 
-
-Enchants a light, medium, or heavy weapon with magical power, granting an asset on attack rolls with the weapon for the next day. 
-
-Level: 3 or 4 
-
-Time: Thirty minutes of preparation, one hour of performance 
-
-Roles: — 
-
-Side Effects: Weapon attack hindered, higher GM intrusion rate
-
-Reagents: Rare oils, gem dust 
-
-Pool: Speed or Intellect 
-
-Other Assets: Battle tactics, weapon crafting
-
-In a high-magic campaign, a higher-level version of the Enchant Weapon ritual might grant a second asset on attack rolls, grant extra damage, affect multiple weapons at once, or all of the above.
-
-###### ENTOMBMENT 
-
-Imprisons a creature in a vessel (usually a valuable box, clay pot, or other closeable container, but it might be a gem, the heart of a tree, or another atypical object) for as long as the vessel remains closed and undamaged. The ritual forces the creature into the vessel, either in a spiritual form or by shrinking it to a size that will fit within the vessel. 
-
-Level: The level of the creature 
-
-Time: Sixteen hours of preparation, one hour of performance 
-
-Roles: Chanting, carrying or protecting the vessel 
-
-Side Effects: Bystander imprisoned with the target, containment has a flaw, target lashes out 
-
-Reagents: Vessel, symbolic bindings (chains, ropes, shackles, and so on), anathema objects 
-
-Pool: Intellect 
-
-Other Assets: Control magic, grappling, imprisoning magic, wards
-
-###### EXORCISM 
-
-Drives out unwanted spirits (ghosts, demons, or something else) from an area up to a long distance across. Once cast out, the spirits cannot return for a year and a day (although most of them decide to move on long before that time comes). Completing the ritual doesn’t prevent other spirits from entering or inhabiting the area, but it is likely that they can sense that an exorcism happened there, and most choose to avoid such an area so they don’t suffer the same fate. The ritual can also be used to cast out spirits from a possessed creature, preventing those spirits from returning for a year and a day. As with using the ritual to cleanse a location, this doesn’t prevent other spirits from afflicting the creature, but later spirits can sense the recent exorcism and prefer to avoid that creature.
-
-Level: The level of the most powerful hostile presence to be exorcised 
-
-Time: Two hours of preparation, two hours of performance 
-
-Roles: Chanting, positive emotions, presenting holy objects, restraining afflicted individuals, tracing the area with incense 
-
-Side Effects: Lights, sounds, hideous physical transformations, injuries, telekinesis 
-
-Reagents: Bindings, candles, holy water, religious icons and books, scapegoats 
-
-Pool: Intellect 
-
-Other Assets: Warding magic, religious knowledge 
-
-Using an exorcism ritual on an area is mainly for getting rid of spirits afflicting the area in ways other than possessing a creature— throwing objects, causing nightmares, making noises, and so on.
-
-###### FLESH FOR KNOWLEDGE 
-
-Sacrifices some of the ritualist’s flesh, inflicting Might and Speed damage equal to the level of the ritual and permanently reducing the character’s Pools by 4 points (the character can divide this loss between Might and Speed as they see fit). The character experiences painful hallucinations that give them insight and understanding. They immediately learn one type or focus ability available to them (any ability they could learn by spending 4 XP as an advancement). 
-
-Level: Twice the tier of the ability the character wishes to learn 
-
-Time: One hour of preparation, one hour of performance 
-
-Roles: Chanting, restraining the subject of the ritual 
-
-Side Effects: Lasting damage, permanent damage, scarring 
-
-Reagents: Silver knife, silver vessel 
-
-Pool: See above 
-
-Other Assets: Pain tolerance, surgery 
-
-Instead of permanently reducing a character’s Pools by 4 points, the GM could allow other permanent penalties such as reducing an Edge stat by 1 (to a minimum of 0), gaining an inability in a useful skill, or permanently reducing all points gained through recovery rolls by 2.
-
-###### PURIFICATION 
-
-Rids a creature of an ongoing affliction, such as a disease or poison, or any unwanted magical effect, such as a curse or charm spell. In some versions of this ritual, whatever is ailing the creature gets forced into a nearby specified creature or object, which is then discarded or safely destroyed.
-
-Level: The level of the affliction or effect to remove 
-
-Time: One hour of preparation, two hours of performance 
-
-Roles: Applying reagents, chanting 
-
-Side Effects: Affliction or effect spreads to another creature, target moves a step down the damage track 
-
-Reagents: Anointing oils, healing herbs, objects repellent to the source of the affliction, magical paint for writing on the target, scapegoat, silver dust 
-
-Pool: Might 
-
-Other Assets: Healing magic, resistance to the target’s affliction
-
-###### RESURRECTION 
-
-Restores a dead being to life. The creature is restored to full health and is ready to act as soon as the ritual is completed. Depending on how they died and the nature of death in the setting, the creature may or may not remember anything that happened after they died. 
-
-Level: The level of the deceased (at least tier 6 if a PC) 
-
-Time: Five hours of preparation, two hours of performance 
-
-Roles: Applying reagents, chanting, prayers, shielding the corpse from hostile entities 
-
-Side Effects: Creature moves a step down the damage track, enmity of a death god, lasting damage, scarring, sympathetic damage 
-
-Reagents: Deceased’s corpse, healing ointment, items of emotional significance (such as devotion, hope, or regret), items of importance to the deceased, parchment extolling the deceased’s history and deeds, soul-sympathetic items 
-
-Pool: Might or Intellect 
-
-Other Assets: Close relationship with the deceased (such as a connection or family relation), healing magic, necromancy, spirit knowledge, secret name of the deceased
-
-A lesser version of the Resurrection ritual might bring the creature back to life, but only to the debilitated or impaired state on the damage track instead of hale, requiring further rest or healing. 
-
-###### SACRIFICIAL RITE 
-
-A creature is ritually killed and its soul is placed in an object. The soul object might be a temporary destination so the soul can be transported and used elsewhere (such as an offering to a demon or as part of a spell), or it might be the final destination for the soul (such as placing it in a sword to create a magic item). 
-
-Level: The level of the creature (at least tier 6 if a PC) 
-
-Time: One hour of preparation, one hour of performance Roles: Chanting, playing instruments, bearing the soul object, restraining the creature, slaying the creature 
-
-Side Effects: Creature rages or escapes, damage, dying curse, haunting 
-
-Reagents: Bindings, creature to be sacrificed, drum, flute, silver knife, soul object (its level must be at least as high as the creature’s level) 
-
-Pool: Might or Intellect 
-
-Other Assets: Death spells, instant-kill abilities, soul manipulation
-
-#### MAGICAL TECHNOLOGY
-
-To craft items of magical technology in a setting where they are commonplace, use the standard rules for crafting regular (nonmagical) items.
-
-##### MAGIC PLUS TECHNOLOGY
-
-Whatever technology exists in the setting could be magically enhanced if magic is also present. Such items would almost certainly be manifest cyphers or artifacts. Here’s an example cypher:
-
-FROZEN TIMEPIECE
-
-Level: 1d6 + 2
-
-Effect: Creates or transforms into a pocket watch that seems to be made of ice. Upon activation of the cypher, the user can take normal actions, but everything and everyone around them is frozen in time. The user cannot affect anything else, but they can move through the world and take actions that affect themselves or their own belongings (bandage a wound, repair a broken item, and so on). The effect lasts for one round per cypher level.
-
-And here’s an example artifact:
-
-TRUTH BINOCULARS
-
-Level: 1d6 + 2
-
-Form: Pair of binoculars with a large runic symbol on them
-
-Effect: Not only do these make it easy to see things far away, but looking through them also allows the viewer to see through illusions and see things that are normally invisible, assuming the effect has a level lower than that of the binoculars.
-
-Depletion: 1–2 in 1d100 (check each use)
-
-To craft items that are both technological and magical, either you need to make the device first and then enchant it, or you need to enchant it as it is made. Either way, the skills for making the device and for making it magical are likely very different.
-
-##### TECHNOLOGY THAT INTERACTS WITH MAGIC
-
-In a world with scientists and engineers faced with the presence of real magic, some of them would develop ways to interact and cope with it. Technological devices that are not magical but deal with magic could include:
-
-Magic detector (expensive): This simple white badge glows purple in the presence of magic. Once it detects something magical, it does not function again. 
-
-Mystical hazard suit (very expensive): This full-body protective suit is cumbersome and clumsy, not unlike a hazmat suit. However, all of the wearer’s tasks to resist magical effects are eased. If the wearer takes even 1 point of physical damage, the suit rips and no longer functions until it is repaired and resealed. 
-
-Spellscrambler (very expensive): Essentially a sonic grenade, this device produces a variety of strange electromagnetic signals—some audible and very loud, some not—on a number of frequencies. The mental processes needed to cast a spell are impossible to achieve for one round within a short distance of the device. Like any grenade, it can be used only once.
-
-##### MAGIC THAT INTERACTS WITH TECHNOLOGY
-
-In a world where magic and technology coexist, wizards will have spells and effects that protect them from shotgun blasts as well as sword blades, and radiation as well as fire or frost. Consider, for example, these effects as cyphers:
-
-FINDING PRYING EYES 
-
-Level: 1d6 + 3 
-
-Effect: Magically discovers if anything is watching or listening to the user right at that moment, and reveals the source. Electronic surveillance devices, long-range scopes, hidden cameras, and magical scrying attempts all trigger this effect. In all these cases, the “source” is the nearest representation. So a hidden microphone is revealed, but not the location of the listener. 
-
-POWER DEVICE 
-
-Level: 1d6 + 2 
-
-Effect: Magically powers one device that can fit within an area a short distance across. The device is now fully powered, charged, or fueled. If the cypher is used on an automobile, for example, the gas tank is full. If used on a flashlight, the battery is fully charged. 
-
-SCREEN CONTROL 
-
-Level: 1d6 + 2 
-
-Effect: A technological screen (a television, computer monitor, smartphone, or the like) within short range shows whatever the user wishes for up to one minute per cypher level. The display can be pictures, text, or meaningless shapes and colors.
-
-Because magic works on intuitive rather than scientific levels, mages could have spells that disrupt technology, even though the technology involved might not have any common principles
-
-#### MIND CONTROL
-
-From a rules perspective, mind control is fairly straightforward: one creature decides what actions another creature takes (perhaps limited in that the controlled creature won’t take actions that harm them or go against their nature, such as attacking friends). But what’s happening inside the controlled creature’s head—whether during the effect or afterward—often isn’t specified. There are several options for the GM to consider, either for all kinds of mind-control magic or on a case-by-case basis. 
-
-Confusion: The controlled creature doesn’t understand why they’re doing things they normally wouldn’t do, but they aren’t aware of any outside influence on their thoughts and actions. Once the control is over, the creature may admit that they don’t know why they did those things, or come up with an explanation justifying (to themselves and others) their reasons for those actions. 
-
-Dream: The controlled creature is aware of what’s going on but perceives it in a dreamlike state. They may believe that they’re in control of themselves the entire time, or somewhat aware that they’re not fully in control (similar to being intoxicated by drugs or alcohol or disoriented by an illness). Afterward, the creature might feel strange about the events but may not realize that someone else was controlling them. 
-
-Trapped: The active thoughts in the controlled creature’s head come from the controller, but the creature still has a small voice or awareness in the background, like they’re a prisoner in their own mind. This horrible situation usually means the controlled creature reverts to normal once the control is gone, and is probably very upset that their mind and body autonomy were violated.
-
-One way to present mind control more safely is to disallow certain actions but otherwise leave the character in control. For example, being charmed by a vampire might mean the PC can’t attack the vampire (or its allies) or run away, but is still able to call for help, heal themselves, leave at a normal pace, and take other actions. Alternatively, the character can be given a specific command, and until they comply with that command their other actions are hindered by one or more steps. If the player is willing to engage with the parameters of the mind control, the GM may award them an additional 1 XP (or, to approach it from the opposite direction, the GM can offer them a GM intrusion that the mind control is happening, and allow the player to spend 1 XP to refuse it, or go into XP debt if they want to refuse it but have no XP to spend).
-
-A rule for any game: don’t use mind control (or anything) to make a character have sex without the player’s permission. For more information and guidelines about consent in RPGs, read the free Consent in Gaming PDF at myMCG.info/consent
-
-#### MYSTICAL MARTIAL ARTS
-
-If the setting calls for wuxia-style fantasy martial arts or similar types of action, you can make a few rule changes to portray the kinds of things characters in such stories can accomplish.
-
-Running and climbing speeds and jumping distances are doubled. For those trained in running, climbing, or jumping, the speeds and distances are tripled instead of doubled. For those specialized, they are quintupled. For all intents and purposes, this means that everyone can run up a wall or jump very high in the air, and masters can practically fly or run across water.
-
-Everyone knows kung fu. Unless a person is a simple farmer, herder, or merchant, they know how to fight with elaborate and powerful martial arts styles. This doesn’t change anything in the game mechanically—no one gets the ability to use weapons that they wouldn’t normally have under the rules. But it does change the flavor, suggesting that no PC is entirely ignorant of weapons or close combat. 
-
-Players are encouraged to come up with interesting names for their martial arts abilities. Instead of using a Bash attack, perhaps it is “The Three-Flower Fist,” and instead of Fury, a character uses “The Rage of the Sevenfold.” It is reasonable for high-tier martial abilities such as Amazing Effort, Jump Attack, or Finishing Blow to be described with a magical flare— blazing auras of fire, brilliant cascades of light, ethereal figures overlaying the character, and so on. 
-
-Materials and objects are easier to destroy. For the purpose of attacking objects, subtract 2 from the level of any material (minimum of 0). It should be relatively simple for any character to smash through a plain wooden door with little effort, and true warriors can shatter stones with their blows. 
-
-Wounds heal faster. Everyone gains +1 to all recovery rolls. 
-
-Superhuman abilities exist. Consider adopting some of the superhero rules from the Cypher System Reference Document, in particular the power shift optional rules. These may derive from almost supernatural levels of training in various techniques (such as dianxue) but probably mostly from neili.
-
-Dianxue: The touch of death—killing by using precise nonlethal force on key points of the body. Neili: Internal force— building up and cultivating the energy known as qi and using it for supernatural effects.
-
-#### POSSESSION
-
-Some creatures (demons, ghosts, entities of living mental energy, and so on) have the ability to possess a living person, taking over a character’s body as if it were the creature’s own. The creature must touch the character to attempt possession (even if the creature’s touch normally inflicts damage, the possession attempt doesn’t inflict damage). The character must make an Intellect defense roll or become possessed, whereupon the creature’s immaterial form disappears into the character.
-
-The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing creature can try to control the actions of the host, but the character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. When the creature isn’t trying to control the host, the character can act as they choose. Usually, a possessing creature’s actions are limited to controlling its host and leaving the host (the creature’s own abilities are unavailable to it while in someone else’s body).
-
-While it possesses a character, the creature is immune to most direct attacks (though not so the host; killing the host will eject the creature). For example, hitting a demon-possessed human with a sword hurts only the human, not the demon controlling them. Mental attacks and special abilities that only affect possession or the type of possessing creature usually work normally
-
-A possessed character is allowed an Intellect defense roll to eject the creature once per day. The defense roll is hindered by one additional step each day of possession after the first seven days. An ejected, cast-out, or exorcised demon is powerless for one or more days. One way to exorcise a demon is to command it out in the name of an entity that has power over the demon. This can be attempted once per day and grants the possessed character an additional Intellect defense roll to eject the demon.
-
-Possession is like mind control in that it takes away a player’s ability to control their character, and that can make some players very uncomfortable. See the section on mind control and consent for more information (page 67).
-
-#### SECRET AND TRUE NAMES
-
-Learning a creature’s true name comes with a subtle and instinctive awareness and understanding of that creature, including its strengths and weaknesses. In general, this eases all tasks related to that creature (including attacks, defenses, and interactions) by two steps. In some cases, confronting a creature with knowledge of its true name might be enough to convince it to perform a service without compensation. A creature doesn’t automatically know if someone has learned its true name (although there is magic that can reveal this knowledge), but they can usually figure out that an informed opponent has some kind of advantage against them and deduce that their secret name is involved. 
-
-Learning a true name is difficult and takes time. A character wanting to discover a creature’s true name might choose the Uncover a Secret character arc to do so.
-
-#### WISHES
-
-Unless the GM’s intention is to make the players regret that their characters were offered a wish, it’s best to give them what they ask for, as much as it is within the power of the creature to do so. If the GM wants to twist the wish, do so as a GM intrusion— that way, the character still gets a reward, and they can either accept the twisted wish (which isn’t as good as they had hoped) or pay 1 XP to reject the intrusion (which represents them coming up with airtight wording that can’t be twisted).
-
-Second, consider the level of the creature granting the wish—that’s basically the level of the wish, as the creature shouldn’t be able to grant a boon more powerful than itself. Therefore, it’s reasonable that a level 6 creature could create a level 6 effect. The GM could look at the creature’s other abilities (or abilities of other creatures of its level), decide if what the PC is asking for is within its power, and either grant the requested wish or adjust the result downward until it’s appropriate for the creature’s power. 
-
-Wishing for more wishes doesn’t work because a creature shouldn’t be able to create something more powerful than itself—at least not without some investment of time and other resources, like a character using XP to acquire an artifact.
-
 ### Equipment
 In a modern setting, the following items (and anything else appropriate to the real world) are usually available.
 
@@ -22380,6 +21818,20 @@ EXORBITANT ITEMS
 |Large boat|Level 5|
 |Luxury car|Level 5|
 |Sports car|Level 6|
+
+## Extra Rules
+### OPTIONAL RULE: HANDLING PCs AS CHILDREN
+The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.
+
+AGE 9 TO 13
+- Slight: –4 to your Might Pool.
+- Vulnerable: Adults look out for you. You are trained in all pleasant social interactions with adults.
+- Inability: Might-based tasks are hindered.
+- Inability: Tasks involving knowledge are hindered.
+
+AGE 14 TO 17
+- Youthful: –2 to your Might Pool.
+- Inability: Tasks involving knowledge are hindered.
 
 ### Creatures
 #### Basic CREATURES AND NPCs FOR A Modern GAME
@@ -45792,7 +45244,73 @@ A soul familiar with an animal form looks like a normal animal—there’s nothi
 Statue Stasis (3 Intellect points): You transform into a lifelike bronze or stone statue of yourself for a specific period of time (one minute, one hour, ten hours, or twenty-four hours). When in statue form, you are in stasis; you don’t age, can take no actions (other than making recovery rolls while you “sleep”), and gain +10 to Armor against all forms of damage, including damage not normally affected by Armor. If you take enough damage to get through your armor, the stasis effect immediately ends. Action.
 
 ## Extra rules
+
+### EXCEEDING CYPHER LIMITS
+
+Sometimes characters might want or need to carry more than their normal allotment of cyphers, and in a modern fantasy game it’s fun to let the overlapping cypher auras (or whatever the cause) create odd side effects. Typically, a side effect stops or reverts if the cypher is activated or leaves the area. If a PC is exceeding their cypher limit, roll 1d00 and consult this table to see what happens (roll anywhere from once per hour to once per day, as fits the story). The table is set up so the first entries are weird but generally harmless, the middle ones are annoying, and the last ones are harmful or dangerous. Optionally, you can increase the threat by adding +20 to the d00 roll for every additional cypher the character is over their limit (+20 for two over, +40 for three over, and so on).
+
+Side Effects of Exceeding Cypher Limits
+ 
+| D00   | Effect                                                                                                                                                                      |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-02 | Hair of everyone in immediate range stands straight out                                                                                                                     |
+| 03-04 | Ugly faces manifest on surfaces in the area                                                                                                                                 |
+| 05-06 | Character’s skin color changes to something unusual (blue, orange purple)                                                                                                   |
+| 07-08 | Character’s footprints are glowing red arrows                                                                                                                               |
+| 09-10 | Flowers in short range wilt and dissolve into stinky goo                                                                                                                    |
+| 11-12 | Character’s skin grows fishlike eyes, which dry and fall off like scabs                                                                                                     |
+| 13-14 | Internet speeds within short range slow to a crawl                                                                                                                          |
+| 15-16 | Character develops prominent skin rash resembling corporate logos                                                                                                           |
+| 17-18 | Character says the word “sexy” in place of any adjective                                                                                                                    |
+| 19-20 | Dogs bark angrily at the character                                                                                                                                          |
+| 21-22 | Character sheds fingernails, quickly replaced by circuit boards                                                                                                             |
+| 23-24 | Character keeps seeing UFOs                                                                                                                                                 |
+| 25-26 | Cypher randomizes names and icons of nearby apps                                                                                                                            |
+| 27-28 | Character takes on the outward appearance of a different intelligent species (chimera, nix, and so on) each hour                                                            |
+| 29-30 | Cypher becomes overcharged (acts<br><br>as +1 level) and erratic (tasks to use<br><br>it are hindered)                                                                      |
+| 31-32 | Character’s hand sometimes turns<br><br>into a battered plastic duplicate and<br><br>falls off, with a new hand growing to<br><br>replace it within seconds                 |
+| 33-34 | Character compelled to dig through<br><br>nearby trash cans in search of<br><br>discarded batteries                                                                         |
+| 35-36 | Character’s head surrounded by<br><br>floating illusions of rude gestures<br><br>and inappropriate words                                                                    |
+| 37-38 | Character’s vision distorted so all<br><br>writing appears undecipherably<br><br>blurred                                                                                    |
+| 39-40 | Birds creepily follow the character<br><br>and sometimes call their name                                                                                                    |
+| 41-42 | Character frequently drops business<br><br>cards with publicly viewable links to<br><br>their browser history                                                               |
+| 43-44 | Cypher reads aloud all text visible<br><br>within short range                                                                                                               |
+| 45-46 | Cypher makes frequent beeping<br><br>noise like a large truck backing up                                                                                                    |
+| 47-48 | Cypher grows hard legs and noisily<br><br>follows the character, hindering<br><br>interaction and stealth tasks                                                             |
+| 49-50 | Cypher coats itself in a sticky<br><br>honey-like substance                                                                                                                 |
+| 51-52 | Character’s thoughts broadcasted to<br><br>everyone within long range                                                                                                       |
+| 53-54 | Character followed by a cloud of<br><br>clothing-eating moths                                                                                                               |
+| 55-56 | Random cypher vanishes, leaving<br><br>behind a handful of wet soil                                                                                                         |
+| 57-58 | Character’s voice is digitally<br><br>distorted and difficult to understand,<br><br>hindering interaction tasks                                                             |
+| 59-60 | Character quotes commercial jingles<br><br>and catchphrases every few minutes                                                                                               |
+| 61-62 | Character or cypher emits a strong<br><br>smell of asphalt or gasoline                                                                                                      |
+| 63-64 | Bugs frequently fly into character’s<br><br>mouth when they speak                                                                                                           |
+| 65-66 | Open flames in short range give off<br><br>noisy sparks like small fireworks                                                                                                |
+| 67-68 | Character feels intoxicated by a mild<br><br>hallucinogen, hindering all tasks                                                                                              |
+| 69-70 | Character sets off nearby car alarms                                                                                                                                        |
+| 71-72 | Character’s eyes shine like powerful<br><br>flashlights, hindering their visual<br><br>perception tasks                                                                     |
+| 73-74 | Any coffee within immediate range<br><br>tastes like nickels                                                                                                                |
+| 75-76 | Causes short circuits in nearby wired<br><br>electronics                                                                                                                    |
+| 77-78 | Character receives frequent spam<br><br>phone calls about nonexistent<br><br>services (engine moisturizing,<br><br>aspirin condensation, aligning<br><br>apartment chakras) |
+| 79-80 | Character followed by flying camera<br><br>drones                                                                                                                           |
+| 81-82 | Magical interference suppresses<br><br>the cypher’s function unless the<br><br>character spends 4 Intellect points<br><br>to cleanse its aura                               |
+| 83-84 | Magical interference decreases<br><br>character’s Intellect Edge by 2                                                                                                       |
+| 85-86 | Attracts an internet d@emon                                                                                                                                                 |
+| 87-88 | Attracts a zorp                                                                                                                                                             |
+| 89-90 | Character gets jittery (hindered<br><br>Speed-based tasks) unless they<br><br>chain-smoke cigarettes                                                                        |
+| 91    | Character’s bones become brittle,<br><br>hindering Might tasks                                                                                                              |
+| 92    | Cypher is painfully cold to the touch,<br><br>inflicting 1 point of damage each<br><br>round it touches bare skin                                                           |
+| 93    | Character occasionally is hurled<br><br>horizontally an immediate distance<br><br>with great force (typically 4 points of<br><br>ambient damage)                            |
+| 94    | Character develops severe allergy to<br><br>a common food ingredient (wheat,<br><br>eggs, citrus)                                                                           |
+| 95    | Vehicle brake lines within short<br><br>range dramatically rupture                                                                                                          |
+| 96    | Electronic devices within short range<br><br>tend to lose power, overheat, or<br><br>catch fire                                                                             |
+| 97    | Character frequently steps on nails,<br><br>broken glass, or other sharp things<br><br>(1 or 2 points of damage, ignores<br><br>Armor)                                      |
+| 98    | Character always bites their own<br><br>tongue (1 point of damage, ignores<br><br>Armor) whenever they cast a spell                                                         |
+| 99    | Two cyphers begin fighting each<br><br>other with switchblades and energy<br><br>blasts, must be restrained or<br><br>separated                                             |
+| 00+   | Cypher functions normally, but<br><br>explodes like a grenade shortly after<br><br>it is activated or the magic ends                                                        |
+
 ### CANTRIPS
+
 Cantrips are simple, low-powered spells that almost anyone can learn. In a modern fantasy setting, cantrips can be as ubiquitous and unremarkable as twenty-first-century technology. Instead of using the flashlight function of a smartphone, use a light cantrip. Instead of running a dishwasher or vacuum cleaner, use a cleaning cantrip. Instead of using a megaphone, use a voice‑amplifying cantrip.
 
 Cantrips are generally not powerful enough to directly affect an unwilling creature or damage an unattended object. In the rare case that using a cantrip might cause actual harm, change, or damage, the attack roll for the cantrip is hindered by two steps (unless otherwise noted).
@@ -45958,6 +45476,468 @@ Because covens form around unifying goals and principles, coven abilities should
 
 If a pre-existing ability doesn’t capture what the players and GM are looking for, the GM is always free to create new ones. To return to the example of the Benevolent Bakers, no abilities in the Cypher System Rulebook specifically pertain to making food, but the bakers could modify an ability like Natural Crafter to suit their needs.
 
+### Modern Fantasy Rules
+
+### CRAFTING MAGIC ITEMS
+
+Potions, scrolls, and other one-use items are cyphers, and longer-lasting items are generally artifacts.
+
+##### CRAFTING CYPHERS 
+
+1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher they’re trying to create, which must be in the level range for the cypher as listed in the Cypher System Reference Document. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range, and should always be treated as a level 6 cypher when crafted by a PC. 
+2. Determine Materials. Just as crafting an axe requires iron and wood, crafting a magical cypher requires strange and exotic materials—powdered gems, ink from monsters, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
+
+|   |   |
+|---|---|
+|Cypher Level|Materials Cost|
+|1|One inexpensive item|
+|2|Two inexpensive items|
+|3|One moderate item|
+|4|Two moderate items|
+|5|Three moderate items|
+|6|One expensive item|
+|7|Two expensive items|
+|8|Three expensive items|
+|9|One very expensive item|
+|10|Two very expensive items|
+
+3. Assess Difficulty. The difficulty of a magic item crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of a crafting task with skill training (such as being trained or specialized in brewing potions or scribing scrolls), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose. Because this is an activity requiring special knowledge, it is not possible for a character with no skill (or with an inability in this skill) to do this sort of crafting; the character cannot attempt the task at all. 
+4. Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing the assessed difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. See the table below. 
+   For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking on it occasionally to make sure everything is going as planned— allowing the base ingredients of a potion to cook for a few hours, stirring to make sure the ingredients don’t congeal, allowing ink on a scroll to dry, and so on. In other words, the character is able to perform other actions in the vicinity of the crafting (such as studying, resting, eating, and so on), but couldn’t craft on the road or in the middle of a dungeon.
+
+|   |   |
+|---|---|
+|Assessed Difficulty|Time to Craft|
+|1|Ten minutes|
+|2|One hour|
+|3|Four hours|
+|4|Nine hours|
+|5|One day|
+|6|Two days|
+|7|One week|
+|8|Three weeks|
+|9|Two months|
+|10|Six months|
+
+5. Complete Subtasks. The crafting character must complete multiple subtasks that are steps toward finishing the process. The number of subtasks required is equal to the assessed difficulty of the crafting task attempted. So a crafting task assessed as difficulty 5 requires five subtask successes. 
+   
+The difficulty of each individual subtask begins at 1 and increases by one step for each remaining subtask, until the crafter succeeds on the final, highest-difficulty subtask. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to craft the item. 
+   
+If at any point the crafter fails on a subtask, the item isn’t ruined. Instead, the character only wasted the time spent on that subtask, and can spend that much time again and then try to succeed at that same subtask. If the crafter fails twice in a row on the same subtask, the character can continue crafting, but in addition to losing another interval of crafting time, more crafting material (equal to one of the kind of item needed to craft it) is destroyed in a mishap and must be replaced before crafting can continue.
+   
+A player may ask to apply Effort to each subtask. Applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day
+
+##### CRAFTING ARTIFACTS
+Crafting an artifact is similar to choosing a new type or focus ability—the character has many to choose from, they select the one that best fits their intention, and thereafter they can use the artifact much like they’d use any of their other character abilities. The main difference is that most artifacts don’t cost Pool points to activate, and character abilities don’t have a depletion stat that eventually removes the item from play. Crafting artifacts is handled as a long-term benefit of character advancement; the character and GM agree on the artifact to be crafted, and the character spends 3 XP. If the item is fairly simple, the GM can skip the crafting details and just say that after a period of time, the PC creates the artifact. For an item that significantly alters gameplay—granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the crafting steps for creating a magical cypher. Crafting this kind of artifact takes up to five times as many materials and up to twenty times as long as crafting a cypher of the same assessed difficulty
+
+### RITUAL MAGIC
+
+##### TIME
+
+Ritual magic has two aspects related to time: how long it takes to prepare the ritual, and how long it takes to perform it. The preparation time is how long it takes to get ready to perform the ritual. The performance time is how long the ritual takes from start to finish, once the preparations (if any) are complete. 
+
+##### DIFFICULTY AND SUBTASKS
+
+Completing a ritual has an overall difficulty level, usually equal to the level of the challenge. Sometimes there isn’t a clear idea of what level the challenge should be— teleporting a group of people to a nearby city and raising a person from the dead don’t have an obvious task level. In these cases, the GM should choose a level for the ritual based on what would make an interesting experience for the players. Instead of having the success or failure of this sort of magic come down to one roll, ritual magic lets the GM build tension by requiring the players to make rolls for multiple subtasks. The subtasks start at difficulty 1, and the subtask difficulty increases by 1 each time until the players make a final roll at the highest difficulty. A ritual with an overall difficulty of 4 has four subtasks, with the first one at difficulty 1, the second at difficulty 2, the third at 3, and the last one at 4. 
+
+If at any point the PC fails a subtask, the ritual isn’t automatically ruined, but it costs time—a failure means the time spent on that subtask was wasted, but the character can spend that much time again and try to succeed at that same subtask. The GM may decide that later attempts at that subtask are hindered, or that a certain number of failures during the ritual (perhaps equal to half the ritual’s overall level) means the whole thing needs to be started again. Skills, assets, and other special abilities can ease subtasks just like they do with any other task (which might make some of the subtasks routine and not require a roll at all). Characters may apply Effort to each subtask. 
+
+##### POOL INVESTMENT
+
+Some rituals might require the PCs to spend points from their Pools on each subtask, with Might representing blood or vitality, Speed representing energy, and Intellect representing will or sanity. Multiple PCs involved in the ritual could collectively contribute to this cost (and if a ritual costs many points, spreading out the cost in this way may be necessary to prevent a participating PC from dying during the ritual). 
+
+##### ACCELERATED PERFORMANCE
+
+The GM may allow a character to speed up a ritual, reducing the time required for one or more subtasks. Generally, reducing a subtask’s time by half should hinder the subtask, and reducing it by half again (reducing the time needed to a quarter of the normal amount) should hinder the subtask by an additional step (two steps total). The minimum amount of time for a subtask is 1 round (unless the subtask is routine, in which case the GM may allow it to take no time at all).
+
+##### EXAMPLE RITUALS 
+
+The following are examples of common magical rituals suitable for many fantasy settings. Specific details of a ritual may vary depending on what the characters are trying to accomplish; for example, a ritual to ask a demon for a favor might be similar to one used to ask an angel, but the exact details are probably very different. Everything listed in a ritual is merely a suggestion, and the GM should alter, add, or remove whatever they like to suit their campaign.
+
+UNDERSTANDING THE EXAMPLES
+
+Each ritual is described in the following format. 
+
+Level: The overall level of the ritual, which determines how many subtasks it has.
+
+Time: The preparation time (if any) and performance time. 
+
+Roles: Things other characters can do to participate and help. 
+
+Side Effects: Negative consequences for failed rolls or GM intrusions.  
+Reagents: Resources that can help success. 
+
+Pool: What kind of Pool points the ritual costs. 
+
+Other Assets: Kinds of abilities that can help success.
+
+###### BESEECH
+
+Call upon a powerful supernatural entity such as a deity, archangel, demon lord, or ancient elemental to ask for a favor that the entity can and is likely to do (nothing it would ethically oppose). If the ritual is successful, the entity makes its attention known, such as by manifesting as a light, noise, or visible spirit. It may ask for more information, for a task or favor in return, or for a service to be named later. The entity is not compelled to do the favor; the ritual merely gains its attention and gives the characters the opportunity to speak their case. 
+
+Level: The level of the entity 
+
+Time: Four hours of preparation, one hour of performance 
+
+Roles: Chanting, lighting candles, holding gifts/reagents 
+
+Side Effects: Curse, hallucination, prerequisite quest (a challenge or task the characters must perform before the entity will consider answering) 
+
+Reagents: Scroll giving the history of and important details about the entity, offerings of gratitude or appeasement 
+
+Pool: Might or Intellect 
+
+Other Assets: Knowledge or control of similar entities
+
+Beseech only draws the entity’s attention; the various Conjure rituals bring the summoned entity bodily to the ritual space to talk in person.
+
+###### CONJURE THE DEAD
+
+Summons the spirit of a dead person or creature (commonly called a “ghost”), which appears in the summoning circle prepared for the ritual. The spirit remains there for about a minute, during which time the summoners can interrogate them or persuade them to share information. The spirit usually wants something in return (such as messages conveyed to the living or unfulfilled tasks completed). If the characters don’t comply, they must magically threaten or compel the spirit to obey. 
+
+Level: The level of the dead spirit 
+
+Time: Three hours of preparation, one hour of performance 
+
+Roles: Chanting, holding hands in a circle, manipulating a spirit device 
+
+Side Effects: Haunting, possession 
+
+Reagents: Mementos of the spirit’s life, the spirit’s former physical remains, a person or creature to possess 
+
+Pool: Might or Intellect 
+
+Other Assets: Knowledge or control of similar entities, religious or cultural connections, secret name of the spirit 
+
+A ghost remembers much of its life, including whether it knows, likes, or hates the people summoning it, and will act accordingly.
+
+###### CONJURE DEMON 
+
+Summons a demon (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The demon is primitive and bestial, not a creature of great wits and charm. The demon remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—spying, murder, and destruction of property are common tasks. Usually the demon has to be threatened or magically coerced into obeying. If the summoners fail to get it to comply, it makes one attack against them and then returns to wherever it came from (and probably bears a grudge for the unwanted summoning). 
+
+Level: The level of the demon 
+
+Time: Three hours of preparation, one hour of performance 
+
+Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
+
+Side Effects: Aggression, bad smell, curse, equipment damage or theft, possession 
+
+Reagents: Blood; meat; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing anger, destruction, or hatred (according to the desired service) 
+
+Pool: Might or Intellect 
+
+Other Assets: Knowledge or control of similar entities, secret name of the demon
+
+###### CONJURE DEVIL 
+
+Summons a devil (an evil supernatural creature from another dimension, plane, or realm) to command or convince it to perform a task. The devil remains there for about a minute, during which time the summoners must bargain with or command it to perform a deed that takes no longer than an hour and requires the devil to travel no more than about 50 miles (80 km)—spying, stealing, guarding, and murdering are common tasks. The devil usually wants something in return (even if just an agreement for a later favor); otherwise, the characters must threaten it or have some way to force it to obey. If the characters fail to strike a bargain, the devil returns to wherever it came from (and probably is annoyed at the interruption).
+
+Level: The level of the devil 
+
+Time: Three hours of preparation, one hour of performance 
+
+Roles: Bloodletting, chanting, lighting candles, holding gifts/reagents, tracing the summoning circle 
+
+Side Effects: Bad smell, curse, infernal mark, possession
+
+Reagents: Blood; magical inks or paints for a summoning circle; contracts; a person to possess; objects representing betrayal, deception, or greed (according to the desired service) 
+
+Pool: Might or Intellect 
+
+Other Assets: Knowledge or control of similar entities, secret name of the devil 
+
+###### CONJURE ELEMENTAL 
+
+Summons a primordial elemental spirit of air, earth, fire, or water, which appears in a physical form. The elemental remains for about a minute, during which time the characters must attempt to bribe, threaten, or bargain with it. An elemental is usually summoned to do something that takes no longer than an hour and requires it to travel no more than about 50 miles (80 km)—attack, guard, and scout are common tasks. The elemental typically wants something in return for its service, usually a gift or bribe appropriate to its nature—incense for air, gems for earth, oil for fire, salts for water, and so on. If the summoners can’t come to an agreement with the elemental, it might make one attack before it leaves. 
+
+Level: The level of the elemental 
+
+Time: Three hours of preparation, one hour of performance 
+
+Roles: Chanting, music, using ceremonial objects, holding gifts/reagents, tracing the summoning circle 
+
+Side Effects: Damage, weakness toward one kind of attack 
+
+Reagents: Gifts (black powder, gems, ice, incense, oil, salt, soil, water, wood), destroying opposing items or creatures 
+
+Pool: Might, Speed, or Intellect, depending on the kind of elemental 
+
+Other Assets: Elemental power, knowledge or control of similar entities, nature magic, secret name of the elemental
+
+Elementals are simple creatures whose interests and attentions are focused on themselves and their element. Flattery and playing up their strengths are the key to bargaining with them.
+
+###### CONSECRATION 
+
+Wards a location against evil influences and unwanted magic for a year and a day. The ritual affects an area up to a very long distance across. Evil creatures and magical effects of less than the ritual’s level can’t enter the area or use abilities against it. If the PCs are warded out of the designated area, they must make an Intellect defense roll to enter it (and another each minute while within the area, or retreat) and all their actions inside or targeted within the area are hindered by two steps. 
+
+Level: The level of the effects to protect against 
+
+Time: One hour of preparation, two hours of performance 
+
+Roles: Drawing lines and symbols along the border, chanting, calling out local features (with candles, runestones, or other suitable markers) 
+
+Side Effects: Lights, sounds, weak spots or “back doors” in the barrier 
+
+Reagents: Silver dust, sacred oil, buried blessed gemstones 
+
+Pool: Intellect 
+
+Other Assets: Warding magic, religious knowledge 
+
+###### ENCHANT WEAPON 
+
+Enchants a light, medium, or heavy weapon with magical power, granting an asset on attack rolls with the weapon for the next day. 
+
+Level: 3 or 4 
+
+Time: Thirty minutes of preparation, one hour of performance 
+
+Roles: — 
+
+Side Effects: Weapon attack hindered, higher GM intrusion rate
+
+Reagents: Rare oils, gem dust 
+
+Pool: Speed or Intellect 
+
+Other Assets: Battle tactics, weapon crafting
+
+In a high-magic campaign, a higher-level version of the Enchant Weapon ritual might grant a second asset on attack rolls, grant extra damage, affect multiple weapons at once, or all of the above.
+
+###### ENTOMBMENT 
+
+Imprisons a creature in a vessel (usually a valuable box, clay pot, or other closeable container, but it might be a gem, the heart of a tree, or another atypical object) for as long as the vessel remains closed and undamaged. The ritual forces the creature into the vessel, either in a spiritual form or by shrinking it to a size that will fit within the vessel. 
+
+Level: The level of the creature 
+
+Time: Sixteen hours of preparation, one hour of performance 
+
+Roles: Chanting, carrying or protecting the vessel 
+
+Side Effects: Bystander imprisoned with the target, containment has a flaw, target lashes out 
+
+Reagents: Vessel, symbolic bindings (chains, ropes, shackles, and so on), anathema objects 
+
+Pool: Intellect 
+
+Other Assets: Control magic, grappling, imprisoning magic, wards
+
+###### EXORCISM 
+
+Drives out unwanted spirits (ghosts, demons, or something else) from an area up to a long distance across. Once cast out, the spirits cannot return for a year and a day (although most of them decide to move on long before that time comes). Completing the ritual doesn’t prevent other spirits from entering or inhabiting the area, but it is likely that they can sense that an exorcism happened there, and most choose to avoid such an area so they don’t suffer the same fate. The ritual can also be used to cast out spirits from a possessed creature, preventing those spirits from returning for a year and a day. As with using the ritual to cleanse a location, this doesn’t prevent other spirits from afflicting the creature, but later spirits can sense the recent exorcism and prefer to avoid that creature.
+
+Level: The level of the most powerful hostile presence to be exorcised 
+
+Time: Two hours of preparation, two hours of performance 
+
+Roles: Chanting, positive emotions, presenting holy objects, restraining afflicted individuals, tracing the area with incense 
+
+Side Effects: Lights, sounds, hideous physical transformations, injuries, telekinesis 
+
+Reagents: Bindings, candles, holy water, religious icons and books, scapegoats 
+
+Pool: Intellect 
+
+Other Assets: Warding magic, religious knowledge 
+
+Using an exorcism ritual on an area is mainly for getting rid of spirits afflicting the area in ways other than possessing a creature— throwing objects, causing nightmares, making noises, and so on.
+
+###### FLESH FOR KNOWLEDGE 
+
+Sacrifices some of the ritualist’s flesh, inflicting Might and Speed damage equal to the level of the ritual and permanently reducing the character’s Pools by 4 points (the character can divide this loss between Might and Speed as they see fit). The character experiences painful hallucinations that give them insight and understanding. They immediately learn one type or focus ability available to them (any ability they could learn by spending 4 XP as an advancement). 
+
+Level: Twice the tier of the ability the character wishes to learn 
+
+Time: One hour of preparation, one hour of performance 
+
+Roles: Chanting, restraining the subject of the ritual 
+
+Side Effects: Lasting damage, permanent damage, scarring 
+
+Reagents: Silver knife, silver vessel 
+
+Pool: See above 
+
+Other Assets: Pain tolerance, surgery 
+
+Instead of permanently reducing a character’s Pools by 4 points, the GM could allow other permanent penalties such as reducing an Edge stat by 1 (to a minimum of 0), gaining an inability in a useful skill, or permanently reducing all points gained through recovery rolls by 2.
+
+###### PURIFICATION 
+
+Rids a creature of an ongoing affliction, such as a disease or poison, or any unwanted magical effect, such as a curse or charm spell. In some versions of this ritual, whatever is ailing the creature gets forced into a nearby specified creature or object, which is then discarded or safely destroyed.
+
+Level: The level of the affliction or effect to remove 
+
+Time: One hour of preparation, two hours of performance 
+
+Roles: Applying reagents, chanting 
+
+Side Effects: Affliction or effect spreads to another creature, target moves a step down the damage track 
+
+Reagents: Anointing oils, healing herbs, objects repellent to the source of the affliction, magical paint for writing on the target, scapegoat, silver dust 
+
+Pool: Might 
+
+Other Assets: Healing magic, resistance to the target’s affliction
+
+###### RESURRECTION 
+
+Restores a dead being to life. The creature is restored to full health and is ready to act as soon as the ritual is completed. Depending on how they died and the nature of death in the setting, the creature may or may not remember anything that happened after they died. 
+
+Level: The level of the deceased (at least tier 6 if a PC) 
+
+Time: Five hours of preparation, two hours of performance 
+
+Roles: Applying reagents, chanting, prayers, shielding the corpse from hostile entities 
+
+Side Effects: Creature moves a step down the damage track, enmity of a death god, lasting damage, scarring, sympathetic damage 
+
+Reagents: Deceased’s corpse, healing ointment, items of emotional significance (such as devotion, hope, or regret), items of importance to the deceased, parchment extolling the deceased’s history and deeds, soul-sympathetic items 
+
+Pool: Might or Intellect 
+
+Other Assets: Close relationship with the deceased (such as a connection or family relation), healing magic, necromancy, spirit knowledge, secret name of the deceased
+
+A lesser version of the Resurrection ritual might bring the creature back to life, but only to the debilitated or impaired state on the damage track instead of hale, requiring further rest or healing. 
+
+###### SACRIFICIAL RITE 
+
+A creature is ritually killed and its soul is placed in an object. The soul object might be a temporary destination so the soul can be transported and used elsewhere (such as an offering to a demon or as part of a spell), or it might be the final destination for the soul (such as placing it in a sword to create a magic item). 
+
+Level: The level of the creature (at least tier 6 if a PC) 
+
+Time: One hour of preparation, one hour of performance Roles: Chanting, playing instruments, bearing the soul object, restraining the creature, slaying the creature 
+
+Side Effects: Creature rages or escapes, damage, dying curse, haunting 
+
+Reagents: Bindings, creature to be sacrificed, drum, flute, silver knife, soul object (its level must be at least as high as the creature’s level) 
+
+Pool: Might or Intellect 
+
+Other Assets: Death spells, instant-kill abilities, soul manipulation
+
+### MAGICAL TECHNOLOGY
+
+To craft items of magical technology in a setting where they are commonplace, use the standard rules for crafting regular (nonmagical) items.
+
+##### MAGIC PLUS TECHNOLOGY
+
+Whatever technology exists in the setting could be magically enhanced if magic is also present. Such items would almost certainly be manifest cyphers or artifacts. Here’s an example cypher:
+
+FROZEN TIMEPIECE
+
+Level: 1d6 + 2
+
+Effect: Creates or transforms into a pocket watch that seems to be made of ice. Upon activation of the cypher, the user can take normal actions, but everything and everyone around them is frozen in time. The user cannot affect anything else, but they can move through the world and take actions that affect themselves or their own belongings (bandage a wound, repair a broken item, and so on). The effect lasts for one round per cypher level.
+
+And here’s an example artifact:
+
+TRUTH BINOCULARS
+
+Level: 1d6 + 2
+
+Form: Pair of binoculars with a large runic symbol on them
+
+Effect: Not only do these make it easy to see things far away, but looking through them also allows the viewer to see through illusions and see things that are normally invisible, assuming the effect has a level lower than that of the binoculars.
+
+Depletion: 1–2 in 1d100 (check each use)
+
+To craft items that are both technological and magical, either you need to make the device first and then enchant it, or you need to enchant it as it is made. Either way, the skills for making the device and for making it magical are likely very different.
+
+##### TECHNOLOGY THAT INTERACTS WITH MAGIC
+
+In a world with scientists and engineers faced with the presence of real magic, some of them would develop ways to interact and cope with it. Technological devices that are not magical but deal with magic could include:
+
+Magic detector (expensive): This simple white badge glows purple in the presence of magic. Once it detects something magical, it does not function again. 
+
+Mystical hazard suit (very expensive): This full-body protective suit is cumbersome and clumsy, not unlike a hazmat suit. However, all of the wearer’s tasks to resist magical effects are eased. If the wearer takes even 1 point of physical damage, the suit rips and no longer functions until it is repaired and resealed. 
+
+Spellscrambler (very expensive): Essentially a sonic grenade, this device produces a variety of strange electromagnetic signals—some audible and very loud, some not—on a number of frequencies. The mental processes needed to cast a spell are impossible to achieve for one round within a short distance of the device. Like any grenade, it can be used only once.
+
+##### MAGIC THAT INTERACTS WITH TECHNOLOGY
+
+In a world where magic and technology coexist, wizards will have spells and effects that protect them from shotgun blasts as well as sword blades, and radiation as well as fire or frost. Consider, for example, these effects as cyphers:
+
+FINDING PRYING EYES 
+
+Level: 1d6 + 3 
+
+Effect: Magically discovers if anything is watching or listening to the user right at that moment, and reveals the source. Electronic surveillance devices, long-range scopes, hidden cameras, and magical scrying attempts all trigger this effect. In all these cases, the “source” is the nearest representation. So a hidden microphone is revealed, but not the location of the listener. 
+
+POWER DEVICE 
+
+Level: 1d6 + 2 
+
+Effect: Magically powers one device that can fit within an area a short distance across. The device is now fully powered, charged, or fueled. If the cypher is used on an automobile, for example, the gas tank is full. If used on a flashlight, the battery is fully charged. 
+
+SCREEN CONTROL 
+
+Level: 1d6 + 2 
+
+Effect: A technological screen (a television, computer monitor, smartphone, or the like) within short range shows whatever the user wishes for up to one minute per cypher level. The display can be pictures, text, or meaningless shapes and colors.
+
+Because magic works on intuitive rather than scientific levels, mages could have spells that disrupt technology, even though the technology involved might not have any common principles
+
+### MIND CONTROL
+
+From a rules perspective, mind control is fairly straightforward: one creature decides what actions another creature takes (perhaps limited in that the controlled creature won’t take actions that harm them or go against their nature, such as attacking friends). But what’s happening inside the controlled creature’s head—whether during the effect or afterward—often isn’t specified. There are several options for the GM to consider, either for all kinds of mind-control magic or on a case-by-case basis. 
+
+Confusion: The controlled creature doesn’t understand why they’re doing things they normally wouldn’t do, but they aren’t aware of any outside influence on their thoughts and actions. Once the control is over, the creature may admit that they don’t know why they did those things, or come up with an explanation justifying (to themselves and others) their reasons for those actions. 
+
+Dream: The controlled creature is aware of what’s going on but perceives it in a dreamlike state. They may believe that they’re in control of themselves the entire time, or somewhat aware that they’re not fully in control (similar to being intoxicated by drugs or alcohol or disoriented by an illness). Afterward, the creature might feel strange about the events but may not realize that someone else was controlling them. 
+
+Trapped: The active thoughts in the controlled creature’s head come from the controller, but the creature still has a small voice or awareness in the background, like they’re a prisoner in their own mind. This horrible situation usually means the controlled creature reverts to normal once the control is gone, and is probably very upset that their mind and body autonomy were violated.
+
+One way to present mind control more safely is to disallow certain actions but otherwise leave the character in control. For example, being charmed by a vampire might mean the PC can’t attack the vampire (or its allies) or run away, but is still able to call for help, heal themselves, leave at a normal pace, and take other actions. Alternatively, the character can be given a specific command, and until they comply with that command their other actions are hindered by one or more steps. If the player is willing to engage with the parameters of the mind control, the GM may award them an additional 1 XP (or, to approach it from the opposite direction, the GM can offer them a GM intrusion that the mind control is happening, and allow the player to spend 1 XP to refuse it, or go into XP debt if they want to refuse it but have no XP to spend).
+
+A rule for any game: don’t use mind control (or anything) to make a character have sex without the player’s permission. For more information and guidelines about consent in RPGs, read the free Consent in Gaming PDF at myMCG.info/consent
+
+### MYSTICAL MARTIAL ARTS
+
+If the setting calls for wuxia-style fantasy martial arts or similar types of action, you can make a few rule changes to portray the kinds of things characters in such stories can accomplish.
+
+Running and climbing speeds and jumping distances are doubled. For those trained in running, climbing, or jumping, the speeds and distances are tripled instead of doubled. For those specialized, they are quintupled. For all intents and purposes, this means that everyone can run up a wall or jump very high in the air, and masters can practically fly or run across water.
+
+Everyone knows kung fu. Unless a person is a simple farmer, herder, or merchant, they know how to fight with elaborate and powerful martial arts styles. This doesn’t change anything in the game mechanically—no one gets the ability to use weapons that they wouldn’t normally have under the rules. But it does change the flavor, suggesting that no PC is entirely ignorant of weapons or close combat. 
+
+Players are encouraged to come up with interesting names for their martial arts abilities. Instead of using a Bash attack, perhaps it is “The Three-Flower Fist,” and instead of Fury, a character uses “The Rage of the Sevenfold.” It is reasonable for high-tier martial abilities such as Amazing Effort, Jump Attack, or Finishing Blow to be described with a magical flare— blazing auras of fire, brilliant cascades of light, ethereal figures overlaying the character, and so on. 
+
+Materials and objects are easier to destroy. For the purpose of attacking objects, subtract 2 from the level of any material (minimum of 0). It should be relatively simple for any character to smash through a plain wooden door with little effort, and true warriors can shatter stones with their blows. 
+
+Wounds heal faster. Everyone gains +1 to all recovery rolls. 
+
+Superhuman abilities exist. Consider adopting some of the superhero rules from the Cypher System Reference Document, in particular the power shift optional rules. These may derive from almost supernatural levels of training in various techniques (such as dianxue) but probably mostly from neili.
+
+Dianxue: The touch of death—killing by using precise nonlethal force on key points of the body. Neili: Internal force— building up and cultivating the energy known as qi and using it for supernatural effects.
+
+#### POSSESSION
+
+Some creatures (demons, ghosts, entities of living mental energy, and so on) have the ability to possess a living person, taking over a character’s body as if it were the creature’s own. The creature must touch the character to attempt possession (even if the creature’s touch normally inflicts damage, the possession attempt doesn’t inflict damage). The character must make an Intellect defense roll or become possessed, whereupon the creature’s immaterial form disappears into the character.
+
+The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing creature can try to control the actions of the host, but the character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. When the creature isn’t trying to control the host, the character can act as they choose. Usually, a possessing creature’s actions are limited to controlling its host and leaving the host (the creature’s own abilities are unavailable to it while in someone else’s body).
+
+While it possesses a character, the creature is immune to most direct attacks (though not so the host; killing the host will eject the creature). For example, hitting a demon-possessed human with a sword hurts only the human, not the demon controlling them. Mental attacks and special abilities that only affect possession or the type of possessing creature usually work normally
+
+A possessed character is allowed an Intellect defense roll to eject the creature once per day. The defense roll is hindered by one additional step each day of possession after the first seven days. An ejected, cast-out, or exorcised demon is powerless for one or more days. One way to exorcise a demon is to command it out in the name of an entity that has power over the demon. This can be attempted once per day and grants the possessed character an additional Intellect defense roll to eject the demon.
+
+Possession is like mind control in that it takes away a player’s ability to control their character, and that can make some players very uncomfortable. See the section on mind control and consent for more information (page 67).
+
+### SECRET AND TRUE NAMES
+
+Learning a creature’s true name comes with a subtle and instinctive awareness and understanding of that creature, including its strengths and weaknesses. In general, this eases all tasks related to that creature (including attacks, defenses, and interactions) by two steps. In some cases, confronting a creature with knowledge of its true name might be enough to convince it to perform a service without compensation. A creature doesn’t automatically know if someone has learned its true name (although there is magic that can reveal this knowledge), but they can usually figure out that an informed opponent has some kind of advantage against them and deduce that their secret name is involved. 
+
+Learning a true name is difficult and takes time. A character wanting to discover a creature’s true name might choose the Uncover a Secret character arc to do so.
+
+### WISHES
+
+Unless the GM’s intention is to make the players regret that their characters were offered a wish, it’s best to give them what they ask for, as much as it is within the power of the creature to do so. If the GM wants to twist the wish, do so as a GM intrusion— that way, the character still gets a reward, and they can either accept the twisted wish (which isn’t as good as they had hoped) or pay 1 XP to reject the intrusion (which represents them coming up with airtight wording that can’t be twisted).
+
+Second, consider the level of the creature granting the wish—that’s basically the level of the wish, as the creature shouldn’t be able to grant a boon more powerful than itself. Therefore, it’s reasonable that a level 6 creature could create a level 6 effect. The GM could look at the creature’s other abilities (or abilities of other creatures of its level), decide if what the PC is asking for is within its power, and either grant the requested wish or adjust the result downward until it’s appropriate for the creature’s power. 
+
+Wishing for more wishes doesn’t work because a creature shouldn’t be able to create something more powerful than itself—at least not without some investment of time and other resources, like a character using XP to acquire an artifact.
+
+
 ### CRAFTING MAGIC ITEMS
 #### Crafting Cyphers
 1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher to create, which must be in the level range for the cypher as listed in the Cypher System Rulebook. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range and should always be treated as a level 6 cypher when crafted by a PC.
@@ -46014,70 +45994,6 @@ Depending on the setting, a character learning how to craft magic items might be
 The simple way of handling artifacts in a modern fantasy game is to treat an artifact as gaining a long-term benefit of character advancement. The character and GM agree on the artifact being crafted, the character spends 3 XP, the GM hand-waves the crafting process (or has the player narratively describe it), and the character gains the artifact.
 
 For an item that significantly alters gameplay—such as granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the steps for crafting a magical cypher. Crafting this kind of artifact takes up to five times as many ingredients and up to twenty times as long as crafting a cypher of the same assessed difficulty.
-
-### EXCEEDING CYPHER LIMITS
-
-Sometimes characters might want or need to carry more than their normal allotment of cyphers, and in a modern fantasy game it’s fun to let the overlapping cypher auras (or whatever the cause) create odd side effects. Typically, a side effect stops or reverts if the cypher is activated or leaves the area. If a PC is exceeding their cypher limit, roll 1d00 and consult this table to see what happens (roll anywhere from once per hour to once per day, as fits the story). The table is set up so the first entries are weird but generally harmless, the middle ones are annoying, and the last ones are harmful or dangerous. Optionally, you can increase the threat by adding +20 to the d00 roll for every additional cypher the character is over their limit (+20 for two over, +40 for three over, and so on).
-
-Side Effects of Exceeding Cypher Limits
- 
-|D00|Effect|
-|---|---|
-|01-02|Hair of everyone in immediate range stands straight out|
-|03-04|Ugly faces manifest on surfaces in the area|
-|05-06|Character’s skin color changes to something unusual (blue, orange purple)|
-|07-08|Character’s footprints are glowing red arrows|
-|09-10|Flowers in short range wilt and dissolve into stinky goo|
-|11-12|Character’s skin grows fishlike eyes, which dry and fall off like scabs|
-|13-14|Internet speeds within short range slow to a crawl|
-|15-16|Character develops prominent skin rash resembling corporate logos|
-|17-18|Character says the word “sexy” in place of any adjective|
-|19-20|Dogs bark angrily at the character|
-|21-22|Character sheds fingernails, quickly replaced by circuit boards|
-|23-24|Character keeps seeing UFOs|
-|25-26|Cypher randomizes names and icons of nearby apps|
-|27-28|Character takes on the outward appearance of a different intelligent species (chimera, nix, and so on) each hour|
-|29-30|Cypher becomes overcharged (acts<br><br>as +1 level) and erratic (tasks to use<br><br>it are hindered)|
-|31-32|Character’s hand sometimes turns<br><br>into a battered plastic duplicate and<br><br>falls off, with a new hand growing to<br><br>replace it within seconds|
-|33-34|Character compelled to dig through<br><br>nearby trash cans in search of<br><br>discarded batteries|
-|35-36|Character’s head surrounded by<br><br>floating illusions of rude gestures<br><br>and inappropriate words|
-|37-38|Character’s vision distorted so all<br><br>writing appears undecipherably<br><br>blurred|
-|39-40|Birds creepily follow the character<br><br>and sometimes call their name|
-|41-42|Character frequently drops business<br><br>cards with publicly viewable links to<br><br>their browser history|
-|43-44|Cypher reads aloud all text visible<br><br>within short range|
-|45-46|Cypher makes frequent beeping<br><br>noise like a large truck backing up|
-|47-48|Cypher grows hard legs and noisily<br><br>follows the character, hindering<br><br>interaction and stealth tasks|
-|49-50|Cypher coats itself in a sticky<br><br>honey-like substance|
-|51-52|Character’s thoughts broadcasted to<br><br>everyone within long range|
-|53-54|Character followed by a cloud of<br><br>clothing-eating moths|
-|55-56|Random cypher vanishes, leaving<br><br>behind a handful of wet soil|
-|57-58|Character’s voice is digitally<br><br>distorted and difficult to understand,<br><br>hindering interaction tasks|
-|59-60|Character quotes commercial jingles<br><br>and catchphrases every few minutes|
-|61-62|Character or cypher emits a strong<br><br>smell of asphalt or gasoline|
-|63-64|Bugs frequently fly into character’s<br><br>mouth when they speak|
-|65-66|Open flames in short range give off<br><br>noisy sparks like small fireworks|
-|67-68|Character feels intoxicated by a mild<br><br>hallucinogen, hindering all tasks|
-|69-70|Character sets off nearby car alarms|
-|71-72|Character’s eyes shine like powerful<br><br>flashlights, hindering their visual<br><br>perception tasks|
-|73-74|Any coffee within immediate range<br><br>tastes like nickels|
-|75-76|Causes short circuits in nearby wired<br><br>electronics|
-|77-78|Character receives frequent spam<br><br>phone calls about nonexistent<br><br>services (engine moisturizing,<br><br>aspirin condensation, aligning<br><br>apartment chakras)|
-|79-80|Character followed by flying camera<br><br>drones|
-|81-82|Magical interference suppresses<br><br>the cypher’s function unless the<br><br>character spends 4 Intellect points<br><br>to cleanse its aura|
-|83-84|Magical interference decreases<br><br>character’s Intellect Edge by 2|
-|85-86|Attracts an internet d@emon|
-|87-88|Attracts a zorp|
-|89-90|Character gets jittery (hindered<br><br>Speed-based tasks) unless they<br><br>chain-smoke cigarettes|
-|91|Character’s bones become brittle,<br><br>hindering Might tasks|
-|92|Cypher is painfully cold to the touch,<br><br>inflicting 1 point of damage each<br><br>round it touches bare skin|
-|93|Character occasionally is hurled<br><br>horizontally an immediate distance<br><br>with great force (typically 4 points of<br><br>ambient damage)|
-|94|Character develops severe allergy to<br><br>a common food ingredient (wheat,<br><br>eggs, citrus)|
-|95|Vehicle brake lines within short<br><br>range dramatically rupture|
-|96|Electronic devices within short range<br><br>tend to lose power, overheat, or<br><br>catch fire|
-|97|Character frequently steps on nails,<br><br>broken glass, or other sharp things<br><br>(1 or 2 points of damage, ignores<br><br>Armor)|
-|98|Character always bites their own<br><br>tongue (1 point of damage, ignores<br><br>Armor) whenever they cast a spell|
-|99|Two cyphers begin fighting each<br><br>other with switchblades and energy<br><br>blasts, must be restrained or<br><br>separated|
-|00+|Cypher functions normally, but<br><br>explodes like a grenade shortly after<br><br>it is activated or the magic ends|
 
 ### FAMILIARS
 In the most general sense, a familiar is a creature (usually in the form of a small animal) bonded to a magical person as a companion. However, a familiar’s role, intelligence, relationship with their person, powers, and vulnerabilities vary greatly from setting to setting. A familiar might be just a pet or comfort animal, with no special abilities. They might have an empathic or telepathic connection with their person. They might be an extension of the person’s soul, with harm to the familiar causing harm to the person. They might be a fully supernatural creature, able to assist with magical tasks or provide advice. A magical world might only have one of these kinds of familiars, or any of them.
