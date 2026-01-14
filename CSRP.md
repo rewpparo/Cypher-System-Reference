@@ -10132,65 +10132,120 @@ You inflict 1 additional point of damage with guns.
 
 Enabler.
 
-### Abilities—H
+### Hack the Impossible
 
-#### Hack the Impossible (3 Intellect points)
+Hack the Impossible (3 Intellect points) #Ability #ControlAbility #Low #Core 
 
-You can persuade robots, machines, and computers to do your bidding. You can discover an encrypted password, break through security on a website, briefly turn off a machine such as a surveillance camera, or disable a robot with a moment’s worth of fiddling. Action.
+You can persuade robots, machines, and computers to do your bidding. You can discover an encrypted password, break through security on a website, briefly turn off a machine such as a surveillance camera, or disable a robot with a moment’s worth of fiddling. 
 
-#### Hacker (2 Intellect points)
+Action.
 
-You gain quick access to a desired bit of information in a computer or similar device, or you access one of its primary functions. Action.
+### Hacker
 
-#### Hand to Eye (2 Speed points)
+Hacker (2 Intellect points) #Ability #MetaAbility #Low #Core 
 
-This ability provides an asset to any tasks involving manual dexterity, such as pickpocketing, lockpicking, games involving agility, and so on. Each use lasts up to a minute; a new use (to switch tasks) replaces the previous use. Action to initiate.
+You gain quick access to a desired bit of information in a computer or similar device, or you access one of its primary functions. 
 
-#### Handy
+Action.
 
-You work for a living and are trained in tasks related to carpentry, plumbing, and electrical repair. Your knowledge in these realms also gives you an asset to craft entirely new items within your spheres of knowledge and the limits of possibility within the setting. Enabler.
+### Hand to Eye
 
-#### Hard Choices
+Hand to Eye (2 Speed points) #Ability #TaskAbility #Low #Core 
 
-Sometimes, you believe that you’ve got to lie to those who trust you for their own good. You are specialized in deception tasks. Enabler.
+This ability provides an asset to any tasks involving manual dexterity, such as pickpocketing, lockpicking, games involving agility, and so on. Each use lasts up to a minute; a new use (to switch tasks) replaces the previous use. 
+Action to initiate.
 
-#### Hard Target
+### Handy
 
-If you move a short distance or farther on your turn, all Speed defense rolls are eased. Enabler.
+Handy #Ability #TaskAbility #Low #Core 
 
-#### Hard to Distract
+You work for a living and are trained in tasks related to carpentry, plumbing, and electrical repair. Your knowledge in these realms also gives you an asset to craft entirely new items within your spheres of knowledge and the limits of possibility within the setting. 
 
-You are trained in Intellect defense tasks. Enabler.
+Enabler.
 
-#### Hard to Hit
+### Hard Choices
 
-You are trained in Speed defense tasks. Enabler.
+Hard Choices #Ability #TaskAbility #Low #Core 
 
-#### Hard to Kill
+Sometimes, you believe that you’ve got to lie to those who trust you for their own good. You are specialized in deception tasks. 
 
-You can choose to reroll any defense task you make but never more than once per round. Enabler.
+Enabler.
 
-#### Hard to See
+### Hard Target
 
-When you move, you are a blur. It is impossible to make out your identity as you run past, and in a round where you do nothing but move, stealth tasks and Speed defense tasks are eased. Enabler.
+Hard Target #Ability #ProtectionAbility #High #Core 
 
-#### Hard-Won Resilience
+If you move a short distance or farther on your turn, all Speed defense rolls are eased. 
 
-In your explorations of dark places, you’ve been exposed to all sorts of terrible things and are developing a general resistance. You gain +1 to Armor and are trained in Might defense tasks. Enabler.
+Enabler.
 
-#### Harder Light
+### Hard to Distract
 
-When you create an object out of hard light, the object is one level higher than normal. Enabler.
+Hard to Distract #Ability #ProtectionAbility #Low #Core 
 
-#### Hardiness
+You are trained in Intellect defense tasks. 
 
-You are trained in Might defense tasks. Enabler.
+Enabler.
 
-#### Have Spacesuit, Will Travel
+### Hard to Hit
 
-Somehow or another, you became the legal owner of a fully functional and advanced spacesuit. The spacesuit provides +1 Armor and, more important, allows you to survive in the vacuum of space using suit reserves for up to twelve hours at a time with enough reaction mass to get around in zero gravity on jets of ionized gas for that same period. After each use, the suit must be recharged, either with already-charged cartridges of air and reaction mass or by allowing the suit to sit idle in an area with breathable atmosphere for at least two hours, during which time it will recharge both air and reaction mass using integrated solid state mechanisms. The suit’s power supply is a radioisotope thermoelectric generator, which means it’ll function for a few decades before needing to be changed out. Enabler.
+Hard to Hit #Ability #ProtectionAbility #Low #Core 
 
-#### Heads-Up Display (2+ Intellect points)
+You are trained in Speed defense tasks. 
+
+Enabler.
+
+### Hard to Kill
+
+Hard to Kill #Ability #MetaAbility #High #Core 
+
+You can choose to reroll any defense task you make but never more than once per round. 
+
+Enabler.
+
+### Hard to See
+
+Hard to See #Ability #TaskAbility #Mid #Core 
+
+When you move, you are a blur. It is impossible to make out your identity as you run past, and in a round where you do nothing but move, stealth tasks and Speed defense tasks are eased. 
+
+Enabler.
+
+### Hard-Won Resilience
+
+Hard-Won Resilience #Ability #ProtectionAbility #Mid #Core 
+
+In your explorations of dark places, you’ve been exposed to all sorts of terrible things and are developing a general resistance. You gain +1 to Armor and are trained in Might defense tasks. 
+
+Enabler.
+
+### Harder Light
+
+Harder Light #Ability #Core 
+
+When you create an object out of hard light, the object is one level higher than normal. 
+
+Enabler.
+
+### Hardiness
+
+Hardiness #Ability #ProtectionAbility #Low 
+
+You are trained in Might defense tasks. 
+
+Enabler.
+
+### Have Spacesuit, Will Travel
+
+Have Spacesuit, Will Travel #Ability #ProtectionAbility #Low #Core 
+
+Somehow or another, you became the legal owner of a fully functional and advanced spacesuit. The spacesuit provides +1 Armor and, more important, allows you to survive in the vacuum of space using suit reserves for up to twelve hours at a time with enough reaction mass to get around in zero gravity on jets of ionized gas for that same period. After each use, the suit must be recharged, either with already-charged cartridges of air and reaction mass or by allowing the suit to sit idle in an area with breathable atmosphere for at least two hours, during which time it will recharge both air and reaction mass using integrated solid state mechanisms. The suit’s power supply is a radioisotope thermoelectric generator, which means it’ll function for a few decades before needing to be changed out. 
+
+Enabler.
+
+### Heads-Up Display
+
+Heads-Up Display (2+ Intellect points) #Ability #SensesAbility #Low #Core 
 
 Your Powered Armor ability comes with systems that help you make sense of, analyze, and use your weapons in your environment. When you trigger this ability, you gain an asset on one attack roll as the suit perfectly outlines foes and steadies your aim, regardless of whether you’re making a melee or ranged attack.
 
@@ -10198,111 +10253,213 @@ Alternatively, you can use the heads-up display to magnify your vision, increasi
 
 Enabler.
 
-#### Healing Pulse (3 Intellect points)
+### Healing Pulse
 
-You and all targets you choose within immediate range gain the immediate benefits of using one of their recovery rolls (as long as it is not their ten-hour recovery roll) without having to spend an action, ten minutes, or one hour. Targets regain points to their Pools immediately but mark off that recovery use. PCs who have already used up their one-action, ten-minute, and one-hour recovery rolls for the day gain no benefit from this ability. NPCs targeted by this ability regain a number of health points equal to their level. Action.
+Healing Pulse (3 Intellect points) #Ability #SensesAbility #Low #Core 
 
-#### Healing Touch (1 Intellect point)
+You and all targets you choose within immediate range gain the immediate benefits of using one of their recovery rolls (as long as it is not their ten-hour recovery roll) without having to spend an action, ten minutes, or one hour. Targets regain points to their Pools immediately but mark off that recovery use. PCs who have already used up their one-action, ten-minute, and one-hour recovery rolls for the day gain no benefit from this ability. NPCs targeted by this ability regain a number of health points equal to their level. 
 
-With a touch, you restore 1d6 points to one stat Pool of any creature. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task is hindered by an additional step. The difficulty returns to 2 after that creature rests for ten hours. Action.
+Action.
 
-#### Hedge Magic (1 Intellect point)
+### Healing Touch
 
-You can perform small tricks: temporarily change the color or basic appearance of a small object, cause small objects to float through the air, clean a small area, mend a broken object, prepare (but not create) food, and so on. You can’t use Hedge Magic to harm another creature or object. Action.
+Healing Touch (1 Intellect point) #Ability #CureAbility #Low #Core 
 
-#### Heightened Skills
+With a touch, you restore 1d6 points to one stat Pool of any creature. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task is hindered by an additional step. The difficulty returns to 2 after that creature rests for ten hours. 
 
-You are trained in two tasks of your choosing (other than attacks or defense). If you choose a task you’re already trained in, you instead become specialized in that task. You can’t choose a task you’re already specialized in. Enabler.
+Action.
 
-#### Hemorrhage (2+ Might points)
+### Hedge Magic
 
-You make a powerful and precise strike that inflicts additional damage later. On your next turn, the target of this attack takes an additional 3 points of damage (ignores Armor). The target can prevent this additional damage by making a recovery roll, using any ability that heals it, or using its action to attend to the injury. In addition to the normal options for using Effort, you can choose to use Effort to increase this duration by one round. Action.
+Hedge Magic (1 Intellect point) #Ability #EnvironmentAbility #Low #Core 
 
-#### Heroic Monster Bane
+You can perform small tricks: temporarily change the color or basic appearance of a small object, cause small objects to float through the air, clean a small area, mend a broken object, prepare (but not create) food, and so on. You can’t use Hedge Magic to harm another creature or object. 
 
-When you inflict damage to creatures more than twice as large or massive as you, you inflict 3 additional points of damage. Enabler.
+Action.
 
-#### Hidden Closet
+### Heightened Skills
 
-The magic ally from your Bound Magic Creature ability can store items for you within its bound object, including extra sets of clothing, tools, food, and so on. The interior of the object is, in effect, a 10-foot (3 m) square pocket dimension that normally only the magic ally can access. Enabler.
+Heightened Skills #Ability #TaskAbility #Mid #Core 
 
-#### Hidden Reserves
+You are trained in two tasks of your choosing (other than attacks or defense). If you choose a task you’re already trained in, you instead become specialized in that task. You can’t choose a task you’re already specialized in. 
 
-When you use an action to make a recovery roll, you also gain +1 to both your Might Edge and your Speed Edge for ten minutes thereafter. Enabler.
+Enabler.
 
-#### Higher Mathematics
+### Hemorrhage
 
-You are trained in standard and higher mathematics. Enabler.
+Hemorrhage (2+ Might points) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Hold Breath
+You make a powerful and precise strike that inflicts additional damage later. On your next turn, the target of this attack takes an additional 3 points of damage (ignores Armor). The target can prevent this additional damage by making a recovery roll, using any ability that heals it, or using its action to attend to the injury. In addition to the normal options for using Effort, you can choose to use Effort to increase this duration by one round. 
 
-You can hold your breath for up to five minutes. Enabler.
+Action.
 
-#### Horde Fighting
+### Heroic Monster Bane
 
-When two or more foes attack you at once in melee, you can use them against each other. You gain an asset to Speed defense rolls or attack rolls (your choice each round) against them. Enabler.
+Heroic Monster Bane #Ability #MetaAbility #Mid #Core 
 
-#### Horde Tactics (7 Might points)
+When you inflict damage to creatures more than twice as large or massive as you, you inflict 3 additional points of damage. 
 
-For up to one hour a day, you and at least three other allies can act like a single creature. Use your stats, but add +8 to your Might Pool, +1 to your Might Edge, +2 to your Speed Pool, +1 to your Speed Edge, and +1 to your Armor. Enabler.
+Enabler.
 
-#### Hover (2 Intellect points)
+### Hidden Closet
 
-You float slowly into the air. If you concentrate, you can control your movement to remain motionless in the air or float up to a short distance as your action; otherwise, you drift with the wind or with any momentum you have gained. This effect lasts for up to ten minutes. Action to initiate.
+Hidden Closet #Ability #EnvironmentAbility #Low #Core 
 
-#### How Others Think
+The magic ally from your Bound Magic Creature ability can store items for you within its bound object, including extra sets of clothing, tools, food, and so on. The interior of the object is, in effect, a 10-foot (3 m) square pocket dimension that normally only the magic ally can access. 
 
-You have a sense of how people think. You’re trained in one of the following tasks: persuasion, deception, or detecting falsehoods. Enabler.
+Enabler.
 
-#### Huge
+### Hidden Reserves
 
-When you use Enlarge, you can choose to grow up to 16 feet (5 m) in height. When you do, you add +1 to Armor (a total of +2 to Armor) and deal 2 additional points of damage with melee attacks. Enabler.
+Hidden Reserves #Ability #MetaAbility #Mid #Core 
 
-#### Hunter’s Drive (5 Intellect points)
+When you use an action to make a recovery roll, you also gain +1 to both your Might Edge and your Speed Edge for ten minutes thereafter. 
 
-Through force of will, when you wish it, you grant yourself greater prowess in the hunt for ten minutes. During this time, you gain an asset to all tasks involving your quarry, including attacks. Your quarry is the creature you selected with your Quarry ability. Enabler.
+Enabler.
 
-#### Hurl Flame (2 Intellect points)
+### Higher Mathematics
 
-While your Shroud of Flame is active, you can reach into your halo and hurl a handful of fire at a target. This is a ranged attack with short range that deals 4 points of fire damage. Action.
+Higher Mathematics #Ability #TaskAbility #Low #Core 
 
-### Abilities—I
+You are trained in standard and higher mathematics. 
 
-#### Ice Armor (1 Intellect point)
+Enabler.
 
-When you wish it, your body is covered in a sheen of ice for ten minutes that gives you +1 to Armor. While the sheen is active, you feel no discomfort from normal cold temperatures and have an additional +2 to Armor versus cold damage specifically. Enabler.
+### Hold Breath
 
-#### Ice Creation (4+ Intellect points)
+Hold Breath #Ability #MetaAbility #Low #Core 
 
-You create a solid object of ice that is your size or smaller. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. Your ice objects are as strong as iron, but if you’re not in constant contact with them, they function for only 1d6 + 6 rounds before breaking or melting. For example, you can make and wield an ice sword, but if you give it to another PC, the sword won’t last as long for that character. In addition to the normal options for using Effort, you can choose to use Effort to create objects larger than you. For each level of Effort used in this way, you can create an object up to twice again as large as you. Action.
+You can hold your breath for up to five minutes. 
 
-#### Ice Storm
+Enabler.
 
-You attempt an additional Intellect task as part of your Cold Burst attack, and if successful, you blind foes for up to one minute with a layer of freezing ice. All tasks of blinded creatures are hindered by two steps. Enabler.
+### Horde Fighting
 
-#### Ignition (4 Intellect points)
+Horde Fighting #Ability #ProtectionAbility #Mid #Core 
 
-You designate a creature or flammable object you can see within short range to catch fire. This is an Intellect attack. The target takes 6 points of ambient damage per round until the flames are extinguished, which a creature can do by dousing itself in water, rolling on the ground, or smothering the flames. Usually, putting out the flames takes an action. Action to initiate.
+When two or more foes attack you at once in melee, you can use them against each other. You gain an asset to Speed defense rolls or attack rolls (your choice each round) against them. 
 
-#### Ignore Affliction (5 Might points)
+Enabler.
 
-If you are affected by an unwanted condition or affliction (such as disease, paralysis, mind control, broken limb, and so on, but not damage), you can ignore it and act as if it does not affect you for one hour. If the condition would normally last less than an hour, it is entirely negated. Action.
+### Horde Tactics
 
-#### Ignore the Pain
+Horde Tactics (7 Might points) #Ability #MetaAbility #High #Core 
 
-You ignore the impaired condition and treat the debilitated condition as impaired. Enabler.
+For up to one hour a day, you and at least three other allies can act like a single creature. Use your stats, but add +8 to your Might Pool, +1 to your Might Edge, +2 to your Speed Pool, +1 to your Speed Edge, and +1 to your Armor. 
 
-#### Illuminating Touch (1 Intellect point)
+Enabler.
 
-You touch an object, and that object sheds light to illuminate everything in short range. The light remains until you use an action to touch the object again, or until you’ve illuminated more objects than you have tiers, in which case the oldest objects you illuminated go dark first. Action.
+### Hover
 
-#### Illusory Disguise (2+ Intellect points)
+Hover (2 Intellect points) #Ability #MovementAbility #Low #Core 
 
-You appear to be someone or something else, roughly of your size and shape, for up to one hour. Once created, the disguise requires no concentration. For each additional Intellect point you spend, you can disguise one other creature. All disguised creatures must stay within sight of you or lose their disguise. Action to create.
+You float slowly into the air. If you concentrate, you can control your movement to remain motionless in the air or float up to a short distance as your action; otherwise, you drift with the wind or with any momentum you have gained. This effect lasts for up to ten minutes. 
 
-#### Illusory Duplicate (2 Intellect points)
+Action to initiate.
 
-You create a single image of yourself within immediate range. The image looks like you as you are now (including how you are dressed). The image can move (for example, you could make it walk or attack), but it can’t move more than an immediate distance from where you created it. The illusion includes sound and smell. It lasts for ten minutes and changes as you direct (no concentration is needed). If you move beyond short range of the illusion, it vanishes. Action to create.
+### How Others Think
+
+How Others Think #Ability #TaskAbility #Low #Core 
+
+You have a sense of how people think. You’re trained in one of the following tasks: persuasion, deception, or detecting falsehoods. 
+
+Enabler.
+
+### Huge
+
+Huge #Ability #MetaAbility #Mid #Core 
+
+When you use Enlarge, you can choose to grow up to 16 feet (5 m) in height. When you do, you add +1 to Armor (a total of +2 to Armor) and deal 2 additional points of damage with melee attacks. 
+
+Enabler.
+
+### Hunter’s Drive
+
+Hunter’s Drive (5 Intellect points) #Ability #AttackAbility #High #Core 
+
+Through force of will, when you wish it, you grant yourself greater prowess in the hunt for ten minutes. During this time, you gain an asset to all tasks involving your quarry, including attacks. Your quarry is the creature you selected with your Quarry ability. 
+
+Enabler.
+
+### Hurl Flame
+
+Hurl Flame (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+While your Shroud of Flame is active, you can reach into your halo and hurl a handful of fire at a target. This is a ranged attack with short range that deals 4 points of fire damage. 
+
+Action.
+
+### Ice Armor
+
+Ice Armor (1 Intellect point) #Ability #ProtectionAbility #Low #Core 
+
+When you wish it, your body is covered in a sheen of ice for ten minutes that gives you +1 to Armor. While the sheen is active, you feel no discomfort from normal cold temperatures and have an additional +2 to Armor versus cold damage specifically. 
+
+Enabler.
+
+### Ice Creation
+
+Ice Creation (4+ Intellect points) #Ability #ProtectionAbility #Low #Core 
+
+You create a solid object of ice that is your size or smaller. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. Your ice objects are as strong as iron, but if you’re not in constant contact with them, they function for only 1d6 + 6 rounds before breaking or melting. For example, you can make and wield an ice sword, but if you give it to another PC, the sword won’t last as long for that character. In addition to the normal options for using Effort, you can choose to use Effort to create objects larger than you. For each level of Effort used in this way, you can create an object up to twice again as large as you. 
+
+Action.
+
+### Ice Storm
+
+Ice Storm #Ability #SpecialAttackAbility #High #Core 
+
+You attempt an additional Intellect task as part of your Cold Burst attack, and if successful, you blind foes for up to one minute with a layer of freezing ice. All tasks of blinded creatures are hindered by two steps. 
+
+Enabler.
+
+### Ignition
+
+Ignition (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You designate a creature or flammable object you can see within short range to catch fire. This is an Intellect attack. The target takes 6 points of ambient damage per round until the flames are extinguished, which a creature can do by dousing itself in water, rolling on the ground, or smothering the flames. Usually, putting out the flames takes an action. 
+
+Action to initiate.
+
+### Ignore Affliction
+
+Ignore Affliction (5 Might points) #Ability #CureAbility #Mid #Core 
+
+If you are affected by an unwanted condition or affliction (such as disease, paralysis, mind control, broken limb, and so on, but not damage), you can ignore it and act as if it does not affect you for one hour. If the condition would normally last less than an hour, it is entirely negated. 
+
+Action.
+
+### Ignore the Pain
+
+Ignore the Pain #Ability #CureAbility #Low #Core 
+
+You ignore the impaired condition and treat the debilitated condition as impaired. 
+
+Enabler.
+
+### Illuminating Touch
+
+Illuminating Touch (1 Intellect point) #Ability #EnvironmentAbility #Low #Core 
+
+You touch an object, and that object sheds light to illuminate everything in short range. The light remains until you use an action to touch the object again, or until you’ve illuminated more objects than you have tiers, in which case the oldest objects you illuminated go dark first. 
+
+Action.
+
+### Illusory Disguise
+
+Illusory Disguise (2+ Intellect points) #Ability #TransformAbility #Low #Core 
+
+You appear to be someone or something else, roughly of your size and shape, for up to one hour. Once created, the disguise requires no concentration. For each additional Intellect point you spend, you can disguise one other creature. All disguised creatures must stay within sight of you or lose their disguise. 
+
+Action to create.
+
+### Illusory Duplicate 
+
+Illusory Duplicate (2 Intellect points) #Ability #TransformAbility #Low #Core 
+
+You create a single image of yourself within immediate range. The image looks like you as you are now (including how you are dressed). The image can move (for example, you could make it walk or attack), but it can’t move more than an immediate distance from where you created it. The illusion includes sound and smell. It lasts for ten minutes and changes as you direct (no concentration is needed). If you move beyond short range of the illusion, it vanishes. 
+
+Action to create.
 
 #### Illusory Evasion (5 Intellect points)
 
