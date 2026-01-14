@@ -288,8 +288,8 @@ Should follow the following template :
 
 ## Linking conventions
 
-- Links are going to be a mess
+- Links are going to be a mess. main linking will happen once we have a complete file, after the main file is split up.
 - For now, use markdown standard links to headers. Link to # then header name, all lowercase, - instead of space. Special characters removed
 	- [https://blog.markdowntools.com/posts/how-to-link-to-a-header-in-markdown](https://blog.markdowntools.com/posts/markdown-internal-links)
-- How do I make this work in one file and in multiple files ? Prioritise single file in the meantime, but may require software when splitting
+- How do I make this work in one file and in multiple files ? Let's deal with single file for now, and relink when splitting the full file
  
