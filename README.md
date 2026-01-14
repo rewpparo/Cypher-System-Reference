@@ -91,7 +91,8 @@ All Cards follow the following principles :
 	- Ability Cost
 	- #Ability
 	- Tag for ability tier ( #Low #Mid or #High) as defined in core ability list
-	- Catergory Tag(s)
+	- #Unused if the ability is not referenced by anything else in the document (type, focus...)
+	- Category Tag(s)
 		- #AttackAbility 
 		- #CompanionAbility 
 		- #ControlAbility 
@@ -109,7 +110,7 @@ All Cards follow the following principles :
 		- #TaskAbility 
 		- #TransformAbility 
 		- Any ability category defined in the main abilities list or elsewhere in the document
-		- If no category is explicitely specified somewhere in CSRD, no category tag should be set
+		- If no category is explicitly specified somewhere in CSRD, no category tag should be set
 	- Genre Tags
 - Aptitude freeform
 - Last paragraph should only contain usage : "Enabler" or "Action" sentence.

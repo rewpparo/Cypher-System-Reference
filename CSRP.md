@@ -9230,280 +9230,550 @@ You can see in extremely dim light as though it were bright light. You can see i
 
 Enabler.
 
-### Abilities—F
+### Face Morph
 
-#### Face Morph (2+ Intellect points)
+Face Morph (2+ Intellect points) #Ability #TransformAbility #Low #Core 
 
-You alter your features and coloration for one hour, hiding your identity or impersonating someone. This affects only your face, not the rest of your body. You can’t perfectly duplicate someone else’s face, but you can be accurate enough to fool someone who knows that person casually. You have an asset in all tasks involving disguise. You must apply a level of Effort to be able to impersonate a different species (such as a human morphing into a humanoid alien). Action.
+You alter your features and coloration for one hour, hiding your identity or impersonating someone. This affects only your face, not the rest of your body. You can’t perfectly duplicate someone else’s face, but you can be accurate enough to fool someone who knows that person casually. You have an asset in all tasks involving disguise. You must apply a level of Effort to be able to impersonate a different species (such as a human morphing into a humanoid alien). 
 
-#### Familiarize
+Action.
 
-You can familiarize yourself with a new area if you spend at least one hour studying a region up to a long distance across that you are able to directly access and move about in. Once you’ve familiarized yourself with an area, all your tasks related to perception, navigation, salvaging and scavenging, defense, and moving about the area gain an asset. Each time you familiarize yourself with a new area, you lose focus on a previous area unless you spend 1 XP to retain the familiarity permanently. Action to initiate, one hour to complete.
+### Familiarize
 
-#### Far Step (2 Intellect points)
+Familiarize #Ability #SensesAbility #Low #Core 
 
-You leap through the air and land some distance away. You can jump up, down, or across to anywhere you choose within long range if you have a clear and unobstructed path to that location. You land safely. Action.
+You can familiarize yourself with a new area if you spend at least one hour studying a region up to a long distance across that you are able to directly access and move about in. Once you’ve familiarized yourself with an area, all your tasks related to perception, navigation, salvaging and scavenging, defense, and moving about the area gain an asset. Each time you familiarize yourself with a new area, you lose focus on a previous area unless you spend 1 XP to retain the familiarity permanently. 
 
-#### Fast Kill (2 Speed points)
+Action to initiate, one hour to complete.
 
-You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can’t make this attack in two consecutive rounds. Action.
+### Far Step
 
-#### Fast Talk (1 Intellect point)
+Far Step (2 Intellect points) #Ability #MovementAbility #Low #Core 
 
-When speaking with an intelligent creature who can understand you and isn’t hostile, you convince that creature to take one reasonable action in the next round. A reasonable action must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. Action.
+You leap through the air and land some distance away. You can jump up, down, or across to anywhere you choose within long range if you have a clear and unobstructed path to that location. You land safely. 
 
-#### Fast Travel (7 Intellect points)
+Action.
 
-You warp time and space so that you and up to ten other creatures within immediate distance travel overland at ten times the normal rate for up to eight hours. At this speed, most dangerous encounters or regions of rough terrain are ignored, though the GM may declare exceptions. Outright barriers still present a problem. Action to initiate.
+### Fast Kill 
 
-#### Faster Wild Magic
+Fast Kill (2 Speed points) #Ability #MetaAbility #Mid #Core 
 
-If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots. Action to initiate, ten minutes to complete.
+You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can’t make this attack in two consecutive rounds. 
 
-#### Fearsome Reputation (3 Intellect points)
+Action.
 
-You and those you travel with have earned a fearsome reputation in some parts. If your foes have heard of you, affected targets within earshot become afraid, and all attacks they make against you are hindered until one or more of them successfully inflicts damage on you or one of your allies, at which time their fear abates. Action.
+### Fast Talk
 
-#### Feat of Strength (1 Might point)
+Fast Talk (1 Intellect point) #Ability #ControlAbility #Low #Core 
 
-Any task that depends on brute force is eased. Examples include smashing down a barred door, tearing open a locked container, lifting or moving a heavy object, or striking someone with a melee weapon. Enabler.
+When speaking with an intelligent creature who can understand you and isn’t hostile, you convince that creature to take one reasonable action in the next round. A reasonable action must be agreed upon by the GM; it should not put the creature or its allies in obvious danger or be wildly out of character. 
 
-#### Feint (2 Speed points)
+Action.
 
-If you use one action creating a misdirection or diversion, in the next round you can take advantage of your opponent’s lowered defenses. Make a melee attack roll against that opponent. You gain an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. Action.
+### Fast Travel 
 
-#### Fellow Explorer
+Fast Travel (7 Intellect points) #Ability #MovementAbility #High #Core 
 
-You gain a level 2 follower. One of their modifications must be for tasks related to perception. Enabler.
+You warp time and space so that you and up to ten other creatures within immediate distance travel overland at ten times the normal rate for up to eight hours. At this speed, most dangerous encounters or regions of rough terrain are ignored, though the GM may declare exceptions. Outright barriers still present a problem. 
 
-#### Fetch (3 Intellect points)
+Action to initiate.
 
-You cause an object to disappear and reappear in your hands or somewhere else nearby. Choose one object that can fit inside a 5-foot (2 m) cube and that you can see within long range. The object vanishes and appears in your hands or in an open space anywhere you choose within immediate range. Action.
+### Faster Wild Magic
 
-#### Field of Destruction (4 Might points)
+Faster Wild Magic #Ability #Core 
 
-When you cause an object to descend one or more steps on the object damage track, you gain 1 additional point of Armor for one minute. Enabler.
+If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots. 
 
-#### Field of Gravity (4 Intellect points)
+Action to initiate, ten minutes to complete.
 
-When you wish it, a field of manipulated gravity around you pulls incoming ranged projectile attacks to the ground. You are immune to such attacks until your turn in the next round. You must be aware of an attack to foil it. This ability does not work on energy attacks. Enabler.
+### Fearsome Reputation
 
-#### Field-Reinforced Armor
+Fearsome Reputation (3 Intellect points) #Ability #ProtectionAbility #Low #Core 
 
-You gain +1 to Armor while wearing the power armor from your Powered Armor ability. Enabler.
+You and those you travel with have earned a fearsome reputation in some parts. If your foes have heard of you, affected targets within earshot become afraid, and all attacks they make against you are hindered until one or more of them successfully inflicts damage on you or one of your allies, at which time their fear abates. 
 
-#### Fiery Hand of Doom (3 Intellect points)
+Action.
 
-While your Shroud of Flame is active, you can reach into your halo and produce a hand made of animate flame that is twice the size of a human’s hand. The hand acts as you direct, floating in the air. Directing the hand is an action. Without a command, the hand does nothing. It can move a long distance in a round, but it never moves farther away from you than long range. The hand can grab, move, and carry things, but anything it touches takes 1 point of damage per round from the heat. The hand can also attack. It’s a level 3 creature and deals 1 extra point of damage from fire when it attacks. Once created, the hand lasts for ten minutes. Action to create; action to direct.
+### Feat of Strength
 
-#### Fight On
+Feat of Strength (1 Might point) #Ability #TaskAbility #Low #Core 
 
-You do not suffer the normal penalties for being impaired on the damage track. If debilitated, instead of suffering the normal penalty of being unable to take most actions, you can continue to act; however, all tasks are hindered. Enabler.
+Any task that depends on brute force is eased. Examples include smashing down a barred door, tearing open a locked container, lifting or moving a heavy object, or striking someone with a melee weapon. 
 
-#### Final Defiance
+Enabler.
 
-When you would normally be dead, you instead remain conscious and active for one more round plus one additional round each time you succeed on a difficulty 5 Might task. During these rounds, you are debilitated. If you do not receive healing or otherwise gain points in a Pool during your final round(s) of activity, you are subject to the effects of Not Dead Yet. Enabler.
+### Feint
 
-#### Find an Opening (1 Intellect point)
+Feint (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-You use trickery to find an opening in your foe’s defenses. If you succeed on a Speed roll against one creature within immediate range, your next attack against that creature before the end of the next round is eased. Action.
+If you use one action creating a misdirection or diversion, in the next round you can take advantage of your opponent’s lowered defenses. Make a melee attack roll against that opponent. You gain an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. 
 
-#### Find the Guilty
+Action.
 
-If you have used Designation on a target, you are trained in tracking them, spotting them when they are hidden or disguised, or otherwise finding them. Enabler.
+### Fellow Explorer
 
-#### Find the Hidden (4+ Intellect points)
+Fellow Explorer #Ability #CompanionAbility #Mid #Core 
 
-You see the traceries of objects as they move through space and time. You can sense the distance and direction of any specific inanimate object that you once touched. This takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take. If you use at least two levels of Effort, once you have established the distance and direction, you remain in contact with the object for one hour per level of Effort used. Thus, if it moves, you are aware of its new position. Action to initiate; action each round to concentrate.
+You gain a level 2 follower. One of their modifications must be for tasks related to perception. 
 
-#### Find the Way
+Enabler.
 
-When you apply Effort to a navigation task because you don’t know the way, are lost, are attempting to blaze a new route, need to choose between two or more otherwise similar paths to take, or something very similar, you can apply a free level of Effort. Enabler.
+### Fetch
 
-#### Finishing Blow (5 Might points)
+Fetch (3 Intellect points) #Ability #EnvironmentAbility #Low #Core 
 
-If your foe is prone, stunned, or somehow helpless or incapacitated when you strike, you inflict 7 additional points of damage on a successful hit. Enabler.
+You cause an object to disappear and reappear in your hands or somewhere else nearby. Choose one object that can fit inside a 5-foot (2 m) cube and that you can see within long range. The object vanishes and appears in your hands or in an open space anywhere you choose within immediate range. 
 
-#### Fire and Ice (4 Intellect points)
+Action.
 
-You cause a target within short range to become either very hot or very cold (your choice). The target suffers 3 points of ambient damage (ignores Armor) each round for up to three rounds, although a new roll is required each round to continue to affect the target. Action to initiate.
+### Field of Destruction
 
-#### Fire Bloom (4+ Intellect points)
+Field of Destruction (4 Might points) #Ability #ProtectionAbility #Low #Core 
 
-Fire blooms within long range, filling an area 10 feet (3 m) in radius and inflicting 3 points of damage on all affected targets. Effort applied to one attack counts for all attacks against targets in the area of the bloom. Even on an unsuccessful attack, a target in the area still takes 1 point of damage. Flammable objects in the area may catch fire. Action.
+When you cause an object to descend one or more steps on the object damage track, you gain 1 additional point of Armor for one minute. 
 
-#### Fire Servant (6 Intellect points)
+Enabler.
 
-While your Shroud of Flame is active, you reach into your halo and produce an automaton of fire that is your general shape and size. It acts as you direct each round. Directing the servant is an action, and you can command it only when you are within long range of it. Without a command, the servant continues to follow your previous command. You can also give it a simple programmed action, such as “Wait here, and attack anyone who comes within short range until they’re dead.” The servant lasts for ten minutes, is a level 5 creature, and deals 1 extra point of damage from fire when it attacks. Action to create; action to direct.
+### Field of Gravity
 
-#### Fire Tendrils (5 Intellect points)
+Field of Gravity (4 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
 
-When you wish it, your halo (from your Shroud of Flame ability) sprouts three tendrils of flame that last for up to ten minutes. As an action, you can use the tendrils to attack, making a separate attack roll for each. Each tendril inflicts 4 points of damage. Otherwise, the attacks function as standard attacks. If you don’t use the tendrils to attack, they remain but do nothing. Enabler.
+When you wish it, a field of manipulated gravity around you pulls incoming ranged projectile attacks to the ground. You are immune to such attacks until your turn in the next round. You must be aware of an attack to foil it. This ability does not work on energy attacks. 
 
-#### Fists of Fury
+Enabler.
 
-You inflict 2 additional points of damage with unarmed attacks. Enabler.
+### Field-Reinforced Armor
 
-#### Flamboyant Boast (1 Intellect point)
+Field-Reinforced Armor #Ability #ProtectionAbility #High #Core 
 
-You boastfully describe an act that you will accomplish, and then as part of the same action, you attempt it. If an average person would find the action difficult (or impossible) and you succeed on it, creatures who witnessed it who are not your allies are potentially dazed on their next turn, and all tasks they attempt are hindered. The GM will help you determine whether your boast is something that would impress onlookers so significantly. If you attempt the task you boast about but fail to accomplish it, all your attempts to affect or attack onlookers who saw you are hindered for about ten minutes. Enabler.
+You gain +1 to Armor while wearing the power armor from your Powered Armor ability. 
 
-#### Flameblade (4 Intellect points)
+Enabler.
 
-When you wish it, you extend your Shroud of Flame to cover a weapon you wield in flame for one hour. The flame ends if you stop holding or carrying the weapon. While the flame lasts, the weapon inflicts 2 additional points of damage. Enabler.
+### Fiery Hand of Doom
 
-#### Flash (4 Intellect points)
+Fiery Hand of Doom (3 Intellect points) #Ability #CompanionAbility #Mid #Core 
 
-You create an explosion of energy at a point within close range, affecting an area up to immediate range from that point. You must be able to see the location where you intend to center the explosion. The blast inflicts 2 points of damage to all creatures or objects within the area. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. Action.
+While your Shroud of Flame is active, you can reach into your halo and produce a hand made of animate flame that is twice the size of a human’s hand. The hand acts as you direct, floating in the air. Directing the hand is an action. Without a command, the hand does nothing. It can move a long distance in a round, but it never moves farther away from you than long range. The hand can grab, move, and carry things, but anything it touches takes 1 point of damage per round from the heat. The hand can also attack. It’s a level 3 creature and deals 1 extra point of damage from fire when it attacks. Once created, the hand lasts for ten minutes. 
 
-#### Flash Across the Miles (6+ Intellect points)
+Action to create; action to direct.
 
-You can move to an open location on the planet that you’re familiar with almost instantaneously, transformed into a bolt of lightning. If you apply a level of Effort, you can attempt to penetrate covered locations that you’re aware of as long as a route exists from the open air to the area you want to reach that electricity can easily follow. Action.
+### Fight On
 
-#### Flee (6 Intellect points)
+Fight On #Ability #CureAbility #Mid #Core 
 
-All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. Action.
+You do not suffer the normal penalties for being impaired on the damage track. If debilitated, instead of suffering the normal penalty of being unable to take most actions, you can continue to act; however, all tasks are hindered. 
 
-#### Fleet of Foot (1+ Speed points)
+Enabler.
 
-You can move a short distance as part of another action. You can move a long distance as your entire action for a turn. If you apply a level of Effort to this ability, you can move a long distance and make an attack as your entire action for a turn, but the attack is hindered. Enabler.
+### Final Defiance
 
-#### Flesh of Stone
+Final Defiance #Ability #CureAbility #High  #Core 
 
-You have +1 to Armor if you do not wear physical armor. Enabler.
+When you would normally be dead, you instead remain conscious and active for one more round plus one additional round each time you succeed on a difficulty 5 Might task. During these rounds, you are debilitated. If you do not receive healing or otherwise gain points in a Pool during your final round(s) of activity, you are subject to the effects of Not Dead Yet. 
 
-#### Flex Lore
+Enabler.
 
-After each ten-hour recovery roll when you have access to a high-technology digital reference library (such as one that might be found in a starship or in a learning center), choose one field of knowledge related to a specific planet or some other location. The field might be habitations, customs, governments, characteristics of the main species, important figures, and so on. You’re trained in that field until you use this ability again. You could use this ability with an area of knowledge you’re already trained in to become specialized. Enabler.
+### Find an Opening
 
-#### Flex Skill
+Find an Opening (1 Intellect point) #Ability #SensesAbility  #Low #Core 
 
-At the beginning of each day, choose one task (other than attacks or defense) on which you will concentrate. For the rest of that day, you’re trained in that task. You can’t use this ability with a skill in which you’re already trained to become specialized. Enabler.
+You use trickery to find an opening in your foe’s defenses. If you succeed on a Speed roll against one creature within immediate range, your next attack against that creature before the end of the next round is eased. 
 
-#### Flex Weapon Skill
+Action.
 
-At the beginning of each day, choose one type of attack: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. For the rest of that day, you are trained in attacks using that type of weapon. You can’t use this ability with an attack skill in which you’re already trained to become specialized. Enabler.
+### Find the Guilty
 
-#### Flight (4+ Intellect points)
+Find the Guilty #Ability #TaskAbility #Mid #Core 
 
-You can float and fly through the air for one hour. For each level of Effort applied, you can affect one additional creature of your size or smaller. You must touch the creature to bestow the power of flight. You direct the other creature’s movement, and while flying, it must remain within sight of you or fall. In terms of overland movement, a flying creature moves about 20 miles (32 km) per hour and is not affected by terrain. Action to initiate.
+If you have used Designation on a target, you are trained in tracking them, spotting them when they are hidden or disguised, or otherwise finding them. 
 
-#### Flight Exertion (3 Might or 3 Speed points)
+Enabler.
 
-You can fly up to a short distance as your movement this round. If all you do is move on your turn, you can fly up to a long distance. Enabler.
+### Find the Hidden
 
-#### Flight Not Fight
+Find the Hidden (4+ Intellect points) #Ability #InformationAbility #Mid #Core 
 
-If you use your action only to move, all Speed defense tasks are eased. Enabler.
+You see the traceries of objects as they move through space and time. You can sense the distance and direction of any specific inanimate object that you once touched. This takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take. If you use at least two levels of Effort, once you have established the distance and direction, you remain in contact with the object for one hour per level of Effort used. Thus, if it moves, you are aware of its new position. 
 
-#### Fling (4 Intellect points)
+Action to initiate; action each round to concentrate.
 
-You violently launch a creature or object about your size or smaller within short range and send it flying a short distance in any direction. This is an Intellect attack that inflicts 4 points of damage to the object being flung when it lands or strikes a barrier. If you aim the primary target at another creature or object (and succeed on a second attack), the secondary target also takes 4 points of damage. Action.
+### Find the Way
 
-#### Flying Companion
+Find the Way #Ability #MetaAbility #Low #Core 
 
-You gain a level 3 companion creature that can fly at the same speed as you; depending on other aspects of your character, this might be a trained bird, a machine drone, or a helpful strange creature such as a familiar. This creature accompanies you and acts as you direct. As a level 3 companion, it has a target number of 9 and 9 health, and it inflicts 3 points of damage. If it’s killed or destroyed, it takes you one month to find or create a suitable replacement. Enabler.
+When you apply Effort to a navigation task because you don’t know the way, are lost, are attempting to blaze a new route, need to choose between two or more otherwise similar paths to take, or something very similar, you can apply a free level of Effort. 
 
-#### Foil Danger (2 Intellect points)
+Enabler.
 
-You negate one source of potential danger related to one creature or object that you are aware of within immediate distance for one round. This could be a weapon or device held by someone, a trap triggered by a pressure plate, or a creature’s natural ability (something special, innate, and dangerous, like a dragon’s fiery breath or a giant cobra’s venom). You can also try to foil a foe‘s mundane action (such as an attack with a weapon or claw), so that the action isn‘t made this round. Make your roll against the level of the attack, danger, or creature. Action.
+### Finishing Blow
 
-#### Font of Healing
+Finishing Blow (5 Might points) #Ability #SpecialAttackAbility #High #Core 
 
-With your approval, other creatures can touch you and regain 1d6 points to either their Might Pool or their Speed Pool. This healing costs them 2 Intellect points. A single creature can benefit from this ability only once each day. Enabler.
+If your foe is prone, stunned, or somehow helpless or incapacitated when you strike, you inflict 7 additional points of damage on a successful hit. 
 
-#### Force and Accuracy
+Enabler.
 
-You inflict 3 additional points of damage with attacks using weapons that you throw. Enabler.
+### Fire and Ice
 
-#### Force at Distance (4+ Intellect points)
+Fire and Ice (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-You temporarily bend the fundamental law of gravity around a creature or object (up to twice your mass) within short range. The target is caught in your telekinetic grip, and you can move it up to a short distance in any direction each round that you retain your hold. A creature in your grip can take actions, but it can’t move under its own power. Each round after the initial attack, you can attempt to keep your grip on the target by spending 2 additional Intellect points and succeeding at a difficulty 2 Intellect task. If your concentration lapses, the target drops back to the ground. In addition to the normal options for using Effort, you can choose to use Effort to increase the amount of mass you can affect. Each level allows you to affect a creature or object twice as massive as before. For example, applying one level of Effort would affect a creature four times as massive as you, two levels would affect a creature eight times as massive, three levels would affect a creature sixteen times as massive, and so on. Action to initiate.
+You cause a target within short range to become either very hot or very cold (your choice). The target suffers 3 points of ambient damage (ignores Armor) each round for up to three rounds, although a new roll is required each round to continue to affect the target. 
 
-#### Force Bash (1 Might point)
+Action to initiate.
 
-This is a pummeling melee attack you make with your Force Field Shield. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. Enabler.
+### Fire Bloom
 
-#### Force Blast
+Fire Bloom (4+ Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+Fire blooms within long range, filling an area 10 feet (3 m) in radius and inflicting 3 points of damage on all affected targets. Effort applied to one attack counts for all attacks against targets in the area of the bloom. Even on an unsuccessful attack, a target in the area still takes 1 point of damage. Flammable objects in the area may catch fire. 
+
+Action.
+
+### Fire Servant
+
+Fire Servant (6 Intellect points) #Ability #CompanionAbility #High #Core 
+
+While your Shroud of Flame is active, you reach into your halo and produce an automaton of fire that is your general shape and size. It acts as you direct each round. Directing the servant is an action, and you can command it only when you are within long range of it. Without a command, the servant continues to follow your previous command. You can also give it a simple programmed action, such as “Wait here, and attack anyone who comes within short range until they’re dead.” The servant lasts for ten minutes, is a level 5 creature, and deals 1 extra point of damage from fire when it attacks. 
+
+Action to create; action to direct.
+
+### Fire Tendrils
+
+Fire Tendrils (5 Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+When you wish it, your halo (from your Shroud of Flame ability) sprouts three tendrils of flame that last for up to ten minutes. As an action, you can use the tendrils to attack, making a separate attack roll for each. Each tendril inflicts 4 points of damage. Otherwise, the attacks function as standard attacks. If you don’t use the tendrils to attack, they remain but do nothing. 
+
+Enabler.
+
+### Fists of Fury
+
+Fists of Fury #Ability #MetaAbility #Low #Core 
+
+You inflict 2 additional points of damage with unarmed attacks. 
+
+Enabler.
+
+### Flamboyant Boast
+
+Flamboyant Boast (1 Intellect point) #Ability #SocialAbility #Mid #Core 
+
+You boastfully describe an act that you will accomplish, and then as part of the same action, you attempt it. If an average person would find the action difficult (or impossible) and you succeed on it, creatures who witnessed it who are not your allies are potentially dazed on their next turn, and all tasks they attempt are hindered. The GM will help you determine whether your boast is something that would impress onlookers so significantly. If you attempt the task you boast about but fail to accomplish it, all your attempts to affect or attack onlookers who saw you are hindered for about ten minutes. 
+
+Enabler.
+
+### Flameblade
+
+Flameblade (4 Intellect points) #Ability #MetaAbility #Mid #Core 
+
+When you wish it, you extend your Shroud of Flame to cover a weapon you wield in flame for one hour. The flame ends if you stop holding or carrying the weapon. While the flame lasts, the weapon inflicts 2 additional points of damage. 
+
+Enabler.
+
+### Flash
+
+Flash (4 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You create an explosion of energy at a point within close range, affecting an area up to immediate range from that point. You must be able to see the location where you intend to center the explosion. The blast inflicts 2 points of damage to all creatures or objects within the area. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. 
+
+Action.
+
+### Flash Across the Miles
+
+Flash Across the Miles (6+ Intellect points) #Ability #MovementAbility #High #Core 
+
+You can move to an open location on the planet that you’re familiar with almost instantaneously, transformed into a bolt of lightning. If you apply a level of Effort, you can attempt to penetrate covered locations that you’re aware of as long as a route exists from the open air to the area you want to reach that electricity can easily follow. 
+
+Action.
+
+### Flee
+
+Flee (6 Intellect points) #Ability #ControlAbility #High #Core 
+
+All non-allies within short distance who can hear your dreadful, intimidating words flee from you at top speed for one minute. 
+
+Action.
+
+### Fleet of Foot
+
+Fleet of Foot (1+ Speed points) #Ability #MetaAbility #Low #Core 
+
+You can move a short distance as part of another action. You can move a long distance as your entire action for a turn. If you apply a level of Effort to this ability, you can move a long distance and make an attack as your entire action for a turn, but the attack is hindered. 
+
+Enabler.
+
+### Flesh of Stone
+
+Flesh of Stone #Ability #ProtectionAbility #Low #Core 
+
+You have +1 to Armor if you do not wear physical armor. 
+
+Enabler.
+
+### Flex Lore
+
+Flex Lore #Ability #TaskAbility #Low #Core 
+
+After each ten-hour recovery roll when you have access to a high-technology digital reference library (such as one that might be found in a starship or in a learning center), choose one field of knowledge related to a specific planet or some other location. The field might be habitations, customs, governments, characteristics of the main species, important figures, and so on. You’re trained in that field until you use this ability again. You could use this ability with an area of knowledge you’re already trained in to become specialized. 
+
+Enabler.
+
+### Flex Skill
+
+Flex Skill #Ability #TaskAbility #Mid #Core 
+
+At the beginning of each day, choose one task (other than attacks or defense) on which you will concentrate. For the rest of that day, you’re trained in that task. You can’t use this ability with a skill in which you’re already trained to become specialized. 
+
+Enabler.
+
+### Flex Weapon Skill
+
+Flex Weapon Skill #Ability #Core 
+
+At the beginning of each day, choose one type of attack: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. For the rest of that day, you are trained in attacks using that type of weapon. You can’t use this ability with an attack skill in which you’re already trained to become specialized. 
+
+Enabler.
+
+### Flight
+
+Flight (4+ Intellect points) #Ability #MovementAbility #High #Core 
+
+You can float and fly through the air for one hour. For each level of Effort applied, you can affect one additional creature of your size or smaller. You must touch the creature to bestow the power of flight. You direct the other creature’s movement, and while flying, it must remain within sight of you or fall. In terms of overland movement, a flying creature moves about 20 miles (32 km) per hour and is not affected by terrain. 
+
+Action to initiate.
+
+### Flight Exertion
+
+Flight Exertion (3 Might or 3 Speed points) #Ability #Core 
+
+You can fly up to a short distance as your movement this round. If all you do is move on your turn, you can fly up to a long distance. 
+
+Enabler.
+
+### Flight Not Fight
+
+Flight Not Fight #Ability #ProtectionAbility #Low #Core 
+
+If you use your action only to move, all Speed defense tasks are eased. 
+
+Enabler.
+
+### Fling
+
+Fling (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You violently launch a creature or object about your size or smaller within short range and send it flying a short distance in any direction. This is an Intellect attack that inflicts 4 points of damage to the object being flung when it lands or strikes a barrier. If you aim the primary target at another creature or object (and succeed on a second attack), the secondary target also takes 4 points of damage. 
+
+Action.
+
+### Flying Companion
+
+Flying Companion #Ability #Core 
+
+You gain a level 3 companion creature that can fly at the same speed as you; depending on other aspects of your character, this might be a trained bird, a machine drone, or a helpful strange creature such as a familiar. This creature accompanies you and acts as you direct. As a level 3 companion, it has a target number of 9 and 9 health, and it inflicts 3 points of damage. If it’s killed or destroyed, it takes you one month to find or create a suitable replacement. 
+
+Enabler.
+
+### Foil Danger
+
+Foil Danger (2 Intellect points) #Ability #CureAbility #Low #Core 
+
+You negate one source of potential danger related to one creature or object that you are aware of within immediate distance for one round. This could be a weapon or device held by someone, a trap triggered by a pressure plate, or a creature’s natural ability (something special, innate, and dangerous, like a dragon’s fiery breath or a giant cobra’s venom). You can also try to foil a foe‘s mundane action (such as an attack with a weapon or claw), so that the action isn‘t made this round. Make your roll against the level of the attack, danger, or creature. 
+
+Action.
+
+### Font of Healing
+
+Font of Healing #Ability #CureAbility #Mid #Core 
+
+With your approval, other creatures can touch you and regain 1d6 points to either their Might Pool or their Speed Pool. This healing costs them 2 Intellect points. A single creature can benefit from this ability only once each day. 
+
+Enabler.
+
+### Force and Accuracy
+
+Force and Accuracy #Ability #MetaAbility #High #Core 
+
+You inflict 3 additional points of damage with attacks using weapons that you throw. 
+
+Enabler.
+
+### Force at Distance
+
+Force at Distance (4+ Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You temporarily bend the fundamental law of gravity around a creature or object (up to twice your mass) within short range. The target is caught in your telekinetic grip, and you can move it up to a short distance in any direction each round that you retain your hold. A creature in your grip can take actions, but it can’t move under its own power. Each round after the initial attack, you can attempt to keep your grip on the target by spending 2 additional Intellect points and succeeding at a difficulty 2 Intellect task. If your concentration lapses, the target drops back to the ground. In addition to the normal options for using Effort, you can choose to use Effort to increase the amount of mass you can affect. Each level allows you to affect a creature or object twice as massive as before. For example, applying one level of Effort would affect a creature four times as massive as you, two levels would affect a creature eight times as massive, three levels would affect a creature sixteen times as massive, and so on. 
+
+Action to initiate.
+
+### Force Bash
+
+Force Bash (1 Might point) #Ability #SpecialAttackAbility #Low #Core 
+
+This is a pummeling melee attack you make with your Force Field Shield. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. 
+
+Enabler.
+
+### Force Blast
+
+Force Blast #Ability #SpecialAttackAbility #Mid #Core 
 
 You figure out how to project blasts of pure force from the gauntlets of the power armor from your Powered Armor ability. This allows you to fire a blast of force that inflicts 5 points of damage with a range of 200 feet  
-(60 m). Action.
+(60 m). 
 
-#### Force Field (3 Intellect points)
+Action.
+
+### Force Field
+
+Force Field (3 Intellect points) #Ability #SupportAbility #Low #Core 
 
 You create an invisible energy barrier around a creature or object you choose within short range. The force field moves with the creature or object and lasts for ten minutes. If the target is a creature, they gain +1 to Armor; if the target is an object, attacks against it are hindered.
 
-#### Force Field Barrier (3+ Intellect points)
+### Force Field Barrier
 
-You create an opaque, stationary barrier of solid energy (a force field) within immediate range. The barrier is 10 feet by 10 feet (3 m by 3 m) and of negligible thickness. It is a level 2 barrier and lasts for ten minutes. It can be placed anywhere it fits, whether against a solid object (including the ground) or floating in the air. Each level of Effort you apply strengthens the barrier by one level. For example, applying two levels of Effort creates a level 4 barrier. Action.
+Force Field Barrier (3+ Intellect points) #Ability #EnvironmentAbility #Mid #Core 
 
-#### Force Field Shield
+You create an opaque, stationary barrier of solid energy (a force field) within immediate range. The barrier is 10 feet by 10 feet (3 m by 3 m) and of negligible thickness. It is a level 2 barrier and lasts for ten minutes. It can be placed anywhere it fits, whether against a solid object (including the ground) or floating in the air. Each level of Effort you apply strengthens the barrier by one level. For example, applying two levels of Effort creates a level 4 barrier. 
 
-You manifest a small plane of pure force, which takes on a shield-like shape with the barest flicker of a thought. You can dismiss it just as easily. To use the force shield, you must hold it in one of your hands. You are practiced in using your exotic shield in one hand as a light melee weapon; however, if you attack with both your shield and a weapon held in the other hand, both attacks are hindered. When you are unconscious or sleeping, the force field dissipates. Enabler. (A shield, including one produced by a force field, provides an asset to a character’s Speed defense task while it is held in one hand.)
+Action.
 
-#### Force to Reckon With
+### Force Field Shield
 
-You can break through force fields and energy barriers as if they were physical walls. Enabler.
+Force Field Shield #Ability #ProtectionAbility #Low #Core 
 
-#### Force Wall (5 Intellect points)
+You manifest a small plane of pure force, which takes on a shield-like shape with the barest flicker of a thought. You can dismiss it just as easily. To use the force shield, you must hold it in one of your hands. You are practiced in using your exotic shield in one hand as a light melee weapon; however, if you attack with both your shield and a weapon held in the other hand, both attacks are hindered. When you are unconscious or sleeping, the force field dissipates. 
 
-You can trigger the energy in your Force Field Shield to expand outward in all directions to create an immobile plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for up to one hour or until you take your shield back. (The force shield becomes the force wall.) The plane of the force wall conforms to the space available. While the force wall remains in place, you cannot use any of your other abilities that require Force Field Shield. Action to initiate.
+(A shield, including one produced by a force field, provides an asset to a character’s Speed defense task while it is held in one hand.)
 
-#### Fortification Builder
+Enabler. 
 
-Whenever you attempt a crafting task—or help in the crafting task—to build a wall or other fortification, you ease the crafting difficulty by two steps, to a minimum of difficulty 1. Enabler.
+### Force to Reckon With
 
-#### Fortified Position (2 Might points)
+Force to Reckon With #Ability #EnvironmentAbility #Mid #Core 
 
-For the next minute, you gain +1 Armor and an asset to your Might defense tasks, as long as you haven’t moved more than an immediate distance since your last turn. Action to initiate.
+You can break through force fields and energy barriers as if they were physical walls. 
 
-#### Foul Aura (5+ Intellect points)
+Enabler.
 
-Your words, gestures, and touch invest an object no larger than yourself with an aura of doom, fear, and doubt for one day. Creatures that can hear and understand you feel an urge to move at least a short distance away from the object. If a creature does not move away, all tasks, attacks, and defenses it attempts while within the aura are hindered. The duration of the aura is extended by one day per level of Effort applied. The aura is temporarily blocked while the object is covered or contained. Action to initiate.
+### Force Wall
 
-#### Freakishly Large
+Force Wall (5 Intellect points) #Ability #EnvironmentAbility #High #Core 
 
-Your increased size intimidates most people. While you enjoy the effects of Enlarge, all intimidation tasks you attempt are eased. Enabler.
+You can trigger the energy in your Force Field Shield to expand outward in all directions to create an immobile plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for up to one hour or until you take your shield back. (The force shield becomes the force wall.) The plane of the force wall conforms to the space available. While the force wall remains in place, you cannot use any of your other abilities that require Force Field Shield. 
 
-#### Free to Move
+Action to initiate.
 
-You ignore all movement penalties and adjustments due to terrain or other obstacles. You can fit through any space large enough to fit your head. Tasks involving breaking free of bonds, a creature’s grip, or any similar impediment gain three free levels of Effort. Enabler.
+### Fortification Builder
 
-#### Freezing Touch (4 Intellect points)
+Fortification Builder #Ability #CraftAbility #Low #Core 
 
-Your hands become so cold that your touch freezes solid a living target of your size or smaller, rendering it immobile for one round. If you have another cold ability activated by touch (such as Frost Touch), you can use it as part of the Freezing Touch attack. Action.
+Whenever you attempt a crafting task—or help in the crafting task—to build a wall or other fortification, you ease the crafting difficulty by two steps, to a minimum of difficulty 1. 
 
-#### Frenzy (1 Intellect point)
+Enabler.
 
-When you wish, while in combat, you can enter a state of frenzy. While in this state, you can’t use Intellect points, but you gain +1 to your Might Edge and your Speed Edge. This effect lasts as long as you wish, but it ends if no combat is taking place within range of your senses. Enabler.
+### Fortified Position 
 
-#### Friendly Help
+Fortified Position (2 Might points) #Ability #ProtectionAbility #Low #Core 
 
-If your friend tries a task and fails, they can try again without spending Effort if you help. You provide this advantage to your friend even if you are not trained in the task that they are retrying. Enabler.
+For the next minute, you gain +1 Armor and an asset to your Might defense tasks, as long as you haven’t moved more than an immediate distance since your last turn. 
 
-#### From the Shadows
+Action to initiate.
 
-If you successfully attack a creature that was previously unaware of your presence, you deal 3 additional points of damage. Enabler.
+### Foul Aura 
 
-#### Frost Touch (1 Intellect point)
+Foul Aura (5+ Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold. Action for touch; enabler for weapon.
+Your words, gestures, and touch invest an object no larger than yourself with an aura of doom, fear, and doubt for one day. Creatures that can hear and understand you feel an urge to move at least a short distance away from the object. If a creature does not move away, all tasks, attacks, and defenses it attempts while within the aura are hindered. The duration of the aura is extended by one day per level of Effort applied. The aura is temporarily blocked while the object is covered or contained. 
 
-#### Further Mathematics
+Action to initiate.
 
-You are specialized in higher mathematics. If you are already specialized, choose some other sphere of knowledge to become trained in. Enabler.
+### Freakishly Large
 
-#### Fury (3 Might points)
+Freakishly Large #Ability #TaskAbility #Low #Core 
 
-For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.
+Your increased size intimidates most people. While you enjoy the effects of Enlarge, all intimidation tasks you attempt are eased. 
 
-#### Fusion
+Enabler.
 
-You can fuse your manifest cyphers and artifacts with your body. These fused devices function as if they were one level higher. Enabler.
+### Free to Move
+
+Free to Move #Ability #CureAbility #High #Core 
+
+You ignore all movement penalties and adjustments due to terrain or other obstacles. You can fit through any space large enough to fit your head. Tasks involving breaking free of bonds, a creature’s grip, or any similar impediment gain three free levels of Effort. 
+
+Enabler.
+
+### Freezing Touch
+
+Freezing Touch (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+Your hands become so cold that your touch freezes solid a living target of your size or smaller, rendering it immobile for one round. If you have another cold ability activated by touch (such as Frost Touch), you can use it as part of the Freezing Touch attack. 
+
+Action.
+
+### Frenzy
+
+Frenzy (1 Intellect point) #Ability #MetaAbility #Low #Core 
+
+When you wish, while in combat, you can enter a state of frenzy. While in this state, you can’t use Intellect points, but you gain +1 to your Might Edge and your Speed Edge. This effect lasts as long as you wish, but it ends if no combat is taking place within range of your senses. 
+
+Enabler.
+
+### Friendly Help
+
+Friendly Help #Ability #SupportAbility #Low #Core 
+
+If your friend tries a task and fails, they can try again without spending Effort if you help. You provide this advantage to your friend even if you are not trained in the task that they are retrying. 
+
+Enabler.
+
+### From the Shadows
+
+From the Shadows #Ability #MetaAbility #Mid #Core 
+
+If you successfully attack a creature that was previously unaware of your presence, you deal 3 additional points of damage. 
+
+Enabler.
+
+### Frost Touch
+
+Frost Touch (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
+
+Your hands become so cold that the next time you touch a creature, you inflict 3 points of damage. Alternatively, you can use this ability on a weapon, and for ten minutes, it inflicts 1 additional point of damage from the cold. 
+
+Action for touch; enabler for weapon.
+
+### Further Mathematics
+
+Further Mathematics #Ability #TaskAbility #High #Core 
+
+You are specialized in higher mathematics. If you are already specialized, choose some other sphere of knowledge to become trained in. 
+
+Enabler.
+
+### Fury
+
+Fury (3 Might points) #Ability #MetaAbility #Mid #Core 
+
+For the next minute, all melee attacks you make inflict 2 additional points of damage. 
+
+Action to initiate.
+
+### Fusion
+
+Fusion #Ability #MetaAbility #Mid #Core 
+
+You can fuse your manifest cyphers and artifacts with your body. These fused devices function as if they were one level higher. 
+
+Enabler.
 
 #### Fusion Armor
 
-A procedure gives you biometal implants in major portions of your body, you grow metal-hard skin, the blessings of an angel protect you, or something similar happens. These changes give you +1 to Armor even when you’re not wearing physical armor. Enabler.
+Fusion Armor #Ability #ProtectionAbility #Mid #Core 
+
+A procedure gives you biometal implants in major portions of your body, you grow metal-hard skin, the blessings of an angel protect you, or something similar happens. These changes give you +1 to Armor even when you’re not wearing physical armor. 
+
+Enabler.
 
 ### Abilities—G
 
