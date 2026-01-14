@@ -9767,7 +9767,7 @@ You can fuse your manifest cyphers and artifacts with your body. These fused dev
 
 Enabler.
 
-#### Fusion Armor
+### Fusion Armor
 
 Fusion Armor #Ability #ProtectionAbility #Mid #Core 
 
