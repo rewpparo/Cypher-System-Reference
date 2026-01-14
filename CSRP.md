@@ -5,6 +5,7 @@ This reference aims to be matching in content the CSRD of 22/08/2025
 This product is an independent production and is not affiliated with Monte Cook Games, LLC. It is published under the Cypher System Open License, found at [http://csol.montecookgames.com](http://csol.montecookgames.com).
 
 CYPHER SYSTEM and its logo are trademarks of Monte Cook Games, LLC in the U.S.A. and other countries. All Monte Cook Games characters and character names, and the distinctive likenesses thereof, are trademarks of Monte Cook Games, LLC.
+
 # Contents
 
 [How to Play the Cypher System](#how-to-play-the-cypher-system)
@@ -72,13 +73,9 @@ Genres
 - [Cyberpunk](#cyberpunk)
 - [Weird West](#weird-west)
 - [Modern Fantasy](#modern-fantasy)
-
-[Test](#^e53ce4)
 # SECTION 1 : Core
 
 # How to Play the Cypher System
-
-^e53ce4
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.
 
@@ -8685,147 +8682,281 @@ You disintegrate one object that is smaller than you and whose level is less tha
 
 Action.
 
-### Abilities—E
+### Earthquake
 
-#### Earthquake (7 Might points)
+Earthquake (7 Might points) #Ability #SpecialAttackAbility #High #Core 
 
-You direct your destructive resonance into the ground and trigger an earthquake centered on a spot you can see within very long range. The ground within short range of that spot heaves and shakes for five minutes, causing damage to structures and terrain in the area. Buildings and terrain features shed debris and rubble. Each round, creatures in the area take either 3 points of damage due to the general shaking, or 6 points of damage if in or adjacent to a structure or terrain feature shedding debris. Action to initiate.
+You direct your destructive resonance into the ground and trigger an earthquake centered on a spot you can see within very long range. The ground within short range of that spot heaves and shakes for five minutes, causing damage to structures and terrain in the area. Buildings and terrain features shed debris and rubble. Each round, creatures in the area take either 3 points of damage due to the general shaking, or 6 points of damage if in or adjacent to a structure or terrain feature shedding debris. 
 
-#### Echolocation
+Action to initiate.
 
-You are especially sensitive to sound and vibration, so much so that you can sense your environment within a short distance regardless of your ability to see. Enabler.
+### Echolocation
 
-#### Effective Skill
+Echolocation #Ability #SensesAbility #Mid #Core 
 
-Choose one noncombat skill when you gain this ability. You get a minor effect with that skill when you roll a natural 14 or higher (the d20 shows “14” or more). You get a major effect with that skill when you roll a natural 19 or higher (the d20 shows “19” or higher). You can select this ability more than once. Each time you select it, you must choose a different noncombat skill. Enabler.
+You are especially sensitive to sound and vibration, so much so that you can sense your environment within a short distance regardless of your ability to see. 
 
-#### Elastic Grip (3 Might points)
+Enabler.
 
-Your attack with your stretchy limbs or body is eased. If you hit, you can grab the target, preventing it from moving on its next turn. While you hold the target, its attacks or attempts to break free are hindered. If the target attempts to break free instead of attacking, you must succeed at a Might-based task to maintain your grip. If the target fails to break free, you can continue to hold it each round as your subsequent actions, automatically inflicting 4 points of damage each round by squeezing. Enabler.
+### Effective Skill
 
-#### Electric Armor (4 Intellect points)
+Effective Skill #Ability #MetaAbility #High #Core 
 
-When you wish it, electricity crackles across your body for ten minutes, granting you +1 Armor. While electrified, you have an additional +2 Armor versus electrical damage specifically, and you inflict 2 points of damage on any creature that touches you or attacks you with a melee weapon that conducts electricity. Enabler.
+Choose one noncombat skill when you gain this ability. You get a minor effect with that skill when you roll a natural 14 or higher (the d20 shows “14” or more). You get a major effect with that skill when you roll a natural 19 or higher (the d20 shows “19” or higher). You can select this ability more than once. Each time you select it, you must choose a different noncombat skill. 
 
-#### Electrical Flight (5 Intellect points)
+Enabler.
 
-You exude an aura of crackling electricity that lets you fly a long distance each round for ten minutes. You can’t carry other creatures with you. Action to activate.
+### Elastic Grip
 
-#### Elemental Protection (4+ Intellect points)
+Elastic Grip (3 Might points) #Ability #Core #SuperHeroes 
 
-You and every target you designate within immediate range gains +5 Armor against one type of direct elemental damage (such as fire, lightning, shadow, or thorn) for one hour, or until you cast this spell again. Each level of Effort applied increases the elemental protection by +2. Action to initiate.
+Your attack with your stretchy limbs or body is eased. If you hit, you can grab the target, preventing it from moving on its next turn. While you hold the target, its attacks or attempts to break free are hindered. If the target attempts to break free instead of attacking, you must succeed at a Might-based task to maintain your grip. If the target fails to break free, you can continue to hold it each round as your subsequent actions, automatically inflicting 4 points of damage each round by squeezing. 
 
-#### Elusive (2 Speed points)
+Enabler.
 
-When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. Enabler.
+### Electric Armor
 
-#### Embrace the Night (7+ Intellect points)
+Electric Armor (4 Intellect points) #Ability #ProtectionAbility #Mid #Core 
 
-You fashion a truly horrifying facade of a creature from swirling ribbons of dark matter and launch it at your foes within long range. Each round, you can attack a target within long range using the creation as your weapon. When you attack, the creature inserts hair-fine tendrils of shadow into the target’s eyes and brain. The target takes 3 points of Intellect damage (ignores Armor) and is stunned for one round so that it loses its next turn. Alternatively, you can cause the creature to take other actions, as long as you are able to see it and mentally control it as your action. The creature disperses after about a minute. Action to initiate.
+When you wish it, electricity crackles across your body for ten minutes, granting you +1 Armor. While electrified, you have an additional +2 Armor versus electrical damage specifically, and you inflict 2 points of damage on any creature that touches you or attacks you with a melee weapon that conducts electricity. 
 
-#### Embraced by Darkness (6 Intellect points)
+Enabler.
 
-For the next hour, you take on some characteristics of a shadow thanks to a fundamental adaptation of your flesh or a device you’ve kept secret. Your appearance is a dark silhouette. When you apply a level of Effort to sneaking tasks, you get a free level of Effort on the task. During this time, you can move through the air at a rate of a short distance per round, and you can move through solid barriers (even those that are sealed to prevent the passage of light or shadow), but not energy barriers, at a rate of 1 foot (30 cm) per round. You can perceive while passing through a barrier or object, which allows you to peek through walls. As a shadow, you can’t affect or be affected by normal matter. Likewise, you can’t attack, touch, or otherwise affect anything. However, attacks and effects that rely on light can affect you, and sudden bursts of light can potentially make you lose your next turn. Action to initiate.
+### Electrical Flight
 
-#### Enable Others
+Electrical Flight (5 Intellect points) #Ability #MovementAbility #High #Core 
+
+You exude an aura of crackling electricity that lets you fly a long distance each round for ten minutes. You can’t carry other creatures with you. 
+
+Action to activate.
+
+### Elemental Protection
+
+Elemental Protection (4+ Intellect points) #Ability #SupportAbility #Mid #Core 
+
+You and every target you designate within immediate range gains +5 Armor against one type of direct elemental damage (such as fire, lightning, shadow, or thorn) for one hour, or until you cast this spell again. Each level of Effort applied increases the elemental protection by +2. 
+
+Action to initiate.
+
+### Elusive
+
+Elusive (2 Speed points) #Ability #MetaAbility #Low #Core 
+
+When you succeed on a Speed defense action, you immediately gain an action. You can use this action only to move. 
+
+Enabler.
+
+### Embrace the Night
+
+Embrace the Night (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+You fashion a truly horrifying facade of a creature from swirling ribbons of dark matter and launch it at your foes within long range. Each round, you can attack a target within long range using the creation as your weapon. When you attack, the creature inserts hair-fine tendrils of shadow into the target’s eyes and brain. The target takes 3 points of Intellect damage (ignores Armor) and is stunned for one round so that it loses its next turn. Alternatively, you can cause the creature to take other actions, as long as you are able to see it and mentally control it as your action. The creature disperses after about a minute. 
+
+Action to initiate.
+
+### Embraced by Darkness
+
+Embraced by Darkness (6 Intellect points) #Ability #MovementAbility #Mid #Core 
+
+For the next hour, you take on some characteristics of a shadow thanks to a fundamental adaptation of your flesh or a device you’ve kept secret. Your appearance is a dark silhouette. When you apply a level of Effort to sneaking tasks, you get a free level of Effort on the task. During this time, you can move through the air at a rate of a short distance per round, and you can move through solid barriers (even those that are sealed to prevent the passage of light or shadow), but not energy barriers, at a rate of 1 foot (30 cm) per round. You can perceive while passing through a barrier or object, which allows you to peek through walls. As a shadow, you can’t affect or be affected by normal matter. Likewise, you can’t attack, touch, or otherwise affect anything. However, attacks and effects that rely on light can affect you, and sudden bursts of light can potentially make you lose your next turn. 
+
+Action to initiate.
+
+### Enable Others
+
+Enable Others #Ability #SupportAbility #Low #Core 
 
 You can use the helping rules to provide a benefit to another character attempting a physical task. Unlike the normal helping rules, this doesn’t require you to use your action helping the other character with the task. This requires no action on your part. Enabler.
 
-#### Enchanted Movement (4+ Intellect points)
+### Enchanted Movement
 
-You use your enchanted weapon to move yourself to any location within a long distance that you can see, as long as there are no obstacles or barriers in your way. The exact way this happens depends on your weapon; you might throw your magical hammer and be pulled along after it, shoot an arrow from your bow that pulls you forward like a grapple line, and so on. In addition to the normal options for using Effort, you can choose to use Effort to increase the distance traveled; each level of Effort used in this way increases the range by another 100 feet (30 m). If you have another ability (such as from your type) that allows you to cross a long distance, the range of that ability and this one increases to very long. Action. 
+Enchanted Movement (4+ Intellect points) #Ability #Core 
 
-#### Enchanted Weapon (1 Intellect point)
+You use your enchanted weapon to move yourself to any location within a long distance that you can see, as long as there are no obstacles or barriers in your way. The exact way this happens depends on your weapon; you might throw your magical hammer and be pulled along after it, shoot an arrow from your bow that pulls you forward like a grapple line, and so on. In addition to the normal options for using Effort, you can choose to use Effort to increase the distance traveled; each level of Effort used in this way increases the range by another 100 feet (30 m). If you have another ability (such as from your type) that allows you to cross a long distance, the range of that ability and this one increases to very long. 
 
-You attune yourself to a physical weapon, such as a sword, hammer, or bow. You know exactly where it is if it is within a short distance of you, and you know its general direction and distance if farther away. All of your other focus abilities require you to be holding or wielding this weapon. You can be attuned to only one weapon at a time; attuning yourself to a second weapon loses the attunement to the first one. Action to initiate, ten minutes to complete. Enabler. 
+Action. 
+
+### Enchanted Weapon
+
+Enchanted Weapon (1 Intellect point) #Ability #Core 
+
+You attune yourself to a physical weapon, such as a sword, hammer, or bow. You know exactly where it is if it is within a short distance of you, and you know its general direction and distance if farther away. All of your other focus abilities require you to be holding or wielding this weapon. You can be attuned to only one weapon at a time; attuning yourself to a second weapon loses the attunement to the first one. Action to initiate, ten minutes to complete. 
 
 If you attune yourself to a different weapon, come up with a story reason for why you are able to do that and why you chose this new weapon.
 
-#### Encouragement (1 Intellect point)
+Enabler. 
 
-While you maintain this ability through ongoing inspiring oration, your allies within short range ease one of the following task types (your choice): defense tasks, attack tasks, or tasks related to any skill that you are trained or specialized in. Action.
+### Encouragement
 
-#### Encouraging Presence (2 Intellect points)
+Encouragement (1 Intellect point) #Ability #Core 
 
-For one minute, allies within short range gain an asset on defense rolls. Action.
+While you maintain this ability through ongoing inspiring oration, your allies within short range ease one of the following task types (your choice): defense tasks, attack tasks, or tasks related to any skill that you are trained or specialized in. 
 
-#### Endurance
+Action.
 
-Any duration dealing with physical actions is either doubled or halved, whichever is better for you. For example, if the typical person can hold their breath for thirty seconds, you can hold it for one minute. If the typical person can march for four hours without stopping, you can do so for eight hours. In terms of harmful effects, if a poison paralyzes its victims for one minute, you are paralyzed for thirty seconds. The minimum duration is always one round. Enabler.
+### Encouraging Presence
 
-#### Energize Creature (6+ Might points)
+Encouraging Presence (2 Intellect points) #Ability #SupportAbility #Low #Core 
 
-You extend your Absorb Kinetic Energy ability to one creature within immediate range so that they also can absorb energy from physical attacks and impacts for one hour. That creature, however, cannot release excess energy as a blast. For each level of Effort you apply, you can increase the number of targets you affect by one. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, those abilities are also duplicated in your target when you use Energize Creature. Action to initiate.
+For one minute, allies within short range gain an asset on defense rolls. 
 
-#### Energize Crowd (9 Might points)
+Action.
 
-You extend your Absorb Kinetic Energy ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast. Action to initiate.
+### Endurance
 
-#### Energize Object
+Endurance #Ability #CureAbility #Low #Core 
 
-By focusing your Absorb Kinetic Energy ability on an object (like a weapon), you infuse it with your power. The object holds the energy until it is touched by anyone but you, so putting it into your melee weapon or the ammo of a ranged weapon allows the weapon to trigger the energy in combat. The energy inflicts 3 points of damage on the creature touched in addition to any damage the weapon itself might do. You cannot have more than one energized object on your person at a time. Action to initiate.
+Any duration dealing with physical actions is either doubled or halved, whichever is better for you. For example, if the typical person can hold their breath for thirty seconds, you can hold it for one minute. If the typical person can march for four hours without stopping, you can do so for eight hours. In terms of harmful effects, if a poison paralyzes its victims for one minute, you are paralyzed for thirty seconds. The minimum duration is always one round. 
 
-#### Energized Shield
+Enabler.
 
-Your force shield from your Force Field Shield ability now pulses with dangerous energy whenever you manifest it. Each time you use your shield as a melee or ranged weapon, it inflicts an additional 3 points of damage. Enabler.
+### Energize Creature
 
-#### Energy Protection (3+ Intellect points)
+Energize Creature (6+ Might points) #Ability #SupportAbility #High #Core 
 
-Choose a discrete type of energy that you have experience with (such as heat, sonic, electricity, and so on). You gain +10 to Armor against damage from that type of energy for ten minutes. Alternatively, you gain +1 to Armor against damage from that energy for 24 hours. You must be familiar with the type of energy; for example, if you have no experience with a certain kind of extradimensional energy, you can’t protect against it. In addition to the normal options for using Effort, you can choose to use Effort to protect more targets; each level of Effort used in this way affects up to two additional targets. You must touch additional targets to protect them. Action to initiate.
+You extend your Absorb Kinetic Energy ability to one creature within immediate range so that they also can absorb energy from physical attacks and impacts for one hour. That creature, however, cannot release excess energy as a blast. For each level of Effort you apply, you can increase the number of targets you affect by one. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, those abilities are also duplicated in your target when you use Energize Creature. 
 
-#### Energy Resistance
+Action to initiate.
 
-Choose a discrete type of energy that you have experience with (such as heat, sonic, electricity, and so on). You gain +5 to Armor against damage from that type of energy. You must be familiar with the type of energy; for example, if you have no experience with a certain kind of extradimensional energy, you can’t protect against it. You can select this ability more than once. Each time you select it, you must choose a different kind of energy. Enabler.
+### Energize Crowd
 
-#### Enhance Strength (3 Intellect points)
+Energize Crowd (9 Might points) #Ability #SupportAbility #High #Core 
 
-For the next ten minutes, you gain an asset on tasks that depend on brute force, such as moving a heavy object, smashing down a door, or hitting someone with a melee weapon. Action to initiate.
+You extend your Absorb Kinetic Energy ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast. 
 
-#### Enhanced Beast Form
+Action to initiate.
 
-When you use Beast Form, your beast form gains the following additional bonuses: +3 to your Might Pool, +2 to your Speed Pool, and +2 to Armor. Enabler.
+### Energize Object
 
-#### Enhanced Body
+Energize Object #Ability #MetaAbility #Low #Core 
 
-Your machine parts grant you +1 to Armor, +3 to your Might Pool, and +3 to your Speed Pool. Traditional healing skills, medicines, and techniques work only half as well for you. Each time you start at full health, the first 5 points of damage you take can never be healed in these ways or recovered normally. Instead, you must use repairing skills and abilities to restore those points. For example, if you start with a full Might Pool of 10 and take 8 points of damage, you can use recovery rolls to restore 3 points, but the remaining 5 points must be restored with repair tasks. Enabler.
+By focusing your Absorb Kinetic Energy ability on an object (like a weapon), you infuse it with your power. The object holds the energy until it is touched by anyone but you, so putting it into your melee weapon or the ammo of a ranged weapon allows the weapon to trigger the energy in combat. The energy inflicts 3 points of damage on the creature touched in addition to any damage the weapon itself might do. You cannot have more than one energized object on your person at a time. 
 
-#### Enhanced Intellect
+Action to initiate.
 
-You gain 3 points to your Intellect Pool. Enabler.  
+### Energized Shield
 
-#### Enhanced Intellect Edge
+Energized Shield #Ability #MetaAbility #Mid #Core 
 
-You gain +1 to your Intellect Edge. Enabler.
+Your force shield from your Force Field Shield ability now pulses with dangerous energy whenever you manifest it. Each time you use your shield as a melee or ranged weapon, it inflicts an additional 3 points of damage. 
 
-#### Enhanced Might
+Enabler.
 
-You gain 3 points to your Might Pool. Enabler.  
+### Energy Protection
 
-#### Enhanced Might Edge
+Energy Protection (3+ Intellect points) #Ability #ProtectionAbility #Mid #Core 
 
-You gain +1 to your Might Edge. Enabler.
+Choose a discrete type of energy that you have experience with (such as heat, sonic, electricity, and so on). You gain +10 to Armor against damage from that type of energy for ten minutes. Alternatively, you gain +1 to Armor against damage from that energy for 24 hours. You must be familiar with the type of energy; for example, if you have no experience with a certain kind of extradimensional energy, you can’t protect against it. In addition to the normal options for using Effort, you can choose to use Effort to protect more targets; each level of Effort used in this way affects up to two additional targets. You must touch additional targets to protect them. 
 
-#### Enhanced Phased Attack (5 Intellect points)
+Action to initiate.
 
-This ability works like the Phased Attack ability except that your attack also disrupts the foe’s vitals, dealing an additional 5 points of damage. Enabler.
+### Energy Resistance
 
-#### Enhanced Physique
+Energy Resistance #Ability #ProtectionAbility #Mid #Core 
 
-You gain 3 points to divide among your Might and Speed Pools however you wish. Enabler.
+Choose a discrete type of energy that you have experience with (such as heat, sonic, electricity, and so on). You gain +5 to Armor against damage from that type of energy. You must be familiar with the type of energy; for example, if you have no experience with a certain kind of extradimensional energy, you can’t protect against it. You can select this ability more than once. Each time you select it, you must choose a different kind of energy. 
 
-#### Enhanced Potential
+Enabler.
 
-You gain 3 points to divide among your stat Pools however you wish. Enabler.
+### Enhance Strength
 
-#### Enhanced Speed
+Enhance Strength (3 Intellect points) #Ability #TaskAbility #Mid #Core 
 
-You gain 3 points to your Speed Pool. Enabler.
+For the next ten minutes, you gain an asset on tasks that depend on brute force, such as moving a heavy object, smashing down a door, or hitting someone with a melee weapon. 
 
-#### Enhanced Speed Edge
+Action to initiate.
 
-You gain +1 to your Speed Edge. Enabler.
+### Enhanced Beast Form
 
-#### Enlarge (1+ Might point)
+Enhanced Beast Form #Ability #MetaAbility #High #Core 
+
+When you use Beast Form, your beast form gains the following additional bonuses: +3 to your Might Pool, +2 to your Speed Pool, and +2 to Armor. 
+
+Enabler.
+
+### Enhanced Body
+
+Enhanced Body #Ability #ProtectionAbility #Low #Core 
+
+Your machine parts grant you +1 to Armor, +3 to your Might Pool, and +3 to your Speed Pool. Traditional healing skills, medicines, and techniques work only half as well for you. Each time you start at full health, the first 5 points of damage you take can never be healed in these ways or recovered normally. Instead, you must use repairing skills and abilities to restore those points. For example, if you start with a full Might Pool of 10 and take 8 points of damage, you can use recovery rolls to restore 3 points, but the remaining 5 points must be restored with repair tasks. 
+
+Enabler.
+
+### Enhanced Intellect
+
+Enhanced Intellect #Ability #MetaAbility #Mid #Core 
+
+You gain 3 points to your Intellect Pool. 
+
+Enabler.  
+
+### Enhanced Intellect Edge
+
+Enhanced Intellect Edge #Ability #MetaAbility #Mid #Core 
+
+You gain +1 to your Intellect Edge. 
+
+Enabler.
+
+### Enhanced Might
+
+Enhanced Might #Ability #MetaAbility #Mid #Core 
+
+You gain 3 points to your Might Pool. 
+
+Enabler.  
+
+### Enhanced Might Edge
+
+Enhanced Might Edge #Ability #MetaAbility #Mid #Core 
+
+You gain +1 to your Might Edge. 
+
+Enabler.
+
+### Enhanced Phased Attack
+
+Enhanced Phased Attack (5 Intellect points) #Ability #MetaAbility #High #Core 
+
+This ability works like the Phased Attack ability except that your attack also disrupts the foe’s vitals, dealing an additional 5 points of damage. 
+
+Enabler.
+
+### Enhanced Physique
+
+Enhanced Physique #Ability #MetaAbility #Mid #Core 
+
+You gain 3 points to divide among your Might and Speed Pools however you wish. 
+
+Enabler.
+
+### Enhanced Potential
+
+Enhanced Potential #Ability #MetaAbility #Mid #Core 
+
+You gain 3 points to divide among your stat Pools however you wish. 
+
+Enabler.
+
+### Enhanced Speed
+
+Enhanced Speed #Ability #MetaAbility #Mid #Core 
+
+You gain 3 points to your Speed Pool. 
+
+Enabler.
+
+### Enhanced Speed Edge
+
+Enhanced Speed Edge #Ability #MetaAbility #Mid #Core 
+
+You gain +1 to your Speed Edge. 
+
+Enabler.
+
+### Enlarge
+
+Enlarge (1+ Might point) #Ability #TransformAbility #Low #Core 
 
 You trigger an enzymatic reaction that draws additional mass from another dimension, and you (and your clothing or suit) grow larger. You achieve a height of 9 feet (3 m) and stay that way for about a minute. During that time, you add 4 points to your Might Pool, add +1 to Armor, and add +2 to your Might Edge. While you are larger than normal, your Speed defense rolls are hindered, and you are practiced in using your fists as heavy weapons.
 
@@ -8833,137 +8964,271 @@ When the effects of Enlarge end, your Armor and Might Edge return to normal, and
 
 Action to initiate.
 
-#### Enlightened
+### Enlightened
 
-You are trained in any perception task that involves sight. Enabler.
+Enlightened #Ability #TaskAbility #Low #Core 
 
-#### Entangling Force (1+ Intellect point)
+You are trained in any perception task that involves sight. 
 
-A target within short range is subject to a snare constructed of semi-tangible lines of force for one minute. The force snare is a level 2 construct. A target caught in the force snare cannot move from its position, but it can attack and defend normally. The target can also use its action attempting to break free. You can increase the level of the force snare by 1 per level of Effort applied. Action to initiate.
+Enabler.
 
-#### Enthrall (1 Intellect point)
+### Entangling Force
 
-While talking, you grab and keep another creature’s attention, even if the creature can’t understand you. For as long as you do nothing but speak (you can’t even move), the other creature takes no actions other than to defend itself, even over multiple rounds. If the creature is attacked, the effect ends. Action.
+Entangling Force (1+ Intellect point) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Entourage
+A target within short range is subject to a snare constructed of semi-tangible lines of force for one minute. The force snare is a level 2 construct. A target caught in the force snare cannot move from its position, but it can attack and defend normally. The target can also use its action attempting to break free. You can increase the level of the force snare by 1 per level of Effort applied. 
 
-You gain an entourage of five level 1 twenty-somethings that accompanies you wherever you go unless you purposefully disband it for a particular outing. You can ask them to deliver things for you, run messages, pick up your dry cleaning—pretty much whatever you want, within reason. They can also run interference if you’re trying to avoid someone, help hide you from media attention, help you muscle through a crowd, and so on. On the other hand, if a situation becomes physically violent, they retreat to safety. Enabler.
+Action to initiate.
 
-#### Enveloping Shield
+### Enthrall
 
-Your Force Field Shield ability produces an envelope of force that enfolds you while you are holding the shield, granting you +1 to Armor. Enabler.
+Enthrall (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Erase Memories (3 Intellect points)
+While talking, you grab and keep another creature’s attention, even if the creature can’t understand you. For as long as you do nothing but speak (you can’t even move), the other creature takes no actions other than to defend itself, even over multiple rounds. If the creature is attacked, the effect ends. 
 
-You reach into the mind of a creature within immediate range and make an Intellect roll. On a success, you erase up to the last five minutes of its memory. Action.
+Action.
 
-#### Escape (2 Speed points)
+### Entourage
 
-You slip your restraints, squeeze through the bars, break the grip of a creature holding you, pull free from sucking quicksand, or otherwise get loose from whatever is holding you in place. Action.
+Entourage #Ability #CompanionAbility #Low #Core 
 
-#### Escape Plan
+You gain an entourage of five level 1 twenty-somethings that accompanies you wherever you go unless you purposefully disband it for a particular outing. You can ask them to deliver things for you, run messages, pick up your dry cleaning—pretty much whatever you want, within reason. They can also run interference if you’re trying to avoid someone, help hide you from media attention, help you muscle through a crowd, and so on. On the other hand, if a situation becomes physically violent, they retreat to safety. 
 
-When you kill a foe, you can attempt a stealth task to immediately hide from anyone around, assuming that a suitable hiding place is nearby. Enabler.
+Enabler.
 
-#### Evanesce (3 Speed points)
+### Enveloping Shield
 
-You step into shadows or behind cover, and everyone who was observing you completely loses track of you. Although you’re not invisible, you can’t be seen until you reveal yourself again by moving out of the shadows or from behind cover (or by making an attack). Action.
+Enveloping Shield #Ability #ProtectionAbility #Low #Core 
 
-#### Evasion
+Your Force Field Shield ability produces an envelope of force that enfolds you while you are holding the shield, granting you +1 to Armor. 
 
-You’re hard to affect when you don’t want to be affected. You are trained in all defense tasks. Enabler.
+Enabler.
 
-#### Everything Is a Weapon
+### Erase Memories
 
-You can take any small object—a coin, a pen, a bottle, a stone, and so on—and throw it with such force and precision that it inflicts damage as a light weapon. Enabler.
+Erase Memories (3 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Exile (5 Intellect points)
+You reach into the mind of a creature within immediate range and make an Intellect roll. On a success, you erase up to the last five minutes of its memory. 
 
-You send a target that you touch hurtling into another random dimension or universe, where it remains for ten minutes. You have no idea what happens to the target while it’s gone, but at the end of ten minutes, it returns to the precise spot it left. Action.
+Action.
 
-#### Expanded Repertoire
+### Escape
 
-The number of subtle cyphers you can bear at the same time increases by one. Enabler. 
+Escape (2 Speed points) #Ability #CureAbility #Low #Core 
 
-#### Experienced Defender
+You slip your restraints, squeeze through the bars, break the grip of a creature holding you, pull free from sucking quicksand, or otherwise get loose from whatever is holding you in place. 
 
-When wearing armor, you gain +1 to Armor. Enabler.
+Action.
 
-#### Experienced Finder (6+ Intellect points)
+### Escape Plan
 
-When you are looking for something specific, such as a particular rare component, a chemical needed to complete a vaccine for a disease, a spare part required to repair a damaged device, the tracks of a specific beast, or the sword that a thief stole from you, this ability is of great use. For the next 24 hours, if you come within short range of the thing and circumstances are such that it is possible for you to perceive the thing (for example, it’s not in a locked chamber for which you do not have the key), you find it. This ability assumes that you are constantly on the lookout, always looking everywhere possible, peering behind obstacles, and so on—if you’re running for your life, sleeping, or otherwise occupied, this ability does not help you. You use this ability in lieu of making a roll to find the thing, but only if the difficulty for finding the object is level 6 or below. You can apply Effort to increase the maximum level of the thing you’re trying to find (each level of Effort used this way increases the maximum level by 1). Action to initiate.
+Escape Plan #Ability #MetaAbility #High #Core 
 
-#### Experienced in Armor
+When you kill a foe, you can attempt a stealth task to immediately hide from anyone around, assuming that a suitable hiding place is nearby. 
 
-The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. Enabler.
+Enabler.
 
-#### Expert Crafter
+### Evanesce
 
-Instead of rolling, you can choose to automatically succeed on a crafting task you’re trained in. The task must be difficulty 4 or lower. If you are able to reduce the assessed difficulty of a crafting task to 4 or lower, this ability also applies to each subtask, assuming something doesn’t interrupt you during the ensuing time to build. Enabler.
+Evanesce (3 Speed points) #Ability #TransformAbility #Mid #Core 
 
-#### Expert Cypher Use
+You step into shadows or behind cover, and everyone who was observing you completely loses track of you. Although you’re not invisible, you can’t be seen until you reveal yourself again by moving out of the shadows or from behind cover (or by making an attack). 
 
-You can bear three cyphers at a time. Enabler.
+Action.
 
-#### Expert Driver
+### Evasion
 
-You are specialized in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. Enabler.
+Evasion #Ability #ProtectionAbility #High #Core 
 
-#### Expert Follower
+You’re hard to affect when you don’t want to be affected. You are trained in all defense tasks. 
 
-You gain a level 3 follower. They are not restricted on their modifications. You can take this ability multiple times, each time gaining another level 3 follower. Alternatively, you could choose to advance a level 2 follower you already have to level 3 and then gain a new level 2 follower. Enabler.
+Enabler.
 
-#### Expert Pilot
+### Everything Is a Weapon
 
-You are specialized in all tasks related to piloting a starcraft. Enabler.
+Everything Is a Weapon #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Expert Skill
+You can take any small object—a coin, a pen, a bottle, a stone, and so on—and throw it with such force and precision that it inflicts damage as a light weapon. 
 
-Instead of rolling a d20, you can choose to automatically succeed on a task you’re trained in. The task must be difficulty 4 or lower, and it can’t be an attack roll or a defense roll. Enabler. (A character can’t apply Effort or other abilities to any task they accomplish using Expert Skill.)
+Enabler.
 
-#### Explains the Ineffable
+### Exile
 
-Through anecdotes, historical retellings, and citing knowledge that few but you have previously understood, you enlighten your friends. After spending 24 hours with you, once per day, each of your friends can ease a particular task by two steps. This benefit is ongoing while you remain in your friends’ company. It ends if you leave, but it resumes if you return to your friends’ company within 24 hours. If you leave your friends’ company for longer than that, you must spend another 24 hours together to reactivate the benefit. Enabler.
+Exile (5 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Exploit Advantage
+You send a target that you touch hurtling into another random dimension or universe, where it remains for ten minutes. You have no idea what happens to the target while it’s gone, but at the end of ten minutes, it returns to the precise spot it left. 
 
-Even if you can do something well, you’ve learned that you can always do it even better. Whenever you have an asset for a roll, you ease the task by one additional step. Enabler.
+Action.
 
-#### Exploratory Experience
+### Expanded Repertoire
 
-You are trained in two additional skills in which you are not already trained. Choose from the following: navigation, perception, sensing danger, initiative, peacefully opening communications with strangers, and tracking. Enabler.
+Expanded Repertoire #Ability #Core 
 
-#### Explosive Release (6 Intellect points)
+The number of subtle cyphers you can bear at the same time increases by one. 
 
-You can amplify the energy stored in your Siphon Pool (from your Store Energy ability) and release it in a massive blast that affects either one target within short range or everything within immediate range. If you choose a single target, it takes 2 points of damage for every point in your Siphon Pool. If you choose an area, everything in the area (except you) takes 1 point of damage per point in your Siphon Pool (or half that if your attack fails against them). This drains your Siphon Pool to 0 points. Action.
+Enabler. 
 
-#### Extra Recovery
+### Experienced Defender
 
-You gain an additional one-action recovery each day. Enabler.
+Experienced Defender #ProtectionAbility #Mid #Core 
 
-#### Extra Skill
+When wearing armor, you gain +1 to Armor. 
 
-You are trained in one skill of your choice (other than attacks or defense) in which you are not already trained. You can select this ability multiple times. Each time you select it, you must choose a different skill. Enabler.
+Enabler.
 
-#### Extra Use (3 Intellect points)
+### Experienced Finder 
 
-You attempt to gain an extra use from an artifact without triggering a depletion roll. The difficulty of the task is equal to the level of the artifact. If you crafted the artifact, you gain an asset to the task. On a failure, the depletion roll occurs normally. You could also try to use a manifest cypher without burning it out, but the task is hindered. A failed attempt to gain an additional use from a manifest cypher destroys it before it can produce the desired effect. Action.
+Experienced Finder (6+ Intellect points) #Ability #Core 
 
-#### Extreme Mastery (6 Might or 6 Speed points)
+When you are looking for something specific, such as a particular rare component, a chemical needed to complete a vaccine for a disease, a spare part required to repair a damaged device, the tracks of a specific beast, or the sword that a thief stole from you, this ability is of great use. For the next 24 hours, if you come within short range of the thing and circumstances are such that it is possible for you to perceive the thing (for example, it’s not in a locked chamber for which you do not have the key), you find it. This ability assumes that you are constantly on the lookout, always looking everywhere possible, peering behind obstacles, and so on—if you’re running for your life, sleeping, or otherwise occupied, this ability does not help you. You use this ability in lieu of making a roll to find the thing, but only if the difficulty for finding the object is level 6 or below. You can apply Effort to increase the maximum level of the thing you’re trying to find (each level of Effort used this way increases the maximum level by 1). 
 
-When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. Enabler.
+Action to initiate.
 
-#### Eye for Detail (2 Intellect points)
+### Experienced in Armor
 
-When you spend five minutes or so thoroughly exploring an area no larger than a short distance in diameter, you can ask the GM one question about the area. The GM must answer you truthfully. You cannot use this more than one time per area per 24 hours. Action to initiate, five minutes to complete.
+Experienced in Armor #Ability #ProtectionAbility #Mid #Core 
 
-#### Eye Gouge (2 Speed points)
+The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. 
 
-You make an attack against a creature with an eye. The attack is hindered, but if you hit, the creature has trouble seeing for the next hour. During this time, the creature’s tasks that rely on sight (which is most tasks) are hindered. Action.
+Enabler.
 
-#### Eyes Adjusted
+### Expert Crafter
 
-You can see in extremely dim light as though it were bright light. You can see in total darkness as if it were extremely dim light. Enabler.
+Expert Crafter #Ability #CraftAbility #Mid #Core 
+
+Instead of rolling, you can choose to automatically succeed on a crafting task you’re trained in. The task must be difficulty 4 or lower. If you are able to reduce the assessed difficulty of a crafting task to 4 or lower, this ability also applies to each subtask, assuming something doesn’t interrupt you during the ensuing time to build. 
+
+Enabler.
+
+### Expert Cypher Use
+
+Expert Cypher Use #Ability #MetaAbility #Mid #Core 
+
+You can bear three cyphers at a time. 
+
+Enabler.
+
+### Expert Driver
+
+Expert Driver #Ability #TaskAbility #Mid #Core 
+
+You are specialized in all tasks related to driving a car, truck, or motorcycle, including mechanical repair tasks. 
+
+Enabler.
+
+### Expert Follower
+
+Expert Follower #Ability #CompanionAbility #Mid #Core 
+
+You gain a level 3 follower. They are not restricted on their modifications. You can take this ability multiple times, each time gaining another level 3 follower. Alternatively, you could choose to advance a level 2 follower you already have to level 3 and then gain a new level 2 follower. 
+
+Enabler.
+
+### Expert Pilot
+
+Expert Pilot #Ability #TaskAbility #Mid #Core 
+
+You are specialized in all tasks related to piloting a starcraft. 
+
+Enabler.
+
+### Expert Skill
+
+Expert Skill #Ability #MetaAbility #Mid #Core 
+
+Instead of rolling a d20, you can choose to automatically succeed on a task you’re trained in. The task must be difficulty 4 or lower, and it can’t be an attack roll or a defense roll. 
+
+(A character can’t apply Effort or other abilities to any task they accomplish using Expert Skill.)
+
+Enabler. 
+
+### Explains the Ineffable
+
+Explains the Ineffable #Ability #TaskAbility #High #Core 
+
+Through anecdotes, historical retellings, and citing knowledge that few but you have previously understood, you enlighten your friends. After spending 24 hours with you, once per day, each of your friends can ease a particular task by two steps. This benefit is ongoing while you remain in your friends’ company. It ends if you leave, but it resumes if you return to your friends’ company within 24 hours. If you leave your friends’ company for longer than that, you must spend another 24 hours together to reactivate the benefit. 
+
+Enabler.
+
+### Exploit Advantage
+
+Exploit Advantage #Ability #TaskAbility #High #Core 
+
+Even if you can do something well, you’ve learned that you can always do it even better. Whenever you have an asset for a roll, you ease the task by one additional step. 
+
+Enabler.
+
+### Exploratory Experience
+
+Exploratory Experience #Ability #TaskAbility #Low #Core 
+
+You are trained in two additional skills in which you are not already trained. Choose from the following: navigation, perception, sensing danger, initiative, peacefully opening communications with strangers, and tracking. 
+
+Enabler.
+
+### Explosive Release
+
+Explosive Release (6 Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+You can amplify the energy stored in your Siphon Pool (from your Store Energy ability) and release it in a massive blast that affects either one target within short range or everything within immediate range. If you choose a single target, it takes 2 points of damage for every point in your Siphon Pool. If you choose an area, everything in the area (except you) takes 1 point of damage per point in your Siphon Pool (or half that if your attack fails against them). This drains your Siphon Pool to 0 points. 
+
+Action.
+
+### Extra Recovery
+
+Extra Recovery #Ability #CureAbility #Low #Core 
+
+You gain an additional one-action recovery each day. 
+
+Enabler.
+
+### Extra Skill
+
+Extra Skill #Ability #TaskAbility #Low #Core 
+
+You are trained in one skill of your choice (other than attacks or defense) in which you are not already trained. You can select this ability multiple times. Each time you select it, you must choose a different skill. 
+
+Enabler.
+
+### Extra Use
+
+Extra Use (3 Intellect points) #Ability #MetaAbility #Low #Core 
+
+You attempt to gain an extra use from an artifact without triggering a depletion roll. The difficulty of the task is equal to the level of the artifact. If you crafted the artifact, you gain an asset to the task. On a failure, the depletion roll occurs normally. You could also try to use a manifest cypher without burning it out, but the task is hindered. A failed attempt to gain an additional use from a manifest cypher destroys it before it can produce the desired effect. 
+
+Action.
+
+### Extreme Mastery 
+
+Extreme Mastery (6 Might or 6 Speed points) #Ability #MetaAbility #High #Core 
+
+When using your chosen weapon, you can reroll any attack roll you wish and take the better of the two results. 
+
+Enabler.
+
+### Eye for Detail 
+
+Eye for Detail (2 Intellect points) #Ability #InformationAbility #Low #Core 
+
+When you spend five minutes or so thoroughly exploring an area no larger than a short distance in diameter, you can ask the GM one question about the area. The GM must answer you truthfully. You cannot use this more than one time per area per 24 hours. 
+
+Action to initiate, five minutes to complete.
+
+### Eye Gouge
+
+Eye Gouge (2 Speed points) #Ability #SpecialAttackAbility #Low #Core 
+
+You make an attack against a creature with an eye. The attack is hindered, but if you hit, the creature has trouble seeing for the next hour. During this time, the creature’s tasks that rely on sight (which is most tasks) are hindered. 
+
+Action.
+
+### Eyes Adjusted
+
+Eyes Adjusted #Ability #SensesAbility #Low #Core 
+
+You can see in extremely dim light as though it were bright light. You can see in total darkness as if it were extremely dim light. 
+
+Enabler.
 
 ### Abilities—F
 
