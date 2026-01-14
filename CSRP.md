@@ -12241,203 +12241,394 @@ You use a ranged weapon to target a limited area (such as a doorway, a hallway, 
 
 Action.
 
-### Abilities—P
+### Parry
 
-#### Parry (5 Speed points)
+Parry (5 Speed points) #Ability #ProtectionAbility #High #Core 
 
-You can deflect incoming attacks quickly. When you activate this ability, for the next ten rounds you ease all Speed defense rolls. Enabler.
+You can deflect incoming attacks quickly. When you activate this ability, for the next ten rounds you ease all Speed defense rolls. 
 
-#### Passing Mechanic
+Enabler.
 
-You are trained in tasks related to the repair and maintenance of a starcraft. Enabler.
+### Passing Mechanic
 
-#### Patient Recovery
+Passing Mechanic #Ability #TaskAbility #Mid #Core 
 
-You gain an extra ten-minute recovery roll each day. Enabler.
+You are trained in tasks related to the repair and maintenance of a starcraft. 
 
-#### Pay It Forward (3 Intellect points)
+Enabler.
 
-You can pass on what you’ve learned. When you give another character a suggestion involving their next action that is not an attack, their action is eased for one minute. Action.
+### Patient Recovery
 
-#### Perfect Control
+Patient Recovery #Ability #Core 
 
-You no longer need to make a roll to use Beast Form or change into your normal form. You can change back and forth as your action. When you return to your normal form, you no longer take a penalty to your rolls. Enabler.
+You gain an extra ten-minute recovery roll each day. 
 
-#### Perfect Speed Burst (6 Speed points)
+Enabler.
 
-You can take two separate actions this round. Enabler.
+### Pay It Forward
 
-#### Perfect Stranger (3 Intellect points)
+Pay It Forward (3 Intellect points) #Ability #SupportAbility #Mid #Core 
 
-You alter your posture and way of speaking and make a small but real alteration to an outfit (such as putting on or taking off a hat, reversing a cloak, and so on). For the next hour (or as long as you keep up the alteration), even creatures that know you well don’t recognize you. All tasks related to hiding your true identity during this period gain one free level of Effort. Action to initiate.
+You can pass on what you’ve learned. When you give another character a suggestion involving their next action that is not an attack, their action is eased for one minute. 
 
-#### Perks of Stardom
+Action.
 
-You are adept at claiming the rewards that fame can generate. When you are recognized, you can be seated at any restaurant, be let into any government building, be invited to any show or sports event (even if they’re sold out), get a seat at a private function of any sort, or get into any club, no matter how exclusive. When dealing with someone who can’t or won’t immediately give in to your desire, you gain an asset on all tasks related to persuasion if that person recognizes you or is convinced that you’re a celebrity even if they don’t recognize you. Enabler.
+### Perfect Control
 
-#### Permanent Illusion (9 Intellect points)
+Perfect Control #Ability #MetaAbility #High #Core 
 
-An illusion (or portion of an illusion) that you create using Minor Illusion or related ability that fits within a 10-foot (3 m) cube becomes permanent.You can permanently end the illusion as an action, but others must expend exceptional ingenuity to prevent the illusion from regenerating even if it has apparently been dispersed. Enabler.
+You no longer need to make a roll to use Beast Form or change into your normal form. You can change back and forth as your action. When you return to your normal form, you no longer take a penalty to your rolls. 
 
-#### Phase Detonation (2+ Might points)
+Enabler.
 
-When you use Phase Sprint or Walk Through Walls, you can choose to significantly damage normal matter around you with a blast of transdimensional energy when you first go into or come out of phase (your choice). This detonation inflicts 4 points of damage that ignores Armor to all creatures and objects within immediate range. If you apply Effort to increase the damage rather than ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. Enabler.
+### Perfect Speed Burst
 
-#### Phase Door (4 Intellect points)
+Perfect Speed Burst (6 Speed points) #Ability #MetaAbility #High #Core 
 
-You can phase into a solid object’s surface and then phase out of any other solid object within long range of the first, even if the two objects are not connected. There must be no intervening barriers between the two objects, and you must be aware of or able to see the destination object. Action.
+You can take two separate actions this round. 
 
-#### Phase Foe (6+ Intellect points)
+Enabler.
 
-You gather disrupting energy in your fingertip and touch a creature. If the target is an NPC or a creature of level 3 or lower, it becomes phased as if it had used the Ghost ability. However, unless it can figure out how to control its movement while being phased, which most creatures have no experience with, it begins to sink through solid matter. If it can’t control itself or end the effect, it might be gone for good because when it becomes solid again after ten minutes, it’s probably deep in the earth. For each additional level of Effort you apply, you can attempt to affect a target of one level higher. Action.
+### Perfect Stranger
 
-#### Phase Sprint (1+ Speed points)
+Perfect Stranger (3 Intellect points) #Ability #MetaAbility #Mid #Core 
+
+You alter your posture and way of speaking and make a small but real alteration to an outfit (such as putting on or taking off a hat, reversing a cloak, and so on). For the next hour (or as long as you keep up the alteration), even creatures that know you well don’t recognize you. All tasks related to hiding your true identity during this period gain one free level of Effort. 
+
+Action to initiate.
+
+### Perks of Stardom
+
+Perks of Stardom #Ability #SocialAbility #Low #Core 
+
+You are adept at claiming the rewards that fame can generate. When you are recognized, you can be seated at any restaurant, be let into any government building, be invited to any show or sports event (even if they’re sold out), get a seat at a private function of any sort, or get into any club, no matter how exclusive. When dealing with someone who can’t or won’t immediately give in to your desire, you gain an asset on all tasks related to persuasion if that person recognizes you or is convinced that you’re a celebrity even if they don’t recognize you. 
+
+Enabler.
+
+### Permanent Illusion
+
+Permanent Illusion (9 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
+
+An illusion (or portion of an illusion) that you create using Minor Illusion or related ability that fits within a 10-foot (3 m) cube becomes permanent.You can permanently end the illusion as an action, but others must expend exceptional ingenuity to prevent the illusion from regenerating even if it has apparently been dispersed. 
+
+Enabler.
+
+### Phase Detonation
+
+Phase Detonation (2+ Might points) #Ability #SpecialAttackAbility #Mid #Core 
+
+When you use Phase Sprint or Walk Through Walls, you can choose to significantly damage normal matter around you with a blast of transdimensional energy when you first go into or come out of phase (your choice). This detonation inflicts 4 points of damage that ignores Armor to all creatures and objects within immediate range. If you apply Effort to increase the damage rather than ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. 
+
+Enabler.
+
+### Phase Door
+
+Phase Door (4 Intellect points) #Ability #MovementAbility #Mid #Core 
+
+You can phase into a solid object’s surface and then phase out of any other solid object within long range of the first, even if the two objects are not connected. There must be no intervening barriers between the two objects, and you must be aware of or able to see the destination object. 
+
+Action.
+
+### Phase Foe
+
+Phase Foe (6+ Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+You gather disrupting energy in your fingertip and touch a creature. If the target is an NPC or a creature of level 3 or lower, it becomes phased as if it had used the Ghost ability. However, unless it can figure out how to control its movement while being phased, which most creatures have no experience with, it begins to sink through solid matter. If it can’t control itself or end the effect, it might be gone for good because when it becomes solid again after ten minutes, it’s probably deep in the earth. For each additional level of Effort you apply, you can attempt to affect a target of one level higher. 
+
+Action.
+
+### Phase Sprint
+
+Phase Sprint (1+ Speed points) #Ability #MovementAbility #Low #Core 
 
 You can run up to a long distance as long as you take no other actions. During your action and until the beginning of your next turn, you are partially phased, and some attacks pass through you harmlessly. While phased, you gain an asset to your Speed defense tasks, but you lose any benefit from armor you wear.
 
-Note that some of your other special abilities may enable specific actions that you can take while using Phase Sprint. For instance, when using Disrupting Touch, you can make one touch attack while moving (though this ends your movement). Action. (You don’t have to run in one long, straight line when using Phase Sprint, but can instead zig and zag, curve, or even return to where you started.) (Other abilities can be used with Phase Sprint to unlock additional effects, including Disrupting Touch, Scratch Existence, Invisible Phasing, and Phase Detonation. These abilities are additive enablers, requiring the user to spend points for both abilities, and sometimes from two different Pools.)
+Note that some of your other special abilities may enable specific actions that you can take while using Phase Sprint. For instance, when using Disrupting Touch, you can make one touch attack while moving (though this ends your movement). 
 
-#### Phased Attack (3 Intellect points)
+(You don’t have to run in one long, straight line when using Phase Sprint, but can instead zig and zag, curve, or even return to where you started.) 
 
-The attack you make on this turn ignores your foe’s armor. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). Enabler.
+(Other abilities can be used with Phase Sprint to unlock additional effects, including Disrupting Touch, Scratch Existence, Invisible Phasing, and Phase Detonation. These abilities are additive enablers, requiring the user to spend points for both abilities, and sometimes from two different Pools.)
 
-#### Phased Pocket (2+ Intellect points)
+Action. 
 
-You connect yourself for one hour to a small space that is out of phase and moves with you. You can access this space as if it were a convenient pocket or bag, but nobody else can perceive or access the space unless they have the ability to interact with transdimensional areas. The space can hold up to 1 cubic foot. The space is a part of you, so you can’t use it to carry more cyphers than your limit, a detonation cypher activated inside the space harms you, and so on. When the connection ends, anything in the space falls out. For each 2 additional Intellect points you spend, the pocket lasts an additional hour. Enabler.
+### Phased Attack
 
-#### Physical Skills
+Phased Attack (3 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-You are trained in two skills in which you are not already trained. Choose two of the following: balancing, climbing, jumping, running, or swimming. You can select this ability multiple times. Each time you select it, you must choose two different skills. Enabler.
+The attack you make on this turn ignores your foe’s armor. The ability works for whatever kind of attack you use (melee, ranged, energy, and so on). 
 
-#### Physically Gifted
+Enabler.
 
-Any time you spend points from your Might Pool or Speed Pool on an action for any reason, if you roll a 1 on the associated die, you reroll, always taking the second result (even if it’s another 1). Enabler.
+### Phased Pocket
 
-#### Pierce (1 Speed point)
+Phased Pocket (2+ Intellect points) #Ability #TransformAbility #Low #Core 
 
-This is a well-aimed, penetrating ranged attack. You make an attack and inflict 1 additional point of damage if your weapon has a sharp point. Action.
+You connect yourself for one hour to a small space that is out of phase and moves with you. You can access this space as if it were a convenient pocket or bag, but nobody else can perceive or access the space unless they have the ability to interact with transdimensional areas. The space can hold up to 1 cubic foot. The space is a part of you, so you can’t use it to carry more cyphers than your limit, a detonation cypher activated inside the space harms you, and so on. When the connection ends, anything in the space falls out. For each 2 additional Intellect points you spend, the pocket lasts an additional hour. 
 
-#### Pilot
+Enabler.
 
-You are trained in all tasks related to piloting a starcraft. Generally speaking, piloting tasks are Speed-based tasks, though using sensors and communication instruments are Intellect-based tasks. Enabler.
+### Physical Skills
 
-#### Play to the Crowd (3 Intellect points)
+Physical Skills #Ability #TaskAbility #Low #Core 
 
-You give a speech that is both rousing and terrifying. Those within short range who can hear and understand you have their next action either eased (an asset) or hindered—you choose, and it can be different for each individual. Action; a few rounds to complete.
+You are trained in two skills in which you are not already trained. Choose two of the following: balancing, climbing, jumping, running, or swimming. You can select this ability multiple times. Each time you select it, you must choose two different skills. 
 
-#### Poetic License
+Enabler.
 
-You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. Enabler.
+### Physically Gifted
 
-#### Poison Crafter
+Physically Gifted #Ability #MetaAbility #High #Core 
 
-You are trained in crafting, sensing, identifying, and resisting poisons. Your poison crafting has given you some immunity to poisons; you have +5 Armor that applies specifically to poison damage. Enabler.
+Any time you spend points from your Might Pool or Speed Pool on an action for any reason, if you roll a 1 on the associated die, you reroll, always taking the second result (even if it’s another 1). 
 
-#### Poison Resistance
+Enabler.
 
-Thanks to an injection of biological agents, a quaff of a magical elixir, a ring from a dying alien, or something just as extreme, you are now immune to poisons, toxins, or any kind of particulate threat. You are not immune to viruses, bacteria, or radiation. Enabler.
+### Pierce
 
-#### Post-Apocalyptic Survivor
+Pierce (1 Speed point) #Ability #SpecialAttackAbility #Low #Core 
 
-You are trained in stealth and Might defense tasks. Enabler.
+This is a well-aimed, penetrating ranged attack. You make an attack and inflict 1 additional point of damage if your weapon has a sharp point. 
 
-#### Power Strike (3+ Might points)
+Action.
 
-If you successfully attack a target, you knock it prone in addition to inflicting damage. The target must be your size or smaller. You can knock down a target larger than you if you apply a level of Effort to do so (rather than to ease the attack). Enabler.
+### Pilot
 
-#### Power Crash (3 Intellect points)
+Pilot #Ability #TaskAbility #Low #Core 
 
-You strike your enchanted weapon against the ground (or a similar large surface), creating an explosion of energy that affects an area up to immediate range from that point. (If your enchanted weapon is a ranged weapon, you can instead target a point within close range to be the center of the explosion.) The blast inflicts 2 points of damage to all creatures or objects within the area (except for you). Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. Action.
+You are trained in all tasks related to piloting a starcraft. Generally speaking, piloting tasks are Speed-based tasks, though using sensors and communication instruments are Intellect-based tasks. 
 
-#### Power Memory
+Enabler.
 
-When you use Copy Power, you only need to have seen the ability used within the past day (instead of the past hour), and using Effort extends how long ago your copying can reach to one day per level of Effort (instead of one hour per level). Enabler.
+### Play to the Crowd
 
-#### Powered Armor
+Play to the Crowd (3 Intellect points) #Ability #SupportAbility #Mid #Core 
 
-You have a suit of powered armor. It is effectively medium armor (+2 to Armor); however, you suffer no Speed penalties for wearing it. Also, your suit grants other benefits: it provides breathable air for up to eight hours and a comfortable environment even in bitter heat, cold, vacuum, or underwater to a depth of 4 miles (6 km); and it allows you to see in the dark up to a short distance. Getting into the suit requires an action (and, of course, access to your suit). Enabler.
+You give a speech that is both rousing and terrifying. Those within short range who can hear and understand you have their next action either eased (an asset) or hindered—you choose, and it can be different for each individual. 
 
-#### Powerful Rhetoric (1 Intellect point)
+Action; a few rounds to complete.
 
-After engaging a creature in conversation for at least a minute, you can attempt to influence how that creature is perceived, promoting it as a friend, dismissing it as a fool, or denouncing it as an enemy. Your words are so well chosen that even you and it are affected, because your conviction and its doubt are paramount. The accuracy of your assessment isn’t important as long as you keep up the rhetoric. From then on (or until you change your rhetoric or the creature offers a convincing defense to those who’ve heard your label), the friend’s social interactions gain an asset, the fool’s social interactions are hindered, or the enemy’s defenses are hindered. Action to initiate, one minute to complete.
+### Poetic License
 
-#### Practiced in Armor
+Poetic License #Ability #TaskAbility #Low #Core 
 
-You can wear armor for long periods of time without tiring and can compensate for slowed reactions from wearing armor. You reduce the Speed cost for wearing armor by 1. You start the game with a type of armor of your choice. Enabler.
+You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. 
 
-#### Practiced With All Weapons
+Enabler.
 
-You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.
+### Poison Crafter
 
-#### Practiced With Guns
+Poison Crafter #Ability #CraftAbility #Mid #Core 
 
-You are practiced with guns and suffer no penalty when using one. Enabler.
+You are trained in crafting, sensing, identifying, and resisting poisons. Your poison crafting has given you some immunity to poisons; you have +5 Armor that applies specifically to poison damage. 
 
-#### Practiced With Medium Weapons
+Enabler.
 
-You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. Enabler.
+### Poison Resistance
 
-#### Practiced With Swords
+Poison Resistance #Ability #CureAbility #Mid #Core 
 
-You are practiced with swords and can use them without penalty. Enabler.
+Thanks to an injection of biological agents, a quaff of a magical elixir, a ring from a dying alien, or something just as extreme, you are now immune to poisons, toxins, or any kind of particulate threat. You are not immune to viruses, bacteria, or radiation. 
 
-#### Precise Cut
+Enabler.
 
-You inflict 1 additional point of damage with light weapons. Enabler.
+### Post-Apocalyptic Survivor
 
-#### Precision
+Post-Apocalyptic Survivor #Ability #TaskAbility #Low #Core 
 
-You deal 2 additional points of damage with attacks using weapons that you throw. Enabler.
+You are trained in stealth and Might defense tasks. 
 
-#### Precognition (6 Intellect points)
+Enabler.
+
+### Power Strike
+
+Power Strike (3+ Might points) #Ability #SpecialAttackAbility #Mid #Core 
+
+If you successfully attack a target, you knock it prone in addition to inflicting damage. The target must be your size or smaller. You can knock down a target larger than you if you apply a level of Effort to do so (rather than to ease the attack). 
+
+Enabler.
+
+### Power Crash
+
+Power Crash (3 Intellect points) #Ability #Core 
+
+You strike your enchanted weapon against the ground (or a similar large surface), creating an explosion of energy that affects an area up to immediate range from that point. (If your enchanted weapon is a ranged weapon, you can instead target a point within close range to be the center of the explosion.) The blast inflicts 2 points of damage to all creatures or objects within the area (except for you). Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. 
+
+Action.
+
+### Power Memory
+
+Power Memory #Ability #Core 
+
+When you use Copy Power, you only need to have seen the ability used within the past day (instead of the past hour), and using Effort extends how long ago your copying can reach to one day per level of Effort (instead of one hour per level). 
+
+Enabler.
+
+### Powered Armor
+
+Powered Armor #Ability #ProtectionAbility #Low #Core 
+
+You have a suit of powered armor. It is effectively medium armor (+2 to Armor); however, you suffer no Speed penalties for wearing it. Also, your suit grants other benefits: it provides breathable air for up to eight hours and a comfortable environment even in bitter heat, cold, vacuum, or underwater to a depth of 4 miles (6 km); and it allows you to see in the dark up to a short distance. Getting into the suit requires an action (and, of course, access to your suit). 
+
+Enabler.
+
+### Powerful Rhetoric
+
+Powerful Rhetoric (1 Intellect point) #Ability #SocialAbility #Low #Core 
+
+After engaging a creature in conversation for at least a minute, you can attempt to influence how that creature is perceived, promoting it as a friend, dismissing it as a fool, or denouncing it as an enemy. Your words are so well chosen that even you and it are affected, because your conviction and its doubt are paramount. The accuracy of your assessment isn’t important as long as you keep up the rhetoric. From then on (or until you change your rhetoric or the creature offers a convincing defense to those who’ve heard your label), the friend’s social interactions gain an asset, the fool’s social interactions are hindered, or the enemy’s defenses are hindered. 
+
+Action to initiate, one minute to complete.
+
+### Practiced in Armor
+
+Practiced in Armor #Ability #ProtectionAbility #Low #Core 
+
+You can wear armor for long periods of time without tiring and can compensate for slowed reactions from wearing armor. You reduce the Speed cost for wearing armor by 1. You start the game with a type of armor of your choice. 
+
+Enabler.
+
+### Practiced With All Weapons
+
+Practiced With All Weapons #Ability #AttackAbility #Mid #Core 
+
+You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. 
+
+Enabler.
+
+### Practiced With Guns
+
+Practiced With Guns #Ability #AttackAbility #Low #Core 
+
+You are practiced with guns and suffer no penalty when using one. 
+
+Enabler.
+
+### Practiced With Medium Weapons
+
+Practiced With Medium Weapons #Ability #AttackAbility #Low #Core 
+
+You can use light and medium weapons without penalty. If you wield a heavy weapon, attacks with it are hindered. 
+
+Enabler.
+
+### Practiced With Swords
+
+Practiced With Swords #Ability #AttackAbility #Low #Core 
+
+You are practiced with swords and can use them without penalty. 
+
+Enabler.
+
+### Precise Cut
+
+Precise Cut #Ability #MetaAbility #Mid #Core 
+
+You inflict 1 additional point of damage with light weapons. 
+
+Enabler.
+
+### Precision
+
+Precision #Ability #MetaAbility #Low #Core 
+
+You deal 2 additional points of damage with attacks using weapons that you throw. 
+
+Enabler.
+
+### Precognition
+
+Precognition (6 Intellect points) #Ability #ProtectionAbility #High #Core 
 
 You dimly sense the future for the next ten minutes. This has the following effects until the duration expires:
 - Your defense tasks gain an asset.
 - You can predict the actions of those around you. You gain an asset to seeing through deceptions and attempts to betray you as well as avoiding traps and ambushes.
 - You know what people are probably thinking and what they will say before they say it, which gives you an edge. You gain an asset to all interaction skills.
+
 Enabler.
 
-#### Predictive Equation (2 Intellect points)
+### Predictive Equation
 
-You observe or study a creature, object, or location for at least one round. The next time you interact with it (possibly in the following round), a related task (such as persuading the creature, attacking it, or defending from its attack) is eased. Action.
+Predictive Equation (2 Intellect points) #Ability #TaskAbility #Low #Core 
 
-#### Predictive Model (2+ Intellect points)
+You observe or study a creature, object, or location for at least one round. The next time you interact with it (possibly in the following round), a related task (such as persuading the creature, attacking it, or defending from its attack) is eased. 
 
-If you’ve used Predictive Equation on a creature, object, or location within the last few days, you can learn one random fact about the subject that is pertinent to a topic you designate. If you also have the magic flavor ability Premonition, one use of either ability grants you two random but related facts about the subject. In addition, you can use Predictive Model on the same subject multiple times (even if you’ve learned a creature’s level), but each time you do, you must apply one additional level of Effort than on your previous use. Action.
+Action.
 
-#### Premonition (2 Intellect points)
+### Predictive Model
 
-You learn one random fact about a creature or location that is pertinent to a topic you designate. Alternatively, you can choose to learn a creature’s level; however, if you do so, you cannot learn anything else about it later with this ability. Action.
+Predictive Model (2+ Intellect points) #Ability #InformationAbility #Low #Core 
 
-#### Preternatural Senses
+If you’ve used Predictive Equation on a creature, object, or location within the last few days, you can learn one random fact about the subject that is pertinent to a topic you designate. If you also have the magic flavor ability Premonition, one use of either ability grants you two random but related facts about the subject. In addition, you can use Predictive Model on the same subject multiple times (even if you’ve learned a creature’s level), but each time you do, you must apply one additional level of Effort than on your previous use. 
 
-While you are conscious and able to use an action, you cannot be surprised. In addition, you are trained in initiative actions. Enabler.
+Action.
 
-#### Privileged Nobility
+### Premonition
 
-You are adept at claiming the rewards that a noble background can generate. When recognized, you can be seated at any eating establishment no matter how full, get a room in an inn even if that means others are turned out, be let into any court or other structure where laws are decided or nobility rules, be invited to any gala, and get a seat at a private function of any sort. In addition, you are trained in persuasion. Enabler.
+Premonition (2 Intellect points) #Ability #InformationAbility #Low #Core 
 
-#### Projection (4 Intellect points)
+You learn one random fact about a creature or location that is pertinent to a topic you designate. Alternatively, you can choose to learn a creature’s level; however, if you do so, you cannot learn anything else about it later with this ability. 
 
-You project an image of yourself to any location you have seen or previously visited. Distance does not matter as long as the location is on the same world as you. The projection copies your appearance, movements, and any sounds you make for the next ten minutes. Anyone present at the location can see and hear you as if you were there. However, you do not perceive through your projection. Action to initiate.
+Action.
 
-#### Protective Wall (6+ Might points)
+### Preternatural Senses
 
-When engaging in combat that directly relates to defending a community you are associated with, you can attack up to five different foes as a single action as long as they are all within immediate range. If you hit an attacker, they are pushed back an immediate distance. All of the attacks have to be the same sort of attack (melee or ranged). Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of foes you can attack with this ability, one additional foe per level of Effort. Enabler.
+Preternatural Senses #Ability #CureAbility #Mid #Core 
 
-#### Protector
+While you are conscious and able to use an action, you cannot be surprised. In addition, you are trained in initiative actions. 
 
-You designate a single character to be your charge. You can change this freely every round, but you can have only one charge at a time. As long as that charge is within immediate range, they gain an asset for Speed defense tasks because you have their back. Enabler.
+Enabler.
 
-#### Pry Open (4 Intellect points)
+### Privileged Nobility
 
-You tear apart the defenses of a creature within long range. Any energy-based defenses it has (such as a force field or a Ward ability) are negated for 1d6 + 1 rounds. If the creature has no energy defenses, its Armor is reduced by 2 for one minute. If it has no energy-based defenses or Armor, attacks against it are eased for one minute. Action.
+Privileged Nobility #Ability #SocialAbility #Low #Core 
 
-#### Psychic Burst (3+ Intellect points)
+You are adept at claiming the rewards that a noble background can generate. When recognized, you can be seated at any eating establishment no matter how full, get a room in an inn even if that means others are turned out, be let into any court or other structure where laws are decided or nobility rules, be invited to any gala, and get a seat at a private function of any sort. In addition, you are trained in persuasion. 
 
-You blast waves of mental force into the minds of up to three targets within short range (make an Intellect roll against each target). This burst inflicts 3 points of Intellect damage (ignores Armor). For each 2 additional Intellect points you spend, you can make an Intellect attack roll against an additional target. Action.
+Enabler.
 
-#### Psychic Passenger (6 Intellect points)
+### Projection
+
+Projection (4 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
+
+You project an image of yourself to any location you have seen or previously visited. Distance does not matter as long as the location is on the same world as you. The projection copies your appearance, movements, and any sounds you make for the next ten minutes. Anyone present at the location can see and hear you as if you were there. However, you do not perceive through your projection. 
+
+Action to initiate.
+
+### Protective Wall
+
+Protective Wall (6+ Might points) #Ability #SpecialAttackAbility #High #Core 
+
+When engaging in combat that directly relates to defending a community you are associated with, you can attack up to five different foes as a single action as long as they are all within immediate range. If you hit an attacker, they are pushed back an immediate distance. All of the attacks have to be the same sort of attack (melee or ranged). Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of foes you can attack with this ability, one additional foe per level of Effort. 
+
+Enabler.
+
+### Protector
+
+Protector #Ability #SupportAbility #Low #Core 
+
+You designate a single character to be your charge. You can change this freely every round, but you can have only one charge at a time. As long as that charge is within immediate range, they gain an asset for Speed defense tasks because you have their back. 
+
+Enabler.
+
+### Pry Open
+
+Pry Open (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You tear apart the defenses of a creature within long range. Any energy-based defenses it has (such as a force field or a Ward ability) are negated for 1d6 + 1 rounds. If the creature has no energy defenses, its Armor is reduced by 2 for one minute. If it has no energy-based defenses or Armor, attacks against it are eased for one minute. 
+
+Action.
+
+### Psychic Burst
+
+Psychic Burst (3+ Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You blast waves of mental force into the minds of up to three targets within short range (make an Intellect roll against each target). This burst inflicts 3 points of Intellect damage (ignores Armor). For each 2 additional Intellect points you spend, you can make an Intellect attack roll against an additional target. 
+
+Action.
+
+### Psychic Passenger
+
+Psychic Passenger (6 Intellect points) #Ability #ControlAbility #High #Core 
 
 You place your mind into the body of a willing creature you choose within short range and remain in that body for up to one hour. Your own body falls down and becomes insensate until this ability ends.
 
@@ -12447,39 +12638,69 @@ The creature you inhabit can use your Intellect Edge in place of their own. In a
 
 When you take an action, you use the creature’s body to perform that action if they allow it.
 
-Action to initiate.
-
 (A character should using Psychic Passenger should consider secreting their actual body someplace away from prying eyes and wild beasts, or they may return to an unfortunate situation.)
 
-#### Psychic Suggestion (4 Intellect points)
+Action to initiate.
 
-You attempt to make the target take the action you indicate on its next turn. If the action you wish the target to take would cause direct harm to itself or its allies, your mental attack is hindered. Action.
+### Psychic Suggestion
 
-#### Psychokinetic Attack (5 Intellect points)
+Psychic Suggestion (4 Intellect points) #Ability #ControlAbility #Mid #Core 
 
-You can use this attack in one of two ways. The first is to pick up a heavy object and hurl it at someone within short range. This attack is an Intellect action, and if successful, it deals 6 points of damage to the target and to the hurled object (which could be another foe, although that would require two rolls—one roll to grab the first foe and another roll to hit the second foe with the first). The second way is to unleash a shattering burst of power that works only against an inanimate object no larger than half your size. Make an Intellect roll to instantly destroy the object; the task is eased by three steps compared to breaking it with brute strength. Action.
+You attempt to make the target take the action you indicate on its next turn. If the action you wish the target to take would cause direct harm to itself or its allies, your mental attack is hindered. 
 
-#### Psychosis (4 Intellect points)
+Action.
 
-Your words inflict a destructive psychosis in the mind of a target within long range that can understand you, dealing 6 points of Intellect damage (ignores Armor) per round. The psychosis can be dispersed if a target uses an action doing nothing but calming and centering itself. Action to initiate.
+### Psychokinetic Attack
 
-#### Pull a Fast One (3 Intellect points)
+Psychokinetic Attack (5 Intellect points) #Ability #SpecialAttackAbility #High #Core 
 
-When you’re running a con, picking a pocket, fooling or tricking a dupe, sneaking something by a guard, and so on, you gain an asset on the task. Enabler.
+You can use this attack in one of two ways. The first is to pick up a heavy object and hurl it at someone within short range. This attack is an Intellect action, and if successful, it deals 6 points of damage to the target and to the hurled object (which could be another foe, although that would require two rolls—one roll to grab the first foe and another roll to hit the second foe with the first). The second way is to unleash a shattering burst of power that works only against an inanimate object no larger than half your size. Make an Intellect roll to instantly destroy the object; the task is eased by three steps compared to breaking it with brute strength. 
 
-#### Punish All the Guilty (3 Speed points)
+Action.
 
-You can attack up to five foes within immediate range that you have designated as guilty with your Designation ability, all as part of the same action in one round. Make separate attack rolls for each foe, but all attacks count as a single action in a single round. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all attacks. If you also have the Spin Attack ability, you inflict 1 additional point of damage when you use Punish All the Guilty. Action.
+### Psychosis
 
-#### Punish the Guilty (2 Might points)
+Psychosis (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
 
-For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage. Action to initiate.
+Your words inflict a destructive psychosis in the mind of a target within long range that can understand you, dealing 6 points of Intellect damage (ignores Armor) per round. The psychosis can be dispersed if a target uses an action doing nothing but calming and centering itself. 
 
-#### Push (2 Intellect points)
+Action to initiate.
 
-You telekinetically push a creature or object an immediate distance in any direction you wish. You must be able to see the target, which must be your size or smaller, must not be affixed to anything, and must be within short range. The push is quick, and the force is too crude to be manipulated. For example, you can’t use this ability to pull a lever or close a door. Action.
+### Pull a Fast One
 
-#### Push Off and Throw (3 Speed points)
+Pull a Fast One (3 Intellect points) #Ability #TaskAbility #Mid #Core 
+
+When you’re running a con, picking a pocket, fooling or tricking a dupe, sneaking something by a guard, and so on, you gain an asset on the task. 
+
+Enabler.
+
+### Punish All the Guilty
+
+Punish All the Guilty (3 Speed points) #Ability #SpecialAttackAbility #High #Core 
+
+You can attack up to five foes within immediate range that you have designated as guilty with your Designation ability, all as part of the same action in one round. Make separate attack rolls for each foe, but all attacks count as a single action in a single round. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all attacks. If you also have the Spin Attack ability, you inflict 1 additional point of damage when you use Punish All the Guilty. 
+
+Action.
+
+### Punish the Guilty
+
+Punish the Guilty (2 Might points) #Ability #MetaAbility #Mid #Core 
+
+For the next ten minutes, if you attack someone you have designated as guilty with your Designation ability, you inflict 2 additional points of damage. 
+
+Action to initiate.
+
+### Push
+
+Push (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You telekinetically push a creature or object an immediate distance in any direction you wish. You must be able to see the target, which must be your size or smaller, must not be affixed to anything, and must be within short range. The push is quick, and the force is too crude to be manipulated. For example, you can’t use this ability to pull a lever or close a door. 
+
+Action.
+
+### Push Off and Throw
+
+Push Off and Throw (3 Speed points) #Ability #MetaAbility #Mid #Core 
 
 You can make precise, point-to-point jumps in microgravity, which means you can move up to a long distance and make a melee attack or attempt to grab a foe of your size or smaller. If you successfully grab your foe, you move your foe up to a short distance from its original position.
 
@@ -12487,23 +12708,29 @@ Alternatively, while you come to a standstill (or move off in an immediate dista
 
 Action.
 
-#### Push on Through (2 Might points)
+### Push on Through
 
-You ignore the effects of terrain while moving for one hour. Enabler.
+Push on Through (2 Might points) #Ability #CureAbility #Low #Core 
 
-### Abilities—Q
+You ignore the effects of terrain while moving for one hour. 
 
-#### Quarry (2 Intellect points)
+Enabler.
 
-Choose a quarry (a single individual creature that you can see). You are trained in all tasks involving following, understanding, interacting with, or fighting that creature. You can have only one quarry at a time. Action to initiate.
+### Quarry
 
-#### Question the Spirits (2 Intellect points)
+Quarry (2 Intellect points) #Ability #AttackAbility #Low #Core 
+
+Choose a quarry (a single individual creature that you can see). You are trained in all tasks involving following, understanding, interacting with, or fighting that creature. You can have only one quarry at a time. 
+
+Action to initiate.
+
+### Question the Spirits
+
+Question the Spirits (2 Intellect points) #Ability #InformationAbility #Low #Core 
 
 You can call a spirit to you and petition it to answer a few questions (usually no more than three before the spirit fades).
 
-First, you must summon a spirit. If it is a spirit of the dead, you must have personally known the creature, have an object that was owned by  
-the creature, or touch the physical remains  
-of the creature. For other spirits, you must know the spirit’s full name or have a great deal of an element (such as fire or earth) that the spirit is associated with.
+First, you must summon a spirit. If it is a spirit of the dead, you must have personally known the creature, have an object that was owned by the creature, or touch the physical remains of the creature. For other spirits, you must know the spirit’s full name or have a great deal of an element (such as fire or earth) that the spirit is associated with.
 
 If the spirit responds, it can manifest as an insubstantial shade that answers for itself, it can inhabit an object or any remains you provide, or it can manifest as an invisible presence that you speak for.
 
@@ -12513,311 +12740,597 @@ The GM determines what the spirit might know, based on the knowledge it possesse
 
 Action to initiate.
 
-#### Quick Block
+### Quick Block
 
-If you use a light or medium weapon, you are trained in Speed defense tasks. Enabler.
+Quick Block #Ability #ProtectionAbility #Low #Core 
 
-#### Quick Death (2 Speed points)
+If you use a light or medium weapon, you are trained in Speed defense tasks. 
 
-You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can’t make this attack in two consecutive rounds. Action.
+Enabler.
 
-#### Quick Recovery
+### Quick Death
 
-Your second recovery roll (usually requiring ten minutes) is only a single action. Enabler.
+Quick Death (2 Speed points) #Ability #MetaAbility #Low #Core 
 
-#### Quick Strike (4 Speed points)
+You know how to kill quickly. When you hit with a melee or ranged attack, you deal 4 additional points of damage. You can’t make this attack in two consecutive rounds. 
+
+Action.
+
+### Quick Recovery
+
+Quick Recovery #Ability #CureAbility #Low #Core 
+
+Your second recovery roll (usually requiring ten minutes) is only a single action. 
+
+Enabler.
+
+### Quick Strike
+
+Quick Strike (4 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
 You make a melee attack with such speed that it is hard for your foe to defend against, and it knocks them off balance. Your attack is eased by two steps, and the foe, if struck, takes normal damage but is dazed so that their tasks are hindered for the next round. Action.
 
-#### Quick Study
+### Quick Study
 
-You learn from repetitive actions. You gain a +1 bonus to rolls for similar tasks after the first time (such as operating the same device or making attacks against the same foe). Once you move on to a new task, the familiarity with the old task fades—unless you start doing it again. Enabler.
+Quick Study #Ability #TaskAbility #Low #Core 
 
-#### Quick Switch
+You learn from repetitive actions. You gain a +1 bonus to rolls for similar tasks after the first time (such as operating the same device or making attacks against the same foe). Once you move on to a new task, the familiarity with the old task fades—unless you start doing it again. 
 
-You can activate Shrink as part of another action (the ability is now an enabler for you instead of an action). While the one-minute duration of Shrink is active, on your turn you can change size once before taking an action and once after taking an action. For example, on your turn you could change to small size, make an attack, and then return to your normal size, or you could change to your normal size, use your action to move a short distance, and then return to small size. Enabler.
+Enabler.
 
-#### Quick Throw (2 Speed points)
+### Quick Switch
 
-After using a thrown light weapon, you draw another light weapon and make another thrown attack against the same target or a different one. Action.
+Quick Switch #Ability #Core 
 
-#### Quick to Flee
+You can activate Shrink as part of another action (the ability is now an enabler for you instead of an action). While the one-minute duration of Shrink is active, on your turn you can change size once before taking an action and once after taking an action. For example, on your turn you could change to small size, make an attack, and then return to your normal size, or you could change to your normal size, use your action to move a short distance, and then return to small size. 
 
-You are trained in stealth and movement tasks. Enabler.
+Enabler.
 
-#### Quick Wits
+### Quick Throw
 
-When performing a task that would normally require spending points from your Intellect Pool, you can spend points from your Speed Pool instead. Enabler.
+Quick Throw (2 Speed points) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Quick Work (3+ Intellect points)
+After using a thrown light weapon, you draw another light weapon and make another thrown attack against the same target or a different one. 
 
-One use of any artifact (or one minute of its continuous function) is increased by one level if you use it within the next minute. If you spend 4 additional Intellect points, the use is increased by two levels if you use it within the next minute. Action.
+Action.
 
-#### Quicker Than Most
+### Quick to Flee
 
-Experience has honed your reaction times, because those who act first gain the advantage in most situations. You’re trained in tasks related to initiative, seeing underlying patterns, and solving puzzles. Enabler.
+Quick to Flee #Ability #TaskAbility #Low #Core 
 
-### Abilities—R
+You are trained in stealth and movement tasks. 
 
-#### Rally to Me (2 Intellect points)
+Enabler.
 
-You cry out, blow a battle horn, or otherwise signal to everyone within very long range that you require aid. All allied creatures who respond by moving to within an immediate distance of you within the next few rounds gain one asset on any one attack or defense task within the next hour that you suggest, such as “Hold the gate,” “Charge that group of orcs,” or something similar. Action to initiate.
+### Quick Wits
 
-#### Range Increase
+Quick Wits #Ability #MetaAbility #Mid #Core 
 
-Ranges for you increase by one step. Immediate becomes short, short becomes long, long becomes very long, and very long becomes 1,000 feet (300 m). Enabler.
+When performing a task that would normally require spending points from your Intellect Pool, you can spend points from your Speed Pool instead. 
 
-#### Rapid Attack (3 Speed points)
+Enabler.
 
-Once per round, you can make an additional attack with your chosen weapon. Enabler.
+### Quick Work
 
-#### Rapid Processing (6 Intellect points)
+Quick Work (3+ Intellect points) #Ability #CraftAbility #Low #Core 
 
-You or a target you touch experiences a higher level of mental and physical reaction time for about a minute. During that period, all Speed tasks (including Speed defense rolls) are eased. In addition, the target can take one extra action at any time before the ability’s duration expires. Action.
+One use of any artifact (or one minute of its continuous function) is increased by one level if you use it within the next minute. If you spend 4 additional Intellect points, the use is increased by two levels if you use it within the next minute. 
 
-#### Rapid Recovery
+Action.
 
-You can make most recovery rolls faster than normal. You can make your one-action recovery roll as part of another action or when it isn’t your turn, your ten-minute recovery roll takes you only one action, and your one-hour recovery roll takes you only ten minutes (your ten-hour rest is unchanged). If you make a recovery roll when it isn’t your turn, until the end of your next turn all of your tasks are hindered. Enabler.
+### Quicker Than Most
 
-#### Ray of Confusion (2 Intellect points)
+Quicker Than Most #Ability #TaskAbility #Low #Core 
 
-You project a grey beam of confusion at a creature within short range, inflicting 1 point of damage that ignores Armor. In addition, until the end of the next round, all tasks, attacks, and defenses the target attempts are hindered. Action.
+Experience has honed your reaction times, because those who act first gain the advantage in most situations. You’re trained in tasks related to initiative, seeing underlying patterns, and solving puzzles. 
 
-#### Reaction
-If a creature you attacked on your last turn with a melee attack uses its action to move out of immediate range, you gain an action to attack the creature as a parting blow, even if you have already taken a turn in the round. Enabler.
+Enabler.
 
-#### Reactive Field
+### Rally to Me
 
-Thanks to a remarkable enhancement of science, magic, psionics, or something even stranger, you now have a force field that radiates 1 inch (2.5 cm) from your body and provides you with +2 to Armor. In addition, if struck by a melee attack, the field creates a backlash that inflicts 4 points of electricity damage to the attacker. Enabler.
+Rally to Me (2 Intellect points) #Ability #SupportAbility #Low #Core 
 
-#### Read the Signs (4 Intellect points)
+You cry out, blow a battle horn, or otherwise signal to everyone within very long range that you require aid. All allied creatures who respond by moving to within an immediate distance of you within the next few rounds gain one asset on any one attack or defense task within the next hour that you suggest, such as “Hold the gate,” “Charge that group of orcs,” or something similar. 
 
-You examine an area and learn precise, useful details about the past (if any exist). You can ask the GM up to four questions about the immediate area; each requires its own roll. Action.
+Action to initiate.
 
-#### Reading the Room (3 Intellect points)
+### Range Increase
 
-You gain knowledge about an area by speaking with dead spirits or reading residual energies from the past. You can ask the GM a single, matter-of-fact question about the location and get an answer if you succeed on the Intellect roll. “What killed the cattle in this barn?” is a good example of a simple question. “Why were these cattle killed?” is not an appropriate question because it has more to do with the mindset of the killer than the barn. Simple questions usually have a difficulty of 2, but extremely technical questions or those that involve facts meant to be kept secret can have a much higher difficulty. Action.
+Range Increase #Ability #MetaAbility #Low #Core 
 
-#### Recruit Deputy
+Ranges for you increase by one step. Immediate becomes short, short becomes long, long becomes very long, and very long becomes 1,000 feet (300 m). 
 
-You gain a level 4 follower. They are not restricted on their modifications. Alternatively, you can choose to advance a level 3 follower you already have to level 4 and then gain a new level 3 follower. Enabler.
+Enabler.
 
-#### Recycled Cyphers
+### Rapid Attack
 
-All manifest cyphers you use function at one level higher than normal. In addition, if given a week and at least ten items of junk from the Junk table, you can tinker with one of your manifest cyphers, transforming it into another cypher of the same type that you had in the past. The GM and player should collaborate to ensure that the transformation is logical— for example, you probably can’t transform a pill into a helmet. Enabler.
+Rapid Attack (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Regenerate
+Once per round, you can make an additional attack with your chosen weapon. 
 
-Your ability to heal (whether from a potent spell, unique mutation, or cybernetic graft) continues to function even if you die from violence, as long as your body is mostly intact. One minute after your death, this ability activates and brings you back to life; however, you come back with a permanent 2-point deduction from your Intellect Pool. Enabler. (A character might discover that Regenerate is both a blessing and a curse, because relying on it too much leads to a kind of malaise that vitality alone can‘t fix.)
+Enabler.
 
-#### Regenerate Other (9 Might points)
+### Rapid Processing
 
-You can confer your Regenerate ability on another creature that you touch and attempt to return it to life, as long as its body is mostly intact. (If you don’t have the Regenerate ability, you gain it, but can use it only on yourself.) The difficulty of the task is equal to 3 plus the number of days the target has been dead. (If the body has been perfectly preserved in stasis or through some other non-damaging preservation mechanism, no time limit applies.) Enabler.
+Rapid Processing (6 Intellect points) #Ability #MetaAbility #Mid #Core 
 
-#### Regeneration (6 Intellect points)
+You or a target you touch experiences a higher level of mental and physical reaction time for about a minute. During that period, all Speed tasks (including Speed defense rolls) are eased. In addition, the target can take one extra action at any time before the ability’s duration expires. 
 
-You restore points to a target’s Might or Speed Pool in one of two ways: either the chosen Pool regains up to 6 points, or it is restored to a total value of 12. You make this decision when you initiate this ability. Points are regenerated at a rate of 1 point each round. You must remain within immediate range of the target the whole time, either touching them or conversing with them. In no case can this raise a Pool higher than its maximum. Action.
+Action.
 
-#### Reinforcing Field (6+ Intellect points)
+### Rapid Recovery
 
-You can reinforce any object or structure by infusing it with a force field for one hour. The force field increases the level of the object or structure by 2 for tasks related to durability and withstanding damage and destruction. Action to initiate.
+Rapid Recovery #Ability #CureAbility #High #Core 
 
-#### Release Energy
+You can make most recovery rolls faster than normal. You can make your one-action recovery roll as part of another action or when it isn’t your turn, your ten-minute recovery roll takes you only one action, and your one-hour recovery roll takes you only ten minutes (your ten-hour rest is unchanged). If you make a recovery roll when it isn’t your turn, until the end of your next turn all of your tasks are hindered. 
 
-You release 1 point of energy you’ve absorbed with your Absorb Kinetic Energy ability, magnifying and focusing it into a blast of energy that strikes a single foe within long range for 4 points of damage. (If you don’t have any kinetic energy absorbed, you can still use this ability, but it requires that you transform a fraction of yourself into the blast, which costs 1 point of Might.) Action.
+Enabler.
 
-#### Reload (1 Speed point)
+### Ray of Confusion
 
-When using a weapon that normally requires an action to reload, such as a heavy crossbow, you can reload and fire (or fire and reload) in the same action. Enabler.
+Ray of Confusion (2 Intellect points) #Ability #SpecialAttackAbility #Low  #Core 
 
-#### Relocate (7 Intellect points)
+You project a grey beam of confusion at a creature within short range, inflicting 1 point of damage that ignores Armor. In addition, until the end of the next round, all tasks, attacks, and defenses the target attempts are hindered. 
 
-Choose one creature or object within immediate range. You instantly transport it to a new position within long range that you can see. The new position can be any direction from you, but it cannot be inside a solid object. Action.
+Action.
 
-#### Remote Control (5 Intellect points)
+### Reaction
 
-You can use a starcraft’s communication and sensor arrays to launch an attack that briefly renders an enemy starcraft within 20 miles (32 km) inoperative for up to a minute. Action. (Remote Control is a masterful attempt to jam or hack an enemy spacecraft, a task normally requiring multiple rolls, and you only succeed if you roll a total of three successes before rolling a total of two failures. However, all such tasks are hindered by at least two steps due to hardened spacecraft electronic security.)
+Reaction #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Remote Viewing (6 Intellect points)
+If a creature you attacked on your last turn with a melee attack uses its action to move out of immediate range, you gain an action to attack the creature as a parting blow, even if you have already taken a turn in the round. 
 
-Distance is an illusion, as all space is one space. With great concentration, you can see another place. This ability can be used in one of two ways:
+Enabler.
+
+### Reactive Field
+
+Reactive Field #Ability #SpecialAttackAbility #Mid #Core 
+
+Thanks to a remarkable enhancement of science, magic, psionics, or something even stranger, you now have a force field that radiates 1 inch (2.5 cm) from your body and provides you with +2 to Armor. In addition, if struck by a melee attack, the field creates a backlash that inflicts 4 points of electricity damage to the attacker. 
+
+Enabler.
+
+### Read the Signs
+
+Read the Signs (4 Intellect points) #Ability #InformationAbility #High #Core 
+
+You examine an area and learn precise, useful details about the past (if any exist). You can ask the GM up to four questions about the immediate area; each requires its own roll. 
+
+Action.
+
+### Reading the Room
+
+Reading the Room (3 Intellect points) #Ability #InformationAbility #Mid #Core 
+
+You gain knowledge about an area by speaking with dead spirits or reading residual energies from the past. You can ask the GM a single, matter-of-fact question about the location and get an answer if you succeed on the Intellect roll. “What killed the cattle in this barn?” is a good example of a simple question. “Why were these cattle killed?” is not an appropriate question because it has more to do with the mindset of the killer than the barn. Simple questions usually have a difficulty of 2, but extremely technical questions or those that involve facts meant to be kept secret can have a much higher difficulty. 
+
+Action.
+
+### Recruit Deputy
+
+Recruit Deputy #Ability #CompanionAbility #High #Core 
+
+You gain a level 4 follower. They are not restricted on their modifications. Alternatively, you can choose to advance a level 3 follower you already have to level 4 and then gain a new level 3 follower. 
+
+Enabler.
+
+### Recycled Cyphers
+
+Recycled Cyphers #Ability #MetaAbility #High #Core 
+
+All manifest cyphers you use function at one level higher than normal. In addition, if given a week and at least ten items of junk from the Junk table, you can tinker with one of your manifest cyphers, transforming it into another cypher of the same type that you had in the past. The GM and player should collaborate to ensure that the transformation is logical— for example, you probably can’t transform a pill into a helmet. 
+
+Enabler.
+
+### Regenerate
+
+Regenerate #Ability #CureAbility #High #Core 
+
+Your ability to heal (whether from a potent spell, unique mutation, or cybernetic graft) continues to function even if you die from violence, as long as your body is mostly intact. One minute after your death, this ability activates and brings you back to life; however, you come back with a permanent 2-point deduction from your Intellect Pool. 
+
+(A character might discover that Regenerate is both a blessing and a curse, because relying on it too much leads to a kind of malaise that vitality alone can‘t fix.)
+
+Enabler. 
+
+### Regenerate Other
+
+Regenerate Other (9 Might points) #Ability #SupportAbility #High #Core 
+
+You can confer your Regenerate ability on another creature that you touch and attempt to return it to life, as long as its body is mostly intact. (If you don’t have the Regenerate ability, you gain it, but can use it only on yourself.) The difficulty of the task is equal to 3 plus the number of days the target has been dead. (If the body has been perfectly preserved in stasis or through some other non-damaging preservation mechanism, no time limit applies.) 
+
+Enabler.
+
+### Regeneration
+
+Regeneration (6 Intellect points) #Ability #CureAbility #Mid #Core 
+
+You restore points to a target’s Might or Speed Pool in one of two ways: either the chosen Pool regains up to 6 points, or it is restored to a total value of 12. You make this decision when you initiate this ability. Points are regenerated at a rate of 1 point each round. You must remain within immediate range of the target the whole time, either touching them or conversing with them. In no case can this raise a Pool higher than its maximum. 
+
+Action.
+
+### Reinforcing Field
+
+Reinforcing Field (6+ Intellect points) #Ability #MetaAbility #High #Core 
+
+You can reinforce any object or structure by infusing it with a force field for one hour. The force field increases the level of the object or structure by 2 for tasks related to durability and withstanding damage and destruction. 
+
+Action to initiate.
+
+### Release Energy
+
+Release Energy #Ability #SpecialAttackAbility #Low #Core 
+
+You release 1 point of energy you’ve absorbed with your Absorb Kinetic Energy ability, magnifying and focusing it into a blast of energy that strikes a single foe within long range for 4 points of damage. (If you don’t have any kinetic energy absorbed, you can still use this ability, but it requires that you transform a fraction of yourself into the blast, which costs 1 point of Might.) 
+
+Action.
+
+### Reload
+
+Reload (1 Speed point) #Ability #MetaAbility #Low #Core 
+
+When using a weapon that normally requires an action to reload, such as a heavy crossbow, you can reload and fire (or fire and reload) in the same action. 
+
+Enabler.
+
+### Relocate
+
+Relocate (7 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
+
+Choose one creature or object within immediate range. You instantly transport it to a new position within long range that you can see. The new position can be any direction from you, but it cannot be inside a solid object. 
+
+Action.
+
+### Remote Control
+
+Remote Control (5 Intellect points) #Ability #SpecialAttackAbility #Mid #Core 
+
+You can use a starcraft’s communication and sensor arrays to launch an attack that briefly renders an enemy starcraft within 20 miles (32 km) inoperative for up to a minute. 
+
+(Remote Control is a masterful attempt to jam or hack an enemy spacecraft, a task normally requiring multiple rolls, and you only succeed if you roll a total of three successes before rolling a total of two failures. However, all such tasks are hindered by at least two steps due to hardened spacecraft electronic security.)
+
+Action. 
+
+### Remote Viewing
+
+Remote Viewing (6 Intellect points) #Ability #SensesAbility #Mid #Core 
+
+Distance is an illusion, as all space is one space. With great concentration, you can see another place. This ability can be used in one of two ways:  
 - Distance and direction. Pick a spot a specific distance away and in a specific direction. You can see from that vantage point as if you had used the Sensor ability there, but only for one minute.
 - Think of a place you have seen before, either conventionally or using the other application of this power. You can see from that vantage point as if you had used the Sensor ability there, but only for one or two rounds.
+
 Either application takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don’t know in advance how long it will take.
+
 Action to initiate; action each round to concentrate.
 
-#### Repair Flesh (3 Intellect points)
+### Repair Flesh
 
-When you touch an impaired or debilitated character, you can move them up one step on the damage track (for example, a debilitated PC becomes impaired, and an impaired one becomes hale). Alternatively, if you use this ability on a PC during a rest, you grant them a +2 bonus to their recovery roll. Action.
+Repair Flesh (3 Intellect points) #Ability #CureAbility #Low #Core 
 
-#### Repel Metal
+When you touch an impaired or debilitated character, you can move them up one step on the damage track (for example, a debilitated PC becomes impaired, and an impaired one becomes hale). Alternatively, if you use this ability on a PC during a rest, you grant them a +2 bonus to their recovery roll. 
 
-By manipulating magnetism, you are trained in Speed defense tasks against any incoming attack that uses metal. Enabler.
+Action.
 
-#### Reshape (5 Intellect points)
+### Repel Metal
 
-You reshape matter within short range in an area no larger than a 5-foot (1.5 m) cube. If you use only one action on this ability, the changes you make are crude at best. If you spend at least ten minutes and succeed at a hindered appropriate crafting task, you can make complex changes to the material. You can’t change the nature of the material, only its shape. Thus, you can make a hole in a wall or floor, or you can seal one up. You can fashion a rudimentary sword from a large piece of iron. You can break or repair a chain. With multiple uses of this ability, you could bring about large changes, making a bridge, a wall, or a similar structure. Action.
+Repel Metal #Ability #ProtectionAbility #Low #Core 
 
-#### Resilience
+By manipulating magnetism, you are trained in Speed defense tasks against any incoming attack that uses metal. 
 
-You have 1 point of Armor against any kind of physical damage, even physical damage that normally ignores Armor. Enabler.
+Enabler.
 
-#### Resilient Duplicate
+### Reshape
 
-Increase the health of  
-any duplicate you create (such as with Duplicate) by 5. Enabler.
+Reshape (5 Intellect points) #Ability #CraftAbility #High #Core 
 
-#### Resilient Ice Armor
+You reshape matter within short range in an area no larger than a 5-foot (1.5 m) cube. If you use only one action on this ability, the changes you make are crude at best. If you spend at least ten minutes and succeed at a hindered appropriate crafting task, you can make complex changes to the material. You can’t change the nature of the material, only its shape. Thus, you can make a hole in a wall or floor, or you can seal one up. You can fashion a rudimentary sword from a large piece of iron. You can break or repair a chain. With multiple uses of this ability, you could bring about large changes, making a bridge, a wall, or a similar structure. 
 
-The sheen of ice you generate using your Ice Armor ability gives you an additional +1 to Armor. Enabler.
+Action.
 
-#### Resist the Elements
+### Resilience
 
-You resist heat, cold, and similar extremes. You have a special +2 to Armor against ambient damage or other damage that would normally ignore Armor. Enabler.
+Resilience #Ability #ProtectionAbility #Mid #Core 
 
-#### Resist Tricks
+You have 1 point of Armor against any kind of physical damage, even physical damage that normally ignores Armor. 
 
-You’re trained in solving puzzles and recognizing tricks from years of game playing. Enabler.
+Enabler.
 
-#### Resist Underwater Hazards
+### Resilient Duplicate
 
-Whether you’re resisting crushing waters while exploring the depths or a sting from a poisonous fish, all defense tasks while submerged in water are eased. Enabler.
+Resilient Duplicate #Ability #CompanionAbility #Low #Core 
 
-#### Resonance Field (1 Intellect point)
+Increase the health of any duplicate you create (such as with Duplicate) by 5. 
 
-Faint lines in a color you choose form a tracery over your entire body and emit faint light. The effect lasts for one minute. Whenever a creature within immediate range makes an attack against you, the pattern energizes to block the attack. You can make an Intellect defense roll in place of the defense roll you would normally make. If you do so and you get a minor effect, the creature attacking you takes 1 point of damage. If you get a major effect, the creature attacking you takes 4 points of damage. Action to initiate.
+Enabler.
 
-#### Resonant Frequency
+### Resilient Ice Armor
 
-You can infuse an item of up to level 7 that you can hold in one hand with a special vibration generated from your core. The object then functions as if two levels higher for one minute. At the end of that minute, the resonant frequency ramps up exponentially until the object finally shatters from the energy buildup. Anything within immediate range of the detonation suffers 5 points of damage. Action to initiate.
+Resilient Ice Armor #Ability #MetaAbility #Mid #Core 
 
-#### Resonant Quake (7 Intellect points)
+The sheen of ice you generate using your Ice Armor ability gives you an additional +1 to Armor. 
 
-You can infuse the ground beneath you with a special vibration generated from your core. This creates a small quake whose epicenter you can select within a very long distance. Everyone within short range of the epicenter is subject to 8 points of damage (from shaking and being struck by toppling objects, crumbling walls, and so on). However, you are dazed for a round afterward yourself, during which time all your tasks are hindered. If you have the Move Mountains ability, both abilities cost 3 fewer Intellect points to use. Action.
+Enabler.
 
-#### Restful Presence
+### Resist the Elements
 
-Creatures who make a recovery roll within short range of you add +1 to their roll. Enabler.
+Resist the Elements #Ability #ProtectionAbility #Mid #Core 
 
-#### Restore Life (9+ Intellect points)
+You resist heat, cold, and similar extremes. You have a special +2 to Armor against ambient damage or other damage that would normally ignore Armor. 
 
-You can attempt to restore life to a dead creature of up to level 3, as long as the corpse is no more than a day old and is mostly intact. You can also attempt to restore life to a corpse that is much older but is especially well preserved. The difficulty of the Intellect task is equal to the level of the creature you’re attempting to restore to life. For each additional level of Effort applied, you can attempt to restore the life of a creature whose level is 1 higher. When first restored to life, a creature is dazed for at least a day, and all tasks they attempt are hindered. Action; one minute to initiate.
+Enabler.
 
-#### Restorative Bloom (5 Might points)
+### Resist Tricks
 
-When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils. Action to produce, action to eat.
+Resist Tricks #Ability #TaskAbility #Low #Core 
 
-#### Resuscitate (6 Intellect points)
+You’re trained in solving puzzles and recognizing tricks from years of game playing. 
 
-You can resuscitate a character who is up to two steps down on the damage track as your action. The target ascends one step on the damage track. If a character has dropped all three steps on the damage track (dead) but is otherwise in one piece and less than a minute has passed since they descended to the third step, you can resuscitate them if you succeed at a level 6 healing task. If you use this ability on an NPC who has no health but has been dead for less than a minute and is otherwise in one piece, the NPC is resuscitated with 1 health. Action.
+Enabler.
 
-#### Retinue
+### Resist Underwater Hazards
 
-Four level 2 followers join you (and your first follower, if you have one). One of their modifications must be for tasks related to serving as your personal assistants. In addition to other tasks they might individually take on your behalf, they can also work together to run interference if you’re trying to avoid someone, help hide you from the attention of others, help you muscle through a crowd, and so on. If a situation becomes physically violent, they provide an asset to your Speed defense tasks and, if you command it, try to hold a foe’s attention while you escape. Enabler.
+Resist Underwater Hazards #Ability #ProtectionAbility #Low #Core 
 
-#### Retrieve Memories (3 Intellect points)
+Whether you’re resisting crushing waters while exploring the depths or a sting from a poisonous fish, all defense tasks while submerged in water are eased. 
+
+Enabler.
+
+### Resonance Field
+
+Resonance Field (1 Intellect point) #Ability #ProtectionAbility #Low #Core 
+
+Faint lines in a color you choose form a tracery over your entire body and emit faint light. The effect lasts for one minute. Whenever a creature within immediate range makes an attack against you, the pattern energizes to block the attack. You can make an Intellect defense roll in place of the defense roll you would normally make. If you do so and you get a minor effect, the creature attacking you takes 1 point of damage. If you get a major effect, the creature attacking you takes 4 points of damage. 
+
+Action to initiate.
+
+### Resonant Frequency
+
+Resonant Frequency #Ability #MetaAbility #High #Core 
+
+You can infuse an item of up to level 7 that you can hold in one hand with a special vibration generated from your core. The object then functions as if two levels higher for one minute. At the end of that minute, the resonant frequency ramps up exponentially until the object finally shatters from the energy buildup. Anything within immediate range of the detonation suffers 5 points of damage. 
+
+Action to initiate.
+
+### Resonant Quake
+
+Resonant Quake (7 Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+You can infuse the ground beneath you with a special vibration generated from your core. This creates a small quake whose epicenter you can select within a very long distance. Everyone within short range of the epicenter is subject to 8 points of damage (from shaking and being struck by toppling objects, crumbling walls, and so on). However, you are dazed for a round afterward yourself, during which time all your tasks are hindered. If you have the Move Mountains ability, both abilities cost 3 fewer Intellect points to use. 
+
+Action.
+
+### Restful Presence
+
+Restful Presence #Ability #CureAbility #Low #Core 
+
+Creatures who make a recovery roll within short range of you add +1 to their roll. 
+
+Enabler.
+
+### Restore Life
+
+Restore Life (9+ Intellect points) #Ability #CureAbility #High #Core 
+
+You can attempt to restore life to a dead creature of up to level 3, as long as the corpse is no more than a day old and is mostly intact. You can also attempt to restore life to a corpse that is much older but is especially well preserved. The difficulty of the Intellect task is equal to the level of the creature you’re attempting to restore to life. For each additional level of Effort applied, you can attempt to restore the life of a creature whose level is 1 higher. When first restored to life, a creature is dazed for at least a day, and all tasks they attempt are hindered. 
+
+Action; one minute to initiate.
+
+### Restorative Bloom
+
+Restorative Bloom (5 Might points) #Ability #Core 
+
+When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils. 
+
+Action to produce, action to eat.
+
+### Resuscitate
+
+Resuscitate (6 Intellect points) #Ability #CureAbility #High #Core 
+
+You can resuscitate a character who is up to two steps down on the damage track as your action. The target ascends one step on the damage track. If a character has dropped all three steps on the damage track (dead) but is otherwise in one piece and less than a minute has passed since they descended to the third step, you can resuscitate them if you succeed at a level 6 healing task. If you use this ability on an NPC who has no health but has been dead for less than a minute and is otherwise in one piece, the NPC is resuscitated with 1 health. 
+
+Action.
+
+### Retinue
+
+Retinue #Ability #CompanionAbility #Mid #Core 
+
+Four level 2 followers join you (and your first follower, if you have one). One of their modifications must be for tasks related to serving as your personal assistants. In addition to other tasks they might individually take on your behalf, they can also work together to run interference if you’re trying to avoid someone, help hide you from the attention of others, help you muscle through a crowd, and so on. If a situation becomes physically violent, they provide an asset to your Speed defense tasks and, if you command it, try to hold a foe’s attention while you escape. 
+
+Enabler.
+
+### Retrieve Memories
+
+Retrieve Memories (3 Intellect points) #Ability #InformationAbility #Low #Core 
 
 You touch the remains of a recently killed creature and make an Intellect-based roll to restore its mind to life long enough to learn information from it. The GM sets the difficulty based on the amount of time that has passed since the creature died. A creature that has been dead for only a few minutes is a difficulty 2 task, one that has been dead for an hour is a difficulty 4 task, and one that has been dead for a few days is a difficulty 9 task. If you succeed, you awaken the corpse, causing its head to animate and perceive things as if it were alive. This enables communication for about one minute, which is how long it takes for the creature to realize that it’s dead. The creature is limited to what it knew in life, though it cannot recall minor memories, only big events of importance to it. When the effect ends, or if you fail the roll, the creature’s brain dissolves to mush and cannot be awakened again. Action.
 
-#### Return to Sender (3 Speed points)
+### Return to Sender 
 
-If you succeed at a Speed defense task against a melee attack, you can make an immediate melee attack against your foe. You can use this ability only once per round. Enabler.
+Return to Sender (3 Speed points) #Ability #Core 
 
-#### Return to the Obelisk (7+ Intellect points)
+If you succeed at a Speed defense task against a melee attack, you can make an immediate melee attack against your foe. You can use this ability only once per round. 
 
-You transfer your body and personal possessions into a crystal of any size that you can touch, and you exit from another crystal of any size, including any crystal obelisks that you are aware of. You must know of the crystal you are going to use as an exit before you enter the first crystal. You can take one additional creature with you for each level of Effort applied. Action.
+Enabler.
 
-#### Reveal (2+ Intellect points)
+### Return to the Obelisk
 
-You adjust a creature’s eyesight so that it can see normally in areas of dim light and darkness. You can affect one willing creature within immediate range for one hour. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort applied affects two additional targets. You must touch additional targets to affect them. Action to initiate.
+Return to the Obelisk (7+ Intellect points) #Ability #MovementAbility #High #Core 
 
-#### Ribbons of Dark Matter (2 Intellect points)
+You transfer your body and personal possessions into a crystal of any size that you can touch, and you exit from another crystal of any size, including any crystal obelisks that you are aware of. You must know of the crystal you are going to use as an exit before you enter the first crystal. You can take one additional creature with you for each level of Effort applied. 
 
-For the next minute, dark matter condenses within an area within long range that is no bigger than an immediate distance in diameter, manifesting as swirling ribbons. All tasks attempted by creatures in the area are hindered, and leaving the area requires a creature’s entire action to move. You can dismiss the dark matter early as an action. Action to initiate.
+Action.
 
-#### Rider
+### Reveal
 
-You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. Enabler.
+Reveal (2+ Intellect points) #Ability #SensesAbility #Low #Core 
 
-#### Roaming Third Eye (3 Intellect points)
+You adjust a creature’s eyesight so that it can see normally in areas of dim light and darkness. You can affect one willing creature within immediate range for one hour. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort applied affects two additional targets. You must touch additional targets to affect them. 
 
-When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position. Enabler.
+Action to initiate.
 
-#### Robot Assistant
+### Ribbons of Dark Matter
 
-A level 2 robot of your size or smaller (built by you) accompanies you and follows your instructions. You and the GM must work out the details of your robot. You’ll probably make rolls for it when it takes actions. A robot assistant in combat usually doesn’t make separate attacks but helps with yours. On your action, if the artificial assistant is next to you, it serves as an asset for one attack you make on your turn. If the robot is destroyed, you can repair the original with a few days’ worth of tinkering, or build a new one with a week’s worth of half-time labor. Enabler.
+Ribbons of Dark Matter (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Robot Builder
+For the next minute, dark matter condenses within an area within long range that is no bigger than an immediate distance in diameter, manifesting as swirling ribbons. All tasks attempted by creatures in the area are hindered, and leaving the area requires a creature’s entire action to move. You can dismiss the dark matter early as an action. 
 
-You are trained in tasks related to building and repairing robots. For the purposes of repair, you can use this skill to heal robots that use similar technology. Enabler.
+Action to initiate.
 
-#### Robot Control (2+ Intellect points)
+### Rider
 
-You use your knowledge of robot command and control (and possibly devices that transmit on the proper frequency) to affect any mechanized system or robot of level 2 or lower within short range. You can render several targets inactive for as long as you focus all your attention on them. If you focus on just one target, you can attempt to take active control of it for one minute, commanding it to do simple tasks on your behalf while you concentrate. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the mechanized system or robot. Thus, to affect a level 4 target (two levels above the normal limit), you must apply two levels of Effort. Action to initiate.
+Rider #Ability #TaskAbility #Mid #Core 
 
-#### Robot Evolution
+You are trained in riding any kind of creature that serves as a mount, such as a noble warhorse. 
 
-Your first artificial assistant from the Robot Assistant ability increases to level 5, and each of your level 2 robots from Robot Fleet increases to level 3. Instead of choosing this option, you may instead choose one upgrade from the Robot Upgrade ability. Enabler.
+Enabler.
 
-#### Robot Fighter
+### Roaming Third Eye
 
-When fighting a robot or intelligent machine, you are trained in attacks and defense. Enabler.
+Roaming Third Eye (3 Intellect points) #Ability #MetaAbility #Mid #Core 
 
-#### Robot Fleet
+When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position. 
 
-You build up to four level 2 robot assistants, each no larger than yourself. (They are in addition to the assistant you built at first tier with Robot Assistant, which may have seen a few upgrades since then.) You and the GM must work out the details of these additional robots. If a robot is destroyed, you can build a new one (or repair the old one from its parts) after a week of half-time labor. Instead of this ability, you can select one of the following abilities: Expert Follower, Robot Control, or Robot Upgrade. Enabler.
+Enabler.
 
-#### Robot Improvement
+### Robot Assistant
 
-Your artificial assistant from the Robot Assistant ability increases to level 4. Enabler.
+Robot Assistant #Ability #CompanionAbility #Low #Core 
 
-#### Robot Upgrade
+A level 2 robot of your size or smaller (built by you) accompanies you and follows your instructions. You and the GM must work out the details of your robot. You’ll probably make rolls for it when it takes actions. A robot assistant in combat usually doesn’t make separate attacks but helps with yours. On your action, if the artificial assistant is next to you, it serves as an asset for one attack you make on your turn. If the robot is destroyed, you can repair the original with a few days’ worth of tinkering, or build a new one with a week’s worth of half-time labor. 
+
+Enabler.
+
+### Robot Builder
+
+Robot Builder #Ability #CraftAbility #Low #Core 
+
+You are trained in tasks related to building and repairing robots. For the purposes of repair, you can use this skill to heal robots that use similar technology. 
+
+Enabler.
+
+### Robot Control
+
+Robot Control (2+ Intellect points) #Ability #ControlAbility #Low #Core 
+
+You use your knowledge of robot command and control (and possibly devices that transmit on the proper frequency) to affect any mechanized system or robot of level 2 or lower within short range. You can render several targets inactive for as long as you focus all your attention on them. If you focus on just one target, you can attempt to take active control of it for one minute, commanding it to do simple tasks on your behalf while you concentrate. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the mechanized system or robot. Thus, to affect a level 4 target (two levels above the normal limit), you must apply two levels of Effort. 
+
+Action to initiate.
+
+### Robot Evolution
+
+Robot Evolution #Ability #MetaAbility #High #Core 
+
+Your first artificial assistant from the Robot Assistant ability increases to level 5, and each of your level 2 robots from Robot Fleet increases to level 3. Instead of choosing this option, you may instead choose one upgrade from the Robot Upgrade ability. 
+
+Enabler.
+
+### Robot Fighter
+
+Robot Fighter #Ability #AttackAbility #Mid #Core 
+
+When fighting a robot or intelligent machine, you are trained in attacks and defense. 
+
+Enabler.
+
+### Robot Fleet
+
+Robot Fleet #Ability #CompanionAbility #High #Core 
+
+You build up to four level 2 robot assistants, each no larger than yourself. (They are in addition to the assistant you built at first tier with Robot Assistant, which may have seen a few upgrades since then.) You and the GM must work out the details of these additional robots. If a robot is destroyed, you can build a new one (or repair the old one from its parts) after a week of half-time labor. Instead of this ability, you can select one of the following abilities: Expert Follower, Robot Control, or Robot Upgrade. 
+
+Enabler.
+
+### Robot Improvement
+
+Robot Improvement #Ability #MetaAbility #Mid #Core 
+
+Your artificial assistant from the Robot Assistant ability increases to level 4. 
+
+Enabler.
+
+### Robot Upgrade
+
+Robot Upgrade #Ability #CraftAbility #Mid #Core 
 
 You modify your artificial assistant from the Robot Assistant ability with one new capability. Standard options include the following. Work with your GM if you prefer a different capability.
 
-_Cypher Pod._ The robot can carry one extra manifest cypher for you. Enabler.
+> Cypher Pod. The robot can carry one extra manifest cypher for you. Enabler.
+> 
+> Flight. The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.
+> 
+> Force Shield. The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.
+> 
+> Mounted Laser Configuration. The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased. 
 
-_Flight._ The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.
+Action to reconfigure; action to return to normal robot configuration.
 
-_Force Shield._ The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.
+### Ruin Lore
 
-_Mounted Laser Configuration._ The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased. Action to reconfigure; action to return to normal robot configuration.
+Ruin Lore #Ability #TaskAbility #Low #Core 
 
-#### Ruin Lore
+You are trained in scavenging, which means you’re more likely to find useful things, and junk that can potentially be turned into useful things in the ruins of what came before. 
 
-You are trained in scavenging, which means you’re more likely to find useful things, and junk that can potentially be turned into useful things in the ruins of what came before. Enabler.
+Enabler.
 
-#### Run and Fight (4 Might points)
+### Run and Fight
 
-You can move a short distance and make a melee attack that inflicts 2 additional points of damage. Action.
+Run and Fight (4 Might points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Runner
+You can move a short distance and make a melee attack that inflicts 2 additional points of damage. 
 
-Your standard movement increases from short to long. Enabler.
+Action.
 
-### Abilities—S
+### Runner
 
-#### Safe Fall
+Runner #Ability #MovementAbility #Mid #Core 
 
-You reduce the damage from a fall by 5 points. Enabler.
+Your standard movement increases from short to long. 
 
-#### Sailor
+Enabler.
 
-You are trained in tasks related to sailing and trained in the geography of islands and coastlines. Enabler.
+### Safe Fall
 
-#### Salvage and Comfort (2 Intellect points)
+Safe Fall #Ability #ProtectionAbility #Low #Core 
 
-You’re familiar with open space. If you spend an hour using your spacecraft’s sensors and make a difficulty 3 Intellect roll, you can find salvage in the form of abandoned spacecraft, drifting motes of matter that were once inhabited, or a place to hide from pursuit in what most people would otherwise assume to be empty space (such as in a nebula, an asteroid field, or the shadow of a moon). Salvage you turn up includes enough food and water for you and several others, as well as the possibility of weapons, clothing, technological artifacts, survivors, or other usable items. In other contexts, this ability counts as training in tasks related to perception. Action to initiate, one hour to complete.
+You reduce the damage from a fall by 5 points. 
 
-#### Scan (2 Intellect points)
+Enabler.
 
-You scan an area equal in size to a 10-foot (3 m) cube, including all objects or creatures within that area. The area must be within short range. Scanning a creature or object always reveals its level. You also learn whatever facts the GM feels are pertinent about the matter and energy in that area. For example, you might learn that the wooden box contains a device of metal and plastic. You might learn that the glass cylinder is full of poisonous gas, and that its metal stand has an electrical field running through it that connects to a metal mesh in the floor. You might learn that the creature standing before you is a mammal with a small brain. However, this ability doesn’t tell you what the information means. Thus, in the first example, you don’t know what the metal and plastic device does. In the second, you don’t know if stepping on the floor causes the cylinder to release the gas. In the third, you might suspect that the creature is not very intelligent, but scans, like looks, can be deceiving. Many materials and energy fields prevent or resist scanning. Action.
+### Sailor
 
-#### Scramble Machine (2 Intellect points)
+Sailor #Ability #TaskAbility #Low #Core 
 
-You render one machine within short range unable to function for one round. Alternatively, you can hinder any action by the machine (or by someone attempting to use the machine) for one minute. Action.
+You are trained in tasks related to sailing and trained in the geography of islands and coastlines. 
 
-#### Scratch Existence (1+ Might points)
+Enabler.
+
+### Salvage and Comfort
+
+Salvage and Comfort (2 Intellect points) #Ability #InformationAbility #Low #Core 
+
+You’re familiar with open space. If you spend an hour using your spacecraft’s sensors and make a difficulty 3 Intellect roll, you can find salvage in the form of abandoned spacecraft, drifting motes of matter that were once inhabited, or a place to hide from pursuit in what most people would otherwise assume to be empty space (such as in a nebula, an asteroid field, or the shadow of a moon). Salvage you turn up includes enough food and water for you and several others, as well as the possibility of weapons, clothing, technological artifacts, survivors, or other usable items. In other contexts, this ability counts as training in tasks related to perception. 
+
+Action to initiate, one hour to complete.
+
+### Scan
+
+Scan (2 Intellect points) #Ability #InformationAbility #Low #Core 
+
+You scan an area equal in size to a 10-foot (3 m) cube, including all objects or creatures within that area. The area must be within short range. Scanning a creature or object always reveals its level. You also learn whatever facts the GM feels are pertinent about the matter and energy in that area. For example, you might learn that the wooden box contains a device of metal and plastic. You might learn that the glass cylinder is full of poisonous gas, and that its metal stand has an electrical field running through it that connects to a metal mesh in the floor. You might learn that the creature standing before you is a mammal with a small brain. However, this ability doesn’t tell you what the information means. Thus, in the first example, you don’t know what the metal and plastic device does. In the second, you don’t know if stepping on the floor causes the cylinder to release the gas. In the third, you might suspect that the creature is not very intelligent, but scans, like looks, can be deceiving. Many materials and energy fields prevent or resist scanning. 
+
+Action.
+
+### Scramble Machine
+
+Scramble Machine (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You render one machine within short range unable to function for one round. Alternatively, you can hinder any action by the machine (or by someone attempting to use the machine) for one minute. 
+
+Action.
+
+### Scratch Existence
+
+Scratch Existence (1+ Might points) #Ability #SpecialAttackAbility #Low #Core 
 
 You can choose to phase in a way that “scratches” normal matter in a long streak as you run using Phase Sprint. This tears a bit at you, too, reflected by the Might cost. When you use Phase Sprint, you inflict 2 points of damage (ignores Armor) to one target you select as you pass within immediate range, without triggering Disrupting Touch. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of targets along your path that you can attack as part of the same action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks.
 
@@ -12825,43 +13338,70 @@ Alternatively, if you apply Effort to increase the damage rather than ease the t
 
 Enabler.
 
-#### Sculpt Flesh (2 Intellect points)
+### Sculpt Flesh
 
-You cause a willing creature’s fingers to lengthen into claws and their teeth to grow into fangs. The effect lasts for ten minutes. The damage dealt by the target’s unarmed strikes increases to 4 points. Action.
+Sculpt Flesh (2 Intellect points) #Ability #SupportAbility  #Low #Core 
 
-#### Sculpt Light (4 Intellect points)
+You cause a willing creature’s fingers to lengthen into claws and their teeth to grow into fangs. The effect lasts for ten minutes. The damage dealt by the target’s unarmed strikes increases to 4 points. 
 
-You create an object of solid light in any shape you can imagine that is your size or smaller, and it persists for about an hour. The object appears in an area adjacent to you. It is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. The object has the approximate mass of the real object and is level 4. Action.
+Action.
 
-#### Sea Legs
+### Sculpt Light 
 
-You have gotten used to rough seas and unexpected surges. You are trained in balance. Any movement task that would be hindered by a pitching deck, moving through rigging, and so on is a routine task for you. Enabler.
+Sculpt Light (4 Intellect points) #Ability #Core 
 
-#### See History (4 Intellect points)
+You create an object of solid light in any shape you can imagine that is your size or smaller, and it persists for about an hour. The object appears in an area adjacent to you. It is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. The object has the approximate mass of the real object and is level 4. 
 
-You touch an object, read the subtle echoes of its existence through time, ask the GM a question about the object’s past, and get a general answer. The answers are often in the form of brief images or sensations rather than specific answers in a language you know. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. » Generally, knowledge that you could find by looking somewhere other than your current location is level 1, and obscure knowledge of the past is level 7. After you use this ability, you have an asset on identifying the object. Action. (“Obscure” is a relative term—a sage might not know how a vampire acquired a specific artifact, but someone using See History on that artifact would have an easy time sensing that event.)
+Action.
 
-#### See the Future (6 Intellect points)
+### Sea Legs
 
-Based on all the variables you perceive, you can predict the next few minutes. This has the following effects:
+Sea Legs #Ability #TaskAbility #Mid #Core 
 
-For the next ten minutes, your defense rolls gain an asset.
-
-You have a sort of danger sense. For the next ten minutes, you gain an asset in seeing through deceptions and attempts to betray you, as well as avoiding traps and ambushes.
-
-You know what people are probably thinking and what they will say before they say it. For the next ten minutes, you gain an asset to tasks involving interaction and deception.
+You have gotten used to rough seas and unexpected surges. You are trained in balance. Any movement task that would be hindered by a pitching deck, moving through rigging, and so on is a routine task for you. 
 
 Enabler.
 
-#### See the Unseen
+### See History
 
-You can automatically perceive creatures and objects that are normally invisible, out of phase, or only partially in this universe. When looking for things more conventionally hidden, the task is eased. Enabler.
+See History (4 Intellect points) #Ability #InformationAbility #Low #Core 
 
-#### See Through Matter (3+ Intellect points)
+You touch an object, read the subtle echoes of its existence through time, ask the GM a question about the object’s past, and get a general answer. The answers are often in the form of brief images or sensations rather than specific answers in a language you know. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. » Generally, knowledge that you could find by looking somewhere other than your current location is level 1, and obscure knowledge of the past is level 7. After you use this ability, you have an asset on identifying the object. 
 
-You can see through matter as if it were transparent. You can see through up to 6 inches (15 cm) of material for one round. Doing so is a task whose difficulty is equal to the material or object’s level. In addition to the normal options for using Effort, you can choose to use Effort to see through another 6 inches of material for each additional level of Effort you apply toward that goal. Action.
+(“Obscure” is a relative term—a sage might not know how a vampire acquired a specific artifact, but someone using See History on that artifact would have an easy time sensing that event.)
 
-#### See Through Time (7 Intellect points)
+Action. 
+
+### See the Future
+
+See the Future (6 Intellect points) #Ability #ProtectionAbility #High #Core 
+
+Based on all the variables you perceive, you can predict the next few minutes. This has the following effects:  
+> For the next ten minutes, your defense rolls gain an asset.
+> You have a sort of danger sense. For the next ten minutes, you gain an asset in seeing through deceptions and attempts to betray you, as well as avoiding traps and ambushes.
+> You know what people are probably thinking and what they will say before they say it. For the next ten minutes, you gain an asset to tasks involving interaction and deception.
+
+Enabler.
+
+### See the Unseen
+
+See the Unseen #Ability #SensesAbility #Low #Core 
+
+You can automatically perceive creatures and objects that are normally invisible, out of phase, or only partially in this universe. When looking for things more conventionally hidden, the task is eased. 
+
+Enabler.
+
+### See Through Matter
+
+See Through Matter (3+ Intellect points) #Ability #SensesAbility #Low #Core 
+
+You can see through matter as if it were transparent. You can see through up to 6 inches (15 cm) of material for one round. Doing so is a task whose difficulty is equal to the material or object’s level. In addition to the normal options for using Effort, you can choose to use Effort to see through another 6 inches of material for each additional level of Effort you apply toward that goal. 
+
+Action.
+
+### See Through Time
+
+See Through Time (7 Intellect points) #Ability #SensesAbility #High #Core 
 
 Time is an illusion, as all time is one time. With great concentration, you can see into another time. You specify a time period regarding the place where you now stand. Interestingly, the easiest time to view is about one hundred years in the past or future. Viewing farther back or ahead is a nearly impossible task.
 
@@ -12869,95 +13409,188 @@ This takes anywhere from one action to hours of concentration, depending on what
 
 Action to initiate; action each round to concentrate.
 
-#### Seeds of Fury (1 Intellect point)
+### Seeds of Fury
 
-You throw a handful of seeds in the air that ignite and speed toward a target within long range, scratching the air with twisting smoke trails. The attack deals 3 points of damage and catches the target on fire, which inflicts 1 additional point of damage per round for up to a minute or until the target uses an action to douse the flames. Action.
+Seeds of Fury (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
 
-#### Seize the Initiative (5 Intellect points)
+You throw a handful of seeds in the air that ignite and speed toward a target within long range, scratching the air with twisting smoke trails. The attack deals 3 points of damage and catches the target on fire, which inflicts 1 additional point of damage per round for up to a minute or until the target uses an action to douse the flames. 
 
-Within one minute of successfully using your Draw Conclusion ability, you can take one additional, immediate action, which you can take out of turn. After using this ability, you can’t use it again until after your next ten-hour recovery roll. Enabler.
+Action.
 
-#### Seize the Moment (4+ Speed points)
+### Seize the Initiative
 
-If you succeed on a Speed defense roll to resist an attack, you gain an action. You can use the action immediately even if you have already taken a turn in the round. You don’t take an action during the next round, unless you apply a level of Effort when you use Seize the Moment. Enabler.
+Seize the Initiative (5 Intellect points) #Ability #MetaAbility #High #Core 
 
-#### Sense Ambush
+Within one minute of successfully using your Draw Conclusion ability, you can take one additional, immediate action, which you can take out of turn. After using this ability, you can’t use it again until after your next ten-hour recovery roll. 
 
-You are never surprised by an attack. Enabler.
+Enabler.
 
-#### Sense Attitudes
+### Seize the Moment
 
-You are trained in sensing lies and whether a person is likely to (or already does) believe your lies. Enabler.
+Seize the Moment (4+ Speed points) #Ability #MetaAbility #Mid #Core 
 
-#### Sensing Package
+If you succeed on a Speed defense roll to resist an attack, you gain an action. You can use the action immediately even if you have already taken a turn in the round. You don’t take an action during the next round, unless you apply a level of Effort when you use Seize the Moment. 
 
-You can see in dim light and darkness as if it were bright light, and you can see up to a short distance through fog, smoke, and other obscuring phenomena. In addition, if you apply a level of Effort to perception or searching tasks, you get a free level of Effort on that task. Enabler.
+Enabler.
 
-#### Sensor (4 Intellect points)
+### Sense Ambush
 
-You create an immobile, invisible sensor within immediate range that lasts for 24 hours. At any time during that duration, you can concentrate to see, hear, and smell through the sensor, no matter how far you move from it. The sensor doesn’t grant you sensory capabilities beyond the norm. If you also have this ability from another source, it lasts twice as long. Action to create; action to check.
+Sense Ambush #Ability #SensesAbility #Low #Core 
 
-#### Sensor Array (3 Intellect points)
+You are never surprised by an attack. 
 
-You are trained in using starcraft sensory instruments. These instruments allow users to answer general questions about a location, such as “How many people are in the mining colony?” or “Where did the other spacecraft crash?” Action.
+Enabler.
 
-#### Serv-0
+### Sense Attitudes
 
-You build a tiny robot assistant. It is level 1 and cannot take independent actions or leave your immediate area. In truth, it’s more an extension of you than a separate being. It gains a modification in using machines and other technological devices. Enabler.
+Sense Attitudes #Ability #TaskAbility #Low #Core 
 
-#### Serv-0 Aim
+You are trained in sensing lies and whether a person is likely to (or already does) believe your lies. 
 
-Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. Enabler.
+Enabler.
 
-#### Serv-0 Brawler
+### Sensing Package
 
-Your Serv-0 aids you in melee combat. It gains a modification in melee attacks. Enabler.
+Sensing Package #Ability #SensesAbility #Mid #Core 
 
-#### Serv-0 Defender
+You can see in dim light and darkness as if it were bright light, and you can see up to a short distance through fog, smoke, and other obscuring phenomena. In addition, if you apply a level of Effort to perception or searching tasks, you get a free level of Effort on that task. 
 
-Your Serv-0 aids you in combat by blocking attacks. It gains a modification in Speed defense. Enabler.
+Enabler.
 
-#### Serv-0 Repair
+### Sensor
 
-Your Serv-0 aids you in repairing other devices. It gains a modification in repair. Enabler.
+Sensor (4 Intellect points) #Ability #InformationAbility #Mid #Core 
 
-#### Serv-0 Scanner (2 Intellect points)
+You create an immobile, invisible sensor within immediate range that lasts for 24 hours. At any time during that duration, you can concentrate to see, hear, and smell through the sensor, no matter how far you move from it. The sensor doesn’t grant you sensory capabilities beyond the norm. If you also have this ability from another source, it lasts twice as long. 
 
-Your Serv-0 gains the Scan ability. Enabler.
+Action to create; action to check.
 
-#### Serv-0 Spy (3 Intellect points)
+### Sensor Array
 
-You can send your Serv-0 up to a long distance away for up to ten minutes and see and hear through it as though its senses were your own. You direct its movement. Action to initiate.
+Sensor Array (3 Intellect points) #Ability #InformationAbility #Mid #Core 
 
-#### Share Defense
+You are trained in using starcraft sensory instruments. These instruments allow users to answer general questions about a location, such as “How many people are in the mining colony?” or “Where did the other spacecraft crash?” 
 
-If your training in a defense task is greater than that of an ally within short range, your advice and insight allow them to substitute your training for that defense task. Enabler.
+Action.
 
-#### Share the Power
+### Serv-0
 
-When you use Drain Creature or Drain Machine to drain energy, you can transfer it to another creature, restoring points to their Might or Speed Pools (or health for an NPC) instead of yourself. You can spend points from your Siphon Pool (from the Store Energy ability) in the same way. You must touch the creature you want to heal, unless you have the Drain at a Distance ability, in which case they can be up to a short distance away. Enabler.
+Serv-0 #Ability #CompanionAbility #Low #Core 
 
-#### Share Senses
+You build a tiny robot assistant. It is level 1 and cannot take independent actions or leave your immediate area. In truth, it’s more an extension of you than a separate being. It gains a modification in using machines and other technological devices. 
 
-While your duplicate created by the Duplicate ability is in existence and within 1 mile (1.5 km), you know everything it experiences and can communicate with it telepathically. Enabler.
+Enabler.
 
-#### Sharp Senses
+### Serv-0 Aim
 
-You are trained in all tasks involving perception. Enabler.
+Serv-0 Aim #Ability #AttackAbility #Mid #Core 
 
-#### Sharp-Eyed
+Your Serv-0 aids you in ranged combat. It gains a modification in ranged attacks. 
 
-Because you must always keep an eye out when you’re traveling, you are trained in all tasks related to perception and navigation. Enabler.
+Enabler.
 
-#### Shatter (2+ Intellect points)
+### Serv-0 Brawler
 
-You interrupt the fundamental force holding normal matter together for a moment, causing the detonation of an object you choose within long range. The object must be a small, mundane item composed of homogeneous matter (such as a clay cup, an iron ingot, a stone, and so on). The object explodes in an immediate radius, dealing 1 point of damage to all creatures and objects in the area. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. Action.
+Serv-0 Brawler #Ability #AttackAbility #Mid #Core 
 
-#### Shatter Mind (7+ Intellect points)
+Your Serv-0 aids you in melee combat. It gains a modification in melee attacks. 
 
-Your words reverberate destructively in the brain of an intelligent level 1 target within short range that can hear and understand you. They destroy tissue, memories, and personality, triggering a vegetative state. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to shatter the mind of a level 5 target (four levels above the normal limit), you must apply four levels of Effort. Action. (The vegetative state created by Shatter Mind can be healed by advanced magic or science, or by a condition remover cypher that cures psychosis.)
+Enabler.
 
-#### Shattering Shout (5+ Might points)
+### Serv-0 Defender
+
+Serv-0 Defender #Ability #ProtectionAbility #Low #Core 
+
+Your Serv-0 aids you in combat by blocking attacks. It gains a modification in Speed defense. 
+
+Enabler.
+
+### Serv-0 Repair
+
+Serv-0 Repair #Ability #TaskAbility #Low #Core 
+
+Your Serv-0 aids you in repairing other devices. It gains a modification in repair. 
+
+Enabler.
+
+### Serv-0 Scanner
+
+Serv-0 Scanner (2 Intellect points) #Ability #InformationAbility #Mid #Core 
+
+Your Serv-0 gains the Scan ability. 
+
+Enabler.
+
+### Serv-0 Spy
+
+Serv-0 Spy (3 Intellect points) #Ability #SensesAbility #Mid #Core 
+
+You can send your Serv-0 up to a long distance away for up to ten minutes and see and hear through it as though its senses were your own. You direct its movement. 
+
+Action to initiate.
+
+### Share Defense
+
+Share Defense #Ability #SupportAbility #High #Core 
+
+If your training in a defense task is greater than that of an ally within short range, your advice and insight allow them to substitute your training for that defense task. 
+
+Enabler.
+
+### Share the Power
+
+Share the Power #Ability #CureAbility #High #Core 
+
+When you use Drain Creature or Drain Machine to drain energy, you can transfer it to another creature, restoring points to their Might or Speed Pools (or health for an NPC) instead of yourself. You can spend points from your Siphon Pool (from the Store Energy ability) in the same way. You must touch the creature you want to heal, unless you have the Drain at a Distance ability, in which case they can be up to a short distance away. 
+
+
+Enabler.
+
+### Share Senses
+
+Share Senses #Ability #SensesAbility #Low #Core 
+
+While your duplicate created by the Duplicate ability is in existence and within 1 mile (1.5 km), you know everything it experiences and can communicate with it telepathically. 
+
+Enabler.
+
+### Sharp Senses
+
+Sharp Senses #Ability #TaskAbility #Low #Core 
+
+You are trained in all tasks involving perception. 
+
+Enabler.
+
+### Sharp-Eyed
+
+Sharp-Eyed #Ability #TaskAbility #Mid #Core 
+
+Because you must always keep an eye out when you’re traveling, you are trained in all tasks related to perception and navigation. 
+
+Enabler.
+
+### Shatter
+
+Shatter (2+ Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You interrupt the fundamental force holding normal matter together for a moment, causing the detonation of an object you choose within long range. The object must be a small, mundane item composed of homogeneous matter (such as a clay cup, an iron ingot, a stone, and so on). The object explodes in an immediate radius, dealing 1 point of damage to all creatures and objects in the area. If you apply Effort to increase the damage, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. 
+
+Action.
+
+### Shatter Mind
+
+Shatter Mind (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+Your words reverberate destructively in the brain of an intelligent level 1 target within short range that can hear and understand you. They destroy tissue, memories, and personality, triggering a vegetative state. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to shatter the mind of a level 5 target (four levels above the normal limit), you must apply four levels of Effort. 
+
+(The vegetative state created by Shatter Mind can be healed by advanced magic or science, or by a condition remover cypher that cures psychosis.)
+
+Action. 
+
+### Shattering Shout
+
+Shattering Shout (5+ Might points) #Ability #SpecialAttackAbility #Mid #Core 
 
 Your focused shout sets up a destructive resonance in a creature or object within long range. Nothing happens on the round you strike your target other than an ominous humming or buzzing sound emitted by the target. But on your next turn, the resonance shatters discrete inanimate objects, inflicts major damage to structures, or inflicts 4 points of damage on a creature (ignores Armor).
 
@@ -12965,305 +13598,579 @@ If you shatter a discrete object, it shatters explosively, inflicting 1 point of
 
 Action to initiate.
 
-#### Shepherd’s Fury
+### Shepherd’s Fury
 
-You inflict 3 additional points of damage when engaging in combat that directly relates to advancing the needs of a community you are associated with. (You and the GM can decide whether a particular situation warrants the additional damage.) Enabler.
+Shepherd’s Fury #Ability #MetaAbility #Mid #Core 
 
-#### Shield Burst
+You inflict 3 additional points of damage when engaging in combat that directly relates to advancing the needs of a community you are associated with. (You and the GM can decide whether a particular situation warrants the additional damage.) 
 
-When you make a melee or ranged attack and hit with your Force Field Shield, it releases an explosion of energy, inflicting an additional 2 points of damage on the target and everything within immediate range of the target. If you applied Effort to inflict additional damage as part of the attack, each level of Effort inflicts only 2 additional points to all targets instead of 3 points. If you use Shield Burst with a melee attack, you and creatures behind you are not affected by this explosion. If you use Shield Burst with a ranged attack, the shield dissipates after the attack and then reforms in your grasp. Enabler.
+Enabler.
 
-#### Shield Master
+### Shield Burst
 
-When you use a shield, in addition to the asset it gives you (easing Speed defense tasks), you can act as if you are trained in Speed defense tasks. However, in any round in which you use this benefit, your attacks are hindered. Enabler.
+Shield Burst #Ability #MetaAbility #High #Core 
 
-#### Shield Training
+When you make a melee or ranged attack and hit with your Force Field Shield, it releases an explosion of energy, inflicting an additional 2 points of damage on the target and everything within immediate range of the target. If you applied Effort to inflict additional damage as part of the attack, each level of Effort inflicts only 2 additional points to all targets instead of 3 points. If you use Shield Burst with a melee attack, you and creatures behind you are not affected by this explosion. If you use Shield Burst with a ranged attack, the shield dissipates after the attack and then reforms in your grasp. 
 
-If you use a shield, Speed defense tasks are eased by two steps instead of one. Enabler.
+Enabler.
 
-#### Ship Footing (3 Speed points)
+### Shield Master
 
-For ten minutes, all tasks you attempt while on a spaceship are eased. Action to initiate.
+Shield Master #Ability #ProtectionAbility #Low #Core 
 
-#### Shipspeak
+When you use a shield, in addition to the asset it gives you (easing Speed defense tasks), you can act as if you are trained in Speed defense tasks. However, in any round in which you use this benefit, your attacks are hindered. 
 
-You can make basic maneuvers from a planetary distance with a starship that you have bonded with using Machine Bond. You can send it to a designated place, call it to you, have it land, allow or deny entrance, and so on, even if you are not on board. Bonding is a process that requires a day of meditation while jacked into the ship. Action.
+Enabler.
 
-#### Shock (1 Intellect point)
+### Shield Training
 
-Your hands crackle with electricity, and the next time you touch a creature, you inflict 3 points of damage. Alternatively, if you wield a weapon, for ten minutes it crackles with electricity and inflicts 1 additional point of damage per attack. Action for touch; enabler for weapon.
+Shield Training #Ability #ProtectionAbility #Mid #Core 
 
-#### Short Teleportation (4+ Intellect points)
+If you use a shield, Speed defense tasks are eased by two steps instead of one. 
 
-You instantly teleport to any location within a short distance that you can see. In addition to the normal options for using Effort, you can choose to use Effort to increase your range, teleport to a location you can’t see, or bring other people with you. Each additional short distance costs one level of Effort. Teleporting to a destination you can’t see costs one level of Effort. Each additional target brought with you costs one level of Effort (you must touch any additional targets). These levels of Effort are counted separately, so teleporting an additional short distance away to a location you can’t see with one passenger costs a total of three levels of Effort. Action.
+Enabler.
+
+### Ship Footing
+
+Ship Footing (3 Speed points) #Ability #TaskAbility #Mid #Core 
+
+For ten minutes, all tasks you attempt while on a spaceship are eased. 
+
+Action to initiate.
+
+### Shipspeak
+
+Shipspeak #Ability #CompanionAbility #Mid #Core 
+
+You can make basic maneuvers from a planetary distance with a starship that you have bonded with using Machine Bond. You can send it to a designated place, call it to you, have it land, allow or deny entrance, and so on, even if you are not on board. Bonding is a process that requires a day of meditation while jacked into the ship. 
+
+Action.
+
+### Shock
+
+Shock (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core 
+
+Your hands crackle with electricity, and the next time you touch a creature, you inflict 3 points of damage. Alternatively, if you wield a weapon, for ten minutes it crackles with electricity and inflicts 1 additional point of damage per attack. 
+
+Action for touch; enabler for weapon.
+
+### Short Teleportation
+
+Short Teleportation (4+ Intellect points) #Ability #Core 
+
+You instantly teleport to any location within a short distance that you can see. In addition to the normal options for using Effort, you can choose to use Effort to increase your range, teleport to a location you can’t see, or bring other people with you. Each additional short distance costs one level of Effort. Teleporting to a destination you can’t see costs one level of Effort. Each additional target brought with you costs one level of Effort (you must touch any additional targets). These levels of Effort are counted separately, so teleporting an additional short distance away to a location you can’t see with one passenger costs a total of three levels of Effort. 
 
 If you already have Short Teleportation when you select Medium Teleportation or Teleportation, you may replace Short Teleportation with another tier 4 type ability.
 
-#### Show Them the Way (6+ Intellect points)
+Action.
 
-Your presence overwhelms a creature that you touch and ask to aid you. Essentially, if the creature fails to defend against your presence, you control its actions for up to ten minutes. The target must be level 3 or lower. Once you have established control, you maintain control through verbal instruction. You can allow the target to act freely or override control on a case-by case basis. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to affect a level 5 target (two levels above the normal limit), you must apply two levels of Effort. When the effect ends, the creature vaguely remembers doing your will, but it’s as blurry as a dream. Action to initiate.
+### Show Them the Way
 
-#### Shred Existence
+Show Them the Way (6+ Intellect points) #Ability #ControlAbility #High #Core 
 
-When you use Disrupting Touch, Scratch Existence, or Phase Detonation, you inflict an additional 5 points of damage that ignores Armor. Enabler.
+Your presence overwhelms a creature that you touch and ask to aid you. Essentially, if the creature fails to defend against your presence, you control its actions for up to ten minutes. The target must be level 3 or lower. Once you have established control, you maintain control through verbal instruction. You can allow the target to act freely or override control on a case-by case basis. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to affect a level 5 target (two levels above the normal limit), you must apply two levels of Effort. When the effect ends, the creature vaguely remembers doing your will, but it’s as blurry as a dream. 
 
-#### Shroud of Flame (1 Intellect point)
+Action to initiate.
 
-At your command, your entire body becomes shrouded in flames that last up to ten minutes. The fire doesn’t burn you, but it automatically inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack. Flames from another source can still hurt you. While the shroud is active, you gain +2 Armor against damage from fire from another source. Enabler.
+### Shred Existence
 
-#### Shrink (1+ Might points)
+Shred Existence #Ability #MetaAbility #High #Core 
+
+When you use Disrupting Touch, Scratch Existence, or Phase Detonation, you inflict an additional 5 points of damage that ignores Armor. 
+
+Enabler.
+
+### Shroud of Flame
+
+Shroud of Flame (1 Intellect point) #Ability #ProtectionAbility #Low #Core 
+
+At your command, your entire body becomes shrouded in flames that last up to ten minutes. The fire doesn’t burn you, but it automatically inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack. Flames from another source can still hurt you. While the shroud is active, you gain +2 Armor against damage from fire from another source. 
+
+Enabler.
+
+### Shrink
+
+Shrink (1+ Might points) #Ability #Core 
 
 You (and your clothing or suit) become much smaller than your normal size. You become 6 inches (15 cm) tall and stay that way for about a minute. During this time, you add 4 points to your Speed Pool and add +2 to your Speed Edge. While you are smaller than normal, your Speed defense rolls are eased, your movement speed is one-tenth normal, and your attacks inflict half the normal amount of damage (divide the total damage in half after all bonuses, Effort, and other damage modifiers). You can return to your normal size as part of another action.
 
 When the effects of Shrink end, your Speed Edge, movement speed, and damage return to normal, and you subtract a number of points from your Speed Pool equal to the number you gained (if this brings the Pool to 0, subtract the overflow first from your Might Pool and then, if necessary, from your Intellect Pool). Each additional time you use Shrink before your next ten-hour recovery roll, you must apply an additional level of Effort (one level of Effort for the second use, two levels of Effort for the third use, and so on).
 
-Action to initiate.
-
 The increased Effort cost for repeat uses of Shrink between ten-hour recovery rolls only applies to new activations of Shrink, not to multiple size changes within one use of Shrink enabled by Quick Switch.
 
-#### Shrink Others
+Action to initiate.
 
-You can use Shrink on other willing creatures within an immediate distance. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. Unless these creatures have an ability to change their size, they remain small until the one-minute duration of Shrink ends for them. Enabler.
+### Shrink Others
 
-#### Silent As Space
+Shrink Others #Ability #Core 
 
-By taking advantage of microgravity conditions, you gain an asset to stealth and initiative tasks while in zero-gravity or low-gravity conditions. Enabler.
-
-#### Skill With Attacks
-
-Choose one type of attack in which you are not already trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks using that type of weapon. You can select this ability multiple times. Each time you select it, you must choose a different type of attack. Enabler.
-
-#### Skill With Defense
-
-Choose one type of defense task in which you are not already trained: Might, Speed, or Intellect. You are trained in defense tasks of that type. Enabler.
-
-#### Sleuth
-
-Finding the clues is the first step in solving a mystery. You are trained in perception. Enabler.
-
-#### Slice (2 Speed points)
-
-This is a quick attack with a bladed or pointed weapon that is hard to defend against. You are trained in this task. If the attack is successful, it deals 1 less point of damage than normal. Action.
-
-#### Slip Into Shadow (2+ Intellect points)
-
-You attempt to slip away from a selected target and hide from view in a nearby shadow, behind a tree or a furnishing, or in the next room, even if in full view of the target. For each level of Effort applied, you can attempt to affect one additional target, as long as all your targets are next to each other. Action to initiate.
-
-#### Slippery
-
-You are trained in escaping any kind of bond or grasp. Enabler.
-
-#### Slippery Customer
-
-When you apply Effort to tasks involving escaping from bonds, fitting in tight spaces, and other contortionist tasks, you get a free level of Effort on the task. Thanks to your experience, you are also trained in Speed defense tasks while wearing light armor or no armor. Enabler.
-
-#### Small Flight (3+ Intellect points)
-
-For the next hour, when using Shrink, you can fly through the air. You might accomplish this flight by growing wings from your body, extending wings from your suit, calling a tiny creature to carry you, or “surfing” air currents. When flying, you can move up to a short distance as part of another action or a long distance if all you do on your turn is move. Action to initiate.
-
-#### Smaller
-
-When you use Shrink, you can choose to shrink down to about half an inch (1 cm) high, and you add 3 more temporary points to your Speed Pool. Enabler.
-
-#### Snap Shot
-
-You can make two gun attacks as a single action, but the second attack is hindered by two steps. Enabler.
-
-#### Sneak
-
-You are trained in stealth and initiative tasks. Enabler.
-
-#### Snipe (2 Speed points)
-
-If you spend one action aiming, in the next round you can make a precise ranged attack. You have an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. Action.
-
-#### Sniper’s Aim
-
-By dint of almost constant practice playing games that simulate making ranged attacks, your hand-eye coordination is off the chart. You have an asset on all ranged attacks. Enabler.
-
-#### Something in the Road
-
-When you use a vehicle as a weapon, you inflict 5 additional points of damage. Enabler.
-
-#### Soothe Mind and Body
-
-The body and the mind are connected. All healing tasks you attempt are eased by two steps. Enabler.
-
-#### Soothe the Savage (2 Intellect points)
-
-You calm a nonhuman beast within 30 feet (9 m). You must speak to it (although it doesn’t need to understand your words), and it must see you. It remains calm for one minute or for as long as you focus all your attention on it. The GM has final say over what counts as a nonhuman beast, but unless some kind of deception is at work, you should know whether you can affect a creature before you attempt to use this ability on it. Aliens, extradimensional entities, very intelligent creatures, and robots never count. Action.
-
-#### Soul Interrogation (5 Intellect points)
-
-You determine the weaknesses, vulnerabilities, qualities, and mannerisms of a single creature within long range. The GM should reveal the creature’s level, basic abilities, and obvious weaknesses (if any). All actions you attempt that affect that creature—attack, defense, interaction, and so on—are eased for a few months afterward. Action.
-
-#### Sound Conversion Barrier
-
-Attacks that hit you—especially energy attacks like focused light, heat, radiation, and transdimensional energy—are partially converted to surges of harmless noise similar to the sound of a wave crashing to shore. This ability grants you +1 Armor against all attacks and an additional +2 Armor against energy attacks. Enabler.
-
-#### Space Fighting
-
-By taking advantage of microgravity conditions, you can use inertia and mass to your advantage. If you spend a round setting up a melee attack (or an attack from a thrown or launched object) while in zero-gravity or low-gravity conditions, the attack inflicts 6 additional points of damage. Enabler.
-
-#### Speaker for the Dead (2+ Intellect points)
-
-You can ask a question of a dead being whose corpse you are touching. Because the answer comes through the filter of the being’s understanding and personality, it can’t answer questions that it wouldn’t have understood in life, and it can’t provide answers that it wouldn’t have known in life. In fact, the being is not compelled to answer at all, so you might need to interact with it in a way that would have convinced it to answer while it was alive. For each additional Intellect point you spend when you activate the ability, you can ask the being an additional question. Action.
-
-#### Special Shot
-
-When you hit a target with a gun attack, you can choose to reduce the damage by 1 point but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:
-
-You can shoot an object out of someone’s hand.
-
-You can shoot the leg, wing, or other limb it uses to move, reducing its maximum movement speed to immediate for a few days or until it receives expert medical care.
-
-You can shoot a strap holding a backpack, armor, or a similarly strapped-on item so that it falls off.
+You can use Shrink on other willing creatures within an immediate distance. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. Unless these creatures have an ability to change their size, they remain small until the one-minute duration of Shrink ends for them. 
 
 Enabler.
 
-#### Specialized Basher
+### Silent As Space
 
-You are specialized in using the stone fists from your Golem Body ability as a medium weapon. Enabler.
+Silent As Space #Ability #TaskAbility #Mid #Core 
 
-#### Specialized Throwing
+By taking advantage of microgravity conditions, you gain an asset to stealth and initiative tasks while in zero-gravity or low-gravity conditions. 
 
-You are specialized in attacks with all weapons that you throw. Enabler.
+Enabler.
 
-#### Speed Burst (4 Speed points)
+### Skill With Attacks
 
-You can take two separate actions in this round. In the following round, all actions are hindered. You cannot use this ability two rounds in a row. Enabler.
+Skill With Attacks #Ability #AttackAbility #Mid #Core 
 
-#### Speedy Recovery (3 Intellect points)
+Choose one type of attack in which you are not already trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks using that type of weapon. You can select this ability multiple times. Each time you select it, you must choose a different type of attack. 
 
-Your words enhance the normal regenerative ability of a character within short range who is able to understand you. When they make a recovery roll, they must spend only half the normal amount of time required to do so (minimum one action). Action.
+Enabler.
 
-#### Spin Attack (5+ Speed points)
+### Skill With Defense
 
-You stand still and make attacks against up to five foes, all as part of the same action in one round. All of the attacks have to be the same sort of attack (melee or ranged). Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of foes you can attack with this ability (one additional foe per level of Effort used in this way). Action.
+Skill With Defense #Ability #AttackAbility #Mid #Core 
 
-#### Spin Identity (2+ Intellect points)
+Choose one type of defense task in which you are not already trained: Might, Speed, or Intellect. You are trained in defense tasks of that type. 
 
-You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you convince the victim that you are someone they do not know belonging to a certain category of people. “We’re from the government.” “I’m just a simple farmer from the next town over.” “Your commander sent me.” A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circumstances reveal your true identity earlier. Action.
+Enabler.
 
-#### Spirit Accomplice
+### Sleuth
+
+Sleuth #Ability #TaskAbility #Low #Core 
+
+Finding the clues is the first step in solving a mystery. You are trained in perception. 
+
+Enabler.
+
+### Slice
+
+Slice (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
+
+This is a quick attack with a bladed or pointed weapon that is hard to defend against. You are trained in this task. If the attack is successful, it deals 1 less point of damage than normal. 
+
+Action.
+
+### Slip Into Shadow
+
+Slip Into Shadow (2+ Intellect points) #Ability #EnvironmentAbility #Low #Core 
+
+You attempt to slip away from a selected target and hide from view in a nearby shadow, behind a tree or a furnishing, or in the next room, even if in full view of the target. For each level of Effort applied, you can attempt to affect one additional target, as long as all your targets are next to each other. 
+
+Action to initiate.
+
+### Slippery
+
+Slippery #Ability #TaskAbility #Low #Core 
+
+You are trained in escaping any kind of bond or grasp. 
+
+Enabler.
+
+### Slippery Customer
+
+Slippery Customer #Ability #MetaAbility #Mid #Core 
+
+When you apply Effort to tasks involving escaping from bonds, fitting in tight spaces, and other contortionist tasks, you get a free level of Effort on the task. Thanks to your experience, you are also trained in Speed defense tasks while wearing light armor or no armor. 
+
+Enabler.
+
+### Small Flight
+
+Small Flight (3+ Intellect points) #Ability #Core 
+
+For the next hour, when using Shrink, you can fly through the air. You might accomplish this flight by growing wings from your body, extending wings from your suit, calling a tiny creature to carry you, or “surfing” air currents. When flying, you can move up to a short distance as part of another action or a long distance if all you do on your turn is move. 
+
+Action to initiate.
+
+### Smaller
+
+Smaller #Ability #Core 
+
+When you use Shrink, you can choose to shrink down to about half an inch (1 cm) high, and you add 3 more temporary points to your Speed Pool. 
+
+Enabler.
+
+### Snap Shot
+
+You can make two gun attacks as a single action, but the second attack is hindered by two steps. Enabler.
+
+### Sneak
+
+Smaller #Ability #Core 
+
+You are trained in stealth and initiative tasks. 
+
+Enabler.
+
+### Snipe
+
+Snipe (2 Speed points) #Ability #AttackAbility #Mid #Core 
+
+If you spend one action aiming, in the next round you can make a precise ranged attack. You have an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. 
+
+Action.
+
+### Sniper’s Aim
+
+Sniper’s Aim #Ability #AttackAbility #Mid #Core 
+
+By dint of almost constant practice playing games that simulate making ranged attacks, your hand-eye coordination is off the chart. You have an asset on all ranged attacks. 
+
+Enabler.
+
+### Something in the Road
+
+Something in the Road #Ability #MetaAbility #Low #Core 
+
+When you use a vehicle as a weapon, you inflict 5 additional points of damage. 
+
+Enabler.
+
+### Soothe Mind and Body
+
+Soothe Mind and Body #Ability #TaskAbility #Mid #Core 
+
+The body and the mind are connected. All healing tasks you attempt are eased by two steps. 
+
+Enabler.
+
+### Soothe the Savage
+
+Soothe the Savage (2 Intellect points) #Ability #ControlAbility #Low #Core 
+
+You calm a nonhuman beast within 30 feet (9 m). You must speak to it (although it doesn’t need to understand your words), and it must see you. It remains calm for one minute or for as long as you focus all your attention on it. The GM has final say over what counts as a nonhuman beast, but unless some kind of deception is at work, you should know whether you can affect a creature before you attempt to use this ability on it. Aliens, extradimensional entities, very intelligent creatures, and robots never count. 
+
+Action.
+
+### Soul Interrogation
+
+Soul Interrogation (5 Intellect points) #Ability #InformationAbility #Mid #Core 
+
+You determine the weaknesses, vulnerabilities, qualities, and mannerisms of a single creature within long range. The GM should reveal the creature’s level, basic abilities, and obvious weaknesses (if any). All actions you attempt that affect that creature—attack, defense, interaction, and so on—are eased for a few months afterward. 
+
+Action.
+
+### Sound Conversion Barrier
+
+Sound Conversion Barrier #Ability #ProtectionAbility #Low #Core 
+
+Attacks that hit you—especially energy attacks like focused light, heat, radiation, and transdimensional energy—are partially converted to surges of harmless noise similar to the sound of a wave crashing to shore. This ability grants you +1 Armor against all attacks and an additional +2 Armor against energy attacks. 
+
+Enabler.
+
+### Space Fighting
+
+Space Fighting #Ability #MetaAbility #Mid #Core 
+
+By taking advantage of microgravity conditions, you can use inertia and mass to your advantage. If you spend a round setting up a melee attack (or an attack from a thrown or launched object) while in zero-gravity or low-gravity conditions, the attack inflicts 6 additional points of damage. 
+
+Enabler.
+
+### Speaker for the Dead
+
+Speaker for the Dead (2+ Intellect points) #Ability #InformationAbility #Low #Core 
+
+You can ask a question of a dead being whose corpse you are touching. Because the answer comes through the filter of the being’s understanding and personality, it can’t answer questions that it wouldn’t have understood in life, and it can’t provide answers that it wouldn’t have known in life. In fact, the being is not compelled to answer at all, so you might need to interact with it in a way that would have convinced it to answer while it was alive. For each additional Intellect point you spend when you activate the ability, you can ask the being an additional question. 
+
+Action.
+
+### Special Shot
+
+Special Shot #Ability #SpecialAttackAbility #High #Core 
+
+When you hit a target with a gun attack, you can choose to reduce the damage by 1 point but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:
+
+> You can shoot an object out of someone’s hand.
+> 
+> You can shoot the leg, wing, or other limb it uses to move, reducing its maximum movement speed to immediate for a few days or until it receives expert medical care.
+> 
+> You can shoot a strap holding a backpack, armor, or a similarly strapped-on item so that it falls off.
+
+Enabler.
+
+### Specialized Basher
+
+Specialized Basher #Ability #AttackAbility #High #Core 
+
+You are specialized in using the stone fists from your Golem Body ability as a medium weapon. 
+
+Enabler.
+
+### Specialized Throwing
+
+Specialized Throwing #Ability #AttackAbility #Mid #Core 
+
+You are specialized in attacks with all weapons that you throw. 
+
+Enabler.
+
+### Speed Burst 
+
+Speed Burst (4 Speed points) #Ability #MetaAbility #Mid #Core 
+
+You can take two separate actions in this round. In the following round, all actions are hindered. You cannot use this ability two rounds in a row. 
+
+Enabler.
+
+### Speedy Recovery 
+
+Speedy Recovery (3 Intellect points) #Ability #CureAbility #Low #Core 
+
+Your words enhance the normal regenerative ability of a character within short range who is able to understand you. When they make a recovery roll, they must spend only half the normal amount of time required to do so (minimum one action). 
+
+Action.
+
+### Spin Attack
+
+Spin Attack (5+ Speed points) #Ability #SpecialAttackAbility #High #Core 
+
+You stand still and make attacks against up to five foes, all as part of the same action in one round. All of the attacks have to be the same sort of attack (melee or ranged). Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of foes you can attack with this ability (one additional foe per level of Effort used in this way). 
+
+Action.
+
+### Spin Identity
+
+Spin Identity (2+ Intellect points) #Ability #TransformAbility #Low #Core 
+
+You convince all intelligent creatures who can see, hear, and understand you that you are someone or something other than who you actually are. You don’t impersonate a specific individual known to the victim. Instead, you convince the victim that you are someone they do not know belonging to a certain category of people. “We’re from the government.” “I’m just a simple farmer from the next town over.” “Your commander sent me.” A disguise isn’t necessary, but a good disguise will almost certainly be an asset to the roll involved. If you attempt to convince more than one creature, the Intellect cost increases by 1 point per additional victim. Fooled creatures remain so for up to an hour, unless your actions or other circumstances reveal your true identity earlier. 
+
+Action.
+
+### Spirit Accomplice
+
+Spirit Accomplice #Ability #CompanionAbility #Low #Core 
 
 A level 3 spirit accompanies you and follows your instructions. The spirit must remain within immediate range—if it moves farther away, it fades at the end of your following turn and cannot return for a day. You and the GM must work out the details of your spirit accomplice, and you’ll probably make rolls for it when it takes actions. The spirit accomplice acts on your turn, can move a short distance each round, and exists partially out of phase (allowing it to move through walls, though it makes a poor porter). The spirit takes up residence in an object you designate, and it manifests as either an invisible presence or a ghostly shade. Your spirit accomplice is specialized in one knowledge skill the GM determines.
 
 The spirit is normally insubstantial, but if you use an action and spend 3 Intellect points, it accretes enough substance to affect the world around it. As a level 3 creature with substance, it has a target number of 9 and a health of 9. It doesn’t attack creatures, but while substantial, it can use its action to serve as an asset for any one attack you make on your turn.
 
-While corporeal, the spirit can’t move through objects or fly. A spirit remains corporeal for up to ten minutes at a time, but fades back to being insubstantial if not actively engaged. If your spirit accomplice is destroyed, it reforms in 1d6 days, or you can attract a new spirit in 2d6 days. Enabler. (An insubstantial creature can’t affect or be affected by anything unless indicated otherwise, such as when an attack is made with a special weapon. An insubstantial creature can pass through solid matter without hindrance, but solid energy barriers, such as magical fields of force, keep it at bay.)
+While corporeal, the spirit can’t move through objects or fly. A spirit remains corporeal for up to ten minutes at a time, but fades back to being insubstantial if not actively engaged. If your spirit accomplice is destroyed, it reforms in 1d6 days, or you can attract a new spirit in 2d6 days. 
 
-#### Spot Weakness
+(An insubstantial creature can’t affect or be affected by anything unless indicated otherwise, such as when an attack is made with a special weapon. An insubstantial creature can pass through solid matter without hindrance, but solid energy barriers, such as magical fields of force, keep it at bay.)
 
-If a creature that you can see has a special weakness, such as a vulnerability to fire, a negative modification to perception, or so on, you know what it is. (Ask and the GM will tell you.) Enabler.
+Enabler. 
 
-#### Spray (2 Speed points)
+### Spot Weakness
 
-If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow or submachine gun), you can spray multiple shots around your target to increase the chance of hitting. This ability uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). You are trained in making this attack. If the attack is successful, it deals 1 less point of damage than normal. You can also use this ability on multiple thrown weapons (stones, shuriken, daggers, and so on) if you‘re carrying them on your person or they are all within reach. Action.
+Spot Weakness #Ability #InformationAbility #Mid #Core 
 
-#### Spring Away (5 Speed points)
+If a creature that you can see has a special weakness, such as a vulnerability to fire, a negative modification to perception, or so on, you know what it is. (Ask and the GM will tell you.) 
 
-Whenever you succeed on a Speed defense roll, you can immediately move up to a short distance. You cannot use this ability more than once in a given round. Enabler.
+Enabler.
 
-#### Sprint and Grab (2 Speed points)
+### Spray
 
-You can run a short distance and make a melee attack to grab a foe of your size or smaller. A successful attack means you grab the foe and bring it to a halt if it was moving (this can be treated as a tackle, if appropriate). Action.
+Spray (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Spur Effort (5 Intellect points)
+If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow or submachine gun), you can spray multiple shots around your target to increase the chance of hitting. This ability uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). You are trained in making this attack. If the attack is successful, it deals 1 less point of damage than normal. You can also use this ability on multiple thrown weapons (stones, shuriken, daggers, and so on) if you‘re carrying them on your person or they are all within reach. 
 
-You select an ally within immediate range. If that character applies Effort to a task on their next turn, they can apply a free level of Effort on that task. Enabler.
+Action.
 
-#### Stalker
+### Spring Away
 
-You gain an asset to all types of movement tasks (including climbing, swimming, jumping, and balancing). Enabler.
+Spring Away (5 Speed points) #Ability #SpecialAttackAbility #High #Core 
 
-#### Stand Watch (2 Intellect points)
+Whenever you succeed on a Speed defense roll, you can immediately move up to a short distance. You cannot use this ability more than once in a given round. 
 
-While standing watch (mostly remaining in place for an extended period of time), you unfailingly remain awake and alert for up to eight hours. During this time, you are trained in perception tasks as well as stealth tasks to conceal yourself from those who might approach. Action to initiate.
+Enabler.
 
-#### Stare Them Down
+### Sprint and Grab
 
-One doesn’t play games of chicken with other maniac drivers without gaining mental strength. You’re trained in Intellect defense tasks. Enabler.
+Sprint and Grab (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Stasis (3 Intellect points)
+You can run a short distance and make a melee attack to grab a foe of your size or smaller. A successful attack means you grab the foe and bring it to a halt if it was moving (this can be treated as a tackle, if appropriate). 
 
-You surround a foe of your size or smaller with scintillating energy, keeping it from moving or acting for one minute, as if frozen solid. You must be able to see the target, and it must be within short range. While in stasis, the target is impervious to harm, cannot be moved, and is immune to all effects. Action.
+Action.
 
-#### Stay the Course (5 Intellect points)
+### Spur Effort
 
-When your companions are flagging, you can help inspire them with a well-timed word or two. Any ally (except you) within immediate range can make a recovery roll that is not an action and does not count toward their daily limit. Action.
+Spur Effort (5 Intellect points) #Ability #SupportAbility #Mid #Core 
 
-#### Steal Power
+You select an ally within immediate range. If that character applies Effort to a task on their next turn, they can apply a free level of Effort on that task. 
 
-When you use Copy Power to copy an ability, the creature you copied it from loses access to that ability for about a minute. While you have their ability, any attempt by the creature to use their ability requires them to succeed at a task (Might, Speed, or Intellect, as appropriate to the stolen ability) opposed by your eased Intellect task. If they succeed, they regain the use of their ability and you lose it. Enabler.
+Enabler.
+
+### Stalker
+
+Stalker #Ability #TaskAbility #Low #Core 
+
+You gain an asset to all types of movement tasks (including climbing, swimming, jumping, and balancing). 
+
+Enabler.
+
+### Stand Watch
+
+Stand Watch (2 Intellect points) #Ability #TaskAbility #Low #Core 
+
+While standing watch (mostly remaining in place for an extended period of time), you unfailingly remain awake and alert for up to eight hours. During this time, you are trained in perception tasks as well as stealth tasks to conceal yourself from those who might approach. 
+
+Action to initiate.
+
+### Stare Them Down
+
+Stare Them Down #Ability #ProtectionAbility #Low #Core 
+
+One doesn’t play games of chicken with other maniac drivers without gaining mental strength. You’re trained in Intellect defense tasks. 
+
+Enabler.
+
+### Stasis
+
+Stasis (3 Intellect points) #Ability #SpecialAttackAbility #Low #Core 
+
+You surround a foe of your size or smaller with scintillating energy, keeping it from moving or acting for one minute, as if frozen solid. You must be able to see the target, and it must be within short range. While in stasis, the target is impervious to harm, cannot be moved, and is immune to all effects. 
+
+Action.
+
+### Stay the Course
+
+Stay the Course (5 Intellect points) #Ability #CureAbility #High #Core 
+
+When your companions are flagging, you can help inspire them with a well-timed word or two. Any ally (except you) within immediate range can make a recovery roll that is not an action and does not count toward their daily limit. 
+
+Action.
+
+### Steal Power
+
+Steal Power #Ability #Core 
+
+When you use Copy Power to copy an ability, the creature you copied it from loses access to that ability for about a minute. While you have their ability, any attempt by the creature to use their ability requires them to succeed at a task (Might, Speed, or Intellect, as appropriate to the stolen ability) opposed by your eased Intellect task. If they succeed, they regain the use of their ability and you lose it. 
 
 If you want to make it more difficult for someone to take back their stolen power, become skilled in the Steal Power ability, or put a power shift in power for it.
 
-#### Stealth Skills
+Enabler.
 
-You are trained in your choice of two of the following skills: disguise, deception, lockpicking, pickpocketing, seeing through deception, sleight of hand, or stealth. You can choose this ability multiple times, but you must select different skills each time. Enabler.
+### Stealth Skills
 
-#### Still As a Statue (5 Might points)
+Stealth Skills #Ability #TaskAbility #Low #Core 
 
-Drawing upon the power of your Golem Body, you freeze in place, burying your essence deep in your stone core. During this time, you lose all mobility as well as the ability to take physical actions. You cannot sense what’s happening around you, and no time seems to pass for you. While Still As a Statue, you gain +10 to Armor against damage of all sorts. Under normal circumstances, you automatically rouse to normal wakefulness and mobility a day later. If an ally you trust shakes you hard enough (with a minimum cost of 2 Might points), you rouse earlier. Action to initiate.
+You are trained in your choice of two of the following skills: disguise, deception, lockpicking, pickpocketing, seeing through deception, sleight of hand, or stealth. You can choose this ability multiple times, but you must select different skills each time. 
 
-#### Stimulate (6 Intellect points)
+Enabler.
 
-Your words encourage a target you touch who can understand you. The next action it takes is eased by three steps. Action.
+### Still As a Statue
 
-#### Stone Breaker
+Still As a Statue (5 Might points) #Ability #ProtectionAbility #High #Core 
 
-Your attacks against objects inflict 4 additional points of damage when you use a melee weapon that you wield in two hands. Enabler.
+Drawing upon the power of your Golem Body, you freeze in place, burying your essence deep in your stone core. During this time, you lose all mobility as well as the ability to take physical actions. You cannot sense what’s happening around you, and no time seems to pass for you. While Still As a Statue, you gain +10 to Armor against damage of all sorts. Under normal circumstances, you automatically rouse to normal wakefulness and mobility a day later. If an ally you trust shakes you hard enough (with a minimum cost of 2 Might points), you rouse earlier. 
 
-#### Store Energy
+Action to initiate.
 
-When you drain energy with your focus abilities, you can store some of it for later in a Siphon Pool. You can spend points from your Siphon Pool as if they were from your Might or Speed Pool, or use an action to spend them to restore an equal number of points to your Might or Speed Pool. Your Siphon Pool can safely store up to 3 points; each point beyond that hinders all of your tasks. Enabler.
+### Stimulate
 
-#### Storm Seed (3 Intellect points)
+Stimulate (6 Intellect points) #Ability #SupportFocus #High #Core 
 
-If outside or in a large-enough enclosed space, you can seed a natural storm of a kind common to the area. Doing so requires at least an hour’s concentration as you use your connection to the air (whether this is due to nanobots, elemental spirits, magic, or some other source) to initiate proper conditions, though it could take longer if the GM feels there are additional obstacles at play. Once the storm begins, it lasts for about ten minutes. Once during that period, you can create a more dramatic and specific effect appropriate to that kind of storm, such as a lightning strike, a squall of giant hailstones, the brief touchdown of a twister, a single gust of hurricane-force winds, and so on. These effects must occur within long range of your location. You must spend your turn concentrating to create the effect, which occurs a round later. The effect inflicts 6 points of damage, after which the storm begins to disperse. Action to initiate, an hour or more to complete. (Storm Seed usually calls thunderstorms, but in an area where stranger weather is common, a Storm Seed could call that instead. For instance, some settings have particular kinds of magical weather.)
+Your words encourage a target you touch who can understand you. The next action it takes is eased by three steps. 
 
-#### Straightforward
+Action.
 
-You are trained in one of the following tasks (choose one): breaking things, climbing, jumping, or running. Enabler.
+### Stone Breaker
 
-#### Strategize (6 Intellect points)
+Stone Breaker #Ability #MetaAbility #Mid #Core 
 
-Having an action plan in place before facing a challenge improves the odds of success, even if that plan is eventually changed or discarded once it’s put into play. If you and your allies spend at least ten minutes going over a plan of action, all of you gain one free level of Effort that can be applied to one task you attempt during the execution of that plan within the next 24 hours. The plan of action must be something concrete and executable in order to gain this benefit. Action to initiate, ten minutes to complete.
+Your attacks against objects inflict 4 additional points of damage when you use a melee weapon that you wield in two hands. 
 
-#### Stronger Together
+Enabler.
 
-When you and your companion from the Beast Companion ability are within immediate distance of each other, you inflict 2 additional points of damage when you attack and both of you gain an asset to defense actions. Enabler.
+### Store Energy
 
-#### Stun Attack (6 Speed points)
+Store Energy #Ability #CureAbility #Mid #Core 
 
-You attempt a difficulty 5 Speed task to stun a creature as part of your melee or ranged attack. If you succeed, your attack inflicts its normal damage and stuns the creature for one round, causing it to lose its next turn. If you fail, you still make your normal attack roll, but you don’t stun the opponent if you hit. If you also have this ability from another source (such as having it as a type ability and a focus ability), using this costs you only 3 points instead of 6 points. Action.
+When you drain energy with your focus abilities, you can store some of it for later in a Siphon Pool. You can spend points from your Siphon Pool as if they were from your Might or Speed Pool, or use an action to spend them to restore an equal number of points to your Might or Speed Pool. Your Siphon Pool can safely store up to 3 points; each point beyond that hinders all of your tasks. 
 
-#### Sturdy
+Enabler.
 
-You are trained in Might defense tasks. Enabler.
+### Storm Seed
 
-#### Subconscious Defense
+Storm Seed (3 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
 
-Your subconscious constantly runs predictive models for avoiding danger. You gain an asset on your Speed defense tasks. Enabler.
+If outside or in a large-enough enclosed space, you can seed a natural storm of a kind common to the area. Doing so requires at least an hour’s concentration as you use your connection to the air (whether this is due to nanobots, elemental spirits, magic, or some other source) to initiate proper conditions, though it could take longer if the GM feels there are additional obstacles at play. Once the storm begins, it lasts for about ten minutes. Once during that period, you can create a more dramatic and specific effect appropriate to that kind of storm, such as a lightning strike, a squall of giant hailstones, the brief touchdown of a twister, a single gust of hurricane-force winds, and so on. These effects must occur within long range of your location. You must spend your turn concentrating to create the effect, which occurs a round later. The effect inflicts 6 points of damage, after which the storm begins to disperse. 
 
-#### Subsonic Rumble (2 Intellect points)
+(Storm Seed usually calls thunderstorms, but in an area where stranger weather is common, a Storm Seed could call that instead. For instance, some settings have particular kinds of magical weather.)
 
-For one minute or until you use some other sound manipulation ability, you emit a subsonic rumble that most living creatures can’t hear but which has an effect on them all the same. The effect lasts for one minute and affects all creatures you select within short range. All tasks related to resisting persuasion, intimidation, and fear are hindered by two steps for affected targets. Action to initiate.
+Action to initiate, an hour or more to complete.
 
-#### Subtle Steps
+### Straightforward
 
-When you move no more than a short distance, you can move without making a sound, regardless of the surface you move across. Enabler.
+Straightforward #Ability #TaskAbility #Low #Core 
 
-#### Subtle Tricks
+You are trained in one of the following tasks (choose one): breaking things, climbing, jumping, or running. 
 
-You can use your skills and special abilities in ways that don’t look like you’re doing anything. If the skill or ability would normally require an obvious movement, phrase, or other action by you, it instead seems to happen on its own. Instead of using your tools to pick a lock, the lock clicks open as you stand near it. Instead of manipulating a computer screen, the information you want appears on the screen when you look at it. Instead of bluffing your way past some guards, they step aside as you approach and let you through. This ability usually only works up to an immediate distance. You still must spend points and make rolls to use your skills and abilities with Subtle Tricks. Using a skill or ability in a subtle way hinders the task. This ability can’t be used to conceal your attack or defense rolls. Enabler.
+Enabler.
 
-#### Successive Attack (2 Speed points)
+### Strategize
 
-If you take down a foe, you can immediately make another attack on that same turn against a new foe within your reach. The second attack is part of the same action. You can use this ability with melee attacks and ranged attacks. Enabler.
+Strategize (6 Intellect points) #Ability #MetaAbility #Mid #Core 
 
-#### Suggestion (5+ Intellect points)
+Having an action plan in place before facing a challenge improves the odds of success, even if that plan is eventually changed or discarded once it’s put into play. If you and your allies spend at least ten minutes going over a plan of action, all of you gain one free level of Effort that can be applied to one task you attempt during the execution of that plan within the next 24 hours. The plan of action must be something concrete and executable in order to gain this benefit. 
+
+Action to initiate, ten minutes to complete.
+
+### Stronger Together
+
+Stronger Together #Ability #CompanionAbility #Mid #Core 
+
+When you and your companion from the Beast Companion ability are within immediate distance of each other, you inflict 2 additional points of damage when you attack and both of you gain an asset to defense actions. 
+
+Enabler.
+
+### Stun Attack
+
+Stun Attack (6 Speed points) #Ability #SpecialAttackAbility #High #Core 
+
+You attempt a difficulty 5 Speed task to stun a creature as part of your melee or ranged attack. If you succeed, your attack inflicts its normal damage and stuns the creature for one round, causing it to lose its next turn. If you fail, you still make your normal attack roll, but you don’t stun the opponent if you hit. If you also have this ability from another source (such as having it as a type ability and a focus ability), using this costs you only 3 points instead of 6 points. 
+
+Action.
+
+### Sturdy
+
+Sturdy #Ability #ProtectionAbility #Low #Core 
+
+You are trained in Might defense tasks. 
+
+Enabler.
+
+### Subconscious Defense
+
+Subconscious Defense #Ability #ProtectionAbility #Mid #Core 
+
+Your subconscious constantly runs predictive models for avoiding danger. You gain an asset on your Speed defense tasks. 
+
+Enabler.
+
+### Subsonic Rumble
+
+Subsonic Rumble (2 Intellect points) #Ability #TaskAbility #High #Core 
+
+For one minute or until you use some other sound manipulation ability, you emit a subsonic rumble that most living creatures can’t hear but which has an effect on them all the same. The effect lasts for one minute and affects all creatures you select within short range. All tasks related to resisting persuasion, intimidation, and fear are hindered by two steps for affected targets. 
+
+Action to initiate.
+
+### Subtle Steps
+
+Subtle Steps #Ability #TaskAbility #Mid #Core 
+
+When you move no more than a short distance, you can move without making a sound, regardless of the surface you move across. 
+
+Enabler.
+
+### Subtle Tricks
+
+Subtle Tricks #Ability #MetaAbility #High #Core 
+
+You can use your skills and special abilities in ways that don’t look like you’re doing anything. If the skill or ability would normally require an obvious movement, phrase, or other action by you, it instead seems to happen on its own. Instead of using your tools to pick a lock, the lock clicks open as you stand near it. Instead of manipulating a computer screen, the information you want appears on the screen when you look at it. Instead of bluffing your way past some guards, they step aside as you approach and let you through. This ability usually only works up to an immediate distance. You still must spend points and make rolls to use your skills and abilities with Subtle Tricks. Using a skill or ability in a subtle way hinders the task. This ability can’t be used to conceal your attack or defense rolls. 
+
+Enabler.
+
+### Successive Attack
+
+ Successive Attack (2 Speed points) #Ability #SpecialAttackAbility #Low #Core 
+
+If you take down a foe, you can immediately make another attack on that same turn against a new foe within your reach. The second attack is part of the same action. You can use this ability with melee attacks and ranged attacks. 
+
+Enabler.
+
+### Suggestion
+
+Suggestion (5+ Intellect points) #Ability #ControlAbility #High #Core 
 
 You suggest an action to a creature within immediate range. If the action is something that the target might normally do anyway, it follows your suggestion. If the suggestion is something that is outside of the target’s nature or express duty (such as asking a guard to let an intruder pass), the suggestion fails. The creature must be level 2 or lower. The effect of your suggestion lasts for up to a minute.
 
@@ -13273,50 +14180,93 @@ When the effects of the ability end, the creature remembers following the sugges
 
 Action to initiate.
 
-#### Summon Demon (7+ Intellect points)
+### Summon Demon
 
-A demon appears within immediate range. If you applied a level of Effort as part of the summoning, the demon is amenable to your instructions; otherwise, it acts according to its nature. Regardless, the demon persists for up to one minute before it fades away—you hope. Action to initiate.
+Summon Demon (7+ Intellect points) #Ability #CompanionAbility #High #Core 
 
-#### Summon Giant Spider (4+ Intellect points)
+A demon appears within immediate range. If you applied a level of Effort as part of the summoning, the demon is amenable to your instructions; otherwise, it acts according to its nature. Regardless, the demon persists for up to one minute before it fades away—you hope. 
 
-A giant spider appears within immediate range. If you applied a level of Effort as part of the summoning, the spider is amenable to your instructions; otherwise, it acts according to its nature. Regardless, the creature persists for up to one minute before it fades away. Action to initiate.  
-  
+Action to initiate.
 
-#### Sun Siphon
+### Summon Giant Spider
 
-The safe limit of your Siphon Pool from the Store Energy ability increases by 3 points. If you spend an hour in sunlight (or an hour in contact with a suitable powerful energy source), you automatically fill your Siphon Pool to its safe limit. You can’t refill your Siphon Pool this way again until after your next ten-hour recovery roll. Enabler.
+Summon Giant Spider (4+ Intellect points) #Ability #CompanionAbility #Mid #Core 
 
-#### Sunlight (3 Intellect points)
+A giant spider appears within immediate range. If you applied a level of Effort as part of the summoning, the spider is amenable to your instructions; otherwise, it acts according to its nature. Regardless, the creature persists for up to one minute before it fades away. 
 
-A mote of light travels from you to a spot you choose within long range. When the mote reaches that spot, it flares and casts bright light in a 200-foot (60 m) radius, and darkness within 1,000 feet (300 m) of the mote becomes dim light. The light lasts for one hour or until you use an action to dismiss it. Action.
+Action to initiate.
 
-#### Superb Explorer
+### Sun Siphon
 
-You are trained in searching, listening, climbing, balancing, and jumping tasks. Enabler.
+Sun Siphon #Ability #SpecialAttackAbility #Mid #Core 
 
-#### Superb Infiltrator
+The safe limit of your Siphon Pool from the Store Energy ability increases by 3 points. If you spend an hour in sunlight (or an hour in contact with a suitable powerful energy source), you automatically fill your Siphon Pool to its safe limit. You can’t refill your Siphon Pool this way again until after your next ten-hour recovery roll. 
 
-You are trained in lockpicking and tinkering with devices in an effort to make them work, or at least work for you. Enabler.
+Enabler.
 
-#### Superior Duplicate (2 Might points)
+### Sunlight
 
-When you use your Duplicate ability, you can create a superior duplicate instead of a normal duplicate. A superior duplicate is a level 3 NPC with 15 health. Enabler.
+Sunlight (3 Intellect points) #Ability #EnvironmentAbility #Mid #Core 
 
-#### Surging Confidence (1 Might point)
+A mote of light travels from you to a spot you choose within long range. When the mote reaches that spot, it flares and casts bright light in a 200-foot (60 m) radius, and darkness within 1,000 feet (300 m) of the mote becomes dim light. The light lasts for one hour or until you use an action to dismiss it. 
 
-When you use an action to make your first recovery roll of the day, you immediately gain another action. Enabler.
+Action.
 
-#### Surprise Attack
+### Superb Explorer
 
-If attacking from a hidden vantage, with surprise, or before your opponent has acted, you get an asset on the attack. On a successful hit, you inflict 2 additional points of damage. Enabler.
+Superb Explorer #Ability #TaskAbility #Low #Core 
 
-#### Swim (1+ Intellect points)
+You are trained in searching, listening, climbing, balancing, and jumping tasks. 
 
-You can swim like a fish through water and similar liquid for one hour. For each level of Effort applied, you can extend the duration by one hour. You swim about 10 miles (16 km) per hour, and you are not affected by currents in the water. Action to initiate.
+Enabler.
 
-#### Swipe (1 Speed point)
+### Superb Infiltrator
 
-This is a quick, agile melee attack. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. Action.
+Superb Infiltrator #Ability #TaskAbility #Low #Core 
+
+You are trained in lockpicking and tinkering with devices in an effort to make them work, or at least work for you. 
+
+Enabler.
+
+### Superior Duplicate
+
+Superior Duplicate (2 Might points) #Ability #CompanionAbility #Mid #Core 
+
+When you use your Duplicate ability, you can create a superior duplicate instead of a normal duplicate. A superior duplicate is a level 3 NPC with 15 health. 
+
+Enabler.
+
+### Surging Confidence
+
+Surging Confidence (1 Might point) #Ability #CureAbility #Low #Core 
+
+When you use an action to make your first recovery roll of the day, you immediately gain another action. 
+
+Enabler.
+
+### Surprise Attack
+
+Surprise Attack #Ability #SpecialAttackAbility #Low #Core 
+
+If attacking from a hidden vantage, with surprise, or before your opponent has acted, you get an asset on the attack. On a successful hit, you inflict 2 additional points of damage. 
+
+Enabler.
+
+### Swim
+
+Swim (1+ Intellect points) #Ability #MovementAbility #Mid #Core 
+
+You can swim like a fish through water and similar liquid for one hour. For each level of Effort applied, you can extend the duration by one hour. You swim about 10 miles (16 km) per hour, and you are not affected by currents in the water. 
+
+Action to initiate.
+
+### Swipe
+
+Swipe (1 Speed point) #Ability #SpecialAttackAbility #Low #Core 
+
+This is a quick, agile melee attack. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. 
+
+Action.
 
 ### Abilities—T
 
