@@ -31,8 +31,7 @@ Core
 - [x] Characters
 	- [x] Types, flavors, focus
 	- [x] Abilities
-	- [x] Equipment
-		- [ ] Keep standard equipment from fantasy ?
+	- [ ] Equipment
 - [x] Rules
 	- [x] Rules of the Game
 		- [x] Key Concepts
@@ -48,9 +47,9 @@ Core
 		- [x] Followers
 	- [x] Experience Points
 - [ ] Game Mastering
-	- [ ] Creatures and NPC
+	- [x] Creatures and NPC
 	- [ ] Cyphers
-	- [ ] Artifacts
+	- [x] Running the Cypher System
 - [ ] Cutting and Linking
 Genres
 ## Formatting reference
@@ -303,6 +302,7 @@ All Cards follow the following principles :
 - ...
 
 Should be in headings separate from the cards. The rationale is to be able to automatically cut along headings and get consistent files.
+
 ## Genre modules
 
 Should follow the following template :
