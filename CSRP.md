@@ -17193,11 +17193,16 @@ If you need a larger or tougher version of a creature, such as a dire wolf or a 
 
 A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.
 
+### Creature Types
+#### JOTUNN (NORSE GIANT)
+
+Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
+
 ### CREATURES
 
-#### ABOMINATION 
+#### ABOMINATION
 
-Level : 5 (15)
+ABOMINATION #lvl5 (15) #Creature #Core #Fantasy 
 
 An abomination is a hideous bestial humanoid covered with thickened plates of scarlet flesh. Their eyes shine with the stagnant glow of toxic waste dumps. Standing at least 7 feet (2 m) tall, abominations are drawn to movement. Always famished, they consume living prey in great tearing bites.
 
@@ -17227,7 +17232,7 @@ GM intrusion: The abomination isn’t dead; it stands up on the following round 
 
 #### BASILISK
 
-Level : 5 (15)
+BASILISK #lvl5 (15) #Creature #Core #Fantasy 
 
 A basilisk is a magical kind of serpent that resembles a cobra, has a series of scales on its head like a crown, and crawls upright instead of slithering on its belly. It feeds on snakes and other creatures smaller than itself, relying on its poisonous aura to weaken and kill its prey. It is known to make an unnerving growl instead of a typical snake hiss. An adult basilisk is 10 to 18 feet (3 to 5.5 m) long. 
 
@@ -17261,11 +17266,11 @@ Use: A blighted area in a field, briar, or forest suggests that a basilisk has m
 
 Loot: Basilisk venom is valuable, but it must be stored in a strong, sealed container or the bearer will succumb to the poison. Its blood has alchemical properties relating to transmuting metals.
 
-GM intrusion: Thebasilisk strikes quickly,biting the same creaturetwice on its turn.
+GM intrusion: The basilisk strikes quickly, biting the same creature twice on its turn.
 
 #### BLACKGUARD
 
-Level : 6 (18)
+BLACKGUARD #lvl6 (18) #Creature #Core #Fantasy 
 
 Blackguards are evil knights who serve dark entities or their own corrupt agendas. Some were once honorable knights who fell to temptation and have abandoned their original principles, but many were raised under evil circumstances and have never known anything but hatred and conflict. 
 
@@ -17311,7 +17316,7 @@ GM intrusions:The blackguard’s weaponflares with unholy power,inflicting an ad
 
 #### CAMBION
 
-Level : 5 (15)
+CAMBION #lvl5 (15) #Creature #Core #Fantasy 
 
 Fine ebony scales cover a cambion’s perfectly athletic figure. Two reddish horns grow from
 
@@ -17353,7 +17358,7 @@ GM intrusion: Thecharacter’s cypherexplodes when touchedby cambion demonfire o
 
 #### CHIMERA
 
-Level : 6 (18)
+CHIMERA #lvl6 (18) #Creature #Core #Fantasy 
 
 Chimeras are unsettling hybrids that combine the features of many different animals, often arranged in odd formations. The fusion of animal forms is the only thing that unifies these creatures—otherwise, different chimeras often look very different from each other. They include combinations of goat and lion, lizard and bat, dragon and spider, dinosaur and giant insect. A few even display human features, such as an improbably located face or hands instead of claws. Some chimeras can fly. Others slither across the ground.
 
@@ -17383,7 +17388,7 @@ GM intrusion: The chimera grabs a character it bites and flies off with the vict
 
 #### CHRONOPHAGE
 
-Level : 4 (12)
+CHRONOPHAGE #lvl4 (12) #Creature #Core #Fantasy 
 
 These segmented, 6-foot (2 m) long creatures look partly like larvae that have grown gargantuan and vicious. They appear in places where time moves more slowly or more quickly than normal, where balls and liquids flow upslope, or where a time traveler has visited.
 
@@ -17415,7 +17420,7 @@ GM intrusion: If a chronophage’s prey fails its Speed defense roll, the attack
 
 #### CORRUPT MAGE
 
-Level : 7 (21)
+CORRUPT MAGE #lvl7 (21) #Creature #Core #Fantasy 
 
 Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients. 
 
@@ -17458,7 +17463,7 @@ GM intrusions:A desperate or dyingcorrupt mage transformstheir own body intoseve
 
 #### CYCLOPS
 
-Level : 7 (21)
+CYCLOPS #lvl7 (21) #Creature #Core #Fantasy 
 
 Cyclopes resemble massive humans that stand 50 to 60 feet (15 to 18 m) tall and weigh about 10,000 pounds (4,500 kg). Everything about these giants is exaggerated, from the thick features of their faces to their oversized hands and lumpy, corpulent bodies. They clothe themselves in animal skins, scraps of cloth, or canvas stolen during their travels. A cyclops’s most distinctive feature is the single eye positioned in the center of its forehead. Cyclopes live on the edges of civilized areas or on remote islands. For all their power and stature, they aren’t especially brave, and most have a dim idea that puny humans have an advantage when they have numbers on their side.
 
@@ -17494,7 +17499,7 @@ A character struckby the cyclops’s fist isgrabbed and stuffed inthe creature�
 
 #### DEEP ONE
 
-Level : 4 (12)
+DEEP ONE #lvl4 (12) #Creature #Core #Fantasy 
 
 Some deep ones dwell in coastal regions on land, usually in isolated villages where they might attempt to pass for human. They are able to breathe both air and water. Most, however, thrive in the ocean depths, in ancient underwater cities like “Cyclopean and many-columned Y’ha-nthlei.” Deep ones sometimes breed with insane humans to produce squamous offspring that eventually develop fully into deep ones well after maturity (or even middle age).
 
@@ -17526,7 +17531,7 @@ GM intrusion: The deep one produces a net and throws it over the character. The 
 
 #### DEINONYCHUS
 
-Level : 3 (9)
+DEINONYCHUS #niv3 (9) #Creature #Core #Fantasy 
 
 Popularly known as the velociraptor, the dinosaur genus called deinonychus doesn’t care if its prey gets the proper terminology sorted. Meat tastes like meat. The “terrible claw” these carnivores are named after refers to their massive, sickle-shaped claws, which are unsheathed from their hind legs when attacking prey.
 
@@ -17556,7 +17561,7 @@ GM intrusion: The fleeing deinonychus was actually leading the character over a 
 
 #### DEMIGOD
 
-Level : 9 (27)
+DEMIGOD #lvl9 (27) #Creature #Core #Fantasy 
 
 Lesser gods, divine children of gods and mortals, and other beings bequeathed with partly divine power are called demigods. Their capacities so radically exceed those of regular people that they have transcended humanity. Demigods are so physically and mentally powerful that it’s difficult for them to hide their semi-divine appearance to mortal creatures—not that most would make the effort in the first place.
 
@@ -17588,7 +17593,7 @@ GM intrusion: The divine nature of the demigod allows it to act out of turn, tak
 
 #### DEMON
 
-Level : 5 (15)
+DEMON #lvl5 (15) #Creature #Core #Fantasy 
 
 Demons are formless spirits of the dead tortured in nether realms until all that was good or caring in them was burned away, forging a being of spite and hate.
 
@@ -17625,7 +17630,7 @@ GM intrusion: The character who attempts an exorcism of a possessed target is su
 
 #### DEMON LORD
 
-Level : 9 (27)
+DEMON LORD #lvl9 (27) #Creature #Core #Fantasy 
 
 Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring. 
 
@@ -17665,7 +17670,7 @@ The demon lord createsa portal and retreatsto its own dimension;the portal remai
 
 #### DEVIL
 
-Level : 4 (12)
+DEVIL #lvl4 (12) #Creature #Core #Fantasy 
 
 Devils are manifest evil. As “native fauna” of various tortuous nether realms, devils come in many forms, though most are iterations on a theme that includes a humanoid shape, large batwings, bestial faces, and twisting horns. Most stink of brimstone and sport tails that end in a fork. Devils fill the ranks of hellish armies, guard evil vaults, and appear at the magical summons of warlocks and sorcerers who are not afraid for the sanctity of their own souls.
 
@@ -17696,7 +17701,7 @@ GM intrusion: A devil anticipates the character’s melee attack and brings its 
 
 #### DJINNI
 
-Level : 7 (21)
+DJINNI #lvl7 (21) #Creature #Core #Fantasy 
 
 Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.
 
@@ -17728,7 +17733,7 @@ GM intrusion: When the character is touched by a djinni, instead of taking damag
 
 #### DRAGON
 
-Level : 7 (21)
+DRAGON #lvl7 (21) #Creature #Core #Fantasy 
 
 Dragons are exceptionally territorial, vain, and greedy. Apex predators, dragons must eat large meals on a regular basis. They prefer virgins, though they will settle for whoever, or whatever—such as horses or wild pigs—is available in a pinch. They love games of all sorts, especially when they get to consume the loser. Drawn to wealth and magic, dragons accumulate hoards of golden treasure. A dragon’s hoard is not only an end in itself, but part of a never-ending contest between dragons of a certain age to see which one can accumulate the largest trove.
 
@@ -17763,7 +17768,7 @@ GM intrusion: The dragon breathes fire while the character is caught in its mout
 
 #### ELEMENTAL, FIRE
 
-Level : 4 (12)
+FIRE ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 
 Searing flame in a vaguely humanoid shape, a fire elemental exists only to burn that which is not already ash. They sometimes spin into being where great conflagrations burn.
 
@@ -17797,7 +17802,7 @@ GM intrusion: A character hit by the fire elemental’s attack catches on fire a
 
 #### ELEMENTAL, EARTH
 
-Level : 5 (15)
+EARTH ELEMENTAL #lvl5 (15) #Creature #Core #Fantasy 
 
 An excavation, a meteor fall, a still-shuddering earthquake—all these events can summon an earth elemental to take shape and expand the destruction further.
 
@@ -17825,7 +17830,7 @@ GM intrusion: A character within range of the earth elemental’s earthquake att
 
 #### ELEMENTAL, AIR
 
-Level : 4 (12)
+Air ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 
 Air elementals are capricious pieces of air with simple minds. They spontaneously appear in clouds and high mountains, and often resemble an area of mist or a cloudlike humanoid shape. 
 
@@ -17840,6 +17845,7 @@ Damage Inflicted: 4 points 
 Movement: Long when flying 
 
 Modifications: Stealth as level 6  
+
 Combat: Air elementals slice foes up to a short distance away with blades of fierce wind, or use blasts of air to throw small objects. Once every other round, an air elemental can turn into a tornado-like vortex that inflicts 4 points of damage to all creatures within immediate range. In this form, the elemental gains +1 to Armor and an additional +2 to Armor against physical projectile weapons such as arrows and javelins. The elemental reverts to its normal form at the start of its next turn. 
 
 An air elemental can disperse itself over a short area as an action. In this form it is invisible, unable to attack, and can’t be attacked except with area attacks. The elemental can remain in this form indefinitely, but must use an action to return to its normal form. 
@@ -17854,6 +17860,7 @@ GM intrusion: Aviolent blast of winddisarms a characterand sends whateverthey we
 
 #### ELEMENTAL, THORN
 
+THORN ELEMENTAL #lvl6 (18) #Creature #Core #Fantasy 
 Level : 6 (18)
 
 The grisly sign of an active thorn elemental in areas of heavy woods or jungle is the presence of shriveled bodies dangling from vines, dead of strangulation and poison. Thorn elementals take form in areas dense with woody growth under threat by hatchet, axe, saw, and, sometimes, human-caused climate disruptions. 
@@ -17886,6 +17893,7 @@ GM intrusion: A character within short range of a thorn elemental must make a su
 
 #### ELEMENTAL, WATER
 
+WATER ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 Level : 4 (12)
 
 Water elementals are animate masses of water. When swimming, they are nearly indistinguishable from their surroundings, but when they have to move on dry land, they usually take the form of a curling wave, amorphous blob, or large puddle. They can spontaneously appear in locations with pristine salt or fresh water. 
@@ -17916,7 +17924,7 @@ GM intrusion: The forceof the elemental’s attackknocks over a character,sweeps
 
 #### ENTHRALLER
 
-Level : 6 (18)
+ENTHRALLER #lvl6 (18) #Creature #Core #Fantasy 
 
 Hundreds of thousands of years ago, enthraller ancestors psychically dominated a group of interstellar spacefarers who had the misfortune to land on the enthraller homeworld. Leapfrogging technological prowess by mentally commandeering the know-how of every new species they encountered using their stolen space vessel, the aliens fashioned the Enthraller Dominion, which stretches across vast swaths of space, cemented by the psychic control.
 
@@ -17956,7 +17964,7 @@ GM intrusion: The enthraller’s intrusion into the character’s mind stirs up 
 
 #### EVIL PRIEST
 
-Level : 7 (21)
+EVIL PRIEST #lvl7 (21) #Creature #Core #Fantasy 
 
 Evil priests are worshippers of evil gods, demons, devils, strange malevolent forces from beyond known dimensions, or even death itself. They lead cults, corrupt the innocent with lies and twisted ideologies, and enact the will of their patron in the mortal world. The most insidious ones are able to infiltrate good churches and secular organizations in order to tear them down from the inside. 
 
@@ -17996,7 +18004,7 @@ The evil priest ignores, avoids, or immediately recovers from an attack that wou
 
 #### FAERIE
 
-Level : 3 (9)
+FAERIE #lvl3 (9) #Creature #Core #Fantasy 
 
 Faeries are magic creatures of music, mirth, tricks, and taunts. Some might only perform a silly song or follow people for a while, flitting around and asking questions like an annoying young child. Some faeries are crueler and delight in stealing clothing, equipment, or prized objects. And a few are downright malicious and, under the guise of a helpful guide or a pretty light in the distance, lure lost travelers to various dooms. 
 
@@ -18033,7 +18041,7 @@ important possession.
 
 #### FALLEN ANGEL
 
-Level : 5 (15)
+FALLEN ANGEL #lvl5 (15) #Creature #Core #Fantasy 
 
 Angels are normally associated with virtue and service to higher moral beings. But just like people, sometimes angels are tempted into impure acts. Those who stray too far over the line may fall from higher realms and be forced to walk the Earth in penance. This experience drives most fallen angels insane.
 
@@ -18071,7 +18079,7 @@ less-than-ideal fashion.
 
 #### FUSION HOUND
 
-Level : 3 (9)
+FUSION HOUND #lvl3 (9) #Creature #Core #Fantasy 
 
 In radiation-scoured wastelands, either creatures adapt to the deadly energies of their environment, or they die. Fusion hounds are mutant canines able to absorb unbelievable amounts of radiation and thrive on it. They roam in packs, killing and devouring everything they come upon.
 
@@ -18105,7 +18113,7 @@ GM intrusion: The hound flares with energy and the character must succeed on a M
 
 #### GHOST
 
-Level : 4 (12)
+GHOST #lvl4 (12) #Creature #Core #Fantasy 
 
 Sounds with no apparent origin, such as the tap of footsteps on the stair, knocking behind the walls, crying from empty rooms, and haunting music, might be signs of a ghost. If the sound is accompanied by a sudden temperature drop and the breath of living creatures begins to steam, it’s a certainty.
 
@@ -18141,7 +18149,7 @@ GM intrusion: The character must succeed on an Intellect defense roll or be poss
 
 #### GHOUL
 
-Level : 4 (12)
+GHOUL #lvl4 (12) #Creature #Core #Fantasy 
 
 Ghouls spend almost as much time beneath the ground as corpses do, but ghouls are very much alive. Their bodies are hairless and so porcelain-smooth that their faces are sometimes mistaken for masks, albeit gore-smeared masks. Ghouls come to the surface at night to gather humanoid remains or steal those recently interred from their graves, though many prefer to eat from still-living victims.
 
@@ -18173,7 +18181,7 @@ GM intrusion: The ghoul spits in the character’s eye, directly introducing the
 
 #### GIANT
 
-Level : 7 (21)
+GIANT #lvl7 (21) #Creature #Core #Fantasy 
 
 Violent storms, earthquakes, typhoons, and other natural disasters draw giants. Standing 20 to 30 feet (6 to 9 m) tall, giants delight in rampaging through the middle of such calamities, creating even more destruction. Some giants grow so powerful that they can trigger natural disasters on their own.
 
@@ -18207,7 +18215,7 @@ GM intrusion: The giant’s blow sprains one of the character’s limbs, making 
 
 #### GIANT RAT
 
-Level : 3 (9)
+GIANT RAT #lvl3 (9) #Creature #Core #Fantasy 
 
 Giant rats are as large as big attack dogs, just as vicious, and more wily. Some giant rats are the lone matriarchs of a pack of ordinary level 1 rats, and others are just one of several making up a colony of oversized rodents. Like their smaller cousins, giant rats are known for harboring virulent disease.
 
@@ -18233,7 +18241,7 @@ GM intrusion: A swarm of twelve ordinary rats—each level 1, but acting like a 
 
 #### GIANT SNAKE
 
-Level : 4 (12)
+GIANT SNAKE #lvl4 (12) #Creature #Core #Fantasy 
 
 Those about to stumble into the presence of a giant snake at least 50 feet (15 m) long are warned by the skin it shed and discarded and by the cracked, slippery bones of digested victims.
 
@@ -18265,7 +18273,7 @@ GM intrusion: The snake’s venom affects the character more strongly. Instead o
 
 #### GIANT SPIDER
 
-Level : 3 (9)
+GIANT SPIDER #lvl3 (9) #Creature #Core #Fantasy 
 
 Giant spiders result most commonly from radioactive accidents, magic, or genetic manipulation. Whatever their origin, they’re terrifying hunters large enough to predate people. The creatures range from the size of a large dog to the size of a large horse.
 
@@ -18295,7 +18303,7 @@ GM intrusion: Giant spider eggs hatch, and a level 3 swarm of tiny spiders attac
 
 #### Goblin
 
-Level : 1 (3)
+Goblin #lvl1 (3) #Creature #Core #Fantasy 
 
 Goblins are wicked, grasping, and perversely resourceful. Usually no larger than children, they can seem like pesky rabble, but that illusion hides something altogether more cunning. Tribe members work together to accomplish their goals of murder, kidnapping, and theft.
 
@@ -18323,7 +18331,7 @@ GM intrusion: The goblin poisoned its knife. If struck, the character must make 
 
 #### GOLEM
 
-Level : 6 (18)
+GOLEM #lvl6 (18) #Creature #Core #Fantasy 
 
 Animate creatures of stone created by magic for a specific purpose, golems usually serve as guardians. However, they may also serve as soldiers, couriers, and banner-bearers. Golems that have accomplished their task may spend years without moving, like statuary posed in unexpected places—stained, eroded, and forlorn. But if disturbed, a golem rumbles back to movement and attempts to restart the last task assigned to it by its maker.
 
@@ -18355,7 +18363,7 @@ GM intrusion: The character hit by the golem is also grabbed and headbutted for 
 
 #### GORGON
 
-Level : 5 (15)
+GORGON #lvl5 (15) #Creature #Core #Fantasy 
 
 Statues littering the grounds outside a ruin are meant to deter savvy robbers and explorers. The statues, ranging in size from birds to warriors astride steeds, all depict creatures in states of fright and pain, the final image of death. These pieces are not the work of a fevered mind, but the fates of those who braved a gorgon’s lair. Gorgons were humans once. After they offended the gods with their vanity, they were transformed into hideous monsters. A gorgon has the upper body of a human of perfect form and physique, but the lower body of a giant serpent, complete with rattling tail. One who dares look at a gorgon’s face can see traces of the old beauty beneath a weary veneer, darkened by hatred. Instead of hair, serpents crown a gorgon’s head, snapping and hissing at anyone who draws near. Yet the most terrible aspect of a gorgon is its gaze, which can turn any creature to stone. 
 
@@ -18385,7 +18393,7 @@ GM intrusion: A character glimpsesa gorgon’s eyes, and a sheen of stone covers
 
 #### GREY
 
-Level : 4 (12)
+GREY #lvl4 (12) #Creature #Core #Fantasy 
 
 Greys are enigmatic creatures born of alien stars (or dimensions) who have learned to move across the vast distances that bridge neighboring star systems. The creatures descend through the atmosphere under the cover of night to abduct specimens for study and return the victims later after a thorough examination. Returned abductees are usually befuddled and confused, and they retain little memory of what happened to them. Victims of the greys’ examination frequently sport strange marks on their flesh, oddly shaped wounds, gaps where teeth used to be, and strange or unknown metal lodged somewhere under the skin.
 
@@ -18421,7 +18429,7 @@ GM intrusion: A grey’s ray emitter suffers a terrible mishap and explodes. The
 
 #### HAG
 
-Level : 6 (18)
+HAG #lvl6 (18) #Creature #Core #Fantasy 
 
 Hags are evil magical creatures distantly related to the fey. They resemble withered ancient humans with obvious inhuman features—dead eyes, green or purple skin, metal teeth, webbed fingers, and seaweed-like hair are common traits. They love corrupting pure and innocent things, and feast on the dreams and flesh of their victims. 
 
@@ -18463,7 +18471,7 @@ GM intrusion: A creature becomes afraid and reluctant to oppose the hag, hinderi
 
 #### HARPY
 
-Level : 3 (9)
+HARPY #lvl3 (9) #Creature #Core #Fantasy 
 
 A harpy is a hideous, filthy creature with the body of a large vulture and the neck and head of an ugly human. Their breath reeks of decay, their wings and talons drip with an unpleasant oil, and their eyes shed acrid tears. They love to torment people and lure them to their deaths. 
 
@@ -18495,7 +18503,7 @@ GM intrusion: A harpy snatches something a character is wearing or carrying on a
 
 #### HOLLOW KNIGHT
 
-Level : 4 (12)
+HOLLOW KNIGHT #lvl4 (12) #Creature #Core #Fantasy 
 
 In haunted castles and among the armies mustered by those with power over life and death, sometimes walk hollow knights. These animated suits of armor move just like living people, and many who encounter these dread revenants mistake them for living foes only to realize in horror that there’s nothing inside except for the memory of the warrior that once donned the suit. Brought into being by binding the spirit of a dead warrior to its panoply, hollow knights behave in much the same way they did in life—disciplined, loyal, and battle ready. Clad head to toe in full plate armor, with battered shields strapped to their arms and rusty swords gripped in lobster gauntlets, the knights stand ready to face any foe, heedless of the danger, driven to serve the necromancer that made them. Hollow knights might ride on the backs of skeletal steeds and wield lances. 
 
@@ -18529,7 +18537,7 @@ GM intrusion: When a hollow knight is destroyed, a gauntlet flies up, grabs a ch
 
 #### HYDRA
 
-Level : 7 (21)
+HYDRA #lvl7 (21) #Creature #Core #Fantasy 
 
 This mythological reptile has five writhing serpent heads, each of which constantly exhales a venomous plume. Well over 20 feet (6 m) long from the tip of its longest head to its thrashing tail, the toxic beast’s most discomfiting feature is its magical ability to sprout new heads when it’s wounded. Some hydras dwell on land, others in water. Most seem to have been set as guardians of important places by higher powers, which is probably why they’re so difficult to kill. 
 
@@ -18561,13 +18569,9 @@ Use: The PCs investigate an ancient ruin hoping to find artifacts of the gods. A
 
 GM intrusion: The character reacts poorly to the poison in the air or a bite and goes intonhelpless convulsions for one round if they fail a Might defense task.
 
-#### JOTUNN (NORSE GIANT)
-
-Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
-
 #### JOTUNN, FIRE
 
-Level : 6 (18)
+FIRE JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
 
 Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies. 
 
@@ -18603,7 +18607,7 @@ GM intrusion: The jotunn’s attack inflicts a serious burn, making a limb usele
 
 #### JOTUNN, FROST
 
-Level : 6 (18)
+FROST JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
 
 Frost jotunns are often called frost giants or ice giants. Their skin is pale white, pink, or blue, and their hair is usually white, pale blond, or actual ice. They prefer cold mountains and tundra, wear chainmail and furs, and use metal axes that channel powerful cold from their bodies. 
 
@@ -18639,7 +18643,7 @@ GM intrusion: The jotunn’s attack numbs one of the character’s limbs, hinder
 
 #### KAIJU
 
-Level : 10 (30)
+KAIJU #lvl10 (30) #Creature #Core #Fantasy 
 
 Kaiju come in a variety of shapes, but all share one difficult-to-ignore quality: mind-blowing size. Appearances of these colossal creatures are rare events that usually don’t last for more than a few days. In that sense, they’re akin to hundred-year storms and at least as destructive. When they emerge, they’re attracted by artificial structures, the more densely situated and elaborate the better, which they set to smashing with a vengeance. It’s hard to judge the size of things so far outside normal scale, but good estimates put most kaiju at over 300 feet (90 m) in height.
 
@@ -18680,7 +18684,7 @@ The character gains the direct attention of the kaiju. If the kaiju attacks the 
 
 #### KILLER CLOWN
 
-Level : 5 (15)
+KILLER CLOWN #lvl5 (15) #Creature #Core #Fantasy 
 
 A clown—whether it’s a doll or what seems to be a person wearing clown makeup—could be entirely benign. But if you see one sitting alone in a dark room, lying under your bed, or gazing up at you through the sewer grate in the street, it might be a killer clown. Killer clowns might be evil spirits possessing someone or an insane person living out a homicidal fantasy. Either way, they’re as dangerous as anything you’ll ever likely meet. If you see a clown, run. Because it might be a killer.
 
@@ -18719,7 +18723,7 @@ GM intrusion: The clown snatches a weapon, cypher, or other object from the char
 
 #### KILLING WHITE LIGHT
 
-Level : 5 (15)
+KILLING WHITE LIGHT #lvl5 (15) #Creature #Core #Fantasy 
 
 A killing white light isn’t a subtle hunter. At a distance, the creature is an eye-watering point of brilliance. When it closes in, it is nothing less than blinding, though its emanation isn’t warm. Despite the blazing intensity, a killing white light is as cold as starlight on a December night, sapping heat and life from living things caught in its radiance.
 
@@ -18751,7 +18755,7 @@ GM intrusion: Normally resistant to interaction, a killing white light uses its 
 
 #### LICH
 
-Level : 8 (24)
+LICH #lvl8 (24) #Creature #Core #Focus 
 
 A lich is a powerful wizard or priest who has used their knowledge of necromancy to bind their soul in a magical object called a phylactery, making them immortal and undead unless their soul object is found and destroyed. Having corrupted its own life energy in an obscene ritual, a lich can pursue its other magical goals, usually the acquisition of more wealth, magic, and power. A newly made lich may look like a recent corpse, but maintaining its physical vessel becomes less of a priority as the centuries pass, so over time they tend to look withered or even skeletal. Liches often work with or command other undead, such as wraiths, skeletons, vampires, and zombies. 
 
@@ -18789,7 +18793,7 @@ GM intrusions: The lich casts a spell in addition to taking other actions on its
 
 #### MANTICORE
 
-Level : 6 (18)
+MANTICORE #lvl6 (18) #Creature #Core #Fantasy 
 
 A manticore is a fearsome predator that resembles a maned red lion with a human head and a scorpion’s tail. The head is bearded and has three rows of teeth in the upper and lower jaws, like a shark. The scorpion tail is covered in multiple barbs, and the creature can flick its tail to hurl these barbs at its prey. Manticores eat all of their prey, including the bones, clothing, and equipment, leaving nothing but a bloodstain as evidence of their hunting. 
 
@@ -18821,7 +18825,7 @@ GM intrusion: The manticore attacks with its bite, then spins around to lash its
 
 #### MECHANICAL SOLDIER
 
-Level : 4 (12)
+MECHANICAL SOLDIER #lvl4 (12) #Creature #Core #Fantasy 
 
 Clockwork automatons powered by steam, these mechanical men patrol about and guard locations of importance to their makers. Lanky and awkward in their movements, these quasi-humanoid automatons stand almost 8 feet (2 m) tall. In their three-fingered hands, they wield a variety of weapons.
 
@@ -18862,7 +18866,7 @@ GM intrusion: The destroyed soldier explodes in a gout of flame, black smoke, an
 
 #### MERFOLK
 
-Level : 3 (9)
+MERFOLK #lvl3 (9) #Creature #Core #Fantasy 
 
 Merfolk are intelligent creatures with humanlike bodies from the waist up and scaly fish bodies from the waist down. They are able to breathe air or water but prefer the sea for its beauty and their better mobility. Merfolk have great underwater cities ruled by a king or queen, but most land-walking species interact only with the common or soldier merfolk who visit the ocean surface and coastlines. Merfolk societies are much like those of surface humans; their inability to use fire limits them in some ways (such as blacksmithing), but they have compensated for this with water magic and other skills. 
 
@@ -18900,7 +18904,7 @@ GM intrusions: The merfolk’s weapon injects poison, inflicting 5 points of Spe
 
 #### MI-GO
 
-Level : 5 (15)
+MI-GO #lvl5 (15) #Creature #Core #Fantasy 
 
 These extraterrestrial creatures are known as the Fungi from Yuggoth or the Abominable Ones. They are a bizarre amalgam of insect and fungal entity, with many limbs and wings that can carry them aloft. They sometimes enslave humans to work for them in strange factories, mines, or other  
 labor-intensive capacities.
@@ -18941,7 +18945,7 @@ GM intrusion: Fungal spores from the mi-go’s body overcome the character, who 
 
 #### MINOTAUR
 
-Level : 4 (12)
+MINOTAUR #lvl4 (12) #Creature #Core #Fantasy 
 
 Minotaurs are aggressive bull-humanoids who enjoy human flesh. Some legends say the first minotaur was the result of a curse from a god, and others suggest it was created by a demon, but the truth is lost to antiquity. Minotaurs care little about history or their origin, preferring to hunt for meat and spar with each other for dominance and trophies. Minotaurs live in small tribes of up to a dozen adults. Solitary minotaurs are exiles, last survivors of their tribe, or younger individuals claiming their own territory. 
 
@@ -18975,7 +18979,7 @@ GM intrusions: A minotaur smashes a nearby wall, causing part of the ceiling to 
 
 #### MOKUREN
 
-Level : 3 (9)
+MOKUREN #lvl3 (9) #Creature #Core #Fantasy 
 
 Mokuren are usually no larger than a cat, but they possess the ability to swell until they’re the size of a bus (if only briefly). That ability, combined with their flashy pyrokinetic tails, make these creatures a particular favorite with children, at least in stories and picture books. Given that mokuren can “burrow” into paintings and other two-dimensional art, it’s possible that some mokuren images are more than simple representations.
 
@@ -19007,7 +19011,7 @@ GM intrusion: The character hit by the mokuren doesn’t take damage. Instead, t
 
 #### MORLOCK
 
-Level : 2 (6)
+MORLOCK #lvl2 (9) #Creature #Core #Fantasy 
 
 Morlocks are degenerate, blind cannibal humanoids that avoid light. They have prominent teeth, piglike eyes, loose skin, and stooped postures. They avoid bright daylight and prefer to hunt and forage when it is dark out (or at least under the twilight-like canopy of a heavy forest). Morlocks eat any sort of meat, even carrion and their own dead. Morlocks build piles of stones to mark their territory. On nights of the new moon, they create unnerving music by playing simple drums made out of skulls and logs. They lack the foresight to store food for lean times, so they range farther from home in winter and times of famine. They are sometimes enslaved by more powerful creatures such as ogres or a vampire. 
 
@@ -19037,7 +19041,7 @@ GM intrusion: An unnoticed morlock drags away an unconscious character or animal
 
 #### NECROMANCER
 
-Level : 5 (15)
+NECROMANCER #lvl5 (15) #Creature #Core #Fantasy 
 
 The ability to influence, command, and call up the dead is an impressive power, given how many more people are dead than living. Since the only thing separating a living person from a dead one is a well-aimed knife or death spell, the number of dead always rises. 
 
@@ -19075,7 +19079,7 @@ GM intrusion: A bony hand erupts from the ground at the character’s feet. On a
 
 #### NOBLE KNIGHT
 
-Level : 7 (21)
+NOBLE KNIGHT #lvl7 (21) #Creature #Core #Fantasy 
 
 Whether noble or ignoble, some knights achieve an amazing mastery over weapons, combat, and courtly graces, eclipsing lesser warriors and champions. The quests of some noble knights can lead them far across the land into strange new territories where they encounter and defeat various magical creatures. 
 
@@ -19113,7 +19117,7 @@ GM intrusion: The character damaged by a noble knight’s attack must succeed on
 
 #### NUPPEPPO
 
-Level : 2 (6)
+NUPPEPPO #lvl2 (6) #Creature #Core #Fantasy 
 
 Nuppeppos are animated lumps of human flesh that walk on vaguely defined limbs. They smell of decay and death. They’re spotted in graveyards, battlefields, coroner’s offices, and other places where the dead are kept or interred. When witnessed in other places, nuppeppos seem to wander streets aimlessly, sometimes alone, sometimes in groups, and sometimes following a living person who’d rather be left alone.
 
@@ -19147,7 +19151,7 @@ GM intrusion: The character who allowed the nuppeppo to follow them around like 
 
 #### OGRE
 
-Level : 4 (12)
+OGRE #lvl4 (12) #Creature #Core #Fantasy 
 
 A bestial brute, the ogre is a sadistic, 8-foot (2 m) tall, cannibalistic fiend that preys upon other creatures in the woods, mountains, or other wilderness areas. This often pits them against sylvan beings like elves and fey. Ogres dwelling in more civilized lands are also the enemy of humans, but these ogres usually come no closer to civilization than its very fringes.
 
@@ -19183,7 +19187,7 @@ GM intrusion: The ogre’s mighty blow (whether it strikes a foe or not) hits th
 
 #### ORC
 
-Level : 2 (6)
+ORC #lvl2 (6) #Creature #Core #Fantasy 
 
 Born into squalor and fear, the orc species is composed of miserable, misbegotten humanoids that seem destined to serve as fodder for more powerful evil overlords. When left to their own devices, these loathsome creatures turn on each other, the strongest oppressing the next weakest (and so on down the line) with cruel barbs, gruesome jokes, and physical beatings. When these creatures have no masters to hate, they hate themselves.
 
@@ -19221,7 +19225,7 @@ GM intrusion: With a scream of savage glee, five more orcs rush to join the figh
 
 #### PRINCE(SS) OF SUMMER
 
-Level : 5 (15)
+PRINCE(SS) OF SUMMER #lvl5 (15) #Creature #Core #Fantasy 
 
 Fey nobility are as numberless as cottonwood seeds on the June breeze. But that doesn’t mean each isn’t unique, with a quirky personality and a specific role to play in the mysterious Court of Summer. Demonstrating life, vigor, predation, growth, and competition, the princesses and princes of summer are beings of warmth and generosity, usually. But catch them during the change of the season, and they can be deadly adversaries just as easily. Fey nobles dress in costly diaphanous and flowing garments, and often wear some sign of their noble lineage, such as a circlet or diadem.
 
@@ -19258,7 +19262,7 @@ GM intrusion: The character is blinded for up to one minute by a shaft of brilli
 
 #### PUPPET TREE
 
-Level : 6 (18)
+PUPPET TREE #lvl6 (18) #Creature #Core #Fantasy 
 
 A puppet tree is a 25-foot (8 m) tall, spiky, orange and blue tree surrounded by a large area of red reeds that tremble and wave enticingly even when no wind is present. Humanoid figures are often gathered around it, but these rotted, overgrown corpses are the tree’s victims, dead but serving as fleshy puppets to the tree’s will.
 
@@ -19298,7 +19302,7 @@ GM intrusion: Two corpse puppets, unseen in the red reeds, rise and seize a char
 
 #### RAVAGE BEAR
 
-Level : 4 (12)
+RAVAGE BEAR #lvl4 (12) #Creature #Core #Fantasy 
 
 A ravage bear is a hideous predator that hunts entirely by sense of smell. It is blind and nearly deaf, but it still tracks and senses prey easily. It is very protective of its young, and if hungry, it is extremely dangerous. Otherwise, it gives most creatures a wide berth.
 
@@ -19330,7 +19334,7 @@ GM intrusion: In its rage, the ravage bear makes an extra attack that does 2 add
 
 #### REPLICANT
 
-Level : 5 (15)
+REPLICANT #lvl5 (15) #Creature #Core #Fantasy 
 
 Virtually identical to adult humans, these biosculpted androids are stronger, faster, and potentially smarter. However, because they are manufactured beings with grafted memories, replicants rarely feel true human emotion, be that love, sadness, or empathy, though those who live long enough to lay down their own memories can develop the capacity to do so.
 
@@ -19360,7 +19364,7 @@ GM intrusion: The character struck by the replicant is smashed into the wall so 
 
 #### SAPIENT TREE
 
-Level : 3 (9)
+SAPIENT TREE #lvl3 (9) #Creature #Core #Fantasy 
 
 Guardians of the wood, sapient trees stand eternally vigilant, often on the outskirts of their grove or forest to keep out those who might seek to do them—or other, ordinary trees— harm. They look like normal trees until they reveal their true nature, with limb-like branches and faces in the bark of their trunk. They don’t always move, but with effort, they can uproot themselves and walk about. However, they usually do so only when no one is looking. The origin and temperament of sapient trees varies; they might be haunted trees possessed by spirits, trees animated by magic spells, or ancient mythical beings. Some are peaceful and noble, but others are downright wicked and cruel. 
 
@@ -19392,7 +19396,7 @@ GM intrusion: The tree grabs the character and holds them fast, shaking them. Th
 
 #### SATYR
 
-Level : 5 (15)
+SATYR #lvl5 (15) #Creature #Core #Fantasy 
 
 These muscular humanoids sport long curved horns and furry, hooved legs. They are self-centered, greedy, and sybaritic creatures, dedicated to food, drink, and other pleasures. They rob and steal from others as it pleases them, often relying on tricks and lies, or alluring music they play on pipes. 
 
@@ -19423,7 +19427,7 @@ GM intrusion: A mental effect makes the character view the satyr as a good frien
 
 #### SHADOW
 
-Level : 1 (3)
+SHADOW #lvl1 (3) #Creature #Core #Fantasy 
 
 Shadows are semi-intelligent patches of darkness roughly in the shape of a humanoid creature’s silhouette. They creep along walls, floors, and ceilings, blending in with actual shadows, peeling themselves free only when they’re ready to clutch at a victim with their cold claws. 
 
@@ -19455,7 +19459,7 @@ GM intrusion: The shadow attaches itself to a character and begins to take over 
 
 #### SHADOW ELF
 
-Level : 4 (12)
+SHADOW ELF #lvl4 (12) #Creature #Core #Fantasy 
 
 Elves who faded from the surface to escape the justice of their fey cousins for crimes uncounted are sometimes called shadow elves, dark elves, or simply trow. It’s widely assumed that shadow elves fled to new realms deep below the ground, and indeed, the routes that lead to their true abodes are mostly subterranean and include many grand underground keeps. However, the heart of the shadow elf kingdom lies in the colorless dimension of Shadow itself, where all things exist as a dim reflection of the real world.
 
@@ -19502,7 +19506,7 @@ GM intrusion: The shadow elf casts a spell that charms a character on a failed I
 
 #### SKELETON
 
-Level : 2 (6)
+SKELETON #lvl2 (6) #Creature #Core #Fantasy 
 
 Skeletons are animated bones without much sense of self-preservation. They enjoy a crucial advantage over living creatures in one important and often exploited area: skeletons are dead shots with ranged weapons. They have no breath, no heartbeat, and no shaking hands to contend with as they release a shot, which means that skeletons armed with ranged weapons are something to be feared.
 
@@ -19538,7 +19542,7 @@ GM intrusion: A skeleton destroyed by a melee attack explodes like a grenade. Th
 
 #### SOUL EATER
 
-Level : 5 (15)
+SOUL EATER #lvl5 (15) #Creature #Core #Fantasy 
 
 A soul eater is the animate head of a powerful wizard who shuffled off this mortal coil to become an undead creature without ethics, feelings, or a sense of morality. Also called dread skulls, these creatures maintain their existence by occasionally absorbing the spirit or mind of living victims. An absorbed “soul” is burned away, which is why dread skulls are wreathed in flame; it’s the by-product of the creature’s previous meal. 
 
@@ -19574,7 +19578,7 @@ GM intrusion: The character who uses a cypher against the dread skull must make 
 
 #### SPHINX
 
-Level : 7 (21)
+SPHINX #lvl7 (21) #Creature #Core #Fantasy 
 
 A sphinx is a magical creature with a large lionlike body, feathered wings, and a head that is like that of a human or some kind of animal (typically a hawk or ram). Wise and fierce, sphinxes have a connection to the divine and are often found guarding temples or persons of great interest to the gods (although whether they serve good or evil depends on the individual sphinx). No matter what their head looks like, a sphinx can devour creatures as easily and quickly as a lion. 
 
@@ -19609,7 +19613,7 @@ GM intrusion: The sphinx leaps onto its opponent, attacking with all four claws 
 
 #### STATUE, ANIMATE
 
-Level : 7 (21)
+ANIMATE STATUE #lvl7 (21) #Creature #Core #Fantasy 
 
 Towering statues carved from stone or cast in metal are sometimes more than humans rendered in moments of triumph, celebration, or suffering. Sometimes a statue moves, usually in service to some ancient geas or command that animated it in the first place.
 
@@ -19641,7 +19645,7 @@ GM intrusion: The animate statue strikes a character so hard that the victim fli
 
 #### TROLL
 
-Level : 6 (18)
+TROLL #lvl6 (18) #Creature #Core #Fantasy 
 
 A troll is a hideous humanoid standing at least 10 feet (3 m) tall that hunts more by smell than by sight. They are dangerous but not particularly intelligent. Always ravenous, trolls eat anything, and rarely take the time to cook a meal. Usually, they distend their mouths and throats and swallow subdued prey whole. 
 
@@ -19673,7 +19677,7 @@ GM intrusion: The struck troll divides into two separate trolls that immediately
 
 #### TYRANNOSAURUS REX
 
-Level : 7 (21)
+TYRANNOSAURUS REX #lvl7 (21) #Creature #Core #Fantasy 
 
 The short arms of a tyrannosaurus have been much parodied in Earth social media circles, but the arms aren’t really important when a hunting tyrannosaurus is after you. It’s more the soul-shivering roar, designed to freeze prey in place, and a skull and mouth so enormous that the entire creature is cantilevered by a massive tail that itself can be used as a powerful weapon.
 
@@ -19707,7 +19711,7 @@ GM intrusion: The tyrannosaurus’s tail swings around and knocks the character 
 
 #### VAMPIRE
 
-Level : 6 (18)
+VAMPIRE #lvl6 (18) #Creature #Core #Fantasy 
 
 Vampires are undead creatures, risen from the grave to drink blood. Their very nature and essence are evil and anti-life, even as they revel in their own endless existence. Most vampires are vain, arrogant, sadistic, lustful, and domineering. Their powers allow them to manipulate others, and they frequently toy with their prey before feeding. Vampires come out only at night, as the sun’s rays will destroy them.
 
@@ -19752,7 +19756,7 @@ GM intrusion: The character struck by the vampire is caught fast in its powerful
 
 #### VAMPIRE, TRANSITIONAL
 
-Level : 3 (9)
+TRANSITIONAL VAMPIRE #lvl3 (9) #Creature #Core #Fantasy 
 
 When humans are “visited upon” (bitten) by a vampire, they might be killed, or they might be left alive to begin a slow transformation into a creature of the night. If victims are bitten three times, they become a vampire forever under the control of the one that bit them. From the time of the first bite until their complete transformation after the third bite, they are transitional vampires. Ways to return transitional vampires to normal include using special ancient rituals or destroying the vampire that bit them in the first place.
 
@@ -19778,7 +19782,7 @@ Use: Transitional vampires lie in the intersection of foe and victim. A loved on
 
 #### VAT REJECT
 
-Level : 3 (9)
+VAT REJECT #lvl3 (9) #Creature #Core #Fantasy 
 
 Vat rejects come into being when clone vats meant to produce clone soldiers or similar  
 mass-produced entities are corrupted. How the carefully controlled process becomes compromised varies, but possibilities include yeast contamination, sunspot activity, nanovirus evolution, or purposeful meddling with control parameters. Unskilled operators experimenting with derelict cloning equipment can also produce a vat of rejects.
@@ -19816,7 +19820,7 @@ GM intrusion: The vat reject also has a radioactive sting. On a failed Might def
 
 #### WARDROID
 
-Level : 6 (18)
+WARDROID #lvl6 (18) #Creature #Core #Fantasy 
 
 When star troopers need heavy support, they sometimes bring in wardroids. These fearsome robots, standing about 8 feet (2 m) tall, are ruthless even by trooper standards and are known to kill innocent bystanders as often as they kill foes. It is said that when wardroids are unleashed, wise troopers fall back and take cover.
 
@@ -19855,7 +19859,7 @@ GM intrusion: When defeated, the wardroid detonates, inflicting 8 points of dama
 
 #### WEREWOLF
 
-Level : 4 (12)
+WEREWOLF #lvl4 (12) #Creature #Core #Fantasy 
 
 The curse of lycanthropy begins as nightmares about being chased or, somehow more terrifying, chasing someone else. As the dreams grow more fierce and each night’s sleep provides less rest, victims begin to wonder about the bloodstains on their clothing, the strange claw marks in their homes, and eventually, the mutilated bodies they find buried in their backyards.
 
@@ -19889,7 +19893,7 @@ GM intrusion: A PC who moves down one step on the damage track due to damage inf
 
 #### WITCH
 
-Level : 5 (15)
+WITCH #lvl5 (15) #Creature #Core #Fantasy 
 
 They studied the old ways at the dark of the moon. They heard the shuffle of unnamed things through the darkling forest, watched the convection of the bubbles rise in the cauldron, and attended to the mumbled instructions of withered crones and crumbling messages traced on dead leaves. Then one midnight, everything came together. Another witch was born.
 
@@ -19930,7 +19934,7 @@ GM intrusion: After a character succeeds on a defense roll against one of the wi
 
 #### WORM THAT WALKS
 
-Level : 7 (21)
+WORM THAT WALKS #lvl7 (21) #Creature #Core #Fantasy 
 
 This sodden, leather-wrapped humanoid smells of the sea. It moves effortlessly through the air, levitating above the ground while its damp wrappings writhe and squirm as if infested with thousands of worms—because they are. Each worm that walks is a mass of psionic grubs squirming through a slush of salty ooze. Individually the grubs are harmless vermin, but together they’re a sentient entity, a single psionic mind formed of thousands of tiny, maggot-like pupae. The tightly wound leather straps covering a worm that walks are just as important for hiding its true nature as for adhesion. Despite being fully encased, the worm that walks senses its environment with a hard-to-fool sixth sense. 
 
@@ -19964,7 +19968,7 @@ GM intrusion: A character struck by the worm that walks notices that they weren�
 
 #### WRAITH
 
-Level : 2 (6)
+WRAITH #lvl2 (6) #Creature #Core #Fantasy 
 
 When a spirit of a dead creature fails to find its way to the afterworld, escapes the same, or is summoned forth by a necromancer, it may become a wraith: a bodiless spirit of rage and loss. A wraith appears as a shadowy or misty figure that can resemble the humanoid figure it once was, though wraiths tend to swarm together, making it difficult to distinguish them from each other. Wraiths are often mindless, consumed by their condition. But on occasion, a wraith not too far gone still remembers its life and may respond to questions or seek to locate its loved ones or enemies. A wraith may even attempt to finish a task it started in life. But in time, even the strongest-willed spirit’s mind erodes without physical substance to renew it, and it becomes an almost mindless monster of destruction. 
 
@@ -19996,7 +20000,7 @@ GM intrusion: The wraith screams out, summoning 1d6 more wraiths from the afterw
 
 #### WYVERN
 
-Level : 6 (18)
+WYVERN #lvl6 (18) #Creature #Core #Fantasy 
 
 Wyverns are aggressive lesser cousins of dragons. Their bodies are about the size of a heavy horse but their wingspan makes them seem much larger. Lacking a dragon’s fiery breath or other magical abilities, wyverns rely on their strong flight and deadly stinger to catch and kill their prey, typically humanoids or large animals. Wyverns have four limbs— two legs used for clumsy walking and two arm-wings used for flight and balance. 
 
@@ -20028,7 +20032,7 @@ GM intrusions: As part of its attack, the wyvern grabs hold of the character and
 
 #### XENOPARASITE
 
-Level : 6 (18)
+XENOPARASITE #lvl6 (18) #Creature #Core #Fantasy 
 
 This alien creature exists only to eat and reproduce. In doing so, it also destroys every form of life it encounters. Xenoparasites are not technological but were likely engineered by a species with advanced biological super-science. Xenoparasites don’t travel between star systems on their own; they were presumably spread across an area of space by their creators to serve as a broad-spectrum bioweapon. What has become of the original maker species is unknown, but given the fecundity and ferocity of the xenoparasite, it’s likely they were consumed by their own creation.
 
@@ -20066,7 +20070,7 @@ GM (group) intrusion: An NPC shrieks, bursts, and births 1d6 juvenile xenoparasi
 
 #### ZOMBIE
 
-Level : 3 (9)
+ZOMBIE #lvl3 (9) #Creature #Core #Fantasy 
 
 Humans transformed into aggressive, hard-to-kill serial killers with no memory of their former existence are called zombies. Depending on a zombie’s origin, the reason for its transformation varies. A zombie might arise from an undead curse, a psychic possession, an AI meatware overwrite, a viral infection, a drug overdose, or something else. Regardless of how the transformation happened, the result is much the same: a creature whose humanity has been burned out and replaced with unquenchable hunger.
 
@@ -20105,55 +20109,388 @@ GM intrusion: When the character fails to kill a zombie by rolling an odd number
 
 ### OTHER CREATURES AND NPCs FOR A FANTASY GAME
 
-- Bat: level 1
-- Black bear: level 3, attacks as level 4
-- Blacksmith: level 2, metalworking as level 4; health 8
-- Cat: level 1, Speed defense as level 3 due to size and quickness
-- Catfolk: level 3, balancing and climbing as level 4; damage inflicted 4 points
-- Centaur: level 4; health 15; moves a long distance each round
-- Crocodile: level 4; Armor 1; swims a short distance each round
-- Dire wolf: level 4, attacks and perception as level 5; Armor 1
-- Dog: level 2, perception as level 3
-- Dog, guard: level 3, attacks and perception as level 4
-- Elephant: level 5; health 20; Armor 1
-- Farmer: level 2, animal handling as level 3; health 8
- - Gargoyle: level 3; Armor 5; damage inflicted 5 points; flies a short distance each round
-- Giant ape: level 3, climbing and attacks as level 4
-- Giant crab: level 6; Armor 4; pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
-- Giant frog: level 3
-- Giant octopus: level 5, Might defense and stealth as level 6; health 25; attacks four times as an action
-- Giant scorpion: level 4; Armor 2; damage inflicted 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
-- Giant snake: level 4; health 18; Armor 2; damage inflicted 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
-- Gnoll: level 2, Speed defense as level 3 due to shield; health 8; Armor 2
-- Gorilla: level 2, attacks as level 3; damage inflicted 3 points
-- Griffon: level 4, perception as level 5; Armor 1; flies a long distance each round
-- Grizzly bear: level 5; health 20; Armor 1
-- Hawk: level 2; flies a long distance each round
-- Hippogryph: level 3, attacks as level 4; flies a long distance each round.
-- Horse: level 3; moves a long distance each round
-- Leopard: level 4; climbing, jumping, stealth, and attacks as level 5; Armor 1
-- Lion or tiger: level 5, attacks as level 6; Armor 1
-- Lizardfolk: level 3; Armor 1
-- Merchant: level 2, haggling and assessment tasks as level 3
-- Mummy: level 6; ancient history, ancient religion, climbing, and stealth as level 8; health 24; Armor 2; damage inflicted 7 points
-- Nymph: level 3, stealth and positive social interactions as level 6
-- Pegasus: level 3, Speed defense as level 4; moves or flies a long distance each round
-- Pterodactyl: level 3; Armor 1; flies a long distance each round
-- Rat: level 1
-- Roc: level 6; health 25; Armor 2; flies a long distance each round; attacks twice as an action
-- Shark: level 3, attacks as level 4; health 15; Armor 2
-- Undead claw: level 1, attacks as level 3, Speed defense as level 3 due to quickness and size; health 5; Armor 1
-- Unicorn: level 4; Might defense, perception, and attacks as level 5; health 15; Armor 1; makes two attacks as its action; once per hour can teleport up to 1 mile; once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
-- Villager: level 1
-- Viper: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
-- Warhorse: level 4; moves a long distance each round
-- Werebear: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2
-- health per round (unless recently wounded by silver)
-- Wererat: level 3, Speed defense and stealth as level 4; regenerates 2 health per round (unless recently wounded by silver)
-- Wereshark: level 4, attacks as level 5; health 15; Armor 2; regenerates 2 health per round (unless recently wounded by silver)
-- Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
-- Wolf: level 3, perception as level 4
-- Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
+#### Bat
+
+Bat #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Black Bear
+
+Black Bear #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: attacks as level 4
+
+#### Blacksmith
+
+Blacksmith #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Modifications: metalworking as level 4
+
+#### Cat
+
+Cat #lvl1 (3) #Creature #Core #Fantasy 
+
+Modifications: Speed defense as level 3 due to size and quickness
+
+#### Catfolk
+
+Catfolk #lvl3 (9) #Creature #Core #Fantasy 
+
+Damage Inflicted: damage inflicted 4 points
+
+Modifications: balancing and climbing as level 4
+
+#### Centaur
+
+Centaur #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Movement: moves a long distance each round
+
+#### Crocodile
+
+Crocodile #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Movement: swims a short distance each round
+
+#### Dire wolf
+
+Dire wolf #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks and perception as level 5
+
+#### Dog
+
+Dog #lvl2 (6) #Creature #Core #Fantasy 
+
+Modifications: perception as level 3
+
+#### Dog, guard
+
+Guard Dog #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: attacks and perception as level 4
+
+#### Elephant
+
+Elephant #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 20
+
+Armor: 1
+
+#### Farmer
+
+Farmer #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Modifications: animal handling as level 3
+
+#### Gargoyle
+
+Gargoyle #lvl3 (9) #Creature #Core #Fantasy 
+
+Damage Inflicted: 5 points
+
+Armor: 5
+
+Movement: flies a short distance each round
+
+#### Giant ape
+
+Giant ape #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: climbing and attacks as level 4
+
+#### Giant crab
+
+Giant crab #lvl6 (18) #Creature #Core #Fantasy 
+
+Armor: 4
+
+Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
+
+#### Giant frog
+
+Giant frog #lvl3 (9) #Creature #Core #Fantasy 
+
+#### Giant octopus
+
+Giant octopus #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 25
+
+Modifications: Might defense and stealth as level 6
+
+Combat: attacks four times as an action
+
+#### Giant scorpion
+
+Giant scorpion #lvl4 (12) #Creature #Core #Fantasy 
+
+Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
+
+Armor: 2
+
+#### Giant snake
+
+Giant snake #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 18
+
+Damage Inflicted: 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
+
+Armor: 2
+
+#### Gnoll
+
+Gnoll #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Armor: 2
+
+Combat: Speed defense as level 3 due to shield
+
+#### Gorilla
+
+Gorilla #lvl2 (6) #Creature #Core #Fantasy 
+
+Damage Inflicted: 3 points
+
+Modifications: attacks as level 3
+
+#### Griffon
+
+Griffon #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: perception as level 5
+
+Movement: flies a long distance each round
+
+#### Grizzly bear
+
+Grizzly bear #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 20
+
+Armor: 1
+
+#### Hawk
+
+Hawk #lvl2 (6) #Creature #Core #Fantasy 
+
+Movement: flies a long distance each round
+
+#### Hippogryph
+
+Hippogryph #lvl3 (9) #Creature #Core #Fantasy 
+
+Movement: flies a long distance each round.
+
+Modifications: attacks as level 4.
+
+#### Horse
+
+Horse #lvl3 (6) #Creature #Core #Fantasy 
+
+Movement: moves a long distance each round
+
+#### Leopard
+
+Leopard #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: climbing, jumping, stealth, and attacks as level 5
+
+Lion
+
+Lion, Tiger or similar #lvl5 (15) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+#### Lizardfolk
+
+Lizardfolk #lvl3 (6) #Creature #Core #Fantasy 
+
+Armor: 1
+
+#### Merchant
+
+Merchant #lvl2 (6) #Creature #Core #Fantasy 
+
+Modifications: haggling and assessment tasks as level 3
+
+#### Mummy
+
+Mummy #lvl6 (18) #Creature #Core #Fantasy 
+
+Health: 24
+
+Damage Inflicted: 7 points
+
+Armor: 2
+
+Modifications: ancient history, ancient religion, climbing, and stealth as level 8
+
+#### Nymph
+
+Nymph #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: stealth and positive social interactions as level 6
+
+#### Pegasus
+
+Pegasus #lvl3 (9) #Creature #Core #Fantasy 
+
+Movement: moves or flies a long distance each round
+
+Modifications: Speed defense as level 4
+
+#### Pterodactyl
+
+Pterodactyl #lvl3 (9) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Movement: flies a long distance each round
+
+#### Rat
+
+Rat #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Roc
+
+Roc #lvl6 (18) #Creature #Core #Fantasy 
+
+Health: 25
+
+Armor: 2
+
+Movement: flies a long distance each round
+
+Combat: attacks twice as an action
+
+#### Shark
+
+Shark #lvl3 (9) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 2
+
+Modifications: attacks as level 4
+
+#### Undead claw
+
+Undead claw #lvl1 (3) #Creature #Core #Fantasy 
+
+Health: 5
+
+Armor: 1
+
+Modifications: attacks as level 3, Speed defense as level 3 due to quickness and size
+
+#### Unicorn
+
+Unicorn #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 1
+
+Modifications: Might defense, perception, and attacks as level 5
+
+Combat: 
+- makes two attacks as its action; 
+- once per hour can teleport up to 1 mile; 
+- once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
+
+#### Villager
+
+Villager #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Viper
+
+Viper #lvl2 (6) #Creature #Core #Fantasy 
+
+Combat: bite inflicts 3 points of Speed damage (ignores Armor)
+
+#### Warhorse
+
+Warhorse #lvl4 (12) #Creature #Core #Fantasy 
+
+Movement: moves a long distance each round
+
+#### Werebear
+
+Werebear #lvl5 (15) #Creature #Core #Fantasy 
+
+Damage Inflicted: 6 points
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wererat
+
+Wererat #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: Speed defense and stealth as level 4
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wereshark
+
+Wereshark #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 2
+
+Modifications: attacks as level 5
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Weretiger
+
+Weretiger #lvl5 (15) #Creature #Core #Fantasy 
+
+Damage Inflicted: 6 points
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wolf
+
+Wolf #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: perception as level 4
+
+#### Yeti
+
+Yeti #lvl3 (9) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks, perception, and stealth as level 4
 
 ## NPCs
 
