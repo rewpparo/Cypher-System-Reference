@@ -17014,7 +17014,7 @@ This is different from the Justice arc because this isn’t about justice (or ev
 
 This chapter describes many common and uncommon creatures that the characters might meet—and fight—in a Cypher System game and gives their stats. The variety of creatures that populate the possible settings and genres is so great that this chapter only scratches the surface. It does, however, provide examples of kinds of inhabitants—bestial and civilized, living and undead, organic and inorganic—so that you can easily extrapolate and create your own.
 
-### UNDERSTANDING THE LISTINGS
+**UNDERSTANDING THE LISTINGS**
 
 Every creature is presented by name, followed by a standard template that includes the following categories.
 
@@ -17059,7 +17059,7 @@ Loot: This entry indicates what the PCs might gain if they take items from their
 
 GM Intrusion: This optional entry in the stats suggests a way to use GM intrusion in an encounter with the creature. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
 
-### FANTASY CREATURES AND NPCs BY LEVEL
+**FANTASY CREATURES AND NPCs BY LEVEL**
 
 |Level|Name|
 |---|---|
@@ -17176,25 +17176,23 @@ GM Intrusion: This optional entry in the stats suggests a way to use GM intrusio
 |9|Demon Lord|
 |10|Kaiju|
 
-### BIGGER AND TOUGHER
+**BIGGER AND TOUGHER**
 
 If you need a larger or tougher version of a creature, such as a dire wolf or a giant crocodile, you can just increase the creature’s level (and all of its modifications) by 1 or 2. If the creature has a damage or health stat that isn’t the default for its level, take that into account at the modified creature’s new level.
 
 A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.
 
-### OTHER CREATURES AND NPCs FOR A FANTASY GAME
-
-#### Bat
+### Bat
 
 Bat #lvl1 (3) #Creature #Core #Fantasy 
 
-#### Black Bear
+### Black Bear
 
 Black Bear #lvl3 (9) #Creature #Core #Fantasy 
 
 Modifications: attacks as level 4
 
-#### Blacksmith
+### Blacksmith
 
 Blacksmith #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -17202,13 +17200,13 @@ Health: 8
 
 Modifications: metalworking as level 4
 
-#### Cat
+### Cat
 
 Cat #lvl1 (3) #Creature #Core #Fantasy 
 
 Modifications: Speed defense as level 3 due to size and quickness
 
-#### Catfolk
+### Catfolk
 
 Catfolk #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17216,7 +17214,7 @@ Damage Inflicted: damage inflicted 4 points
 
 Modifications: balancing and climbing as level 4
 
-#### Centaur
+### Centaur
 
 Centaur #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17224,7 +17222,7 @@ Health: 15
 
 Movement: moves a long distance each round
 
-#### Crocodile
+### Crocodile
 
 Crocodile #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17232,7 +17230,7 @@ Armor: 1
 
 Movement: swims a short distance each round
 
-#### Dire wolf
+### Dire wolf
 
 Dire wolf #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17240,19 +17238,19 @@ Armor: 1
 
 Modifications: attacks and perception as level 5
 
-#### Dog
+### Dog
 
 Dog #lvl2 (6) #Creature #Core #Fantasy 
 
 Modifications: perception as level 3
 
-#### Dog, guard
+### Dog, guard
 
 Guard Dog #lvl3 (9) #Creature #Core #Fantasy 
 
 Modifications: attacks and perception as level 4
 
-#### Elephant
+### Elephant
 
 Elephant #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17260,7 +17258,7 @@ Health: 20
 
 Armor: 1
 
-#### Farmer
+### Farmer
 
 Farmer #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -17268,7 +17266,7 @@ Health: 8
 
 Modifications: animal handling as level 3
 
-#### Gargoyle
+### Gargoyle
 
 Gargoyle #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17278,13 +17276,13 @@ Armor: 5
 
 Movement: flies a short distance each round
 
-#### Giant ape
+### Giant ape
 
 Giant ape #lvl3 (9) #Creature #Core #Fantasy 
 
 Modifications: climbing and attacks as level 4
 
-#### Giant crab
+### Giant crab
 
 Giant crab #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -17292,11 +17290,11 @@ Armor: 4
 
 Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
 
-#### Giant frog
+### Giant frog
 
 Giant frog #lvl3 (9) #Creature #Core #Fantasy 
 
-#### Giant octopus
+### Giant octopus
 
 Giant octopus #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17306,7 +17304,7 @@ Modifications: Might defense and stealth as level 6
 
 Combat: attacks four times as an action
 
-#### Giant scorpion
+### Giant scorpion
 
 Giant scorpion #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17314,7 +17312,7 @@ Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a fa
 
 Armor: 2
 
-#### Giant snake
+### Giant snake
 
 Giant snake #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17324,7 +17322,7 @@ Damage Inflicted: 4 points plus 3 points of Speed damage (ignores Armor) on a fa
 
 Armor: 2
 
-#### Gnoll
+### Gnoll
 
 Gnoll #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -17334,7 +17332,7 @@ Armor: 2
 
 Combat: Speed defense as level 3 due to shield
 
-#### Gorilla
+### Gorilla
 
 Gorilla #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -17342,7 +17340,7 @@ Damage Inflicted: 3 points
 
 Modifications: attacks as level 3
 
-#### Griffon
+### Griffon
 
 Griffon #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17352,7 +17350,7 @@ Modifications: perception as level 5
 
 Movement: flies a long distance each round
 
-#### Grizzly bear
+### Grizzly bear
 
 Grizzly bear #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17360,13 +17358,13 @@ Health: 20
 
 Armor: 1
 
-#### Hawk
+### Hawk
 
 Hawk #lvl2 (6) #Creature #Core #Fantasy 
 
 Movement: flies a long distance each round
 
-#### Hippogryph
+### Hippogryph
 
 Hippogryph #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17374,13 +17372,13 @@ Movement: flies a long distance each round.
 
 Modifications: attacks as level 4.
 
-#### Horse
+### Horse
 
 Horse #lvl3 (6) #Creature #Core #Fantasy 
 
 Movement: moves a long distance each round
 
-#### Leopard
+### Leopard
 
 Leopard #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17388,7 +17386,7 @@ Armor: 1
 
 Modifications: climbing, jumping, stealth, and attacks as level 5
 
-Lion
+### Lion
 
 Lion, Tiger or similar #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17396,19 +17394,19 @@ Armor: 1
 
 Modifications: attacks as level 6
 
-#### Lizardfolk
+### Lizardfolk
 
 Lizardfolk #lvl3 (6) #Creature #Core #Fantasy 
 
 Armor: 1
 
-#### Merchant
+### Merchant
 
 Merchant #lvl2 (6) #Creature #Core #Fantasy 
 
 Modifications: haggling and assessment tasks as level 3
 
-#### Mummy
+### Mummy
 
 Mummy #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -17420,13 +17418,13 @@ Armor: 2
 
 Modifications: ancient history, ancient religion, climbing, and stealth as level 8
 
-#### Nymph
+### Nymph
 
 Nymph #lvl3 (9) #Creature #Core #Fantasy 
 
 Modifications: stealth and positive social interactions as level 6
 
-#### Pegasus
+### Pegasus
 
 Pegasus #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17434,7 +17432,7 @@ Movement: moves or flies a long distance each round
 
 Modifications: Speed defense as level 4
 
-#### Pterodactyl
+### Pterodactyl
 
 Pterodactyl #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17442,11 +17440,11 @@ Armor: 1
 
 Movement: flies a long distance each round
 
-#### Rat
+### Rat
 
 Rat #lvl1 (3) #Creature #Core #Fantasy 
 
-#### Roc
+### Roc
 
 Roc #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -17458,7 +17456,7 @@ Movement: flies a long distance each round
 
 Combat: attacks twice as an action
 
-#### Shark
+### Shark
 
 Shark #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17468,7 +17466,7 @@ Armor: 2
 
 Modifications: attacks as level 4
 
-#### Undead claw
+### Undead claw
 
 Undead claw #lvl1 (3) #Creature #Core #Fantasy 
 
@@ -17478,7 +17476,7 @@ Armor: 1
 
 Modifications: attacks as level 3, Speed defense as level 3 due to quickness and size
 
-#### Unicorn
+### Unicorn
 
 Unicorn #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17493,23 +17491,23 @@ Combat:
 - once per hour can teleport up to 1 mile; 
 - once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
 
-#### Villager
+### Villager
 
 Villager #lvl1 (3) #Creature #Core #Fantasy 
 
-#### Viper
+### Viper
 
 Viper #lvl2 (6) #Creature #Core #Fantasy 
 
 Combat: bite inflicts 3 points of Speed damage (ignores Armor)
 
-#### Warhorse
+### Warhorse
 
 Warhorse #lvl4 (12) #Creature #Core #Fantasy 
 
 Movement: moves a long distance each round
 
-#### Werebear
+### Werebear
 
 Werebear #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17521,7 +17519,7 @@ Modifications: attacks as level 6
 
 Combat: regenerates 2 health per round (unless recently wounded by silver)
 
-#### Wererat
+### Wererat
 
 Wererat #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17529,7 +17527,7 @@ Modifications: Speed defense and stealth as level 4
 
 Combat: regenerates 2 health per round (unless recently wounded by silver)
 
-#### Wereshark
+### Wereshark
 
 Wereshark #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17541,7 +17539,7 @@ Modifications: attacks as level 5
 
 Combat: regenerates 2 health per round (unless recently wounded by silver)
 
-#### Weretiger
+### Weretiger
 
 Weretiger #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17553,13 +17551,13 @@ Modifications: attacks as level 6
 
 Combat: regenerates 2 health per round (unless recently wounded by silver)
 
-#### Wolf
+### Wolf
 
 Wolf #lvl3 (9) #Creature #Core #Fantasy 
 
 Modifications: perception as level 4
 
-#### Yeti
+### Yeti
 
 Yeti #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -17567,9 +17565,7 @@ Armor: 1
 
 Modifications: attacks, perception, and stealth as level 4
 
-### CREATURES
-
-#### ABOMINATION
+### ABOMINATION
 
 ABOMINATION #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17599,7 +17595,7 @@ Use: Abominations hunt ravaged wastelands and bombed-out spacecraft hulks, lurk 
 
 GM intrusion: The abomination isn’t dead; it stands up on the following round at full health.
 
-#### BASILISK
+### BASILISK
 
 BASILISK #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17637,7 +17633,7 @@ Loot: Basilisk venom is valuable, but it must be stored in a strong, sealed cont
 
 GM intrusion: The basilisk strikes quickly, biting the same creature twice on its turn.
 
-#### BLACKGUARD
+### BLACKGUARD
 
 BLACKGUARD #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -17683,7 +17679,7 @@ Loot: Blackguards usually have treasures equivalent to three or four expensive i
 
 GM intrusions:The blackguard’s weaponflares with unholy power,inflicting an additional6 points of damage(ignores Armor).A slain blackguardrises as an undead or ispossessed by a demonand continues to figh
 
-#### CAMBION
+### CAMBION
 
 CAMBION #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17725,7 +17721,7 @@ Loot: Powerful cambions sometimes wield artifacts as weapons.
 
 GM intrusion: Thecharacter’s cypherexplodes when touchedby cambion demonfire on a failed Speeddefense task.
 
-#### CHIMERA
+### CHIMERA
 
 CHIMERA #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -17755,7 +17751,7 @@ Use: While exploring an island, the PCs find carcasses that have been torn apart
 
 GM intrusion: The chimera grabs a character it bites and flies off with the victim
 
-#### CHRONOPHAGE
+### CHRONOPHAGE
 
 CHRONOPHAGE #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17787,7 +17783,7 @@ Loot: The skin of a chronophage can be salvaged to create a silvery cloak that r
 
 GM intrusion: If a chronophage’s prey fails its Speed defense roll, the attack ignores Armor, and the prey must make an Intellect defense roll (difficulty 4) or be phased into the chronophage’s home dimension of time. Victims automatically phase back into reality on their next turn but are displaced by 100 feet (30 m) straight up or to the closest open space. This usually results in a fall that potentially deals 10 points of damage, knocks victims prone, and dazes them, hindering all actions for a round.
 
-#### CORRUPT MAGE
+### CORRUPT MAGE
 
 CORRUPT MAGE #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -17830,7 +17826,7 @@ Loot: A corrupt mage has 1d6 cyphers and perhaps a wizardly artifact.
 
 GM intrusions:A desperate or dyingcorrupt mage transformstheir own body intoseveral new fleshbeasts,which retain fragmentsof the mage’s intelligenceand immediately attack.The mage’s attack spellis incredibly painful,stunning the characterfor one round if they faila Might defense roll.
 
-#### CYCLOPS
+### CYCLOPS
 
 CYCLOPS #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -17866,7 +17862,7 @@ GM intrusions: The cyclops hits acharacter so hard thatthey fly a short distance
 
 A character struckby the cyclops’s fist isgrabbed and stuffed inthe creature’s sack.
 
-#### DEEP ONE
+### DEEP ONE
 
 DEEP ONE #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -17898,7 +17894,7 @@ Loot: A few deep ones will have a cypher.
 
 GM intrusion: The deep one produces a net and throws it over the character. The only physical action the victim can take is to try to get free, as either a Might-based or a Speed-based action.
 
-#### DEINONYCHUS
+### DEINONYCHUS
 
 DEINONYCHUS #niv3 (9) #Creature #Core #Fantasy 
 
@@ -17928,7 +17924,7 @@ Use: Some fool decided to build a Cretaceous-themed zoo. The only question is: H
 
 GM intrusion: The fleeing deinonychus was actually leading the character over a cliff, into a deadfall trap, or into an ambush with more deinonychus.
 
-#### DEMIGOD
+### DEMIGOD
 
 DEMIGOD #lvl9 (27) #Creature #Core #Fantasy 
 
@@ -17960,7 +17956,7 @@ Loot: Demigods might carry an artifact related to some aspect of their domain (s
 
 GM intrusion: The divine nature of the demigod allows it to act out of turn, take control of an object (such as an artifact or a cypher) that the PC is about to use against it, and either deactivate the object or turn it against the character.
 
-#### DEMON
+### DEMON
 
 DEMON #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -17997,7 +17993,7 @@ Use: An ally of the PCs has begun acting differently, and not for the good.
 
 GM intrusion: The character who attempts an exorcism of a possessed target is successful, but the demon moves directly from the former victim into the exorcist. The new host can make an Intellect-based roll to eject the demon, but only after the first round of possession.
 
-#### DEMON LORD
+### DEMON LORD
 
 DEMON LORD #lvl9 (27) #Creature #Core #Fantasy 
 
@@ -18037,7 +18033,7 @@ GM intrusions:The demon lord offersthe character somethingso tempting (an artifa
 
 The demon lord createsa portal and retreatsto its own dimension;the portal remainsopen for one round
 
-#### DEVIL
+### DEVIL
 
 DEVIL #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18068,7 +18064,7 @@ Use: A spate of violent murders grips a city in fear—a devil has escaped into 
 
 GM intrusion: A devil anticipates the character’s melee attack and brings its wing down “just so” on the attacker’s weapon. If the character fails a Speed defense roll, the weapon breaks. Either way, the attack fails to hit the devil.
 
-#### DJINNI
+### DJINNI
 
 DJINNI #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -18100,7 +18096,7 @@ Loot: Most djinn carry a couple of cyphers, and some have a magic artifact usefu
 
 GM intrusion: When the character is touched by a djinni, instead of taking damage, the character is turned to smoke and fire and sent whirling off in a random direction. They lose their next turn and return to normal almost 300 feet (90 m) from where they started.
 
-#### DRAGON
+### DRAGON
 
 DRAGON #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -18135,7 +18131,7 @@ Loot: A dragon’s hoard might contain 2d6 cyphers, hard currency equivalent to 
 
 GM intrusion: The dragon breathes fire while the character is caught in its mouth, which automatically inflicts maximum fire damage on them.
 
-#### ELEMENTAL, FIRE
+### ELEMENTAL, FIRE
 
 FIRE ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18169,7 +18165,7 @@ Use: A rash of fires leads some people to suspect that an arsonist is on the loo
 
 GM intrusion: A character hit by the fire elemental’s attack catches on fire and takes 3 points of damage each round until they use an action patting, rolling, or smothering the flames.
 
-#### ELEMENTAL, EARTH
+### ELEMENTAL, EARTH
 
 EARTH ELEMENTAL #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -18197,7 +18193,7 @@ Use: Oddly articulated monoliths were discovered high in the mountains around a 
 
 GM intrusion: A character within range of the earth elemental’s earthquake attack must succeed on a Speed defense roll or be covered in an avalanche from a collapsing structure or cliff face.
 
-#### ELEMENTAL, AIR
+### ELEMENTAL, AIR
 
 Air ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18227,7 +18223,7 @@ Use: A safe mountain trail has become hazardous due to unseasonal winds that thr
 
 GM intrusion: Aviolent blast of winddisarms a characterand sends whateverthey were holding up toa long distance away(depending on theobject’s size and weight).
 
-#### ELEMENTAL, THORN
+### ELEMENTAL, THORN
 
 THORN ELEMENTAL #lvl6 (18) #Creature #Core #Fantasy 
 Level : 6 (18)
@@ -18260,7 +18256,7 @@ Woody vine: level 4; Armor 1
 
 GM intrusion: A character within short range of a thorn elemental must make a successful Speed defense roll or be hauled into the air by a vine noose around their neck. They can try to cut thew oody vine or attempt a Might task to break free before they strangle. Each round after thefirst in which they fail to break the noose, they move down one step on the damage track.
 
-#### ELEMENTAL, WATER
+### ELEMENTAL, WATER
 
 WATER ELEMENTAL #lvl4 (12) #Creature #Core #Fantasy 
 Level : 4 (12)
@@ -18291,7 +18287,7 @@ Use: Offerings left at a sacred pond have gone missing, and the water itself see
 
 GM intrusion: The forceof the elemental’s attackknocks over a character,sweeps them a shortdistance away, or both.
 
-#### ENTHRALLER
+### ENTHRALLER
 
 ENTHRALLER #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -18331,7 +18327,7 @@ Loot: Enthrallers wear light armor suited for their forms. They might have one o
 
 GM intrusion: The enthraller’s intrusion into the character’s mind stirs up forgotten memories. The character must deal with the contents of these memories and perhaps why they were repressed.
 
-#### EVIL PRIEST
+### EVIL PRIEST
 
 EVIL PRIEST #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -18371,7 +18367,7 @@ GM intrusions:The dying evil priestutters a curse thatattempts to pull the chara
 
 The evil priest ignores, avoids, or immediately recovers from an attack that would have killed orgreatly harmed them.
 
-#### FAERIE
+### FAERIE
 
 FAERIE #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -18408,7 +18404,7 @@ Loot: The tiny pouches that faeries carry are stuffed with forest bric-a-brac, b
 GM intrusion: Another faerie appears, and if the character fails a Speed defense roll, it flies off with their weapon or another  
 important possession.
 
-#### FALLEN ANGEL
+### FALLEN ANGEL
 
 FALLEN ANGEL #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -18446,7 +18442,7 @@ Loot: Fallen angels collect cyphers and usually have a few.
 GM intrusion: A fallen angel’s successful attack causes the character’s cypher to detonate (if a grenade) or otherwise activate in a  
 less-than-ideal fashion.
 
-#### FUSION HOUND
+### FUSION HOUND
 
 FUSION HOUND #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -18480,7 +18476,7 @@ Use: An NPC delivering something the characters need never made it to the rendez
 
 GM intrusion: The hound flares with energy and the character must succeed on a Might defense task or go blind for ten minutes.
 
-#### GHOST
+### GHOST
 
 GHOST #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18516,7 +18512,7 @@ Loot: A ghost usually doesn’t carry objects, though some might have a keepsake
 
 GM intrusion: The character must succeed on an Intellect defense roll or be possessed by the ghost until they succeed on an Intellect-based task to push it out. While possessed, the character acts just like the ghost did when it was alive.
 
-#### GHOUL
+### GHOUL
 
 GHOUL #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18548,7 +18544,7 @@ Loot: If the PCs defeat a group of civilized ghouls, they might find a cypher an
 
 GM intrusion: The ghoul spits in the character’s eye, directly introducing the paralytic into the victim’s bloodstream. The victim’s Might defense roll to avoid becoming paralyzed is hindered.
 
-#### GIANT
+### GIANT
 
 GIANT #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -18582,7 +18578,7 @@ Loot: Individual giants carry little, but giant lairs may contain currency equiv
 
 GM intrusion: The giant’s blow sprains one of the character’s limbs, making it useless for ten minutes.
 
-#### GIANT RAT
+### GIANT RAT
 
 GIANT RAT #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -18608,7 +18604,7 @@ Use: A contact of the PCs dies of plague before they can deliver an important me
 
 GM intrusion: A swarm of twelve ordinary rats—each level 1, but acting like a level 3 swarm—is summoned by the high-pitched squeaking of a giant rat.
 
-#### GIANT SNAKE
+### GIANT SNAKE
 
 GIANT SNAKE #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18640,7 +18636,7 @@ Loot: A giant snake’s droppings or gullet might hold a few cyphers and possibl
 
 GM intrusion: The snake’s venom affects the character more strongly. Instead of merely inflicting Speed damage, it also paralyzes the character for one minute, though after a couple of rounds, the victim can make another Might defense roll to throw off the effects of the poison early.
 
-#### GIANT SPIDER
+### GIANT SPIDER
 
 GIANT SPIDER #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -18670,7 +18666,7 @@ Loot: Cocooned corpses of previous victims hanging in a giant spider’s web som
 
 GM intrusion: Giant spider eggs hatch, and a level 3 swarm of tiny spiders attacks the character.
 
-#### Goblin
+### Goblin
 
 Goblin #lvl1 (3) #Creature #Core #Fantasy 
 
@@ -18698,7 +18694,7 @@ Loot: Aside from weapons, each goblin carries a personal stash, including bones,
 
 GM intrusion: The goblin poisoned its knife. If struck, the character must make a Might defense roll or immediately move one step down the damage track.
 
-#### GOLEM
+### GOLEM
 
 GOLEM #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -18730,7 +18726,7 @@ Use: Powerful sorcerers sometimes create golems and press them into service with
 
 GM intrusion: The character hit by the golem is also grabbed and headbutted for 6 additional points of damage. The victim must break or slip free, or else they remain in the golem’s grip.
 
-#### GORGON
+### GORGON
 
 GORGON #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -18760,7 +18756,7 @@ Loot: A gorgon typically has a few cyphers and may have an artifact as well.
 
 GM intrusion: A character glimpsesa gorgon’s eyes, and a sheen of stone covers their body for one minute, during which time they gain +1 to Armor but can’t move farther than an immediate distance in one round.
 
-#### GREY
+### GREY
 
 GREY #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18796,7 +18792,7 @@ of 1–2 on a 1d10).
 
 GM intrusion: A grey’s ray emitter suffers a terrible mishap and explodes. The device kills the grey and destroys its body completely. For the next day, creatures that come within a short distance of where the grey died take 4 points of ambient damage from the psychic radiation each round they remain there.
 
-#### HAG
+### HAG
 
 HAG #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -18838,7 +18834,7 @@ Loot: In addition to coins and jewels, a hag usually has several scrolls or poti
 
 GM intrusion: A creature becomes afraid and reluctant to oppose the hag, hindering all actions against the hag by two steps for one day.
 
-#### HARPY
+### HARPY
 
 HARPY #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -18870,7 +18866,7 @@ Loot: A harpy nest may have one or two cyphers or other valuables, but the items
 
 GM intrusion: A harpy snatches something a character is wearing or carrying on a failed Speed defense roll. The harpy throws away or flees with the stolen item
 
-#### HOLLOW KNIGHT
+### HOLLOW KNIGHT
 
 HOLLOW KNIGHT #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -18904,7 +18900,7 @@ Use: The necromancer or other magician that binds the spirit to the armor also i
 
 GM intrusion: When a hollow knight is destroyed, a gauntlet flies up, grabs a character, and won’t let go. A difficulty 7 Might task is required to pry it loose
 
-#### HYDRA
+### HYDRA
 
 HYDRA #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -18938,7 +18934,7 @@ Use: The PCs investigate an ancient ruin hoping to find artifacts of the gods. A
 
 GM intrusion: The character reacts poorly to the poison in the air or a bite and goes intonhelpless convulsions for one round if they fail a Might defense task.
 
-#### JOTUNN, FIRE
+### JOTUNN, FIRE
 
 FIRE JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -18977,7 +18973,7 @@ Loot: Jotunns like fine things, and their homes usually have utensils, plates, w
 
 GM intrusion: The jotunn’s attack inflicts a serious burn, making a limb useless for an hour or until healed.
 
-#### JOTUNN, FROST
+### JOTUNN, FROST
 
 FROST JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -19016,7 +19012,7 @@ Loot: Jotunns like fine things, and their homes usually have utensils, plates, w
 
 GM intrusion: The jotunn’s attack numbs one of the character’s limbs, hindering all actions with it by two steps until it is healed.
 
-#### KAIJU
+### KAIJU
 
 KAIJU #lvl10 (30) #Creature #Core #Fantasy 
 
@@ -19057,7 +19053,7 @@ Use: After seeing the devastation caused by a kaiju, the PCs might decide (or be
 GM intrusion:  
 The character gains the direct attention of the kaiju. If the kaiju attacks the character, They are awarded 5 XP, only 1 of which they have to give to a friend.
 
-#### KILLER CLOWN
+### KILLER CLOWN
 
 KILLER CLOWN #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19096,7 +19092,7 @@ Loot: A killer clown might have one or two cyphers in the form of a joy buzzer, 
 
 GM intrusion: The clown snatches a weapon, cypher, or other object from the character’s hand as a level 6 attack, and if successful, immediately uses it on the character.
 
-#### KILLING WHITE LIGHT
+### KILLING WHITE LIGHT
 
 KILLING WHITE LIGHT #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19128,7 +19124,7 @@ Use: An inactive killing white light (which looks something like an albino lump 
 
 GM intrusion: Normally resistant to interaction, a killing white light uses its blazing nimbus to burn an alien glyph of uncertain meaning in the character’s flesh before the creature fades like a light bulb switched off.
 
-#### LICH
+### LICH
 
 LICH #lvl8 (24) #Creature #Core #Focus 
 
@@ -19166,7 +19162,7 @@ Loot: A lich has 1d6 cyphers and usually an artifact.
 
 GM intrusions: The lich casts a spell in addition to taking other actions on its turn. The lich uses a cypher, spell, or other ability to nullify an attack that otherwise would have affected it.
 
-#### MANTICORE
+### MANTICORE
 
 MANTICORE #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -19198,7 +19194,7 @@ Loot: A manticore’s stomach might contain a piece of treasure or a cypher from
 
 GM intrusion: The manticore attacks with its bite, then spins around to lash its opponent with its barbed tail.
 
-#### MECHANICAL SOLDIER
+### MECHANICAL SOLDIER
 
 MECHANICAL SOLDIER #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -19239,7 +19235,7 @@ Loot: A determined scientist might scavenge the body of one of these automatons 
 
 GM intrusion: The destroyed soldier explodes in a gout of flame, black smoke, and steam, inflicting 6 points of damage to all within immediate range.
 
-#### MERFOLK
+### MERFOLK
 
 MERFOLK #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -19277,7 +19273,7 @@ Loot: In addition to several small pieces of jewelry, a group of merfolk might h
 
 GM intrusions: The merfolk’s weapon injects poison, inflicting 5 points of Speed damage if the character fails a Might defense task. Another merperson or an allied aquatic creature arrives and joins the fight against the character.
 
-#### MI-GO
+### MI-GO
 
 MI-GO #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19318,7 +19314,7 @@ Loot: Mi-go always have 1d6 cyphers as well as many curious objects that have no
 
 GM intrusion: Fungal spores from the mi-go’s body overcome the character, who must succeed at a Might defense roll or lose their next turn. The character faces this risk each round they are within immediate distance of the creature.
 
-#### MINOTAUR
+### MINOTAUR
 
 MINOTAUR #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -19352,7 +19348,7 @@ Loot: Minotaurs don’t have much use for coins but keep a few small trophies, s
 
 GM intrusions: A minotaur smashes a nearby wall, causing part of the ceiling to collapse on one or more characters, inflicting 6 points of damage and trapping them until they can escape from the rubble. A minotaur grabs a character, who can resist with a Might or Speed defense roll; if they fail, the minotaur takes them up to a short distance away and disappears (behind an obstacle, into a maze, or in some other hiding spot)
 
-#### MOKUREN
+### MOKUREN
 
 MOKUREN #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -19384,7 +19380,7 @@ Use: A mokuren can lead characters into unexplored areas, helping them find plac
 
 GM intrusion: The character hit by the mokuren doesn’t take damage. Instead, they must succeed on a Might defense roll or be pulled into the nearest wall, floor, or book with the creature, becoming a two-dimensional image. In this state, the victim is in stasis until the mokuren pulls them free, another creature “pries” them loose, or a day passes and the effect ends naturally.
 
-#### MORLOCK
+### MORLOCK
 
 MORLOCK #lvl2 (9) #Creature #Core #Fantasy 
 
@@ -19414,7 +19410,7 @@ Loot: Morlocks don’t value what they can’t eat, but their lair may have a cy
 
 GM intrusion: An unnoticed morlock drags away an unconscious character or animal to be eaten once they’re out of sight.
 
-#### NECROMANCER
+### NECROMANCER
 
 NECROMANCER #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19452,7 +19448,7 @@ Loot: Necromancers have one or two expensive items, a cypher, and possibly an ar
 
 GM intrusion: A bony hand erupts from the ground at the character’s feet. On a failed Speed defense roll, they are held in place until they can succeed on a Might task to escape. Each round the character fails to escape, the hand squeezes them for 3 points of damage.
 
-#### NOBLE KNIGHT
+### NOBLE KNIGHT
 
 NOBLE KNIGHT #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -19490,7 +19486,7 @@ Loot: Noble knights carry weapons, heavy armor, and perhaps a cypher or even an 
 
 GM intrusion: The character damaged by a noble knight’s attack must succeed on a Might defense roll or be knocked off a mount, a bridge, or a cliff, or, if nothing suffices, they are knocked to the ground and out of immediate range of the knight.
 
-#### NUPPEPPO
+### NUPPEPPO
 
 NUPPEPPO #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -19524,7 +19520,7 @@ Use: The PCs open a grave, a coffin, or a sealed research lab, and several nuppe
 
 GM intrusion: The character who allowed the nuppeppo to follow them around like a pet (or who has been unable to prevent it) wakes to find that the creature has settled upon them in the night and is using its touch-decay abilities to feed. In fact, the character might already be incapacitated by the time they wake.
 
-#### OGRE
+### OGRE
 
 OGRE #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -19560,7 +19556,7 @@ Loot: Some ogres hoard gold or other valuables in their lairs, but they rarely h
 
 GM intrusion: The ogre’s mighty blow (whether it strikes a foe or not) hits the ground or the wall, causing major structural damage and a possible collapse, cave-in, or landslide. It might also expose a hidden underground cave or chamber.
 
-#### ORC
+### ORC
 
 ORC #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -19598,7 +19594,7 @@ Loot: Orcs carry a lot of garbage. Amid this dross, a band of orcs might have cu
 
 GM intrusion: With a scream of savage glee, five more orcs rush to join the fight.
 
-#### PRINCE(SS) OF SUMMER
+### PRINCE(SS) OF SUMMER
 
 PRINCE(SS) OF SUMMER #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19635,7 +19631,7 @@ Loot: In addition to fine clothing, fine equipment, and a considerable sum of cu
 
 GM intrusion: The character is blinded for up to one minute by a shaft of brilliant sunlight unless they succeed on a Might defense task.
 
-#### PUPPET TREE
+### PUPPET TREE
 
 PUPPET TREE #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -19675,7 +19671,7 @@ Loot: Possessions of former victims can be found in the red reeds, usually inclu
 
 GM intrusion: Two corpse puppets, unseen in the red reeds, rise and seize a character in an attempt to hold them still for a crystal spike attack. The character must make a difficulty 4 Speed or Might task to shake free.
 
-#### RAVAGE BEAR
+### RAVAGE BEAR
 
 RAVAGE BEAR #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -19707,7 +19703,7 @@ Use: Ravage bears are likely chance encounters in the wilderness for unlucky tra
 
 GM intrusion: In its rage, the ravage bear makes an extra attack that does 2 additional points of damage.
 
-#### REPLICANT
+### REPLICANT
 
 REPLICANT #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19737,7 +19733,7 @@ Use: A contact of one of the characters is secretly a replicant. It has survived
 
 GM intrusion: The character struck by the replicant is smashed into the wall so hard that the surrounding structure begins to collapse on them.
 
-#### SAPIENT TREE
+### SAPIENT TREE
 
 SAPIENT TREE #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -19769,7 +19765,7 @@ Use: These trees populate magic forests. They can be used to surprise characters
 
 GM intrusion: The tree grabs the character and holds them fast, shaking them. They take 4 points of damage each round and can do nothing but attempt to escape (the task is hindered by two steps because of the shaking).  
 
-#### SATYR
+### SATYR
 
 SATYR #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19800,7 +19796,7 @@ Loot: A satyr is likely to carry one or two cyphers.
 
 GM intrusion: A mental effect makes the character view the satyr as a good friend for up to one minute unless they succeed at an Intellect defense task.
 
-#### SHADOW
+### SHADOW
 
 SHADOW #lvl1 (3) #Creature #Core #Fantasy 
 
@@ -19832,7 +19828,7 @@ Use: The flickering shadows from a campfire bend strangely and begin to creep to
 
 GM intrusion: The shadow attaches itself to a character and begins to take over as their shadow, automatically inflicting damage every round until the character uses an action to tear it off of them.
 
-#### SHADOW ELF
+### SHADOW ELF
 
 SHADOW ELF #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -19879,7 +19875,7 @@ Loot: A shadow elf carries currency equivalent to an expensive item, in addition
 
 GM intrusion: The shadow elf casts a spell that charms a character on a failed Intellect defense roll. The character fights on the side of the shadow elf for up to one minute, though they can make another Intellect defense roll each round to try to break the influence.
 
-#### SKELETON
+### SKELETON
 
 SKELETON #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -19915,7 +19911,7 @@ Loot: Sometimes the linchpin item required to create a reanimator skeleton is va
 
 GM intrusion: A skeleton destroyed by a melee attack explodes like a grenade. The bone shrapnel inflicts 5 points of damage to every creature in immediate range.
 
-#### SOUL EATER
+### SOUL EATER
 
 SOUL EATER #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -19951,7 +19947,7 @@ Loot: Sometimes dread skulls keep treasures as trophies of past victories, consi
 
 GM intrusion: The character who uses a cypher against the dread skull must make an Intellect defense roll. On a failed roll, the cypher begins to burn with flame, dealing the character 5 points of damage and destroying the cypher in the process.
 
-#### SPHINX
+### SPHINX
 
 SPHINX #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -19986,7 +19982,7 @@ Loot: A sphinx usually has one or two cyphers and perhaps a small artifact it ca
 
 GM intrusion: The sphinx leaps onto its opponent, attacking with all four claws as its action.
 
-#### STATUE, ANIMATE
+### STATUE, ANIMATE
 
 ANIMATE STATUE #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -20018,7 +20014,7 @@ Use: An animate statue holds a treasure trove of knowledge. If the characters ca
 
 GM intrusion: The animate statue strikes a character so hard that the victim flies a long distance and lands in a heap, possibly dropping gear and weapons along the way.
 
-#### TROLL
+### TROLL
 
 TROLL #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -20050,7 +20046,7 @@ Use: Trolls may be chance encounters in the wilderness for unlucky travelers. So
 
 GM intrusion: The struck troll divides into two separate trolls that immediately attack the character in the same action.
 
-#### TYRANNOSAURUS REX
+### TYRANNOSAURUS REX
 
 TYRANNOSAURUS REX #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -20084,7 +20080,7 @@ Use: Something is killing big game in a forest preserve. Poachers are suspected 
 
 GM intrusion: The tyrannosaurus’s tail swings around and knocks the character tumbling out of short range and possibly into dangerous terrain.
 
-#### VAMPIRE
+### VAMPIRE
 
 VAMPIRE #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -20129,7 +20125,7 @@ Use: Strange stories of shadows in the night, people disappearing from their bed
 
 GM intrusion: The character struck by the vampire is caught fast in its powerful grip. If the character doesn’t escape immediately, the vampire bites them automatically.
 
-#### VAMPIRE, TRANSITIONAL
+### VAMPIRE, TRANSITIONAL
 
 TRANSITIONAL VAMPIRE #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -20155,7 +20151,7 @@ Interaction: Transitional vampires are utterly devoted to their master.
 
 Use: Transitional vampires lie in the intersection of foe and victim. A loved one or trusted companion who has been turned into a transitional vampire will try to betray, defeat, and kill the PCs, but the characters are motivated to save them rather than destroy them.
 
-#### VAT REJECT
+### VAT REJECT
 
 VAT REJECT #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -20193,9 +20189,9 @@ Use: A long-missing derelict ship, famous for carrying a load of planet-buster s
 
 GM intrusion: The vat reject also has a radioactive sting. On a failed Might defense roll, the character struck by the reject descends one step on the damage track.
 
-#### WARDROID
+### WARDROID
 
-WARDROID #lvl6 (18) #Creature #Core #Fantasy 
+WARDROID #lvl6 (18) #Creature #Core 
 
 When star troopers need heavy support, they sometimes bring in wardroids. These fearsome robots, standing about 8 feet (2 m) tall, are ruthless even by trooper standards and are known to kill innocent bystanders as often as they kill foes. It is said that when wardroids are unleashed, wise troopers fall back and take cover.
 
@@ -20232,7 +20228,7 @@ Loot: The remains of a wardroid can yield one or two cyphers to someone adept at
 
 GM intrusion: When defeated, the wardroid detonates, inflicting 8 points of damage on all creatures within immediate range.
 
-#### WEREWOLF
+### WEREWOLF
 
 WEREWOLF #lvl4 (12) #Creature #Core #Fantasy 
 
@@ -20266,7 +20262,7 @@ Use: When the moon is full, werewolves hunt
 
 GM intrusion: A PC who moves down one step on the damage track due to damage inflicted by a werewolf must succeed on a Might defense roll or be afflicted with the curse of lycanthropy.
 
-#### WITCH
+### WITCH
 
 WITCH #lvl5 (15) #Creature #Core #Fantasy 
 
@@ -20307,7 +20303,7 @@ Loot: A witch usually has an artifact or two on their person, possibly including
 
 GM intrusion: After a character succeeds on a defense roll against one of the witch’s ongoing curse effects, the witch immediately tosses a hexbolt at them. If the character is hit, the ongoing curse effect also continues.
 
-#### WORM THAT WALKS
+### WORM THAT WALKS
 
 WORM THAT WALKS #lvl7 (21) #Creature #Core #Fantasy 
 
@@ -20341,7 +20337,7 @@ Loot: A worm that walks might have one or two cyphers, though during combat it w
 
 GM intrusion: A character struck by the worm that walks notices that they weren’t able to shake off all the grubs that spilled out. If they fail a Speed defense roll, a grub dives into their flesh and travels through their body, its route visible beneath their skin. The character is distracted (all tasks hindered) until the grub dies one minute later or is otherwise extracted
 
-#### WRAITH
+### WRAITH
 
 WRAITH #lvl2 (6) #Creature #Core #Fantasy 
 
@@ -20373,7 +20369,7 @@ Use: The PCs are attacked while attending a burial, or they happen to pass close
 
 GM intrusion: The wraith screams out, summoning 1d6 more wraiths from the afterworld.
 
-#### WYVERN
+### WYVERN
 
 WYVERN #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -20405,7 +20401,7 @@ Loot: Wyverns do not collect treasure, but their nest might have a few cyphers f
 
 GM intrusions: As part of its attack, the wyvern grabs hold of the character and flies a short distance away. The character can escape with a Might or Speed defense roll (which probably means they fall to the ground and land prone). The wyvern uses a wing or its tail to slam a character so they are thrown a short distance away and land prone.
 
-#### XENOPARASITE
+### XENOPARASITE
 
 XENOPARASITE #lvl6 (18) #Creature #Core #Fantasy 
 
@@ -20443,7 +20439,7 @@ Use: Xenoparasites are tough aliens. A colony of them would be a challenge even 
 
 GM (group) intrusion: An NPC shrieks, bursts, and births 1d6 juvenile xenoparasites.
 
-#### ZOMBIE
+### ZOMBIE
 
 ZOMBIE #lvl3 (9) #Creature #Core #Fantasy 
 
@@ -20482,6 +20478,205 @@ Use: The characters are asked to clear out a space that once served as an old mi
 
 GM intrusion: When the character fails to kill a zombie by rolling an odd number on an attack that otherwise would have been successful, in addition to the normal effect, the zombie’s arm comes free and animates as a separate level 2 zombie.
 
+### ANATHEMA
+
+ANATHEMA #lvl7 (21) #Creature #Core #SuperHeroes 
+
+The supervillain called Anathema is big, bright red, and stronger than anyone on this planet or any other (or so he claims). Superheroes who go head to head with him learn that he can withstand almost any hit and always gives back twice as hard as he receives. He can bring down buildings with a punch and throw semi trucks across state lines.
+
+Before he was Anathema, he was Sameer Stokes, a bitter and spiteful coder working for a large software company. Having failed in relationships, promotions, and retaining friends, Sameer retreated online and learned that he had power when he bullied people. He delighted in causing emotional distress in others in forums and social media. In effect, he was a troll. When the metamorphosis happened, he was turned into a troll for real. (Sameer doesn’t recall the metamorphosis or the days before and immediately after his change, despite using therapy and drugs in an attempt to recover those memories.)
+
+(Assume that Anathema has three power shifts in strength and two in resilience. These shifts are already figured into his modifications and other stats.)
+
+Motive: Accumulate wealth, live on the edge
+
+Environment: Anywhere vast wealth can be stolen
+
+Health: 70
+
+Damage Inflicted: 12 points
+
+Movement: Short; a few miles (5 km) per leap
+
+Modifications: Strength tasks as level 10; Might defense as level 9; Speed defense as level 5 due to size
+
+Combat: Anathema hits foes with bone-shocking force. He can throw cars and large objects at targets within long range, dealing damage to all creatures within immediate range of his target.
+
+Anathema has a healing factor that makes it hard to hurt him in any meaningful sense. He regains 10 points of health per round. In any round in which he regains health, his attacks deal 3 additional points of damage (15 total), and he seems to visibly swell with muscle.
+
+Interaction: When Anathema is riled up during a fight, it’s difficult to reason with him. However, he is willing to negotiate if someone offers him wealth or convinces him they have valuable secrets for breaking mental blocks. Anathema doesn’t know how he became the way he is, and he wants to recover his missing memories.
+
+Use: The rolling earthquake afflicting the city is actually Anathema fighting a group of newbie superheroes who haven’t figured out that engaging the red mountain will likely cause more deaths than leaving him alone. (The first rule of fighting Anathema is to lead or move him somewhere with a low population density.)
+
+Loot: Anathema doesn’t normally carry wealth or other valuables. In his lair, Anathema typically has three to five expensive items, 1d6 cyphers, and possibly an artifact.
+
+GM intrusion: Anathema’s attack sends the character flying a long distance and potentially into dangerous terrain.
+
+### DOCTOR DREAD
+
+DOCTOR DREAD #lvl7 (21) #Creature #Core #SuperHeroes 
+
+Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, and the robotic armor she uses to enhance her otherwise normal abilities. Indeed, Doctor Dread has become the most feared terrorist on the planet. She uses her abilities to extort money, influence, and technology from the rich and powerful, whether her victims are individuals, governments, corporations, or superheroes.
+
+Alicia Coleridge is Doctor Dread’s secret identity. Born into relative obscurity, she received a full scholarship to the Russell Institute of Technology, where she studied the effects of radioactive substances on living tissue. In a freak lab accident, Alicia’s fiancé was slain, and Alicia was disfigured and driven slightly insane, so much so that she built the Doctor Dread armor. She plows the vast wealth she accumulates through terrorism into research into the rejuvenation of dead flesh. She hopes to one day bring back her dead love, whose body she keeps in suspended animation.
+
+(Doctor Dread is usually accompanied by a handful of robot minions.)
+
+(Dread’s robot minion: level 3; Armor 1; long-range laser attack inflicts 4 points of damage)
+
+(Assume that Doctor Dread has three power shifts in intelligence and two in resilience. These shifts are already figured into her modifications and other stats.)
+
+Motive: Accumulate wealth; reanimate dead flesh
+
+Environment: Wherever money can be extorted
+
+Health: 40
+
+Damage Inflicted: 7 points
+
+Armor: 4
+
+Movement: Short; long when flying
+
+Modifications: Resists mental attacks and deception as level 8; understands, repairs, and crafts advanced technology as level 10
+
+Combat: Doctor Dread’s armor allows her to exist without outside air (or air pressure), food, or water for up to ten days at a time. She can call on her robotic armor to accomplish a variety of tasks, including the following:
+
+_Barricade:_ Establish an immobile, two-dimensional field  
+of transparent force 10 feet by 10 feet (3 m by 3 m) for ten minutes
+
+_Energy Cloak:_ Create an energy field that gives her +5 to Armor against heat, cold, or magnetism (one at a time, chosen when she uses the power) for ten minutes
+
+_Fade:_ Become invisible for one minute, or until she makes an attack
+
+_Plasma Blast:_ Long-range heat and electricity blast that inflicts 7 points of damage
+
+Interaction: Doctor Dread is slightly mad, but that’s normally disguised by her amazing brilliance. She is an egomaniac but will negotiate in return for a promise of wealth or biomedical lore she doesn’t already know.
+
+Use: The PCs are called to handle a hostage situation at a party in which many of the city’s wealthy elite are being held captive by Doctor Dread. She promises to let them go once sufficient wealth is paid into her offshore accounts.
+
+Loot: Most of Doctor Dread’s considerable wealth is tied up in online accounts, two or three secret fortresses, and cutting-edge biological research equipment.
+
+GM intrusion: Doctor Dread uses a function built into her robotic armor that is the perfect solution for her current predicament: healing herself, teleporting away, disintegrating a barrier, or whatever is needed.
+
+### MAGNETAR
+
+MAGNETAR #lvl8 (24) #Creature #Core #SuperHeroes 
+
+Not much is known about Magnetar other than its powerful ability to generate and control magnetic fields. Various research groups theorize that Magnetar is an alien, a sentient and self-improving robot, or even some kind of manifestation of a fundamental force. Given Magnetar’s vaguely humanoid shape, a few people even suggest that the villain is actually a man with a mutant ability so powerful that it burned out all memories of his former self.
+
+In truth, Magnetar is the animate, sentient, and self-regulating nucleus of a neutron star that is able to rein in its immense electromagnetic signature. One of two such beings an advanced alien species created from a single magnetar (a type of neutron star with an extremely powerful magnetic field), Magnetar was sent on a mission of exploration. After millennia, it crashed on Earth and was damaged. Having lost most of its memory data, Magnetar knows that something was taken from it (its twin), but it can’t remember what. It has decided to blame the humans.
+
+(Assume that Magnetar has three power shifts in its magnetic power and two in resilience. These shifts are already figured into its modifications and other stats.)
+
+Motive: Revenge; regain memory
+
+Environment: Almost anywhere, searching for what it has lost
+
+Health: 50
+
+Damage Inflicted: 12 points
+
+Armor: 8
+
+Movement: Short; long when magnetically levitating
+
+Modifications: Speed defense as level 5 due to mass; tasks related to controlling and shaping metal through electromagnetic manipulation as level 11
+
+Combat: Magnetar’s fist packs a wallop, since it can selectively add mass to the punch. However, its most potent ability is its level 11 control over all metal within very long range, which it uses to create anything it can imagine, including walls, attacks, pincers, and more. Magnetar can lift bridges, vehicles, and structures infused with rebar that it can see within its area of influence. When it throws such a large object as part of an attack, the target and everything within short range of the target takes 10 points of damage.
+
+Magnetar’s only weakness is psychic attacks, which is fortunate since reducing it to 0 health through an  
+old-fashioned beating could release an uncontrolled neutron star chunk on the Earth’s surface.
+
+Interaction: Morose and gruff, Magnetar would rather be alone, but every so often, it goes on a rampage, hoping that a display will draw out whoever or whatever made it the way it is. Magnetar constantly feels the drag of emotional loss, but it doesn’t know why (it doesn’t realize that the feeling comes from the loss of its twin).
+
+Use: Doctor Dread has put a bounty on Magnetar’s head because she wants to study the advanced technology woven through its body. The bounty amount is outrageous, but then again, so is Magnetar.
+
+GM intrusion: On a failed Might defense roll, all of the character’s loose metallic items (including weapons) are stripped from them and become stuck to a nearby metallic buttress.
+
+### MISTER GENOCIDE
+
+MISTER GENOCIDE #lvl5 (15) #Creature #Core #SuperHeroes 
+
+Real name Alfred Webster, Mister Genocide has the unfortunate ability to synthesize deadly poison from his skin. His touch can kill, but if he wishes it, so can his spittle or even his breath.
+
+Anyone who spends too much time in Mister Genocide’s presence becomes ill, even if the villain isn’t actively using his power. Thus, his cronies usually wear gas masks and protective clothing. Mister Genocide has promoted himself to the head of the mob in the city where he resides and is always looking to expand his operations, sometimes at the expense of other criminals.
+
+When victims are killed by Mister Genocide’s poison, their skin and the whites of their eyes take on a bright green hue, which increases the terror that normal people feel regarding him. Even superheroes have been brought down by his toxins.
+
+Mister Genocide sometimes teams up with Anathema, because the red mountain is the only villain who can withstand the poison that Genocide constantly emits.
+
+(Assume that Mister Genocide has two power shifts in his poison power, one in intelligence, and two in resilience. These shifts are already figured into his modifications and other stats.)
+
+Motive: Accumulate power
+
+Environment: Anywhere crime lords congregate
+
+Health: 15
+
+Damage Inflicted: 5 points; see Combat
+
+Armor: 1
+
+Movement: Short
+
+Modifications: Poison breath attack and Might defense as level 7; Intellect defense and evil genius as level 6
+
+Combat: Targets touched by Mister Genocide must make a difficulty 7 Might defense roll or take 5 points of Speed damage (ignores Armor) from the poison transmitted. Worse, the poison continues to inflict 2 points of Speed damage each round until the victim succeeds at a Might defense roll.
+
+Every other round, Mister Genocide can make a level 7 poison attack that can affect up to ten victims within short range as a single action. Those who fail a Might defense roll take 7 points of Speed damage (ignores Armor) and spend a round helpless as they cough and gag. The inhalant poison does not continue to inflict damage  
+each round.
+
+Mister Genocide is immune to most venoms, toxins, and poisons.
+
+Interaction: Certifiably insane, Mister Genocide likes to kill people. He may negotiate for a while, but if there is not enough gain to be had, he might kill everyone with a breath just for the fun of watching them suffocate and turn green.
+
+Use: Gang warfare between two criminal organizations is shooting up downtown, and many innocent bystanders caught in the crossfire end up bullet-ridden or poisoned (with green skin). Someone needs to put a stop to Mister Genocide.
+
+Loot: The supervillain carries currency equivalent to 1d6 expensive items, a cypher or two, and a variety of poisoned knives, needles, and vials.
+
+GM intrusion: A character affected by the poison must make a second Might defense roll or fall unconscious from shock. Unconsciousness lasts for up to a minute, or until the victim is jostled awake.
+
+### WRATH
+
+WRATH #lvl6 (18) #Creature #Core #SuperHeroes 
+
+The head of an elite group of assassins, Wrath wants to save the world by killing everyone who impedes her vision of perfection—which turns out to be the better part of humanity. In addition to being one of the most accomplished martial artists to walk the earth (thanks to her connection with a mystical entity called the Demon), Wrath is also a criminal mastermind whose assassins are just one layer of the organization she controls.
+
+Born more than two hundred and fifty years ago in China to a name lost to history, Wrath was taken in by a monastery and trained in the ways of fist and sword. Everything changed when raiders attacked and killed everyone in her monastery, leaving her the sole survivor. Vowing revenge against the raiders and the world that allowed animals like them to exist, she acquired a magical amulet that contains the Demon. The Demon in turn bequeathed her extraordinary speed, strength, and longevity.
+
+Wrath is content to let her assassins (and mobsters, lawyers, and politicians) accomplish many of her goals, though she relishes being present when particularly important adversaries are brought down.
+
+(Assassin of Wrath: level 4, stealth as level 7)
+
+(Assume that Wrath has two power shifts in dexterity, two in accuracy, and one in resilience. These shifts are already figured into her modifications and other stats.)
+
+Motive: Save the world
+
+Environment: Anywhere wrongs (to Wrath’s way of thinking) must be righted
+
+Health: 36
+
+Damage Inflicted: 8 points
+
+Armor: 1
+
+Movement: Short
+
+Modifications: Stealth, attacks, and Speed defense as level 8
+
+Combat: Wrath prefers a sword, though she is equally adept with a crossbow or, in rare cases, modern weapons. In melee she can attack two foes as a single action every round.
+
+Thanks to the influence of the Demon, Wrath regains 3 points of health each round, even if reduced to 0 health. The only way to permanently kill her is to reduce her to 0 health and keep her that way long enough to burn away the tattoo of the Demon that is engraved across her back.
+
+Interaction: Wrath is arrogant and confident, though not so much that she is easily fooled by flattery. She is usually amenable to negotiating, because she can anticipate the agenda of others and usually gain far more for herself in the end. However, she is not one to betray her word.
+
+Use: Wrath is making a bid to form a group of supervillains—all of whom will answer to her, of course—and it seems that initial talks are going well. The only holdout is Mister Genocide, who feels threatened by Wrath’s larger organization, and this tension has led to ongoing warfare in the streets as assassins battle mobsters.
+
+Loot: In addition to weapons and armor, Wrath likely possesses the equivalent of five exorbitant items, 1d6 cyphers, and possibly one or two artifacts.
+
+GM intrusion: Just as things seem bleakest for her, Wrath summons a group of assassins waiting in the wings to surround the PCs and demand their surrender.
+
 ## NPCs
 
 The NPCs in this chapter are generic examples of nonplayer characters that can be used in many genres.
@@ -20492,21 +20687,78 @@ Health, Not Pools: Remember that NPCs don’t have stat Pools. Instead, they hav
 
 Appropriate Weapons: NPCs use weapons appropriate to their situation, which might be swords and crossbows, knives and shotguns, malefic psychic weapons, blasters and grenades, and so on.
 
-OTHER NPCs
+**OTHER NPCs**
 Many NPCs are simple and understandable enough to be encapsulated just by their level and a few other other relevant stats.
-- Cannibal: level 3, deception and other interaction tasks as level 6; health 12
-- Hacker: level 2; programming, digital infiltration, and repairing computers as level 7
-- Mad scientist: level 4, most actions as level 6 due to gadgets, serums, artifacts, etc.
-- Marauder: level 4, initiative and intimidation as level 7; health 28; Armor 1
-- Master detective: level 5; perception, intuition, initiative, and detecting falsehood as level 9
-- Politician: level 2, all interaction tasks as level 6
-- Priest: level 2, religious lore and all interaction tasks as level 6
-- Professor: level 2, knowledge of science and all interaction tasks as level 6
-- Soldier: level 3, perception as level 4; health 12; Armor 1; attacks inflict 5 points of damage
+
+### Cannibal
+
+Cannibal #lvl3 (9) #Creature #Core
+
+Health: 12
+
+Modifications: deception and other interaction tasks as level 6
+
+### Hacker
+
+Hacker #lvl2 (6) #Creature #Core
+
+Modifications: programming, digital infiltration, and repairing computers as level 7
+
+### Mad scientist
+
+Mad scientist #lvl4 (12) #Creature #Core 
+
+Modifications: most actions as level 6 due to gadgets, serums, artifacts, etc.
+
+### Marauder
+
+Marauder #lvl4 (12) #Creature #Core
+
+Health: 28
+
+Armor: 1
+
+Modifications: initiative and intimidation as level 7
+
+### Master detective
+
+Master detective #lvl5 (15) #Creature #Core 
+
+Modifications: perception, intuition, initiative, and detecting falsehood as level 9
+
+### Politician
+
+Politician #lvl2 (6) #Creature #Core 
+
+Modifications: all interaction tasks as level 6
+
+### Priest
+
+Priest #lvl2 (6) #Creature #Core 
+
+Modifications: religious lore and all interaction tasks as level 6
+
+### Professor
+
+Professor #lvl2 (6) #Creature #Core 
+
+Modifications: knowledge of science and all interaction tasks as level 6
+
+### Soldier
+
+Soldier #lvl3 (9) #Creature #Core 
+
+Health: 12
+
+Damage Inflicted: 5 points
+
+Armor: 1
+
+Modifications: perception as level 4
 
 ### ASSASSIN
 
-Level : 6 (18)
+ASSASSIN #lvl6 (18) #Creature  #Core #Fantasy 
 
 An assassin kills with poison, with high-velocity bullets from a distance, or by arranging for an unfortunate accident. Assassins accept contracts from governments, corporations, crime bosses, and aggrieved former partners, though some assassins pay themselves by tracking criminals anywhere to collect on “dead or alive” bounties.
 
@@ -20534,7 +20786,7 @@ GM intrusion: The character loses their next turn, stunned, after recognizing th
 
 ### BARD
 
-Level : 3 (9)
+BARD #lvl3 (9) #Creature  #Core #Fantasy 
 
 A bard uses the power of words and music to create magic that inspires and influences others. A typical bard plays a musical instrument and weaves song-spells that rival the magic of wizards and priests, but some use their voices, creating fascinating tales and dramatic speeches. 
 
@@ -20560,7 +20812,7 @@ Loot: In addition to a musical instrument and a nice outfit for performing, bard
 
 ### BERSERKER
 
-Level : 3 (9)
+BERSERKER #lvl3 (9) #Creature  #Core #Fantasy 
 
 A berserker is a fierce warrior who can fly into a rage, greatly increasing their strength and hardiness. Many of them choose an animal such as a bear, wolf, or boar as their spiritual kin, wearing the skin of that animal and fighting like wild beasts. 
 
@@ -20588,7 +20840,7 @@ Loot: In addition to their weapons and light armor, a berserker has one or two m
 
 ### CRIME BOSS
 
-Level : 3 (9)
+CRIME BOSS #lvl3 (9) #Creature  #Core #Fantasy 
 
 A crime boss usually isn’t physically powerful but wields power through lies, bribery, and control. Rarely encountered alone, they rely on guards, thugs, and other measures to provide physical security. A crime boss could be a petty noble, a mafia king, or the captain of a pirate ship that sails the seas or glides the space lanes.
 
@@ -20616,7 +20868,7 @@ GM intrusion: The crime boss uses a clever trick or cypher to block all incoming
 
 ### DETECTIVE
 
-Level : 3 (9)
+DETECTIVE #lvl3 (9) #Creature  #Core #Fantasy 
 
 Detectives are usually veterans of their organization (such as the police, city watch, marshals, space command, and so on) with extensive experience. Some detectives are freelance sleuths whose uncanny ability to see the truth comes from personal training combined with an underlying talent for noticing clues that others miss.
 
@@ -20643,7 +20895,7 @@ GM intrusion: The detective intuits the character’s next attack and moves perf
 
 ### DRUID
 
-Level : 4 (12)
+DRUID #lvl4 (12) #Creature #Core #Fantasy 
 
 A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others. 
 
@@ -20671,7 +20923,7 @@ Loot: In addition to weapons, light armor, and some moderately priced ritual ite
 
 ### DWARF
 
-Level : 4(12)
+DWARF #lvl4 (12) #Creature #Core #Fantasy 
 
 A typical dwarf found outside of their homeland is an explorer, warrior, and tradesperson of some skill. Dwarves travel to find work as mercenaries, sell the goods they create, or find unusual materials to use in their crafting. 
 
@@ -20701,6 +20953,7 @@ Loot: In addition to their weapons and light or medium armor, a dwarf probably h
 
 ### ELF
 
+ELF #lvl4 (12) #Creature #Core #Fantasy 
 Level : 4 (12)
 
 An elf has a very long lifespan and tends to learn and abandon many skills and interests, including combat and magic. Elves are likely to wander in pursuit of something new and interesting, such as finding the tallest tree in the forest, the most beautiful sunset, or the perfect love song. 
@@ -20729,7 +20982,7 @@ Loot: In addition to their weapons and light armor, an elf carries a few moderat
 
 ### GUARD
 
-Level : 2 (6)
+GUARD #lvl2 (6) #Creature #Core #Fantasy 
 
 Guards keep the peace but don’t usually show much initiative. Ultimately, they do as they’re ordered by their superiors, regardless of legality. A guard might be a star trooper dressed in intimidating armor, a mall security guard, a beat police officer, or a mafia goon.
 
@@ -20759,7 +21012,7 @@ GM intrusion: 1d6 local citizens intervene on the guard’s behalf, calling for 
 
 ### HALFLING
 
-Level : 3 (9)
+HALFLING #lvl3 (9) #Creature #Core #Fantasy 
 
 A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions. 
 
@@ -20785,7 +21038,7 @@ Loot: In addition to their weapons (and perhaps some light armor) and food, a ha
 
 ### OCCULTIST
 
-Level : 5 (15)
+OCCULTIST #lvl5 (15) #Creature #Core #Fantasy 
 
 Paranormal researchers, cultists, secret practitioners of white magic, and coven members might be occultists. Thanks to their study of the metaphysical, occultists learn several magical tricks, including the ability to summon or banish the dead.
 
@@ -20809,7 +21062,7 @@ GM intrusion: A bony hand erupts from the ground at the character’s feet. On a
 
 ### PALADIN
 
-Level : 4 (12)
+PALADIN #lvl4 (12) #Creature #Core #Fantasy 
 
 Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe. 
 
@@ -20837,7 +21090,7 @@ Loot: In addition to their weapons and armor, paladins might have one or two cyp
 
 ### SECRET AGENT
 
-Level : 5 (15)
+SECRET AGENT #lvl5 (15) #Creature #Core #Fantasy 
 
 Secret agents are trained professionals who put their mission before their own well-being, regardless of which government agency, corporation, guild, or kingdom employs them. An agent operates under a fake cover, perhaps as an envoy, inspector, technician, actor, tourist, or bumbling fool.
 
@@ -20863,7 +21116,7 @@ GM intrusion: The secret agent produces a cypher that, for the rest of the day, 
 
 ### THIEF
 
-Level : 4 (12)
+THIEF #lvl4 (12) #Creature #Core #Fantasy 
 
 A thief takes things that don’t belong to them—preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets. 
 
@@ -20889,7 +21142,7 @@ Loot: Thieves usually carry light tools, a few small weapons, miscellaneous equi
 
 ### THUG
 
-Level : 3 (9)
+THUG #lvl3 (9) #Creature #Core #Fantasy 
 
 Thugs are usually rough, crude, and harsh individuals who prey on those who follow the rules. A thug might be a streetwise drug dealer, a bandit who hunts lone travelers in the wilds, a savage warrior adroit with ranged weapons, or a cyberbully among pacifists. Most thugs work for themselves, but they may employ gangs of guards to help them conduct their business.
 
@@ -20915,7 +21168,7 @@ GM intrusion: Another thug, hidden until just the right moment, appears and take
 
 ### WIZARD, MIGHTY
 
-Level : 8 (24)
+MIGHTY WIZARD #lvl8 (24) #Creature #Core #Fantasy 
 
 Some wizards learn so many spells and accumulate so much lore that they become incredibly powerful. Some work for a higher purpose, whereas others are concerned only with themselves.
 
@@ -21059,7 +21312,6 @@ These interpretations of fantastic cyphers in a non-fantastic setting require pl
 None of the manifest cyphers in this chapter have a stated physical form. The entries don’t tell you if something is a potion, a pill, or a device you hold in your hands because that sort of detail varies greatly from genre to genre. Are they magic? Are they tech? Are they symbiotic creatures with programmed DNA? That’s up to the GM. It’s flavor, not mechanics. It’s as important or unimportant as the style of an NPC’s hair or the color of the car the bad guys are driving. In other words, it’s the kind of thing that is important in a roleplaying game, but at the same time doesn’t actually change anything (and RPGs have a lot of things like that, if you think about it).
 
 A manifest cypher’s physical form can be anything at all, but there are some obvious choices based on genre. The GM can design a setting that uses just one type—for example, a magical world where all cyphers are potions made by faeries. Or they can use many types, perhaps mixing them from different genres. Some suggestions include the following.  
-  
 
 ### MANIFEST CYPHER FORM OPTIONS
 
@@ -21236,8 +21488,9 @@ A manifest cypher’s physical form can be anything at all, but there are some o
 
 ### SUBTLE CYPHER TABLE
 
-| 01–04 | Analeptic                   |
+|       |                             |
 | ----- | --------------------------- |
+| 01–04 | Analeptic                   |
 | 05–07 | Best tool                   |
 | 08–10 | Burst of speed              |
 | 11–13 | Contingent activator        |
@@ -33213,218 +33466,19 @@ Depletion: 1–3 in 1d10
 - Scientist: level 2, science-related tasks as level 4
 - Worker: level 2; health 8
 
-### SUPERVILLIANS
-
-People with amazing abilities who use them for evil earn the label of supervillain. This section presents five sample supervillains. These supervillains use the same format as the Creatures chapter.
-
-#### ANATHEMA
-
-Level : 7 (21)
-
-The supervillain called Anathema is big, bright red, and stronger than anyone on this planet or any other (or so he claims). Superheroes who go head to head with him learn that he can withstand almost any hit and always gives back twice as hard as he receives. He can bring down buildings with a punch and throw semi trucks across state lines.
-
-Before he was Anathema, he was Sameer Stokes, a bitter and spiteful coder working for a large software company. Having failed in relationships, promotions, and retaining friends, Sameer retreated online and learned that he had power when he bullied people. He delighted in causing emotional distress in others in forums and social media. In effect, he was a troll. When the metamorphosis happened, he was turned into a troll for real. (Sameer doesn’t recall the metamorphosis or the days before and immediately after his change, despite using therapy and drugs in an attempt to recover those memories.)
-
-(Assume that Anathema has three power shifts in strength and two in resilience. These shifts are already figured into his modifications and other stats.)
-
-Motive: Accumulate wealth, live on the edge
-
-Environment: Anywhere vast wealth can be stolen
-
-Health: 70
-
-Damage Inflicted: 12 points
-
-Movement: Short; a few miles (5 km) per leap
-
-Modifications: Strength tasks as level 10; Might defense as level 9; Speed defense as level 5 due to size
-
-Combat: Anathema hits foes with bone-shocking force. He can throw cars and large objects at targets within long range, dealing damage to all creatures within immediate range of his target.
-
-Anathema has a healing factor that makes it hard to hurt him in any meaningful sense. He regains 10 points of health per round. In any round in which he regains health, his attacks deal 3 additional points of damage (15 total), and he seems to visibly swell with muscle.
-
-Interaction: When Anathema is riled up during a fight, it’s difficult to reason with him. However, he is willing to negotiate if someone offers him wealth or convinces him they have valuable secrets for breaking mental blocks. Anathema doesn’t know how he became the way he is, and he wants to recover his missing memories.
-
-Use: The rolling earthquake afflicting the city is actually Anathema fighting a group of newbie superheroes who haven’t figured out that engaging the red mountain will likely cause more deaths than leaving him alone. (The first rule of fighting Anathema is to lead or move him somewhere with a low population density.)
-
-Loot: Anathema doesn’t normally carry wealth or other valuables. In his lair, Anathema typically has three to five expensive items, 1d6 cyphers, and possibly an artifact.
-
-GM intrusion: Anathema’s attack sends the character flying a long distance and potentially into dangerous terrain.
-
-#### DOCTOR DREAD
-
-Level : 7 (21)
-
-Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, and the robotic armor she uses to enhance her otherwise normal abilities. Indeed, Doctor Dread has become the most feared terrorist on the planet. She uses her abilities to extort money, influence, and technology from the rich and powerful, whether her victims are individuals, governments, corporations, or superheroes.
-
-Alicia Coleridge is Doctor Dread’s secret identity. Born into relative obscurity, she received a full scholarship to the Russell Institute of Technology, where she studied the effects of radioactive substances on living tissue. In a freak lab accident, Alicia’s fiancé was slain, and Alicia was disfigured and driven slightly insane, so much so that she built the Doctor Dread armor. She plows the vast wealth she accumulates through terrorism into research into the rejuvenation of dead flesh. She hopes to one day bring back her dead love, whose body she keeps in suspended animation.
-
-(Doctor Dread is usually accompanied by a handful of robot minions.)
-
-(Dread’s robot minion: level 3; Armor 1; long-range laser attack inflicts 4 points of damage)
-
-(Assume that Doctor Dread has three power shifts in intelligence and two in resilience. These shifts are already figured into her modifications and other stats.)
-
-Motive: Accumulate wealth; reanimate dead flesh
-
-Environment: Wherever money can be extorted
-
-Health: 40
-
-Damage Inflicted: 7 points
-
-Armor: 4
-
-Movement: Short; long when flying
-
-Modifications: Resists mental attacks and deception as level 8; understands, repairs, and crafts advanced technology as level 10
-
-Combat: Doctor Dread’s armor allows her to exist without outside air (or air pressure), food, or water for up to ten days at a time. She can call on her robotic armor to accomplish a variety of tasks, including the following:
-- Barricade: Establish an immobile, two-dimensional field  
-of transparent force 10 feet by 10 feet (3 m by 3 m) for ten minutes
-- Energy Cloak: Create an energy field that gives her +5 to Armor against heat, cold, or magnetism (one at a time, chosen when she uses the power) for ten minutes
-- Fade: Become invisible for one minute, or until she makes an attack
-- Plasma Blast: Long-range heat and electricity blast that inflicts 7 points of damage
-
-Interaction: Doctor Dread is slightly mad, but that’s normally disguised by her amazing brilliance. She is an egomaniac but will negotiate in return for a promise of wealth or biomedical lore she doesn’t already know.
-
-Use: The PCs are called to handle a hostage situation at a party in which many of the city’s wealthy elite are being held captive by Doctor Dread. She promises to let them go once sufficient wealth is paid into her offshore accounts.
-
-Loot: Most of Doctor Dread’s considerable wealth is tied up in online accounts, two or three secret fortresses, and cutting-edge biological research equipment.
-
-GM intrusion: Doctor Dread uses a function built into her robotic armor that is the perfect solution for her current predicament: healing herself, teleporting away, disintegrating a barrier, or whatever is needed.
-
-#### MAGNETAR
-
-Level : 8 (24)
-
-Not much is known about Magnetar other than its powerful ability to generate and control magnetic fields. Various research groups theorize that Magnetar is an alien, a sentient and self-improving robot, or even some kind of manifestation of a fundamental force. Given Magnetar’s vaguely humanoid shape, a few people even suggest that the villain is actually a man with a mutant ability so powerful that it burned out all memories of his former self.
-
-In truth, Magnetar is the animate, sentient, and self-regulating nucleus of a neutron star that is able to rein in its immense electromagnetic signature. One of two such beings an advanced alien species created from a single magnetar (a type of neutron star with an extremely powerful magnetic field), Magnetar was sent on a mission of exploration. After millennia, it crashed on Earth and was damaged. Having lost most of its memory data, Magnetar knows that something was taken from it (its twin), but it can’t remember what. It has decided to blame the humans.
-
-(Assume that Magnetar has three power shifts in its magnetic power and two in resilience. These shifts are already figured into its modifications and other stats.)
-
-Motive: Revenge; regain memory
-
-Environment: Almost anywhere, searching for what it has lost
-
-Health: 50
-
-Damage Inflicted: 12 points
-
-Armor: 8
-
-Movement: Short; long when magnetically levitating
-
-Modifications: Speed defense as level 5 due to mass; tasks related to controlling and shaping metal through electromagnetic manipulation as level 11
-
-Combat: Magnetar’s fist packs a wallop, since it can selectively add mass to the punch. However, its most potent ability is its level 11 control over all metal within very long range, which it uses to create anything it can imagine, including walls, attacks, pincers, and more. Magnetar can lift bridges, vehicles, and structures infused with rebar that it can see within its area of influence. When it throws such a large object as part of an attack, the target and everything within short range of the target takes 10 points of damage.
-
-Magnetar’s only weakness is psychic attacks, which is fortunate since reducing it to 0 health through an  
-old-fashioned beating could release an uncontrolled neutron star chunk on the Earth’s surface.
-
-Interaction: Morose and gruff, Magnetar would rather be alone, but every so often, it goes on a rampage, hoping that a display will draw out whoever or whatever made it the way it is. Magnetar constantly feels the drag of emotional loss, but it doesn’t know why (it doesn’t realize that the feeling comes from the loss of its twin).
-
-Use: Doctor Dread has put a bounty on Magnetar’s head because she wants to study the advanced technology woven through its body. The bounty amount is outrageous, but then again, so is Magnetar.
-
-GM intrusion: On a failed Might defense roll, all of the character’s loose metallic items (including weapons) are stripped from them and become stuck to a nearby metallic buttress.
-
-#### MISTER GENOCIDE
-
-Level : 5 (15)
-
-Real name Alfred Webster, Mister Genocide has the unfortunate ability to synthesize deadly poison from his skin. His touch can kill, but if he wishes it, so can his spittle or even his breath.
-
-Anyone who spends too much time in Mister Genocide’s presence becomes ill, even if the villain isn’t actively using his power. Thus, his cronies usually wear gas masks and protective clothing. Mister Genocide has promoted himself to the head of the mob in the city where he resides and is always looking to expand his operations, sometimes at the expense of other criminals.
-
-When victims are killed by Mister Genocide’s poison, their skin and the whites of their eyes take on a bright green hue, which increases the terror that normal people feel regarding him. Even superheroes have been brought down by his toxins.
-
-Mister Genocide sometimes teams up with Anathema, because the red mountain is the only villain who can withstand the poison that Genocide constantly emits.
-
-(Assume that Mister Genocide has two power shifts in his poison power, one in intelligence, and two in resilience. These shifts are already figured into his modifications and other stats.)
-
-Motive: Accumulate power
-
-Environment: Anywhere crime lords congregate
-
-Health: 15
-
-Damage Inflicted: 5 points; see Combat
-
-Armor: 1
-
-Movement: Short
-
-Modifications: Poison breath attack and Might defense as level 7; Intellect defense and evil genius as level 6
-
-Combat: Targets touched by Mister Genocide must make a difficulty 7 Might defense roll or take 5 points of Speed damage (ignores Armor) from the poison transmitted. Worse, the poison continues to inflict 2 points of Speed damage each round until the victim succeeds at a Might defense roll.
-
-Every other round, Mister Genocide can make a level 7 poison attack that can affect up to ten victims within short range as a single action. Those who fail a Might defense roll take 7 points of Speed damage (ignores Armor) and spend a round helpless as they cough and gag. The inhalant poison does not continue to inflict damage  
-each round.
-
-Mister Genocide is immune to most venoms, toxins, and poisons.
-
-Interaction: Certifiably insane, Mister Genocide likes to kill people. He may negotiate for a while, but if there is not enough gain to be had, he might kill everyone with a breath just for the fun of watching them suffocate and turn green.
-
-Use: Gang warfare between two criminal organizations is shooting up downtown, and many innocent bystanders caught in the crossfire end up bullet-ridden or poisoned (with green skin). Someone needs to put a stop to Mister Genocide.
-
-Loot: The supervillain carries currency equivalent to 1d6 expensive items, a cypher or two, and a variety of poisoned knives, needles, and vials.
-
-GM intrusion: A character affected by the poison must make a second Might defense roll or fall unconscious from shock. Unconsciousness lasts for up to a minute, or until the victim is jostled awake.
-
-#### WRATH
-
-Level : 6 (18)
-
-The head of an elite group of assassins, Wrath wants to save the world by killing everyone who impedes her vision of perfection—which turns out to be the better part of humanity. In addition to being one of the most accomplished martial artists to walk the earth (thanks to her connection with a mystical entity called the Demon), Wrath is also a criminal mastermind whose assassins are just one layer of the organization she controls.
-
-Born more than two hundred and fifty years ago in China to a name lost to history, Wrath was taken in by a monastery and trained in the ways of fist and sword. Everything changed when raiders attacked and killed everyone in her monastery, leaving her the sole survivor. Vowing revenge against the raiders and the world that allowed animals like them to exist, she acquired a magical amulet that contains the Demon. The Demon in turn bequeathed her extraordinary speed, strength, and longevity.
-
-Wrath is content to let her assassins (and mobsters, lawyers, and politicians) accomplish many of her goals, though she relishes being present when particularly important adversaries are brought down.
-
-(Assassin of Wrath: level 4, stealth as level 7)
-
-(Assume that Wrath has two power shifts in dexterity, two in accuracy, and one in resilience. These shifts are already figured into her modifications and other stats.)
-
-Motive: Save the world
-
-Environment: Anywhere wrongs (to Wrath’s way of thinking) must be righted
-
-Health: 36
-
-Damage Inflicted: 8 points
-
-Armor: 1
-
-Movement: Short
-
-Modifications: Stealth, attacks, and Speed defense as level 8
-
-Combat: Wrath prefers a sword, though she is equally adept with a crossbow or, in rare cases, modern weapons. In melee she can attack two foes as a single action every round.
-
-Thanks to the influence of the Demon, Wrath regains 3 points of health each round, even if reduced to 0 health. The only way to permanently kill her is to reduce her to 0 health and keep her that way long enough to burn away the tattoo of the Demon that is engraved across her back.
-
-Interaction: Wrath is arrogant and confident, though not so much that she is easily fooled by flattery. She is usually amenable to negotiating, because she can anticipate the agenda of others and usually gain far more for herself in the end. However, she is not one to betray her word.
-
-Use: Wrath is making a bid to form a group of supervillains—all of whom will answer to her, of course—and it seems that initial talks are going well. The only holdout is Mister Genocide, who feels threatened by Wrath’s larger organization, and this tension has led to ongoing warfare in the streets as assassins battle mobsters.
-
-Loot: In addition to weapons and armor, Wrath likely possesses the equivalent of five exorbitant items, 1d6 cyphers, and possibly one or two artifacts.
-
-GM intrusion: Just as things seem bleakest for her, Wrath summons a group of assassins waiting in the wings to surround the PCs and demand their surrender.
-
 ### POWERFUL CREATURES  
 
 Superheroes don’t just stop bank robbers and fight supervillains—sometimes they face giant robots, alien space monsters, or so-called gods. GMs can use the following examples to estimate the level and challenges for such threats.
 
-|Level|Example|
-|---|---| 
-|9|Demigod|
-|10|Kaiju 300 feet (90 m) tall|
-|11|Robot 1,000 feet (300 m) tall|
-|12|Vampire blood god|
-|13|Legendary monster*|
-|14|Archangel, demon prince, typical god or goddess**, multidimensional sorcerer|
-|15|Moon-sized space monster, pantheon leader***|
+| Level | Example                                                                      |
+| ----- | ---------------------------------------------------------------------------- |
+| 9     | Demigod                                                                      |
+| 10    | Kaiju 300 feet (90 m) tall                                                   |
+| 11    | Robot 1,000 feet (300 m) tall                                                |
+| 12    | Vampire blood god                                                            |
+| 13    | Legendary monster*                                                           |
+| 14    | Archangel, demon prince, typical god or goddess**, multidimensional sorcerer |
+| 15    | Moon-sized space monster, pantheon leader***                                 |
 
 * A primordial monster (such as Echidna or Typhon) or a powerful creature associated with the end of the world (such as Jörmungandr or Fenris).
 
