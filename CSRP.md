@@ -17059,17 +17059,6 @@ Loot: This entry indicates what the PCs might gain if they take items from their
 
 GM Intrusion: This optional entry in the stats suggests a way to use GM intrusion in an encounter with the creature. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
 
-NORMAL ANIMALS
-Unlike many creatures in this chapter, normal animals are simple and understandable enough to be encapsulated by just their level and maybe one or two other stats.
-- Bear, black: level 3, attacks as level 4
-- Bear, grizzly: level 5; health 20; Armor 1
-- Dog: level 2, perception as level 3
-- Dog, guard: level 3, attacks and perception as level 4
-- Hawk: level 2; flies a long distance each round
-- Horse: level 3; moves a long distance each round
-- Rat: level 1
-- Rattlesnake: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
-
 ### FANTASY CREATURES AND NPCs BY LEVEL
 
 |Level|Name|
@@ -17193,10 +17182,390 @@ If you need a larger or tougher version of a creature, such as a dire wolf or a 
 
 A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.
 
-### Creature Types
-#### JOTUNN (NORSE GIANT)
+### OTHER CREATURES AND NPCs FOR A FANTASY GAME
 
-Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
+#### Bat
+
+Bat #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Black Bear
+
+Black Bear #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: attacks as level 4
+
+#### Blacksmith
+
+Blacksmith #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Modifications: metalworking as level 4
+
+#### Cat
+
+Cat #lvl1 (3) #Creature #Core #Fantasy 
+
+Modifications: Speed defense as level 3 due to size and quickness
+
+#### Catfolk
+
+Catfolk #lvl3 (9) #Creature #Core #Fantasy 
+
+Damage Inflicted: damage inflicted 4 points
+
+Modifications: balancing and climbing as level 4
+
+#### Centaur
+
+Centaur #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Movement: moves a long distance each round
+
+#### Crocodile
+
+Crocodile #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Movement: swims a short distance each round
+
+#### Dire wolf
+
+Dire wolf #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks and perception as level 5
+
+#### Dog
+
+Dog #lvl2 (6) #Creature #Core #Fantasy 
+
+Modifications: perception as level 3
+
+#### Dog, guard
+
+Guard Dog #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: attacks and perception as level 4
+
+#### Elephant
+
+Elephant #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 20
+
+Armor: 1
+
+#### Farmer
+
+Farmer #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Modifications: animal handling as level 3
+
+#### Gargoyle
+
+Gargoyle #lvl3 (9) #Creature #Core #Fantasy 
+
+Damage Inflicted: 5 points
+
+Armor: 5
+
+Movement: flies a short distance each round
+
+#### Giant ape
+
+Giant ape #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: climbing and attacks as level 4
+
+#### Giant crab
+
+Giant crab #lvl6 (18) #Creature #Core #Fantasy 
+
+Armor: 4
+
+Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
+
+#### Giant frog
+
+Giant frog #lvl3 (9) #Creature #Core #Fantasy 
+
+#### Giant octopus
+
+Giant octopus #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 25
+
+Modifications: Might defense and stealth as level 6
+
+Combat: attacks four times as an action
+
+#### Giant scorpion
+
+Giant scorpion #lvl4 (12) #Creature #Core #Fantasy 
+
+Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
+
+Armor: 2
+
+#### Giant snake
+
+Giant snake #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 18
+
+Damage Inflicted: 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
+
+Armor: 2
+
+#### Gnoll
+
+Gnoll #lvl2 (6) #Creature #Core #Fantasy 
+
+Health: 8
+
+Armor: 2
+
+Combat: Speed defense as level 3 due to shield
+
+#### Gorilla
+
+Gorilla #lvl2 (6) #Creature #Core #Fantasy 
+
+Damage Inflicted: 3 points
+
+Modifications: attacks as level 3
+
+#### Griffon
+
+Griffon #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: perception as level 5
+
+Movement: flies a long distance each round
+
+#### Grizzly bear
+
+Grizzly bear #lvl5 (15) #Creature #Core #Fantasy 
+
+Health: 20
+
+Armor: 1
+
+#### Hawk
+
+Hawk #lvl2 (6) #Creature #Core #Fantasy 
+
+Movement: flies a long distance each round
+
+#### Hippogryph
+
+Hippogryph #lvl3 (9) #Creature #Core #Fantasy 
+
+Movement: flies a long distance each round.
+
+Modifications: attacks as level 4.
+
+#### Horse
+
+Horse #lvl3 (6) #Creature #Core #Fantasy 
+
+Movement: moves a long distance each round
+
+#### Leopard
+
+Leopard #lvl4 (12) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: climbing, jumping, stealth, and attacks as level 5
+
+Lion
+
+Lion, Tiger or similar #lvl5 (15) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+#### Lizardfolk
+
+Lizardfolk #lvl3 (6) #Creature #Core #Fantasy 
+
+Armor: 1
+
+#### Merchant
+
+Merchant #lvl2 (6) #Creature #Core #Fantasy 
+
+Modifications: haggling and assessment tasks as level 3
+
+#### Mummy
+
+Mummy #lvl6 (18) #Creature #Core #Fantasy 
+
+Health: 24
+
+Damage Inflicted: 7 points
+
+Armor: 2
+
+Modifications: ancient history, ancient religion, climbing, and stealth as level 8
+
+#### Nymph
+
+Nymph #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: stealth and positive social interactions as level 6
+
+#### Pegasus
+
+Pegasus #lvl3 (9) #Creature #Core #Fantasy 
+
+Movement: moves or flies a long distance each round
+
+Modifications: Speed defense as level 4
+
+#### Pterodactyl
+
+Pterodactyl #lvl3 (9) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Movement: flies a long distance each round
+
+#### Rat
+
+Rat #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Roc
+
+Roc #lvl6 (18) #Creature #Core #Fantasy 
+
+Health: 25
+
+Armor: 2
+
+Movement: flies a long distance each round
+
+Combat: attacks twice as an action
+
+#### Shark
+
+Shark #lvl3 (9) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 2
+
+Modifications: attacks as level 4
+
+#### Undead claw
+
+Undead claw #lvl1 (3) #Creature #Core #Fantasy 
+
+Health: 5
+
+Armor: 1
+
+Modifications: attacks as level 3, Speed defense as level 3 due to quickness and size
+
+#### Unicorn
+
+Unicorn #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 1
+
+Modifications: Might defense, perception, and attacks as level 5
+
+Combat: 
+- makes two attacks as its action; 
+- once per hour can teleport up to 1 mile; 
+- once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
+
+#### Villager
+
+Villager #lvl1 (3) #Creature #Core #Fantasy 
+
+#### Viper
+
+Viper #lvl2 (6) #Creature #Core #Fantasy 
+
+Combat: bite inflicts 3 points of Speed damage (ignores Armor)
+
+#### Warhorse
+
+Warhorse #lvl4 (12) #Creature #Core #Fantasy 
+
+Movement: moves a long distance each round
+
+#### Werebear
+
+Werebear #lvl5 (15) #Creature #Core #Fantasy 
+
+Damage Inflicted: 6 points
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wererat
+
+Wererat #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: Speed defense and stealth as level 4
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wereshark
+
+Wereshark #lvl4 (12) #Creature #Core #Fantasy 
+
+Health: 15
+
+Armor: 2
+
+Modifications: attacks as level 5
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Weretiger
+
+Weretiger #lvl5 (15) #Creature #Core #Fantasy 
+
+Damage Inflicted: 6 points
+
+Armor: 1
+
+Modifications: attacks as level 6
+
+Combat: regenerates 2 health per round (unless recently wounded by silver)
+
+#### Wolf
+
+Wolf #lvl3 (9) #Creature #Core #Fantasy 
+
+Modifications: perception as level 4
+
+#### Yeti
+
+Yeti #lvl3 (9) #Creature #Core #Fantasy 
+
+Armor: 1
+
+Modifications: attacks, perception, and stealth as level 4
 
 ### CREATURES
 
@@ -18573,6 +18942,9 @@ GM intrusion: The character reacts poorly to the poison in the air or a bite and
 
 FIRE JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
 
+**JOTUNN (NORSE GIANT)**  
+Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
+
 Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies. 
 
 Motive: Destruction, hungers for flesh, honor 
@@ -18608,6 +18980,9 @@ GM intrusion: The jotunn’s attack inflicts a serious burn, making a limb usele
 #### JOTUNN, FROST
 
 FROST JOTUNN #lvl6 (18) #Creature #Core #Fantasy 
+
+**JOTUNN (NORSE GIANT)**  
+Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
 
 Frost jotunns are often called frost giants or ice giants. Their skin is pale white, pink, or blue, and their hair is usually white, pale blond, or actual ice. They prefer cold mountains and tundra, wear chainmail and furs, and use metal axes that channel powerful cold from their bodies. 
 
@@ -20106,391 +20481,6 @@ Interaction: Zombies groan when they see something that looks tasty. They do not
 Use: The characters are asked to clear out a space that once served as an old military depot. The appearance of zombies sealed in the area comes as an unpleasant surprise.
 
 GM intrusion: When the character fails to kill a zombie by rolling an odd number on an attack that otherwise would have been successful, in addition to the normal effect, the zombie’s arm comes free and animates as a separate level 2 zombie.
-
-### OTHER CREATURES AND NPCs FOR A FANTASY GAME
-
-#### Bat
-
-Bat #lvl1 (3) #Creature #Core #Fantasy 
-
-#### Black Bear
-
-Black Bear #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: attacks as level 4
-
-#### Blacksmith
-
-Blacksmith #lvl2 (6) #Creature #Core #Fantasy 
-
-Health: 8
-
-Modifications: metalworking as level 4
-
-#### Cat
-
-Cat #lvl1 (3) #Creature #Core #Fantasy 
-
-Modifications: Speed defense as level 3 due to size and quickness
-
-#### Catfolk
-
-Catfolk #lvl3 (9) #Creature #Core #Fantasy 
-
-Damage Inflicted: damage inflicted 4 points
-
-Modifications: balancing and climbing as level 4
-
-#### Centaur
-
-Centaur #lvl4 (12) #Creature #Core #Fantasy 
-
-Health: 15
-
-Movement: moves a long distance each round
-
-#### Crocodile
-
-Crocodile #lvl4 (12) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Movement: swims a short distance each round
-
-#### Dire wolf
-
-Dire wolf #lvl4 (12) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Modifications: attacks and perception as level 5
-
-#### Dog
-
-Dog #lvl2 (6) #Creature #Core #Fantasy 
-
-Modifications: perception as level 3
-
-#### Dog, guard
-
-Guard Dog #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: attacks and perception as level 4
-
-#### Elephant
-
-Elephant #lvl5 (15) #Creature #Core #Fantasy 
-
-Health: 20
-
-Armor: 1
-
-#### Farmer
-
-Farmer #lvl2 (6) #Creature #Core #Fantasy 
-
-Health: 8
-
-Modifications: animal handling as level 3
-
-#### Gargoyle
-
-Gargoyle #lvl3 (9) #Creature #Core #Fantasy 
-
-Damage Inflicted: 5 points
-
-Armor: 5
-
-Movement: flies a short distance each round
-
-#### Giant ape
-
-Giant ape #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: climbing and attacks as level 4
-
-#### Giant crab
-
-Giant crab #lvl6 (18) #Creature #Core #Fantasy 
-
-Armor: 4
-
-Combat: pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
-
-#### Giant frog
-
-Giant frog #lvl3 (9) #Creature #Core #Fantasy 
-
-#### Giant octopus
-
-Giant octopus #lvl5 (15) #Creature #Core #Fantasy 
-
-Health: 25
-
-Modifications: Might defense and stealth as level 6
-
-Combat: attacks four times as an action
-
-#### Giant scorpion
-
-Giant scorpion #lvl4 (12) #Creature #Core #Fantasy 
-
-Damage Inflicted: 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
-
-Armor: 2
-
-#### Giant snake
-
-Giant snake #lvl4 (12) #Creature #Core #Fantasy 
-
-Health: 18
-
-Damage Inflicted: 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
-
-Armor: 2
-
-#### Gnoll
-
-Gnoll #lvl2 (6) #Creature #Core #Fantasy 
-
-Health: 8
-
-Armor: 2
-
-Combat: Speed defense as level 3 due to shield
-
-#### Gorilla
-
-Gorilla #lvl2 (6) #Creature #Core #Fantasy 
-
-Damage Inflicted: 3 points
-
-Modifications: attacks as level 3
-
-#### Griffon
-
-Griffon #lvl4 (12) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Modifications: perception as level 5
-
-Movement: flies a long distance each round
-
-#### Grizzly bear
-
-Grizzly bear #lvl5 (15) #Creature #Core #Fantasy 
-
-Health: 20
-
-Armor: 1
-
-#### Hawk
-
-Hawk #lvl2 (6) #Creature #Core #Fantasy 
-
-Movement: flies a long distance each round
-
-#### Hippogryph
-
-Hippogryph #lvl3 (9) #Creature #Core #Fantasy 
-
-Movement: flies a long distance each round.
-
-Modifications: attacks as level 4.
-
-#### Horse
-
-Horse #lvl3 (6) #Creature #Core #Fantasy 
-
-Movement: moves a long distance each round
-
-#### Leopard
-
-Leopard #lvl4 (12) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Modifications: climbing, jumping, stealth, and attacks as level 5
-
-Lion
-
-Lion, Tiger or similar #lvl5 (15) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Modifications: attacks as level 6
-
-#### Lizardfolk
-
-Lizardfolk #lvl3 (6) #Creature #Core #Fantasy 
-
-Armor: 1
-
-#### Merchant
-
-Merchant #lvl2 (6) #Creature #Core #Fantasy 
-
-Modifications: haggling and assessment tasks as level 3
-
-#### Mummy
-
-Mummy #lvl6 (18) #Creature #Core #Fantasy 
-
-Health: 24
-
-Damage Inflicted: 7 points
-
-Armor: 2
-
-Modifications: ancient history, ancient religion, climbing, and stealth as level 8
-
-#### Nymph
-
-Nymph #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: stealth and positive social interactions as level 6
-
-#### Pegasus
-
-Pegasus #lvl3 (9) #Creature #Core #Fantasy 
-
-Movement: moves or flies a long distance each round
-
-Modifications: Speed defense as level 4
-
-#### Pterodactyl
-
-Pterodactyl #lvl3 (9) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Movement: flies a long distance each round
-
-#### Rat
-
-Rat #lvl1 (3) #Creature #Core #Fantasy 
-
-#### Roc
-
-Roc #lvl6 (18) #Creature #Core #Fantasy 
-
-Health: 25
-
-Armor: 2
-
-Movement: flies a long distance each round
-
-Combat: attacks twice as an action
-
-#### Shark
-
-Shark #lvl3 (9) #Creature #Core #Fantasy 
-
-Health: 15
-
-Armor: 2
-
-Modifications: attacks as level 4
-
-#### Undead claw
-
-Undead claw #lvl1 (3) #Creature #Core #Fantasy 
-
-Health: 5
-
-Armor: 1
-
-Modifications: attacks as level 3, Speed defense as level 3 due to quickness and size
-
-#### Unicorn
-
-Unicorn #lvl4 (12) #Creature #Core #Fantasy 
-
-Health: 15
-
-Armor: 1
-
-Modifications: Might defense, perception, and attacks as level 5
-
-Combat: 
-- makes two attacks as its action; 
-- once per hour can teleport up to 1 mile; 
-- once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
-
-#### Villager
-
-Villager #lvl1 (3) #Creature #Core #Fantasy 
-
-#### Viper
-
-Viper #lvl2 (6) #Creature #Core #Fantasy 
-
-Combat: bite inflicts 3 points of Speed damage (ignores Armor)
-
-#### Warhorse
-
-Warhorse #lvl4 (12) #Creature #Core #Fantasy 
-
-Movement: moves a long distance each round
-
-#### Werebear
-
-Werebear #lvl5 (15) #Creature #Core #Fantasy 
-
-Damage Inflicted: 6 points
-
-Armor: 1
-
-Modifications: attacks as level 6
-
-Combat: regenerates 2 health per round (unless recently wounded by silver)
-
-#### Wererat
-
-Wererat #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: Speed defense and stealth as level 4
-
-Combat: regenerates 2 health per round (unless recently wounded by silver)
-
-#### Wereshark
-
-Wereshark #lvl4 (12) #Creature #Core #Fantasy 
-
-Health: 15
-
-Armor: 2
-
-Modifications: attacks as level 5
-
-Combat: regenerates 2 health per round (unless recently wounded by silver)
-
-#### Weretiger
-
-Weretiger #lvl5 (15) #Creature #Core #Fantasy 
-
-Damage Inflicted: 6 points
-
-Armor: 1
-
-Modifications: attacks as level 6
-
-Combat: regenerates 2 health per round (unless recently wounded by silver)
-
-#### Wolf
-
-Wolf #lvl3 (9) #Creature #Core #Fantasy 
-
-Modifications: perception as level 4
-
-#### Yeti
-
-Yeti #lvl3 (9) #Creature #Core #Fantasy 
-
-Armor: 1
-
-Modifications: attacks, perception, and stealth as level 4
 
 ## NPCs
 
