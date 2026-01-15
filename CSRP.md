@@ -21529,11 +21529,15 @@ All cyphers in this section may be manifest cyphers. It is the GM’s discretion
 
 #### ADHESION
 
+ADHESION #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: Allows for automatic climbing of any surface, even horizontal ones. Lasts for ten minutes per cypher level.
 
 #### AGE TAKER
+
+AGE TAKER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 4
 
@@ -21542,17 +21546,23 @@ twenty-three.
 
 #### ANALEPTIC
 
+ANALEPTIC #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: Restores a number of points equal to the cypher’s level to the user’s Speed Pool.
 
 #### ANTIVENOM
 
+ANTIVENOM #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Renders user immune to poisons of the cypher’s level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user’s system).
 
 #### ARMOR REINFORCER
+
+ARMOR REINFORCER #Cypher #Manifest #Core 
 
 Level: 1d6 + 1
 
@@ -21567,9 +21577,9 @@ Effect: The user’s Armor gains an enhancement for twenty-four hours. Roll a d6
 |5|+2 to Armor, +5 against damage from cold|
 |6|+2 to Armor, +5 against damage from acid|
 
-  
-
 #### ATTRACTOR
+
+ATTRACTOR #Cypher #Manifest #Core 
 
 Level: 1d6 + 4
 
@@ -21577,11 +21587,15 @@ Effect: One unanchored item the user’s size or smaller within long range (very
 
 #### BANISHING
 
+BANISHING #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: For the next day, each time the user strikes a solid creature or object, it generates a burst of energy that teleports the creature or object an immediate distance in a random direction (not up or down). The teleported creature’s actions (including defense) are hindered on its next turn (hindered by two steps if the cypher level is 5 or higher).
 
 #### BEST TOOL
+
+BEST TOOL #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -21589,11 +21603,15 @@ Effect: Provides an additional asset for any one task using a tool, even if that
 
 #### BLACKOUT
 
+BLACKOUT #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: An area within immediate range of the user becomes secure against any effect outside the area that sees, hears, or otherwise senses what occurs inside. To outside observers, the area is a “blur” to any sense applied. Taps, scrying sensors, and other direct surveillance methods are also rendered inoperative within the area for a day.
 
 #### BLINKING
+
+BLINKING #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -21601,17 +21619,23 @@ Effect: For the next day, each time the user is struck hard enough to take damag
 
 #### BURST OF SPEED
 
+BURST OF SPEED #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: For one minute, a user who normally can move a short distance as an action can move a long distance instead.
 
 #### CATHOLICON
 
+CATHOLICON #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Cures any disease of the cypher level or lower.
 
 #### CHEMICAL FACTORY
+
+CHEMICAL FACTORY #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -21635,15 +21659,17 @@ Effect: After one hour, the sweat of the user produces 1d6 doses of a valuable l
 |86–95|Increases Intellect Edge by 1 for one hour|
 |96–00|Restores all Pools to full|
 
-  
-
 #### COMPREHENSION
+
+COMPREHENSION #Cypher #Fantastic #Core 
 
 Level: 1d6 + 1
 
 Effect: Within five minutes, the user can understand the words of a specific language keyed to the cypher (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the user could already understand the language, the cypher has no effect. Once the cypher is used, the effect is permanent, and the cypher no longer counts against the number of cyphers that a PC can bear.
 
 #### CONDITION REMOVER
+
+CONDITION REMOVER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 3
 
@@ -21674,11 +21700,15 @@ Effect: Cures one occurrence of one specific health condition of the cypher leve
 
 #### CONTINGENT ACTIVATOR
 
+CONTINGENT ACTIVATOR #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: If the device is activated in conjunction with another cypher, the user can specify a condition under which the linked cypher will activate. The linked cypher retains the contingent command until it is used (either normally or contingently). For example, when this cypher is linked to a cypher that provides a form of healing or protection, the user could specify that the linked cypher will activate if they become damaged to a certain degree or are subject to a particular dangerous circumstance. Until the linked cypher is used, this cypher continues to count toward the maximum number of cyphers a PC can carry.
 
 #### CONTROLLED BLINKING
+
+CONTROLLED BLINKING #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -21686,11 +21716,15 @@ Effect: For the next day, each time the user is struck hard enough to inflict da
 
 #### CURATIVE
 
+CURATIVE #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: Restores a number of points equal to the cypher’s level to the user’s Might Pool.
 
 #### CURSE BRINGER
+
+CURSE BRINGER #Cypher #Manifest #Core 
 
 Level: 1d6 + 1
 
@@ -21698,11 +21732,15 @@ Effect: The cypher can be activated when given to an individual who doesn’t re
 
 #### DARKSIGHT
 
+DARKSIGHT #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: Grants the ability to see in the dark for five hours per cypher level. (For a more realistic game, this cypher could instead make the user specialized in low-light spotting.)
 
 #### DEATH BRINGER
+
+DEATH BRINGER #Cypher #Manifest #Core 
 
 Level: 1d6
 
@@ -21710,11 +21748,15 @@ Effect: For the next minute, when the user strikes an NPC or creature of the cyp
 
 #### DENSITY
 
+DENSITY #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: For the next day, each time the user strikes a solid creature or object with a weapon, the weapon suddenly increases dramatically in weight, causing the blow to inflict 2 additional points of damage.
 
 #### DETONATION
+
+DETONATION #Cypher #Manifest #Core 
 
 Level: 1d6 + 2
 
@@ -21733,11 +21775,15 @@ Effect: Projects a small physical explosive up to a long distance away that expl
 
 #### DETONATION (CREATURE)
 
+DETONATION (CREATURE) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 1
 
 Effect: Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher’s level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.
 
 #### DETONATION (DESICCATING)
+
+DETONATION (DESICCATING) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -21745,11 +21791,15 @@ Effect: Projects a small physical explosive up to a long distance away that burs
 
 #### DETONATION (FLASH)
 
+DETONATION (FLASH) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute (ten minutes if the cypher is level 4 or higher).
 
 #### DETONATION (GRAVITY)
+
+DETONATION (GRAVITY) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -21757,16 +21807,19 @@ Effect: Projects a small physical explosive up to a long distance away that burs
 
 #### DETONATION (GRAVITY INVERSION)
 
+DETONATION (GRAVITY INVERSION) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 1
 
 Effect: Projects a small physical explosive up to a long distance away that explodes, and for one hour gravity reverses within long range of the explosion.
 
 #### DETONATION (MASSIVE)
 
+DETONATION (MASSIVE) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that explodes in a  
-short-range radius, inflicting damage equal to the cypher’s level. Roll a d100 to determine the type of damage.
+Effect: Projects a small physical explosive up to a long distance away that explodes in a short-range radius, inflicting damage equal to the cypher’s level. Roll a d100 to determine the type of damage.
 
 |   |   |
 |---|---|
@@ -21779,17 +21832,23 @@ short-range radius, inflicting damage equal to the cypher’s level. Roll a d100
 
 #### DETONATION (MATTER DISRUPTION)
 
+DETONATION (MATTER DISRUPTION) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 4
 
 Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts damage equal to the cypher’s level.
 
 #### DETONATION (PRESSURE)
 
+DETONATION (PRESSURE) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting impact damage equal to the cypher’s level. Also moves unattended objects out of the area if they weigh less than 20 pounds (9 kg) per cypher level.
 
 #### DETONATION (SINGULARITY)
+
+DETONATION (SINGULARITY) #Cypher #Fantasy #Core 
 
 Level: 10
 
@@ -21799,11 +21858,15 @@ Effect: Projects a small physical explosive up to a long distance away that expl
 
 #### DETONATION (SONIC)
 
+DETONATION (SONIC) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Projects a small physical explosive up to a long distance away that explodes with terrifying sound, deafening all in an immediate radius for ten minutes per cypher level.
 
 #### DETONATION (SPAWN)
+
+DETONATION (SPAWN) #Cypher #Manifest #Core 
 
 Level: 1d6 + 2
 
@@ -21820,6 +21883,8 @@ Effect: Projects a small physical explosive up to a long distance away that burs
 
 #### DETONATION (WEB)
 
+DETONATION (WEB) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius and creates sticky strands of goo. PCs caught in the area must use a Might-based action to get out, with the difficulty determined by the cypher level. NPCs break free if their level is higher than the cypher level.
@@ -21828,11 +21893,15 @@ Effect: Projects a small physical explosive up to a long distance away that expl
 
 #### DISARM
 
+DISARM #Cypher #Subtle #Core 
+
 Level: 1d6 + 1
 
 Effect: One NPC within immediate range whose level is lower than the cypher level drops whatever they are holding.
 
 #### DISGUISE MODULE
+
+DISGUISE MODULE #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -21840,11 +21909,15 @@ Effect: For the next ten minutes per cypher level, the user’s features become 
 
 #### DISRUPTING
 
+DISRUPTING #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: For the next day, each time the user strikes a solid creature or object, the attack generates a burst of nanites that directly attack its organic cells. The target takes 1 additional point of damage. If the target’s level is less than the cypher’s level, it loses its next action; otherwise its next action is hindered.
 
 #### EAGLESEYE
+
+EAGLESEYE #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -21852,11 +21925,15 @@ Effect: Grants the ability to see ten times as far as normal for one hour per cy
 
 #### EFFECT RESISTANCE
 
+EFFECT RESISTANCE #Cypher #Subtle #Core 
+
 Level: 1d6 + 1
 
 Effect: Provides a chance for additional resistance to directly damaging effects of all kinds, such as fire, lightning, and the like, for one day. (It does not provide resistance to blunt force, slashing, or piercing attacks.) If the level of the effect is of the cypher level or lower, the user gains an additional defense roll to avoid it. On a successful defense roll, treat the attack as if the user had succeeded on their regular defense roll. (If the user is an NPC, a PC attacking them with this kind of effect must succeed on two attack rolls to harm them.)
 
 #### EFFORT ENHANCER (COMBAT)
+
+EFFORT ENHANCER (COMBAT) #Cypher #Subtle #Core 
 
 Level: 1d6 + 1
 
@@ -21864,11 +21941,15 @@ Effect: For the next hour, the user can apply one free level of Effort to any ta
 
 #### EFFORT ENHANCER (NONCOMBAT)
 
+EFFORT ENHANCER (NONCOMBAT) #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: For the next hour, the user can apply one free level of Effort to a noncombat task without spending points from a Pool. The level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task. Once this free level of Effort is used, the effect of the cypher ends.
 
 #### ENDURING SHIELD
+
+ENDURING SHIELD #Cypher #Subtle #Core 
 
 Level: 1d6 + 4
 
@@ -21876,11 +21957,15 @@ Effect: For the next day, the user has an asset to Speed defense rolls.
 
 #### EQUIPMENT CACHE
 
+EQUIPMENT CACHE #Cypher #Manifest #Core 
+
 Level: 1d6 + 1
 
 Effect: The user can rummage around and produce from the cypher a desired piece of equipment (not an artifact) whose level does not exceed the cypher’s level. The piece of equipment persists for up to one day, unless its fundamental nature allows only a single use (such as with a grenade).
 
 #### FARSIGHT
+
+FARSIGHT #Cypher #Fantastic #Core 
 
 Level: 1d6 + 1
 
@@ -21888,11 +21973,15 @@ Effect: The user can observe a location they have visited previously, regardless
 
 #### FIREPROOFING
 
+FIREPROOFING #Cypher #Manifest #Core 
+
 Level: 1d6 + 4
 
 Effect: A nonliving object treated by this cypher has Armor against fire damage equal to the cypher’s level for one day.
 
 #### FLAME-RETARDANT WALL
+
+FLAME-RETARDANT WALL #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -21900,11 +21989,15 @@ Effect: Creates an immobile plane of permeable energy up to 20 feet by 20 feet (
 
 #### FORCE CUBE
 
+FORCE CUBE #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube’s walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)
 
 #### FORCE FIELD
+
+FORCE FIELD #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -21914,11 +22007,15 @@ Effect: For the next day, the user is surrounded by a powerful force field, gran
 
 #### FORCE SCREEN PROJECTOR
 
+FORCE SCREEN PROJECTOR #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: Creates an immobile plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for one hour. The plane conforms to the space available.
 
 #### FORCE SHIELD PROJECTOR
+
+FORCE SHIELD PROJECTOR #Cypher #Fantastic #Core 
 
 Level: 1d6 + 3
 
@@ -21926,17 +22023,23 @@ Effect: Creates a shimmering energy shield around the user for one hour, during 
 
 #### FRICTION REDUCER
 
+FRICTION REDUCER #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: Spread across an area up to 10 feet (3 m) square, this makes things extremely slippery. For one hour per cypher level, movement tasks in the area are hindered by three steps.
 
 #### FRIGID WALL
 
+FRIGID WALL #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Creates a wall of supercooled air up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 #### GAS BOMB
+
+GAS BOMB #Cypher #Manifest #Core 
 
 Level: 1d6 + 2
 
@@ -21958,11 +22061,15 @@ Effect: Thrown a short distance, this bursts in a poisonous cloud within an imme
 
 #### GRAVITY NULLIFIER
 
+GRAVITY NULLIFIER #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: For one hour, the user can float into the air, moving vertically up to a short distance per round (but not horizontally without taking some other action, such as pushing along the ceiling). The user must weigh less than 50 pounds (23 kg) per level of the cypher.
 
 #### GRAVITY-NULLIFYING APPLICATION
+
+GRAVITY-NULLIFYING APPLICATION #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -21970,16 +22077,19 @@ Effect: If a nonliving object no larger than a human (two humans if the cypher l
 
 #### HEAT ATTACK
 
+HEAT ATTACK #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: For the next day, each time the user strikes a solid creature or object, the attack generates a burst of heat that inflicts 2 additional points of damage.
 
 #### HUNTER/SEEKER
 
+HUNTER/SEEKER #Cypher #Manifest #Core 
+
 Level: 1d6
 
-Effect: With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4  
-hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.
+Effect: With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4 hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.
 
 |   |   |
 |---|---|
@@ -21990,6 +22100,8 @@ hunter/seeker will attack a maximum of five times. Roll a d100 to determine the 
 |96–00|Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher’s level + 2).|
 
 #### IMAGE PROJECTOR
+
+IMAGE PROJECTOR #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22006,11 +22118,15 @@ Effect: Projects one of the following immobile images in the area described for 
 
 #### INFERNO WALL
 
+INFERNO WALL #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 #### INFILTRATOR
+
+INFILTRATOR #Cypher #Manifest #Core 
 
 Level: 1d6
 
@@ -22018,11 +22134,15 @@ Effect: Tiny capsule launches and moves at great speed, mapping and scanning an 
 
 #### INFORMATION SENSOR
 
+INFORMATION SENSOR #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can select a living creature within long range and learn the following about it: level, origin, species, name, and possibly other facts (such as an individual’s credit score, home address, phone number, and related information).
 
 #### INSTANT SERVANT
+
+INSTANT SERVANT #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22034,11 +22154,15 @@ The servant operates for one hour per cypher level.
 
 #### INSTANT SHELTER
 
+INSTANT SHELTER #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: With the addition of water and air, this cypher expands into a simple one-room structure with a door and a transparent window (two rooms with an internal door if the cypher level is 7 or higher). The structure is 10 feet by 10 feet by 20 feet (3 m by 3 m by 6 m). It is made from a durable, nonflammable material similar to sandstone, and is permanent and immobile once created.
 
 #### INTELLECT BOOSTER
+
+INTELLECT BOOSTER #Cypher #Subtle #Core 
 
 Level: 1d6 + 2
 
@@ -22046,11 +22170,15 @@ Effect: Adds 1 to the user’s Intellect Edge for one hour (or 2 if the cypher i
 
 #### INTELLIGENCE ENHANCEMENT
 
+INTELLIGENCE ENHANCEMENT #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: All of the user’s tasks involving intelligent deduction—such as playing chess, inferring a connection between clues, solving a mathematical problem, finding a bug in computer code, and so on—are eased by two steps for one hour. In the subsequent hour, the strain hinders the same tasks by two steps.
 
 #### KNOWLEDGE ENHANCEMENT
+
+KNOWLEDGE ENHANCEMENT #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22073,11 +22201,15 @@ Effect: For the next day, the character has training in a predetermined skill (o
 
 #### LIGHTNING WALL
 
+LIGHTNING WALL #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Creates a wall of electric bolts up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 #### MACHINE CONTROL
+
+MACHINE CONTROL #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22085,11 +22217,15 @@ Effect: Splits into two pieces; one is affixed to a device and the other to a ch
 
 #### MAGNETIC ATTACK DRILL
 
+MAGNETIC ATTACK DRILL #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting damage equal to the cypher’s level. If the target is made of metal or wearing metal (such as armor), the attack is eased.
 
 #### MAGNETIC MASTER
+
+MAGNETIC MASTER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22097,11 +22233,15 @@ Effect: Establishes a connection with one metal object within short range that a
 
 #### MAGNETIC SHIELD
 
+MAGNETIC SHIELD #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: For ten minutes per cypher level, metal objects cannot come within immediate range of the user. Metal items already in the area when the device is activated are slowly pushed out.
 
 #### MANIPULATION BEAM
+
+MANIPULATION BEAM #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22109,11 +22249,15 @@ Effect: Over the course of one day, the user can activate the cypher a total num
 
 #### MATTER TRANSFERENCE RAY
 
+MATTER TRANSFERENCE RAY #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: The user can target one nonliving object within long range that is their size or smaller of the cypher level or lower. The object is transferred directly to a random location at least 100 miles (160 km) away. If the GM feels it appropriate to the circumstances, only a portion of an object is transferred (a portion whose volume is no more than the user’s).
 
 #### MEDITATION AID
+
+MEDITATION AID #Cypher #Subtle #Core 
 
 Level: 1d6 + 2
 
@@ -22121,11 +22265,15 @@ Effect: Restores a number of points equal to the cypher’s level to the user’
 
 #### MEMORY SWITCH
 
+MEMORY SWITCH #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: The user selects a point within long range, and the minds of all thinking creatures within immediate range of that point are attacked. Victims are dazed and take no action for a round, and they have no memory of the preceding hour.
 
 #### MENTAL SCRAMBLER
+
+MENTAL SCRAMBLER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22146,11 +22294,15 @@ Effect: Two rounds after being activated, the device creates an invisible field 
 
 #### METAL DEATH
 
+METAL DEATH #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: Produces a stream of foam that covers an area about 3 feet by 3 feet (1 m by 1 m), transforming any metal that it touches into a substance as brittle as thin glass. The foam affects metal to a depth of about 6 inches (15 cm).
 
 #### MIND MELD
+
+MIND MELD #Cypher #Fantastic #Core 
 
 Level: 1d6 + 1
 
@@ -22160,11 +22312,15 @@ Effect: Lets the user speak telepathically with creatures they can see within sh
 
 #### MIND-RESTRICTING WALL
 
+MIND-RESTRICTING WALL #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Creates an immobile plane of permeable energy up to 20 feet by 20 feet (6 m by 6 m) for one hour. The plane conforms to the space available. Intelligent creatures passing through the plane fall unconscious for up to one hour, or until slapped awake or damaged.
 
 #### MIND STABILIZER
+
+MIND STABILIZER #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22172,11 +22328,15 @@ Effect: The user gains +5 to Armor against Intellect damage.
 
 #### MONOBLADE
 
+MONOBLADE #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Produces a 6-inch (15 cm) blade that’s the same level as the cypher. The blade cuts through any material of a level lower than its own. If used as a weapon, it is a light weapon that ignores Armor of a level lower than its own. The blade lasts for ten minutes.
 
 #### MONOHORN
+
+MONOHORN #Cypher #Fantastic #Core 
 
 Level: 1d6 + 3
 
@@ -22186,29 +22346,35 @@ Effect: The user gains a horn in the center of their forehead. The horn is deadl
 
 #### MOTION SENSOR
 
+MOTION SENSOR #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: For one hour per cypher level, the user knows when any movement occurs within short range, and when large creatures or objects move within long range (the cypher distinguishes between the two). It also indicates the number and size of the creatures or objects in motion.
 
 #### NULL FIELD
 
+NULL FIELD #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: The user and all creatures within immediate range gain +3 to Armor (+5 if the cypher is level 8 or higher) against damage of a specified kind for one hour. Roll a d100 to determine the effect.
 
-|   |   |
-|---|---|
- |01–12|Fire|
-|13–27|Cold|
-|28–39|Acid|
-|40–52|Psychic|
-|53–65|Sonic|
-|66–72|Electrical|
-|73–84|Poison|
-|85–95|Blunt force|
-|96–00|Slashing and piercing|
+|       |                       |
+| ----- | --------------------- |
+| 01–12 | Fire                  |
+| 13–27 | Cold                  |
+| 28–39 | Acid                  |
+| 40–52 | Psychic               |
+| 53–65 | Sonic                 |
+| 66–72 | Electrical            |
+| 73–84 | Poison                |
+| 85–95 | Blunt force           |
+| 96–00 | Slashing and piercing |
 
 #### NULLIFICATION RAY
+
+NULLIFICATION RAY #Cypher #Manifest #Core 
 
 Level: 1d6 + 3
 
@@ -22216,11 +22382,15 @@ Effect: The user can immediately end one ongoing effect within long range that i
 
 #### NUTRITION AND HYDRATION
 
+NUTRITION AND HYDRATION #Cypher #Subtle #Core 
+
 Level: 1d6 + 1
 
 Effect: The user can go without food and water for a number of days equal to the cypher’s level without ill effect.
 
 #### PERFECT MEMORY
+
+PERFECT MEMORY #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22228,11 +22398,15 @@ Effect: Allows the user to mentally record everything they see for thirty second
 
 #### PERFECTION
 
+PERFECTION #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: The user treats their next action as if they had rolled a natural 20.
 
 #### PERSONAL ENVIRONMENT FIELD
+
+PERSONAL ENVIRONMENT FIELD #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22240,15 +22414,21 @@ Effect: Creates an aura of temperature and atmosphere that will sustain a human 
 
 #### PHASE CHANGER
 
+PHASE CHANGER #Cypher #Fantastic #Core 
+
 Effect: Puts the user out of phase for one minute (two minutes if the cypher is level 6 or higher). During this time, they can pass through solid objects as though they were entirely insubstantial, like a ghost. They cannot make physical attacks or be physically attacked.
 
 #### PHASE DISRUPTOR
+
+PHASE DISRUPTOR #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
 Effect: Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to one 5-foot (1.5 m) cube per cypher level. While the area is out of phase, creatures and objects can pass through it as if it were not there, although one cannot see through it, and it blocks light.
 
 #### POISON (EMOTION)
+
+POISON (EMOTION) #Cypher #Manifest #Core 
 
 Level: 1d6 + 2
 
@@ -22268,6 +22448,8 @@ Effect: The victim feels a specific emotion for one hour. Roll a d100 to determi
 
 #### POISON (EXPLOSIVE)
 
+POISON (EXPLOSIVE) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 1
 
 Effect: Once this substance enters the bloodstream, it travels to the brain and reorganizes into an explosive that detonates when activated, inflicting 10 points of damage (ignores Armor). Roll a d100 to determine what activates the poison.
@@ -22283,6 +22465,8 @@ Effect: Once this substance enters the bloodstream, it travels to the brain and 
 |81–00|The victim is no longer within long range of the detonator.|
 
 #### POISON (MIND CONTROLLING)
+
+POISON (MIND CONTROLLING) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22300,11 +22484,15 @@ Effect: The victim must carry out a specific action in response to a specific tr
 
 #### POISON (MIND DISRUPTING)
 
+POISON (MIND DISRUPTING) #Cypher #Manifest #Core 
+
 Level: 1d6 + 2
 
 Effect: The victim suffers Intellect damage equal to the cypher’s level and cannot take actions for a number of rounds equal to the cypher’s level.
 
 #### PSYCHIC COMMUNIQUE
+
+PSYCHIC COMMUNIQUE #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22313,11 +22501,15 @@ one-way telepathic message of up to ten words per cypher level, with an unlimite
 
 #### RADIATION SPIKE
 
+RADIATION SPIKE #Cypher #Manifest #Core 
+
 Level: 1d6 + 4
 
 Effect: Delivers a powerful burst of radiation that disrupts the tissue of any creature touched, inflicting damage equal to the cypher’s level.
 
 #### RAY EMITTER
+
+RAY EMITTER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22342,11 +22534,15 @@ Effect: Allows the user to project a ray of destructive energy up to very long r
 
 #### RAY EMITTER (COMMAND)
 
+RAY EMITTER (COMMAND) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that forces a target to obey the next verbal command given (if it is understood) for one round per cypher level.
 
 #### RAY EMITTER (FEAR)
+
+RAY EMITTER (FEAR) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22354,11 +22550,15 @@ Effect: Allows the user to project a ray up to long range (very long range if th
 
 #### RAY EMITTER (FRIEND SLAYING)
 
+RAY EMITTER (FRIEND SLAYING) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that causes the target to attack its nearest ally for one round.
 
 #### RAY EMITTER (MIND DISRUPTING)
+
+RAY EMITTER (MIND DISRUPTING) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22366,11 +22566,15 @@ Effect: Allows the user to project a ray of destructive energy up to very long r
 
 #### RAY EMITTER (NUMBING)
 
+RAY EMITTER (NUMBING) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: Allows the user to project a ray of energy up to long range (very long range if the cypher is level 6 or higher) that numbs one limb of the target, making it useless for one minute. A small number of these devices (5%) induce numbness that lasts for one hour.
 
 #### RAY EMITTER (PARALYSIS)
+
+RAY EMITTER (PARALYSIS) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22378,17 +22582,23 @@ Effect: Allows the user to project a ray of energy up to very long range that pa
 
 #### REALITY SPIKE
 
+REALITY SPIKE #Cypher #Fantastic #Core 
+
 Level: 1d6 + 4
 
 Effect: Once activated, the cypher does not move—ever—even if activated in midair. A Might action will dislodge it, but then it is ruined.
 
 #### REFLEX ENHANCER
 
+REFLEX ENHANCER #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: All tasks involving manual dexterity—such as pickpocketing, lockpicking, juggling, operating on a patient, defusing a bomb, and so on—are eased by two steps for one hour.
 
 #### REJUVENATOR
+
+REJUVENATOR #Cypher #Subtle #Core 
 
 Level: 1d6 + 2
 
@@ -22402,11 +22612,15 @@ Effect: Restores a number of points equal to the cypher’s level to one random 
 
 #### REMEMBERING
 
+REMEMBERING #Cypher #Subtle #Core 
+
 Level: 1d6
 
 Effect: Allows the user to recall any one experience they’ve ever had. The experience can be no longer than one minute per cypher level, but the recall is perfect, so (for example) if they saw someone dial a phone, they will remember the number.
 
 #### REMOTE VIEWER
+
+REMOTE VIEWER #Cypher #Manifest #Core 
 
 Level: 1d6
 
@@ -22414,11 +22628,15 @@ Effect: For one hour per cypher level, the user can see everything going on in t
 
 #### REPAIR UNIT
 
+REPAIR UNIT #Cypher #Fantastic #Core 
+
 Level: 1d10
 
 Effect: The cypher becomes a multiarmed sphere that floats. It repairs one designated item (of its own level or lower) that has been damaged but not destroyed. The repair unit can also create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device except for the specialized part). Repair time is 1d100 + 20 minutes.
 
 #### REPEATER
+
+REPEATER #Cypher #Fantastic #Core 
 
 Level: 1d6 + 1
 
@@ -22426,11 +22644,15 @@ Effect: For the next minute, the user’s ranged weapon fires one additional tim
 
 #### REPEL
 
+REPEL #Cypher #Subtle #Core 
+
 Level: 1d6 + 1
 
 Effect: One NPC within immediate range who is of a level lower than the cypher decides to leave, using their next five rounds to move away quickly.
 
 #### RETALIATION
+
+RETALIATION #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22438,11 +22660,15 @@ Effect: For the next day, anyone striking the user receives a small burst of ele
 
 #### SECRET
 
+SECRET #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: The user can ask the GM one question and get a general answer. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. Generally, knowledge that a PC could find by looking somewhere other than their current location is level 1, and obscure knowledge of the past is level 7. Gaining knowledge of the future is level 10, and such knowledge is always open to interpretation. The cypher cannot provide an answer to a question above its level.
 
 #### SHEEN
+
+SHEEN #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22450,17 +22676,23 @@ Effect: For one week, the user’s cells are coated with a protective veneer tha
 
 #### SHOCK ATTACK
 
+SHOCK ATTACK #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: For the next day, each time the user strikes a solid creature or object, the attack generates a burst of electricity, inflicting 1 additional point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher).
 
 #### SHOCKER
 
+SHOCKER #Cypher #Manifest #Core 
+
 Level: 1d6 + 4
 
 Effect: Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher’s level.
 
 #### SKILL BOOST
+
+SKILL BOOST #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22485,11 +22717,15 @@ Effect: Dramatically but temporarily alters the user’s mind and body so they c
 
 #### SLAVE MAKER
 
+SLAVE MAKER #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: To activate the cypher, the user must succeed on a melee attack against a creature about the size of the user and whose level does not exceed the cypher’s level. The cypher bonds to the target, who immediately becomes calm. The target awaits the user’s commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher’s level minus the target’s level. (If the result is 0, the target is enslaved for only one minute.)
 
 #### SLEEP INDUCER
+
+SLEEP INDUCER #Cypher #Manifest #Core 
 
 Level: 1d6
 
@@ -22497,17 +22733,23 @@ Effect: Touch puts the victim to sleep for ten minutes per cypher level or until
 
 #### SNIPER MODULE
 
+SNIPER MODULE #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: For the next hour per cypher level, the effective range of the user’s ranged weapon increases by one category (immediate to short, short to long, long to very long, very long to 1,000 feet [300 m]). A weapon with a range greater than very long has its range doubled.
 
 #### SOLVENT
 
+SOLVENT #Cypher #Manifest #Core 
+
 Level: 1d10
 
 Effect: Dissolves 1 cubic foot of material each round. After one round per cypher level, the cypher becomes inert.
 
 #### SONIC HOLE
+
+SONIC HOLE #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22517,11 +22759,15 @@ Effect: Draws all sound within long range into the device for one round per cyph
 
 #### SOUND DAMPENER
 
+SOUND DAMPENER #Cypher #Fantastic 
+
 Level: 1d6 + 2
 
 Effect: Dampens all sound within immediate range for one minute per cypher level, providing an asset on stealth actions by all creatures in the area.
 
 #### SPATIAL WARP
+
+SPATIAL WARP #Cypher #Fantastic #Core 
 
 Level: 1d6 + 4
 
@@ -22529,11 +22775,15 @@ Effect: When affixed to a device that affects a single target at range, that ran
 
 #### SPEED BOOST
 
+SPEED BOOST #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: Adds 1 to the user’s Speed Edge for one hour (adds 2 if the cypher is level 5 or higher).
 
 #### SPY
+
+SPY #Cypher #Manifest #Core 
 
 Level: 1d6 + 2
 
@@ -22541,11 +22791,15 @@ Effect: Produces a tiny spying object that resists detection as a level 8 creatu
 
 #### STASIS KEEPER
 
+STASIS KEEPER #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: Puts a subject into stasis for a number of days equal to the cypher’s level, or until it is violently disturbed. An object in stasis does not age and comes out of the stasis alive and in the same condition as it went in, with no memory of the period of inactivity.
 
 #### STIM
+
+STIM #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22553,11 +22807,15 @@ Effect: Eases the user’s next action taken by three steps.
 
 #### STRENGTH BOOST
 
+STRENGTH BOOST #Cypher #Subtle #Core 
+
 Level: 1d6 + 2
 
 Effect: Adds 1 to Might Edge for one hour (or 2 if the cypher is level 5 or higher).
 
 #### STRENGTH ENHANCER
+
+STRENGTH ENHANCER #Cypher #Subtle #Core 
 
 Level: 1d6
 
@@ -22565,12 +22823,15 @@ Effect: All noncombat tasks involving raw strength—such as breaking down a doo
 
 #### SUBDUAL FIELD
 
+SUBDUAL FIELD #Cypher #Fantastic #Core 
+
 Level: 1d6 + 3
 
 Effect: Two rounds after being activated, the device creates an invisible field that fills a specified area (such as a cube a short distance across) within long range. The field lasts for one minute. It affects the minds of thinking beings within the field, preventing them from taking hostile actions. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it).
 
 #### TELEPATHY
 
+TELEPATHY #Cypher #Fantastic #Core 
 Level: 1d6 + 2
 
 Effect: For one hour, the device enables  
@@ -22578,11 +22839,15 @@ long-range mental communication with anyone the user can see.
 
 #### TELEPORTER (BOUNDER)
 
+TELEPORTER (BOUNDER) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: User teleports up to 100 × the cypher level in feet to a location they can see. They arrive safely with their possessions but cannot take anything else with them.
 
 #### TELEPORTER (INTERSTELLAR)
+
+#Cypher #Fantastic #Core 
 
 Level: 1d6 + 4
 
@@ -22590,11 +22855,15 @@ Effect: User teleports anywhere in the galaxy to a location they have previously
 
 #### TELEPORTER (PLANETARY)
 
+TELEPORTER (PLANETARY) #Cypher #Fantastic #Core 
+
 Level: 1d6 + 4
 
 Effect: User teleports anywhere on the planet to a location they have previously visited or seen. They arrive safely with their possessions but cannot take anything else with them.
 
 #### TELEPORTER (TRAVELER)
+
+TELEPORTER (TRAVELER) #Cypher #Fantastic #Core 
 
 Level: 1d6 + 4
 
@@ -22602,11 +22871,15 @@ Effect: User teleports up to 100 × the cypher level in miles to a location they
 
 #### TEMPORAL VIEWER
 
+TEMPORAL VIEWER #Cypher #Fantastic #Core 
+
 Level: 1d6 + 4
 
 Effect: Displays moving images and sound, up to ten minutes per cypher level in length, depicting events that occurred at the current location up to one year prior. The user specifies the time period shown by the viewer.
 
 #### TIME DILATION (DEFENSIVE)
+
+TIME DILATION (DEFENSIVE) #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22614,11 +22887,15 @@ Effect: For the next twenty-four hours, when the user is attacked, they move in 
 
 #### TIME DILATION (OFFENSIVE)
 
+TIME DILATION (OFFENSIVE) #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: For the next twenty-four hours, when the user makes a melee attack, they move at almost instantaneous speed, easing their attacks by two steps (three steps if the cypher is level 6 or higher).
 
 #### TISSUE REGENERATION
+
+TISSUE REGENERATION #Cypher #Subtle #Core 
 
 Level: 1d6 + 4
 
@@ -22628,11 +22905,15 @@ Effect: For the next hour, the user regains 1 point lost to damage per round, up
 
 #### TRACER
 
+TRACER #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: Fires a microscopic tracer that clings to any surface within short range. For the next twenty-four hours, the launcher shows the distance and direction to the tracer, as long as it is within 1 mile (100 miles if the cypher is level 3 or higher, in the same dimension if the cypher is level 6 or higher).
 
 #### TRICK EMBEDDER
+
+TRICK EMBEDDER #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22640,17 +22921,23 @@ Effect: A nonintelligent animal immediately and perfectly learns one trick (two 
 
 #### UNINTERRUPTIBLE POWER SOURCE
 
+UNINTERRUPTIBLE POWER SOURCE #Cypher #Manifest #Core 
+
 Level: 1d6 + 4
 
 Effect: Provides power to another device for up to a day. The device to be powered can be as simple as a light source or as complex as a small starcraft, assuming the cypher’s level is equal to the item’s power requirements. A desk lamp is a level 1 power requirement, a car engine is a level 5 power requirement, and a starship is a level 10 power requirement.
 
 #### VANISHER
 
+VANISHER #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: The user becomes invisible for five minutes per cypher level, during which time they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position.
 
 #### VISAGE CHANGER
+
+VISAGE CHANGER #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22659,11 +22946,15 @@ human-sized creature, providing an asset to disguise tasks (easing them by two s
 
 #### VISUAL DISPLACEMENT DEVICE
 
+VISUAL DISPLACEMENT DEVICE #Cypher #Fantastic #Core 
+
 Level: 1d6
 
 Effect: Projects holographic images of the user to confuse attackers. The images appear around the user, giving them an asset to Speed defense actions for ten minutes per cypher level.
 
 #### VOCAL TRANSLATOR
+
+VOCAL TRANSLATOR #Cypher #Fantastic #Core 
 
 Level: 1d6
 
@@ -22671,17 +22962,23 @@ Effect: For twenty-four hours per cypher level, translates everything said by th
 
 #### WARMTH
 
+WARMTH #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: Keeps the user warm and comfortable, even in the harshest cold temperatures, for twenty-four hours. During this time, the user has Armor equal to the cypher’s level that protects against cold damage.
 
 #### WATER ADAPTER
 
+WATER ADAPTER #Cypher #Manifest #Core 
+
 Level: 1d6
 
 Effect: The user can breathe underwater and operate at any depth (without facing the debilitating consequences of changing pressure) for four hours per cypher level. This cypher can also be used in the regular atmosphere, allowing the user to ignore ill effects from very low or very high atmospheric pressure. The cypher does not protect against vacuum.
 
 #### WEAPON ENHANCEMENT
+
+WEAPON ENHANCEMENT #Cypher #Fantastic #Core 
 
 Level: 1d6 + 2
 
@@ -22706,17 +23003,23 @@ Effect: Modifies a weapon’s attack in a particular fashion for ten minutes per
 
 #### WINGS
 
+WINGS #Cypher #Fantastic #Core 
+
 Level: 1d6 + 2
 
 Effect: User can fly at their normal running speed for ten minutes per cypher level.
 
 #### X-RAY VIEWER
 
+X-RAY VIEWER #Cypher #Manifest #Core 
+
 Level: 1d6 + 4
 
 Effect: Allows the user to see through up to 2 feet (60 cm) of material of a level lower than the cypher. The effect lasts for one minute per cypher level.
 
 #### ZERO POINT FIELD
+
+ZERO POINT FIELD #Cypher #Fantastic #Core 
 
 Level: 1d6 + 3
 
@@ -22732,11 +23035,15 @@ Power boost cyphers are a special type of cypher. In some Cypher System games, t
 
 #### AREA BOOST
 
+AREA BOOST #Cypher #Core 
+
 Level: 1d6 + 1
 
 Effect: This cypher boosts an ability that affects a single target. The ability expands the effect so it includes the immediate area around that target. If the ability normally affects an immediate area, the area becomes short. Short areas are increased to long. Long areas are increased to very long. Abilities with very long areas become 1,000-foot (300 m) areas. All other areas double in radius.
 
 #### BURST BOOST
+
+BURST BOOST #Cypher #Core 
 
 Level: 1d6 + 2
 
@@ -22744,11 +23051,15 @@ Effect: This cypher boosts an ability that affects a single target at short rang
 
 #### DAMAGE BOOST
 
+DAMAGE BOOST #Cypher #Core 
+
 Level: 1d6 + 2
 
 Effect: This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher’s level.
 
 #### EFFICACY BOOST (MAJOR)
+
+EFFICACY BOOST (MAJOR) #Cypher #Core 
 
 Level: 1d6 + 1
 
@@ -22756,11 +23067,15 @@ Effect: This cypher boosts an ability that requires a skill roll. The use of the
 
 #### EFFICACY BOOST (MINOR)
 
+EFFICACY BOOST (MINOR) #Cypher #Core 
+
 Level: 1d6
 
 Effect: This cypher boosts an ability that requires a skill roll. The use of the ability is eased.
 
 #### ENERGY BOOST
+
+ENERGY BOOST #Cypher #Core 
 
 Level: 1d6
 
@@ -22768,11 +23083,15 @@ Effect: This cypher boosts an ability that has a stat Pool cost. The cost is red
 
 #### RANGE BOOST
 
+RANGE BOOST #Cypher #Core 
+
 Level: 1d6 + 1
 
 Effect: This cypher boosts the range of an ability. Something that affects only you can now affect someone you touch. Any other ability increases its range by one category (touch to immediate, immediate to short, short to long, long to very long, very long to 1,000 feet [300 m], or double for any range longer than very long).
 
-#### TARGET BOOST
+#### TARGET BOOST 
+
+TARGET BOOST #Cypher #Core 
 
 Level: 1d6 + 2
 

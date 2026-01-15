@@ -46,9 +46,9 @@ Core
 		- [x] Action: Do Something else
 		- [x] Followers
 	- [x] Experience Points
-- [ ] Game Mastering
+- [x] Game Mastering
 	- [x] Creatures and NPC
-	- [ ] Cyphers
+	- [x] Cyphers
 	- [x] Running the Cypher System
 - [ ] Cutting and Linking
 Genres
@@ -253,13 +253,10 @@ All Cards follow the following principles :
 	- Cypher type if applicable : 
 		- #Subtle 
 		- #Manifest 
-		- #Normal 
 		- #Fantastic 
-		- Those should be viewed as restrictions, if no tags then this Cypher could be anything.
-			- If tagged subtle, it cannot be manifest. If tagged Fantastic, it's not Normal.
 	- Genre tags
 - Level block : "Level : " then the level or level roll
-- Form block : "Form : " Then a description of the forms it can take
+- Optional Form block : "Form : " Then a description of the forms it can take
 - Effect block : "Effect : " Then a freeform description of the effect when activated
 
 ### Artefact
