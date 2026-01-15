@@ -185,6 +185,7 @@ All Cards follow the following principles :
 	- Following lines are a bullet point list containing only abilities available for tier
 
 ### Descriptor
+
 - Tagline should be :
 	- Descriptor name(s) 
 	- #Descriptor 
@@ -280,17 +281,18 @@ All Cards follow the following principles :
 	- Creature level as a tag, then a space, then target number in parenthesis : #lvl1 (3) #lvl2 (6)...
 	- #Creature or #NPC If in doubt, use #Creature 
 	- Genre Tags
-- Optional Description block as freeform text
-- Optional "Motive : " then freeform text
-- Optional "Environment : " then freeform text
-- Optional "Damage Inflicted : " then freeform text
-- Optional "Armor : " then freeform text
-- Optional "Movement : " then freeform text
-- Optional "Modifications : " then freeform text
-- Optional "Combat : " then freeform text
-- Optional "Interaction : " then freeform text
+- Optional Description paragraph(s) freeform text
+- Optional "Motive: " then freeform text
+- Optional "Environment: " then freeform text
+- Optional "Health: " then freeform text (often just number)
+- Optional "Damage Inflicted: " then freeform text
+- Optional "Armor: " then freeform text (often just number)
+- Optional "Movement: " then freeform text
+- Optional "Modifications: " then freeform text
+- Optional "Combat: " then freeform text
+- Optional "Interaction: " then freeform text
 - Optional "Use : " then freeform text
-- Optional "GM intrusion : " then freeform text
+- Optional "GM intrusion: " then freeform text
 
 ## Other (freeform)
 
