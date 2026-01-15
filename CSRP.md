@@ -165,40 +165,31 @@ Rolling a natural 1 is always bad. It means that the GM introduces a new complic
 
 ## GLOSSARY
 
-### Game master (GM)
-
+**Game master (GM)**
 The player who doesn’t run a character, but instead guides the flow of the story and runs all the NPCs.
 
-### Nonplayer character (NPC)
-
+**Nonplayer character (NPC)**
 Characters run by the GM. Think of them as the minor characters in the story, or the villains or opponents. This includes any kind of creature as well as people.
 
-### Party
-
+**Party**
 A group of player characters (and perhaps some NPC allies).
 
-### Player character (PC)
-
+**Player character (PC)**
 A character run by a player rather than the GM. Think of the PCs as the main characters in the story.
 
-### Player
-
+**Player**
 The players who run characters in the game.
 
-### Session
-
+**Session**
 A single play experience. Usually lasts a few hours. Sometimes one adventure can be accomplished in a session. More often, one adventure is multiple sessions.
 
-### Adventure
-
+**Adventure**
 A single portion of the campaign with a beginning and an end. Usually defined at the beginning by a goal put forth by the PCs and at the end by whether or not they achieve that goal.
 
-### Campaign
-
+**Campaign**
 A series of sessions strung together with an overarching story (or linked stories) with the same player characters. Often, but not always, a campaign involves a number of adventures.
 
-### Character
-
+**Character**
 Anything that can act in the game. Although this includes PCs and human NPCs, it also technically includes creatures, aliens, mutants, automatons, animate plants, and so on. The word “creature” is usually synonymous.
 
 ## RANGE AND SPEED
@@ -232,7 +223,7 @@ The GM can also give players XP between sessions as a reward for making discover
 
 Experience points are used primarily for character advancement (for details, see the Creating Your Character chapter), but a player can also spend 1 XP to reroll any die roll and take the better of the two rolls.
 
-## CYPHERS BASICS
+## CYPHERS
 
 Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t physical objects—they might be a spell cast upon a character, a blessing from a god, or just a quirk of fate that gives them a momentary advantage. In some campaigns, cyphers are physical objects that characters can carry. Whether or not cyphers are physical objects, they are part of the character (like equipment or a special ability) and are things characters can use during the game. The form that physical cyphers take depends on the setting. In a fantasy world they might be wands or potions, but in a science fiction game they could be alien crystals or prototype devices.
 
@@ -362,9 +353,9 @@ Select a new type-based ability from your tier or a lower tier.
 
 ### CHARACTER DESCRIPTOR, TYPE, AND FOCUS
 
-To create your character, you build a simple statement that describes them. The statement takes this form: “I am a [fill in an adjective here] [fill in a noun here] who [fill in a verb here].”
+To create your character, you build a simple statement that describes them. The statement takes this form: “I am a \[fill in an adjective here\] \[fill in a noun here\] who \[fill in a verb here\].”
 
-Thus: “I am an _adjective noun_ who _verbs_.” For example, you might say, “I am a Rugged Warrior who Controls Beasts” or “I am a Charming Explorer who Focuses Mind Over Matter.”
+Thus: “I am an *adjective* *noun* who *verbs*.” For example, you might say, “I am a Rugged Warrior who Controls Beasts” or “I am a Charming Explorer who Focuses Mind Over Matter.”
 
 In this sentence, the adjective is called your descriptor.
 
@@ -581,8 +572,7 @@ Weapon Break: Your foe’s weapon has a weak spot. In the course of the combat, 
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-**FIRST-TIER WARRIOR**
-
+**FIRST-TIER WARRIOR**  
 First-tier warriors have the following abilities:
 - Effort: Your Effort is 1.
 - Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
@@ -590,7 +580,7 @@ First-tier warriors have the following abilities:
 - Weapons: You become practiced with light, medium, and heavy weapons and suffer no penalty when using any kind of weapon. Enabler.
 - Starting Equipment: Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.
 
-Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.  
 - Bash
 - Combat Prowess
 - Control the Field
@@ -603,9 +593,8 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Swipe
 - Trained Without Armor
 
-**SECOND-TIER WARRIOR**
-
-Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+**SECOND-TIER WARRIOR**  
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.  
 - Crushing Blow
 - Hemorrhage
 - Reload
@@ -613,9 +602,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Skill With Defense
 - Successive Attack
 
-**THIRD-TIER WARRIOR**
-
-Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+**THIRD-TIER WARRIOR**  
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.  
 - Deadly Aim
 - Energy Resistance
 - Experienced in Armor
@@ -629,8 +617,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Trick Shot
 - Vigilance
 
-**FOURTH-TIER WARRIOR**
-
+**FOURTH-TIER WARRIOR**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Amazing Effort
 - Capable Warrior
@@ -642,9 +629,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Snipe
 - Tough As Nails
 
-**FIFTH-TIER WARRIOR**
-
-Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+**FIFTH-TIER WARRIOR**  
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.  
 - Adroit Cypher Use
 - Arc Spray
 - Improved Success
@@ -656,8 +642,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 (Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.)
 
-**SIXTH-TIER WARRIOR**
-
+**SIXTH-TIER WARRIOR**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
 - Finishing Blow
@@ -666,8 +651,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Spin Attack
 - Weapon and Body
 
-**WARRIOR EXAMPLE**
-
+**WARRIOR EXAMPLE**  
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
 He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
@@ -752,8 +736,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.|
 |20|You belong to a secretive social club that gathers monthly to drink and talk.|
 
-**FIRST-TIER ADEPT**
-
+**FIRST-TIER ADEPT**  
 First-tier Adepts have the following abilities:
 - Effort: Your Effort is 1.
 - Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
@@ -774,8 +757,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Shatter
 - Ward
 
-**SECOND-TIER ADEPT**
-
+**SECOND-TIER ADEPT**  
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adaptation
 - Cutting Light
@@ -785,8 +767,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Reveal
 - Stasis
 
-**THIRD-TIER ADEPT**
-
+**THIRD-TIER ADEPT**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Countermeasures
@@ -796,8 +777,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Sensor
 - Targeting Eye
 
-**FOURTH-TIER ADEPT**
-
+**FOURTH-TIER ADEPT**  
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Death Touch
 - Exile
@@ -810,8 +790,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Reshape
 - Wormhole
 
-**FIFTH-TIER ADEPT**
-
+**FIFTH-TIER ADEPT**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Absorb Energy
 - Concussion
@@ -823,8 +802,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Teleportation
 - True Senses
 
-**SIXTH-TIER ADEPT**
-
+**SIXTH-TIER ADEPT**  
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Control Weather
 - Earthquake
@@ -832,7 +810,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Traverse the Worlds
 - Usurp Cypher
 
-**ADEPT EXAMPLE**
+**ADEPT EXAMPLE**  
 
 Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
 
@@ -887,7 +865,8 @@ Weak Strain: The poison or disease turns out not to be as debilitating or deadly
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-**Explorer Background Connection**
+**Explorer Background Connection**  
+
 Your type helps determine the connection you have to the setting. Roll a d20 or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
 |d20|Background|
@@ -913,8 +892,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|Your sister owns a store and gives you a hefty discount.|
 |20|Your father is a high-ranking officer in the military with many connections.|
 
-**FIRST-TIER EXPLORER**
-
+**FIRST-TIER EXPLORER**  
 First-tier Explorers have the following abilities:
 - Effort: Your Effort is 1.
 - Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an Intellect Edge of 0.
@@ -939,8 +917,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Surging Confidence
 - Trained Without Armor
 
-**SECOND-TIER EXPLORER**
-
+**SECOND-TIER EXPLORER**  
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Curious
 - Danger Instinct
@@ -957,8 +934,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 - Travel Skills
 - Wreck
 
-**THIRD-TIER EXPLORER**
-
+**THIRD-TIER EXPLORER**  
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Controlled Fall
 - Experienced in Armor
@@ -974,8 +950,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Trapfinder
 - Wrest From Chance
 
-**FOURTH-TIER EXPLORER**
-
+**FOURTH-TIER EXPLORER**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Capable Warrior
 - Expert Skill
@@ -985,8 +960,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Subtle Steps
 - Tough As Nails
 
-**FIFTH-TIER EXPLORER**
-
+**FIFTH-TIER EXPLORER**  
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Free to Move
@@ -999,8 +973,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Take Command
 - Vigilant
 
-**SIXTH-TIER EXPLORER**
-
+**SIXTH-TIER EXPLORER**  
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
 - Inspire Coordinated Actions
@@ -1011,7 +984,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Spin Attack
 - Wild Vitality
 
-**EXPLORER EXAMPLE**
+**EXPLORER EXAMPLE**  
 
 Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.
 
@@ -1047,6 +1020,7 @@ Societal Role: Speakers are frequently political or religious leaders. Just as o
 Advanced Speakers: Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
 **SPEAKER PLAYER INTRUSIONS**
+
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
 Friendly NPC: An NPC you don’t know, someone you don’t know that well, or someone you know but who hasn’t been particularly friendly in the past chooses to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a favor in return afterward, depending on how much trouble they go to.
@@ -1092,8 +1066,7 @@ Your type helps determine the connection you have to the setting. Roll a d20 or 
 |19|You are in a close romantic relationship with someone in local politics.|
 |20|Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.|
 
-**FIRST-TIER SPEAKER**
-
+**FIRST-TIER SPEAKER**  
 First-tier speakers have the following abilities:
 - Effort: Your Effort is 1.
 - Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
@@ -1117,8 +1090,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Terrifying Presence
 - Understanding
 
-**SECOND-TIER SPEAKER**
-
+**SECOND-TIER SPEAKER**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Basic Follower
 - Calm Stranger
@@ -1132,8 +1104,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Speedy Recovery
 - Unexpected Betrayal
 
-**THIRD-TIER SPEAKER**
-
+**THIRD-TIER SPEAKER**  
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Accelerate
 - Blend In
@@ -1148,8 +1119,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Quick Wits
 - Telling
 
-**FOURTH-TIER SPEAKER**
-
+**FOURTH-TIER SPEAKER**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Anticipate Attack
 - Confounding Banter
@@ -1161,8 +1131,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Strategize
 - Suggestion
 
-**FIFTH-TIER SPEAKER**
-
+**FIFTH-TIER SPEAKER**  
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Discipline of Watchfulness
@@ -1174,8 +1143,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Skill With Attacks
 - Stimulate
 
-**SIXTH-TIER SPEAKER**
-
+**SIXTH-TIER SPEAKER**  
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Assume Control
 - Battle Management
@@ -1222,24 +1190,21 @@ Stealth #Flavor #Core
 
 Characters with the stealth flavor are good at sneaking around, infiltrating places they don’t belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.
 
-**FIRST-TIER STEALTH ABILITIES**
-
+**FIRST-TIER STEALTH ABILITIES**  
 - Danger Sense
 - Goad
 - Legerdemain
 - Opportunist
 - Stealth Skills
 
-**SECOND-TIER STEALTH ABILITIES**
-
+**SECOND-TIER STEALTH ABILITIES**  
 - Contortionist
 - Find an Opening
 - Get Away
 - Sense Ambush
 - Surprise Attack
 
-**THIRD-TIER STEALTH ABILITIES**
-
+**THIRD-TIER STEALTH ABILITIES**  
 - Evanesce
 - From the Shadows
 - Gambler
@@ -1248,23 +1213,20 @@ Characters with the stealth flavor are good at sneaking around, infiltrating pla
 - Run and Fight
 - Seize the Moment
 
-**FOURTH-TIER STEALTH ABILITIES**
-
+**FOURTH-TIER STEALTH ABILITIES**  
 - Ambusher
 - Debilitating Strike
 - Outwit
 - Preternatural Senses
 - Tumbling Moves
 
-**FIFTH-TIER STEALTH ABILITIES**
-
+**FIFTH-TIER STEALTH ABILITIES**  
 - Assassin Strike
 - Mask
 - Return to Sender
 - Uncanny Luck
 
-**SIXTH-TIER STEALTH ABILITIES**
-
+**SIXTH-TIER STEALTH ABILITIES**  
 - Exploit Advantage
 - Spring Away
 - Thief’s Luck
@@ -16532,17 +16494,12 @@ Pet: Any PC can potentially gain a pet, though a pet typically doesn’t provide
 
 #### BREATHING LIFE INTO FOLLOWERS
 
-The modifications provided by followers could come across as fairly dry and mechanical. To avoid that, you could present each follower in a way that makes them more compelling and interesting. Here are a few examples of how to describe a follower, depending on their mix of modifications.
-
-A firebrand diplomat able to convince an enemy horde to back down.
-
-A veteran commander whose presence bolsters the entire community’s military might.
-
-A genius medic who invigorates everyone with their healing techniques.
-
-An imaginative architect whose works both beautify and defend the city.
-
-A tricky spy whose intelligence on enemy movements is invaluable.
+The modifications provided by followers could come across as fairly dry and mechanical. To avoid that, you could present each follower in a way that makes them more compelling and interesting. Here are a few examples of how to describe a follower, depending on their mix of modifications.  
+- A firebrand diplomat able to convince an enemy horde to back down.
+- A veteran commander whose presence bolsters the entire community’s military might.
+- A genius medic who invigorates everyone with their healing techniques.
+- An imaginative architect whose works both beautify and defend the city.
+- A tricky spy whose intelligence on enemy movements is invaluable.
 
 ## Experience Points
 
@@ -16651,27 +16608,23 @@ Wealth: The PC comes into a considerable amount of wealth, whether it’s a wind
 
 Progressing to the next tier involves four steps. When a PC has spent 4 XP on each of the steps, they advance to the next tier and gain all the type and focus benefits of that tier. The four steps can be purchased in any order, but each can be purchased only once per tier. In other words, a PC must buy all four steps and advance to the next tier before they can buy the same steps again.
 
-Increasing Capabilities: You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.
+- Increasing Capabilities: You gain 4 new points to add to your stat Pools. You can allocate the points among your Pools however you wish.
 
-Moving Toward Perfection: You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
+- Moving Toward Perfection: You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
 
-Extra Effort: Your Effort score increases by 1.
+- Extra Effort: Your Effort score increases by 1.
 
-Skills: Choose one skill other than attacks or defense, such as climbing, jumping, persuading, sneaking, or history. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it.
+- Skills: Choose one skill other than attacks or defense, such as climbing, jumping, persuading, sneaking, or history. You become trained in that skill. You can also choose to be knowledgeable in a certain area of study, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in that ability, easing the task of using it.  
+	
+	If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren’t eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.  
 
-If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren’t eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.
+	(Once you’re specialized in a skill, you can’t improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don’t count as an asset or training.)  
 
-(Once you’re specialized in a skill, you can’t improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don’t count as an asset or training.)
-
-Other Options: Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier. The other three need to be from the other categories. The special options are as follows:
-
-Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.
-
-Add 2 to your recovery rolls.
-
-Select another focus ability available to you at tier 3. (You must be tier 3 or higher to do this. Characters advancing beyond tier 6 can use this option to select their other tier 6 focus ability.)
-
-Select another character ability from your type, such as a tier 2 Warrior selecting Reload or Crushing Blow.
+- Other Options: Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier. The other three need to be from the other categories. The special options are as follows:
+	- Reduce the cost for wearing armor. This option lowers the Speed penalty for wearing armor by 1.
+	- Add 2 to your recovery rolls.
+	- Select another focus ability available to you at tier 3. (You must be tier 3 or higher to do this. Characters advancing beyond tier 6 can use this option to select their other tier 6 focus ability.)
+	- Select another character ability from your type, such as a tier 2 Warrior selecting Reload or Crushing Blow.
 
 ### EQUAL ADVANCEMENT
 
@@ -17117,7 +17070,7 @@ Unlike many creatures in this chapter, normal animals are simple and understanda
 - Rat: level 1
 - Rattlesnake: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
 
-### CREATURES AND NPCs BY LEVEL
+### FANTASY CREATURES AND NPCs BY LEVEL
 
 |Level|Name|
 |---|---|
@@ -20150,6 +20103,57 @@ Use: The characters are asked to clear out a space that once served as an old mi
 
 GM intrusion: When the character fails to kill a zombie by rolling an odd number on an attack that otherwise would have been successful, in addition to the normal effect, the zombie’s arm comes free and animates as a separate level 2 zombie.
 
+### OTHER CREATURES AND NPCs FOR A FANTASY GAME
+
+- Bat: level 1
+- Black bear: level 3, attacks as level 4
+- Blacksmith: level 2, metalworking as level 4; health 8
+- Cat: level 1, Speed defense as level 3 due to size and quickness
+- Catfolk: level 3, balancing and climbing as level 4; damage inflicted 4 points
+- Centaur: level 4; health 15; moves a long distance each round
+- Crocodile: level 4; Armor 1; swims a short distance each round
+- Dire wolf: level 4, attacks and perception as level 5; Armor 1
+- Dog: level 2, perception as level 3
+- Dog, guard: level 3, attacks and perception as level 4
+- Elephant: level 5; health 20; Armor 1
+- Farmer: level 2, animal handling as level 3; health 8
+ - Gargoyle: level 3; Armor 5; damage inflicted 5 points; flies a short distance each round
+- Giant ape: level 3, climbing and attacks as level 4
+- Giant crab: level 6; Armor 4; pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
+- Giant frog: level 3
+- Giant octopus: level 5, Might defense and stealth as level 6; health 25; attacks four times as an action
+- Giant scorpion: level 4; Armor 2; damage inflicted 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
+- Giant snake: level 4; health 18; Armor 2; damage inflicted 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
+- Gnoll: level 2, Speed defense as level 3 due to shield; health 8; Armor 2
+- Gorilla: level 2, attacks as level 3; damage inflicted 3 points
+- Griffon: level 4, perception as level 5; Armor 1; flies a long distance each round
+- Grizzly bear: level 5; health 20; Armor 1
+- Hawk: level 2; flies a long distance each round
+- Hippogryph: level 3, attacks as level 4; flies a long distance each round.
+- Horse: level 3; moves a long distance each round
+- Leopard: level 4; climbing, jumping, stealth, and attacks as level 5; Armor 1
+- Lion or tiger: level 5, attacks as level 6; Armor 1
+- Lizardfolk: level 3; Armor 1
+- Merchant: level 2, haggling and assessment tasks as level 3
+- Mummy: level 6; ancient history, ancient religion, climbing, and stealth as level 8; health 24; Armor 2; damage inflicted 7 points
+- Nymph: level 3, stealth and positive social interactions as level 6
+- Pegasus: level 3, Speed defense as level 4; moves or flies a long distance each round
+- Pterodactyl: level 3; Armor 1; flies a long distance each round
+- Rat: level 1
+- Roc: level 6; health 25; Armor 2; flies a long distance each round; attacks twice as an action
+- Shark: level 3, attacks as level 4; health 15; Armor 2
+- Undead claw: level 1, attacks as level 3, Speed defense as level 3 due to quickness and size; health 5; Armor 1
+- Unicorn: level 4; Might defense, perception, and attacks as level 5; health 15; Armor 1; makes two attacks as its action; once per hour can teleport up to 1 mile; once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
+- Villager: level 1
+- Viper: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
+- Warhorse: level 4; moves a long distance each round
+- Werebear: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2
+- health per round (unless recently wounded by silver)
+- Wererat: level 3, Speed defense and stealth as level 4; regenerates 2 health per round (unless recently wounded by silver)
+- Wereshark: level 4, attacks as level 5; health 15; Armor 2; regenerates 2 health per round (unless recently wounded by silver)
+- Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
+- Wolf: level 3, perception as level 4
+- Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
 
 ## NPCs
 
@@ -24908,7 +24912,7 @@ AGE 14 TO 17
 - Youthful: –2 to your Might Pool.
 - Inability: Tasks involving knowledge are hindered.
 
-### Creatures
+## Creatures
 
 #### Basic CREATURES AND NPCs FOR A Modern GAME
 
@@ -24991,15 +24995,14 @@ In terms of game mechanics, an unprotected character in vacuum moves one step do
 
 **VACUUM GM INTRUSIONS**
 
-|   |   |
-|---|---|
- |d6|GM Intrusions (Choose Best Option)|
-|01|The character notices a crack in their space suit or ship. It’s not breached now, but may soon become a serious problem.|
-|02|A breach in another part of the ship or space station causes automatic safety pressure baffles to close that section off. A character might be caught in that area of the ship, or in an area of a descending baffle, which inflicts serious damage on the character (these things are made to resist obstructions and form a seal).|
-|03|A previously unknown crack in a space suit or ship begins to leak. It doesn’t cause a blow-out, but unless the crack can be repaired or sealed, those affected will eventually be exposed to vacuum.|
-|04|A catastrophic blow-out exposes the character or characters to vacuum. It may also send them spiraling out into the void, depending on the situation.|
-|05|Vacuum exposure causes the character to projectile vomit, effectively rendering them unable to take an action on their next turn.|
-|06|Vacuum exposure causes the character to go temporarily blind, which is only relieved a few minutes after normal atmosphere is restored.|
+| d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01  | The character notices a crack in their space suit or ship. It’s not breached now, but may soon become a serious problem.                                                                                                                                                                                                             |
+| 02  | A breach in another part of the ship or space station causes automatic safety pressure baffles to close that section off. A character might be caught in that area of the ship, or in an area of a descending baffle, which inflicts serious damage on the character (these things are made to resist obstructions and form a seal). |
+| 03  | A previously unknown crack in a space suit or ship begins to leak. It doesn’t cause a blow-out, but unless the crack can be repaired or sealed, those affected will eventually be exposed to vacuum.                                                                                                                                 |
+| 04  | A catastrophic blow-out exposes the character or characters to vacuum. It may also send them spiraling out into the void, depending on the situation.                                                                                                                                                                                |
+| 05  | Vacuum exposure causes the character to projectile vomit, effectively rendering them unable to take an action on their next turn.                                                                                                                                                                                                    |
+| 06  | Vacuum exposure causes the character to go temporarily blind, which is only relieved a few minutes after normal atmosphere is restored.                                                                                                                                                                                              |
 
 #### SPACE SUITS ARE FALLIBLE
 
@@ -25007,15 +25010,14 @@ Even if advanced tech or fantastic tech is available, space suits are susceptibl
 
 **SPACE SUITS GM INTRUSIONS**
 
-|   |   |
-|---|---|
-|d6|GM Intrusions (Choose Best Option)|
-|01|An ill-fitted suit (or one whose auto-fit function is malfunctioning) unexpectedly hinders the character’s action|
-|02|Mechanical joints in the suit freeze unexpectedly, hindering all the character’s actions (or completely paralyzing the character) until repairs can be made.|
-|03|A stuck valve causes the drinking water bulb to get stuck “on” and water begins filling the helmet. This could blind and/or drown the character if not dealt with|
-|04|Space sickness/a tumble/a spin nauseates the character. If they vomit in their helmet, they are blinded until such time as the helmet can be removed and cleaned.|
-|05|An electrical short from an external tool or piece of hardware fries the space suit’s electronics, limiting communication to helmet-tohelmet touch (if in a vacuum where sound doesn’t propagate), use of micro thrusters, and limits air supply to just a quarter of what was previously available.|
-|06|A bloated suit from an overpressure incident hinders all tasks, but is not lethal . . . until the suit won’t quite fit back into the airlock.|
+| d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                   |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | An ill-fitted suit (or one whose auto-fit function is malfunctioning) unexpectedly hinders the character’s action                                                                                                                                                                                    |
+| 02  | Mechanical joints in the suit freeze unexpectedly, hindering all the character’s actions (or completely paralyzing the character) until repairs can be made.                                                                                                                                         |
+| 03  | A stuck valve causes the drinking water bulb to get stuck “on” and water begins filling the helmet. This could blind and/or drown the character if not dealt with                                                                                                                                    |
+| 04  | Space sickness/a tumble/a spin nauseates the character. If they vomit in their helmet, they are blinded until such time as the helmet can be removed and cleaned.                                                                                                                                    |
+| 05  | An electrical short from an external tool or piece of hardware fries the space suit’s electronics, limiting communication to helmet-tohelmet touch (if in a vacuum where sound doesn’t propagate), use of micro thrusters, and limits air supply to just a quarter of what was previously available. |
+| 06  | A bloated suit from an overpressure incident hinders all tasks, but is not lethal . . . until the suit won’t quite fit back into the airlock.                                                                                                                                                        |
 
 #### EFFECTS OF ACCELERATION AND HIGH-G MANEUVERS
 
@@ -25025,15 +25027,14 @@ Of course, massive acceleration (or deceleration) is just plain lethal. Someone 
 
 **ACCELERATION AND HIGH-G MANEUVER GM INTRUSIONS**
 
-|   |   |
-|---|---|
-|d6|GM Intrusions (Choose Best Option)|
-|01|After high-G maneuvers, even with amelioration, tissue bruising results, giving the character black eyes, which take a few days to clear.|
-|02|While under high Gs, a tool or piece of equipment comes loose, accelerates through the craft, and strikes the character, inflicting damage. The bigger the tool and the farther it falls before striking the character, the more damage is inflicted, possibly including being knocked a step down the damage track.|
-|03|While under high Gs (or afterward), the character suffers minor cardiac problems, likely to grow worse over time (or until medical treatment is sought).|
-|04|While under high Gs (or afterward), a mild brain aneurysm causes the character to have a sudden headache and blurred vision, which hinders all vision-related tasks until medical treatment is received.|
-|05|While under high Gs (or afterward), the character begins to have a hard time breathing. The reason is that a lung or lungs have partially collapsed. All tasks are hindered by two steps until the character dies after several hours or until medical treatment is received.|
-|06|The character has a stroke, and descends two steps on the damage track. They remain debilitated until medical treatment is received|
+| d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | After high-G maneuvers, even with amelioration, tissue bruising results, giving the character black eyes, which take a few days to clear.                                                                                                                                                                            |
+| 02  | While under high Gs, a tool or piece of equipment comes loose, accelerates through the craft, and strikes the character, inflicting damage. The bigger the tool and the farther it falls before striking the character, the more damage is inflicted, possibly including being knocked a step down the damage track. |
+| 03  | While under high Gs (or afterward), the character suffers minor cardiac problems, likely to grow worse over time (or until medical treatment is sought).                                                                                                                                                             |
+| 04  | While under high Gs (or afterward), a mild brain aneurysm causes the character to have a sudden headache and blurred vision, which hinders all vision-related tasks until medical treatment is received.                                                                                                             |
+| 05  | While under high Gs (or afterward), the character begins to have a hard time breathing. The reason is that a lung or lungs have partially collapsed. All tasks are hindered by two steps until the character dies after several hours or until medical treatment is received.                                        |
+| 06  | The character has a stroke, and descends two steps on the damage track. They remain debilitated until medical treatment is received                                                                                                                                                                                  |
 
 #### LONG-TERM EXPOSURE TO ZERO G AND RADIATION
 
@@ -25041,15 +25042,14 @@ In a setting with contemporary tech, a variety of issues related to long-term ex
 
 SPACE HEALTH HAZARD GM INTRUSIONS
 
-|   |   |
-|---|---|
-|d6|GM Intrusions (Choose Best Option)|
-|01|Space sickness happens to everyone eventually. Nauseated characters are hindered in all tasks and may vomit unexpectedly.|
-|02|A wrist bone, thinner than it should be due to long-term exposure to microgravity, breaks.|
-|03|Upon return to full gravity after a long period in zero G or low G, the character stands up and then passes out. (This “orthostatic intolerance” fades in a few hours.)|
-|04|Vision becomes distorted because the character’s eyes literally take on a new shape in zero G, all vision-related tasks are hindered|
-|05|Despite precautions, sometimes viruses infect a character. The common cold virus is, ridiculously enough, still not preventable in advanced settings, and if anything, has even more severe symptoms for those in microgravity. The character descends one step on the damage track until they get better.|
-|06|The character is diagnosed with cancer. Depending on the tech setting, it is amenable to medical intervention (or at least long-term treatment to keep symptoms controlled), if that intervention comes soon enough.|
+| d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                         |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | Space sickness happens to everyone eventually. Nauseated characters are hindered in all tasks and may vomit unexpectedly.                                                                                                                                                                                  |
+| 02  | A wrist bone, thinner than it should be due to long-term exposure to microgravity, breaks.                                                                                                                                                                                                                 |
+| 03  | Upon return to full gravity after a long period in zero G or low G, the character stands up and then passes out. (This “orthostatic intolerance” fades in a few hours.)                                                                                                                                    |
+| 04  | Vision becomes distorted because the character’s eyes literally take on a new shape in zero G, all vision-related tasks are hindered                                                                                                                                                                       |
+| 05  | Despite precautions, sometimes viruses infect a character. The common cold virus is, ridiculously enough, still not preventable in advanced settings, and if anything, has even more severe symptoms for those in microgravity. The character descends one step on the damage track until they get better. |
+| 06  | The character is diagnosed with cancer. Depending on the tech setting, it is amenable to medical intervention (or at least long-term treatment to keep symptoms controlled), if that intervention comes soon enough.                                                                                       |
 
 #### MOVING IN MICROGRAVITY 
 
@@ -25057,15 +25057,14 @@ Long-term zero G is dangerous, but there are issues associated with moving aroun
 
 **MOVING IN MICROGRAVITY GM INTRUSIONS**
 
-|   |   |
-|---|---|
-|d6|GM Intrusions (Choose Best Option)|
-|01|A misjudged jump uses too much force and the character takes damage when they hit an unexpected bulkhead or other obstruction, or too little force, leaving them stranded in the middle of an open area|
-|02|A misjudged jump in microgravity causes the character to strike an important control surface that sets off a secondary issue, causes the character to jump to a dangerous location, or causes their tether (apparently previously abraded) to snap and send them spiraling out into space.|
-|03|A tool, weapon, or other piece of equipment—even one that should have a tether or magnetic clamp— dislodges and floats away.|
-|04|A mishap causes the character to spin wildly, hindering all tasks by two steps from disorientation and nausea. Without outside aid, micro thrusters, or some other useful strategy, stopping a spin is difficult.|
-|05|An ally accidentally jostles the character, and they are sent on an unexpected trajectory as if they had misjudged a jump.|
-|06|When attempting to grab a resisting target or panicking ally, or after some kind unexpected shake or violent ship maneuver, the character is sent on an unexpected trajectory as if they had misjudged a jump.|
+| d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01  | A misjudged jump uses too much force and the character takes damage when they hit an unexpected bulkhead or other obstruction, or too little force, leaving them stranded in the middle of an open area                                                                                    |
+| 02  | A misjudged jump in microgravity causes the character to strike an important control surface that sets off a secondary issue, causes the character to jump to a dangerous location, or causes their tether (apparently previously abraded) to snap and send them spiraling out into space. |
+| 03  | A tool, weapon, or other piece of equipment—even one that should have a tether or magnetic clamp— dislodges and floats away.                                                                                                                                                               |
+| 04  | A mishap causes the character to spin wildly, hindering all tasks by two steps from disorientation and nausea. Without outside aid, micro thrusters, or some other useful strategy, stopping a spin is difficult.                                                                          |
+| 05  | An ally accidentally jostles the character, and they are sent on an unexpected trajectory as if they had misjudged a jump.                                                                                                                                                                 |
+| 06  | When attempting to grab a resisting target or panicking ally, or after some kind unexpected shake or violent ship maneuver, the character is sent on an unexpected trajectory as if they had misjudged a jump.                                                                             |
 
 ### OPTIONAL RULES: EXTENDED VEHICULAR COMBAT (SPACECRAFT COMBAT)
 
@@ -25226,33 +25225,31 @@ A PC defending from a spacecraft’s attack is hindered by five steps. Except in
 
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
-|   |   |   |
-|---|---|---|
-|Targeting Task|Hindrance|Effect on Target Craft|
-|Disable weapons|Two steps|One or more of the target’s weapons disabled|
-|Disable defenses (if applicable)|Two steps|Attacks against the target are eased|
-|Disable engine/drive|Three steps|Target cannot move, or movement is hampered|
-|Disable maneuverability|Two steps|Target cannot alter its present course|
-|Strike power core or vital spot|Five steps|Target is completely destroyed|
-|Attempt target lock|–|Spend one round aiming, the next attack is eased|
-|Coordinate fire|–|If PC’s ship has second weapon system, coordinate fire with it, providing that system an asset this round. (This weapon doesn’t make a separate attack)|
-|Redline attack|–|Overcharge weapons, ricochet shot, or some other risky gamble|
+| Targeting Task                   | Hindrance   | Effect on Target Craft                                                                                                                                  |
+| -------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disable weapons                  | Two steps   | One or more of the target’s weapons disabled                                                                                                            |
+| Disable defenses (if applicable) | Two steps   | Attacks against the target are eased                                                                                                                    |
+| Disable engine/drive             | Three steps | Target cannot move, or movement is hampered                                                                                                             |
+| Disable maneuverability          | Two steps   | Target cannot alter its present course                                                                                                                  |
+| Strike power core or vital spot  | Five steps  | Target is completely destroyed                                                                                                                          |
+| Attempt target lock              | –           | Spend one round aiming, the next attack is eased                                                                                                        |
+| Coordinate fire                  | –           | If PC’s ship has second weapon system, coordinate fire with it, providing that system an asset this round. (This weapon doesn’t make a separate attack) |
+| Redline attack                   | –           | Overcharge weapons, ricochet shot, or some other risky gamble                                                                                           |
 
 #### PC PILOTING SYSTEM OPTIONS  
 
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
-|   |   |   |
-|---|---|---|
-|Piloting Task|Hindrance|Effect on Target Craft|
-|Evasive maneuvers|One step|Defenses eased three steps, but attacks this round hindered by the same amount|
-|Increase separation|One step|Defenses eased one step, attacks hindered by one step, but creates chance to lose enemy aircraft (see below)|
-|Decrease separation|–|Negates chance of losing enemy craft this round|
-|Stealth approach|Three steps|So long as no attack is made, pilot’s craft can ‘snug’ up to much larger enemy craft and hide from its sensors|
-|Lose enemy craft|Four steps|If separation is first increased as a separate task (or maneuverability is disabled), target craft loses track of pilot’s craft behind a moon, in a debris belt, etc|
-|Study enemy flying|–|Spend one round watching enemy tactics, the next piloting task is eased|
-|Fly in formation|–|If another allied ship is part of the combat, coordinate with it, providing that ship an asset in its next piloting task|
-|Redline maneuver|–|Spinning, flying through a dangerous region, or some other gamble|
+| Piloting Task       | Hindrance   | Effect on Target Craft                                                                                                                                               |
+| ------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Evasive maneuvers   | One step    | Defenses eased three steps, but attacks this round hindered by the same amount                                                                                       |
+| Increase separation | One step    | Defenses eased one step, attacks hindered by one step, but creates chance to lose enemy aircraft (see below)                                                         |
+| Decrease separation | –           | Negates chance of losing enemy craft this round                                                                                                                      |
+| Stealth approach    | Three steps | So long as no attack is made, pilot’s craft can ‘snug’ up to much larger enemy craft and hide from its sensors                                                       |
+| Lose enemy craft    | Four steps  | If separation is first increased as a separate task (or maneuverability is disabled), target craft loses track of pilot’s craft behind a moon, in a debris belt, etc |
+| Study enemy flying  | –           | Spend one round watching enemy tactics, the next piloting task is eased                                                                                              |
+| Fly in formation    | –           | If another allied ship is part of the combat, coordinate with it, providing that ship an asset in its next piloting task                                             |
+| Redline maneuver    | –           | Spinning, flying through a dangerous region, or some other gamble                                                                                                    |
 
 #### PC SCIENCE AND ENGINEERING SYSTEM OPTIONS  
 
@@ -25394,17 +25391,59 @@ Salvage GM Intrusion: Claim jumpers/pirates might try to salvage a ship that PCs
 |09|GM-selected robot, advanced tech rating (variable)|
 |10|GM-selected armament, advanced tech rating (variable)|
 
+### SPACE HAZARDS
+
+A few specific hazards that you can include as part of an encounter involving a spacecraft follow. These hazards are more site specific than the general threats presented in Chapter 5: Conflicts of the Future.
+
+#### GRAVITY WELL
+
+All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play). 
+
+Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen. 
+
+Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
+
+Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)
+
+#### BLACK HOLE
+
+Black holes are just extreme gravity wells. All the dangers associated with a gravity well also apply to black holes. A couple of additional hazards are also associated with black holes, notably tidal destruction (“spaghettification”), time dilation, and being swallowed.
+
+Tidal Desctruction: Mechanically speaking, while a spacecraft feels tidal forces by passing too close to a black hole’s event horizon, all tasks aboard the craft are hindered, Void Rules are in effect, and if a GM intrusion is triggered thereby, the ship sustains major damage and risks coming apart. Meanwhile, PCs in the ship (assuming some sort of fantastic tech-rated gravity nullifier isn’t in use) suffer 1 point of ambient damage each round. 
+
+A ship near a very large black hole (like Sagittarius A*, the supermassive black hole at the center of the Milky Way Galaxy) can avoid tidal effects because the gravity gradient is so much wider, but still feel relativistic time dilation.
+
+Relativistic Time Dialation: From a mechanical perspective, spacecraft that survive close encounters with black holes and return to normal space discover that more time has passed than expected, which could range from fairly inconsequential minutes or hours, to far more serious days, months, years, centuries, or more.
+
+Past the Event Horizon: The event horizon is the point of no return, where not even light can escape the clutch of gravity. If a spacecraft falls into a black hole, assuming it is not spaghettified by tidal forces, it is still lost from the universe of its origin. At least, it’s lost assuming no intervention from a fantastic tech-rated post-singularity AI or ancient ultra.
+
+#### RADIATION BELT/SOLAR FLARE
+
+Radiation belts of intensely charged particles trapped by magnetic fields around some planets and moons can surge, causing radiation exposure. An unexpected solar flare, or the drive plume of a massive spacecraft, can cause the same unexpected exposure.
+
+Ship Damage: The ship suffers minor or major damage, requiring repair and perhaps even replacement of parts. This damage is as serious as you require for the purposes of creating an interesting story.
+
+Radiation Sickness: When PCs are exposed to intense radiation, they suffer 3 points of ambient radiation damage for each minute the character fails a difficulty 3 Might defense task. If the character fails three such defense rolls during any single period of radiation exposure, they suffer acute radiation sickness, a level 8 disease that drops them one step on the damage track for each day they fail a Might defense roll until they expire.
+
+#### ASTEROID/DEBRIS FIELD
+
+Movies often depict asteroid belts as densely packed fields of tumbling rock that ships must constantly swerve through to avoid a collision. Such locations are not easy to find in the solar system. But such situations can occur in fantastic settings, or possibly in solar systems other than Earth’s. 
+
+Evasive Ateroid Piloting: During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.
+
+Finding Shelter: The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
+
 ### SHIP COLLISION DAMAGE TRACK 
 
-|   |   |
-|---|---|
-|Number of Collisions|Effect|
-|1-3|One or more of the spacecraft’s weapons are disabled until repaired|
-|4-6|Spacecraft’s drive is hampered; all piloting tasks are hindered until repaired; crew takes 2 points of damage|
-|7|Spacecraft suffers a blow-out into vacuum in one of its compartments; affected crew must succeed on difficulty 5 tasks to hold on and face vacuum exposure|
-|8|Spacecraft suffers general life support failure; all crew not in suits face vacuum exposure|
-|9|Spacecraft cannot alter its present course; all piloting tasks fail until drive repaired; crew takes 4 points of damage|
-|10|Spacecraft is completely destroyed|
+|                      |                                                                                                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Number of Collisions | Effect                                                                                                                                                     |
+| 1-3                  | One or more of the spacecraft’s weapons are disabled until repaired                                                                                        |
+| 4-6                  | Spacecraft’s drive is hampered; all piloting tasks are hindered until repaired; crew takes 2 points of damage                                              |
+| 7                    | Spacecraft suffers a blow-out into vacuum in one of its compartments; affected crew must succeed on difficulty 5 tasks to hold on and face vacuum exposure |
+| 8                    | Spacecraft suffers general life support failure; all crew not in suits face vacuum exposure                                                                |
+| 9                    | Spacecraft cannot alter its present course; all piloting tasks fail until drive repaired; crew takes 4 points of damage                                    |
+| 10                   | Spacecraft is completely destroyed                                                                                                                         |
 
 ### FTL INSTABILITY
 
@@ -25474,47 +25513,7 @@ Activity Level of Ultras: Different settings can make use of ancient ultras in d
 
 Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V). 
 
-### SPACE HAZARDS
 
-A few specific hazards that you can include as part of an encounter involving a spacecraft follow. These hazards are more site specific than the general threats presented in Chapter 5: Conflicts of the Future.
-
-#### GRAVITY WELL
-
-All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play). 
-
-Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen. 
-
-Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
-
-Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)
-
-#### BLACK HOLE
-
-Black holes are just extreme gravity wells. All the dangers associated with a gravity well also apply to black holes. A couple of additional hazards are also associated with black holes, notably tidal destruction (“spaghettification”), time dilation, and being swallowed.
-
-Tidal Desctruction: Mechanically speaking, while a spacecraft feels tidal forces by passing too close to a black hole’s event horizon, all tasks aboard the craft are hindered, Void Rules are in effect, and if a GM intrusion is triggered thereby, the ship sustains major damage and risks coming apart. Meanwhile, PCs in the ship (assuming some sort of fantastic tech-rated gravity nullifier isn’t in use) suffer 1 point of ambient damage each round. 
-
-A ship near a very large black hole (like Sagittarius A*, the supermassive black hole at the center of the Milky Way Galaxy) can avoid tidal effects because the gravity gradient is so much wider, but still feel relativistic time dilation.
-
-Relativistic Time Dialation: From a mechanical perspective, spacecraft that survive close encounters with black holes and return to normal space discover that more time has passed than expected, which could range from fairly inconsequential minutes or hours, to far more serious days, months, years, centuries, or more.
-
-Past the Event Horizon: The event horizon is the point of no return, where not even light can escape the clutch of gravity. If a spacecraft falls into a black hole, assuming it is not spaghettified by tidal forces, it is still lost from the universe of its origin. At least, it’s lost assuming no intervention from a fantastic tech-rated post-singularity AI or ancient ultra.
-
-#### RADIATION BELT/SOLAR FLARE
-
-Radiation belts of intensely charged particles trapped by magnetic fields around some planets and moons can surge, causing radiation exposure. An unexpected solar flare, or the drive plume of a massive spacecraft, can cause the same unexpected exposure.
-
-Ship Damage: The ship suffers minor or major damage, requiring repair and perhaps even replacement of parts. This damage is as serious as you require for the purposes of creating an interesting story.
-
-Radiation Sickness: When PCs are exposed to intense radiation, they suffer 3 points of ambient radiation damage for each minute the character fails a difficulty 3 Might defense task. If the character fails three such defense rolls during any single period of radiation exposure, they suffer acute radiation sickness, a level 8 disease that drops them one step on the damage track for each day they fail a Might defense roll until they expire.
-
-#### ASTEROID/DEBRIS FIELD
-
-Movies often depict asteroid belts as densely packed fields of tumbling rock that ships must constantly swerve through to avoid a collision. Such locations are not easy to find in the solar system. But such situations can occur in fantastic settings, or possibly in solar systems other than Earth’s. 
-
-Evasive Ateroid Piloting: During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.
-
-Finding Shelter: The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
 
 ## Characters
 
@@ -31718,16 +31717,11 @@ Basic CREATURES AND NPCs FOR A ROMANCE GAME
 # Superheroes
 
 Like horror, the superhero genre is really a subset of the modern genre with extensive special considerations. In many ways, it might appear that the Cypher System is a strange fit for superheroes. But if you think about it, with foci like Bears a Halo of Fire and Wears a Sheen of Ice, the Cypher System makes all genres a little bit “superhero-ish.” Character sentences might look like the following:
-
-Firebrand is a Brash energy projector (Adept) who Bears a Halo of Fire.
-
-King Brick is a Tough Warrior who Performs Feats of Strength.
-
-Dimensionar is a Mystical warlock (Adept) who Exists Partially Out of Phase.
-
-Dark Ronin is a Mysterious crimefighter (Explorer) who Solves Mysteries.
-
-Speedburst is a Fast crimefighter (Explorer) who Moves Like the Wind.
+- Firebrand is a Brash energy projector (Adept) who Bears a Halo of Fire.
+- King Brick is a Tough Warrior who Performs Feats of Strength.
+- Dimensionar is a Mystical warlock (Adept) who Exists Partially Out of Phase.
+- Dark Ronin is a Mysterious crimefighter (Explorer) who Solves Mysteries.
+- Speedburst is a Fast crimefighter (Explorer) who Moves Like the Wind.
 
 And so on.
 
@@ -32082,68 +32076,67 @@ The following table has a broad selection of powers (or in some cases, sets of r
 
 The GM can also use this table to come up with random abilities for supervillains. However, there is much more leeway in designing NPC abilities, so the Example column is more for suggesting game mechanics than abilities to choose.
 
-|   |   |   |
-|---|---|---|
-|d100|Power|Example|
-|01-05|Agility|Power shift in dexterity|
-|06|Animal Shapeshifter|Shapechanger|
-|07-09|Athletics|Master athlete|
-|10|Atlantean|Atlantean|
-|11-12|Beastly|Beastly hero|
-|13-14|Claws/fangs|Fists of fury|
-|15-17|Cold attack|Frost Touch|
-|18|Cold immunity|Energy Resistance|
-|19|Companion creature|Beastmaster|
-|20|Control animals|Mentalist|
-|21|Control minds|Mentalist|
-|22-23|Control plants|Nature master|
-|24|Control wind|Nature master|
-|25|Copy superpower|Power replicator|
-|26|Create object|Dream Become Reality, Sculpt Light|
-|27-28|Cyborg|Cybrog|
-|29|Dark energy attack|Dark energy master|
-|30|Duplication|Multiplier|
-|31|Elastic|Elastic|
-|32-34|Electricity attack|Shock|
-|35|Electricity immunity|Energy resistance|
-|36|Enhanced senses|Sensory adept|
-|37|Entangling|Entangling Force|
-|38-40|Fire attack|Energy master|
-|41|Fire immunity|Energy Resistance|
-|42-43|Flight|Power shift in flight|
-|44|Force field|Force field master|
-|45|Growing|Giant hero|
-|46-47|Healing|Power shift in healing|
-|48|Human shapechanger|Shapechanger|
-|49|Illusion|Illusionist|
-|50-51|Intelligence|Power shift in intelligence|
-|52-54|Invention|Builder|
-|55|Invisibility|Invisibility|
-|56-57|Leaping|Amazing Leap, Far Step|
-|58-59|Lucky|Chaotic, Lucky, Dodge and Resist, Hard to Kill|
-|60-61|Magnetism|Telekinetic|
-|62-64|Martial arts|Master martial artist|
-|65|Paragon|Paragon|
-|66|Phasing|Phase master|
-|67|Plant|Plant|
-|68|Poison|Create deadly poison|
-|69-72|Powered armor|Powered armor hero|
-|73|Remote viewing|Sensory adept|
-|74-75|Resilience|Power shift in resilience|
-|76|Robot minions|Builder|
-|77|Shield|Bearer of the item|
-|78|Shrinking|Tiny hero|
-|79-80|Sorcerer|Sorcerer|
-|81-82|Sound attack|Thunder Beam|
-|83-84|Speedster|Speedster|
-|85-89|Strength|Power shift in strength|
-|90-91|Superspy|Superspy|
-|92-93|Telekinesis|Telekinetic|
-|94-95|Telepathy|Mentalist|
-|96|Teleportation|Teleporter|
-|97|Undead minions|Sorcerer|
-|98|Weapon|Bearer of the item|
-|99-00|Weapon master|Weapon master, power shift in single attack|
+| d100  | Power                | Example                                        |
+| ----- | -------------------- | ---------------------------------------------- |
+| 01-05 | Agility              | Power shift in dexterity                       |
+| 06    | Animal Shapeshifter  | Shapechanger                                   |
+| 07-09 | Athletics            | Master athlete                                 |
+| 10    | Atlantean            | Atlantean                                      |
+| 11-12 | Beastly              | Beastly hero                                   |
+| 13-14 | Claws/fangs          | Fists of fury                                  |
+| 15-17 | Cold attack          | Frost Touch                                    |
+| 18    | Cold immunity        | Energy Resistance                              |
+| 19    | Companion creature   | Beastmaster                                    |
+| 20    | Control animals      | Mentalist                                      |
+| 21    | Control minds        | Mentalist                                      |
+| 22-23 | Control plants       | Nature master                                  |
+| 24    | Control wind         | Nature master                                  |
+| 25    | Copy superpower      | Power replicator                               |
+| 26    | Create object        | Dream Become Reality, Sculpt Light             |
+| 27-28 | Cyborg               | Cybrog                                         |
+| 29    | Dark energy attack   | Dark energy master                             |
+| 30    | Duplication          | Multiplier                                     |
+| 31    | Elastic              | Elastic                                        |
+| 32-34 | Electricity attack   | Shock                                          |
+| 35    | Electricity immunity | Energy resistance                              |
+| 36    | Enhanced senses      | Sensory adept                                  |
+| 37    | Entangling           | Entangling Force                               |
+| 38-40 | Fire attack          | Energy master                                  |
+| 41    | Fire immunity        | Energy Resistance                              |
+| 42-43 | Flight               | Power shift in flight                          |
+| 44    | Force field          | Force field master                             |
+| 45    | Growing              | Giant hero                                     |
+| 46-47 | Healing              | Power shift in healing                         |
+| 48    | Human shapechanger   | Shapechanger                                   |
+| 49    | Illusion             | Illusionist                                    |
+| 50-51 | Intelligence         | Power shift in intelligence                    |
+| 52-54 | Invention            | Builder                                        |
+| 55    | Invisibility         | Invisibility                                   |
+| 56-57 | Leaping              | Amazing Leap, Far Step                         |
+| 58-59 | Lucky                | Chaotic, Lucky, Dodge and Resist, Hard to Kill |
+| 60-61 | Magnetism            | Telekinetic                                    |
+| 62-64 | Martial arts         | Master martial artist                          |
+| 65    | Paragon              | Paragon                                        |
+| 66    | Phasing              | Phase master                                   |
+| 67    | Plant                | Plant                                          |
+| 68    | Poison               | Create deadly poison                           |
+| 69-72 | Powered armor        | Powered armor hero                             |
+| 73    | Remote viewing       | Sensory adept                                  |
+| 74-75 | Resilience           | Power shift in resilience                      |
+| 76    | Robot minions        | Builder                                        |
+| 77    | Shield               | Bearer of the item                             |
+| 78    | Shrinking            | Tiny hero                                      |
+| 79-80 | Sorcerer             | Sorcerer                                       |
+| 81-82 | Sound attack         | Thunder Beam                                   |
+| 83-84 | Speedster            | Speedster                                      |
+| 85-89 | Strength             | Power shift in strength                        |
+| 90-91 | Superspy             | Superspy                                       |
+| 92-93 | Telekinesis          | Telekinetic                                    |
+| 94-95 | Telepathy            | Mentalist                                      |
+| 96    | Teleportation        | Teleporter                                     |
+| 97    | Undead minions       | Sorcerer                                       |
+| 98    | Weapon               | Bearer of the item                             |
+| 99-00 | Weapon master        | Weapon master, power shift in single attack    |
 
 ### DESCRIPTORS  
 
@@ -33387,7 +33380,7 @@ Tier 6:
 
 Merges Mind With Machine is a focus designed for use with the Radio Quiet setting.
 
-##### Prepped for the End
+#### Prepped for the End
 You prepared for ultimate disaster, unlike most of the sheeple. Which means you stashed away food, water, and other survival gear when things were still okay. You trained yourself for harsh conditions, for basic machine and electronic repair, and maybe even in a musical instrument to pass the time in the bunker when no other entertainments could be had. You’d excel in a small group of other survivors, but you’re ready to go it alone if that’s what it takes. Above all, you’re prepared to make it through whatever the future holds, no matter how daunting the odds. Because you prepped wisely.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -33430,7 +33423,7 @@ Tier 6:
 - Discipline of Watchfulness
 - Escape the Ruins (6 Intellect points): While in any area containing ruins from before the apocalypse, you find or create a significant shortcut, secret entrance, or emergency escape route where it looked like none existed. Doing so requires that you succeed on an Intellect action whose difficulty is set by the GM based on the situation. You and the GM should work out the details. Action.
 
-##### Raids
+#### Raids
 
 When civilization fell, you did what you had to do to stay alive. Did you kill innocent people? Probably, insofar as anyone who survived the end can really be considered “innocent.” You figured they’d have done the same to you. But whether they deserved it or not, you and the other raiders you ran with survived, and your targets did not. Then something life‑changing happened to you, altering your perspective; it’s up to you to decide what. In any case, you’ve turned over a new leaf. You don’t indiscriminately kill anymore, though surviving is still a goal. But you’ve joined with others who you want to protect as much as or even more than your own life. You’re done with raiding. But is raiding (and those who might recognize you as a raider) done with you?
 
@@ -33469,7 +33462,7 @@ Tier 6:
 - Deep Consideration
 - Twisting the Knife
 
-##### Remembers the Past
+#### Remembers the Past
 
 You are a student of the before‑times. Maybe that’s because you grew up in the ruins of an old library and read everything as your hobby, you found a friendly AI archivist who taught you about how things once were, you’re long‑lived and were alive before the apocalypse, or you have a deep recollection of the world before the end for some other reason. This knowledge gives you an appreciation of the before‑times as well as a point of view that many other survivors lack that benefits you in and around ruins. You can find things others wouldn’t know to look for, plucking fruits of the past that would otherwise go unharvested.
 
@@ -33509,7 +33502,7 @@ Tier 6:
 - Skill With Defense
 - Use the Network (5 Intellect points): With a few minutes of looking around and preparing, you can access remnants of the before‑times internet and satellite network (or an active network on which AIs who are not immediately dangerous reside). The GM may decide there is no such connection in the area, but if there is, you can ask one basic question about anything happening within 10 miles (16 km) and receive a simple answer. For example, you could ask about the location of a specific creature or individual, and if they are within the range of this ability, you’ll learn about it from a still‑functioning camera feed, satellite feed, or AI interaction. Action to initiate.
 
-##### Walks the Wasteland
+#### Walks the Wasteland
 
 Most people want to hide from the devastation or just curl up and die rather than face a hostile world. Not you. You’re determined to see what’s out there, to survive, and, more than that, to thrive. It’s that or let the radioactive rats—or whatever it is that hunts the ruins—get you. If you were around before the end, you could have been a soldier, mercenary, or at least someone who had basic survival training. What sets you apart from all the others like you is that you decided to hope when everything looked darkest. Since then, you have eaten your share of spoiled food and irradiated water, and survived. Whether that’s because you’ve adapted, you’re luckier, or you were just tougher than the rest is anyone’s guess. But you’re still walking the wastes even though so many others are gone. You probably don’t spend a lot of time on your appearance, given that you wear the cobbled‑together clothing and bits and pieces of armor you’re able to scavenge from the ruins. Appearance doesn’t matter; actions do.
 
@@ -34253,25 +34246,25 @@ Using the Tables: Choose or roll randomly when you need a hazard to threaten the
 
 #### Fantastic Threats and Hazards
  
-|D20|Threat or Hazard|
-|---|---|
-|1|Hallucinatory flowers (level 3): The<br><br>ground floor of the ruin hosts a handful<br><br>of purplish flowers growing up out of the<br><br>rubble. A character who gets a puff of the<br><br>pollen hallucinates their allies are actually<br><br>cannibals trying to eat the affected character<br><br>each round until the character succeeds on<br><br>a Might defense roll.|
-|2|AI instance, minor (level 3): An artificial<br><br>intelligence in an old facility attempts to<br><br>install itself in the wetware (the brain)<br><br>of humans and any other nearby sapient<br><br>creatures. Anyone within immediate range<br><br>of a video screen playing carefully crafted<br><br>symbols and sounds who fails an Intellect<br><br>defense roll is stunned, losing their next<br><br>turn as they stare in rapt attention. If<br><br>they fail a subsequent defense roll, they<br><br>come under the control of the AI for one<br><br>minute, or until they succeed on an Intellect<br><br>defense roll on their turn. A PC under AI<br><br>control might stand and do nothing, fall<br><br>mysteriously unconscious, or take an action<br><br>to advance the AI’s goals.|
-|3-4|Voracious cockroach swarm (level 3):<br><br>This swarm, easily covering an area a<br><br>short distance in diameter, doesn’t shrink<br><br>from the light or from people. Indeed, it<br><br>seems eerily intelligent, and if threatened,<br><br>it attacks, inflicting 3 points of damage<br><br>each round on everything in its area that<br><br>fails a Speed defense roll, or 1 point on a<br><br>successful roll.|
-|5|Animate vegetation (level 4): Kudzu got a<br><br>lot worse in the aftermath. Characters that<br><br>fail a Speed defense roll take 4 points of<br><br>damage each round from strangulation and<br><br>vine constriction until they can escape|
-|6|Ashy tide (level 4): A series of powerful<br><br>wind gusts in the area kicks up a lot of<br><br>fine grey ash. Except it’s not ash—it’s a<br><br>collection of nanobots, each the size of a<br><br>grain of sand or smaller, called ashy tide.|
-|7-8|Glowing roach infestation: Four to ten<br><br>glowing roaches the size of dogs have truly<br><br>come into their own now that they’ve grown<br><br>in stature and intelligence. They have little<br><br>use for survivors, except as food.|
-|9|Psychic lichen (level 4): Psychic lichen<br><br>gently attacks the minds of nearby<br><br>creatures, causing them to grow tired and<br><br>nap if they fail an Intellect defense roll. If<br><br>not awakened, the dozing body serves as<br><br>food for a new psychic lichen colony.|
-|10|Strike from the heavens (level 4): A<br><br>before‑times war satellite becomes active<br><br>and fires a focused microwave beam at<br><br>the PCs in the area, inflicting 4 points of<br><br>damage each round they remain in the area<br><br>without solid cover and fail a Might defense<br><br>roll, or 2 points on a successful roll.|
-|11|Abomination lair: The abomination was<br><br>a person once, or its ancestors were. Not<br><br>anymore.|
-|12|Fiery fissure (level 5): A crack splinters<br><br>the ground along a newly forming fire‑filled<br><br>fissure that stretches a long distance,<br><br>zigging and zagging to catch several more<br><br>targets than it might otherwise. PCs who fail<br><br>a Speed defense roll fall in and are burned<br><br>for 5 points of damage each round until<br><br>they can climb out or be pulled out with a<br><br>successful Might task as an action.|
-|13|Glowing tide (level 5): Veins of<br><br>yellow‑gold light branching across surfaces<br><br>(roads, buildings, and bare earth) indicate<br><br>that nanites are probably active, creating a<br><br>dangerous area of glowing tide.|
-|14|Time anomaly (level 5): The PCs<br><br>encounter a wall of golden light whose<br><br>interior ripples with lightning. It’s a<br><br>time storm, and either it blocks the PCs’<br><br>path, or worse, it’s gradually sweeping<br><br>toward the characters.|
-|15|AI instance, major (level 6): An artificial<br><br>intelligence in a powered facility attempts<br><br>to install itself in the wetware (the brain)<br><br>of humans and any other nearby sapient<br><br>creatures. Anyone within immediate range<br><br>of a video screen playing carefully crafted<br><br>symbols and sounds who fails an Intellect<br><br>defense roll is stunned, losing their next<br><br>turn as they stare in rapt attention. If<br><br>they fail a subsequent defense roll, they<br><br>come under the control of the AI (because<br><br>an instance of the AI is running in their<br><br>head). A target can make a new Intellect<br><br>defense roll each day to try to reject the<br><br>control. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals.|
-|16|Hungry tide (level 6): A greyish‑green<br><br>mist of nanobots a short distance in<br><br>diameter drifts in the wind, until the<br><br>hungry tide senses living organisms<br><br>and moves a short distance each round<br><br>toward them.|
-|17|Quantum singularity (level 6): Attempts<br><br>to change the past to avert the apocalypse<br><br>have consequences, including these points<br><br>of unstable space‑time. Characters who fail<br><br>an Intellect defense task are teleported a<br><br>short distance in a random direction and<br><br>possibly several hours forward in time.|
-|18-19|Rampaging wardroid (level 6): Wardroids may be what caused the apocalypse in the first place; whatever the case, one has wandered directly into the PCs’ path.|
-|20|Mutant bear: The house‑sized<br><br>radioactive bear, whose roar can be heard<br><br>for miles, is something to avoid.|
+| D20   | Threat or Hazard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Hallucinatory flowers (level 3): The<br><br>ground floor of the ruin hosts a handful<br><br>of purplish flowers growing up out of the<br><br>rubble. A character who gets a puff of the<br><br>pollen hallucinates their allies are actually<br><br>cannibals trying to eat the affected character<br><br>each round until the character succeeds on<br><br>a Might defense roll.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2     | AI instance, minor (level 3): An artificial<br><br>intelligence in an old facility attempts to<br><br>install itself in the wetware (the brain)<br><br>of humans and any other nearby sapient<br><br>creatures. Anyone within immediate range<br><br>of a video screen playing carefully crafted<br><br>symbols and sounds who fails an Intellect<br><br>defense roll is stunned, losing their next<br><br>turn as they stare in rapt attention. If<br><br>they fail a subsequent defense roll, they<br><br>come under the control of the AI for one<br><br>minute, or until they succeed on an Intellect<br><br>defense roll on their turn. A PC under AI<br><br>control might stand and do nothing, fall<br><br>mysteriously unconscious, or take an action<br><br>to advance the AI’s goals.                                                           |
+| 3-4   | Voracious cockroach swarm (level 3):<br><br>This swarm, easily covering an area a<br><br>short distance in diameter, doesn’t shrink<br><br>from the light or from people. Indeed, it<br><br>seems eerily intelligent, and if threatened,<br><br>it attacks, inflicting 3 points of damage<br><br>each round on everything in its area that<br><br>fails a Speed defense roll, or 1 point on a<br><br>successful roll.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 5     | Animate vegetation (level 4): Kudzu got a<br><br>lot worse in the aftermath. Characters that<br><br>fail a Speed defense roll take 4 points of<br><br>damage each round from strangulation and<br><br>vine constriction until they can escape                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 6     | Ashy tide (level 4): A series of powerful<br><br>wind gusts in the area kicks up a lot of<br><br>fine grey ash. Except it’s not ash—it’s a<br><br>collection of nanobots, each the size of a<br><br>grain of sand or smaller, called ashy tide.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 7-8   | Glowing roach infestation: Four to ten<br><br>glowing roaches the size of dogs have truly<br><br>come into their own now that they’ve grown<br><br>in stature and intelligence. They have little<br><br>use for survivors, except as food.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 9     | Psychic lichen (level 4): Psychic lichen<br><br>gently attacks the minds of nearby<br><br>creatures, causing them to grow tired and<br><br>nap if they fail an Intellect defense roll. If<br><br>not awakened, the dozing body serves as<br><br>food for a new psychic lichen colony.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 10    | Strike from the heavens (level 4): A<br><br>before‑times war satellite becomes active<br><br>and fires a focused microwave beam at<br><br>the PCs in the area, inflicting 4 points of<br><br>damage each round they remain in the area<br><br>without solid cover and fail a Might defense<br><br>roll, or 2 points on a successful roll.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 11    | Abomination lair: The abomination was<br><br>a person once, or its ancestors were. Not<br><br>anymore.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 12    | Fiery fissure (level 5): A crack splinters<br><br>the ground along a newly forming fire‑filled<br><br>fissure that stretches a long distance,<br><br>zigging and zagging to catch several more<br><br>targets than it might otherwise. PCs who fail<br><br>a Speed defense roll fall in and are burned<br><br>for 5 points of damage each round until<br><br>they can climb out or be pulled out with a<br><br>successful Might task as an action.                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 13    | Glowing tide (level 5): Veins of<br><br>yellow‑gold light branching across surfaces<br><br>(roads, buildings, and bare earth) indicate<br><br>that nanites are probably active, creating a<br><br>dangerous area of glowing tide.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 14    | Time anomaly (level 5): The PCs<br><br>encounter a wall of golden light whose<br><br>interior ripples with lightning. It’s a<br><br>time storm, and either it blocks the PCs’<br><br>path, or worse, it’s gradually sweeping<br><br>toward the characters.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 15    | AI instance, major (level 6): An artificial<br><br>intelligence in a powered facility attempts<br><br>to install itself in the wetware (the brain)<br><br>of humans and any other nearby sapient<br><br>creatures. Anyone within immediate range<br><br>of a video screen playing carefully crafted<br><br>symbols and sounds who fails an Intellect<br><br>defense roll is stunned, losing their next<br><br>turn as they stare in rapt attention. If<br><br>they fail a subsequent defense roll, they<br><br>come under the control of the AI (because<br><br>an instance of the AI is running in their<br><br>head). A target can make a new Intellect<br><br>defense roll each day to try to reject the<br><br>control. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals. |
+| 16    | Hungry tide (level 6): A greyish‑green<br><br>mist of nanobots a short distance in<br><br>diameter drifts in the wind, until the<br><br>hungry tide senses living organisms<br><br>and moves a short distance each round<br><br>toward them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 17    | Quantum singularity (level 6): Attempts<br><br>to change the past to avert the apocalypse<br><br>have consequences, including these points<br><br>of unstable space‑time. Characters who fail<br><br>an Intellect defense task are teleported a<br><br>short distance in a random direction and<br><br>possibly several hours forward in time.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 18-19 | Rampaging wardroid (level 6): Wardroids may be what caused the apocalypse in the first place; whatever the case, one has wandered directly into the PCs’ path.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 20    | Mutant bear: The house‑sized<br><br>radioactive bear, whose roar can be heard<br><br>for miles, is something to avoid.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ##### GM INTRUSIONS FOR POST-APOCALYPTIC GAMES
 
@@ -35097,6 +35090,119 @@ Effect: By emitting terahertz and long-range infrared light, this device allows 
 
 Depletion: 1 in 1d20
 
+## POST-APOCALYPTIC ARTIFACTS
+
+The kinds of post‑apocalyptic artifacts described in the Cypher System Rulebook are, for the most part, retro‑futuristic, or at least manifest cyphers created by super‑science that is mostly beyond today’s technology. Most of these would fit in almost any post‑apocalyptic setting that includes fantastic elements, especially if reskinned to be thematically appropriate. The artifacts presented below include artifacts appropriate to an End Times apocalypse, an apocalypse caused by the rise of antagonistic AIs (such as in Radio Quiet), and alien tech possibly brought by invading or terraforming aliens. That said, any artifact could potentially be the result of AI artifice. Such artifacts usually have a fractal quality to their form, as is the case for AI‑fashioned cyphers. And like AI‑fashioned cyphers, a triggered intrusion could endanger the user if an instance of the artificial intelligence that created the item tries to install itself on the PC’s wetware (mind).
+
+  
+
+|   |   |   |
+|---|---|---|
+  
+|D20|Apocalypse|Artifact|
+|1-2|Retro-futuristic|Autodoc*|
+|3-4|Alien|Carbonizer|
+|5-6|Retro-futuristic|Enviroscanner*|
+|7|Alien or AI-fashioned|Memory Eraser|
+|8|Retro-futuristic|Military exoskeleton*|
+|9|AI-fashioned|Mutation Inducer|
+|10-12|AI-fashioned|Nanorifle|
+|13|Retro-futuristic|Rocket first*|
+|14-16|Retro-futuristic|Rocket-propelled grenade|
+|17|End Times|Seal of Solomon|
+|18|End Times|Spear of Destiny|
+|19|Retro-futuristic|Terahertz scanner*|
+|20|Alien|Transfer discs|
+
+*Artifacts presented in the Cypher System Rulebook
+
+  
+
+Carbonizer
+
+Level: 1d6 + 1
+
+Form: Tiny silver device with multiple prong‑like barrels
+
+Effect: This weapon fires a beam that transmutes the matter of targets within short range into powdery ash, inflicting damage equal to the artifact’s level that ignores Armor (including Armor granted by force fields). A target killed by a carbonizer is turned completely to dust.
+
+Depletion: 1 in 1d20
+
+  
+
+Memory Eraser
+
+Level: 1d6 + 1
+
+Form: Handheld reflective mass
+
+Effect: A flash of nano‑textured light erases the last few minutes of memory in all creatures within immediate range that the user makes a successful Intellect attack on (one attack roll per target).
+
+Depletion: 1 in 1d20
+
+  
+
+Mutation Inducer
+
+Level: 1d6 + 1
+
+Form: Handheld reflective device with gradually evolving fractal textures
+
+Effect: A targeted willing or helpless creature within immediate range is transformed over the course of one minute, gaining a randomly determined beneficial mutation. If the artifact is level 6 or higher, the target instead gains a powerful mutation. Mutations gained by the inducer fade within about a day.
+
+Depletion: 1 in 1d10 (upon depletion, target also gains a harmful mutation)
+
+  
+
+Nanorifle
+
+Level: 1d6 + 2
+
+Form: Sleek two‑handed reflective device with gradually evolving fractal textures
+
+Effect: This weapon contains an onboard AI that assists the user, granting an asset to any attacks made with the weapon. The weapon fires a stream of nanomachine rounds at a target within long range, inflicting damage equal to the artifact’s level. In addition, if the target fails an Intellect defense roll, they are affected as if with a minor AI instance hazard, coming under the control of the AI housed in the nanorifle rather than a random artificial intelligence. The AI usually works with the user to exert control over the target. Control lasts for about a minute.
+
+Depletion: 1 in 1d100
+
+  
+
+Seal of Solomon
+
+Level: 1d6 + 2
+
+Form: Signet ring bearing a star design
+
+Effect: The wearer can attempt to command a demon, a devil, a Horseman of the Apocalypse, an angel, or a similar entity by making a successful Intellect attack roll against a target within short range. An affected target must do as requested for up to one minute (if the creature is level 5 or lower) or for one round (if the creature is level 6 or higher). The ring also grants the wearer the ability to understand and communicate with animals.
+
+Depletion: 1 in 1d100
+
+  
+
+Spear of Destiny
+
+Level: 7
+
+Form: Heavy spear of ancient manufacture
+
+Effect: Attacks with this spear are eased. If used against a supernatural creature such as a demon, a Horseman of the Apocalypse, or an angel, it ignores Armor, and it inflicts 4 additional points of damage (10 points total). If an attack with the spear kills a target normally able to return to existence (such as a Horseman), the target is truly destroyed instead.
+
+Depletion: —
+
+Spear of Destiny GM GM intrusion: The wielder’s heart is not pure enough to permit the use of the spear, and it burns the character for 7 points of ambient damage each round they use it.
+
+  
+
+Transfer Discs
+
+Level: 1d6 + 1
+
+Form: Two or more matching discs 3 feet (1 m) in diameter
+
+Effect: The user can step between deployed transfer discs, teleporting any distance. If a series of discs is deployed in a network, the user receives a mental map of the discs upon stepping on any one of them, and they can navigate by stepping on each intervening disc between their current location and their desired location. To deploy a disc as their action, the user places it on a mostly level, secure surface and must succeed on a difficulty 3 Intellect‑based roll.
+
+Depletion: 1 in 1d20 (check after each day of use)
+
+  
 ## Creatures
 
 Basic CREATURES AND NPCs FOR A POST-APOCALYPTIC GAME
@@ -36421,6 +36527,58 @@ In order for a wish to be granted, the character must succeed on an Intellect-re
 
 Even if a wish is granted, the character may not get exactly what they want, especially if the wish is poorly worded, has multiple interpretations, or asks for something that is utterly impossible (such as destroying the entire world).
 
+### Optional Rule: I Have That!
+
+In fairy tales, characters often have exactly the right mundane piece of equipment
+
+that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified “Pocket Item” in
+
+that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
+
+Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
+
+The GM has veto power over items that they don’t think you could have found or carried.
+
+Using the I Have That! rule doesn’t preclude PCs from also purchasing these items directly. For example, if a character who sews wants to buy a thimble and an inexpensive Pocket Item, they can. However, they cannot later turn the thimble into a Pocket Item; it remains a thimble.
+
+Example Pocket Items
+
+Inexpensive
+- Apple
+- Ashes (handful)
+- Breadcrumbs
+- Butter
+- Candy
+- Chalk
+- Cricket in a cage
+- Cup
+- Egg
+- Fabric
+- Flyswatter
+- Glass jar
+- Glue
+- Honey
+- Leather
+- Magnets
+- Marbles
+- Nails
+- Needle and thread
+- Paper
+- Plait of hair
+- Pot of fat
+- Pot of grease 
+- Ribbon
+- Rice (handful) 
+- Straw
+- Tacks
+- Wax
+- Wool
+
+Moderate
+- Bird in a cage 
+- Sewing shears
+- Thimble
+
 ### GM INTRUSIONS
 
 GM intrusions present fantastic opportunities to imbue fairy tale games with a bit more weirdness, wonder, and whimsy, all while making the game more interesting and surprising for characters.
@@ -36553,58 +36711,6 @@ this clothing is purely for decorative and roleplaying purposes and offers no ad
 
 However, clothing with additional benefits can be purchased, stolen, found, or earned by completing favors and accomplishing tasks. 
 
-### Optional Rule: I Have That!
-
-In fairy tales, characters often have exactly the right mundane piece of equipment
-
-that they need to bypass a story-related obstacle hidden away in a pocket or a bag. Rather than having the PCs stock up on mundane items like marbles, rope, and breadcrumbs in town, use the I Have That! rule. This means players don’t have to keep exact track of their characters’ mundane equipment; instead, they spend an amount to get an unspecified “Pocket Item” in
-
-that category. Then, when they’re out in the world and realize they could solve a problem with an item, they can just say, “I have that!” and pull it from their pocket. All Pocket Items are one-use only; after using them, the PC marks off one of their Pocket Items for the appropriate price category.
-
-Most Pocket Items are inexpensive, but moderate and expensive Pocket Items exist, and are likely more useful than their less expensive counterparts.
-
-The GM has veto power over items that they don’t think you could have found or carried.
-
-Using the I Have That! rule doesn’t preclude PCs from also purchasing these items directly. For example, if a character who sews wants to buy a thimble and an inexpensive Pocket Item, they can. However, they cannot later turn the thimble into a Pocket Item; it remains a thimble.
-
-Example Pocket Items
-
-Inexpensive
-- Apple
-- Ashes (handful)
-- Breadcrumbs
-- Butter
-- Candy
-- Chalk
-- Cricket in a cage
-- Cup
-- Egg
-- Fabric
-- Flyswatter
-- Glass jar
-- Glue
-- Honey
-- Leather
-- Magnets
-- Marbles
-- Nails
-- Needle and thread
-- Paper
-- Plait of hair
-- Pot of fat
-- Pot of grease 
-- Ribbon
-- Rice (handful) 
-- Straw
-- Tacks
-- Wax
-- Wool
-
-Moderate
-- Bird in a cage 
-- Sewing shears
-- Thimble
-
 ### CLOTHING
 
 Inexpensive
@@ -36642,7 +36748,8 @@ Very Expensive
 Exorbitant
 - Jeweled, ornate, royal, or bespoke weapon
 - Jeweled, ornate, royal, or bespoke armor
-- Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
+
+Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
 
 ### BASIC EQUIPMENT
 
@@ -37806,6 +37913,8 @@ It is difficult, but not impossible, to protect oneself from being found by yond
 ### ARTIFACTS
 
 Most artifacts in a Cypher System fairy tale setting are magical objects that have been either crafted via magic or later altered by or imbued with magic. There are a number of people and beings in fairy tale settings who are capable of creating artifacts by one or both of these methods. Additionally, some artifacts are products of magic or the setting itself. Thus, new artifacts are constantly entering the world, just waiting to be found and used by the characters.
+
+Artifacts in a fantasy setting and magic items in other games focused on fantasy would also be suitable for a fairy tale setting. However, every fairy tale artifact should come with a quirk that sets it apart from a simple “wand of fire” or similar item. Come up with your own or roll a quirk on the table below.
 
 #### ARTIFACT QUIRKS
 
@@ -39402,7 +39511,7 @@ Interaction: The Snow Queen is not evil—she just has forgotten what it means t
 
 Use: The Snow Queen guards the entrance to a place the characters need to enter.
 
-OF WATER AND WAVES (CREATURES)
+### OF WATER AND WAVES (CREATURES)
 
 Creatures of water and waves are those that inhabit or are deeply tied to the rivers, ocean, marshes, and other watery areas of the world.
 
@@ -47696,7 +47805,7 @@ GM intrusion: Important documents or other papers the character carries flap awa
 
   
 
-GUNFIGHTERS
+#### GUNFIGHTERS
 
 Gunfighters live and die by their six‑chambered peacemakers using a threatened—or actual—lightning‑quick draw to accomplish their aims. Most gunfighters are regular folks who practice their craft so diligently that they become the best, at least until they measure themselves against a desperado who’s a smidge faster. Most gunfighters in a weird west setting have a bit of the supernatural about them, but one variety of gunfighter, known as a hex gunner, explicitly mixes magic with bullets.
 
@@ -47765,7 +47874,7 @@ GM intrusion: The hex gunner releases a demon from their gun that immediately at
 
   
 
-NECROVORE
+#### NECROVORE
 
 Necrovores—otherwise known as undead—are what some call those that feed on death, those that are dead but still move, those that feed on life, and all things that lie somewhere in between. Now, some might quibble about using “necrovore” for such a wide range of creatures. But does it make a lick of difference if you call a shade of the tomb—a wraith that takes form from a gravestone’s shadow—a necrovore, a demon, or an undead when it’s draining all joy from existence? Nope. Same holds true for a deathbinder, hollowed ranger, risen (also called Damned), and tombdrift.
 
@@ -49734,6 +49843,308 @@ Typically, a revived artifact has the same depletion rate as it did when it was 
 
 ## Equipment
 
+In a modern fantasy setting, the following items (and anything else appropriate to a modern Earthlike world) are usually available. As with most physical things, a character can spend more for a higher-quality version of an item, such as an expensive altar cloth instead of a moderately priced one. Some of these price categories are higher than for a typical real-world item because items used with magic usually require higher quality or specific materials.
+
+  
+
+Inexpensive Items
+
+|   |   |
+|---|---|
+ 
+|Item|Notes|
+|Bottle||
+|Bowl||
+|Box||
+|Candle||
+|Candle Holder||
+|Crystals||
+|Figurine||
+|Fresh or dried flowers||
+|Incense||
+|Mason Jar||
+|Metal needles||
+|Mortar and pestle|Required for some magic and crafting|
+|Pendulum||
+|Poster|Diagrams of herbs and medicinal plants|
+|Sealing wax|Used in some rituals and for sealing letters|
+|Seashells||
+|Smudging stick|For cleansing an area and warding off negative energy|
+|Tea||
+
+  
+
+  
+
+Moderately Priced Items
+
+|   |   |
+|---|---|
+ 
+|Item|Notes|
+|Altar|Required for some rituals|
+|Altar cloth|Required for covering a ritual altar|
+|Artwork|Painting, drawing, or a high-quality print|
+|Athame|Required for some magic|
+|Boline|Required for some magic|
+|Broom||
+|Chalice|Required for some magic|
+|Crystal ball|Nonmagical sphere, required for some divination magic|
+|Decorative headband|Antlers, branches, flowers, and so on|
+|Drinking horn|Required for some magic|
+|Formal cloak||
+|Grimoire|Notebook for magical information|
+|Jewelry||
+|Lantern||
+|Old book|Asset on knowledge related tasks|
+|Plant|Provides herbs or supportive energy|
+|Pouch|Leather or velvet|
+|Rune set|Required for some divination spells|
+|Set of small stones|Required for some magic|
+|Signet|For use with sealing wax|
+|Skull (human or animal)||
+|Spirit board||
+|Staff||
+|Tarot deck||
+|Vintage clothing||
+|Wand||
+
+  
+
+  
+
+Expensive Items
+
+|   |   |
+|---|---|
+ 
+|Item|Notes|
+|Cauldron|Required for some magic and crafting|
+|Cloth canopy|For covering a meditation corner|
+|Cloth tapestry||
+|Frog pond|Labor and materials to build one|
+|Wedding dress (off the shelf)||
+
+  
+
+Many items in these lists are magical implements used with casting spells and performing rituals, but don’t have a specific purpose in the rules. The GM may decide that certain abilities or kinds of abilities require them or are hindered without them, such as using a crystal ball for a scrying spell, an athame for a protection spell, or a spirit board for a ritual to talk to a dead person.  
+  
+
+MODERN FANTASY CRAFTING MATERIALS
+
+An inferior example of a crafting ingredient counts as one price category lower. A superior example counts as one or more price categories higher.
+
+Often, a material with sentimental value to the magician is worth one price category more than its default value.
+
+  
+
+Inexpensive Materials
+
+• Base metals (copper, aluminum, iron, and so on)
+
+• Beer
+
+• Book (fiction, history)
+
+• Candle
+
+• Cheese
+
+• Clay or ceramic
+
+• Coffee
+
+• Combustible fuel (lamp oil, kerosene, gasoline)
+
+• Common animal (chicken, cow, tuna) parts, non‑renewable*
+
+• Common animal parts (chicken, cow, tuna), renewable*
+
+• Common fabric (denim, linen, polycotton, polyester, quilting cotton, wool)
+
+• Common stone (granite, sandstone, slate)
+
+• Common wood (pine, hemlock)
+
+• Dry food goods (nuts, beans, grains)
+
+• Edible mushrooms
+
+• Eggs
+
+• Flowers or flower petals
+
+• Fruit or vegetables
+
+• Glass
+
+• Hard alcohol
+
+• Houseplant
+
+• Human hair or nails
+
+• Ink
+
+• Leaves
+
+• Meat
+
+• Ornamental stones (agate, obsidian, quartz, turquoise)
+
+• Paint
+
+• Pastries
+
+• Plant-based drug (aspirin, opium, tobacco, cannabis)
+
+• Roots
+
+• Rubber
+
+• Salt
+
+• Sand
+
+• Seawater
+
+• Smoke
+
+• Soil or mulch
+
+• Sugar
+
+• Tea
+
+• Water
+
+• Wax
+
+• Wine
+
+  
+
+Moderately Priced Materials
+
+• Book or textbook
+
+• Custom seal matrix (such as a family crest or a magician’s personal rune)
+
+• Dust from an outdoor wedding
+
+• Earth from a grave
+
+• Fine fabric (cashmere wool, heirloom-quality linen, merino wool, silk satin)
+
+• Fine stone (marble)
+
+• Fine wood (oak, juniper, mesquite, redwood)
+
+• Firearm
+
+• Human blood
+
+• Human teeth
+
+• Incense
+
+• Knife
+
+• Lantern
+
+• Leather
+
+• Live music
+
+• Mushrooms (hallucinogenic, poisonous)
+
+• Musical instrument
+
+• Noble gas (helium, neon, argon)
+
+• Painting
+
+• Semi-precious stones (jasper, moonstone, onyx)
+
+• Shoes
+
+• Small sculpture
+
+• Stone from a grave marker
+
+• Sword
+
+• Uncommon animal (monkey, snake, lizard) parts, non-renewable*
+
+• Uncommon animal (monkey, snake, lizard) parts, renewable*
+
+• Water from a hot spring
+
+• Well water
+
+  
+
+Expensive Materials
+
+• Air from a mountaintop
+
+• Bottled lightning
+
+• Cypher, level 1–5
+
+• Exotic animal (elephant, reindeer, tiger) parts, non renewable*
+
+• Exotic animal (elephant, reindeer, tiger) parts, renewable*
+
+• Exotic wood (manzanita, sequoia)
+
+• Flame kindled from a burning house
+
+• Flame kindled from a funeral pyre
+
+• Human bones
+
+• Human organs
+
+• Meteorite
+
+• Pearl
+
+• Precious metals (gold, silver)
+
+• Precious stones (amber, amethyst, jade, topaz)
+
+• Raindrops from a powerful storm
+
+• Stone that has been in darkness for at least a century
+
+• Wood from a used coffin
+
+• Wood from a wine cask
+
+  
+
+Very Expensive Materials
+
+• Air from a person’s last breath
+
+• Baby’s first laugh
+
+• Cypher, level 6–10
+
+• Dream of an infant
+
+• Exotic metals (rare earths, uranium ore)
+
+• Gemstone (diamond, opal, ruby, sapphire)
+
+  
+
+Exorbitant Materials
+
+• Wood from an ancient tree
+
+  
 
 
 ## Cyphers
