@@ -7892,7 +7892,7 @@ Enabler. 
 
 ### Cypher Surge
 
-Cypher Surge #Ability #Core 
+Cypher Surge #Ability #Core #Fantasy 
 
 When you use a subtle cypher spell, as part of that action you can expend one other subtle cypher. Instead of the second cypher’s normal effect, you add one free level of Effort to the first cypher spell. 
 
@@ -8572,7 +8572,7 @@ Action.
 
 ### Dreadwood
 
-Dreadwood (6 Intellect points) #Ability #Core 
+Dreadwood (6 Intellect points) #Ability #Core #Fantasy 
 
 You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear. 
 
@@ -8770,7 +8770,7 @@ You can use the helping rules to provide a benefit to another character attempti
 
 ### Enchanted Movement
 
-Enchanted Movement (4+ Intellect points) #Ability #Core 
+Enchanted Movement (4+ Intellect points) #Ability #Core #Fantasy 
 
 You use your enchanted weapon to move yourself to any location within a long distance that you can see, as long as there are no obstacles or barriers in your way. The exact way this happens depends on your weapon; you might throw your magical hammer and be pulled along after it, shoot an arrow from your bow that pulls you forward like a grapple line, and so on. In addition to the normal options for using Effort, you can choose to use Effort to increase the distance traveled; each level of Effort used in this way increases the range by another 100 feet (30 m). If you have another ability (such as from your type) that allows you to cross a long distance, the range of that ability and this one increases to very long. 
 
@@ -8778,7 +8778,7 @@ Action. 
 
 ### Enchanted Weapon
 
-Enchanted Weapon (1 Intellect point) #Ability #Core 
+Enchanted Weapon (1 Intellect point) #Ability #Core #Fantasy 
 
 You attune yourself to a physical weapon, such as a sword, hammer, or bow. You know exactly where it is if it is within a short distance of you, and you know its general direction and distance if farther away. All of your other focus abilities require you to be holding or wielding this weapon. You can be attuned to only one weapon at a time; attuning yourself to a second weapon loses the attunement to the first one. Action to initiate, ten minutes to complete. 
 
@@ -9062,7 +9062,7 @@ Action.
 
 ### Expanded Repertoire
 
-Expanded Repertoire #Ability #Core 
+Expanded Repertoire #Ability #Core #Fantasy 
 
 The number of subtle cyphers you can bear at the same time increases by one. 
 
@@ -9280,7 +9280,7 @@ Action to initiate.
 
 ### Faster Wild Magic
 
-Faster Wild Magic #Ability #Core 
+Faster Wild Magic #Ability #Core #Fantasy 
 
 If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots. 
 
@@ -9989,7 +9989,7 @@ Action.
 
 ### Great Tree
 
-Great Tree #Ability #Core 
+Great Tree #Ability #Core #Fantasy 
 
 When you use Wooden Body, you may grow to up to 12 feet (4 m) in height. In this larger form, you add 7 points to your Might Pool and +2 to your Might Edge. If you chose to grow, when Wooden Body ends you subtract 7 points from your Might Pool (if this brings the Pool to 0, subtract the overflow first from your Speed Pool and then, if necessary, from your Intellect Pool). When you use Wooden Body, whether or not you choose to grow, instead of looking like a wooden version of your normal self, you can take on the full appearance of a humanoid tree creature or an actual tree (including growing additional branches, extra foliage, and so on). This does not affect any of your abilities—in tree shape, you can use type abilities, other focus abilities, and so on. In tree shape, pretending to be a tree and hiding among normal trees are eased by two steps. 
 
@@ -10801,7 +10801,7 @@ Action to enter and exit.
 
 ### Innate Power
 
-Innate Power #Ability #Core 
+Innate Power #Ability #Core #Fantasy 
 
 Choose either your Might Pool or your Speed Pool. When spending points to activate your focus abilities, you can spend points from this Pool instead of your Intellect Pool (in which case you use your Might Edge or Speed Edge instead of your Intellect Edge, as appropriate). 
 
@@ -11175,7 +11175,7 @@ Action.
 
 ### Lend Animal Shape
 
-Lend Animal Shape (6+ Intellect points) #Ability #Core 
+Lend Animal Shape (6+ Intellect points) #Ability #Core #Fantasy 
 
 You change into an animal, and one willing creature within immediate range also transforms into an animal of that type (bear, tiger, wolf, and so on) for ten minutes, as if they were using your Animal Shape ability. For each level of Effort applied, you can affect one additional creature. All creatures transforming with you must be your size or smaller. A creature can revert to its normal form as an action, but it cannot then change back into the animal form. One creature (whether you or someone else) changing form does not affect any other creature affected with this ability. 
 
@@ -11389,7 +11389,7 @@ Enabler.
 
 ### Magical Repertoire
 
-Magical Repertoire #Ability #Core 
+Magical Repertoire #Ability #Core #Fantasy 
 
 The number of subtle cyphers you can bear at the same time increases by two. If you spend one hour preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this hour can be part of a one-hour or ten-hour recovery action if you are awake for the entire time). As part of this preparation process, you may discard any number of subtle cyphers you carry to make room for more subtle cyphers. 
 
@@ -11399,7 +11399,7 @@ Enabler.
 
 ### Magical Training
 
-Magical Training #Ability #Core 
+Magical Training #Ability #Core #Fantasy 
 
 You are trained in all of your spells. As a result, you ease any task involved in the use of your spells. 
 
@@ -11561,7 +11561,7 @@ Action to initiate.
 
 ### Maximize Cypher
 
-Maximize Cypher #Ability #Core 
+Maximize Cypher #Ability #Core #Fantasy 
 
 Choose one subtle cypher you bear. Its level becomes the maximum level possible for that cypher. For example, a meditation aid has a level range of 1d6 + 2, so maximizing that cypher changes its level to 8. You can have only one maximized subtle cypher at a time. You can’t use this ability again until after you’ve taken a ten-hour recovery action. 
 
@@ -12259,7 +12259,7 @@ Enabler.
 
 ### Patient Recovery
 
-Patient Recovery #Ability #Core 
+Patient Recovery #Ability #Core #Fantasy 
 
 You gain an extra ten-minute recovery roll each day. 
 
@@ -12449,7 +12449,7 @@ Enabler.
 
 ### Power Crash
 
-Power Crash (3 Intellect points) #Ability #Core 
+Power Crash (3 Intellect points) #Ability #Core #Fantasy 
 
 You strike your enchanted weapon against the ground (or a similar large surface), creating an explosion of energy that affects an area up to immediate range from that point. (If your enchanted weapon is a ranged weapon, you can instead target a point within close range to be the center of the explosion.) The blast inflicts 2 points of damage to all creatures or objects within the area (except for you). Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. 
 
@@ -13116,7 +13116,7 @@ Action; one minute to initiate.
 
 ### Restorative Bloom
 
-Restorative Bloom (5 Might points) #Ability #Core 
+Restorative Bloom (5 Might points) #Ability #Core #Fantasy 
 
 When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils. 
 
@@ -14504,7 +14504,7 @@ Enabler.
 
 ### Throw Enchanted Weapon
 
-Throw Enchanted Weapon #Ability #Core 
+Throw Enchanted Weapon #Ability #Core #Fantasy 
 
 You can throw your enchanted weapon up to short range as a light ranged weapon. Whether it hits or misses, it immediately flies back to your hands, and you can automatically catch it or allow it to land at your feet. 
 
@@ -14752,7 +14752,7 @@ Action.
 
 ### Tree Companion
 
-Tree Companion (5+ Intellect points) #Ability #Core 
+Tree Companion (5+ Intellect points) #Ability #Core #Fantasy 
 
 You animate a tree of approximately your size or smaller, creating a level 3 creature with 1 Armor. The tree follows your verbal commands for one hour, after which it reverts to a normal tree (and roots itself where it stands). Unless the tree is killed by damage, you can animate it again when the ability duration expires, but any damage it has carries over to its newly animated state. In addition to the normal options for using Effort, you can choose to use Effort to affect more trees; each level of Effort used affects one additional tree. 
 
@@ -15238,7 +15238,7 @@ Action to initiate.
 
 ### Wild Insight
 
-Wild Insight #Ability #Core 
+Wild Insight #Ability #Core #Fantasy 
 
 You gain a momentary perfect understanding of the flow of magic around you at this moment. When preparing your magic, choose one specific subtle cypher and make a magical lore skill roll against level 6. If you succeed, you gain that subtle cypher (the cypher’s level is 6); if you fail, you get a random subtle cypher. If you aren’t sure what specific subtle cypher you want, you can ask for a broad category such as “healing,” “movement,” or “skill”; this eases the magical lore task, and if you succeed, the GM chooses a random cypher that fits that category. You can’t use this ability again until after you’ve taken a ten-hour recovery action. 
 
@@ -15384,7 +15384,7 @@ Action for touch; enabler for weapon.
 
 ### Wooden Body
 
-Wooden Body (1+ Might points) #Ability #Core 
+Wooden Body (1+ Might points) #Ability #Core #Fantasy 
 
 You transform your body into living wood for ten minutes, which grants you several benefits. You gain +1 to Armor and you are practiced in using your limbs as medium weapons. You need about one-tenth as much air as a human. Hiding among trees or on a tree is eased. However, in your wooden form you move more stiffly than a creature of flesh, hindering your Speed defense rolls. 
 
@@ -22749,172 +22749,10 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 3. You were exiled from your community and need to prove your worthiness before you can return to it. 
 4. You or your priest had a vision of you traveling with the other PCs.
 
-### NEW ABILITIES
-
-Animal Scrying (4+ Intellect points): If you know the general location of an animal that is friendly toward you and within 1 mile (1.5 km) of your location, you can sense through its senses for up to ten minutes. If you are not in animal form or not in a form similar to that animal, you must apply a level of Effort to use this ability. Action to establish. 
-
-  
-
-Animal Shape (3+ Intellect points): You change into an animal as small as a rat or up to your own size (such as a large dog or small bear) for ten minutes. Each time you transform, you can take a different animal shape. Your equipment becomes part of the transformation, rendering it unusable unless it has a passive effect, such as armor. In this form your stats remain the same as your normal form, but you can move and attack according to your animal shape (attacks from most animals this size are medium weapons, which you can use without penalty). Tasks requiring hands (such as using door handles or pushing buttons) are hindered when in animal form. You cannot speak but can still use abilities that don’t rely on human speech. You gain two minor abilities associated with the creature you become (see the Animal Form Minor Abilities table). For example, if you transform into a bat, you become trained in perception and can fly up to a long distance each round. If you transform into an octopus, you are trained in stealth and can breathe underwater. If you apply a level of Effort when you use this ability, you can either become a talking animal or take a hybrid shape. The talking animal shape looks exactly like a normal animal, but you can still talk and use any abilities that rely on human speech. The hybrid shape is like your normal form but with animalistic features, even if that animal is something much smaller than you (such as a bat or rat). In this hybrid form you can speak, use all of your abilities, make attacks like an animal, and perform tasks using hands without being hindered. Anyone who sees you clearly in this hybrid form would never mistake you for a mere animal. Action to change or revert. 
-
-“Similar” is a broad term. Lions are similar to tigers and leopards, hawks are similar to ravens and swans, dogs are similar to wolves and foxes, and so on.
-
-Even if your animal shape has multiple attack types (such as claws and bite), you can attack only once per round unless you have some other ability that lets you make additional attacks on your turn.
-
-Animal Shape variant: If your character concept is that you always take the same animal form instead of being able to choose from multiple kinds of animals, double the duration of the Animal Shape ability (to twenty minutes per use). The GM may allow characters with this restriction to learn additional animal forms by spending 4 XP as a long-term benefit.
-
-  
-
-Bigger Animal Shape: When you use Animal Shape, your animal form grows to about twice its normal size. Being so large, your beast form gains the following additional bonuses: +1 to Armor, +5 to your Might Pool, and you are trained in using your animal form’s natural attacks as heavy weapons (if you weren’t already). However, your Speed defense tasks are hindered. While bigger, you also gain an asset to tasks that are easier for a larger creature to perform, like climbing, intimidating, wading rivers, and so on. Enabler. 
-
-  
-
-Charge Weapon (2+ Intellect points): As part of making an attack with your enchanted weapon, you charge it with magical power, inflicting 2 additional points of energy damage. If you make more than one attack on your turn, you choose whether to spend the cost for this ability before you make each attack. Enabler. 
-
-  
-
-Cypher Casting: You can cast any of your subtle cyphers on another creature instead of yourself. You must touch the creature to affect it. Enabler. 
-
-  
-
-Cypher Surge: When you use a subtle cypher spell, as part of that action you can expend one other subtle cypher. Instead of the second cypher’s normal effect, you add one free level of Effort to the first cypher spell. Enabler.
-
-  
-
-Defending Weapon: When using your enchanted weapon, you are trained in Speed defense tasks. Enabler. 
-
-  
-
-Dreadwood (6 Intellect points): You manipulate wind, mist, and shadows to embody the primordial fear of mysterious woods. For the next minute, you gain an asset on intimidation tasks. Creatures within short range may become frightened; make a separate Intellect attack roll for each creature (if you are larger than normal from using Great Tree or another source, these rolls are eased). Success means that they are frozen in fear, not moving or taking actions for one minute or until they are attacked. Some creatures without minds might be immune to this fear. Action. 
-
-  
-
-Enchanted Movement (4+ Intellect points): You use your enchanted weapon to move yourself to any location within a long distance that you can see, as long as there are no obstacles or barriers in your way. The exact way this happens depends on your weapon; you might throw your magical hammer and be pulled along after it, shoot an arrow from your bow that pulls you forward like a grapple line, and so on. In addition to the normal options for using Effort, you can choose to use Effort to increase the distance traveled; each level of Effort used in this way increases the range by another 100 feet (30 m). If you have another ability (such as from your type) that allows you to cross a long distance, the range of that ability and this one increases to very long. Action. 
-
-  
-
-Enchanted Weapon (1 Intellect point): You attune yourself to a physical weapon, such as a sword, hammer, or bow. You know exactly where it is if it is within a short distance of you, and you know its general direction and distance if farther away. All of your other focus abilities require you to be holding or wielding this weapon. You can be attuned to only one weapon at a time; attuning yourself to a second weapon loses the attunement to the first one. Action to initiate, ten minutes to complete. Enabler. 
-
-If you attune yourself to a different weapon, come up with a story reason for why you are able to do that and why you chose this new weapon
-
-  
-
-Expanded Repertoire: The number of subtle cyphers you can bear at the same time increases by one. Enabler. 
-
-  
-
-Faster Wild Magic: If you spend ten minutes preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this time can be part of a ten-minute, one-hour, or ten-hour recovery action if you are awake for the entire time). You can’t use this ability again until after you’ve taken a ten-hour recovery action. You can still use Magical Repertoire to fill your cypher slots. Action to initiate, ten minutes to complete. 
-
-  
-
-Great Tree: When you use Wooden Body, you may grow to up to 12 feet (4 m) in height. In this larger form, you add 7 points to your Might Pool and +2 to your Might Edge. If you chose to grow, when Wooden Body ends you subtract 7 points from your Might Pool (if this brings the Pool to 0, subtract the overflow first from your Speed Pool and then, if necessary, from your Intellect Pool). When you use Wooden Body, whether or not you choose to grow, instead of looking like a wooden version of your normal self, you can take on the full appearance of a humanoid tree creature or an actual tree (including growing additional branches, extra foliage, and so on). This does not affect any of your abilities—in tree shape, you can use type abilities, other focus abilities, and so on. In tree shape, pretending to be a tree and hiding among normal trees are eased by two steps. Enabler.
-
-  
-
-Innate Power: Choose either your Might Pool or your Speed Pool. When spending points to activate your focus abilities, you can spend points from this Pool instead of your Intellect Pool (in which case you use your Might Edge or Speed Edge instead of your Intellect Edge, as appropriate). Enabler
-
-  
-
-Lend Animal Shape (6+ Intellect points): You change into an animal, and one willing creature within immediate range also transforms into an animal of that type (bear, tiger, wolf, and so on) for ten minutes, as if they were using your Animal Shape ability. For each level of Effort applied, you can affect one additional creature. All creatures transforming with you must be your size or smaller. A creature can revert to its normal form as an action, but it cannot then change back into the animal form. One creature (whether you or someone else) changing form does not affect any other creature affected with this ability. Action.
-
-A creature that takes animal form with Lend Animal Shape counts as an animal for the use of Animal Scrying.
-
-A character might be able to take the shape of a creature that is similar to a common animal, such as a unicorn instead of a horse or a basilisk instead of a lizard, but doing so should require applying at least one level of Effort to the change, and the character wouldn’t gain any of the creature’s magical abilities.
-
-  
-
-Magical Repertoire: The number of subtle cyphers you can bear at the same time increases by two. If you spend one hour preparing your magic, you can fill any of your open cypher slots with subtle cyphers chosen randomly by the GM (this hour can be part of a one-hour or ten-hour recovery action if you are awake for the entire time). As part of this preparation process, you may discard any number of subtle cyphers you carry to make room for more subtle cyphers. Enabler.
-
-If a character has Magical Repertoire, the GM should give the PC frequent opportunities to gain new subtle cyphers, whether from preparation or by gaining them automatically as explained in the Cyphers chapter
-
-  
-
-Magical Training: You are trained in all of your spells. As a result, you ease any task involved in the use of your spells. Enabler.
-
-  
-
-Maximize Cypher: Choose one subtle cypher you bear. Its level becomes the maximum level possible for that cypher. For example, a meditation aid has a level range of 1d6 + 2, so maximizing that cypher changes its level to 8. You can have only one maximized subtle cypher at a time. You can’t use this ability again until after you’ve taken a ten-hour recovery action. Enabler.
-
-  
-
-Patient Recovery: You gain an extra ten-minute recovery roll each day. Enabler.
-
-  
-
-Power Crash (3 Intellect points): You strike your enchanted weapon against the ground (or a similar large surface), creating an explosion of energy that affects an area up to immediate range from that point. (If your enchanted weapon is a ranged weapon, you can instead target a point within close range to be the center of the explosion.) The blast inflicts 2 points of damage to all creatures or objects within the area (except for you). Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. Action.
-
-  
-
-Restorative Bloom (5 Might points): When Wooden Body or Great Tree is in effect, you produce a flower, acorn, fruit, or similar plant-based edible item. A creature that eats this food is nourished for a full day and restores their Might Pool, Speed Pool, and Intellect Pool to their maximum values, as if they were fully rested. Eating a second food produced by this ability in a day has no effect. If the food is not eaten within ten minutes, it spoils. Action to produce, action to eat.
-
-  
-
-Throw Enchanted Weapon: You can throw your enchanted weapon up to short range as a light ranged weapon. Whether it hits or misses, it immediately flies back to your hands, and you can automatically catch it or allow it to land at your feet. Enabler.
-
-  
-
-Tree Companion (5+ Intellect points): You animate a tree of approximately your size or smaller, creating a level 3 creature with 1 Armor. The tree follows your verbal commands for one hour, after which it reverts to a normal tree (and roots itself where it stands). Unless the tree is killed by damage, you can animate it again when the ability duration expires, but any damage it has carries over to its newly animated state. In addition to the normal options for using Effort, you can choose to use Effort to affect more trees; each level of Effort used affects one additional tree. Action.
-
-  
-
-Tree Travel (4+ Intellect points): You enter one tree and instantaneously and safely emerge from another one within long distance. You don’t need to specify which tree you’re exiting from (if you know there are trees in that direction, you can decide how far to go and you will step out of a tree in that area). If the starting tree’s trunk isn’t as large as your body, you must apply a level of Effort to enter it. You can choose to use Effort to increase the distance you travel; one level of Effort used in this way increases the range to very long, two levels raise it to one mile (1.5 km), and each additional level of Effort beyond that increases it by an additional mile. Action.
-
-  
-
-Wild Insight: You gain a momentary perfect understanding of the flow of magic around you at this moment. When preparing your magic, choose one specific subtle cypher and make a magical lore skill roll against level 6. If you succeed, you gain that subtle cypher (the cypher’s level is 6); if you fail, you get a random subtle cypher. If you aren’t sure what specific subtle cypher you want, you can ask for a broad category such as “healing,” “movement,” or “skill”; this eases the magical lore task, and if you succeed, the GM chooses a random cypher that fits that category. You can’t use this ability again until after you’ve taken a ten-hour recovery action. Enabler.
-
-  
-
-Wooden Body (1+ Might points): You transform your body into living wood for ten minutes, which grants you several benefits. You gain +1 to Armor and you are practiced in using your limbs as medium weapons. You need about one-tenth as much air as a human. Hiding among trees or on a tree is eased. However, in your wooden form you move more stiffly than a creature of flesh, hindering your Speed defense rolls. Action to change or revert.
-
-Your wooden body might be smooth like a polished board, rough like tree bark, or a mix of both.
-
-ANIMAL FORM MINOR ABILITIES TABLE
-  
-|Animal|Skill Training|Other Abilities|
-|---|---|---|
-|Ape|Climbing|Hands|
-|Badger|Climbing|Scent|
-|Bat|Perception|Flying|
-|Bear|Climbing|Scent|
-|Bird|Perception|Flying|
-|Boar|Might defense|Scent|
-|Cat|Climbing or stealth|Small|
-|Constrictor snake|Climbing|Constrict|
-|Crocodile|Stealth or swimming|Constrict|
-|Deinonychus|Perception|Fast|
-|Dolphin|Perception or swimming|Fast|
-|Fish|Stealth or swimming|Aquatic|
-|Frog|Jumping or stealth|Aquatic|
-|Horse|Perception|Fast|
-|Leopard|Climbing or stealth|Fast|
-|Lizard|Climbing or stealth|Small|
-|Octopus|Stealth|Aquatic|
-|Shark|Swimming|Aquatic|
-|Turtle|Might defense|Armor|
-|Venomous snake|Climbing|Venom|
-|Wolf|Perception|Scent|
-
-Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
-
-Armor: The animal has a thick hide or shell, granting +1 to Armor.
-
-Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until the animal releases the foe.
-
-Fast: The animal can move a long distance on its turn instead of a short distance.
-
-Flying: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.
-
-Hands: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).
-
-Scent: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.
-
-Small: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.
-
-Venom: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.
-
 ## Extra Rules
+
 ### AWARDING TREASURE
+
 It’s best to think of gold and magic as two different kinds of currencies that characters have access to. 
 
 #### GOLD
@@ -24348,6 +24186,7 @@ Explorer Starting Equipment: Appropriate clothing and a weapon of your choice, p
 Speaker Starting Equipment: Appropriate clothing and a light weapon of your choice, plus 3d6 + 90 gp
 
 ### ADDITIONAL FANTASY EQUIPMENT
+
 In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.
 
 #### INEXPENSIVE ITEMS
@@ -24605,6 +24444,7 @@ It’s more fun if a character finds an improved version of a weapon they like i
 |Maul|10 gp||
 
 ##### FANTASY ARMOR DESCRIPTIONS
+
 You can wear only one kind of armor at a time (wearing more than one only gives the Armor from the best one and the Speed Effort cost of the worst one). 
 
 Beastskin: An improved form of hides and furs, usually crafted from a creature with especially tough skin such as a giant lizard or rhinoceros.
@@ -24660,6 +24500,7 @@ If the GM prefers the simpler method of not tracking whether an attack is bashin
 
 
 ##### Adventuring equipment DESCRIPTIONS
+
 Acid: A flask of strong acid. Can be thrown up to short range, inflicting acid damage as a light weapon (ignores Armor). If poured carefully, it can damage or destroy a small item or areas made of stone or metal. 
 
 Adventuring pack: Includes 50 feet (15 m) of rope, three days’ iron rations, three spikes, small hammer, a set of warm clothes, boots, and three torches. 
@@ -24751,6 +24592,7 @@ Torch: A wooden stick with some kind of fuel on one end (such as burlap and wax)
 |Waterskin|2 sp|
 
 ##### Fantasy clothing descriptions
+
 Specific pieces of clothing vary by climate and local custom, but usually include a hat, shirt, belt, pants or skirt, shoes, and underclothes. 
 
 Artisan’s outfit: A suitable outfit for a person who performs a trade (blacksmith, cobbler, and so on). Often includes an apron and a belt for holding tools. 
@@ -24787,7 +24629,8 @@ Wizard’s outfit: Clothing that identifies the wearer as a practitioner of arca
 |Traveler’s outfit|2 gp|
 |Wizard’s outfit|5 gp|
 
-##### ANIMALS AND GEAR DESCRIPTIONS  
+##### ANIMALS AND GEAR DESCRIPTIONS 
+
 Draft horse: A strong horse able to carry or pull heavy loads. 
 
 Guard dog: A dog specially trained to guard. Better suited for watching or patrolling an area against thieves and intruders than it is for accompanying adventurers into dangerous locations. 
@@ -24830,6 +24673,7 @@ Warhorse: A horse trained to be calm during the noise and action of combat, used
 |Wine (pitcher)|2 sp|
 
 ## Creatures
+
 Basic CREATURES AND NPCs FOR A FANTASY GAME
 - Bat: level 1
 - Dog: level 2, perception as level 3
@@ -24895,9 +24739,11 @@ OTHER CREATURES AND NPCs FOR A FANTASY GAME
 - Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
 - Wolf: level 3, perception as level 4
 - Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
-  
+
 # Modern
+
 ## Setting
+
 The modern setting is easy because it’s just the real world, right? Well, yes and no. It’s easy for players to understand the context of a modern setting. They know the default assumptions—cities, cars, cell phones, the internet, and so on. It’s also easier for some players to get into character, because their character could be someone they might very well pass on the street. It can be easier to wrap your mind around a history professor than a thousand-year-old elf wizard. These things make it easier on the GM as well.
 
 But for the same reason, it’s not easy. The setting is the real world we all know, so it’s easy to get facts wrong or let them bog you down. What happens when you pull the fire alarm on the thirty-fifth floor of a major hotel in a large city? How fast do the authorities arrive? In truth, the facts aren’t as important as the story you’re creating, but some verisimilitude is nice.
@@ -24936,6 +24782,7 @@ Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading f
 |Occultist|Adept|
 |Mystic/Psychic|Adept|
 ### Equipment
+
 In a modern setting, the following items (and anything else appropriate to the real world) are usually available.
 
 INEXPENSIVE ITEMS
@@ -25046,7 +24893,9 @@ EXORBITANT ITEMS
 |Sports car|Level 6|
 
 ## Extra Rules
+
 ### OPTIONAL RULE: HANDLING PCs AS CHILDREN
+
 The regular character creation process makes fully competent, adult characters. To account for playing children, the GM could adopt this optional rule. First, the players make their characters normally, and then they apply the following adjustments to their PCs, as appropriate to their age category. You might also consider applying a tier cap of 3 to childhood adventure games with kids of up to thirteen years old, and a tier cap of 4 for childhood adventure games featuring PCs who are aged fourteen to seventeen.
 
 AGE 9 TO 13
@@ -25060,7 +24909,9 @@ AGE 14 TO 17
 - Inability: Tasks involving knowledge are hindered.
 
 ### Creatures
+
 #### Basic CREATURES AND NPCs FOR A Modern GAME
+
 - Businessperson: level 2, business tasks as level 3
 - Cat: level 1, Speed defense as level 3
 - Clerk: level 2
@@ -25071,23 +24922,28 @@ AGE 14 TO 17
 - Worker: level 2; health 8
 
 # Science Fiction
+
 ## Setting
+
 Science fiction is an incredibly broad category. It covers UFOs, space opera, near-future dystopias, otherworldly epics, hard science fiction, and everything in between. Even when compared to fantasy, science fiction is so wide that it almost isn’t a single genre at all. Truthfully, there’s not all that much to tie, say, _The Time Machine_ by H. G. Wells with a dark cyberpunk story except for the technology involved, which is at a higher level than we possess or understand today. But even that part of science fiction is contentious. Should the science be purely that which obeys the laws of physics as we understand them today (often called hard science fiction), or is it more of an “anything goes” proposition? Is science we can’t explain really just magic?
 
 For our purposes, we’ll treat fantastic science fiction as the default: aliens, spaceships that allow travel to other stars, energy weapons and shields, and so on. It’s a familiar setting to almost everyone interested in science fiction. That said, we’ve also got some additional guidance for hard science fiction, where what’s possible is more grounded in what we currently scientifically extrapolate. But your science fiction setting can be anything you can imagine.
- 
-## Extra Rules
 #### ESTABLISHING A TECHNOLOGY RATING
+
 Every science fiction setting has an implicit level of advancement, which is the average degree of technological sophistication available to most characters. This sophistication lies along a spectrum, from contemporary, to advanced, all the way to fantastic. Each of these terms specifies a particular “technology rating” (or “tech rating” for short). 
 
 A tech rating is a handy way of helping you select what equipment your characters can use, which optional rules you’d like to include, and maybe even help guide your creature choice.
 
 On the other hand, you could choose to make all options available, regardless of tech rating. No technology police will cite you if you don’t stick inside a previously declared lane. The setting is your background for telling a compelling story. Does your setting have faster-than-light travel? Great. Unless it’s integral to the story (or fun for you), don’t worry about justifying it if you’ve generally settled on an advanced rating for your hard science fiction game (which doesn’t normally include FTL capability). In fact, the surprising and unexpected are where excitement is usually found in a setting; breaking the established rules (for a good reason) often leads to interesting results.
 
+## Extra Rules
+
 #### COSMIC SET PIECES AND OPTIONAL RULES
+
 This chapter contains a variety of subsystems and set pieces that you can choose to incorporate in your game, depending on the kind of setting you’d like to run. Options here run the gamut from making your science fiction setting more realistic to making your fantastic games even wilder by introducing rules for posthuman advancement and psionics.
 
 #### QUICK DESCRIPTIONS FOR COMMON SCI-FI SITUATIONS
+
 Weightlessness (zero G) feels like, first time: The sensation of falling jerks through the body; instincts scream to reach out and catch yourself. 
 
 Weightlessness (zero G) feels like, once acclimated: A feeling of lightness, evanescence, like floating in a pool of water, if the water were clear air. A little push sends you gliding. 
@@ -25100,6 +24956,7 @@ Exposure to hard radiation feels like: Heat. (The more dangerous the radiation, 
 
 Exposure to vacuum feels like: Breath explodes out of lungs, cold slashes the body like a knife carved from a glacier. Tears freeze in the corners of eyes, ice forms on teeth and tongue. Moisture boils out of ears, scalp, freezing on exposed skin, lips, and eyelids. (As this happens, the Effects of Vacuum also take their mechanical toll on the character.)
 ### OPTIONAL RULES: HARDER SCIENCE FICTION
+
 Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions. 
 
 In fact, that bears repeating: Use GM intrusions to incorporate these harder science fiction repercussions when the situation is relevant. Rather than hitting your PCs over the head with an information-exposition hammer on the dangers of space repeatedly, simply demonstrate it with a relevant GM intrusion. 
@@ -25115,6 +24972,7 @@ High Gravity: All physical tasks are hindered. Ranges in high gravity are reduce
 Zero Gravity: All physical tasks are hindered. Short-range weapons can reach to long range, and long-range weapons can reach to very-long range.
 
 #### VOID RULES
+
 The extreme environment in space— hard radiation, lack of air and pressure, wild temperature variations, and lack of gravity—tends to magnify small issues into much more significant ones. While Murphy’s Law (everything that can go wrong will go wrong) is a useful reminder to keep an eye out for trouble even under regular circumstances, Finagle’s Law reigns in space, which is that anything that can go wrong, will go wrong—at the worst possible moment. To evoke this law, GMs can implement Void Rules. 
 
 The idea is to create a feeling of increased repercussions by changing one die roll mechanic. In the game, activities on a planet’s surface—and within a functioning air-filled spacecraft, habitat, or space suit when everything is going well—remain normal. The PCs interact with each other and the NPCs, investigate, research, repair an external sensor module, travel, and so on. 
@@ -25194,6 +25052,7 @@ SPACE HEALTH HAZARD GM INTRUSIONS
 |06|The character is diagnosed with cancer. Depending on the tech setting, it is amenable to medical intervention (or at least long-term treatment to keep symptoms controlled), if that intervention comes soon enough.|
 
 #### MOVING IN MICROGRAVITY 
+
 Long-term zero G is dangerous, but there are issues associated with moving around in microgravity. Those who have spent at least a little time in microgravity can move as part of a routine action. It’s only when something else distracting or dangerous is happening simultaneously that routine movements through a ship or station become potentially problematic.
 
 **MOVING IN MICROGRAVITY GM INTRUSIONS**
@@ -25209,6 +25068,7 @@ Long-term zero G is dangerous, but there are issues associated with moving aroun
 |06|When attempting to grab a resisting target or panicking ally, or after some kind unexpected shake or violent ship maneuver, the character is sent on an unexpected trajectory as if they had misjudged a jump.|
 
 ### OPTIONAL RULES: EXTENDED VEHICULAR COMBAT (SPACECRAFT COMBAT)
+
 When vehicular combat occurs—which happens whenever the PCs are completely enclosed in a vehicle so that it’s not really the characters fighting, but the vehicles— start with the vehicular combat rules described in the Cypher System Rulebook. 
 
 However, if you’d like to provide the PCs with more options designed especially for spacecraft combat, use these optional rules instead, which include a “redline maneuver” system for trying extremely risky spacecraft maneuvers, bridge combat options, and more. The base vehicular combat rules have been integrated into these extended rules, so you don’t need to continually cross-reference them to understand how it all works.
@@ -25271,6 +25131,7 @@ A spacecraft with some or all of the PCs crewing different systems stations will
 But be careful, because even competent PCs should fear squadrons of enemy ships, and military craft with several weapon systems. Even a single level difference is magnified, so make sure not to capriciously throw spacecraft at the PCs that are 2 levels higher than their own
 
 #### BRIDGE COMBAT
+
 If several PCs are aboard the same spacecraft, give them the following option: ask each PC to crew one of the ship system stations, including weapons (of which there could be more than one system, requiring more than one PC to crew them all), piloting, and science and engineering (which could be divided into two stations with similar functionality). A spacecraft generally has a number of system stations equal to its level. PCs on spacecraft that are lower level must flip between system controls as part of another action, using two stations or even just one station for the whole ship. Even if a PC flips a station (reconfigures, as engineers like to say), only a single PC can crew a station (and take an action using it) each round.
 
 When crewing their stations, PCs have several station-specific options available to them. What they do can bears on how the encounter plays out on a round-to-round basis, similar to regular combat. Specific options are provided for each station, but characters are free to attempt other actions they can think of.
@@ -25280,6 +25141,7 @@ The following ship systems might be found on larger spacecraft with room for mor
 **Shipmind System Control**: Some ships with integrated AIs (shipminds) can control a particular system autonomously, without a PC. When it acts in this fashion, it can only take a single action each round, which means it could attack and move, but not also attempt a complicated engineering or defensive maneuver. A shipmind acts at a level equal to the overall spacecraft. In addition, shipmind actions against an enemy spacecraft are assessed with the same modifiers for targeting as a PC crewing the station.
 
 ##### WEAPONS
+
 A spacecraft may have more than one weapon system. Each individual weapon system has its own station, which can be crewed by a separate PC. Spacecraft systems are considered heavy weapons (which means some characters may be practiced in their use, though others may have an inability). A spacecraft can potentially make as many attacks each round as weapon systems it possesses, if each station is crewed. 
 
 Refer to PC Weapon System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
@@ -25296,6 +25158,7 @@ Refer to PC Weapon System Options. If the PC triggers a GM intrusion, the follow
 |06|Weapon melts to slag, must be replaced at a shipyard.|
 
 ##### PILOTING
+
 Many spacecraft have only a single system and dedicated station for piloting and navigation, suitable for a single PC to crew, though a larger craft could split those duties. A PC piloting a ship during combat can attempt any number of piloting tasks, as well as any other type of flying that they deem necessary. While not in combat, the PC crewing this station pilots the ship from place to place in space. 
 
 Refer to PC Piloting System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
@@ -25314,6 +25177,7 @@ PILOTING SYSTEM GM INTRUSIONS 
 |06|Drive will imminently die, must be replaced at a shipyard (though it can be nursed to life just a little longer with some redline engineering).|
 
 ##### SCIENCE AND ENGINEERING
+
 A spacecraft may have more than one science and engineering system. Each science and engineering system has a station, each of which can be crewed by a separate PC. A spacecraft can potentially attempt as many science and engineering tasks each round as stations systems it possesses, if each one is crewed. 
 
 Refer to PC Science & Engineering System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
@@ -25331,9 +25195,11 @@ Refer to PC Science & Engineering System Options. If the PC triggers a GM intrus
 |06|Hull integrity breached, atmosphere begins to vent, and possibly one or two crew too near the hole are at risk of being sucked out. Unless repaired, ship atmosphere is lost to space within a few minutes.|
 
 ##### OPTIONAL: COMMAND
+
 Ships with a captain may have a Command station, possibly a captain’s chair, though the captain might just crew one of the other stations. Sometimes those with captain’s privileges also have the Captain’s Calm special ability. Normally, a captain commanding someone else to do something can’t redline; it would be up to the person who received the command whether to try to redline or not, and to face any GM intrusion consequences.
 
 #### BRIDGE COMBAT AT THE TABLE
+
 Running a combat using these extended rules is straightforward. 
 
 Know your stuff: First, familiarize yourself with the material. 
@@ -25349,6 +25215,7 @@ At the end of each full round, reset all the markers on the tracker to their bas
 Roll initiative: Begin the combat, with the enemy spacecraft of your choice taking on the PCs’ ship. Decide whether the enemy spacecraft are already in weapon range (it’s your call, we’re not tracking that here), and if not, how soon they will be close enough to begin attacking, and let the combat flow
 
 #### VEHICLES FIGHTING CREATURES
+
 Spacecraft vs. Colossal Creatures: If a creature is as capable as a spacecraft, treat it that way when it comes to vehicular combat. Instead of adjusting for mismatched tech rating, treat the creature’s effective level as if three levels less than its actual level. Extrapolate “weapon systems” to the creature’s attack methods, defenses to its weird organic plating, and so on. Killing such a creature means taking out its “power core or other vital spot.”
 
 Spacecraft vs. Regular Creatures: If a vehicle weapon system fires on an unprotected PC (or a PC in a spacecraft fires ship weapons on a creature outside the craft that isn’t colossal), it’s an entirely different situation. Attacks against a vehicle’s systems face all the previously mentioned modifiers. On top of that, add an additional five steps of hindrance to attacks by a regular creature against a starcraft.
@@ -25356,6 +25223,7 @@ Spacecraft vs. Regular Creatures: If a vehicle weapon system fires on an unprote
 A PC defending from a spacecraft’s attack is hindered by five steps. Except in this case, the spacecraft inflicts damage. Given that ship weapons compared to handheld weapons are an order of magnitude apart when it comes to power, a good rule of thumb is that a spacecraft’s weapon inflicts 25 points of damage on a successful hit and knocks the character one step down the damage track. Even if the character succeeds on their defense roll, they still take 5 points of damage.
 
 #### PC WEAPON SYSTEM OPTIONS
+
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
 |   |   |   |
@@ -25371,6 +25239,7 @@ All tasks are also modified by any relevant PC skills (or inabilities) and Effor
 |Redline attack|–|Overcharge weapons, ricochet shot, or some other risky gamble|
 
 #### PC PILOTING SYSTEM OPTIONS  
+
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
 |   |   |   |
@@ -25386,6 +25255,7 @@ All tasks are also modified by any relevant PC skills (or inabilities) and Effor
 |Redline maneuver|–|Spinning, flying through a dangerous region, or some other gamble|
 
 #### PC SCIENCE AND ENGINEERING SYSTEM OPTIONS  
+
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
 |   |   |   |
@@ -25401,6 +25271,7 @@ All tasks are also modified by any relevant PC skills (or inabilities) and Effor
 |Redline science/engineering|–|Reverse polarity on the sensors, dig up some bizarre lore from a database that could change the situation somehow, make the hull reflective, or some other risky gambit|
 
 ### OPTIONAL RULE: PSIONICS
+
 Through sheer force of will, a psionic character can unleash inborn mental abilities such as telepathy, precognition, and telekinesis. As a GM, your first decision must be whether you want to incorporate psionics into your setting.
 
 If you do not want to allow psionics into your game, then restrict foci like Commands Mental Powers, Focuses Mind Over Matter, and Separates Mind From Body. And of course, restrict the suggested types of Psion and Psychic Knight described in the Cypher System Rulebook.
@@ -25504,6 +25375,7 @@ Strength: All tasks involving strength, including jumping and dealing damage in 
 Each shift eases the task (except for shifts that affect damage or Armor, as specified in the list above). Applying two shifts eases the task by two steps, and applying three shifts eases the task by three steps. A character assigns their five power shifts as desired, but most characters should not be allowed to assign more than three to any one category. Once the shifts are assigned, they should not change.
 
 ### SALVAGE FROM A SPACECRAFT
+
 If the derelict ship was subject to vacuum, partly destroyed in combat, or damaged by some other disaster or close encounter with a space hazard, salvaged items are usually degraded, and are valued at one price category less than noted. The GM may decide an object is completely unrecoverable (worthless) or works fine.
 
 Salvage GM Intrusion: Claim jumpers/pirates might try to salvage a ship that PCs are attempting to salvage.
@@ -25535,6 +25407,7 @@ Salvage GM Intrusion: Claim jumpers/pirates might try to salvage a ship that PCs
 |10|Spacecraft is completely destroyed|
 
 ### FTL INSTABILITY
+
 Even though many different kinds of faster-than-light options are available, any use of FTL in a setting faces similar sorts of hazards at three different points: when first entering FTL, while in FTL transit, and when exiting FTL.
 
 Entering FTL: Whether engaging warp drive or passing into the mouth of a wormhole gate, complicating factors might require a piloting roll, with the difficulty determined by the situation. On a failed roll, any number of bad outcomes are possible, though the least dramatic is that the craft simply fails to enter FTL and cannot do so until the PCs determine the reason and rectify it.
@@ -25554,9 +25427,11 @@ Finally, hard-to-categorize irregularities in space-time go by the broad term of
 Generally speaking, spatial anomalies are a few light-seconds up to a few light-years across. It’s difficult for spacecraft to navigate within spatial anomalies, and they face many challenges if they attempt to (or are forced to) do so
 
 ### WEAK, SIM, STRONG, AND POST-SINGULARITY AI
+
 Though somewhat fuzzy, for the purposes of creating a sci-fi setting, artificial intelligence (AI) can be broken into four categories: Weak, Sim, Strong, and Post-singularity.
 
 #### WEAK AI
+
 Weak AI (also called narrow AI) is the kind of algorithmic-based code found in contemporary settings (and real life) focused on very narrow tasks, such as playing chess.
 
 Weak AI Use: Weak AIs are used in real life already, and thus are presumed to be part of settings where contemporary tech predominates. They are convenient in circumstances where one’s hands are full or otherwise engaged, when verbal direction allows one to turn on a light, open a door, adjust the temperature, and so on. Machine learning may allow a weak AI to extend its capabilities in a very limited regime. But a weak AI is not cognizant enough to provide an asset to performing tasks any better. 
@@ -25564,6 +25439,7 @@ Weak AI Use: Weak AIs are used in real life already, and thus are presumed to be
 Weak AI: : level 1; up to level 7 when it comes to a narrowly specific application of knowledge or skill
 
 #### SIM AI
+
 Sim AIs (“sim” is short for “simulant”) are artificial intelligences that have a greatly increased capacity for understanding direction, putting together unlike sets of data, and coming to conclusions; however, they are not conscious, like strong AIs or humans.
 
 SIM AI Use: Sim AIs are most commonly associated with shipminds on spacecraft, though they may also control specific research complexes, bases, and other kinds of vehicles and structures. A sim AI provides all the utility of a weak AI (and more), and actually acts like an NPC, an allied one if the AI is the shipmind in a craft that the PCs own. If a sim AI goes off the rails, it’s still just malfunctioning computer code. Usually.
@@ -25571,6 +25447,7 @@ SIM AI Use: Sim AIs are most commonly associated with shipminds on spacecraft, t
 Sim AI: level equal to the ship, station, or installation in which it is installed
 
 #### STRONG AI
+
 Strong AIs (also called true AIs) have all the abilities of sim AIs, plus the ability to actually generalize in the same way a human can. Each one is essentially a disembodied person. Strong AIs are either completely artificial, or they begin as human personalities digitally encoded.
 
 Strong AI Use: A strong AI may serve as a shipmind just like a sim AI, but is likely to be a full partner in a setting where AI rights are respected. Indeed, strong AIs can rise to any position a human could achieve, up to and including leading a group, faction, or entire nation.
@@ -25578,6 +25455,7 @@ Strong AI Use: A strong AI may serve as a shipmind just like a sim AI, but is li
 Strong AI: level 5–8, up to level 8 when it comes to a specific application of knowledge or skill; see Artificial Intelligence on page 115
 
 #### POST- SINGULARITY
+
 Post-singularity AIs are intelligences who designed a second-generation, better version of themselves. The second generation immediately designed an even more advanced third generation, and so on from there. This iterating self-improvement process occurs so rapidly that the resulting explosion of intelligence and unknown capability is called the singularity. It’s called that because humans are just too limited to “see” what would actually come out the other end, just like we can’t see past the event horizon and into the singularity of a black hole
 
 Note that ancient ultras may simply be a previous civilization’s post-singularity AIs that have little to no reason to ever interact with the latest wave of sentience trickling out into the universe.
@@ -25587,11 +25465,13 @@ Post-singularity AI Use: In the way that strong AIs are sometimes imagined as ha
 Post-singularity AI: : level 10; see godmind
 
 #### ANCIENT ULTRAS
+
 Ancient ultras (also called alien ultras) is shorthand for the concept that one (or more) unbelievably advanced races of aliens once inhabited the galaxy but are now apparently long gone—save for evidence of their existence in residual structures and artifacts. These remaining structures and artifacts are often vast in size and incomprehensible in function, usually made of unknown materials that people of the setting don’t recognize and can’t analyze. 
 
 Activity Level of Ultras: Different settings can make use of ancient ultras in different ways, including not having any at all.
 
 ### KARDASHEV SCALE
+
 Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V). 
 
 ### SPACE HAZARDS
@@ -25637,6 +25517,7 @@ Evasive Ateroid Piloting: During any round a spacecraft moves through a densely 
 Finding Shelter: The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
 
 ## Characters
+
 ### SUGGESTED TYPES FOR A SCIENCE FICTION GAME
 
 |   |   |
@@ -25653,6 +25534,7 @@ Finding Shelter: The best way to find shelter in order to effect repairs, or hid
 |Psychic knight|Warrior with magic flavor|
 
 ### Science Fiction SPECIES DESCRIPTORS
+
 In a science fiction setting, some GMs may want to offer alien species or androids, who are mechanically different from humans, as options for player characters. This can be accomplished by using descriptors. Two examples are below.
 
 #### ARTIFICIALLY INTELLIGENT
@@ -25698,6 +25580,7 @@ Skill: Quintar fascination with human behavior eases all interaction rolls (plea
 Difficult Rest: Quintar subtract 2 from all recovery rolls (minimum 1).
 
 ## Equipment
+
 ### ADDITIONAL SCIENCE FICTION EQUIPMENT
 
 In a science fiction setting, the following items (and anything else appropriate to the setting) are usually available.
@@ -25836,8 +25719,11 @@ Exorbitant ITEMS
 |Small spaceship|Level 4|
 
 ### EQUIPMENT LISTING
+
 #### COMMUNICATION
+
 ##### LIGHTSPEED COMMUNICATION DELAYS
+
 For ease of reference, the light delay table provides the time it takes light from the sun to each planet in our solar system, plus a few other notable locations. To figure light delays between two different locations, subtract the time delay of the object closer to the sun from the time delay of the object farther away. The difference is the light delay between those two locations. Double times for two-way communication
 
 LIGHT DELAY TABLE
@@ -26811,6 +26697,7 @@ As general nano tab, but explosively distributes nano-threads deep into the body
 #### ROBOTS & AI
 
 ##### CONTEMPORARY  
+
 Electronic assistant 
 
 level 2 (6) 
@@ -26902,6 +26789,7 @@ Exorbitant x2 
 A shipmind is a sim AI that exists within a single spacecraft or starship, with the ability to control many aspects of vehicle functions as necessary to supplement a crew, or sometimes in lieu of a crew. Shipminds each have their own simulated personality, emulating consciousness, though in most cases, they are not actually conscious. Having a shipmind installed on a spacecraft is immensely helpful, as it can oversee many basic functions. A shipmind usually accomplishes tasks at the level of the ship in which it is installed.
 
 ##### FANTASTIC  
+
 Synth 
 
 level 3 (9) 
@@ -26945,6 +26833,7 @@ As free synth, but with modifications focusing on stealth, disguise, and tasks r
 Occasional recreation is absolutely necessary to maintain stable relationships as well as mental stability and happiness. Characters that never engage in recreation become gradually more unhappy and troubled, and eventually find interaction tasks and most Intellect tasks hindered unexpectedly.
 
 ##### CONTEMPORARY  
+
 Book 
 
 level 2 (6) 
@@ -27032,6 +26921,7 @@ Inexpensive 
 Caliber varies by specific firearm, used in most contemporary ranged weapons
 
 ##### ADVANCED/FANTASTIC  
+
 Energy pack (50 shots) 
 
 level 1 (3)
@@ -27245,6 +27135,7 @@ level 3 (9)
 Handheld device that fires attached probe at target within 9 m (30 feet); medium weapon (4 points of electrical damage and on a failed Might defense roll, target is stunned for 1 round, losing their next action).
 
 ##### ADVANCED  
+
 Grenade, sonic 
 
 level 4 (12) 
@@ -27563,25 +27454,31 @@ Effect: This device comes with a small module that can be affixed to a machine. 
 Depletion: 1 in 1d100
 
 ## VEHICLES & SPACECRAFT
+
 Vehicle: Technically speaking, spacecraft are also vehicles. Unless it’s important to make a distinction, assume all guidance here regarding “vehicles” also applies to spacecraft. 
 
 Spacecraft (and Starship): When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term “spacecraft” is used for vehicles that travel beyond a single planet’s atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
 
 ### VARIABLE COST BY TECH RATING 
+
 Vehicle costs assume the setting is predominantly of the same tech rating as the vehicle’s tech rating. However, the price might drop by a price category if the setting tech rating is predominantly greater than the vehicle’s rating. 
 
 ### CONTEMPORARY STYLING IN ADVANCED OR FANTASTIC SETTINGS 
+
 As previously indicated, vehicles listed as contemporary might be found in settings using advanced or fantastic tech, possibly at a lower price. However, the vehicles available in these future worlds are not (necessarily) antiques, but rather cheaply made objects, possibly with the veneer and stylings of vehicles suitable to the setting, and possibly the power source, too.
 
 ### PRICELESS PRICE CATEGORY
+
 A priceless item is something that even the very rich can’t afford, requiring the resources of a nation-state, or similar entity appropriate to the setting, to acquire or build.
 
 ### FIGHTING IN A VEHICLE
+
 If PCs are involved in combat in which they are only partly or lightly enclosed (or not at all enclosed, as in the case of most cycles, boards, and similar conveyances), use normal rules of combat, as modified by vehicular movement. However, if PCs are involved in a combat where they are completely enclosed in a vehicle with no possibility of openness to the environment through which they can fire weapons (so that it’s not really the characters fighting, but the vehicles), use the vehicular combat rules from the CSR. 
 
 If PCs are involved in space combat, see the extended vehicular combat rules described in this book, which provide all kinds of additional options.
 
 ### DRIVERLESS VEHICLES
+
  If the rider, driver, or pilot activates self-driving as part of another action, riding, driving, and piloting tasks are automatically completed (or failed) according to the vehicle’s level, though all such self-driving tasks are hindered. However, the pilot is free to engage in other actions as the vehicle maneuvers to the best of its ability.
 
 This driverless function is also available on many spacecraft, courtesy of a shipmind, which is a sim AI that can control the ship’s functions as necessary. Shipminds control spacecraft at the spacecraft’s level, not their level, but are not subject to the task hindrance that more basic driverless vehicles suffer.
@@ -27593,10 +27490,13 @@ This driverless function is also available on many spacecraft, courtesy of a shi
 Also note that unless a particular listing is already indicated as a luxury or sport version, most vehicles can be obtained in a luxury or sports package, either at the next price category up, or at double the indicated price.
 
 ### CUSTOMIZING VEHICLES  
+
 Assuming the facilities are available, characters can pay for the customization of their vehicle to add a weapon system, add even more weapon systems, add superior weapon systems, or some other significant option. In most cases, the cost for such an upgrade is very expensive to exorbitant.
 
 ### PLANETARY VEHICLE LISTING
+
 #### CYCLES 
+
 ##### CONTEMPORARY 
 
 Motorcycle, dirt bike 
@@ -27678,6 +27578,7 @@ Exorbitant 
 As any one other cycle, except an instant cycle can be deployed from a lightweight briefcase-sized (or even smaller) pack as an action, and is built up by packaged nanobots, virtual particles, or hard light to create the selected cycle, which can be ridden normally. A PC can re-package the deployed cycle to its original easily toted form as an action.
 
 #### CARS  
+
 Buying a car at the bottom of its price range usually means the car isn’t top quality. Such vehicles have a depletion of 1 in 1d100 (check per day used)
 
 **WHEELED VEHICLE GM INTRUSIONS**  
@@ -27767,6 +27668,7 @@ Very Expensive 
 Six-wheeled vehicle, supporting a reinforced, lightly enclosed and pressurized frame with seats for a driver and up to four additional passengers, providing driver and passengers Armor 1 (though if damage is taken, it’s likely a breach has occurred). Auto-stabilization eases all tasks related to driving. Suitable for paved and broken surfaces on airless moons or in polluted or poisonous atmospheres; moves a long distance each round on paved and broken surfaces or an average of 64 km/h (40 mph) during long-distance travel.
 
 ##### FANTASTIC  
+
 Car, flying 
 
 level 5 (15) 
@@ -27830,6 +27732,7 @@ Priceless 
 Swept-back enclosed airframe with seats for a pilot and one passenger. Built-in weapons include very long-range Gatling-style cannons. Flies a very long distance each round using jets or an average of over 1,125 km/h (700 mph) during extended trips.
 
 ##### ADVANCED  
+
 Cloud surfing board 
 
 level 1 (3) 
@@ -27879,6 +27782,7 @@ Exorbitant 
 This luxury flying vehicle boasts a completely enclosed interior habitat with five to ten interior chambers arranged either to house one or more families, support scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves a short distance each round or an average of 160 km/h (100 mph) during extended travel (half or double that depending on air conditions).
 
 ##### FANTASTIC  
+
 Hoverboard 
 
 level 2 (6) 
@@ -27912,6 +27816,7 @@ Exorbitant 
 Immovable disc-shaped pad (or hollow free-standing ring) keyed to one or more locations within 160 km (100 miles); step on the disc (or pass through the ring) and appear at the keyed location. Discs of level 9 and above can teleport users between planets or even stars, like small versions of stellar gates.
 
 #### SEACRAFT
+
 SEACRAFT GM INTRUSIONS  
 
 |   |   |
@@ -27994,6 +27899,7 @@ Priceless 
 Massive water-going craft armed with anti-ship missiles, surface-to-air missiles, guns, and torpedoes, as well as hangars for one or two armed helicopters; treat as having superior weapons during vehicular combat. Features both open decks and many completely enclosed interior chambers. Lots of room for crew, supplies, and so on. Moves a long distance each round or up to 64 km/h (40 mph) on calm water (half movement rates in choppy water). Requires a trained crew and central coordination to operate.
 
 ##### ADVANCED  
+
 Sub, waterglide 
 
 level 4 (12) 
@@ -28067,6 +27973,7 @@ Exorbitant 
 As infantry mech, but upgrades include complete and sealed enclosure with life support (qualifying it for vehicular combat). Attacks in the interceptor mech also include a battery of very long-range missiles. An additional flight mode allows the interceptor to fly a very long distance for up to ten minutes before recharge is required. Some mechs have superior weapons, defense, or speed, but that doubles the cost. 
 
 ##### FANTASTIC 
+
 Colossal battle mech 
 
 level 6 (18) 
@@ -28076,6 +27983,7 @@ Priceless 
 A 78 m (255 feet) tall powered anthropomorphic exoskeleton frame. Creates a sealed enclosure (qualifying it for vehicular combat) with life support for an operator and a crew of up to six people. Armed with a massive “melee” plasma sword and “mech-punch” (melee attacks that can be made at long range), plus very long-range missiles, grenades, and energy weapons, operable by the pilot and crew at up to five different independent weapon stations simultaneously; treat as having superior weapons. Can run and fly up to a very long distance each round, and can even ascend into low orbit for brief periods.
 
 ### SPACECRAFT LISTING 
+
 Most spacecraft have the capacity to reach orbit from the surface of the planet, if not radically more advanced capabilities. All spacecraft completely enclose their crew in a sealed cabin (or series of chambers) with life support suitable for days, weeks, or much longer. Most spacecraft also come with one or more spare space suits, tools, a few spare parts, and so on. Advanced and fantastic spacecraft also have sensors that provide enough astronavigation information to plot and fly to their destinations. 
 
 PCs in spacecraft can travel to other moons, planets, space stations, and perhaps even other solar systems. PCs in spacecraft may also get caught up in space combat (see the Extended Vehicular Combat rules) and run across space hazards.
@@ -28110,6 +28018,7 @@ Each month of spacecraft operation usually requires that the PCs pay for fuel, f
 |10|Priceless|
 
 #### TRAVEL TIMES
+
 SOLAR SYSTEM TRAVEL TIMES  
 
 |   |   |   |
@@ -28142,6 +28051,7 @@ Rocket: A rocket engine produces thrust by expelling reaction mass, usually in t
 Ion Thruster: Ion thrusters can use solar panels or RTGs (or both) to expel ions (or cations) to produce thrust over long periods, which allows a spacecraft to build up speed over large periods of time. The bleeding edge of contemporary ion thruster is VASIMR (Variable Specific Impulse Magnetoplasma Rocket), which could drastically reduce travel times around the solar system, if perfected.
 
 #### ADVANCED  
+
 ##### ADVANCED POWER
 
 Fusion Power: Electrical generation by using heat from nuclear fusion reactions, requiring relatively small fuel input for much higher-power output. Fuel sources include helium-3 (abundant on the Moon and other locations in the solar system without an atmosphere). 
@@ -28209,9 +28119,11 @@ As heavy-lift launch vehicle, except the main craft can re-enter an atmosphere a
 Once launched, self-guiding torpedoes engage smart-tracking systems to zero in on their assigned targets. The torpedo accelerates at 50 or more Gs towards its target, but at the extended distances in which many space battles occur, it may still take several rounds for a torpedo to finally home in on and strike (or ultimately miss) its target.
 
 #### SPACECRAFT  
+
 Advanced spacecraft have advanced propulsion technologies, allowing them to move between planets within a single solar system, with transit times between planets varying from days to weeks (or more, if using a less efficient drive). Most advanced spacecraft can’t land on a planet’s surface unless noted, requiring some secondary craft or means to transfer crew and cargo.
 
 ##### ADVANCED  
+
 Wafercraft, exploration 
 
 level 1 (3) 
@@ -28403,9 +28315,11 @@ Priceless 
 Three times as large again as a capital class starship, an omega class craft has over a thousand crew and over thirty weapon systems. Ten of these are superior weapons. Combined weapon fire can deal significant damage to a planetary surface, possibly destroying it. Includes bays for six squadrons of thirty dagger fighter starships.
 
 #### STELLAR GATE  
+
 Stellar gates open wormholes between two fixed points at different locations without crossing the space between. The complexity of building a stellar gate is so extreme that such technology is often ascribed to found portals and networks dating back to mysterious ancient ultras or by post-singularity AIs. As might be expected, gates have a fantastic tech rating, no matter how small.
 
 ##### FANTASTIC  
+
 Gate, planetary 
 
 level 3 (9) 
@@ -28455,6 +28369,7 @@ Priceless 
 As planetary gate, but connects gate structures that lie in alternate dimensions.
 
 #### SPACE-TIME VEHICLES  
+
 Space-time vehicles allow for movement between different points in both space and time. Such vehicles are vanishingly rare, and timelines in which they are active tend to eventually snuff themselves out due to accidental paradox events, limiting their availability even further. As with stellar gates, space-time vehicles are so complex that it’s likely they are the product of ancient ultras or post-singularity AIs, and could be treated as artifacts with a depletion of 1 in 1d20.
 
 ##### FANTASTIC
@@ -28736,7 +28651,9 @@ Depletion: 1 in 1d20
   
 
 ## Creatures
+
 ### Basic CREATURES AND NPCs FOR A SCIENCE FICTION GAME  
+
 - Innocuous rodent: level 1
 - Guard beast: level 3, perception as level 4
 - Corporate drone: level 2
@@ -28777,6 +28694,7 @@ Depletion: 1 in 1d20
 |10|Omworwar|Fantastic|
 
 #### ARTIFICIAL INTELLIGENCE (AI) 8 (24)
+
 If a supercomputer can think independently, it’s a strong AI (an artificial intelligence). Though not as advanced as godminds, AIs can develop inscrutable goals. 
 
 AIs take many forms. Some are distributed across a vast network. Others are encoded into a singular “computer core.” A few are machines with organic parts. All are entities of extreme intelligence able to adapt to new situations, and most act on some kind of plan, whether long-acting, or newly concocted to fit the situation at hand. 
@@ -29554,6 +29472,7 @@ Use: The abandoned spacecraft is weirdly empty of any bodies whatsoever. It’s 
 GM (group) Intrusion: Nearby light sources fail. Attacks and defenses against the zero- point phantoms are hindered by two steps for characters unable to see in the dark.
 
 # Horror
+
 Although it’s very likely a subset of the modern genre, horror as a genre gets special treatment. Unlike the other genres, horror doesn’t necessarily suggest a setting. Any setting can be horrific. Horror is more of a style. An approach. A mood.
 
 You could easily have horror in other times and settings, but for our purposes, we’ll deal with a default setting in the modern day. The PCs are probably normal people, not secret agents or special investigators (although being a part of a secret agency that deals with monsters in the shadows could make for a fine horror game).
@@ -29569,6 +29488,7 @@ If a module changes the options that players or PCs have, the GM should tell the
 This chapter also suggests various modules that are appropriate for different horror genres. The GM should feel free to use some, all, or none of those modules when running a game of that type, or introduce other modules to provide a unique twist to the game.
 
 #### GENERAL HORROR GM INTRUSIONS
+
 The following GM intrusions work for most horror genres.
 - Something foils a character’s attempt to escape: a getaway car won’t start, they drop the keys that unlock the exit door or lock up the villain, or the shotgun they’re using to clear a path jams or runs out of shells.
 - The antagonist enters a secure or sealed room by an unexpected method: crashing through a door or wall, crawling out of a ventilation shaft, jumping out of a trap door, manifesting electronically through a Wi-Fi signal, or teleporting.
@@ -29576,11 +29496,13 @@ The following GM intrusions work for most horror genres.
 - A dramatic and/or ridiculous amount of blood and gore from something that just got killed splashes on a character, blinding them until they take an action to wipe their eyes clean.
 
 #### BAD PENNY
+
 An unwanted or dangerous object (such as a cursed artifact) keeps turning up, no matter how many times the PCs try to discard or destroy it. In many cases, there might be only one way to rid themselves of the item (such as dousing it with holy water or burying it in a graveyard) or only one way to destroy it (such as burning it in a church or stabbing it with a magical dagger). The item might slowly repair itself—and depending on the item, it might be more frightening if it shows up fully intact or still bearing damage from how the PCs tried to destroy it.
 
 This reappearance usually isn’t because the item is literally walking to wherever the PCs are (although if the item is something like a cursed doll, that might make it more frightening). In most cases, it just happens to be where the PCs went, found in an unobtrusive place like the back of a closet, under a car seat, or in the bottom of someone’s luggage. If the item is intelligent (or controlled by a hostile intelligence), it might use NPCs to bring it back to the PCs, and might sacrifice those NPCs in dramatic and gory ways to make sure it ends up back in the hands of the PCs. For example, if the PCs abandon a haunted ring, on the next day when they’re waiting for a train they recognize a man they saw earlier just as he gets hit by an oncoming train, and his severed hand—wearing the ring—lands at their feet. Even if the PCs go to a remote area with no people, one of them might suddenly vomit up their lunch—and the haunted ring.
 
 #### CHARACTER POSSE
+
 Every player is given at least two characters to run, each with about the same amount of background and abilities so they’re all suitable as main characters. A player usually runs only one of these PCs at a time. As the action in the story changes locations, the GM can have one or more players switch their active PC and interact with the other active PCs and the story in
 
 a different way. This keeps the players from knowing which characters are supposed to have the important roles in the story, allows for some of the PCs to split off for a while without the rest
@@ -29590,6 +29512,7 @@ of the group having to wait, and gives every player a backup character to play i
 Character Posse works best when the characters are very simple and don’t have many abilities that require a lot of knowledge and description. That way the player can focus on the personality of the PC and not have to keep remembering a stack of complicated abilities. In a non-fantastic modern setting, that often means characters who have a lot of skills and automatic or simple bonuses (like Combat Prowess and Fleet of Foot) but one or zero abilities that have durations or require special actions (like Anecdote and Muscles of Iron).
 
 #### DEAD ALL ALONG  
+
 A handful of people are forced to stick together under unusual circumstances—they’re survivors of a shipwreck, quarantined to avoid an outbreak of a deadly disease, waiting for a riot to leave their neighborhood, or locked away from an approaching zombie horde. They hear strange noises, glimpse shadowy figures, and find that things move about or disappear when nobody is looking. The PCs begin to suspect they’re being haunted by ghosts or observed by mysterious aliens; one or more of them disappear or are found dead. Eventually the PCs realize that they are ghosts of people who haven’t come to terms with their own deaths, and the weird experiences are their limited interactions with the real world and the living people trying to bury their bodies or put their souls at peace.
 
 In these stories, the emotional journey of the ghosts is about understanding their situation and coming to terms with their deaths. In normal play, GM intrusions are complications that the characters have to deal with, but to represent the secret and inverted expectation of this module, GM intrusions are used to simplify what the characters experience, but with a spooky twist.
@@ -29597,6 +29520,7 @@ In these stories, the emotional journey of the ghosts is about understanding the
 When a PC crosses over and disappears, that player can still participate in the game by using the Ghostly Helpers module.
 
 #### FRAGILITY 
+
 Whenever a character selects the Increasing Capabilities option for advancement or gains an ability that permanently increases their Pools, they can add a maximum of 1 point to their Might Pool and 1 point to their Speed Pool; other points left over (if any)
 
 must go to their Intellect Pool, even if that’s not normally an option for the ability. This does not apply to the extra points the player can divide among their Pools at character creation. This creates a more “realistic” game scenario where the PCs are more like normal people who don’t get much more powerful physically over the course of a campaign, but still can learn new skills, advance their minds, and so on.
@@ -29604,6 +29528,7 @@ must go to their Intellect Pool, even if that’s not normally an option for the
 This module does not affect abilities like Enlarge (which temporarily adds 4 points to your Might Pool), but it does affect abilities like Enhanced Might, Enhanced Speed, and Lead From the Front (which permanently increase one or more Pools).
 
 #### GHOSTLY HELPERS 
+
 In a horror story, it’s common for major characters to be killed or incapacitated, but in a horror RPG, that means the player of a dead character doesn’t have much to do. The Ghostly Helpers module gives players whose characters are out of the game two ways to have an active role in the scenario.
 
 First, the dead character is still able to spend their XP to give a living character a reroll. To facilitate this, the GM should allow players to award the second 1
@@ -29617,6 +29542,7 @@ The player of a dead character always gets to decide when to help and which PC t
 Help from a dead character doesn’t have to be from a ghost. Depending on the genre, it might be the influence of a guilty artificial intelligence, a sentient weapon with a grudge, a cultist with conflicting loyalties, and so on
 
 #### HALLUCINATION RESET
+
 In some horror genres, it’s unclear if the character is truly experiencing what’s happening in the story, or if they’re hallucinating or dreaming it. In some cases, their fear response
 
 to the real events happening around them prompts their conscious or subconscious imagination to create an unreal scenario that’s even more terrifying, only to have them snap out of it and find themselves in a prior (but perhaps still very dangerous) situation. This sort of hallucination allows the story to go completely off the rails and then suddenly return to normal.
@@ -29630,6 +29556,7 @@ Used carefully, a hallucination reset leaves the characters wondering what is re
 Note that a deliberate and planned reset can deliberately do strange things with the story because it’s completely in the characters’ heads. A horror game about werewolves might have a dream or hallucination about fascist soldiers attacking the PCs with flamethrowers. One about aliens might show the antagonists turning into sexy vampires. A haunted house might convince the PCs that they’re tearing off their own faces. A hallucination might even include elements of something that will happen in the future, so when the actual event occurs (perhaps in a later session) the players won’t know if they should act on their “future memories” of these events or ignore them as falsehoods.
 
 #### HORROR MODE
+
 Horror Mode is an optional rule discussed in the Cypher System Rulebook. When using this rule, the GM can escalate the tension by increasing the range of numbers that trigger a GM intrusion: first on a roll of 1 or 2 instead of 1, then a roll of 1 to 3, then a roll of 1 to 4, and so on. The Escalation Rate table below shows what causes the intrusion range to increase.
 
 Horror Mode is unique among the horror modules in that the default assumption is that the GM is using it for every horror game, at least some of the time. Using Horror Mode makes the players aware of the risks they take every time they make a roll. They won’t take easy tasks for granted, and they might apply Effort to turn an easy task into a routine task so they don’t have to roll at all and risk an intrusion. This ends up depleting their Pools faster, which makes them feel more vulnerable.
@@ -29645,6 +29572,7 @@ ESCALATION RATE
   
 
 #### HYSTERIA
+
 Screaming is a natural reaction when you’re frightened, but it’s also likely to draw the attention of whatever is frightening you. The Hysteria horror module encourages characters to give in to the natural instinct to scream, but introduces dangerous consequences for doing so.
 
 At any time, as an action, a PC can use a free one-action recovery roll (which doesn’t use up the one-action recovery roll that all characters get), but doing so means they also spend that action loudly screaming. Because of this noise, the GM can make a free intrusion and doesn’t have to award XP for it.
@@ -29689,6 +29617,7 @@ However, those XP belong to the role of the last survivor and always remain sepa
 Madness is an optional rule discussed in the Cypher System Rulebook. When using this rule, if Intellect damage from fear or shock reduces a PC’s Intellect Pool to 0, they regain points in the Pool, but their maximum Intellect Pool is reduced by 1. If their Intellect Pool is ever reduced to 0 again, they go insane and replace their current descriptor with the Mad descriptor.
 
 #### PERILOUS VENTURE  
+
 Sometimes the PCs need to perform a ritual or other complex action that takes several rounds or minutes, and if they make mistakes along the way it’s a setback instead of an outright failure. For example, they might need to read a banishing spell out of an old book, mix and heat the chemicals for a zombie cure, or draw a magic circle around a building to contain hostile ghosts. Rather than having their success or failure come down to one roll, the GM can build tension by requiring the players to make multiple rolls called subtasks. The subtasks start at difficulty 1, and the difficulty increases each time until the players make a final roll at the highest difficulty (equal to the overall level of the challenge, such as the demon they want to banish, the original zombie virus, or the most powerful ghost attempting to leave the house).
 
 Generally, these subtasks occur at equally divided intervals over the course of the full time required to complete the ritual. If at any point the PC fails a subtask, the ritual isn’t ruined, but it costs time—a failure means the time spent on that subtask was wasted, but the character can spend that much time again and try to succeed at that same subtask.
@@ -29706,6 +29635,7 @@ a limited resource, such as holy water, silver powder, or rare herbs; if the PCs
 Finally, some rituals might require the PCs to spend points from their Pools on each subtask, with Might representing blood or vitality, Speed representing energy, and Intellect representing will or sanity. Other physical or mental tolls could also require points from Pools. Multiple PCs involved in the ritual could collectively contribute to this cost.
 
 #### POOR CHOICES  
+
 Sometimes people in horror do dumb things. They wander off alone to investigate a weird noise. They abandon their friends and try to escape in a rusty old car. They have sex in a spooky barn. These things usually put them in danger and sometimes get them gruesomely killed. Using the Poor Choices module means the GM can use intrusions to make the characters do things that the audience of a horror movie would think are stupid.
 
 These intrusions work like the normal kind (the GM awards 2 XP, and the player gives one of them to another player). However, while normal intrusions are subtle changes that influence the situation, using Poor Choices lets the GM abandon that restraint and dictate a specific overt character action, even if it’s something that the player wouldn’t normally choose.
@@ -29788,6 +29718,7 @@ If the players are especially skilled at roleplaying, there may be opportunities
 Multiple shifts of identity are probably easier for the GM and players to handle if they take place over several game sessions and each session starts with players knowing exactly who they’re playing. It also helps if the players take separate notes about what the original and the duplicate know.
 
 #### SHOCK
+
 Shock is an optional rule discussed in the Cypher System Rulebook. When using this rule, seeing something terrifying means a PC must make an Intellect defense roll. The difficulty is based on the level of the scary thing, or the GM can simply choose the level (see the Shock Levels table). Failure on the defense roll means either the character takes Intellect damage or the player temporarily loses control of the character (the GM decides if they scream, freeze, run, or take some other appropriate action, perhaps with input from the player).
 
 SHOCK LEVELS 
@@ -29854,6 +29785,7 @@ Inabilities in personal interaction or any area requiring focus might be appropr
 As another way to represent madness, the GM could hinder Intellect-based tasks that would be considered routine, such as “remembering your friends and family” or “caring what happens to your best friend” or “stopping yourself from injecting a mysterious substance into your veins.” These routine tasks normally have a difficulty of 0, but for a PC who has lost their mind, they might have a difficulty of 1, 2, or even higher. Now the character must make rolls to do even those simple things.
 
 ### HORROR ARTIFACTS
+
 Most of the time, a horror artifact will be something really weird—an ancient tome of forbidden necromancy, an alien device that humans can barely understand, and so forth. They are often unique items rather than one of a type. Horror artifacts should probably come with a risk, such as a built-in cost, a drawback, or something else that makes using them another way to heighten the tension of the game. Several examples are below.
 
 
@@ -30089,6 +30021,7 @@ Depletion: 1 in 1d100 (check each session)
 
 
 ## HORROR CYPHERS
+
 Many horror genres feature physical objects that the protagonists can use—alien devices, magical talismans, or mysterious objects with an unknown origin. This chapter describes examples of these objects as cyphers, which can be awarded like other manifest cyphers or in place of subtle cyphers. Unlike those in the Cypher System Rulebook, the manifest cyphers listed here include suggestions for what form the cypher takes (although in a game with magic, any of these cyphers might exist as a potion or spell on a scroll in addition to or instead of the forms listed here).
 
 Most of these are marked as fantastic cyphers, although depending on the genre and circumstances of the game, they might be completely normal.
@@ -30292,6 +30225,7 @@ Effect: Creates a strange and annoying noise about the volume of a human shoutin
 |96-00|Undead|
 
 #### ASCENDANT BRAIN VIVISECTOR
+
 Level: 1d6 + 4
 
 Form: Device, injection, or pill 
@@ -30303,6 +30237,7 @@ When used with an ascendant flesh vivisector, the resulting creature looks, thin
 Using this cypher on a beast whose level is too high might end up elevating its intelligence somewhat but also instigating aggressive behavior.
 
 #### ASCENDANT FLESH VIVISECTOR
+
 Level: 1d6 + 4
 
 Form: Device, injection, or pill 
@@ -30314,6 +30249,7 @@ per cypher level, but after an equal amount of time the beast reverts to its nor
 Using this cypher on a beast whose level is too high might end up temporarily transforming it into a human with bestial features.
 
 #### ORRUPTED CANOPIC JAR
+
 Level: 1d6 + 1
 
 Form: Jar made of clay or carved stone 
@@ -30321,6 +30257,7 @@ Form: Jar made of clay or carved stone 
 Effect: Breaking open the jar (which destroys the preserved organs inside) permanently grants the user an asset (two assets if the cypher level is 6 or higher) on all attacks and defenses against mummies within short range.
 
 #### ECAPITATIVE LONGEVITY
+
 Level: 1d6 + 4
 
 Form: Injection or potion
@@ -30330,6 +30267,7 @@ Effect: Brings a dead creature’s head (but not the body) back to life for a li
 When using a decapitative longevity cypher to bring a head back to life, it can be left attached to the inert body, or someone can carefully sever the head from the body, which doesn’t harm the head.
 
 #### GHOST DETECTOR
+
 Level: 1d6 + 1
 
 Form: Amulet, crystal, or device 
@@ -30339,6 +30277,7 @@ Effect: Automatically indicates if a ghost, spirit, or similar entity is within 
 in. If the ghost is normally invisible, it becomes somewhat visible (hindering its stealth attempts by one step). The cypher remains active for ten minutes per cypher level.
 
 #### GHOST TRAP
+
 Level: 1d6 + 2
 
 Form: Crystal or device
@@ -30348,6 +30287,7 @@ Effect: Can be thrown up to a short distance, where it releases a burst of trans
 Ghosts in a trap can be permanently stored in a ghost vault. 
 
 #### HOMUNCULUS FLASK
+
 Level: 1d6 + 1
 
 Form: Ornate, opaque alchemical bottle filled with strange fluid
@@ -30357,6 +30297,7 @@ Effect: To activate this cypher, you must open the bottle, add a few fresh drops
 Homunculus: level 2; alchemy, all defenses, and stealth as level 3
 
 #### HORRIFIC ARM
+
 Level: 1d6 + 1
 
 Form: Injection or pill
@@ -30366,6 +30307,7 @@ Effect: The user’s body rapidly grows a monstrous arm that is approximately th
 The user can use this arm as if it were one of their own. The new arm does not grant the user additional actions or attacks in a round, but it can be useful for carrying things. Damage to the arm does not affect the user (the arm can take 6 points of damage directed at it before it becomes nonfunctional). The arm lasts for one day per cypher level.
 
 #### HORRIFIC EYE
+
 Level: 1d6 + 1
 
 Form: Injection or spell
@@ -30373,6 +30315,7 @@ Form: Injection or spell
 Effect: The user’s body rapidly grows a monstrous eye (including a retractable eyestalk if the cypher level is 6 or higher) at the spot where the cypher is applied to their body. The user can see out of this eye as if it were one of their own (including any extraordinary vision-based senses the user normally has). The eye gives the user an asset on vision-based perception rolls, and depending on where it is located, it may allow the user to look around corners surreptitiously. Damage to the eye does not affect the user (the eye can take 1 point of damage directed at it before it becomes nonfunctional). The eye lasts for one day per cypher level.
 
 #### HORRIFIC FACE
+
 Level: 1d6 + 1
 
 Form: Injection or pill
@@ -30380,6 +30323,7 @@ Form: Injection or pill
 Effect: The user rapidly grows a monstrous face (or an entire head if the cypher level is 6 or higher) somewhere on their body. The user can use the senses of this face and talk, breathe, and eat with it (for example, if their normal face is underwater or wrapped in plastic). The face gives the user an asset on perception rolls when its senses can be used—for example, it could hear someone sneaking up on the user, but it couldn’t see them if its eyes were covered, and it can’t help with identifying tastes unless its mouth is also used. Damage to the face does not affect the user (the face can take 3 points of damage directed at it before it becomes nonfunctional). Most people react with disgust to a creature with a visible extra face, hindering all interaction tasks. The face lasts for one day per cypher level (two days if the cypher is level 6 or higher).
 
 #### HORRIFIC INTEGRATED WEAPON
+
 Level: 1d6 + 3
 
 Form: Weapon you can hold in one hand 
@@ -30395,6 +30339,7 @@ Effect: The weapon extends tendrils, skin, wires, nerves, or other material into
 |17-20|Medium handgun|
 
 #### HORRIFIC ORIFICE
+
 Level: 1d6 + 3
 
 Form: Device, injection, or pill  
@@ -30404,6 +30349,7 @@ Effect: The user’s body rapidly grows a strange orifice in their torso, large 
 Someone who fully understands how a horrific orifice cypher works might be able to program the user with new memories or control their mind by inserting data devices into the orifice.
 
 #### HUMANITY TESTER
+
 Level: 1d6 + 4
 
 Form: Device, injection, or pill 
@@ -30415,6 +30361,7 @@ it also marks the impostor for the next several hours so people can recognize it
 The specific nature of a humanity tester depends on the setting and what sort of creatures are common. In a world with multiple kinds of creatures that pretend to be human, the tester might recognize all fakes or detect only one specific kind of fake
 
 #### INSANITY SUPPRESSOR
+
 Level: 1d6
 
 Form: Device, injection, or pill
@@ -30422,6 +30369,7 @@ Form: Device, injection, or pill
 Effect: Temporarily negates insanity or a mental disorder in a creature (two such effects if the cypher level is 6 or higher). Example disorders include delusions, manias, compulsions, phobias, psychopathy, and schizophrenia. The creature loses all negative symptoms of their insanity or mental disorder for one day. Each day after that, the creature must make a level 1 Intellect defense roll to prolong the effect; failure means relapse. The roll is hindered by one step for each day that has passed since the cypher was used.
 
 #### INVISIBILITY REVEALER
+
 Level: 1d6 + 4
 
 Form: Device containing a liquid or silvery powder
@@ -30429,6 +30377,7 @@ Form: Device containing a liquid or silvery powder
 Effect: Sprays its contents up to a long distance, revealing all invisible creatures within short range of the targeted point for one round per cypher level. Affected invisible creatures remain visible if they move outside the area, and those outside the area become visible if they enter the area.
 
 #### INVISIBILITY SERUM
+
 Level: 1d6 + 2
 
 Form: Device, flask, or injection 
@@ -30440,6 +30389,7 @@ Because the user is as transparent as air, when they are in water, mist, smoke, 
 The serum has detrimental effects on the mind. Each minute it is in effect, the user takes 2 points of Intellect damage. Many users have become “stuck” in the invisible state and eventually go mad as a result.
 
 #### MIND SWAPPER
+
 Level: 1d6 + 2
 
 Form: Amulet or device
@@ -30449,6 +30399,7 @@ Effect: The user attempts to swap minds with a creature within short range that 
 Clever users of a mind swapper have an ally restrain or sedate them before swapping minds so their target doesn’t cause trouble in the user’s body.
 
 #### PRIMITIVE DOPPELGANGER
+
 Level: 1d6 + 1
 
 Form: Device, injection, or pill
@@ -30460,6 +30411,7 @@ like the user. The doppelganger can communicate in a language known to the user 
 Depending on the game setting, the doppelganger might be a robot, a clone, a temporal duplicate, or something else entirely. It may or may not have scars, tattoos, or other non-genetic features of the original.
 
 #### REANIMATOR
+
 Level: 1d6 + 2
 
 Form: Amulet or injection
@@ -30467,6 +30419,7 @@ Form: Amulet or injection
 Effect: When used on a corpse of a creature no larger than a human, it reanimates as a violent zombie that is not under the user’s control. This reanimation process takes a few minutes (a few rounds if the cypher is level 4 or higher, or one round if level 6 or higher).
 
 #### REVENANT SERUM
+
 Level: 1d6 + 4
 
 Form: Injection or potion
@@ -30476,6 +30429,7 @@ Effect: Brings a dead person back to life for a limited time as an obsessed crea
 A revenant has all the abilities it had when it was alive, but all its actions are hindered. It has the same appearance as before, except the wounds that killed it are still visible, and in general it has an unnatural look. It does not need to eat, drink, or sleep, but it can still rest if it wants to (such as to make a recovery roll). The revenant remains in this active state for one hour per cypher level, after which it dies again and cannot be reanimated with this cypher.
 
 #### SILGARHO INFUSION
+
 Level: 1d6
 
 Form: Flask or injection
@@ -30487,6 +30441,7 @@ If used directly against a vampire instead of being applied to a living creature
 Because a human body can’t dispose of colloidal silver, excessive intake of it causes a condition called argyria that turns skin purple or purple-grey
 
 #### UNPHANTOMED LIMB 
+
 ​​Level: 1d6
 
 Form: Device, injection, or pill 
@@ -30496,6 +30451,7 @@ Effect: Gives a user who is missing a
 limb the ability to create a psychic construct in the form of a limb (two limbs if the cypher level is 5 or higher) that takes the place of and functions like their missing limb (or limbs). The unphantomed limb looks and acts like a typical healthy specimen of its kind, including having fingerprints. However, its motion is controlled by the user’s will rather than by muscles and nerves, so any physical action the limb takes is an Intellect task instead of a Might or Speed task; for example, a melee attack with the unphantomed limb is an Intellect task, and to apply Effort, the user must spend points from their Intellect Pool. Damage to the limb affects the user as if the attack were on the user’s body. The limb lasts for one day per cypher level.
 
 #### VISAGE SCRUTINIZER
+
 Level: 1d6 + 2
 
 Form: Device, crystal, injection, or pill 
@@ -30505,6 +30461,7 @@ Effect: Grants the user a heightened
 ability to see disguised people and creatures for what they really are. Tasks to see through conventional disguises (makeup, prosthetics, wigs, and so on) are eased by three steps. If the disguise is instead a comprehensive change like a full-body illusion, mental projection, or hologram, the user automatically sees through it if the disguise’s level is lower than the cypher’s level. The cypher lasts for one hour.
 
 #### WOLFSBANE POTION
+
 Level: 1d6
 
 Form: Flask or injection
@@ -30512,6 +30469,7 @@ Form: Flask or injection
 Effect: Suffuses the user’s body with a mixture of colloidal silver and wolfsbane, making the user repellent to werewolves (and similar werecreatures). Wolfsbane is poisonous, and using this cypher inflicts Speed damage and Intellect damage equal to the cypher’s level. Werewolf attacks with melee weapons against the user are hindered. Any werewolf who attempts to feed on the user feels nauseous and all its actions are hindered for ten minutes. The cypher’s effect persists in the user’s body for one day (two days if the cypher is level 4 or higher). If used directly against a werewolf instead of being applied to a living creature, it hinders all the werewolf’s actions and stops it from regenerating for several minutes.
 
 ### Creatures
+
 #### HORROR CREATURES AND NPCs BY LEVEL AND GENRE
 
 |   |   |   |
@@ -31673,12 +31631,15 @@ GM intrusion: The mad scientist produces a gadget or cypher that proves to be th
   
 
 # Romance
+
 Like horror, romance doesn’t automatically suggest a setting. It is more of a mood, or more specifically an approach, to how the game is played. It suggests an emphasis, at least somewhat, on relationships, interactions, and connections.
 
 Suggested types and additional equipment for a romance setting are the same as in a modern setting
 
 ### Extra Rules
+
 #### CONSENT AND BOUNDARIES
+
 You must get consent to cover these topics in a game ahead of time—you don’t want to make people uncomfortable. Everyone involved also needs to learn everyone else’s boundaries. Someone might not want any part of a romance scene, while others are okay talking about emotional connections but not anything sexual.
 
 Obviously, all of this is doubly important if age is a consideration. If there are younger players involved, romance probably shouldn’t go beyond a fairly chaste kiss. (You’ll find that kids are sometimes more open to romance in their games than adults, but only because their understanding of the topic is understandably pretty shallow. A kid player might declare that a character is their boyfriend, but it doesn’t mean much. And for some adults, that may be the way they want to approach the subject as well.)
@@ -31692,11 +31653,13 @@ For more information and advice on safe ways to address consent issues in your g
 It’s vital that the GM and the players all check in with each other to make sure everyone’s still comfortable with what’s going on in the game. This is particularly important to maintain the boundary between emotions expressed in the story and how people feel in real life.
 
 #### OPTIONAL RULE: INFATUATION
+
 When a PC is near someone they are infatuated with, particularly in the early stages of that infatuation, they must make an Intellect defense roll with a difficulty determined by the GM based on the situation (not on the level of the subject of the infatuation). Failure might mean that the character does or says something awkward or embarrassing either in an attempt to impress or when trying to hide the infatuation. Or it could mean that for one round, the player loses control of the character, and the GM decides what the PC does next, such as risk their own safety to help an endangered character. However, GMs should welcome player input into this situation. The point is to portray that when we’re distracted by the powerful feelings (and hormones) related to infatuation, we don’t always react in the best way, the smartest way, or even the way we want to.
 
 Infatuation can happen whether the PC is attracted to an NPC or a PC.
 
 #### OPTIONAL RULES: RELATIONSHIP LEVELS
+
 When a PC first establishes a relationship with a character (PC or NPC), the GM should assign the relationship a level. If there’s no connection at all, there is no relationship (level 0). Otherwise, the starting relationship is probably level 1. In certain circumstances, a relationship might start at level 2, indicating a far stronger initial connection than usual.
 
 As play progresses, the PC can attempt to improve the level of the relationship, indicating a strengthening of the bond between the two characters. The requirements to improve the relationship are twofold. First, some story-based action needs to be taken. This can be dates, gifts, a meaningful speech, a pledge of commitment, some amount of self-sacrifice, or whatever the GM and the player feel is appropriate to the story and the level of the relationship. This action might require the PC to succeed at specific tasks (with appropriate rolls). For example, writing a love poem will require an Intellect-based task, while helping to retrieve a loved one’s cat from a tree might require a Speed-based task.
@@ -31744,6 +31707,7 @@ You can use this optional system in any genre, for any type of relationship, eve
 |10|A bond that transcends time and space.|
 
 ### Creatures
+
 Basic CREATURES AND NPCs FOR A ROMANCE GAME
 - Distrustful relative: level 2
 - Jealous ex: level 2, attacks as level 3
@@ -31752,6 +31716,7 @@ Basic CREATURES AND NPCs FOR A ROMANCE GAME
 - The unattainable: level 3, interactions as level 7, resistance to all interactions as level 9
 
 # Superheroes
+
 Like horror, the superhero genre is really a subset of the modern genre with extensive special considerations. In many ways, it might appear that the Cypher System is a strange fit for superheroes. But if you think about it, with foci like Bears a Halo of Fire and Wears a Sheen of Ice, the Cypher System makes all genres a little bit “superhero-ish.” Character sentences might look like the following:
 
 Firebrand is a Brash energy projector (Adept) who Bears a Halo of Fire.
@@ -31765,9 +31730,13 @@ Dark Ronin is a Mysterious crimefighter (Explorer) who Solves Mysteries.
 Speedburst is a Fast crimefighter (Explorer) who Moves Like the Wind.
 
 And so on.
+
 ## Setting
+
 ## Extra Rules
+
 ### OPTIONAL RULE: POWER SHIFTS
+
 Superheroes can do things that other people cannot. They throw cars, blast through brick walls, leap onto speeding trains, and cobble together interdimensional gateways in a few hours. It’s tempting to say that such characters are stronger, faster, or smarter, so they should have higher Might, Speed, or Intellect Pools. However, simply bumping up stat Pools or Edge doesn’t fully represent this dramatic increase in power. Instead, consider using an optional rule called power shifts.
 
 Under this rule, all superhero characters get five power shifts. Power shifts are like permanent levels of Effort that are always active. They don’t count toward a character’s maximum Effort use (nor do they count as skills or assets). They simply ease tasks that fall into specific categories, which include (but are not necessarily limited to) the following.
@@ -31789,6 +31758,7 @@ For example, a superstrong character might put three of their shifts into streng
 Some GMs will want to allow PCs to increase their power shifts. Having a character spend 10 XP to do so would probably be appropriate. Other GMs will want to run superhero games with PCs of greater or lesser power (cosmic-level heroes or street-level heroes, perhaps). In such cases, more or fewer power shifts should be granted to the PCs at the game’s start.
 
 #### SUPERPOWERED NPCs AND POWER SHIFTS
+
 NPC superheroes and villains get power shifts, too. Most of the time, this adds to their level. For example, Blast Star is a level 5 fiery villain who has three power shifts. When she blasts through a level 7 iron security door, she does so easily because in this circumstance, she’s actually level 8.
 
 Sometimes, NPC power shifts make things harder for the PCs. For example, Fleetfoot the level 4 speedster puts all three of her shifts in dexterity. When she runs past a character who tries to grab her, the difficulty to do so is increased by three steps to 7.
@@ -31796,6 +31766,7 @@ Sometimes, NPC power shifts make things harder for the PCs. For example, Fleetfo
 Typical NPC supers get three power shifts. Exceptional ones usually have five.
 
 #### REALLY IMPOSSIBLE TASKS
+
 In superhero games, due to conventions of the genre, difficulty caps at 15 instead of 10. Difficulty 10 is labeled “impossible,” but that label is for regular folks. For superpowered characters, “impossible” means something different, thanks to power shifts.
 
 Think of each difficulty above 10 as being one more step beyond impossible. Although a GM in another genre would say there’s no chance that a character could leap 100 feet (30 m) from one rooftop to another, in a superhero game, that might just be difficulty 11. Picking up a city bus isn’t something normal characters could do, but for a strong superhero, it might be difficulty 12.
@@ -31803,6 +31774,7 @@ Think of each difficulty above 10 as being one more step beyond impossible. Alth
 In theory, NPCs in such a game can go up to level 15 as well. Levels above 10 represent opponents that only a superhero would consider taking on: a robot that’s 1,000 feet (300 m) tall (level 11); Galashal, Empress of Twelve Dimensions (level 14); or a space monster the size of the moon (level 15).
 
 #### POWER SHIFTS  
+
 Power shifts are an optional rule in the Cypher System Rulebook that represent many of the exceptional things that superheroes can do, like throwing cars, blasting through brick walls, leaping onto speeding trains, and cobbling together interdimensional gateway devices in a few hours.
 
 A typical superhero PC gets five power shifts. Power shifts are like permanent free levels of Effort that are always active. They don’t count toward a character’s maximum Effort use (nor do they count as skills or assets). They simply ease tasks that fall into specific categories, which include (but are not necessarily limited to) the following.
@@ -31825,6 +31797,7 @@ For power shifts that affect tasks, each shift eases the task. Applying two shif
 A character assigns their five power shifts as desired, but most characters should not be allowed to assign more than three to any one category. Once the shifts are assigned, they should not change (however, researching an experimental procedure to change a character’s power shifts could be the culmination of a character arc such as Uncover a Secret).
 
 #### PRODIGY POWER SHIFTS
+
 Some superhero character concepts are about breaking the normal power level for a hero. In most cases, you can do this using power shifts. For example, if you want your strong hero to be really strong, put one or more power shifts into strength. If you want your archer character to be really good at shooting arrows, put a power shift into single attack (bows). If you want your speedster hero to be really fast, put a power shift into power (Fleet of Foot). And so on.
 
 But what if you want your character to be a swashbuckling teleporter who blinks all over the battlefield? There’s no low-tier teleportation ability, so you can’t be a teleporter as a tier 1 character, and the character concept isn’t nearly as fun if you have to wait until tier 4 before you can learn a teleportation ability (like Short Teleportation).
@@ -31838,9 +31811,11 @@ Choosing prodigy as a power shift is an interesting trade-off for your character
 Theoretically, you could put two power shifts in prodigy for the same ability, allowing you to select a high-tier ability. However, there are two reasons not to do this. First, those high-tier abilities usually have even higher costs, which limits how often you can use them. Second, if you start out with the best version of that ability, there’s no room to grow. It’s fun when your character impresses other superheroes by improving an ability, and it’s really handy when your nemesis supervillain underestimates you based on your old limitations. So unless the GM wants every superhero PC to start with one top-tier ability, give yourself room to grow and use prodigy only to get a mid-tier ability.
 
 #### GAINING MORE POWER SHIFTS  
+
 Some GMs will want to allow PCs to increase their power shifts. Having a character spend 10 XP to do so would probably be appropriate. Other GMs will want to run superhero games with PCs of greater or lesser power (cosmic-level heroes or street-level heroes, perhaps). In such cases, the GM should grant the PCs more or fewer power shifts at the game’s start.
 
 #### POWER STUNTS  
+
 A power stunt is pushing a superpower beyond its normal limits or using it to do something it normally can’t do. Examples:
 - A lightning-blaster hero shooting their electricity farther than normal
 - A fire-creating hero absorbing fire from a burning building
@@ -31871,6 +31846,7 @@ Just like in any aspect of the game, other factors might ease or hinder the hero
 If a hero tries a particular stunt in more than one session, the GM doesn’t need to give the task the same difficulty every time; the circumstances of each attempt are never quite the same. Perhaps this supervillain’s fire is a little hotter or cooler than the one the hero tried to absorb last time. Or the spaces between the dimensions are thinner or thicker right now, making it harder to teleport between them. The position of two opponents or the shape of a room might be different than the last time the hero tried splitting an attack power across multiple targets. In other words, the GM doesn’t have to remember that the last time the hero tried this stunt it was difficulty 7, so it has to be difficulty 7 this time; just look at the current circumstances and make a decision based on that. In fact, this is part of the reason why the difficulties are three levels apart; the GM is more likely to be consistent at rating something as difficult, formidable, or impossible than deciding whether it’s a level 6 or level 7 task.
 
 #### PERMANENT POWER STUNTS
+
 Once a character has successfully performed the same difficult, formidable, or impossible power stunt a few times, they might want to make it a permanent part of their repertoire of abilities. By spending 2 XP, the character gains the ability to perform that power stunt whenever they want, with no need for a power stunt task. The GM decides how many times the character has to get the stunt right before they can spend XP to learn it. Three successful attempts over at least three separate sessions is a reasonable guideline, plus some downtime between game sessions to represent mastering this variant.
 
 Learning a power stunt does not count as a step in character advancement.
@@ -31917,6 +31893,7 @@ Use the following table to estimate the difficulty of various incredible feats o
 Some character abilities are able to move heavy things, often more easily than brute physical strength can. If a superhero wants to push the limits of what those abilities can do, the GM can compare the baseline effects of those abilities to the Feats of Strength table to determine the comparable difficulty of the task, and modify the character’s roll to succeed.
 
 #### FEATS OF SPEED  
+
 A character can move a short distance (50 feet [15 m]) as their entire action as a routine task (difficulty 0, no roll needed). This is basically a jog or a hustle, faster than a walk
 
 but not an all-out run. A character can try to run a long distance (100 feet [30 m]) as their entire action, but they must succeed at a difficulty 4 Speed task to complete the movement; failure means they trip, stumble, slip, or fall down at some point during the move and stop.
@@ -31937,6 +31914,7 @@ Of course, superheroes aren’t normal people—they’re exceptional, and some 
 |15|2 miles (3 km)|1,600 mph (2,575 kph); Mach 2|
 
 #### TREMENDOUS LEAPS
+
 Some—but not all—strong superheroes can easily leap dozens or hundreds of feet, well beyond what’s possible with the jumping rules (running a short distance and jumping 30 feet [9 m] is a difficulty 10 task). Characters who want to jump huge distances like that should take the Amazing Leap ability, allowing them to jump a long distance or more.
 
 All characters with at least one power shift in strength get the benefit of a free level of Effort for each strength shift. This effectively increases their standing jump distance by 1 foot (30 cm) per shift and their running jump distance by 2 feet (60 cm) per shift, which is impressive compared to a normal person, but not phenomenal.
@@ -31973,6 +31951,7 @@ the assessed difficulty to determine the crafting time by three or four steps, w
 
 
 ## Characters
+
 ### SUGGESTED TYPES FOR A SUPERHERO GAME
 
 |   |   |
@@ -32027,6 +32006,7 @@ The archetypes suggest how to assign your power shifts. This is an important asp
 In some cases, you might need to tinker with the aesthetics of the abilities described in the character options to make them fit your character. 
 
 ### POWER SOURCE  
+
 As you’re figuring out what type, descriptor, focus, and power shifts you want for your character, think about how you got your powers. Are you a mutant, born with special abilities? Do you have a high-tech costume with built-in nanotechnology? Are you a sorcerer, or maybe a psychic? The source of your powers is character flavor—for example, there’s no game mechanics difference between the mental powers of an alien member of a telepathic species, a human character who built a brain-augmenting helmet, or a faerie character from the starlight dimension who knows mind-magic. All three of those characters could have the same type, focus, descriptor, and power shifts, but they’d be very different people and have very different reasons for being a part of the RPG campaign.
 
 If you can’t decide how you got your powers, or if you like leaving some things up to chance, try rolling once or twice on the Power Origin table and pick the result that you like better, or combine the two into something weird and unique.
@@ -32093,9 +32073,11 @@ POWER ORIGIN TABLE
 Remember that you can permanently increase the range of one of your abilities with the increased range power shift.
 
 ### STARTING JUST PAST TIER 1
+
 An interesting option for a GM starting a superhero campaign is to immediately give each PC 4 XP, which they must spend on a special advancement option to gain another type ability. It’s another way (along with power shifts) to make new superhero PCs feel a cut above player characters in other genres—and gives players a little more wiggle room in building the character they want to play.
 
 ### RANDOM SUPERPOWERS
+
 The following table has a broad selection of powers (or in some cases, sets of related powers). Players who are stuck for ideas about their superhero can roll once or twice on the table for inspiration; use the Example column for a suggested game example of that kind of power, whether that’s a power shift, a hero archetype, a focus, or a specific special ability (of course, these suggestions aren’t the only way to achieve that power).
 
 The GM can also use this table to come up with random abilities for supervillains. However, there is much more leeway in designing NPC abilities, so the Example column is more for suggesting game mechanics than abilities to choose.
@@ -32164,6 +32146,7 @@ The GM can also use this table to come up with random abilities for supervillain
 |99-00|Weapon master|Weapon master, power shift in single attack|
 
 ### DESCRIPTORS  
+
 This section presents new descriptors meant specifically for a superhero game.
 
 #### AMAZING
@@ -32184,6 +32167,7 @@ From the following list of options, choose how you became involved in the first 
 4. You had a hunch that something big was about to go down.
 
 #### INCREDIBLE
+
 You’re misunderstood, and you might not even think of yourself as a hero, but somehow you keep ending up in situations where your abilities are just what’s needed to prevent disaster. Maybe good luck cancels out just enough of being cursed to count as a win. You’ve saved innocent lives, defeated some really bad people, and perhaps even cheated death a couple of times. Half the time you don’t even know how you did it, but you succeeded at the impossible . . . often with a lot of collateral damage. When you hear police sirens, it’s time to leave, but you know that trouble will find you eventually—and you’ll be ready to smash it.
 
 - Strong: +2 to your Might Pool, and 2 additional points to divide among your stat Pools.
@@ -32198,6 +32182,7 @@ From the following list of options, choose how you became involved in the first 
 4. You were feeling lonely and took a risk talking to someone, and so far it’s paying off
 
 #### MIGHTY
+
 You have a very impressive physique. Your strength, power, and very importance are superior. Whether you’re truly the mightiest may be up for debate (and you may have a friendly rivalry about this with other superheroes), but there is no question that you are exceptional. These things make you confident, but you know that you have these physical gifts in order to perform heroic deeds, and unseemly conduct is beneath you.
 
 - Very Powerful: +4 to your Might Pool.
@@ -32213,6 +32198,7 @@ From the following list of options, choose how you became involved in the first 
 4. An authority figure told you to do this to show you the value of humility.
 
 #### SENSATIONAL
+
 The public and the press like you. Maybe you’re photogenic, or you’re inherently nice, or you have really good luck with journalists. Whatever the cause of it, you’re the darling of the media, and whenever you’re seen in public, you generate a lot of positive interest and excitement. (If you don’t have a secret identity, this attention probably also carries over to your day job, which is a mixed blessing.) People know that you’re a hero and that they can count on you to do the right thing—fighting crime, battling injustice, punching evil robots, that kind of stuff. Sometimes being in the public eye so much can be wearying or even a burden, but you know how to use your reputation to set a good example and make the world a better place.
 
 You gain the following characteristics:
@@ -32229,6 +32215,7 @@ From the following list of options, choose how you became involved in the first 
 4. A supervillain chose to make a scene in the hopes of drawing you out.
 
 #### UNCANNY
+
 There’s something unusual about you, and it makes other people a little uncomfortable. You know you’re exceptional—gifted, even—and being a bit odd doesn’t make you any less of a person. This uncanny element is a part of you, in your blood, in your DNA. You can’t help it, but you won’t apologize for it. You feel comfortable around other people with similar strangeness, people who’ve experienced the same prejudice that you have; these shared experiences mean they’re your family, perhaps the only family you’ve got.
 
 You gain the following characteristics:
@@ -32265,6 +32252,7 @@ This section presents new superhero foci that can be used as is in most superher
 - Wields Invisible Force: You bend light and manipulate beams of force for offense and defense.
 
 #### COPIES SUPERPOWERS
+
 You can copy others’ skills, abilities, and superpowers.
 
 Tier 1: Flex Skill 
@@ -32278,6 +32266,7 @@ Tier 6: Amazing Copying or Multiple
 Copying GM Intrusions: A copied power ends unexpectedly or goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).
 
 #### HAS A THOUSAND FACES
+
 You can change your appearance to look like anyone else.
 
 Tier 1: Face Morph
@@ -32293,6 +32282,7 @@ Tier 6: Divide Your Mind or Infer Thoughts 
 GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.
 
 #### IGNORES PHYSICAL DISTANCE
+
 You can teleport from one place to another by briefly passing through a parallel dimension.
 
 Tier 1: Dimensional Squeeze
@@ -32305,6 +32295,7 @@ Tier 6: Teleportation or Teleportive Wound
 GM Intrusions: A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
 
 #### SCULPTS HARD LIGHT
+
 You create physical objects out of hard light that you can use for offense and defense.
 
 Tier 1: Automatic Glow
@@ -32318,6 +32309,7 @@ Tier 6: Defensive Field or Flight 
 GM Intrusions: A hard light object disappears early. A hard light object cannot affect a certain creature or color.
 
 #### SHRINKS TO MINUTE SIZE
+
 You can shrink down to the size of a bug and, with enough experience, even smaller. 
 
 Tier 1: Shrink
@@ -32334,6 +32326,7 @@ GM Intrusions: A creature thinks the small character is potential food. The smal
 A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
 
 #### SOARS ON AMAZING WINGS
+
 Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
 
 Tier 1: Hover
@@ -32347,6 +32340,7 @@ Tier 6: Hard Target or Defense Master
 GM Intrusions: A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
 
 #### STRETCHES
+
 Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
 
 Tier 1: Contortionist
@@ -32361,6 +32355,7 @@ Tier 6:Break the Ranks or Not Dead Yet
 GM Intrusions: An attack or effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
 
 #### TAKES ANIMAL SHAPE
+
 You can transform yourself into an animal. 
 
 Tier 1: Animal Shape
@@ -32376,6 +32371,7 @@ GM Intrusions: The character unexpectedly changes form. An NPC is frightened by 
 Greater Beast Form applies to using Animal Shape.
 
 #### TOUCHES THE SKY
+
 You can summon storms or break them apart.
 
 Tier 1: Hover 
@@ -32388,6 +32384,7 @@ Tier 6: Control Weather or Wind Chariot 
 GM Intrusions: An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
 
 #### WIELDS AN ENCHANTED WEAPON
+
 You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
 
 Tier 1: Enchanted Weapon
@@ -32402,6 +32399,7 @@ Tier 6: Deadly Strike or Spin Attack 
 GM Intrusions: A weapon breaks or is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
 
 #### WIELDS INVISIBLE FORCE
+
 You bend light and manipulate beams of force for offense and defense.
 
 Tier 1: Vanish 
@@ -32751,13 +32749,16 @@ Wing Weapons: You can use your wings to make melee attacks (even when flying), l
 
 
 ## Equipment
+
 Suggested additional equipment is the same as in a modern setting. Keep in mind, however, that for many heroes, “equipment” can be superfluous. Where do you stash the flashlight and rope when all you’re wearing is spandex tights?
 
 ### SPECIAL EQUIPMENT
+
 Sometimes a group of superheroes needs special equipment so they can participate in an encounter or advance the story. For example, characters who must get to an underwater base will need air tanks or a water-breathing device, and those going on a short trip into space will need a vehicle and spacesuits. This sort of item doesn’t have to be a cypher (which counts against a character’s cypher limit) or an artifact (which has a depletion chance)—it can just be equipment. If a player suggests a suitable piece of equipment they can buy (such as scuba gear), or a gadgeteer or inventor character offers to build something to do the job, the GM should let them do it and handwave most of the details because they’re being creative and overcoming obstacles to move the story forward. In other words, don’t assume that every piece of weird equipment needs to be a cypher or artifact; things that allow the adventure to happen shouldn’t cost the characters much, or maybe not anything at all. And if the players take too much advantage of this leeway, the GM always has the option to use an intrusion to complicate an encounter.
 
 
 ### CYPHERS AND ARTIFACTS
+
 In a superhero campaign, there’s a fine line between cyphers (one-use items or abilities awarded by the GM), artifacts, character abilities (which may cost Pool points to use), and other equipment (which has none of those criteria). The GM should keep in mind that it’s good from a story point of view to let characters have equipment they need to deal more effectively with foes that might otherwise be too potent.
 
 ### SPECIAL EQUIPMENT
@@ -32765,6 +32766,7 @@ In a superhero campaign, there’s a fine line between cyphers (one-use items or
 Sometimes a group of superheroes needs special equipment so they can participate in an encounter or advance the story. For example, characters who must get to an underwater base will need air tanks or a water-breathing device, and those going on a short trip into space will need a vehicle and spacesuits. This sort of item doesn’t have to be a cypher (which counts against a character’s cypher limit) or an artifact (which has a depletion chance)—it can just be equipment. If a player suggests a suitable piece of equipment they can buy (such as scuba gear), or a gadgeteer or inventor character offers to build something to do the job, the GM should let them do it and handwave most of the details because they’re being creative and overcoming obstacles to move the story forward. In other words, don’t assume that every piece of weird equipment needs to be a cypher or artifact; things that allow the adventure to happen shouldn’t cost the characters much, or maybe not anything at all. And if the players take too much advantage of this leeway, the GM always has the option to use an intrusion to complicate an encounter.
 
 ### POWER BOOST CYPHERS 
+
 This section introduces two new power boost cyphers, and consolidates the two efficacy boost cyphers in the Cypher System Rulebook into one cypher with variable effects based on cypher level.
 
 |   |   |
@@ -32880,7 +32882,9 @@ twenty-four hours if not used.
 Depletion: 1–3 in 1d10
 
 ## Creatures
+
 ### Basic CREATURES AND NPCs FOR A SUPERHERO GAME
+
 - Dog, guard: level 3, attacks and perception as level 4
 - Genetically enhanced bruiser: level 3, attacks as level 4; health 15; 5 points of melee damage
 - Ninja: level 3, stealth as level 6
@@ -32894,6 +32898,7 @@ Depletion: 1–3 in 1d10
 People with amazing abilities who use them for evil earn the label of supervillain. This section presents five sample supervillains. These supervillains use the same format as the Creatures chapter.
 
 #### ANATHEMA
+
 Level : 7 (21)
 
 The supervillain called Anathema is big, bright red, and stronger than anyone on this planet or any other (or so he claims). Superheroes who go head to head with him learn that he can withstand almost any hit and always gives back twice as hard as he receives. He can bring down buildings with a punch and throw semi trucks across state lines.
@@ -32927,6 +32932,7 @@ Loot: Anathema doesn’t normally carry wealth or other valuables. In his lair, 
 GM intrusion: Anathema’s attack sends the character flying a long distance and potentially into dangerous terrain.
 
 #### DOCTOR DREAD
+
 Level : 7 (21)
 
 Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, and the robotic armor she uses to enhance her otherwise normal abilities. Indeed, Doctor Dread has become the most feared terrorist on the planet. She uses her abilities to extort money, influence, and technology from the rich and powerful, whether her victims are individuals, governments, corporations, or superheroes.
@@ -32969,6 +32975,7 @@ Loot: Most of Doctor Dread’s considerable wealth is tied up in online accounts
 GM intrusion: Doctor Dread uses a function built into her robotic armor that is the perfect solution for her current predicament: healing herself, teleporting away, disintegrating a barrier, or whatever is needed.
 
 #### MAGNETAR
+
 Level : 8 (24)
 
 Not much is known about Magnetar other than its powerful ability to generate and control magnetic fields. Various research groups theorize that Magnetar is an alien, a sentient and self-improving robot, or even some kind of manifestation of a fundamental force. Given Magnetar’s vaguely humanoid shape, a few people even suggest that the villain is actually a man with a mutant ability so powerful that it burned out all memories of his former self.
@@ -33003,6 +33010,7 @@ Use: Doctor Dread has put a bounty on Magnetar’s head because she wants to stu
 GM intrusion: On a failed Might defense roll, all of the character’s loose metallic items (including weapons) are stripped from them and become stuck to a nearby metallic buttress.
 
 #### MISTER GENOCIDE
+
 Level : 5 (15)
 
 Real name Alfred Webster, Mister Genocide has the unfortunate ability to synthesize deadly poison from his skin. His touch can kill, but if he wishes it, so can his spittle or even his breath.
@@ -33045,6 +33053,7 @@ Loot: The supervillain carries currency equivalent to 1d6 expensive items, a cyp
 GM intrusion: A character affected by the poison must make a second Might defense roll or fall unconscious from shock. Unconsciousness lasts for up to a minute, or until the victim is jostled awake.
 
 #### WRATH
+
 Level : 6 (18)
 
 The head of an elite group of assassins, Wrath wants to save the world by killing everyone who impedes her vision of perfection—which turns out to be the better part of humanity. In addition to being one of the most accomplished martial artists to walk the earth (thanks to her connection with a mystical entity called the Demon), Wrath is also a criminal mastermind whose assassins are just one layer of the organization she controls.
@@ -33084,6 +33093,7 @@ Loot: In addition to weapons and armor, Wrath likely possesses the equivalent of
 GM intrusion: Just as things seem bleakest for her, Wrath summons a group of assassins waiting in the wings to surround the PCs and demand their surrender.
 
 ### POWERFUL CREATURES  
+
 Superheroes don’t just stop bank robbers and fight supervillains—sometimes they face giant robots, alien space monsters, or so-called gods. GMs can use the following examples to estimate the level and challenges for such threats.
 
 |Level|Example|
@@ -33104,9 +33114,11 @@ Superheroes don’t just stop bank robbers and fight supervillains—sometimes t
 
 
 # Post-Apocalyptic
+
 Post-apocalyptic literature, movies, and games are a subgenre of science fiction that focuses on the dystopia that follows the fall of civilization. Strictly speaking, post-apocalyptic stories take place after the end of the world. At least, the end of the world for most people. Players take the role of the survivors (or their descendants) trying to persevere in the face of immense hardship. Popular post-apocalyptic scenarios include those set after nuclear war, in the aftermath of a zombie plague, in the months and years following an alien invasion, or after the environment collapses in the face of human overpopulation. Other ways the world could end include a massive meteorite strike, the long-awaited robot uprising, a powerful solar flare that burns out the world’s power grids and communications, or even something as prosaic as a global disease pandemic.
 
 ## Characters
+
 ### SUGGESTED TYPES FOR A POST-APOCALYPTIC GAME
 
 |   |   |
@@ -33120,16 +33132,20 @@ Post-apocalyptic literature, movies, and games are a subgenre of science fiction
 |Evolved|Adept|
 
 ### Alternate Character Roles
+
 Characters who play out the apocalypse itself or who have just survived it and must pick up a few hours, days, or months after the end should choose from an alternate slate of roles. If you begin your game in such a setting, it makes much more sense to let your players choose roles for characters in a modern game.
 
 ### DESCRIPTORS
+
 In addition to the descriptors in the Cypher System Rulebook, you can widen the options available to the players, allowing them to choose from the descriptors presented here for their characters. A subset of the descriptors in this chapter are species descriptors, which may or may not be appropriate for your players, depending on your setting.
 
 #### Rust and Redemption Descriptors
+
 Standard: Bitter, Hopeful, Rusted, Shiny
 Species: Canien, Felis, Flutter, Mutant
 
 ##### Bitter
+
 Someone you cared for wronged you. They may have done so directly by betraying a trust, stealing your supplies, or giving you up to raiders to save their own life. Maybe they did it indirectly by going missing or dying on you. Or maybe it was an organization or institution that let you down. Whatever it was, you’ve spent a lot of time pulled into yourself, paranoid and mistrustful of others. But something’s happened lately that has at least opened you to the possibility of trusting others again. Maybe you have to work with someone else or die. Alternatively, perhaps you’ve decided to try one more time, despite your disillusionment. It’s either that or fully give in to bitterness.
 
 You gain the following characteristics:
@@ -33146,6 +33162,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You have no idea how you joined the PCs. You’re just going along with it for now until answers present themselves.
 
 ##### Canien
+
 You’re an evolved, intelligent dog with the ability to speak and use tools. Some caniens stand upright and have hands, and others are quadrupeds who can use a combination of their front paws and mouth as adroitly as a handed canien; you decide which kind of canien you are. Most canien clothing and equipment accommodates walking on either two feet or four, so that’s normally not an issue. Either way, you’ve got fur, a tail, and a noble dog visage true to your particular line of descent. And like most caniens, you’re loyal to your pack and friends. But you may find strangers a little suspicious, in which case you aren’t shy about letting them know. However, you’re usually willing to entertain the idea that a newcomer may be a friend you just don’t know yet.
 
 You gain the following characteristics:
@@ -33165,6 +33182,7 @@ From the following list of options, choose how you became involved in the first 
 4. You feel that one of the other PCs is in danger in some way, and you’d like to help out or keep an eye on them.
 
 ##### Felis
+
 You’re an evolved, intelligent cat with the ability to speak and use tools. Felis are equally comfortable running on all fours or standing around in a clowder of other felis gossiping over catswort tea. Your fur is your protection from the elements, but you sometimes wear a harness for your equipment and may adopt boots for rough terrain and hats for fashion or function. Your visage is like that of before-times cats, including piercing, reflective eyes. Like other felis, you are crafty and cautious, unless you feel comfortable with others, in which case you can laze away hours in the sun or a warm spot. But if need be, you are quick to act and are not afraid to use your claws to defend yourself.
 
 You gain the following characteristics:
@@ -33186,6 +33204,7 @@ From the following list of options, choose how you became involved in the first 
 4. You got lost. The PCs found you and invited you to join their group.
 
 ##### Flutter
+
 You emerged from the chrysalis with your mind awash in skills instilled while you matured, as well as knowledge handed down from your ancestors. If the stories are true, some of your knowledge comes from even further back, ceded by godlike “humans” who raised flutters into the light of self-knowledge. That was before humans were lost, leaving the world in ruins. Ruins that are now yours to refurbish and rebuild or, as many prefer, to ignore while you instead go your own way. Humans may have created you, but they’re gone, and you can decide what you think you owe them, if anything.
 
 As a flutter, you are kin to the much smaller natural moths that still flit by night. But you have an internal skeleton and lungs, and are far larger. For all that, you also have wings, a proboscis, and much thinner limbs than the average animal still roaming the world.
@@ -33207,6 +33226,7 @@ From the following list of options, choose how you became involved in the first 
 4. You zigged when you should have zagged and ran headlong into the PCs. They patched you up and you stayed with them.
 
 ##### Hopeful
+
 Despite civilization’s fall, you’re optimistic about what the future could bring, confident that it will be bright. In fact, now that all the old institutions and cares of the world are gone, you hope something better can be rebuilt in its place. It’s possible that you’re bubbly and full of cheer. But you might instead be quietly confident, your hope revealed by the way you always try again if at first you fail. Being hopeful doesn’t mean you’re blind to others’ faults, but you can hope they will do better next time, which might lead you to be more forgiving than other survivors. After all, when you screw up, you hope others will allow you the same luxury of learning from your mistakes.
 
 You gain the following characteristics:
@@ -33224,6 +33244,7 @@ From the following list of options, choose how you became involved in the first 
 4. You answered a cry for help when another PC got in over their head.
 
 ##### Mutant
+
 Savage forces strong enough to destroy a world left you transformed. Either through latent mutations passed down from ancestors that survived the apocalypse, or because something about you reacts when you’re exposed to radiation or some other mutagenic source, you are prone to mutation. You might look relatively similar to others of your species, or you might have one or more obvious physical differences that make it hard to disguise your nature. Not that you necessarily want to hide what you are; you might wish to proudly display what makes you different and, to your mind, better.
 
 You gain the following characteristics:
@@ -33259,6 +33280,7 @@ Initial Link to the Starting Adventure:
 4. You stepped in to defend one of the PCs when that character was threatened. While talking to them afterward, you heard about the group’s task.
 
 ##### Shiny
+
 You’re brash and bright, and you exult in situations, people, and objects that seem to you as if they have a similar sheen. Literally shiny objects qualify, as well as objects that are not rusted or degraded by time’s passage or the effects of the apocalypse. You also tend to fall into the orbit of people who are strong, unbeaten, and possessed of an inner brightness. You believe that they, like you, reflect the light of some greater spiritual purpose in the world. When you believe you are acting in that glow, you are emboldened and may take risks others fear. You don’t seek death, but you’re confident that death in the pursuit of something shiny is the definition of a life well-lived.
 
 You gain the following characteristics:
@@ -33280,9 +33302,11 @@ From the following list of options, choose how you became involved in the first 
 The Scavenges focus can be used as written in the Cypher System Rulebook, but whenever the abilities point to the scavenging rules and tables from the rulebook (including Ruin Lore, Junkmonger, Know Where to Look, and other abilities), use the optional rule for scavenging, repairing, and building in this book instead.
 
 #### Post-Apocalyptic SPECIES DESCRIPTORS
+
 In a post-apocalyptic setting, some GMs may want to offer species affected by the disaster.
 
 ##### MORLOCK
+
 You have lived your life deep underground in artificial bunkers, hidden from the world’s destruction and the brutal scavengers that live above. As a morlock, you have a keen mind for the technology salvaged from the before-time. In fact, every morlock comes of age by fitting a piece of morlock technology to its body to provide enhancement and extend its life. This means that you are part flesh and part machine. Your skin is as pale as milk, except where it’s been replaced with strips of metal and glowing circuits.
 
 You gain the following characteristics:
@@ -33299,6 +33323,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. The only way to save the morlock community you hail from is to venture to the surface and find a mechanical part needed to repair a failing ancient system.
 
 ##### ROACH
+
 You are born of a species of evolved insects once called “cockroach,” but that is far in the past. Radiation and forced evolution have radically increased your size, shape, and ability to think. Your exoskeleton mimics the shape of a human being, though not perfectly. When you move about human society, shadows and cloaks are your ally if you wish to pass unnoticed. When those of your kind are discovered, it usually goes poorly for someone. You, however, have a wandering spirit and seek to explore the fallen world and find a new way forward.
 
 You gain the following characteristics:
@@ -33319,9 +33344,11 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You have a secret agenda, and the PCs were gullible enough to let you come along.
 
 ### FOCI
+
 This section presents new post-apocalyptic foci that can be used as-is in most games set after civilization falls. As these were created specifically for the post-apocalyptic genre, each has an expanded description with more story details than the foci in the Cypher System Rulebook (which have short, broad descriptions suitable for other genres).
 
 #### Merges Mind With Machine
+
 You were raised in an underground bunker by Milly, an AI instance installed in your brain before you developed cognition of your own. Unlike AI zombies, your personality and motivations haven’t been replaced; your sense of self grew alongside the AI, as collaborators rather than foes. This granted you superior intellect and an uncanny knack for computers. Now you’ve emerged into the larger world, where survivors are predisposed to distrust you, and you may need to keep your background a secret to be accepted. Whether you hate AI or remain loyal to Milly, you face the best odds if you can fit in with another group of survivors. After all, there’s a lot you don’t know about how things work on the surface and the things people have done to stay alive in the past twenty years.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -33404,6 +33431,7 @@ Tier 6:
 - Escape the Ruins (6 Intellect points): While in any area containing ruins from before the apocalypse, you find or create a significant shortcut, secret entrance, or emergency escape route where it looked like none existed. Doing so requires that you succeed on an Intellect action whose difficulty is set by the GM based on the situation. You and the GM should work out the details. Action.
 
 ##### Raids
+
 When civilization fell, you did what you had to do to stay alive. Did you kill innocent people? Probably, insofar as anyone who survived the end can really be considered “innocent.” You figured they’d have done the same to you. But whether they deserved it or not, you and the other raiders you ran with survived, and your targets did not. Then something life‑changing happened to you, altering your perspective; it’s up to you to decide what. In any case, you’ve turned over a new leaf. You don’t indiscriminately kill anymore, though surviving is still a goal. But you’ve joined with others who you want to protect as much as or even more than your own life. You’re done with raiding. But is raiding (and those who might recognize you as a raider) done with you?
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -33442,6 +33470,7 @@ Tier 6:
 - Twisting the Knife
 
 ##### Remembers the Past
+
 You are a student of the before‑times. Maybe that’s because you grew up in the ruins of an old library and read everything as your hobby, you found a friendly AI archivist who taught you about how things once were, you’re long‑lived and were alive before the apocalypse, or you have a deep recollection of the world before the end for some other reason. This knowledge gives you an appreciation of the before‑times as well as a point of view that many other survivors lack that benefits you in and around ruins. You can find things others wouldn’t know to look for, plucking fruits of the past that would otherwise go unharvested.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -33481,6 +33510,7 @@ Tier 6:
 - Use the Network (5 Intellect points): With a few minutes of looking around and preparing, you can access remnants of the before‑times internet and satellite network (or an active network on which AIs who are not immediately dangerous reside). The GM may decide there is no such connection in the area, but if there is, you can ask one basic question about anything happening within 10 miles (16 km) and receive a simple answer. For example, you could ask about the location of a specific creature or individual, and if they are within the range of this ability, you’ll learn about it from a still‑functioning camera feed, satellite feed, or AI interaction. Action to initiate.
 
 ##### Walks the Wasteland
+
 Most people want to hide from the devastation or just curl up and die rather than face a hostile world. Not you. You’re determined to see what’s out there, to survive, and, more than that, to thrive. It’s that or let the radioactive rats—or whatever it is that hunts the ruins—get you. If you were around before the end, you could have been a soldier, mercenary, or at least someone who had basic survival training. What sets you apart from all the others like you is that you decided to hope when everything looked darkest. Since then, you have eaten your share of spoiled food and irradiated water, and survived. Whether that’s because you’ve adapted, you’re luckier, or you were just tougher than the rest is anyone’s guess. But you’re still walking the wastes even though so many others are gone. You probably don’t spend a lot of time on your appearance, given that you wear the cobbled‑together clothing and bits and pieces of armor you’re able to scavenge from the ruins. Appearance doesn’t matter; actions do.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -33523,6 +33553,7 @@ Tier 6:
 - Wasteland Camouflage (5+ Speed or Intellect points): By drawing your clothing about you just so and using various tricks and your deep knowledge of your surroundings, you become invisible for ten minutes in any landscape that contains ruins of the before‑times. (You may also attempt this in a purely wilderness setting, but if you do, you must spend 1 additional point from Speed or Intellect, whichever Pool you activated this power with.) While you are invisible, this asset eases your stealth and Speed defense tasks by two steps. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. Action to initiate or reinitiate.
 
 ## Extra Rules
+
 The optional rules presented in this chapter accommodate a variety of circumstances that PCs could face after civilization falls. Some represent useful information that rarely comes up in other games but is ever‑present in almost every post‑apocalyptic game, such as scavenging and how to repair before‑times machines, the game effects of exposure and starvation, and so on.
 
 Other optional rules support play in the aftermath of a particular type of cataclysm or style of play. If nuclear war destroyed the world, the landscape is likely much different than if a pandemic wiped out most people.
@@ -33534,6 +33565,7 @@ Most of the rules are meant for the GM’s eyes only—things that happen behind
 Realistic Versus Fantastic Optional Rules: Some of the optional rules presented here are for realistic or plausible scenarios like nuclear war or climate change, and some are for fantastic events and settings such as time storms, the return of magic, or incredible mutations. Realistic optional rules usually also apply in games that use one or more fantastic optional rules. Ultimately, it’s your choice. Feel free to use some, all, or none of these optional rules when running your game, or introduce others of your own devising (or from another genre sourcebook) to provide a unique twist to the game.
 
 #### EXPOSURE, STARVATION, AND DEHYDRATION
+
 Codifying the effects of exposure, starvation, and dehydration for a tabletop RPG probably makes sense only in a post‑apocalyptic scenario, given that survival is a primary theme of the genre.
 
 When to Use: If PCs are exposed to the elements, don’t have enough food, and/or don’t have enough water, their health and life span are directly affected.
@@ -33541,30 +33573,37 @@ When to Use: If PCs are exposed to the elements, don’t have enough food, and/o
 Effect: As noted under Too Cold, Too Hot, Starvation, and Dehydration hereafter.
 
 ##### EXPOSURE  
+
 The human body can withstand temperatures that are too cold for it or too hot for it for a brief period before degrading.
 
 ##### Too Cold
+
 Prolonged exposure to temperatures below 60° F (16° C) eventually uses up a body’s stored energy. The result is hypothermia, when the body loses heat faster than it can produce it. A body temperature that’s too low affects the brain, making the target unable to think clearly or move well. Those with adequate clothing and/or shelter appropriate to the environment are protected. Generally, a PC can survive extreme cold for about twenty minutes to about two hours.
 
 In game terms, unprotected characters, or even characters who have less than adequate protection, suffer 1 point of ambient damage per hour in temperatures near or below 32° F (0° C), or 1 point of ambient damage per round in subzero (–18° C) conditions. In addition, PCs in subzero temperatures with inadequate protection must succeed on a difficulty 4 Might defense roll each hour or descend one step on the damage track.
 
 ##### Too Hot
+
 Prolonged exposure to a wet‑bulb temperature of 95° F (35° C) is the upper limit of safety, beyond which the human body can’t cool itself by evaporating sweat. Heat exhaustion is the result, leading to weakness, dizziness, headache, and nausea. Heat exhaustion can progress to heatstroke, when the body’s temperature regulation system fails. Those with adequate shelter or some sort of cooling system are protected. Generally, a PC can survive extreme heat for about twenty minutes to two or three hours.
 
 In game terms, PCs in too‑hot conditions suffer 1 point of ambient damage per ten minutes. In addition, a character exposed to extreme heat must make a level 4 Might defense roll (hindered if the character is also dehydrated) every ten minutes. On a failed roll, the character descends one step on the damage track.
 
 ##### RULE OF THREE
+
 One popular mnemonic for knowing how long a person can survive in extreme circumstances is the Rule of Three. It goes something like this: You can survive for three minutes without oxygen, you can survive for three days without water, and you can survive for three weeks without food. However, the rule depends on a person not being directly exposed to the environment and not being under physical duress, and requires someone who can hold their breath for three minutes, which is not most people. Usually, in a post‑apocalyptic RPG scenario, PCs won’t have such luxuries.
 
 ##### STARVATION
+
 Generally, a PC can survive without food for about ten days to several weeks. In game terms, PCs who go without food take 3 points of ambient damage each day. On any day a PC has taken starvation damage, their tasks are hindered (even if the character makes a recovery roll to regain lost Pool points). In addition, after seven days without food, a starving character must make a level 5 Might defense roll each day that follows. On a failed roll, the character descends one step on the damage track.
 
 ##### DEHYDRATION
+
 Generally, a PC can survive without water for three to five days, but this time frame can be shorter in extreme heat or physical activity. In game terms, PCs who go without water take 3 points of ambient damage every twelve hours. On any day a PC has taken dehydration damage, their tasks are hindered (even if the character makes a recovery roll to regain lost Pool points). In addition, after one day without water, a dehydrated character must succeed on a level 5 Might defense roll each day. On a failed roll, the character descends one step on the damage track.
 
   
 
 #### RADIATION IN THE REAL WORLD
+
 Exposure to dangerous amounts of radiation can cause severe damage to the human body, including cellular mutations, cancer, and death.
 
 When to Use: If nuclear war led to the apocalypse, regions of dangerous radiation linger in the aftermath. Even if you predicate that civilization fell for some other reason, radiation could still be a hazard: a few nuclear bombs may have since been launched by a doom‑driven survivor group that found an old silo, a before‑times nuclear power plant went critical and PCs must access it, alien invaders used weapons that left behind radioactive scars, or just because.
@@ -33574,9 +33613,11 @@ Use this optional rule to evoke a more realistic approach to dangerous radiation
 Effect: Methods to detect and mitigate radiation are useful to avoid stumbling into it in the first place, as described in the next section. Dangerous radiation harms and eventually kills people and other creatures, as described under the sections that follow.
 
 ##### Telltale Signs of Dangerous Radiation
+
 Confirming the Presence of Radiation: If PCs have a functioning radiation‑detecting device, it confirms whether an area is radioactive. Otherwise, they can attempt a difficulty 4 Intellect roll to correctly correlate the telltale signs of a radiation hazard with its actual presence. Even if PCs fail this roll, they still understand that some kind of dangerous residue is blighting the area, whether it’s radiation, poison, evil spirits, nanites, or something else.
 
 ##### Radiation Damage
+
 Especially intense radiation, such as might be found at the center of an area bearing telltale signs of contamination, harms PCs soon after they are exposed.
 
 Immediate Effects of Exposure: When PCs are exposed to dangerous radiation without shielding, they suffer 3 points of ambient damage per minute each time they fail a difficulty 3 Might defense task; on a success they still take 1 point of ambient damage. If they spend more than ten minutes in the area, or fail three Might defense rolls against radiation during any single period of radiation exposure, they are subject to radiation sickness (see the box below).
@@ -33588,11 +33629,13 @@ A character who has scavenged, repaired, or cobbled together a hazmat suit is st
 *Taking iodine tablets eases Might defense rolls against radiation sickness by three steps.
 
 ##### Disease: Radiation Sickness
+
 Level 8 disease: Nausea, vomiting, diarrhea, and fatigue appear within minutes to hours of a PC contracting radiation sickness. Hours later, the PC may suffer skin burns and hair loss. Days later, they experience extreme weakness, weight loss, and potentially death.
 
 Each day the PC fails a Might defense roll, they descend one step on the damage track. If they succeed on three Might defense rolls, they gradually improve and throw off the sickness effects within a few weeks.
 
 #### SCAVENGING, REPAIRING, AND BUILDING
+
 Survivors need food and shelter in a world turned upside down.
 
 When to Use: PCs in a post‑apocalyptic setting that aren’t prepared or that have lost access to their resources and base must usually spend part of each day scavenging for supplies and/or a place of safety. Scavenging is what happens anytime they search for food, water, and shelter.
@@ -33600,6 +33643,7 @@ When to Use: PCs in a post‑apocalyptic setting that aren’t prepared or that 
 Effect: Basic scavenging optional rules are described in the _Cypher System Rulebook_. However, if you’d like to provide the PCs with many more options, including rules for finding enough to eat and drink, a safe shelter, and more, use the following extended optional rules instead. The base scavenging rules have been incorporated here, so you don’t need to cross‑reference them to understand how it all works.
 
 ##### Food, Water, and Shelter
+
 PCs in a post‑apocalyptic game may find themselves without food, water, shelter, and/or refuge for any number of reasons, including because that’s the situation you start them in, they’re exploring a new area, their settlement was overrun by raiders and they barely escaped with their lives, or something else.
 
 Generally, characters must spend ten minutes to an hour searching through the rubble and ruins in a particular area before they have a chance of finding food or a refuge.
@@ -33609,6 +33653,7 @@ Characters who succeed in finding food and water or refuge also get to roll up t
 Consider using a GM intrusion to add additional color by way of an unexpected threat or hazard as they search, especially if they roll a 1 on their task. It’s a dangerous world, and the PCs are not the only ones out scavenging for resources.
 
 **Food and Water**
+
 Found food often takes the form of canned, processed, dried, or otherwise preserved goods from before the apocalypse, but sometimes it includes fresh fruits and vegetables growing wild or cultivated by other survivors.
 
 Found water might be canned seltzer water, water in casks, water in tanks, and other leftovers from the before‑times, but it could just as easily be collected rainwater, from a river, from a lake, or water secured by previous survivors.
@@ -33623,6 +33668,7 @@ Found water might be canned seltzer water, water in casks, water in tanks, and o
 |+|The task is eased by one step for every two fewer people (from a baseline of 5) a scavenger tries to find resources or a refuge for|
 
 ##### Changing Conditions Affect Scavenger Success
+
 The difficulty of finding food, water, and a safe place varies by location and by how many days the characters have already spent there.
 
 Right After the Apocalypse: Things may be somewhat picked over, but PCs probably have their choice of food, water, shelter, and useful things, assuming the apocalypse isn’t one that also devastates large swaths of the immediate environment.
@@ -33632,6 +33678,7 @@ Months and Years After the Apocalypse: Other survivors who’ve already scavenge
 Staying in One Place Too Long: In an unsafe area, PCs who’ve found shelter must succeed on a new difficulty 5 Intellect task each week to determine if their refuge is still safe. If they fail to find—or keep—a refuge, the place becomes compromised in some way. For instance, perhaps their presence is noticed by a hostile force in the area (raiders, a dangerous wild animal, a mutated creature, and so on), or a result from the Realistic Threats and Hazards table becomes evident.
 
 ##### USEFUL STUFF
+
 Food, water, and a safe place to rest are the most important results for any scavenging task. But other obviously useful stuff is often found along with these basic requirements.
 
 When to Consult the Table: When a group of characters successfully finds food and water or a safe place, they also find something else that’s potentially useful. Consult the Useful Stuff table up to once per day, or two or three times if PCs roll a special minor or major effect, respectively. If it’s the first day they have scavenged in a particular area, each character might find something useful on the table, but on subsequent days, a group normally gets only a single roll.
@@ -33645,6 +33692,7 @@ Artifact? As described under Pre‑Apocalyptic Artifacts, almost every nonfood i
   
 
 ##### Useful Stuff Table
+
 Most of the time, it’s not important to know the level of a useful item PCs find. If it becomes important, level 3 is a good baseline. If the item is particularly fragile (such as a wheel of cheese preserved in wax), drop the level by 1 or 2. If the item is particularly hardy (like a fire engine), increase the level by 1 or 2.
  
 |D100|Item Found|
@@ -33725,6 +33773,7 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 |00|Radiation control item<br><br>\|   \|   \|   \|<br>\|---\|---\|---\|<br>  <br>\|d6\|Specific Item\|<br>\|1\|Radiation tent (prevents radiation damage for three days)\|<br>\|2\|Radiation pill (pack of five; eases defense rolls against radiation effects for 12 hours)\|<br>\|3\|Handheld radiation detector\|<br>\|4\|Radiation badge\|<br>\|5–6\|Manual describing radiation remediation best practices\||
 
 ##### JUNK
+
 Scavenging always turns up junk, most of it unusable because the underpinnings of civilization that it required to function— such as a power grid and/or a worldwide internet—no longer exist. Characters are free to ignore that junk. But some PCs might have a use for it. That includes PCs with the Scavenges focus, as well as any character that decides to take advantage of the Repairing and Building section described in this optional rule.
 
 When to Consult the Table: All characters gain up to three results from the Junk table each time they successfully scavenge for food and water, or a safe place to stay. Junk can sometimes be repaired. It can also be disassembled, warped, melted, or otherwise used to craft or repair something else.
@@ -33763,6 +33812,7 @@ Repair and Build Time: PCs who reduce the difficulty of a project cannot, genera
   
 
 #### EQUIPMENT MAINTENANCE
+
 When to Use: Use this optional rule to add a bit more verisimilitude to living in a world where you can’t easily replace a broken appliance or tool by buying something online. This rule works well with the Repairing and Building section of the larger optional rule for scavenging, repairing, and building, because if something breaks due to lack of maintenance, PCs should have a chance to fix it.
 
 Effect: Sometimes, a piece of equipment a PC relies on breaks. Use a GM intrusion to let the character know. PCs who know—or who learn—that equipment wear and breakage is a possibility can be proactive. They can spend about an hour on equipment maintenance each week. Maintenance requires the PC to expend 1 load of metal or construction junk each week, or to break down a few related items of scavenged useful stuff to get what they need. If PCs put in the time to keep their gear in good condition, they should face fewer, if any, GM intrusions related to their equipment failing them. No roll is required for maintenance, and after PCs commit to this practice, it’s usually not important to track the time thereafter, unless a special circumstance occurs.
@@ -33802,11 +33852,13 @@ Effect: Sometimes, a piece of equipment a PC relies on breaks. Use a GM intrusio
 *Load requirements for buildings (vs. repairing) are two to ten times the indicated values.
 
 ##### Handloading Tool Set
+
 A set of handloading tools includes a variety of instruments such as lubricant, powder funnel, and a small press, used to create ammunition for a firearm. To fashion ammunition, the user must spend an uninterrupted hour using the handloading tools, at the end of which time they have created about 25 bullets.
 
 If treated as a Pre‑Apocalyptic Artifact, the handloading tool set has a depletion of 1 in 1d20 (upon depletion, the set can be recharged with 1 load of metal junk and 1 load of chemical junk).
 
 #### IRONMAN
+
 This optional rule pares back some of the better‑than‑normal advantages that Cypher System PCs have over most regular people.
 
 When to Use: To really drive home the brutality of a post‑apocalyptic survival one‑shot game or short scenario, you can subject your players to this hardcore optional rule.
@@ -33816,6 +33868,7 @@ Effect: There are no cyphers (subtle or manifest) or artifacts that heal, and al
 Cypher System characters are tough and resilient, even at tier 1, but the ironman rule brings them down to a more realistic power level. Ironman is more punitive for characters whose abilities cost Pool points and less of a challenge for characters whose abilities don’t cost anything (such as Physical Skills). For a slightly less challenging option, allow the use of healing cyphers and artifacts, but limit them to the minimum amount.
 
 #### FRAGILITY
+
 This optional rule prevents power creep in PCs.
 
 When to Use: If you want your players to have a gritty game experience after the apocalypse, this optional rule keeps them physically humble.
@@ -33825,6 +33878,7 @@ Effect: Whenever a character selects the Increasing Capabilities option for adva
 add a maximum of 1 point to their Might Pool and 1 point to their Speed Pool; other points left over (if any) must go to their Intellect Pool, even if that’s not normally an option for the ability. This does not apply to the extra points the player can divide among their Pools at character creation. This rule creates a more “realistic” scenario in which the PCs are more like normal people who don’t get much more powerful physically over the course of a campaign but still can learn new skills, advance their minds, and so on. This module does not affect abilities like Enlarge (which temporarily adds 4 points to your Might Pool), but it does affect abilities like Enhanced Might, Enhanced Speed, and Lead From the Front (which permanently increase one or more Pools).
 
 #### ADVANCED AND ALIEN TECH
+
 Many popular post‑apocalyptic stories feature salvage in the form of highly advanced or even alien technology.
 
 When to Use: If the apocalypse that ended your world featured a time rip, alien invaders, a catastrophic alien ship crash, a starting date that is several decades into our own future, or an alternate timeline where things happened differently in the past than in the real world, this rule is applicable. You can also use it if you just want to introduce a bit of mystery to your game that will confound PCs’ expectations on how their world really ended.
@@ -33832,9 +33886,11 @@ When to Use: If the apocalypse that ended your world featured a time rip, alien 
 Effect: Fantastic and advanced devices exist in the setting, and PCs can find them. If something is advanced and/or alien enough, PCs may have to develop special skills to use it, as noted hereafter. The existence of this tech in your setting may also imply the existence of other fantastic rules in your game, such as grey goo or terraforming by aliens, but the tech could just as easily stand alone or be part of an End of Days theme.
 
 ##### ADVANCED ARTIFACTS AND FANTASTIC MANIFEST CYPHERS
+
 In a setting featuring remnants of advanced and/or alien technology, PCs scavenging for supplies or defeating foes could discover unusual objects in the form of fantastic cyphers and unusual post‑apocalyptic artifacts.
 
 ##### UNDERSTANDING ADVANCED AND ALIEN TECH
+
 Recognizing and using unfamiliar technology is difficult enough. If something is especially advanced or alien, it’s even harder.
 
 Identifying and Using Advanced and Alien Tech: When a character finds a manifest cypher or an artifact that falls into this category, they must identify it before they can use it. Identification takes from one to ten minutes and a successful Intellect roll, usually against a difficulty of 5. Identifying an object grants PCs the ability to use the object, whether it’s a manifest cypher or an artifact.
@@ -33844,6 +33900,7 @@ However, without training or specialization in alien technology, advanced techno
 Failing to Understand: Sometimes a failed roll to understand an object of advanced or alien tech simply means the character can’t figure it out, but they can try again (as usual, each task retry requires that the PC expend Effort). Other times, there’s a chance of something going wrong, either because you intrude or because the character triggers an intrusion. Use the following table to inspire appropriate GM intrusions or anytime something disruptive happens to an advanced or alien device in a PC’s possession.
 
 ##### ADVANCED AND ALIEN TECH GM INTRUSIONS
+
 Unless the advanced device detonates or is otherwise noted as becoming nonfunctional, PCs with the time can try to understand how to use it again after resolving the intrusion.
  
 |d10|Result of Intrusion|
@@ -33860,6 +33917,7 @@ Unless the advanced device detonates or is otherwise noted as becoming nonfuncti
 |10|Device detonates, inflicting damage equal to its level on everything within short range on a failed Speed defense roll, or 2 points of damage even with a successful roll.|
 
 #### INCREDIBLE MUTATIONS
+
 Exposure to dangerous amounts of radiation inflicts damage. Enough exposure causes cellular mutations, cancer, and death, as described under Radiation in the Real World. However, in the right game setting, radiation (or genetic engineering, or some other mutagen) can instill strange new abilities in previously normal creatures, plants, NPCs, and even PCs, though often with a few drawbacks, too.
 
 When to Use: If you’d like your setting to include incredible mutations, this section is for you. Why does your game have such mutations? Maybe because of an X‑factor in some survivors’ DNA, inscrutable nanites that have permeated the environment, magical contamination, or multiple different timelines collapsing into one.
@@ -33867,6 +33925,7 @@ When to Use: If you’d like your setting to include incredible mutations, this 
 Effect: This section describes several ways to introduce incredible mutations to your game, including letting the environment evoke the concept, PC opt‑in, transitory mutations PCs have less control over, and transitory mutations based on cyphers. You can pick one or two, or use them all at different times and for different needs in your game.
 
 ##### Mutated Creatures, Plants, and NPCs
+
 The environment can reflect the possibility of mutagenic presence even if PCs haven’t yet been affected. The appearance of a creature, plant, or NPC often reveals the presence and severity of a mutation. Some creatures and animals may have only harmful mutations, but others could have adaptive mutations.
 
 Harmful Mutations: Some creatures, plants, trees, fungus, and NPCs could present with disturbing, harmful mutations, such as the following examples. Their tasks are usually hindered.
@@ -33881,6 +33940,7 @@ Harmful Mutations: Some creatures, plants, trees, fungus, and NPCs could present
 - Big clumps of fungal growth that are obviously intrusive and painful
  
 ##### Adaptive Mutations
+
 A disturbing mutation might only look strange and not be an impediment to the animal, plant, or NPC. It might even provide some benefit, as follows.
 - Fur, hair, or leaves growing in strange fractal patterns. Maybe it glows visibly to attract prey, or glows at a frequency normally invisible to the human eye, but which they can see, allowing them to act in the dark.
 - Tentacle‑like arms that work like the regular limb replaced, or an extra tentacle‑like arm that gives the creature a method to grasp, use tools, or otherwise gain an additional benefit over other creatures or plants of its type.
@@ -33889,14 +33949,17 @@ A disturbing mutation might only look strange and not be an impediment to the an
 - Fungal growths that seem to connect the minds of creatures that have the same kind of growth.
 
 ##### OPTIONAL RULE: MUTANT DESCRIPTOR
+
 If a PC wants to play a mutant, they may do so by choosing Mutant as their descriptor. Mutations gained by a character with the Mutant descriptor are always rolled randomly, although you should work with your player to ensure that the resulting PC is one that the player wants to play.
 
 ##### OPTIONAL RULE: TRANSITORY MUTATIONS
+
 Use this optional rule if you’d prefer some flux in what mutations the PCs have available. A volatile mutation is one that mutates into something different over time. When using this rule, a volatile mutation arises spontaneously or is triggered, replacing the specific benefit (or drawback) of the volatile mutation previously granted to the PC.
 
 You can use this optional rule instead of the mutant descriptor optional rule, or allow both in the same game. If using transitory mutations, not every PC in your game needs to have a volatile mutation.
 
 ##### Volatile Mutations
+
 A character can begin the game with one volatile mutation that changes during play, one distinctive mutation that usually does not change, and, at their option, one or two cosmetic mutations.
 
 Alternatively, the PC could gain a volatile mutation (and one distinctive mutation) after their first encounter with radiation or some other mutagenic agent. Additional encounters with radiation don’t give a PC further volatile mutations but could cause the one they have to mutate into something else.
@@ -33914,6 +33977,7 @@ Triggering Events:
 - The character takes damage from radiation (or other established mutagen in your setting) for the first time in ten hours and fails an Intellect defense roll against a difficulty equal to the attack; replace with a randomly rolled beneficial mutation, assuming the character’s roll isn’t a 1, 19, or 20.
 
 ##### Cyphers as Volatile Mutations
+
 If a character has volatile mutations, one way to handle it is to give them an additional subtle cypher slot, and their volatile mutation is whatever subtle cypher is in that slot. A character can begin the game with one cypher volatile mutation that changes during play (or gain it after surviving radiation damage) and one distinctive mutation that usually does not change, plus—at their option—one or two cosmetic mutations.
 
 Effect: A cypher volatile mutation operates almost entirely like regular volatile mutations, except as follows.
@@ -33924,9 +33988,11 @@ Effect: A cypher volatile mutation operates almost entirely like regular volatil
 - When the cypher volatile mutation is replaced, roll the level for the new mutation.
 
 ##### Other Consequences of Volatile Mutations
+
 If a character gains a mutation that grants them points to a Pool (such as strengthened bones, which gives +5 Might), then later loses it, the maximum value in their Pool goes back to what it was before. This might or might not affect their current Pool value, depending on whether they were completely healthy or not.
 
 ##### D100 BENEFICIAL MUTATIONS
+
 The following mutations do not require any visible changes or distinctions in the character. In other words, people who have these mutations are not obviously recognized as mutants. Using beneficial mutations never costs stat Pool points and never requires an action to “activate.”
 
 01–05 Strengthened bones: You gain +5 to your Might Pool.
@@ -33955,6 +34021,7 @@ The following mutations do not require any visible changes or distinctions in th
 00 Sense material: You can sense the presence of any single substance within short range, although you don’t learn details or the precise location. You and the GM should work together to determine the substance: water, iron, plastic, granite, wood, flesh, salt, and so on. You do not need to concentrate to sense the material.
 
 ##### D100 HARMFUL MUTATIONS  
+
 Unless noted otherwise, the following mutations are visible and obvious. They offer no benefits, only drawbacks.
 
 01–10 Deformed leg: All movement tasks are hindered.
@@ -33973,6 +34040,7 @@ Unless noted otherwise, the following mutations are visible and obvious. They of
 93–00 Weakness in Intellect: Any time you spend points from your Intellect Pool, the cost is increased by 1 point.
 
 ##### CRIPPLING MUTATIONS
+
 A sixth category exists that might be called crippling or nonviable mutations. PCs never have this kind of mutation. Mutants with nonviable mutations might be born without limbs, with barely functional lungs, without most of their brain, and so on. Such mutations prevent a character from being viable.
 
 ##### D100 POWERFUL MUTATIONS
@@ -34008,6 +34076,7 @@ The following mutations do not require any visible changes in the character unti
 00 Feed off pain: Any time a creature within immediate range suffers at least 3 points of damage (after Armor subtraction) in one attack, you can restore 1 point to one of your Pools, up to its maximum. You can feed off any creature in this way, whether friend or foe. You never regain more than 1 point per round. Enabler.
 
 ##### D100 DISTINCTIVE MUTATIONS  
+
 The following mutations involve dramatic physical changes to the character’s appearance. People who have these mutations are always recognized as mutants. Using some of these mutations costs stat Pool points. Some are actions.
 
 01–02 Extra eye: You have an extra eye on your forehead that you normally keep closed, but you can open it in dim light and see as if in bright light, and see in total darkness as if in very dim light. Enabler.
@@ -34049,6 +34118,7 @@ The following mutations involve dramatic physical changes to the character’s a
 * Mutants aren’t just mutated humans. Animals and creatures of all kinds could have mutations in your game setting, as noted under Mutated Creatures, Plants, and NPCs. Very rarely, these mutations could make a nonhuman creature more like a human, with opposable thumbs, greater intelligence, and so on; see What Remains After Humans.
 
 ##### COSMETIC MUTATIONS
+
 Cosmetic mutations affect nothing but the appearance of a character. None are so pronounced as to make a character decidedly more or less attractive. They are simply distinguishing alterations.
  
 |d100|Mutation|
@@ -34141,6 +34211,7 @@ Cosmetic mutations affect nothing but the appearance of a character. None are so
 |00|Head crest|
 
 #### POST-APOCALYPTIC THREATS, HAZARDS, AND GM INTRUSIONS
+
 Using the Tables: Choose or roll randomly when you need a hazard to threaten the PCs. As described under scavenging, attempts to find food, water, useful stuff, or just a safe place to hole up could also require a roll on the table.
 
 ##### Realistic Threats and Hazards
@@ -34263,6 +34334,7 @@ Select a GM intrusion appropriate to the situation, roll one randomly, or use th
 99–00 (group): The PCs arrive, but apparently their directions were wrong, because they’re not where they wanted to go, but someplace completely different.
 
 ### SCAVENGING
+
 Characters in a post-apocalyptic setting must usually spend part of each day scavenging for supplies or a place of safety.
 
 Food and Shelter: Generally speaking, characters must spend two to four hours searching through the rubble and ruins before succeeding. Finding enough food for a group of characters to eat for one day is a difficulty 5 Intellect task. Finding a place of relative safety to regroup and rest is also difficulty 5. Characters who succeed on either one of these also get to roll up to once each day on the Useful Stuff table and three times on the Junk table.
@@ -34315,13 +34387,17 @@ JUNK
 |6|Textile junk (coats, pants, shirts, bathing suits, blankets, rugs, etc.)|
 
 ## Equipment
+
 ### POST-APOCALYPTIC EQUIPMENT
+
 #### Currency
+
 In your setting, you may want a new currency that PCs can use to purchase goods and services that fall into the various price categories. Currency of some sort can be used in places where survivors trust each other enough not to steal or kill for resources.
 
 A few options are described here.
 
 #### Loot
+
 The “loot” result on the Useful Stuff table lists before‑times collectibles, such as gold eagle coins, jewelry, and designer wristwatches. A starving survivor would likely scoff at accepting any of these as currency. But in an established community or trade town, such items might retain some value, though they’re worth only a fraction of what they were before the apocalypse. In general, the price category for such things is two ranks lower than before the apocalypse.
 
 #### Ammunition
@@ -34458,6 +34534,7 @@ The additional post‑apocalyptic equipment in the Cypher System Rulebook has be
 
 
 ### ADDITIONAL POST-APOCALYPTIC EQUIPMENT
+
 In a post-apocalyptic setting, the items on the Additional Modern Equipment table as well as the following items might be available in trade from other survivors, or in the rare trade town.
 
 #### INEXPENSIVE ITEMS
@@ -34502,16 +34579,21 @@ In a post-apocalyptic setting, the items on the Additional Modern Equipment tabl
 |Radiation pill (pack of 5)|Asset for defense tasks against radiation effects for twelve hours|
 
 ## Post-Apocalyptic Cyphers
+
 ### Subtle Cyphers
+
 Subtle cyphers are appropriate if your game’s pre‑apocalyptic world was realistic (like our modern world) right up until it was destroyed and if the disaster was a realistic cataclysm (like a pandemic, climate disaster, or war).
 
 ### Optional Rule: Transferring Subtle Cyphers
+
 A PC with a subtle cypher can use it on an ally they can touch and speak with as their action instead of gaining the effect themself. They manage this feat by motivating the recipient through speech and interaction, effectively inspiring the recipient in the same way the subtle cypher would have affected the character with the cypher. This uses the action of the character activating the cypher, not the recipient.
 
 ### Manifest Cyphers
+
 Manifest cyphers in a post‑apocalyptic game might be remnants of the technology or magic that civilization used before it fell, or the technology or magic that caused the end of the world.
 
 ### Scavenger Subtle Cyphers
+
 Resource scarcity, including lack of water and food, threatens PCs in most post‑apocalyptic settings. Enter scavenger subtle cyphers. These give PCs one more way to find useful stuff like edible food, clean water, a helpful tool, extra ammo, or other needful things.
 
 Discovering Scavenger Subtle Cyphers: Anytime PCs in your game are eligible for discovering a subtle cypher, consider giving someone in the group a scavenger subtle cypher. No more than one PC in the group should have a scavenger subtle cypher at any given time. Once they use it, you can give another PC in the group one, preferably something different.
@@ -34952,6 +35034,7 @@ Depletion: 1 in 1d20 (check each day used)
 
   
 ## POST-APOCALYPTIC ARTIFACTS
+
 Artifacts in a post-apocalyptic game include still-working technology from before the disaster that is not widely available, as well as cobbled-together pieces of tech that can weaponize previously prosaic items. If the apocalypse was related to some kind of alien invasion, artifacts would include even stranger items.
 
 #### AUTODOC
@@ -35015,6 +35098,7 @@ Effect: By emitting terahertz and long-range infrared light, this device allows 
 Depletion: 1 in 1d20
 
 ## Creatures
+
 Basic CREATURES AND NPCs FOR A POST-APOCALYPTIC GAME
 - Crazy loner: level 3, deception and attacks as level 5
 - Gamma snake: level 4; bite inflicts 5 points of Speed damage (ignores Armor)
@@ -35711,7 +35795,9 @@ Use: Just when it seems like the characters understand the situation with zombie
 
 
 # Fairy Tale
+
 ## Setting
+
 The genre of fairy tales is a wide one, crossing into almost every culture and encompassing everything from early oral stories passed down from generation to generation to the more modern literary fairy tale. What makes something a fairy tale? While there’s a great deal of discussion around that question, most have a number of things in common: a series of  
 far-fetched events; fantastical beings such as talking animals, elves, goblins, mermaids, witches, and dragons; and objects that have magical elements.
 
@@ -35728,12 +35814,15 @@ Humans don’t tend to do well in such a world if they stay too long, as the sen
 When a fey creature is cut by silvered or cold iron weapons, they temporarily lose the sustaining benefit of their connection to Faerie. This severed connection usually disrupts a fey creature’s ability to heal. A silvered weapon is one that contains silver as part of an alloying process, has silver inlay, or has been coated in a dusting of silver powder (which usually lasts only through a single fight). In truth, many items in the modern era are cold-forged, while many others are not. We suggest that any hand-forged item containing iron could be considered a cold-forged weapon for harming fey creatures. Thus, most bullets and other modern items wouldn’t be treated as cold iron by this definition, but some would fit the bill.
 
 ## Characters
+
 ### FORM VS. FUNCTION
+
 In a fairy tale game, the PCs might consist of a talking fox, an ogre, a fairy, and a human the size of your thumb. And that’s perfectly fine. Build your character sentence in a way that plays to your character’s strengths and weaknesses, and the rest can be handled through story and narrative. Playing a talking bear, a gingerbread man, or a changeling will likely affect your character’s appearance, their outlook on life, and their backstory, but it doesn’t necessarily affect their abilities, skills, and Pools beyond what you choose during character creation.
 
 Because the form that you choose doesn’t typically offer you something in addition to your Cypher System stats—being small, for example, does not inherently mean you’re stealthy—you’ll want to choose your stats to emphasize the bit of your character that you want to play.
 
 ### SKILLS
+
 As described in the Cypher System Rulebook, there is no definitive list of skills. Characters can choose to become skilled in anything they like (with the GM’s permission). In addition to the suggested skills in the rulebook, useful skills for fairy tale games might include: 
 - Talking animals*
 - Talking nature*
@@ -35758,6 +35847,7 @@ Remember that only skills gained through character type abilities or in other ra
 * These skills could be used in a number of different ways, depending on the setting. If the setting has talking animals that the players can’t understand, the talking animals skill could help a PC communicate with them in other ways. If there are talking animals that the characters can understand, the skill could provide an asset in social interactions.
 
 ### TYPE
+
 Your character’s type is the core of who they are and how they interact with their environment, their companions, and other living creatures they encounter. 
 
 Suggested Types for a Fairy Tale Game
@@ -35795,6 +35885,7 @@ Helper, Magic
 Trickster : Skills and Knowledge
 
 ### DESCRIPTOR
+
 Your descriptor is what defines your character—it changes the way you tackle every action that you take. Your descriptor places your character in their current situation or adventure, and helps provide a sense of their motivations.
 
 Suggested Descriptors for a Fairy Tale Game
@@ -35837,6 +35928,7 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - Weird
 
 #### Heartwood Descriptors
+
 - Bewitched 
 - Changeling
 - Fragmented 
@@ -35845,6 +35937,7 @@ The following descriptors are appropriate for fairy tale settings. Other descrip
 - Lost
 
 ##### Bewitched
+
 You’re not sure that your thoughts are always your own. You often hear a voice or voices, guiding you and attempting to force your hand. Sometimes these voices are helpful and kind. Other times, not so much. Where do they come from, and are you cursed or blessed by them?
 
 You gain the following characteristics:
@@ -35861,6 +35954,7 @@ From the following list of options, choose how you became involved in the first 
 4. You find that you can hear the voices more clearly when you’re doing something active, and this seemed like a good fit.
 
 ##### Changeling
+
 Early on you discovered—or perhaps you knew all along—that you weren’t really who everyone thought you were. Perhaps when you were still very young, the child whose name you have now was stolen, and you were put in their place. Or perhaps you are the same person you’ve always been, but you’ve never felt like yourself, and you know that the real you is nothing like the one that everyone else knows. More than once in your life, you’ve been abandoned, distrusted, and rejected by those you loved most, which means that sometimes you fall into deep funks. However, you are just as adept at pulling yourself out of them when the situation demands it. If nothing else, you’re supremely adaptable.
 
 You gain the following characteristics:
@@ -35880,6 +35974,7 @@ From the following list of options, choose how you became involved in the first 
 4. You helped the PCs deal with a situation, and that led you to discovering more about yourself and your background. You hope to do more of that.
 
 ##### Fragmented
+
 Sometimes you feel like you are a single being, and other times you think you mightbe more. You feel torn into pieces, unsure which elements are you and which belong to someone else. Or perhaps they’re all you, and you want to find a way to embrace all of your selves.
 
 You gain the following characteristics:
@@ -35899,6 +35994,7 @@ From the following list of options, choose how you became involved in the first 
 4. You felt drawn to join the other PCs, but you don’t know why.
 
 ##### Frumious
+
 A furious, fuming anger waits, always, just beneath your surface, swirling under your skin like a caged beast. You might do your best to hide it or control it, or perhaps you have given up trying to tame it and you let it run wild. Either way, it seems to cause you—and those around you—grief more often than not.
 
 You gain the following characteristics:
@@ -35916,6 +36012,7 @@ From the following list of options, choose how you became involved in the first 
 4. One of the other PCs invited you to join, after they watched you fight.
 
 ##### Haunted
+
 The world seems more dangerous than it should. You are troubled by fearful and anxious thoughts, and can’t always discern what is a true threat and what isn’t. You might see shadows following you, be plagued by nightmares, or be filled with a general sense of unease. This constant feeling of being haunted drives you to try to make things feel safer for yourself and those around you.
 
 You gain the following characteristics:
@@ -35933,6 +36030,7 @@ From the following list of options, choose how you became involved in the first 
 4. You are trying to learn more about your thoughts and emotions, and you think that trying out your skills on an adventure is a great way to do so.
 
 ##### Lost
+
 You can’t remember exactly when it happened or why, but you have lost your way. The path through life, or even through your own mind, no longer seems to exist. Once you had a reason and a goal, but now you find yourself wandering aimlessly, without clear purpose or drive.
 
 You gain the following characteristics:
@@ -35952,6 +36050,7 @@ From the following list of options, choose how you became involved in the first 
 4. The PCs are heading somewhere specific, and it feels good to be surrounded by people who know where they’re going.
 
 ### FOCUS
+
 Your focus makes your character unique.
 
 It gives you benefits when you create your character and each time you ascend to the next tier. When you choose a focus, it gives you a first-tier ability, a special connection to one or more of your fellow PCs, and possibly some starting equipment.
@@ -36035,9 +36134,11 @@ Heartwood Foci
 - Lived Among the Fey
 
 #### FAIRYTALE FOCI
+
 Below the description of each focus, you’ll find its abilities. The details of these abilities can be found in the Cypher System Rulebook.
 
 ##### Befriends the Black Dog
+
 Everywhere you go, your black dog goes too. They are your best friend and your greatest weakness. Their shadowed presence fills you with a darkness, but it is inside that darkness that you find the strength to shine.
 
 Focus Note: Your companion is a black dog of any size or shape. It can be any form— living, dead, crafted (such as a puppet), pure shadow, and so on. Your black dog is a physical manifestation of depression, grief, sadness, or other heavy and dark emotions. But it is also a dog, and thus brings with it the unique companionship, comfort, and bond that only dogs can offer.
@@ -36050,6 +36151,7 @@ Tier 5: Dark Matter Structure
 Tier 6: As If One Creature or Embraced by Darkness
 
 ##### Curses the World
+
 Fuck the world and its horrors. You have a mean streak living inside you that you can’t control—and honestly have no desire to. You’d never hurt your friends and family, of course. But everyone and everything else? Curse them.
 
 Focus Note: Characters who Curse the World aren’t necessarily evil or wicked; they are angry, hurt, and possibly seeking to get even with those who have wronged them or the ones they love (or at least keep themselves and their loved ones from being hurt again).
@@ -36062,6 +36164,7 @@ Tier 5: Foul Aura
 Tier 6: Word of Command or Break Their Mind
 
 ##### Feigns No Fear
+
 Everyone thinks you’re brave, intrepid— fearless, even. They tell stories about you, the person who’s never felt fear, how you went out to seek what you see as an elusive emotion and never found it. But you know the truth. You may present yourself as someone who is fearless and courageous, but deep down, you are terrified of everything. Fear drives you, and in its face, you stand tall and shout the loudest. Because you are also afraid of being seen for who you truly are.
 
 Focus Note: A character who Feigns No Fear can be played in a number of ways, from someone who boasts constantly in their attempts to bolster themselves in front of others to someone who faces their fears through action, showing up first on the battle line to holler “Seven in one blow!”
@@ -36086,6 +36189,7 @@ Tier 5: Nightmare
 Tier 6: Explains the Ineffable or Drawing on Life’s Experiences
 
 ##### Made a Deal With Death
+
 Death eternally walks the labyrinth of the Heartwood, touching those who pass by, but few notice this ever-changing figure. You, however, are intimate with Death in all their many forms. Perhaps you are both drawn to and frightened of them. Perhaps you’ve spent too much time in their company, and have become infatuated with them. Perhaps you’ve lost friends and loved ones to their dark embrace. Whatever yourfeelings about Death, you’ve made a deal with them, one you hope will bring you the closure that you seek.
 
 Focus Note: Characters who Made a Deal With Death may have done so in order to stave off death eternally, gaining healing abilities for themselves or others. Alternatively, they may be obsessed with the idea of death, and wish to learn how to wield it with precision and focus.
@@ -36098,6 +36202,7 @@ Tier 5: Hard to Kill
 Tier 6: Duel to the Death or Final Defiance
 
 ##### Sheds Their Skin
+
 You have a secret self. In the quiet andstillness, you become not someone else, but something else. A being of tooth and nail, of flipper and fin, of mane and moon. But you believe that in order to survive and thrive, you must keep your other form secret, safe from prying eyes and listening ears.
 
 Focus Note: Your beast form can be anything you choose, such as a selkie, wolf, horse, swan, and so on. Work with your GM to determine the details of your form. A character who Sheds Their Skin may also want to work with the GM to come up with even more suitable abilities for their particular form. For example, a selkie character might choose Aquatic Combatant as their tier 3 ability instead of one of the abilities listed here, particularly if the GM expects the character to be moving through water regularly.
@@ -36110,31 +36215,40 @@ Tier 5: Total Awareness
 Tier 6: Escape Plan or Perfect Control
 
 #### Adjusted Foci
+
 ##### Battles Robots, Builds Robots, Talks to Machines
+
 Best for settings that include elements of science fiction. Alternatively, “robots” can be a stand-in for puppets, steampunk entities, golems, or other creations such as Pinocchio, Edward Scissorhands, the Gingerbread Man, and the Tin Man. Mister Geppetto would likely be someone who Builds Robots, while Muska (from Miyazaki’s film Laputa: Castle in the Sky) might be someone who Battles Robots.
 ##### Drives Like a Maniac
+
 Best for modern settings or those where traditional fairy tale vehicles such as horse-drawn carriages, magic carpets, witch’s brooms, and chicken-legged huts are common.
 
 ##### Fuses Flesh and Steel, Fuses Mind and Machine
+
 Best for steampunk or weird science mashups. Edward Scissorhands and the Tin Man are probably characters who Fuse Flesh and Steel. Alternatively, renaming the foci to Fuses Flesh and Magic or Wants to Become a Real Boy can provide characters with the same benefits from a more magical-sounding source.
 
 ##### Is Licensed to Carry
+
 With small tweaks to the language and abilities, this could work for someone who wants to wield a wand, bow, or other ranged weapon. 
 
 ##### Sailed Beneath the Jolly Roger
+
 With small tweaks to the language and abilities, this could work for someone who used to be a sailor or pirate.
 
 ### FAIRY TALE CHARACTER ARCS
+
 Character arcs are fantastic opportunities for players to deepen their roleplaying options, add to the narrative, and set goals that can intertwine with and strengthen a campaign or adventure. While character arcs aren’t a requirement, they work particularly well in fairy tale games, where individual goals and tasks are often at the forefront of what drives adventures.
 
 Players can pick from any of the sample character arcs in the Cypher System Rulebook, make up their own (with the assistance and approval of the GM), or choose one of the new character arcs created specifically for the Heartwood setting.
 
 #### Heartwood Character Arcs
+
 Characters in the Heartwood should choose a starting character arc, something that they hope to accomplish for their character through time and experience. This can be a Heartwood-specific arc or one from the list of character arcs in the Cypher System Rulebook.
 
 Suggested Heartwood Arcs
 
 ##### Become an Advocate
+
 You desire to help and support others, especially those who are dealing with difficult situations. This might be related to something you’ve personally experienced, something you’re knowledgeable about, or both. You can advocate in any number of ways, including being an emotional support system, helping other voices be heard, defending and safeguarding others’ rights, and generally being an ally.
 - Opening: Sizing up Your Skills. You decide what best enables you to be a good advocate, and create a plan.
 - Step(s): Training and Research. You learn about being a good advocate, possibly by finding a mentor or organization that can help you.
@@ -36143,6 +36257,7 @@ You desire to help and support others, especially those who are dealing with dif
 - Resolution: You reflect on everything you’ve learned and decide what to do next.
 
 ##### Put Down Roots
+
 If you choose this arc, you are hoping to create a strong support system among your friends and fellow travelers. You seek the assistance of those around you to help you through difficult times and you wish to offer assistance back. This connection might be to your fellow PCs, to a group of NPCs that you meet along the way, or as part of an already-established group or organization.
 - Opening: Let’s Be Friends. You propose the idea of a support system to those you’d like to include.
 - Step: Reach Out. You do the hard work of making yourself vulnerable to others by being honest and open about who you are. You create a safe space for others to do the same.
@@ -36151,6 +36266,7 @@ If you choose this arc, you are hoping to create a strong support system among y
 - Resolution: You enjoy the benefits of having a supportive group of people in your life.
 
 ##### Develop Coping Strategies
+
 You want to develop better ways of moving through the world while living with a mental illness. This isn’t a “cure” or a “fix.” It isa step toward mitigating symptoms or struggles by developing healthy emotional coping strategies.
 - Opening: Explore Your Inner Self. You spend time with your emotions and thoughts in order to pinpoint which struggle or symptom you’d like to develop a coping strategy for.
 - Step: Make a Plan. Almost every struggle or symptom has a particular set of steps that you can go through to better cope with it. This will likely involve research and consultation.
@@ -36159,6 +36275,7 @@ You want to develop better ways of moving through the world while living with a 
 - Resolution: You reflect on what you’ve learned and decide where you want to go from here.
 
 ##### Take the Wrong Path
+
 Much like Fall From Grace, Take the Wrong Path isn’t typically an arc that a character intentionally desires. It’s something the player chooses on a meta level for the character because it makes for an interesting story and sets up possible future arcs, such as Put Down Roots. In this case, perhaps the character manages their anxiety by drinking too much, becoming isolated, or starting too many fights. Perhaps they attempt to deal with grief by overeating (or undereating), by pushing away loved ones, or by becoming intimate with others without regard for their safety.
 - Opening: The Fork. You take the first steps down the wrong path, even if you don’t know it yet.
 - Step(s): Farther Down the Path. Things continue to get worse because of your actions. This may play out over any number of steps.
@@ -36167,9 +36284,11 @@ Much like Fall From Grace, Take the Wrong Path isn’t typically an arc that a c
 - Resolution: You wallow in your own misery.
 
 ## Extra Rules
+
 Fairy tale games have unique opportunities for magic that aren’t found elsewhere— death, curses, blessings, and wishes are all prevalent in fairy tales and make interesting elements in games. Here are some suggested ways to handle them.
 
 ### Death
+
 You’ve probably noticed that in fairy tales, characters die all the time. Or almost die. Or sleep forever instead of die. Or die and come back to life. You get the idea.
 
 Potentially, this will also be true in a fairy tale game. Thankfully, death doesn’t have to be the end of a character’s life. There are any number of ways to stop or reverse death, including artifacts, cyphers, and abilities. Additionally, a few NPCs, such as witches or Death themself, may have the power to bring someone back from the dead.
@@ -36179,6 +36298,7 @@ Typically, though, if a character dies and chooses to stay dead (or is unable to
 and so on. They can communicate to the living only through magic. Someone may stay dead for up to about a year (in game time) and still return to life. After that time elapses, death is permanent.
 
 ### Curses
+
 In fairy tale games, curses are likely to be common. Most witches can cast curses
 
 of one form or another, as can many fey beings, queens, and sea creatures. Even objects and places can cause a character to become cursed. Characters might have multiple curses on them at the same time.
@@ -36188,6 +36308,7 @@ All curses have a level, from 1 to 10. The level affects how hard it is to resis
 Curses work slightly differently than regular damage. Curses can have an impact on the game and the game mechanics (a character is turned into a fish or becomes invisible, all of their interactions are hindered, they take ongoing damage, and so on), or they can have more of a roleplaying impact (a character looks much older, they forget the word “apple,” their skin turns golden). See the Curse table for a list of example curses.
 
 #### Preventing Curses 
+
 When a character attempts to resist being cursed, they must make an Intellect defense roll against the level of the curse being cast. Being trained in Intellect defense eases
 
 this task, as does having a skill in curses or resisting curses.
@@ -36195,11 +36316,13 @@ this task, as does having a skill in curses or resisting curses.
 Often, part of a curse’s effects is hindering curse resistance; thus, a character who already has one curse on them will find defending against a second curse is more difficult (their task is hindered).
 
 #### Removing Curses 
+
 Similar to poison and disease, curses aren’t automatically removed when a character makes a regular recovery roll. Instead, they stick around, continuing to affect the PC long after the curse is cast. In order to rid themselves of a curse, the character must take actions to remove it. The actions required depend on the nature and level of the curse.
 
 The easiest way to remove a curse is to find, buy, steal, borrow, or otherwise acquire an object that removes curses (such as the blood pearl blossom cypher). Alternatively, the character might be able to pay someone who is skilled in curse removal to do the deed.
 
 #### Curse Intrusions and Curse Mode 
+
 In addition to dealing with the original effect of the curse, a cursed character is more likely to have bad things happen to them. There are two ways for the GM to work this into the game: curse intrusions and Curse Mode. Ideally, you’ll want to use both of these, as they each add something unique to the experience of being cursed.
 
 Curse intrusions work like regular GM intrusions, and the cursed character gets XP. However, they only get 1 XP instead of the usual 2, and they must decide whether to keep it or give it to another player. Introduce additional curse intrusions from the Curse Intrusions table when it feels appropriate. This might be anytime the character has a big success, when they’re in a particularly risky position, or when they start to feel like they’ve forgotten about the curse.
@@ -36228,6 +36351,7 @@ While not all regular GM intrusions are necessarily bad for the character, curse
 |6|The character’s clothes are suddenly much too large.|
 
 #### Curse Table 
+
 Roll 1d20 on the Curse table to determine the effect of the curse, or choose one that feels appropriate to the situation and the characters.
 
 Typically, curses that have simple roleplaying effects (such as the character’s inability to speak their own name) are lower-level curses, while those that affect gameplay (such as decreasing recovery roll points) are higher level. Curses that have multiple effects are likely the highest level of all. However, sometimes an incredibly simple curse is still very high level because the caster wants to make it very hard to get rid of.
@@ -36256,6 +36380,7 @@ Typically, curses that have simple roleplaying effects (such as the character’
 |20|No one else remembers or recognizes the character|
 
 #### Curse Removal Table 
+
 Some curses have a specific way that they must be removed. Others can be removed in a variety of ways. You can use the table as a reference for ways to remove or undo a curse, or you can roll 1d10 to give a curse a specific method of removal.
 
 There are also many artifacts, cyphers, and other objects in the world that will remove (or prevent) curses.
@@ -36274,6 +36399,7 @@ There are also many artifacts, cyphers, and other objects in the world that will
 |10|Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written.|
 
 ### Blessings 
+
 When someone is blessed, it typically means that they are more likely to receive a beneficial GM intrusion when they roll a 1 (or when the GM deems it appropriate to give them an intrusion). The Blessing Intrusions table provides examples of positive GM intrusions that a blessed character might receive.
 
 #### Blessing Intrusions 
@@ -36352,6 +36478,7 @@ The Fairy Tale Intrusions tables are ways to quickly generate intrusions appropr
 
 
 ### PLAYER INTRUSIONS
+
 A player intrusion occurs when a player chooses to alter something in the story, making things easier for a player character. It’s kind of a reverse GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication.
 
 Once Upon a Time: Someone you played with as a child reappears and helps you in whatever you are doing. They may be alive or dead, but your heart is warmed upon seeing them, for it’s been a long time.
@@ -36381,6 +36508,7 @@ If a player has no XP to spend, they can’t use a player intrusion.
 Any time a PC attempts an action and rolls a natural 19 or 20, they have the option of triggering a minor special effect or major special effect, respectively. In fairy tales, almost anything goes, which can be overwhelming to a player trying to decide what their character’s special effect might be. Here are a few special effect options for players to use or be inspired by.
 
 ### Minor Effect Suggestions 
+
 - A weapon comes alive at the perfect moment and does a bit more damage to a foe.
 - A fluctuation in magic hinders all of the foe’s tasks for one minute.
 - A curse, spell, or ability has additional force behind it, and lasts a round longer than expected.
@@ -36389,6 +36517,7 @@ Any time a PC attempts an action and rolls a natural 19 or 20, they have the opt
 - A magical attack hits the target and something they were holding, causing damage to both.
 
 ### Major Effect Suggestions 
+
 - A weapon comes alive at the perfect moment and does a lot more damage to a foe.
 - A fluctuation in magic prevents a foe from taking their next action.
 - A curse that was cast upon you by the foe you’re attacking is removed.
@@ -36397,6 +36526,7 @@ Any time a PC attempts an action and rolls a natural 19 or 20, they have the opt
 - A shapeshifting or disguise spell or ability works so well that the foe’s familiar or companion runs off, afraid to continue the fight.
 
 ## Equipment
+
 Most weapons that are powered by magic, such as wands, operate exactly like a regular weapon; they just do their damage using magic.
 
 Equipment and weapons with unique magic abilities are typically considered to be cyphers or artifacts.
@@ -36494,6 +36624,7 @@ Exorbitant
 - Elegant, bespoke clothing suitable for moving in elite circles (provides an asset in interaction tasks)
 
 ### WEAPONS AND PROTECTIVE GEAR 
+
 Inexpensive 
 - Ammunition (12 arrows, 12 crossbow bolts, and so on)
 - Moderately Priced 
@@ -36514,6 +36645,7 @@ Exorbitant
 - Remember, armor (with a lowercase a) is something that the character wears, while Armor (with a capital A) is the total amount of Armor that you have, including any magical effects. You can wear only one type of armor at any given time, but you could have many things that give you Armor.
 
 ### BASIC EQUIPMENT
+
 Inexpensive 
 - Candle
 - Chalk (3)
@@ -36558,6 +36690,7 @@ Very Expensive 
 - Handheld scrying mirror. Asset for initiative tasks when held in hand or worn.
 
 ### TRAVEL
+
 Moderately Priced 
 - Common transportation, rental (horse-drawn carriage, boat, mount, and so on)
 - Lodging, shared room or shed, meager
@@ -36610,6 +36743,7 @@ Fey Cypher Attraction
 |6|Steals the character away to their fey realm|
 
 ### CYPHERS  
+
 Cyphers are one-use abilities that characters gain over the course of play. They have powers that can heal, do damage, ease or hinder tasks, or produce interesting and unusual effects. In a fairy tale setting, they often appear as a simple object, such as a poisoned apple or a matchbook. They can also be something intangible, such as three wishes or a magic word. The shifting state of magic in fairy tales makes it easy to use both manifest and subtle cyphers in the same setting and campaign if you desire.
 
 In settings full of magic, cyphers should be both readily available and regularly used. If the PCs are hoarding or saving their cyphers, feel free to give them a reason to use them. And have a list of replacement cyphers ready so the players never have to go without.
@@ -36617,6 +36751,7 @@ In settings full of magic, cyphers should be both readily available and regularl
 Typically, something like a handful of magic beans or apple seeds is considered a single cypher even though there are multiple items.
 
 #### Cypher Forms
+
 While characters can find or purchase many of these items in the world, only magic versions of the items are cyphers. Characters should easily be able to tell when an item is magic (and thus a cypher) and when it’s an ordinary item.
 
 |d20|Form|
@@ -37704,6 +37839,7 @@ Quirks Table
 |20|Occasionally changes into a completely different artifact overnight (including form and function); this effect lasts until the artifact is used in its new form, after which point it reverts back (or depletes).|
 
 #### Artifact Table
+
 When giving artifacts to characters, either choose from this table or roll d100 for random results.
 
 |d100|Artifact|
@@ -38168,6 +38304,7 @@ in using it in this fashion. Surprisingly, using the tankard as a melee weapon d
 Depletion: 1 in 1d20 (check each fight)
 
 ### FAIRY TALE ARTIFACTS
+
 Artifacts in a fantasy setting and magic items in other games focused on fantasy would also be suitable for a fairy tale setting. However, every fairy tale artifact should come with a quirk that sets it apart from a simple “wand of fire” or similar item. Come up with your own or roll a quirk on the table below.
  
 |d10|Quirk|
@@ -38185,7 +38322,9 @@ Artifacts in a fantasy setting and magic items in other games focused on fantasy
 
 
 ## Creatures
+
 ### Basic CREATURES AND NPCs FOR A FAIRY TALE GAME
+
 Most fey creatures of level 2 or higher regain 1 point of health per round, unless wounded by silvered or cold iron weapons.
 
 Angry ants: swarm as a level 1 creature; constantly whisper insults, slurs, and obscenities; those physically attacked must also succeed on a difficulty 3 Might defense task or be stunned and lose their next turn
@@ -38445,6 +38584,7 @@ The Cypher System Rulebook provides a short list of creatures and NPCs that work
 |Wind children, the|
 
 ### MAGICAL ANIMALS
+
 - Bear: level 5; health 20; Armor 1; two magical abilities
 - Cat: level 2; two magical abilities
 - Fish: level 2; one magical ability
@@ -39743,10 +39883,13 @@ Loot: Most scholars have currency equivalent to a very expensive item and one or
 GM Intrusion: Something the scholar is studying comes alive, creating havoc and disarray throughout the area.
 
 # Historical
+
 Setting your campaign in World War 2, the Renaissance, or the 1930s can be fun and interesting. However, setting it in ancient Greece or feudal Japan, for example, probably makes it more like fantasy without all the orcs and magic (although a game set in feudal Japan with orcs and magic could be fascinating).
 
 ## Setting
+
 ### Creating a historical adventure
+
 One of the draws of playing in a historical adventure is the thrill of “being there” when something important happens. Thus, in many cases, historical adventures in RPGs shouldn’t be designed as campaigns, but instead serve as short-term experiences where players try something new, or at least something they don’t normally do: play as figures involved in a momentous historical event.
 
 Historical games should take cues from the closely related areas of historical fiction and historical re-enactment. The lessons of great historical fiction include the following.
@@ -39764,6 +39907,7 @@ Don’t create more than you need to. Be ready to tell the PCs what they see and
 Be wary about stereotypes and cultural misappropriation. History, as they say, is written by the victors. The ancient Greeks wrote that other cultures were all barbaric, and the European settlers called the natives in North America savages, but that doesn’t mean it’s true. If all you know about a time period is a movie set in that period, you’ll have a skewed version of events and culture. Be willing to go deeper than _Braveheart_ or _The Last Samurai_, or maybe choose a different genre.
 
 ### RUNNING A HISTORICAL GAME
+
 Preparation is important in a historical game, and most of that entails choosing a historical period—or a specific historical event—as the setting. Given that all of history can serve, you won’t lack for resources. Below are a few possibilities. Of course, the farther back you set your game, the less information on specific events is available. On the other hand, that frees you up to get creative.
 
 Once you choose the historical period and any special events you want to include in your adventure or campaign, direct your players to an appropriate set of foci. Alternately, you can have your players play as historically significant figures, but if you do this, you may want to create their characters ahead of time. Most GMs will probably want to save historically significant individuals for use as NPCs.
@@ -39773,6 +39917,7 @@ The players will need some kind of grounding in what to expect in the time perio
 If you’re looking for inspiration for time periods in which to set your historical game, here are some possible ideas: prehistory, classical antiquity, ancient Egypt, the American revolution, ancient China, World War II, Edo Period Japan, Medieval Europe, and the American Old West.
 
 ## Characters
+
 SUGGESTED TYPES FOR A HISTORICAL GAME
  
 |Role|Type|
@@ -39790,10 +39935,13 @@ SUGGESTED TYPES FOR A HISTORICAL GAME
 |Priest|Speaker|
 
 ## Equipment
+
 ### HISTORICAL ARTIFACTS
+
 The concept of artifacts is probably inappropriate for a historical setting without some kind of supernatural, fantastical, or science fiction element. That said, objects of mystery such as the Antikythera mechanism (an ancient analog computer and orrery used to predict eclipses and other astronomical positions) reveal that the ancient world—and by extension more recent historical periods—contained fascinating and useful objects that were anachronistic for their period. Most such artifacts were likely the creations of philosophers, lone geniuses, and similar figures.
 
 ## Creatures
+
 Basic CREATURES AND NPCs FOR A HISTORICAL GAME
 - Cat: level 1, Speed defense as level 3
 - Dodo: level 1
@@ -39808,8 +39956,11 @@ Basic CREATURES AND NPCs FOR A HISTORICAL GAME
 - Warhorse: level 4; moves a long distance each round
 
 # Cyberpunk
+
 ## Extra Rules
+
 ### Artificial Intelligence
+
 Artificial intelligence (AI) generally means machine intelligence or computer intelligence—the ability of a nonhuman system to think and reason. In cyberpunk, AIs range from helper apps on devices (including smart weapons that help the user target foes) to self‑acting machines (such as military or police robots) to powerful programs running on supercomputers or distributed across a computer network. AI can be broken into four general categories: weak, sim, strong, and post‑singularity.  
 Weak AI: An algorithmic‑based code with specific tasks, such as a chess bot, smart pistol, or voice‑activated helper app on a smartphone. It can’t do anything except what it was programmed to do.
 
@@ -39822,6 +39973,7 @@ Post‑singularity AI: An AI created by a strong AI, designed to be better than 
   
 
 ### Brainslides
+
 A brainslide is a digital recording of the subject’s experience that plays directly into the viewer’s senses. When a character plays a brainslide, they experience the recorded events from the perspective of the subject who recorded them. This is an immersive experience that includes all major senses—the character playing a brainslide truly feels as though they are in the position of the individual who recorded it. This means that the spectator is also bound by the 
 recorder’s choices: if a character has a brainslide of a murder they are trying to solve, but the person who recorded the brainslide was facing away from the action, then the character will not be able to see who the killer was. They will see, hear, smell, taste and feel precisely what the recorder experienced in the moment.
 
@@ -39880,11 +40032,13 @@ Typically, an engram is programmed so it doesn’t know that it isn’t the actu
 Since most engrams are merely programs on a screen rather than embodied in a humanlike form, tricking someone into believing an engram is actually the person it emulates requires subterfuge, such as communicating with the engram through a voicemail or holophone call.
 
 ### Netrunning
+
 The matrix is a three-dimensional hallucination: the net translated into a navigable space. This virtualized realm serves as playground and battleground alike, where information may be freely given or hard won.
 
 While netrunning, a character’s mind enters cyberspace (or the matrix), while their physical body is left behind in meatspace. Characters, represented by avatars, interact with dataforms—physical representations of NPCs, programs, viruses, AI, and the like—in pseudo-geographical locations called nodes and frames, each of which might have different environments and qualities. When characters log off from cyberspace, they may emerge with boons or damage that translate to the real world.
 
 #### Jacking In: Entering Cyberspace
+
 To enter cyberspace, characters must jack in: as an action, plug an electrode from a computer terminal into their datajack and make a difficulty 4 Intellect roll. On failure, the character still enters cyberspace, but they experience an avatar glitch.
 
 Some computer terminals lead to specific I/O points—a terminal in a Kaisha employee’s office will lead to the company intranet, for example. If characters jack in from a personal terminal, they either arrive in a random frame or at a frame of their choosing, if they have been to that frame before and succeed on a cyberspace navigation roll against the level of their intended destination. This roll is eased by one step due to their familiarity with the location.
@@ -39896,6 +40050,7 @@ The datajack ability is required for netrunning.
 If the computer terminal characters are using must be hacked, that is a separate action that must be completed before jacking in.
 
 #### PC Avatars
+
 While in cyberspace, characters are represented by avatars. Because the matrix is a realm of information, something physical does not have to look like its meatspace counterpart; however, things in cyberspace tend to take recognizable forms, for ease of comprehension. Humans look mostly like humans. Any changes are purely cosmetic.
 
 Characters enter cyberspace with virtual representations of anything they were wearing or carrying when they jacked in, except for manifest cyphers. Their attire and equipment may change in appearance to match the aesthetic sensibilities of their location, such as a gun turning to a crossbow in a medieval-inspired frame, but the items’ function remains the same. A character in cyberspace makes melee and ranged attacks as normal, inflicting damage according to the type of weapon they typically use in meatspace.
@@ -39905,6 +40060,7 @@ A character who dies in cyberspace is forcibly logged off with an ejection glitc
 Alternately, a character can be forcibly logged off with an ejection glitch upon becoming debilitated.
 
 #### Cyphers in Cyberspace
+
 When a character jacks into the matrix, they bring any subtle cyphers with them, but their manifest cyphers remain in meatspace. Characters may pick up new cyphers in cyberspace; these cyphers are experienced as having physical form but, like all things in the matrix, they are really hallucinatory. When characters log off from cyberspace, they retain any new cyphers as subtle cyphers.
 
 If a character dies in cyberspace, or unplugs without using an I/O point, they do not retain the subtle cyphers they gained while in the matrix. 
@@ -39922,6 +40078,7 @@ Subjective time may give a character a chance to safely log off before foes in m
 Sometimes, time passes differently in the matrix than it does in meatspace. To increase (or decrease) stakes when some characters are in cyberspace and others aren’t, adjust the ratio of combat rounds in the matrix to meatspace. For example, two rounds may pass in meatspace for each round in cyberspace, or vice versa.
 
 #### Experiencing Cyberspace
+
 It is impossible for the human mind to interpret and understand the pure wealth of data that you must wade through in cyberspace. To make sense of it, the brain conceives of the matrix as three-dimensional spaces: frames, nodes, and conduits.
 
 Use the Cyberspace Directory to generate countless potential paths through the matrix and find inspiration for designing your own locations.
@@ -39957,6 +40114,7 @@ Characters can travel a conduit as an action.
 Some conduits are one-way. This means that someone could become stranded in a node until they locate another conduit or I/O point.
 
 ##### Intrusion Countermeasures Electronics (ICE)
+
 Of course, characters’ travel through frames, nodes, and conduits is not always easy. Characters will encounter obstacles between data structures that must be circumvented or overcome.
 
 ICE stands between secure data and miscreants who shouldn’t access it; because the matrix is a conceptual space, ICE can appear as any object or creature. ICE may serve as a passive obstruction, like a locked door separating two adjacent frames or a stone wall blocking a conduit. Alternately, ICE can take a more active form, such that characters must battle a kaiju, outsmart a fey prince, or defuse a timebomb.
@@ -39964,9 +40122,11 @@ ICE stands between secure data and miscreants who shouldn’t access it; because
 ICE always has a level, which is usually the same as the space it’s protecting. These creatures and constructs remain in the location they’re guarding, and will not pursue characters through cyberspace.
 
 ##### Black ICE.
+
 On the surface, black ICE doesn’t seem any different from regular ICE. The key distinction is that if black ICE kills a character in the matrix, they die in meatspace. Black ICE can also track avatars through cyberspace: if characters draw its attention, they may find themselves being hunted across various nodes.
 
 ##### Creatures & NPCs in Cyberspace
+
 ICE aren’t the only creatures characters can interact with in cyberspace. Other computer programs, such as viruses and AI, have physical forms in the matrix. So do netrunner NPCs, whose virtual avatars may encounter those of player characters.
 
 Like PC avatars, which change in appearance depending on the theme of the present node, creatures and NPCs may look different according to their environment. In all cases, a creature or NPCs stats and abilities retain the same functions as in meatspace—it’s just the description that may vary.
@@ -39974,6 +40134,7 @@ Like PC avatars, which change in appearance depending on the theme of the presen
 When creatures and NPCs die in cyberspace, their bodies disappear leaving behind any virtual equipment they were wearing or carrying. PCs can claim these items for use in the matrix, and can even stash them for future access, but do not retain them in meatspace when logging off.
 
 ##### Asking for Help
+
 PCs can attempt to tap directly into the matrix with a cyberspace navigation roll of equal difficulty to the frame in which the attempt is made. If they are successful, a simple AI helper whose level is equal to the frame’s materializes, taking the form of a drone, computer, hologram, or small robot. The PC can ask this non-sapient AI questions about their surroundings, and receive a few facts about the current frame, one adjacent frame, and the end of a connected conduit. They can also use the AI helper to carry messages to other frames within the current node.
 
 If the PC attacks or harms the AI helper, they cannot summon another one until they log off and jack in again.
@@ -39981,6 +40142,7 @@ If the PC attacks or harms the AI helper, they cannot summon another one until t
 Navigating cyberspace is an Intellect skill.
 
 #### Glitches
+
 Glitches are places where the digital environment functions strangely due to errors, damage, or degradation. Glitches might be stealthy, with no obvious sign to anyone else that there is something wrong, or they might be apparent, with some manifestation of the glitch’s presence, such as a constant or intermittent noise, light, image, or scent. The effect of the glitch might indicate how it manifests; for example, a glitch that causes blindness might manifest as a character’s avatar lacking eyes.
 
 Characters incur glitches from difficulty jacking in, from interacting with glitched areas, or from unusual attacks or effects. Some glitches are viral and can be passed from creature to creature by interacting with an infected target. Most circumstances of glitching allow a resist roll; the exception is a glitch caused by an error jacking in.
@@ -39988,6 +40150,7 @@ Characters incur glitches from difficulty jacking in, from interacting with glit
 Options from the location and avatar glitch tables can also be treated as GM Intrusions, meted out in exchange for XP.
 
 ##### Location Glitches
+
 These tables provides examples of odd effects that might occur in virtual locations. Frame and node glitches should repeat as long as characters are present in the relevant space, while conduit glitches have a single effect. The GM can change the specific effects for any of these results, tailoring them to your game.
 
 Conduit Glitch Table
@@ -40024,6 +40187,7 @@ Frame Glitch Table
 |6|Light trails. Characters’ movements leave trails of light behind, as in a long-exposure photograph. Attempts to sneak or hide are hindered.|
 
 ##### Avatar Glitches
+
 Avatar glitches, which effect the appearance or capabilities of a PC’s avatar in cyberspace, are most commonly incurred due to an error while jacking in. Glitches with ongoing effects persist until the character logs off. The GM can change the specific effects for any of these results, tailoring them to your game.
 
 Putting an obvious card or token representing the glitch in front of the player is a useful reminder about incorporating the glitch effects into the game.
@@ -40068,6 +40232,7 @@ Ejection Glitch Table
 |6|Weakness in Intellect. Until your next ten hour recovery roll, any time you spend points from your Intellect Pool, the cost is increased by 1 point.|
 
 #### Navigating Cyberspace
+
 Infinite paths lead through cyberspace to a particular node. Such paths are composed of an expanse of conduits, nodes, and frames. Sometimes netrunners know exactly which node they want to visit. If they’re lucky, they’re equipped with coordinates or directions to make their virtual journey more efficient. If they’re extremely fortunate, they have access to a computer terminal in meatspace that provides direct access.
 
 When characters wish to navigate to a specific node in the matrix, use the rules in this section.
@@ -40075,9 +40240,11 @@ When characters wish to navigate to a specific node in the matrix, use the rules
 Navigating cyberspace is an Intellect skill.
 
 ##### Finding a Location with Coordinates
+
 If PCs try to find a specific location in cyberspace but only have the coordinates of a node or frame (or some other directions or identifying information, possibly provided by an AI helper), allow them to attempt a cyberspace navigation task every time they enter a new node (or, if it’s a particularly large and complex node with hundreds of frames, each time they enter a new frame in that node). The PCs must succeed on three cyberspace navigation rolls, each of which must be made in a different node (or frame, if they’re trying to find a particular frame in a big node). The difficulty of each roll is set by the level of the frame or node they’re seeking. Each failure means the subsequent difficulty is hindered by one step. A success brings all remaining difficulties back to baseline. If the PCs succeed on three navigation tasks, they can be confident that one of the conduits in the node where they made the last success leads to the destination they’re seeking.
 
 ##### Finding a Location Without Guidance
+
 If PCs are searching for a specific node or frame but have not previously been there and do not know the coordinates, allow them to attempt a cyberspace navigation task each time they enter a new node (or, if it’s a particularly complex node, each time they enter a new frame in that node). The PCs must succeed on a number of cyberspace navigation tasks equal to their desired destination’s level. These tasks start at difficulty 1, and the task difficulty increases by 1 until the player makes the final roll at the highest difficulty.
 
 For example, locating a level 3 frame requires three cyberspace navigation rolls, the first at difficulty 1, the second at difficulty 2, and the third at difficulty 3. If multiple characters are working together to navigate, the GM can allow different characters to make each roll.
@@ -40085,12 +40252,15 @@ For example, locating a level 3 frame requires three cyberspace navigation rolls
 Each failure means the subsequent difficulty is hindered by one step. A success brings all remaining difficulties back to baseline. If the PCs succeed on the requisite navigation tasks, they can be confident that one of the conduits in the node where they made the last success leads to the destination they’re seeking.
 
 ##### Returning to a Location
+
 Returning to a location that a character has previously been to requires a single navigation task with difficulty equal to the location’s level, eased by one step due to their familiarity.
 
 #### Cyberspace Directory
+
 Whether netrunners are seeking a specific destination or simply enjoy wandering through the matrix, you can use the following system to generate infinite combinations of nodes, frames, and conduits.
 
 ##### Generating Nodes
+
 - When generating a new node, roll on the Node Themes Table to determine the node’s broad characteristics.  
 - Determine the node’s level by rolling a d10; the result is the level.
 - Determine how many frames are associated with the node by rolling a d6. The result is the number of frames in the node, unless the roll is 6, in which case the result is 4 plus one additional d6 roll; continue until no more d6s are rolled.
@@ -40098,6 +40268,7 @@ Whether netrunners are seeking a specific destination or simply enjoy wandering 
 - Roll a d10 to randomly determine whether the node has a location glitch. On a 10, roll on the Node Glitch Table.
 
 ##### Generating Frames
+
 - If the frame is not already part of a node that has a level, roll a d10; the result is the frame’s level. Otherwise, the frame is the same level as the node containing it.    
 - Roll on the Frame Features Table one or more times to generate features of this particular frame within the node. If you’ve generated a theme for the node that the frame is part of, interpret the frame features results through the lens of that theme.
 - Any frame might contain something valuable to the PCs, whether that’s information, an important discovery, or a relevant cypher. To determine this randomly, roll a d20 for each new frame generated. On a roll of 17-20, the frame contains 1d6 cyphers.
@@ -40109,6 +40280,7 @@ Whether netrunners are seeking a specific destination or simply enjoy wandering 
 The I/O point’s level is the same as the frame’s level.
 
 ##### Generating Conduits
+
 - A conduit is usually connected to at least two different frames, one on either end. At its endpoints, the conduit has the same level as the frame. Roll a d10 to determine the level of the conduit itself, which is also the level of any glitches encountered in the conduit.
 - To randomly determine whether the conduit has a location glitch, roll a d10. On a 10, roll on the Conduit Glitch Table.
 
@@ -40273,6 +40445,7 @@ The I/O point’s level is the same as the frame’s level.
 |00|The distant sound of hysterical weeping and wailing|
 
 ##### Frame Creatures Table
+
 Nearly any creature could be present as an avatar in a frame. This table provides random inspiration taken from creatures in The Cypher System Rulebook.
  
 |d20|Creature|
@@ -40299,7 +40472,9 @@ Nearly any creature could be present as an avatar in a frame. This table provide
 |20|ICE in the form of demons can possess netrunners and control their avatars|
 
 ### Cybernetics
+
 #### Armor From Cybernetics
+
 A typical experienced cyberpunk character has multiple cybernetic implants—devices of metal and plastic embedded in or even replacing their organic parts. A player might think this means their character should automatically get Armor from having these devices—after all, plastic and metal are tougher than skin, right?
 
 Yes and no.
@@ -40313,11 +40488,13 @@ It’s also fine if the GM decides a particular NPC’s cybernetics are enough t
 A typical person’s organic arm weighs 10 to 15 pounds (4 to 7 kg).
 
 #### SHITS: A Cyberpunk Pandemic
+
 SHITS (Spontaneous Hypersensitive Induced Trauma Syndrome) is a term for the tendency for some people with cybernetics to experience hallucinations, dissociative events, and fits of violence. The exact cause is unknown, and there is currently no funding available for researching it, so medical workers only have anecdotal evidence for its causes. The only common factor is that all people with these symptoms have one or more extreme cybernetic implants—something more unusual than a standard prosthetic limb, eye, or communicator. Planted news stories (propaganda) from the megacorporations suggest that the main factors are excessive cybernetics coupled with drug addiction (which, conveniently, absolves the megacorps of any responsibility). The truth is certainly much more complicated than that, with several of the following issues as contributing factors.
 
 Yes, it’s pronounced like "shits," as in, "Doug got a bad case of the SHITS last weekend, the doot shot up a strip mall before the cops managed to take him out."
 
 ##### Augmented body dysmorphia
+
 Cybernetic replacements for body parts are a wondrous marvel of modern (futuristic) technology. The standard units are functional replacements for missing limbs, eyes, and internal organs, and work as good as biological ones without any drawbacks or problems.
 
 Of course, those were just the beginning, and researchers (especially those with military funding) began to experiment with more radical cybernetics. Arms with built-in firearms, legs that can run as fast as a car, and wetware that accelerates reaction time or administers artificial combat hormones. Now these once-experimental devices are as common as a regular cybernetic eye or hand, but the technology and materials used to build them aren’t always safe, nor is the human brain always able to adapt to having a radically nonhuman body part. As far as users go, there will be people who handle it well, and people who don’t. Even a person who consciously accepts their radical cybernetic may experience phantom limb syndrome as a chronic medical condition. A person might successfully use their unusual cyberware all day, then have dreams or nightmares about how their body used to be. The more nonstandard cybernetics a person has, the more times their body and mind go through this process, and sometimes the mind doesn’t heal properly. For a physically fit and mentally healthy person, none of these things might be an issue. But if the patient has an existing inclination or medical issue—whether it’s childhood trauma, genetic vulnerability, subtle plastic allergy, or resentment about their injury (or their insurance company, or the quality of the cybernetic)—these factors can add up over time and push the patient toward a traumatic condition called SHITS.
@@ -40329,12 +40506,15 @@ Crime: Crime, particularly violent crime, is everywhere. Armed gangs stake out s
   
 
 ##### Environmental hazards
+
 In a cyberpunk world, the megacorporations have overturned or disbanded governmental agencies that protect the environment and people. There’s lead in the paint. Asbestos in the insulation. Microplastics and pesticides in the food. Toxic and carcinogenic materials at work and at home. The ozone layer is wrecked. Acid rain is common. Dirty nuclear bombs have made many regions uninhabitable, and dust storms from those areas bring fallout into the cities. There’s no such thing as clean air or water any more, unless you’re rich enough to live in a sealed environment and have it piped in to you (even the standard city water on tap is partially contaminated). Everyone is being slowly poisoned, every day, all the time, causing physical and mental harm.
 
 ##### Isolation
+
 Humans are social creatures (yes, even introverts) and need interaction with other people to remain mentally healthy. But crime, pollution, lack of public parks, and other factors in the cyberpunk setting discourage people from spending much time outside or socializing with anyone other than their immediate family and coworkers. The typical person is starved for human attention, conversation, and intimacy. Casual interactions—holophone calls, sports events, and going out to bars—aren’t enough. Watching immersive reality TV and soliciting sex workers scratch similar itches, but are only superficial connections. It’s no wonder that young people, especially those living in poverty, often turn to street gangs as a surrogate family. Others may use drugs to escape from reality, or at least stave off the symptoms of their loneliness. Isolation can lead to depression, which often makes someone isolate themself even further because they feel that nobody understands what they’re going through, which can lead to feelings of aimlessness and dissociation.
 
 ##### Nutrition
+
 Farm fresh produce is almost unheard of, a luxury for the rich. What’s available to regular people is grown in small rooftop gardens and planter boxes, sold in pop-up shops at a price that most struggle to afford.
 
 Grocery stores (not that they have actual “groceries”) sell prepackaged homogenized stuff that’s processed with fillers, added colors and textures, artificial flavors, stabilizers and preservatives—with a dash of multivitamins so it’s “healthy.” Salad in a tube. Pepperoni in a tube. Hamburger in a tube. Vegetable stew in a tube. Cheese in a tube. Ice cream in a tube. Anything in a tube. Some people do basic cooking with these “ingredients” at home, making sad replicas of actual dishes out of various pastes, slimes, and slurries. Many just slurp their meals from the tube, maybe after a quick blast in the microwave. On the upside, it’s easy to make noodle dough from tube ingredients, and fried or steamed noodle dishes (with salt, broth, and spice) are a common staple available at restaurants and street carts—the closest thing a typical person gets to a real meal.
@@ -40348,6 +40528,7 @@ Some megacorps market food brands catering to special diets, such as gluten-free
 None of these options are healthy for adults or children, they’re merely sufficient. Years of malnutrition, chemical additives, and artificial substances take a toll on the human body.
 
 ##### Planned obsolescence
+
 Rampant capitalism encourages manufacturers to create items that are meant to break and can’t be repaired, so consumers have to buy replacement items on a regular basis. Cars, televisions, refrigerators, and other big ticket items don’t last long. The constant cycle of buy-and-discard is expensive; many people eventually go without semi-luxuries because they can’t afford new ones—but on the bright side, most people don’t need a fridge because tube food has a shelf life of a couple of weeks.
 
 Even human body parts fall into this category. Kidneys shot from heavy metal poisoning? Replace them. Tendonitis from a lifetime of factory work? Replace the worker’s forearms and hands. With this mentality pressed into everyone’s minds by employers and advertisements, some people eventually realize that they themself are fully replaceable to their employer; it’s easy (and essentially free) to fire an injured worker and bring in someone new.
@@ -40355,17 +40536,21 @@ Even human body parts fall into this category. Kidneys shot from heavy metal poi
 Life is cheap. And that’s a brutal realization.
 
 ##### Poverty
+
 The rich get richer and the poor get scraps. Wealth inequality is at its highest level in history. The government doesn’t bother to track economic statistics any more (the megacorporations don’t care), but most people in a typical large city are poor or are in poverty. A typical person is just getting by, and it only takes one financial setback (such as a car collision or medical emergency) to send them tumbling into a lower socioeconomic status. Most of them spend their entire lives hoping for a “big break” that’ll lift them into a comfortable and sustainable income.
 
 Being poor makes all the other problems of living worse. Poor people can’t afford to go to a restaurant or buy healthy food, so they eat more processed crap. They can’t afford a babysitter, so they rely more on television and screens to keep kids occupied. They can’t afford private schools, so they rely on underfunded public education. They can’t spend money on social activities, so they spend more time isolated from other people. They can’t afford larger living spaces, so their apartments are over capacity and nobody gets any privacy. They can’t afford to fix or replace expensive items, so much of what they have is of inferior quality, secondhand, or barely working. They can’t afford to move out if their apartment is infested with vermin, or has flaking lead paint, or a superintendent who can’t be bothered to fix the locks, lights, or plumbing in a timely manner.
 
 ##### PTSD
+
 All of the other factors in this section assume a passive level of harm being done to people. But many people are dealing with active harm as well. Getting mugged on the way to work. Domestic violence. Child abuse. A friend’s murder. Food poisoning from unregulated additives. Drug addiction. Military combat. Losing an essential job. Traffic collision. These stresses add up, and people without an adequate support network (which is most people), therapy, or therapeutic drugs are at risk for developing severe symptoms.
 
 ##### Screen Time
+
 Electronic screens are everywhere: in the home, at work, even plugged directly into peoples’ heads. If a corp can put a digital ad somewhere, they will—whether that’s commercials in elevators or multistory holograms on the sides of buildings—all blasting people with jingles, jump scares, and flashing lights. The near-constant screen time delays sleep, reduces sleep duration, decreases the efficiency and rewards of sleep, and alters circadian rhythms and hormone production. Extensive use of screens instead of physical activities often leads to sedentary behavior, obesity, and an overall reduction in physical fitness—and relentless advertising means people are more likely to choose unhealthy foods, exacerbating this trend. Too much screen time increases the likelihood of depression, causes an addictive loop (due to stimulating brain chemicals), increases aggression, harms a person’s ability to read emotional cues, and (if exposed to violent media) desensitizes them toward violence. VR technology or neural stimulation media (such as brainslides) are even more intense and more harmful in the long run than screens, especially in children and young adults.
 
 ##### Virus
+
 One or more viruses—whether biological or software—may be contributing to incidents of SHITS. A nearly-harmless biological virus might undergo a mutation that gives it an adverse effect on a body interfacing with cybernetics, or causes it to jump from one symbiotic bacterial species to another which then alters its behavior in the human host. A bit of erratic code in cyberware or a malicious worm can cause biofeedback in the user or trigger unusual nervous system activity that affects the user's perception or emotions. Either or both of these causes can go undetected by medical professionals, creating an "invisible disease" with symptoms but no obvious cause. Even a minor viral contribution can have a negative interaction with the other potential causes of SHITS, pushing a person who is slightly unwell into a violent episode.
 
 
@@ -40374,6 +40559,7 @@ Growing up with these factors leave people sick, unfocused, and exhausted, depri
 Some cases of SHITS may be the result of a hostile AI attempting to overstress a human so it can hijack an organic body.
 
 #### SHITS Rules
+
 This section presents two ways for the GM to handle SHITS in PCs.
 
 ##### Simple SHITS
@@ -40389,6 +40575,7 @@ For example, the character might hallucinate additional foes (perhaps appearing 
 Some SHITS manifestations are more subtle—compulsive lying, kleptomania, severe mood swings, and personality changes are common, but may be harder for the GM to insert into an encounter. One way for the GM to address this is to secretly hinder the at-risk character’s social interaction tasks by one or more steps.
 
 ##### Incremental SHITS
+
 This version of SHITS works similarly to the madness optional rule, and represents the character’s slow mental degradation. When a character experiences a SHITS trigger (from any of the causes described in the Simple SHITS section), follow these steps:
 1. The GM decides how much Intellect damage is appropriate for the situation. Usually this is equal to the level of the stressful threat, foe, or task, or 5 points if there isn’t a comparable level for the situation. Optionally, the GM can increase this damage by 1 for every two installed cybernetics the character has. Reminder: Standard cybernetics, like a prosthetic limb, eye, or communicator implant, don’t cause SHITS.
 2. The character subtracts this damage from their Intellect Pool.
@@ -40397,9 +40584,11 @@ This version of SHITS works similarly to the madness optional rule, and represen
 5. If later stresses ever reduce the Mad character’s maximum Intellect Pool to 0 again, they fully succumb to SHITS, fall under the control of the GM, and are no longer a playable PC (and it’s likely that they immediately act out under the effect of murderous delusions).
 
 #### SHITS Treatment
+
 Treatments for SHITS are mostly experimental and tend to be expensive—but considering that the conventional “treatment” is hitting the character with volleys of bullets until they die, experimental treatments are better than nothing.
 
 ##### Drugs
+
 Megacorporations love the idea of selling drugs to sick people—it’s a more profitable strategy than actually trying to cure them. As a result, there are many expensive medicinal “cocktails” that have varying effectiveness against SHITS. Most are a mix of several medications with different purposes:
 - Antidepressant: Treats depression, anxiety, chronic pain, and addiction.
 - Antipsychotic: Reduces symptoms of psychosis, delusions, hallucinations, paranoia and disordered thoughts.
@@ -40415,9 +40604,11 @@ Various therapeutic drug cocktails are presented in the Equipment section. The c
 Therapeutic cocktail GM intrusion: The character has a bad reaction to their medication. The medication doesn’t work as well or stops working entirely. The character runs out of their pills and there’s a delay before they can get more.
 
 ##### De-cyberization
+
 Removing a character’s cyberware does help offset the risk of SHITS, even if the character is already having episodes. The removal can have any of the following effects: reducing the frequency of the episodes (either by reducing the GM intrusion range or having the GM “skip” having some triggers provoke a reaction), easing the character’s defense rolls against an episode, or reducing the Intellect damage from an episode. Of course, removing some assistive prosthetics has its own set of problems; for example, removing a person’s cybernetic arm means they have to get by without an arm, although they can still opt for a standard prosthetic instead of an extreme one. Fortunately, replacing oversized, weaponized, or inhuman-looking cybernetics with standard or realistic prostheses allows the character normal functioning and still seems to reduce the risk of SHITS.
 
 ##### Behavioral modification
+
 A person can be taught biofeedback methods to help minimize the effects of stressors and triggers, reducing the risk of SHITS episodes These techniques take time to learn and are usually part of a treatment plan involving therapy and drugs.
 
 Advances in cybernetics allow doctors to implant medical devices that connect to “problem areas” in the patient’s brain, monitoring hormone levels and electrical activity. Typically, passing a threshold value alerts the patient, an emergency contact, a medical professional, or some combination of the three. Some patients even have an inhibitor chip (usually called a “sleep switch” or “serenity switch” to avoid inflammatory terminology like “kill switch”) that allows a remote user (or even the patient themself) to pacify them in an emergency.
@@ -40429,6 +40620,7 @@ In extreme cases where an inhibitor chip isn’t sufficient, the character might
   
 
 ##### Therapy
+
 SHITS can be mitigated with conventional therapy; however, most people in a cyberpunk setting don't have access to therapy, only the rich and elite do. A person on the edge of developing SHITS needs weekly therapy sessions to keep themself stable; those recovering from it usually require two or three sessions per week to make incremental progress toward being healthy.
 
 A different way to model the helpful effects of therapy is to use character advancements to counteract the game mechanics of developing SHITS (see the next section for more information). Obviously these methods have a different “cost” than actual therapy (XP instead of money), which may make them too “pricey” for some characters.
@@ -40436,17 +40628,20 @@ A different way to model the helpful effects of therapy is to use character adva
   
 
 ##### Character Arcs and Treatment
+
 The player may want to make the character’s recovery part of a recover from a wound (or trauma) character arc. Each step in the arc must include one of the above treatment options. The climax step is probably some sort of breakthrough in understanding the primary cause of the character’s illness, allowing the character to heal and become stable. For the resolution step, if the character currently has the Mad descriptor, they lose it and regain their previous descriptor, cured of SHITS. However, like an addict, the character is always at risk of a relapse: another traumatic event might trigger another episode, leading down that dark pathway again.
 
 Note that because the character is earning XP for the recovery character arc, they can also spend some of that XP on advancement options that slow or temporarily reverse the effects of SHITS, especially if the GM is using the incremental SHITS option. For example, choosing the “increasing capabilities” option and adding more points to the character’s Intellect Pool helps stave off their mental decline. The GM can allow the character to choose the “skill” advancement and become trained or specialized in “resisting SHITS,” which helps reduce further mental damage. (Although the “skill” advancement option doesn’t allow a character to choose Intellect defense as a general skill, they can choose this specific skill that affects these kinds of Intellect defense tasks.) Finally, instead of choosing the “moving toward perfection” option, the GM can let the character reduce their Intellect Edge by 1 and permanently add 2 to their Intellect Pool, in effect partially reversing some of the harm from SHITS.
 
 ##### Choosing SHITS
+
 Some players might want their character to become afflicted with SHITS perhaps as part of the fall from grace character arc. Every triggering episode the character experiences counts as a step in the arc (earning the character XP). The player could voluntarily fail defense rolls against SHITS episodes—or even ask the GM for additional episodes—because they want the character to experience the arc. The climax of the arc is the character pushing themself too hard, losing control, and becoming a GM-controlled character.
 
 In this scenario, the character can become quite lucky or powerful (depending on how they use the arc XP) and gain a reputation in the community for doing so, but their story will end in their tragic downfall—and probably a lot of deaths, including their own.
 
 
 #### Damaging Cybernetics
+
 Combat in the Cypher System doesn’t normally include options for severing (or otherwise destroying) a creature’s organic limbs because the abstract combat system doesn’t address complications like bleeding to death or shock from severe injuries. However, in a cyberpunk setting, damage to artificial limbs can be more common and, because it’s not necessarily life-threatening, is more of an inconvenience on par with disarming a character or destroying their weapon.
 
 Normally, a PC attempting to damage an object held by a foe is a minor effect on an attack roll, followed by a Might roll against the object’s level, and the extent of the damage depends on how successful the attack was. Characters trained in breaking objects (such as those with the Strong descriptor) ease their Might roll. With this rule, the Might roll to damage cybernetics is eased by an additional step, making it more likely that the implant is damaged or destroyed.
@@ -40456,6 +40651,7 @@ If the GM is also using the optional rule for choosing a combat effect ahead of 
 Using this rule (and the targeting cybernetics advancement option) means it’s easier for PCs to damage NPC cybernetics and easier to intentionally aim to hit NPC cybernetics. The GM can also use an intrusion as part of an NPC’s attack, adding the possibility of damaging a PC’s implant if they fail a hindered Might defense roll.
 
 #### Salvaging Tech from the Dead
+
 If characters defeat adversaries with especially impressive cybernetics, they may want to take that chrome for themselves and either use or sell it.
 
 To remove surgically integrated chrome, characters must attempt two rolls against the deceased foe’s level. The first roll is based on knowledge, to see if the characters can figure out how to detach the cyberware without damaging any crucial components. This roll can be retried. The second roll, based on dexterity, determines how well they execute the removal. If this roll is failed, the cybernetics are damaged in the process of removal. Characters can bypass one or both of these rolls by taking the corpse to an especially unscrupulous chopper, though the chopper’s fee might exceed the resale value. If characters get a chopper to install the salvaged chrome, the fee will almost certainly exceed the piece’s value.
@@ -40465,6 +40661,7 @@ To remove surgically integrated chrome, characters must attempt two rolls agains
 Due to normal wear and tear, combat damage, and planned obsolescence rendering equipment out of date before the average person even gets their hands on it, salvaged cyberware isn’t all that lucrative. As a rule of thumb, characters can resell it for 50% of the market value, and a chopper’s installation fee will be between 50% and 75% of the market value.
 
 #### Stat Minimums for Cybernetics
+
 Some GMs may want to require characters to “bulk up” before their character can have certain cybernetic implants installed. For example, a scrawny character who wants gorilla arms might need to add to their Might Pool, or else the surgeon won’t be able to safely connect the device to the character’s organic muscles and bones. (Unsafely connecting them would mean a high risk of GM intrusions that tear the character’s muscles or break their bones from the implant’s excessive strength.)
 
 GMs who like this sort of setup should keep in mind that several aspects of the Cypher System make it difficult to have precise thresholds for these requirements. For one, the Might Pool represents strength as well as toughness; one character with 16 Might may be huge like a weightlifter, while another may be tough as nails with a typical or even a wiry build. With that in mind, the following is a simple guideline for minimum stats to support certain cybernetics.
@@ -40496,7 +40693,9 @@ Some players will want their characters to be able to more easily strike at a fo
 When choosing a combat effect ahead of time to strike a foe’s cybernetics, gain an asset on the attack roll or reduce the subtracted damage by 4 (for example, attempting a minor effect is either no longer hindered or no longer reduces the damage by 4 points). A character can choose this advancement up to two times.
 
 ### Cypher and Artifact
+
 #### Activating Multiple Cyphers
+
 The Cyphers section presents additional forms for cyphers, including inhalers and pills. It’s possible for a character to use multiple cypher pills or cypher inhalers as one action, under the following circumstances.
 - A character can retrieve and use up to two pill cyphers as part of the same action if they have two hands free.
 - A character can retrieve and use up to five pill cyphers as part of the same action if they have one hand free, the pills are all in the same container, and the container can be opened with one hand (such as an orange medicine bottle from a pharmacy).
@@ -40510,6 +40709,7 @@ The following are suggested GM intrusions for characters attempting to activate 
 - GM intrusion: Character chokes from trying to activate multiple cyphers at once, losing their next turn coughing, sneezing, or retching. Each following turn they can attempt a level 4 Might task to overcome this; failure means they can take no action that round except move an immediate distance.
 
 #### Shopping for Cypher Apps
+
 Subtle cyphers in a cyberpunk campaign are sometimes found in the form of apps. Instead of always having them be random discoveries, an interesting option is to have in-game vendors, websites, servers, or cloud storage centers that allow a character to select from a specific list of app cyphers.
 
 Gaining access to an app server might be a one-time thing for the character (such as jacking in to a corpo server in the middle of an infiltration mission). Other times, the character might be granted temporary access by a fixer until a specific job is done, or the provider might be a contact (such as from the Charming descriptor, the Underworld Contacts ability, or spending XP on a long-term benefit for the character).
@@ -40522,6 +40722,7 @@ Some people make side money hacking into sources with app cyphers and reselling 
 
 
 ### Corporate Currency
+
 The prices in this book are listed with a dollar sign (). With the rise of megacorporations, the role of the government in regulating currency (such as the US dollar) has dwindled. As an additional way of representing the dystopia of the cyberpunk genre, you may have the megacorps exploit this loss of regulation by issuing their own currency, similar to scrip issued by mining companies in remote towns at the turn of the 20th century. Megacorps use their company-branded scrip to pay their employees, and company-owned retail centers only accept their own currency for payments.
 
 Because the megacorps are in a fairly balanced power struggle, the various corpocurrencies maintain approximately the same value; in other words, 100 MuxCoin is usually worth about 100 ImmorTokens is worth about 100 KaiYen, although the stock market and other economic factors mean for a few hours one currency might be worth 1% to 5% more than another (some fast-acting traders use these fluctuations to make money, but their activities are intensely monitored by corpo officials on all sides).
@@ -40552,6 +40753,7 @@ From time to time, a wealthy private individual or group tries to create their o
 Corpocurrency GM intrusion: The corpocurrency a character was about to spend suddenly loses half its value. It bounces back to nearly its previous value within a few hours, but the opportunity for the transaction has passed (item is no longer available, seller is suspicious or scared, and so on).
 
 ### Drugs
+
 Drugs are substances that have a physical or mental effect on a creature when ingested or otherwise introduced to their body. Most run-of-the-mill drugs found in a cyberpunk setting function similarly to artifacts with automatic depletion, rather than cyphers. After all, a duffel bag could have hundreds of doses of an illegal street drug, and it would break the game’s plausibility if each dose was a cypher.
 
 Drugs can produce amazing effects, sometimes similar to or even surpassing what a cypher can do. However, drugs have several disadvantages compared to cyphers: they are often addictive, have a risk of causing side-effects or overdoses, and over time the user can develop a tolerance to them that reduces their effectiveness.
@@ -40561,6 +40763,7 @@ For the purpose of this section, the term “drug” includes medicine, street d
 While cyphers can take the form of drugs in a cyberpunk setting, the drugs described in this section do not function as cyphers.
 
 #### Activating Drugs
+
 Using a drug is an action, regardless of the method of its use (smoking, injection, and so on), but the character might need to spend some time preparing the drug before it is ready to be used (heating a crystalline drug so it can be injected, rolling a cigarette with the chemically-laced material, and so on).
 
 Most drugs have an initial effect (what happens immediately after the character uses it) and a secondary effect (which happens after the initial dosing, typically one minute or one hour later). Both the initial and secondary effect require the character to attempt a Might defense roll against the drug’s level; however, a creature that willingly takes a drug automatically fails both of these defense rolls. It is not possible for a character to intentionally fail one defense roll but try to resist the other. The levels are provided for situations in which a character is drugged against their will.
@@ -40572,6 +40775,7 @@ Depending on how a drug is used, the GM may decide that multiple doses (or even 
 A character that takes multiple doses must repeat their overdose roll and addiction roll for each.
 
 #### Drug Price and Availability
+
 Drugs can be categorized by their source: OTC, Rx Only, or Street.
 
 OTC drugs are inexpensive and ubiquitous. These drugs can be purchased in convenience stores and vending machines, or found in a well-stocked medicine cabinet.
@@ -40581,6 +40785,7 @@ Rx Only drugs are created for therapeutic purposes. If such a drug is prescribed
 Street drugs are synthesized solely for recreational purposes. Price is set at the dealer’s discretion, fluctuating according to supply and demand.
 
 #### Overdose Roll
+
 Some drugs have a chance of an overdose, even when taken deliberately. When a PC takes a drug, the player rolls the designated die (1d10, 1d20, or 1d00). If the die shows the overdose number(s), the character descends a step on the damage track every five minutes, unless medical aid is provided (CPR, an antidote or antagonist, remedy serum, etc.). The specific symptoms of the overdose may vary, as specified in each listing, but the mechanical representation is the same.
 
 For each additional drug currently affecting a character, the range for overdose increases by 1 (such as increasing from 1 in 1d20 to 1–2 in 1d20).
@@ -40590,9 +40795,11 @@ An NPC that overdoses is reduced to 0 health but may survive if aided.
 On a successful overdose roll, overdose can occur as a GM intrusion.
 
 #### Addiction, Tolerance, and Recovery
+
 One of the primary drawbacks of drugs is their potential for addiction. While drugs may ease certain tasks or provide initial benefits, some people reach a point where they need the drug to function normally.
 
 ##### Addiction Roll
+
 Each time a character uses a potentially habit-forming drug, they must make an addiction roll determined by the drug’s addiction level.
 
 None: The drug is non-addictive.
@@ -40617,6 +40824,7 @@ Note that in addition to the drugs listed here, there are a wide variety of drug
 A character that is addicted to a drug can recover from their addiction by spending a sufficient amount of time without taking the drug, determined by the drug’s addictiveness (see Addiction Roll above). A character that has recovered from a drug addiction no longer suffers penalties from abstaining from the drug, but their defense rolls to avoid becoming addicted to that drug again are hindered by two steps, and their defense rolls to avoid addiction to any other drugs are hindered. Additionally, if a character who has recovered from addiction later uses that drug again, their potential for overdose doubles (such as increasing from 1 in 1d20 to 1–2 in 1d20).
 
 #### Drugs
+
 Drugs are presented in the following format:
 
 Name: The name of the drug, followed by any common nicknames.
@@ -40640,6 +40848,7 @@ Overdose: What constitutes an overdose and any notable effects of same (see Over
 Addiction: Addiction level of the drug (see Addiction Roll, above).
 
 ##### Axodrine
+
 Name : Axodrine®, acro
 
 Description: Axodrine® is a motion sickness drug developed by JimBob AgriBiz that treats dizziness and nausea; it also improves balance and proprioception. It’s commonly available over the counter, with single-dose blister packs sold in vending machines at airports and high-speed rail stations.
@@ -40661,6 +40870,7 @@ Overdose: None; if more than two doses are taken in a 24-hour period, the charac
 Addiction: None
 
 ##### Blue Spirit
+
 Name : Blue Spirit
 
 Description: Blue Spirit is an anesthetic with hallucinogenic side effects. It’s sold as clear crystals or a colorless powder. When burned, the resultant smoke is bright blue. The high peaks after 30 minutes, but hallucinogenic effects may last up to 5 hours.
@@ -40682,6 +40892,7 @@ Overdose: 1 in 1d20; the character suffers from convulsions.
 Addiction: High
 
 ##### Calcichloride
+
 Name : Calcichloride®, calc, chopsticks
 
 Description: A Kaisha-produced analgesic commonly prescribed after dental surgery. Though most patients recovering from an extraction or root canal only need one or two doses, a standard prescription is for a box of five autoinjectors. The resultant surplus has led to a booming secondary market.
@@ -40703,6 +40914,7 @@ Overdose: 1–2 in 1d00; increases to 1 in 1d20 if multiple doses are used withi
 Addiction: Medium
 
 ##### Clickbait
+
 Description: Clickbait is ubiquitous in Edge City’s club circuit, though it has a reputation as the drug of choice for salarymen who can afford to cut loose on the weekends. It is most commonly used in the form of a bitter-tasting tincture. Clickbait’s psychoactive effects promote feelings of empathy and connection.
 
 Form: Sublingual tincture
@@ -40722,6 +40934,7 @@ Overdose: 1 in 1d00
 Addiction: Low
 
 ##### Crunch
+
 Name : Crunch, chips, crisps
 
 Description: This synthetic stimulant, commonly labeled as fertilizer for smuggling purposes, causes a short-term increase in energy, mood, and friendliness. Because it causes dehydration and a craving for crunchy foods, a dose is typically accompanied by a cup of ice chips.
@@ -40745,6 +40958,7 @@ Addiction: Medium
 GM Intrusion: Without realizing it, the character begins to gnaw on their own hand, inflicting 1 point of damage and hindering any ongoing interactions.
 
 ##### Dex
+
 Name: Dex®, icicles
 
 Description: Developed by Immortech as the perfect drug to enhance a sniper’s steadiness and focus, Dex® is now commonly used by mercenaries, assassins, and especially diligent office workers.
@@ -40766,6 +40980,7 @@ Overdose: 1 in 1d00; the character’s blood pressure increases to the point of 
 Addiction: High
 
 ##### Elevate
+
 Name: Elevate®, peppermint
 
 Description: This stimulant manufactured by Oleg NutriCorp provides an initial kick of energy, followed by a short-lived enhancement to cognitive focus. The tablets earned their street name for their red-and-white striped coloration.
@@ -40787,6 +41002,7 @@ Overdose: 1 in 1d00
 Addiction: Medium
 
 ##### Last Gasp
+
 Name: Last Gasp®
 
 Description: Developed for military use by Kaisha, Last Gasp® is a manufactured feeling of invincibility. It won’t keep you alive, but it’ll make you forget you’re dying, at least for long enough to get one last swing in on your opponent.
@@ -40808,6 +41024,7 @@ Overdose: 1 in 1d10; the character’s airway spasms and constricts.
 Addiction: Medium
 
 ##### Liftoff
+
 Name: Liftoff®
 
 Description: An over-the-counter agonist that can help prevent users from forming addictions, manufactured by Oleg NutriCorp. Though its purchase is stigmatized, Liftoff® also improves circulation—which means using oxygen more efficiently, which means moving faster.
@@ -40829,6 +41046,7 @@ Overdose: 1 in 1d00
 Addiction: None
 
 ##### Moon Rocks
+
 Name: Moon Rocks
 
 Description: A sedative that guarantees the best, most restorative sleep of your life. Initially developed for medical use, moon rocks were later replaced by a class of drugs with lower potential for addiction—but rogue labs have continued to produce the original formula.
@@ -40850,6 +41068,7 @@ Overdose: 1 in 1d20; the character enters a comatose state and can’t be awaken
 Addiction: High
 
 ##### Pixel
+
 Name: Pixel®, P1xel, pix3l, Pickle
 
 Description: Pixel® is an anesthetic and analgesic developed by Zeerosh. Though it’s technically only available by prescription—and only prescribed in rare cases—Pixel® is most commonly used by netrunners, because it induces a trancelike state that eases their integration into the matrix. The drug is easy to produce with a basic 3D printer, and trivial with the RxHypo3D. Netrunners tend to print their own supply, but it can sometimes be found in convenience stores under alternate names to dodge trademark protection.
@@ -40871,6 +41090,7 @@ Overdose: 1–3 in 1d00
 Addiction: Medium
 
 ##### Rampage
+
 Name: Rampage
 
 Description: A physical performance enhancer that lives up to its name, Rampage is a favorite of brawlers, bruisers, and toughs. The viscous, oil-based solution takes effect immediately after injection.
@@ -40892,6 +41112,7 @@ Overdose: 1 in 1d20
 Addiction: Medium
 
 ### Hacking
+
 Indecipherable white or green text scrolls past on a black monitor. A hacker in a darkened room—perhaps wearing a Guy Fawkes mask, or a hoodie pulled low over their head—types impossibly fast, picking code apart, exclaiming about firewalls and ICE. And then, at last, those magic words: “I’m in.”
 
 Hacking, a staple of cyberpunk and near-future science fiction, is rarely depicted with anything approaching accuracy. The classic, tropey version is just more fun—and that’s the hacking experience this optional rulerules module emulates.
@@ -40899,6 +41120,7 @@ Hacking, a staple of cyberpunk and near-future science fiction, is rarely depict
 Hackers work using a computer, phone, tablet, or communicator implant.. For a VR cyberspace experience, where characters are completely immersed in the matrix, use the netrunning optional rulerules module.
 
 #### Skill Breakdown
+
 Much of the time, hacking is a sequence of different tasks. The hacker infiltrates a device or network; digs around until they find what they’re looking for; accesses, edits, or disables the relevant data, servers, software, or so on; and logs out, all while avoiding detection.
 
 Here are some relevant skills and the situations in which they may be used. Note that this list is not comprehensive, and characters may have specific abilities that accomplish these actions.
@@ -40916,14 +41138,17 @@ Optional rule: the hacker gains an asset on their next hacking-related task if t
 Optional rule: Perception tasks are eased by one step if the character says “enhance” at least twice while looking at a digital photo or video.
 
 #### Impromptu Hacking
+
 The guidance in this section is useful when a character needs to hack without any prior preparation. For example, if the party has been cornered by CRAZRs and a hacker wishes to use their cyberware to disable them. Or if, after breaking into a fixer’s residence, characters decide to copy the contents of their computer but must first bypass any authentication measures.
 
 Because this sort of hacking is a multi-step process, it can occur in tandem with combat, with each task taking one round.
 
 ##### Establishing a Goal
+
 Begin by establishing what the hacker is trying to do. Are they targeting a specific computer? A network? An individual’s cybernetics? Is their intent to gain access to data, such as to download the contents of a drive? Or to cause a malfunction that prevents others from using the device? Or to gain complete control of the targeted device? This information is relevant when determining the tasks required and their level.
 
 ##### Choosing Tasks
+
 Once the player has described their intended outcome, determine the required steps. Often, the steps will be:
 1. Infiltrate the device or network.
 2. Locate the software or data the characters need within that device or network.
@@ -40935,11 +41160,13 @@ However, some of these steps may be unnecessary depending on the circumstances. 
 These hacking tasks can be retried if failed. Failure is also an opportunity to introduce a narrative complication, such as an additional layer of network security, corrupted data that will take longer to parse, unfriendly hackers counteracting their work in real time, or another snag in the PCs’ plan.
 
 ##### Determining Difficulty
+
 There are two ways to determine the difficulty of hacking tasks: the GM can set the difficulty of the overall goal and use this level for each required step, or the GM can set the task difficulty of each individual step. In either case, the difficulty should take into account the levels of any devices, security measures, AIs, and NPCs involved.
 
 For example, shutting a rival hacker out of a network requires a roll against said rival hacker’s level. Infiltrating an NPC’s cybernetics entails a roll against that NPC’s level. Bypassing a security AI requires a roll against the AI’s level, whereas guessing the password of a basic laptop may be a roll against the computer’s level or the level of its owner.
 
 #### Programmed Cyphers
+
 Characters can prepare simple programs and store them on their computer, on an external drive, or within their cyberware. When the time comes, all they have to do is deploy the code, bypassing most of the work of hacking.
 
 These programs are single-use and function as cyphers. You can think of them as cypher apps that are crafted by the character, rather than being purchased or pirated. They are also similar to hacks in that they can only be used on software, computers, or cybernetics.
@@ -40949,6 +41176,7 @@ Characters deploying programs may still need to access/infiltrate the target dev
 Programmed cyphers are subject to the character’s cypher limit.
 
 ##### Crafting Programmed Cyphers
+
 Creating a programmed cypher involves four steps.
 1. Choose Cypher Level. The character decides the level of the program they wish to create. A low-level program is easier to write than a high-level one.
 2. Assess Difficulty. The difficulty of writing the program is always 1 + the level of the program. The hacker can reduce the difficulty of the task with skill training, assets, special abilities provided by their focus or type, and so on. Using a tutorial, instructions, or other guidelines for a specific program counts as an asset for this purpose.
@@ -40979,6 +41207,7 @@ For any time in excess of nine hours, the process is assumed to have stages wher
   
 
 ##### Example Programs
+
 Cyphers that the characters may create using the programmed cypher rules include:
 - Farsight
 - Information Sensor
@@ -40995,6 +41224,7 @@ Cyphers that the characters may create using the programmed cypher rules include
 This is not a comprehensive list. If the GM agrees, characters can write programs that accomplish countless effects.
 
 #### Advanced Preparation
+
 When characters anticipate a major showdown, hackers can prepare simple attacks in advance. The player describes what their character does to prepare, then rolls to determine how effective that preparation really was. The difficulty level equals the number of prepared actions; for example, if a hacker is preparing 3 actions, the roll’s target number is 9. The roll can be retried if failed, with the target number remaining the same; however, each failure decreases the final number of prepared actions by 1.
 
 The player does not have to define the actions they’re preparing. In fact, they should choose how to use their prepared actions during the encounter, based on how the situation plays out. In combat, the hacker can use a prepared action to make the lights go out, the elevator jam, the automatic targeting on the security guard’s gun malfunction, or something similar. This action is deployed with a single roll, bypassing the more detailed infiltrate-code-escape process in favor of quick, fluid combat.
@@ -41004,6 +41234,7 @@ Mechanically, this gives hackers freedom to adapt their strategy in the moment. 
 Ideally, these prepared actions are completed in one round and do not entail multiple steps.
 
 #### Detecting and Countering Hacks
+
 When a character finds their own tech under attack, they have a short window to notice and prevent their devices from being hacked. First, have the character roll to detect the hack, with difficulty determined by level of the opposing individual, software, or virus. If the character does not detect the hack, they cannot attempt to counter it until the effects become obvious, even though the player may now suspect that shenanigans are afoot.
 
 If the character successfully detects the hack, they can then roll to counter the hack as their next action—again with the difficulty determined by the target’s level, eased by one step due to the character’s vigilance. Characters can use either Intellect or Speed to counter a hack; after all, typing really fast can be the make-or-break.
@@ -41019,9 +41250,11 @@ If characters do not preemptively counter a hack, the effects may include the fo
 Depending on the hacker’s objective, a character whose cybernetics are hacked may take 2 to 4 points of damage per round while the attack is ongoing. Once the hack has taken effect, characters can roll to counter it each round, as an action. The effects will continue until the hacker relents, the character or an ally succeeds in countering it, or the device is destroyed. In the aftermath of such an attack, the device is likely to require extensive (and costly) repairs.
 
 ### High-Speed Chases
+
 In most cases, driving is a routine task that does not require a roll. But when characters are chased, pursue another vehicle, or engage in combat while in the vehicle, things get a bit more complicated.
 
 #### Vehicle Speed and Rounds
+
 When starting from a standstill, most vehicles move a long distance in one round. When already at speed, vehicles can move a very long distance in one round. That distance is decreased (from very long to long, or from long to medium) if the vehicle is not on a paved road, or if the driver must turn, brake, or maneuver in the same round.
 
 So you can assume a car or motorcycle moves a long distance in a straight line in its first round underway, and a very long distance in a straight line in its second round. If the car veers onto a gravel shoulder in its third round, it moves a long distance. If the car is on a gravel shoulder and the driver must weave to avoid obstacles, the car moves a medium distance in its fourth round.
@@ -41029,9 +41262,11 @@ So you can assume a car or motorcycle moves a long distance in a straight line i
 The GM can track these distances loosely. What matters is that if the car in the lead is moving faster, it’s getting farther away. If the car in the lead is moving slower, the car in pursuit is getting closer.
 
 #### Gaining (or Losing) Ground
+
 When multiple vehicles are moving at the same speed in game terms (medium, long, or very long), one can still catch up to or evade the other. The driver makes two Speed rolls, one against the opposing driver’s level, and one against the opposing vehicle’s level. If both rolls succeed, the gap between vehicles either increases or decreases, depending on the PC driver’s objective.
 
 #### Actions in Motion
+
 By default, the driver’s action each round is to control the vehicle. If moving in a straight line, this is a Speed task with a difficulty of 0, meaning that no roll is required. The driver can try to catch up to or shake another vehicle. The driver can turn, brake, or maneuver the car around obstacles; these are Speed tasks that vary in difficulty, but are typically 3 or 4 when moving at high speeds. Failure results are based on the situation but might involve a collision, a flat tire, or some other form of damage to the vehicle.
 
 Any task that distracts the driver from the road, such as reaching for a weapon in the backseat, hinders their next driving task by one step. This means that if the driver uses their action to get a handgun from the glove box, they must complete a difficulty 1 driving task in the next round.
@@ -41043,9 +41278,11 @@ While in a moving vehicle, attacks on characters outside of that vehicle—such 
 In a round where the car turns, brakes, or moves erratically, the actions of all passengers are hindered. In case of a collision, intentional or unintentional, all passengers must make a Speed defense roll to avoid injury.
 
 #### Optional: Pooling Actions
+
 Because the difficulty of all actions in the car depends on the car’s movement, tracking which characters’ tasks are hindered and why can become unwieldy. It may save time to have each character in the vehicle determine what they’re doing in the round, then have everyone roll at once. This means that the difficulty of each task accounts for the planned actions of the other characters.
 
 ### Inflation
+
 Inflation is the general trend of prices going up. In a cyberpunk campaign, prices should increase over time, anywhere from 3% to 10% in a typical game year. However, unusual events—a civil war, a nuclear strike on a foreign country, or poor economic choices by a dictator—can trigger a sudden spike in inflation, adjusting the cost of all goods by 5% to 10% in a single month. It is rare for inflation prices to settle back down; it’s much more likely that inflation flattens after a spike and remains flat until the overall prices catch up to what they “should be” in a normal annual inflation cycle.
 
 Short-term cyberpunk campaigns usually don’t experience much inflation because the month-over-month price increases are pretty negligible (even a hefty 10% annual inflation rate is less than a 1% price increase per month). One way for the GM to make inflation a factor in the campaign is to use the forced downtime optional rule; by making the campaign take longer, there’s more time for inflation to have a noticeable effect on prices.
@@ -41059,6 +41296,7 @@ Inflation GM intrusion: Just as the character has saved up the exact amount of m
 Hyperinflation group GM intrusion: The cost of all goods increases by 50% in just a few weeks, but income (including payments to freelancers like the PCs) stays the same.
 
 ### Planned Obsolescence
+
 In a world run by megacorporations, all of which manufacture some sort of consumer good, there is always pressure to buy the newest thing. So what, you only got your communicator implant a year ago? Don’t you want one with more features? (Or, the same features under new names!) Don’t you want one that’s faster/better/shinier? Of course you do.
 
 Or maybe you don’t, but that’s really too bad, because that’s where planned obsolescence comes in. Devices aren’t built for the long haul. Corps keep consumers buying more by artificially limiting a product’s lifespan. Whether it’s a smartphone or an embedded pistol, it will eventually deteriorate to the point that replacement is required.
@@ -41074,6 +41312,7 @@ Here are some of the ways planned obsolescence can manifest in a cyberpunk setti
 - In an effort to prevent at-home repairs, repair guides are copyrighted and difficult to find. Repairs done by a licensed technician cost nearly as much as replacement.
 
 ### Rumors, Advertisements, and Headlines
+
 In an urban setting, characters are surrounded by neon signs and news displays, inundated with advertisements and rumors—all of which can add flavor to descriptions of locations, lead the PCs to new encounters, or spark a new adventure. These tables provide ideas ranging in tone from lighthearted to dramatic.
 
 Story Hook Source Table
@@ -41178,28 +41417,35 @@ Neon Sign Table
 |10|“The future has already arrived”|
 
 ### GM Advice and Tools
+
 #### Changing a Character’s Focus
+
 In a genre where people literally replace much of their body with machine technology, picking a different character focus is well within the realm of possibility. The Cypher System Rulebook already has information about switching a character’s descriptor or focus, so all that the character needs is a narrative (in-game) reason for it. Maybe the character had to plug an experimental bio-organic chip into their brain implant, or got splashed with weird nanobots that dug into their organics and chrome and make radical changes, or they succumbed to SHITS and had to be institutionalized and reprogrammed, or a generous (or sadistic) chopper decided to replace all of their cybernetics with ones that grant different abilities. In a weirder cyberpunk game that mixes in other genres, other justifications for this sort of character change include alien experimentation, possession by a ghost (or engram or AI), dimensional bleed, a significant mutation, or time travel reworking some aspect of the character’s past.
 
 The GM may require the character to complete a character arc such as growth or recover to fully make the change from the old focus to the new focus. It’s also likely that the character needs time to figure out their new outlook and abilities, which the GM can easily manage with forced downtime.
 
 #### Character Reputations and Relationships
+
 In a cyberpunk world ruled by megacorporations and street gangs, having the right people in your corner can make the difference between surviving and thriving. The process of forging and maintaining these relationships can be represented by Character Arcs, Medium- and Long-Term Benefits, or Relationship Levels.
 
 ##### Using Advancement Benefits
+
 As a medium-term benefit, a character can spend 4 XP to become trained in a skill. Proficiency interacting with members of a gang, corporation, or other faction can be treated as a skill. Narratively, this means that the character fits in; they know the group’s social norms and customs, so interactions with its members are more likely to go well.
 
 As a long-term benefit, a character can spend 3 XP to gain a position of importance within the group, or an NPC contact—perhaps a fixer or someone in power at the organization.
 
 ##### Using Relationship Levels
+
 Using the relationship level rules from the Cypher System Rulebook captures how romantic and platonic relationships can both deepen and weaken over time. A character who relies on an NPC contact for aid will have to put work into building that bond, increasing the relationship level. Inappropriate or careless behavior can lower the relationship level, meaning that characters must put work into rebuilding it. A relationship’s level also dictates the NPC’s actions in relation to the character—how likely are they to do the character an inconvenient favor? How likely are they drop everything to save the character from a deadly situation?
 
 #### GM Intrusions
+
 This section provides GM intrusion suggestions for various encounters, circumstances, and events, sorted into categories for your easy use. For example, if you want a GM intrusion specifically about a cybernetics malfunction, you can consult the Cybernetics Intrusions category and pick from a shorter list, without having to skim past intrusions about police or random events.
 
 Note that these are meant to be generic GM intrusions suitable for many encounters and circumstances. These lists do not include the GM intrusions relating to foci, creatures, or equipment, which only come into play when those foci, creatures, or items are present.
 
 ##### Combat Intrusions
+
 - A foe activates a hidden weapon implant (such as a mantis blade) and makes an eased extra attack.
 - A foe activates prototype martial arts software, easing their Speed defense by two steps or easing their melee attacks by two steps for the rest of the combat.
 - A foe activates a “death by a thousand cuts” program and makes a number of melee attacks against the character equal to twice the foe’s level. Each attack inflicts 2 points of damage.
@@ -41208,6 +41454,7 @@ Note that these are meant to be generic GM intrusions suitable for many encounte
 - A foe’s smart targeting software instantly locks onto the character. They make a free attack against the character, and their attacks against the character are eased for the rest of the combat.
 
 ##### Cybernetics Intrusions
+
 Many of the intrusions in the Technology section may apply to cybernetics as well.
 - An implant causes twitching, pain, or involuntary movements, hindering tasks with it or the connected part of the character’s body for several rounds.
 - A character’s body starts to reject an implant; actions with it may be hindered or delayed, and the surgical site is leaks pus, machine fluids, or both.
@@ -41216,17 +41463,20 @@ Many of the intrusions in the Technology section may apply to cybernetics as wel
 - Implant starts to loudly beep like a fire alarm. Running a diagnostic can identify the problem within a few rounds, which then can be corrected by several rounds of fiddling with it.
 
 ##### Dystopia Intrusions
+
 - (Group intrusion) A social event turns out to be an ambush by gang members or scraprats.
 - Landlord and police show up to illegally evict the character from their apartment; the character only has about an hour to move all of their stuff out before the locks get changed.
 - Sudden price hike on several items the character is interested in, each price increasing by about 50%.
 - A quiet or sleeping screen (computer, billboard, and so on) near the character activates, blaring a loud, obnoxious advertisement. This attracts unwanted attention to the character, and the jarring ad hinders the character’s tasks until they move at least a short distance away.
 
 ##### Environment Intrusions
+
 - (Group intrusion) Weather takes an unexpected turn (overcast becomes stormy, rain becomes clear, and so on), interfering with the plans the characters made contingent upon the previous weather.
 - A passerby mistakes the character for a wanted criminal with a bounty, starts making a scene, and tries to capture the character or loudly calls the police.
 - Character notices some odd graffiti—their name, a vulgar phrase, a strange drawing, or text that almost makes sense. The character is distracted (hindered) until they spend a few rounds looking at it or move so it’s out of sight.
 
 ##### Health Intrusions
+
 References to drugs in this section include actual drugs, medications (such as “immune suppressants” for cybernetics and SHITS), and pharmaceutical cyphers.
 - A character has a bad reaction to the day’s air quality; tasks requiring physical exertion are hindered for the next hour.
 - Fumes from nearby burning garbage (trash can, pile of tires, old car) sickens the character, hindering all tasks until they move at least a long distance away.
@@ -41238,6 +41488,7 @@ References to drugs in this section include actual drugs, medications (such as �
 - Someone nearby (perhaps someone the character is speaking with) suddenly gets very sick. If the character fails a Speed defense roll, the person vomits on them, inflicting 2 points of Intellect damage (ignores Armor). (Did they have too much to drink? Bad trip? Illness? Poisoning? Nervous?)
 
 ##### Police Intrusions
+
 - A “good cop” turns out to be a bad cop at exactly the worst time.
 - (Group intrusion) An armed police intervention in the area is probably unrelated to the characters’ situation but still complicates things.
 - A character is swatted: police raid their home, confiscate valuables and contraband, and attempt to detain or arrest them.
@@ -41246,6 +41497,7 @@ References to drugs in this section include actual drugs, medications (such as �
 - Several police cars suddenly show up for an unrelated event, with lights flashing. (Perhaps there's a donut spill nearby.)
 
 ##### SHITS Intrusions
+
 Most of these intrusions are realistic hallucinations or delusions in the character’s head, although the character might believe their senses are being hacked. These kinds of intrusions can be tricky to make effective if the player doesn’t go along with it. Any hallucinations from the GM intrusion usually end within a few rounds.
 - A new foe appears and threatens or attacks the character.
 - A foe uses advanced stealthtech to vanish, but continues to attack the character, whose defenses against this foe are hindered by two steps.
@@ -41260,6 +41512,7 @@ Most of these intrusions are realistic hallucinations or delusions in the charac
 - A dead person (probably someone the character knew) speaks to the character, pleading with, insulting, taunting, or shaming them. (This may be an auditory hallucination, a visual one, or both.)
 
 ##### Technology Intrusions
+
 - An activated item doesn’t take effect until after an advertisement plays, which takes two or three rounds.
 - An item’s software license or subscription runs out; the character has to pay to renew it before the item can be used.
 - An item displays a popup spam message that blocks the important part of the interface. Closing the spam requires a successful level 3 Intellect task (try once per round).
@@ -41276,6 +41529,7 @@ Most of these intrusions are realistic hallucinations or delusions in the charac
 - Rubylight item only: An optic device offers a free trial upgrade (such as targeting software, night vision, or cloud storage of everything viewed) for the next three days, converting automatically to a monthly subscription … but what’s the catch?
 
 ##### Wild Event Intrusions
+
 - A crazed or confused person on the street (drug user, drunk, excitable gang member, unhoused person, and so on) starts a commotion, gets in the character’s face, or has a bizarre, vulgar, or disgusting reaction to the character.
 - A local power outage affects several blocks.
 - An approaching ambulance causes mayhem as drivers make room or freeze up; the ambulance’s destination may be nearby.
@@ -41299,21 +41553,27 @@ It limits storylines. This accelerated tempo makes it hard for the GM to include
 In a typical fantasy campaign where the PCs wander from village to village dealing with local problems, the required travel time between adventure locations acts to slow down the overall timeline of the campaign. In a cyberpunk campaign, particularly one taking place almost exclusively in and around one major city, there’s no longer a travel-induced brake on the timeline. Instead, the GM should use a more direct method: forcing the characters to take time off in between their active gigs. Here are some easy ways to do this.
 
 ##### Advancement
+
 The rules assume that character advancements take place almost instantly, without any need for training or study, even if it means the character is suddenly gaining new abilities, new skills, or adding to their stat pools. An easy way to slow a campaign timeline is to require some story-induced downtime to justify gaining (or mastering) a new ability. A character increasing their Might or Speed Pool needs to spend some time at the gym or dojo. One adding to their Intellect Pool needs to take a college class or attend a meditation retreat. Learning how to use a new ability requires the character to practice, watch holotutorials, or both. And so on. An easy guideline is to have the character spend about a week of downtime for each advancement they choose; this in itself means extending the campaign timeline by at least 20 weeks (five tears beyond tier 1, with four advancements each).
 
 ##### Expenses and splurging
+
 The GM should encourage the players to see their characters getting paid as a windfall situation: instead of struggling to meet their day-to-day expenses, the characters have some money to burn. They can pay off debts, pick out some new equipment and cybernetics, party or vacation a bit, and perhaps find a safer or sexier place to live. Even if the GM hand-waves basic expenses like rent, food, clothing, and so on (with the assumption that the characters are spending some of their time outside of a game session doing boring, risk-free work to pay for their mediocre standard of living), the extra money from a typical gig gives the PCs some time to cool off and distract themselves from their dystopian existence. Not taking time off to relax is bad for a person’s mental health, and that sort of stress can build up and lead to SHITS. Even in a campaign where SHITS isn’t really something PCs have to deal with, the GM can encourage downtime by hindering the characters’ Intellect-based tasks (starting with one step, increasing about one step per week), reflecting their ongoing fatigue, emotional damage, and burnout.
 
 ##### Lasting damage
+
 The lasting damage rule gives a character an injury that they can’t fix with a simple recovery roll. They only recover slowly during light activity or complete rest. Using this rule, a typical 4-point wound from a medium pistol becomes something that requires four days of complete bed rest, or twelve days of regular activity, during which time the character isn’t at full strength. Diseases, poisons, and even something or even something like a grenade’s explosioncould trigger a group GM intrusion for lasting damage that leaves all of the PCs wanting some extra time to heal. Also, this section’s entry on lasting damage encourages the GM to sometimes damage or destroy a character’s cybernetics—a bloodless but hard-hitting way to show the lethality of dystopian cyberpunk. More of these attacks also push characters to slow down a little bit.
 
 ##### Life happens
+
 Sometimes your daily life throws you a curveball, ruining your plans. There’s a heat wave and it’s too hot to go outside. There’s a power outage and you can’t get the surgery, interview, or mainframe access you need. It’s time to do your taxes. Everyone in your group of friends gets a bad cold. There’s a fire in your apartment building and you have to live out of a hotel for a few days before they declare it safe to return. A sports game, political event, or controversial television episode leads to riots in the streets. A terrorist act (or the suspicion of one) shuts down all travel in or out of a specific neighborhood. None of the fixers the PCs know have interesting, suitable, or well-paying gigs to offer the PCs. Any of these things happening during a game session could be a GM intrusion, complicating an encounter, but outside of a game session, it’s just life—things happen that delay your plans, giving frenetic characters (and players) an excuse to let some time slide by.
 
 ##### Splitting XP
+
 Most of the options in this section are ways to let the campaign calendar move forward more slowly. However, you can also address the “speedy zero to hero” problem from the other (advancement) direction by reducing the amount of XP the characters can use for tier advancement. Characters still earn the same amount of XP, but it’s allocated for specific uses (rerolls, advancements, and more). The section on splitting XP gives more details about this option.
 
 ##### Surgical Recovery
+
 Getting a cybernetic implant requires surgery, and a body needs time after surgery to heal, build up strength, and learn how to use the newly implanted device so it functions as automatically as the user’s own limbs. A minor surgical procedure typically leaves a person sore and stiff for a few days. A major procedure requires weeks or even a couple of months before the character feels back to normal again. Major surgeries are anything that replaces limbs, connects to or augments bones and major muscles, penetrates the skull, or directly interfaces with the character’s brain or spinal cord (everything else counts as a minor surgery).
 
 While recovering, the character’s tasks are hindered (by two steps for a major surgery). Anything other than bed rest and light activity (such as going for a short walk) risks the character injuring themselves, inflicting up to 6 points of damage (ignores Armor); whether this damage is Might, Speed, or Intellect depends on the nature of the surgery the character is recovering from. Some major surgeries might even move the character down the damage track to impaired or debilitated until they’ve had time to recover.
@@ -41325,6 +41585,7 @@ Obviously, a GM wanting to slow down the pace of the campaign by using cyberneti
 The GM Says So. Ultimately, it’s always fine for the GM to just skip the campaign forward an arbitrary amount of time. There’s nothing wrong with ending a session by saying, “You completed the gig, the fixer congratulates you and transfers the money to your accounts, you go home, and take a couple of weeks off to relax and recover.”
 
 #### Lasting and Permanent Damage
+
 A typical cyberpunk game is packed with over-the-top violence and extreme injuries—it’s common for foes to be dismembered, stabbed through the heart, or burned to a crisp. The prevalence of cybernetics in the setting adds two interesting twists to the campaign: the GM can inflict bloodless over-the-top violence on PCs by targeting their cybernetics, and extreme organic injuries can be corrected or overcome with the right technological implant. Both of these aspects are represented by the lasting damage and permanent damage rules.
 
 For example, a character hit by an omega bat might get lasting damage in the form of a shattered arm bone. In a cyberpunk setting, the character might get patched up at a hospital and decide to wait for the bone to heal “the old fashioned way,” or the injury might be what convinces them to head to a chopper and get their arm replaced with a gorilla arm cybernetic. Likewise, one good whack with an omega bat might bend or break a character’s cybernetic arm, inflicting lasting damage that takes a while for the implant’s self-repair mode to fix (or the character could just have a brand-new arm installed, either of the same type or an upgrade).
@@ -41334,6 +41595,7 @@ The permanent damage option describes “extraordinary technology” repairing o
 In other words, if your group is okay with gore, feel free to use the lasting damage and permanent damage rules to inflict extreme injuries upon PCs’ flesh and chrome (especially as they get GM intrusion XP for them).
 
 #### Rewards and Loot
+
 Use the following guidelines for determining what sort of monetary reward per character is appropriate for completing a gig. The lower end is for quick gigs that are low-risk for the character, such as roughing up an unchromed bookie, spying on a cheating husband, or delivering a suitcase full of cash to a politician. The middle range is for somewhat risky or dangerous stuff where the PCs might get a bit hurt, like getting some gangsters to stop harassing a restaurant, beating up a cop who’s fallen behind on his loan shark payments, or participating in a street race where you’re allowed to crash other drivers. The high end is for risky gigs where the PCs need to use a lot of their special skills and will face multiple or ongoing threats, such clearing out all the gangsters from a hideout, breaking into a corpo building to steal data, or stealing from a well-guarded convoy.
 
 Remember that money is a squishy sort of resource, and how rich the characters feel will increase and decrease as the campaign continues. If the PCs end up with too much money (a very relative concept), you can always use forced downtime to have them spend a bit on rent and vacation. Maybe gigs become scarce because the cops are cracking down on crime. Or you could use a GM intrusion to get them to repair or replace an expensive cybernetic or piece of equipment. Or give them something really cool to spend their money on, like a vacation to the Moon or a super sexy car.
@@ -41354,6 +41616,7 @@ If characters are scrounging for money and you want to push some downtime, you c
 |Tier 6|1,500–4000|
 
 #### Splitting XP
+
 There are three primary ways that characters earn XP in the Cypher System: GM intrusions, character arcs, and GM awards for discoveries and story events. The assumption is that each character will spend about half their XP on immediate benefits (rerolling a d20) and short- and medium-term benefits, and half on advancement and long-term benefits. However, each player group probably has at least one outlier—the one who hoards XP for advancement and almost never uses it for rerolls, or who uses most of it on rerolls and rarely on advancement. Although both are reasonable options in a short-term game, in a long-term campaign where the characters reach tier 3 and higher, a character who rarely advances ends up weaker and with fewer options than a higher-tier character. For a long-term campaign, the GM can prevent this power disparity by using the following guidelines for spending XP:
 - XP from GM intrusions can only be spent on immediate, short, and medium-term benefits.
 - XP from character arcs can only be spent on long-term benefits and character advancement.
@@ -41364,7 +41627,9 @@ If you use this method, you might want to think of XP as falling into one of two
 You should also keep an eye on the individual XP totals for each character, just in case one character keeps ending up with a surplus of one kind and a scarcity in the other. (The player might be fine with this imbalance, but if not it’s an opportunity for you to balance the scales, either by trading XP between the two categories or using the next session to award more of the XP they need.) This method is also a good way to encourage players to choose character arcs if they want to advance to higher tiers, as they can’t rely on GM intrusion XP for advancement.
   
 ### Miscellaneous Tech Optional Rules
+
 #### 3D Printing
+
 Characters with access to a standard 3D printer can design and print small (fist-sized) items. The difficulty depends on the desired item’s complexity. Printing a simple figurine has a difficulty of 1. Printing something with moving parts, like a Zeerok pistol, has a difficulty of 3. Printing something involving a circuit board has a difficulty of at least 5, as does working with Plastiflesh.
 
 A standard print cycle takes ten minutes. A roll can be retried if failed, but the character has lost the time and materials used. All 3D printing tasks are eased by skill in programming. Other skills may be useful for manufacturing specific items; for example, medical training eases printing drugs by one step.
@@ -41384,6 +41649,7 @@ A RxHypo3D can print around 10 doses before the precursor chemicals must be repl
 
 
 #### Holograms
+
 A typical cyberpunk setting has hologram technology—projectors that create 3D sculptures out of light, typically used for advertisements, signs, and impressive art displays. Holograms obviously don’t look real; they’re translucent images that overlay whatever is behind them, and show up best when the ambient light level is low enough that the hologram appears much brighter than its surroundings, such as when it’s heavily overcast or at night. The hologram device is basically a cluster of tiny image projectors that work together in 3D space to create a semi-realistic image; obscuring or blocking one or more of the projectors degrades and disrupts the image, often with hideous results.
 
 A hologram projector in a typical apartment is used in conjunction with a television to augment the flat screen image with 3D elements, or as part of a communication device (holophone) to allow the user to talk to a 3D image of the other person on the line instead of a flat video call.
@@ -41393,6 +41659,7 @@ Optical cyberware can produce hologram-like images by directly sending data into
 Holograms have no physical substance; objects and creatures pass right through them, and a person doing so doesn’t feel any sensation except the flickering lights on their eyes. Theoretically, long exposure to a large, bright hologram might cause some discomfort, much like standing next to a powerful lamp can feel warm.
 
 #### Ultimate Damage
+
 Normally a character’s Effort score is the limit to how many levels of Effort they can apply to a task. However, in a cyberpunk game, firearms are ubiquitous, life-threatening injuries are common, and over-the-top violence is the norm. To represent this paradigm, treat a character’s Effort score as 6 for the purpose of applying levels of Effort to damage. In other words, when it comes to using Effort for extra damage, a character can exceed their normal Effort limit (but not beyond the normal maximum of 6 levels of Effort).
 
 Applying Effort still costs the normal amount: 3 for the first level, 2 each for the second through sixth. (Quite an expensive option for a low-tier character with a low Edge.)
@@ -41404,6 +41671,7 @@ Although the Cypher System normally allows players to decide that an attack whic
 For NPCs, the ultimate damage rule increases the damage for their unusual attacks by an amount equal to the NPC’s level. What an “unusual attack” is depends on the NPC; it might be a basic extra-damage GM intrusion from a PC rolling 1 on a Speed defense roll, the explosion GM intrusion from a mechanical soldier, or when an assassin attacks from hiding. (In any case, it shouldn’t affect the typical damage the NPC inflicts with its normal attack every round.)
 
 #### Weapon Variations
+
 Variations are small tweaks to a common weapon, giving it an unusual benefit or detriment that makes it stand out. Rather than filling the Equipment section with dozens of near-identical weapons (which would be cumbersome to read and use), like one brand-name pistol having a six-round clip and another having an eight-round clip, you can use the Weapon Variations Table to quickly make a weapon just a little bit unique. For simplicity, roll on the table once each session that any character picks up a new weapon.
 
 Unless a weapon’s variation is that it’s famous or visually distinctive, the only way to discover a weapon’s variation is by using it, either in combat or a practice situation (such as a shooting range).
@@ -41468,6 +41736,7 @@ Weapons Variations Table
 |99–00|Roll twice for two good results|
 
 #### Wild Firing
+
 Abilities like Spray and Arc Spray allow a character to fire multiple shots in one round, which is defined as five to ten seconds long. Obviously, even “single shot” 21st-century firearms like revolvers are able to fire more than once every few seconds, but a typical character can only fire once per round if they want a chance of hitting. The wild firing rule allows a character to shoot multiple times in a round, even without Spray or Arc Spray, but their odds of hitting are much lower.
 
 As an action, a character can make a wild firing attack with a firearm, sending multiple shots in the general direction of their foe. This attack is hindered by two steps. If it hits, it inflicts 1 less point of damage than normal (and if the weapon has an attachment or feature that inflicts additional damage, such as electricity or fire, the attack doesn’t include this damage).
@@ -41495,7 +41764,9 @@ If a character with a firearm is helping an ally’s attack or creating a distra
 Unless otherwise stated, a firearm holds ten bullets. Reloading a weapon (either with individual bullets or swapping in a new clip) is an action.
 
 ## Characters
+
 ### Cyberpunk Types
+
 The standard character types are meant to be generic enough to allow you to create most characters in any genre, especially with the use of flavors. However, it’s also possible to directly customize the various types so they fit the parameters of a specific genre. This section presents an updated cyberpunk variant of each of the four standard types, focusing on the changes to the rules content for those types (use the standard versions of the type’s Individual Role, Group Role, Societal Role, and Advanced information).
 
 Cyberpunk is a near-future genre where technology and firearms are common. To account for this, the types in the Cypher System Rulebook have been updated as follows:
@@ -41505,6 +41776,7 @@ Cyberpunk is a near-future genre where technology and firearms are common. To ac
 - Tech: A variant of the Adept, without overtly supernatural abilities, and with technological options and additional abilities relating to guns.
 
 #### Standard Cyberpunk Abilities
+
 In a cyberpunk world, easy access to computers, hacking, and cybernetics means that all characters (regardless of type) can choose the following type abilities. Unlike choosing an ability from a flavor, the character isn’t required to permanently give up access to one of their type’s abilities—all of these options are in addition to the possible choices from their type’s ability list.
 Tier 1
 - Optical Hack (2+ Intellect points): You reboot the technological optical sensors of a target within short range (such as a robot, surveillance camera, or person with cybernetic optics). If your Intellect-based attack against them succeeds, the target is blinded for one round. In addition to the normal options for using Effort, you can choose to use Effort to increase the range (long for one level of Effort, very long for two, or 1000 feet (300 m) for three). Action.
@@ -41534,9 +41806,11 @@ Netrunning is a more intensive form of hacking, requiring a deeper connection an
   
 
 #### Solo  
+
 The Solo type is a cyberpunk variant of the Warrior. Mercenaries, soldiers, security guards, assassins, brawlers, and police officers are usually Solos.
 
 ##### Solo Stat Pools
+
 Stat Pool Starting Value
 - Might 10
 - Speed 10
@@ -41544,6 +41818,7 @@ Stat Pool Starting Value
 You get 6 additional points to divide among your stat pools however you wish.
 
 ##### First-Tier Solo
+
 First-tier Solos have the following abilities:
 - Effort: Your Effort is 1.
 - Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
@@ -41576,6 +41851,7 @@ Most people in a cyberpunk setting don’t wear armor, except maybe a flak jacke
 - Trained Without Armor
 
 ##### Second-Tier Solo
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Armored Chrome
 - Bonus Cypher App
@@ -41590,6 +41866,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Successive Attack
 
 ##### Third-Tier Solo
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Deadly Aim
 - Energy Resistance
@@ -41605,6 +41882,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Vigilance
 
 ##### Fourth-Tier Solo
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Amazing Effort
 - Capable Warrior
@@ -41618,6 +41896,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Tough As Nails
 
 ##### Fifth-Tier Solo
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Arc Spray
@@ -41631,6 +41910,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Parry
 
 ##### Sixth-Tier Solo
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
 - Finishing Blow
@@ -41643,6 +41923,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 The Hotshot type is a cyberpunk variant of the Explorer with a knack for using technology. Burglars, drivers, and scouts are usually Hotshots, as are some hackers and soldiers.
 
 ##### Hotshot Stat Pools
+
 Stat Pool Starting Value
 - Might 10
 - Speed 9
@@ -41650,6 +41931,7 @@ Stat Pool Starting Value
 You get 6 additional points to divide among your stat pools however you wish.
 
 ##### First-Tier Hotshot
+
 First-tier Hotshots have the following abilities:
 - Effort: Your Effort is 1.
 - Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
@@ -41685,6 +41967,7 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 - Trained Without Armor
 
 ##### Second-Tier Hotshot
+
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Armored Chrome
 - Bonus Cypher App
@@ -41707,6 +41990,7 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 - Wreck
 
 ##### Third-Tier Hotshot
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Controlled Fall
 - Experienced in Armor
@@ -41723,6 +42007,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Wrest From Chance
 
 ##### Fourth-Tier Hotshot
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Capable Warrior
 - Expert Skill
@@ -41734,6 +42019,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Robot Fighter
 
 ##### Fifth-Tier Hotshot
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Control Machine
@@ -41748,6 +42034,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Vigilant
 
 ##### Sixth-Tier Hotshot
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Again and Again
 - Inspire Coordinated Actions
@@ -41758,9 +42045,11 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Spin Attack
 
 #### Broker
+
 The Broker type is a cyberpunk variant of the Speaker without the overtly supernatural abilities. Fixers, journalists, media stars, corpos, and public relations specialists are usually Brokers.
 
 ##### Broker Stat Pools
+
 Stat Pool Starting Value
 - Might 8
 - Speed 9
@@ -41768,6 +42057,7 @@ Stat Pool Starting Value
 You get 6 additional points to divide among your stat pools however you wish.
 
 ##### First-Tier Broker
+
 First-tier Brokers have the following abilities:
 - Effort: Your Effort is 1.
 - Clever: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
@@ -41801,6 +42091,7 @@ First-tier Brokers have the following abilities:
 - Understanding
 
 ##### Second-Tier Broker
+
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Armored Chrome
 - Basic Follower
@@ -41817,6 +42108,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Unexpected Betrayal
 
 ##### Third-Tier Broker
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Beckon Hack (3 Intellect points): You hack a foe’s brain implant, tricking them into hearing or seeing something they think they need to investigate. They might interpret this as someone calling their name, an ally waving for them to approach, or a text message asking them to move to a specific location. If your Intellect-based roll against the creature is successful, on their next turn they move up to a short distance to where you indicated, without thinking anything is amiss. The foe must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so you can’t make them step off of a roof or into a trash compactor. Once the creature moves to the designated location, they are free to act normally (depending on the circumstances, they might think they imagined or misheard the call, that someone is playing a trick on them, or there is something suspicious going on). The foe can still defend themselves normally and return an attack if one is made on them. Action.
@@ -41833,6 +42125,7 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 - Telling
 
 ##### Fourth-Tier Broker
+
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Anticipate Attack
 - Confounding Banter
@@ -41846,6 +42139,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Robot Fighter
 
 ##### Fifth-Tier Broker
+
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Control Machine
@@ -41868,11 +42162,13 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - True Senses
 
 #### Tech
+
 The Tech type is a cyberpunk variant of the Adept without any overtly supernatural abilities. Hackers, medics, netrunners, choppers, and mechanics are usually Techs.
 
 Tech (the character type encompassing several kinds of character concepts) and tech (the flavor) aren’t the same thing. If you’re playing a character with the Tech type, feel free to write a more specific name (like “hacker” or “chopper”) on your character sheet if that’s your preference.
 
 ##### Tech Stat Pools
+
 Stat Pool Starting Value
 - Might 7
 - Speed 9
@@ -41880,6 +42176,7 @@ Stat Pool Starting Value
 You get 6 additional points to divide among your stat pools however you wish.
 
 ##### First-Tier Tech
+
 First-tier Techs have the following abilities:
 - Effort: Your Effort is 1.
 - Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
@@ -41919,6 +42216,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Understanding  
 
 ##### Third-Tier Tech
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Adroit Cypher Use
 - Beckon Hack (3 Intellect points): You hack a foe’s brain implant, tricking them into hearing or seeing something they think they need to investigate. They might interpret this as someone calling their name, an ally waving for them to approach, or a text message asking them to move to a specific location. If your Intellect-based roll against the creature is successful, on their next turn they move up to a short distance to where you indicated, without thinking anything is amiss. The foe must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so you can’t make them step off of a roof or into a trash compactor. Once the creature moves to the designated location, they are free to act normally (depending on the circumstances, they might think they imagined or misheard the call, that someone is playing a trick on them, or there is something suspicious going on). The foe can still defend themselves normally and return an attack if one is made on them. Action.
@@ -41932,6 +42230,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 - Targeting Eye
 
 ##### Fourth-Tier Tech
+
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Death Touch
 - Limited Camouflage (3 Speed points): You activate camouflage software that alters your appearance to match an adjacent large object such as a wall, cabinet, or vehicle. Everyone who was observing you completely loses track of you. Although you’re not invisible, you can’t be seen until you reveal yourself again by making an attack or moving away from the object. Action.
@@ -41945,6 +42244,7 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Task Specialization
 
 ##### Fifth-Tier Tech
+
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Control Machine
 - Knowing the Unknown
@@ -41956,6 +42256,7 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
   Zeerosh products are low-quality and tend to break quickly, but their custom 3D-printing and rapid delivery service for important customers are top notch.
 
 ##### Sixth-Tier Tech
+
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 - Amplify Sounds
 - SHITS Hack (7 Intellect points): A foe within short range temporarily experiences SHITS and spends its next turn attacking the nearest creature (if multiple creatures are the same distance away, you can choose which one they attack). As long as you continue to use your action each turn to maintain this berserk state in the target, they continue to attack the nearest creature (switching to a new creature if their current target drops). This effect ends when you stop using your action to control the foe, or if they are out of short range. Action to initiate.
@@ -41967,7 +42268,9 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 - Total Awareness
 
 ### Cyberpunk Descriptors
+
 #### Addicted
+
 You are addicted to a drug, probably something illegal, expensive, or both. You are usually in control enough to be a functional adult, holding down a job and maintaining some personal relationships, but the hunger is always there, threatening to fuck up your life. You have a unique insight about crime, or at least how to interface with the criminal world so you can get your next score. You know you have your addiction under control—your drug of choice helps you cope with your illness, or the crapsack world you live in. Or you’re looking for help. Or you need to hit rock bottom before you realize how serious your problem is. Or maybe you’re too stubborn to realize this’ll kill you sooner rather than later. People who know about your addiction might pity you, want to save you, or dismiss you as a junkie.
 
 You gain the following characteristics:
@@ -41985,6 +42288,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. One PC has been your friend since before you became an addict, and you want to keep them around.
 
 #### Corpo
+
 You have (or had) a successful career working for a megacorporation, climbing your way up through the ranks. You’ve kissed ass and backstabbed as much as you needed to in order to survive the capitalist rat race. You’re smart, manipulative, and observant. Maybe you’re still employed there, with a “safe” promotion that’s giving you some time to take a breather before your next goal. Maybe you were fired for cause, or cut loose to improve the corporation’s end-of-quarter profit. You might be a loyalist looking to get back in, or vengeful and ready to see what other opportunities avail you.
 
 If you have the Corpo descriptor, you should pick one of the megacorporations in the GM’s setting as part of your work history.
@@ -42006,6 +42310,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You suspect that assisting the other PCs might give you a long-term advantage towards your goals or against your enemies.
 
 #### Engram
+
 A common refrain within this uncommon demographic. You’ve got some chrome—who doesn’t?—but you thought you were human at the core. As it turns out, you’re not a mammalian body with machine augmentations. You’re a machine intelligence housed in a body constructed from biological components. You’re an engram—an AI personality based on someone else’s consciousness.
 
 Short of an x-ray, invasive medical procedure, or catastrophic injury, you seem normal enough. You may have recently found out you’re an engram, harbor suspicions that something isn’t quite right, or begin the adventure oblivious to your own android nature.
@@ -42024,6 +42329,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You overheard the PCs discussing something interesting and warned them of a potential flaw in their plan.
 
 #### Furious
+
 You always feel like you’re a hair-trigger away from giving in to an unthinking rage. You may have a mild case of SHITS, or suffer an illness or injury that makes you prone to violent outbursts. You might do your best to hide it or control it, or perhaps you have given up trying to tame it and you let it run wild. Either way, it seems to cause you—and those around you—grief more often than not.
 
 You gain the following characteristics:
@@ -42043,6 +42349,7 @@ From the following list of options, choose how you became involved in the first 
 4. After seeing you fight, one of the other PCs invited you to join.
 
 #### Luddite
+
 You’ve made it this far without having any cybernetic implants—an extreme outlier in a world where they’re as common as eyeglasses. You should decide the reason why you don’t have any—religious objection, allergic to synthetic materials, poverty, or simply lucky (or talented) enough to never have needed them. You might be open and obvious about this, or try to keep it a secret (perhaps using scars or tattoos to make it look like you aren’t a luddite).
 
 You gain the following characteristics:
@@ -42059,7 +42366,9 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. A chromed PC helped you overcome a bad situation; now you’re trying to make it up to them.
 
 ### Cyberpunk Foci
+
 #### Appropriate Cyberpunk Foci
+
 The following foci from the Cypher System Rulebook are all appropriate for a cyberpunk setting and can be used as is.
 - Battles Robots
 - Builds Robots
@@ -42106,6 +42415,7 @@ The following foci from the Cypher System Rulebook are all appropriate for a cyb
 - Would Rather Be Reading
 
 #### Cyberware-Derived Abilities
+
 Various character abilities mentioned or described in this book are accompanied by this symbol. In a typical cyberpunk setting, these abilities are beyond what a normal human can achieve or accomplish. Therefore, if your character has that ability, the source of that ability is some kind of cyberware—something your character has acquired and installed.
 
 Your character doesn’t have to pay money for this cyberware or spend time having it installed; it happens as part of selecting that ability at character creation or when you gain the ability from advancement. Likewise, these cybernetics can’t be swapped out like other items from that section. If you replace that ability (such as by advancing to a new tier and replacing one of your existing abilities), the cyberware goes with it automatically, without spending time or money.
@@ -42117,6 +42427,7 @@ A character with the Luddite descriptor cannot choose an ability with this symbo
 For foci available from other sources (such as the Cypher System Rulebook), the GM should decide which of the character’s focus abilities fit this category. As a guideline, anything that obviously relies on technology, would be impossible for a regular person to do, or would require “special effects” if shown in a film or television show should require cyberware, which (like the foci presented here) happens automatically when the character selects that ability.
 
 #### Making Foci Cyberpunk
+
 The Cypher System Rulebook has nearly one hundred character foci to choose from, but some of them aren’t particularly suited for a cyberpunk campaign because they refer to magic, telepathy, or technology that isn’t available in this sort of setting. A focus such as Awakens Dreams is a reasonable choice for a fantasy setting, or even a modern or futuristic setting with psychic powers, but it would be out of place if used as-is for cyberpunk.
 
 This section gives advice on adapting these particular foci for a cyberpunk setting.
@@ -42138,9 +42449,11 @@ Talks to Machines: The character may have a unique organic brain that can easily
 Fuses Flesh and Steel. This focus in the Cypher System Rulebook assumes a setting where cybernetics are rare or experimental. In particular, the Enhanced Body ability is powerful, but has a drawback that the character’s inorganic parts have to be repaired rather than healing naturally like flesh. In a typical cyberpunk setting, cybernetics have advanced beyond that early technology, and self-repair mechanisms (whether using nanobots or some other technology) allow a cyborg character to heal without needing repairs like a machine. The new cybernetic foci presented in this section present alternatives to Enhanced Body—less powerful, but without the requires-repair drawback. The GM may allow a character to choose Fuses Flesh and Steel as their focus, perhaps representing an older character with obsolete or “retro” technology, but most players who want a heavily-chromed character focus should instead select one of the new foci presented here.
 
 #### Cyberpunk Foci
+
 Some foci presented in this section provide a “type swap option” that allows a player to swap an ability that would otherwise be gained from their type for the indicated ability instead. A player doesn’t have to make the swap; they merely have the option. For instance, the Is a Walking Tank focus provides the option to gain the ability Hidden Shield instead of a type ability.
 
 ##### Embeds Stealthtech
+
 Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are meant for stealth and infiltration. You almost certainly have synthetic materials and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -42179,6 +42492,7 @@ Tier 6
 Embeds Stealthtech GM intrusions: The character’s overconfidence leads to a clumsy outcome. An overzealous maneuver places the character in harm’s way.
 
 ##### Explores Cyberspace
+
 You’ve always been fascinated by cyberspace, its architecture, and the wealth of data it contains. You may have started out as a hacker, programmer, or data administrator, but viewing the internet on a screen was never enough for you. You’re driven by the urge to transcend your body, to enter a complete simulation of that nonsensical nonspace. You’re a netrunner, hooked on the thrill of jacking into the matrix, where you interact with physical manifestations of AI, software, and viruses.
 
 You might enter the matrix for legitimate reasons, such as for your job or education—or maybe you make a point of going where you’re not welcome, stealing and selling proprietary data. With access to a computer or terminal, you plug yourself in and you’re off to the races.
@@ -42220,6 +42534,7 @@ Tier 6
 Explores Cyberspace GM Intrusions: A bit of lint or dust lodged in a datajack causes an unstable connection. Netrunning requires a working console or computer. Prolific data thieves may catch the attention of rivals and adversaries
 
 ##### Hacks the Network
+
 AI and the countless networks integrated into every part of life are as ubiquitous as air and, to most people, about as noticeable. Not you. From the moment you first realized that networks ran on an underlying “Ur” tongue, a code of mathematics and logical symbols, you were hooked. It wasn’t your goal to learn everything you could about hacking computers so much as there was nothing else for you. As a thrown stone follows its trajectory, you learned to hack the network.
 As long as you have access to a computer, hand terminal, or other connection, you accomplish your goals by working the code. You might have a few extra pockets for high-energy snacks and spare storage medium, as well.
 
@@ -42259,6 +42574,7 @@ Tier 6
 Hacks the Network GM Intrusions: It’s nearly impossible to write perfect code on the first try. Hackers who make a name for themselves can become targets of other hackers. Hacking requires a working computer, hand terminal, or other device.
 
 ##### Has a Custom Drone
+
 You’re a genius with drones—building them, controlling them, and repairing them. You’ve created a unique drone with a limited artificial intelligence; it follows your commands like it’s an extension of your thoughts. As you advance, you learn and discover new ways to update your drone and give it additional abilities, and how to control multiple drones at once. You may think of your drone as a tool, pet, or sidekick; it sees you as a best friend or beloved parent.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -42305,6 +42621,7 @@ Tier 6
 Has a Custom Drone GM intrusions: The drone gets hacked. The drone acts erratically. The drone runs out of power. The drone thinks an ally is a foe.
 
 ##### Has Eyes Everywhere
+
 Let’s be honest: you live in a surveillance state. Security cameras on every corner, smartphones that track the user’s activity, cybernetics that track the wearer’s movements … It’s nearly impossible to avoid being tracked, but you’ve made the most of it. You hack into these surveillance networks and use your unauthorized access to monitor your environment.
 
 It’s up to you what you do with this access. You may serve as a lookout for criminal associates, work dispatch for local vigilantes, or just keep an eye on the neighborhood. You likely have multiple phones and computers, alternating between them to obfuscate your activities.
@@ -42349,6 +42666,7 @@ Tier 6
 Has Eyes Everywhere GM Intrusions: Security cameras malfunction. Video data is corrupted or deleted. Subjects of surveillance may attempt to retaliate.
 
 ##### Is a Walking Tank
+
 Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are meant for defense and protecting others. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -42432,6 +42750,7 @@ Tier 6
 Knows Everything GM Intrusions: Research leads to dead ends or falsehoods. Some people don’t trust a person with such powerful mental enhancements.
 
 ##### Packs Chromed Heat
+
 Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and they assist you with ranged combat. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -42471,6 +42790,7 @@ Tier 6
 Packs Chromed Heat GM intrusions: A firearm jams or overheats and can’t be used for a couple of rounds (perhaps requiring the character to take an action to correct the problem). A software error makes the character attack the wrong foe.
 
 ##### Weaponizes Chrome
+
 Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are specialized for melee combat. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -44137,11 +44457,13 @@ Vigiwatch® Remote Driving: Owner can remotely drive their vehicle using a paire
 
 
 ## Cyphers
+
 A typical cyberpunk campaign uses a mix of subtle cyphers and manifest cyphers. In most cases, it doesn’t matter if a cypher is subtle or manifest.
 
 Characters who are part of the campaign’s chrome culture or hacker culture often use slang names for common cyphers. For example, a hacker might call an Intellect booster cypher “digital coffee,” a mind stabilizer “personal ICE,” and an Intellect defense skill boost “countermeasures.”
 
 ### Manifest Cypher Forms
+
 - Circuit board
 - Chip (roughly the equivalent of a thumb drive)
 - Food tube
@@ -44149,6 +44471,7 @@ Characters who are part of the campaign’s chrome culture or hacker culture oft
 - Pill
 
 ### Pharmaceutical Cyphers
+
 Many cyphers in a cyberpunk setting are some kind of drug—perhaps a street drug, designer drug, or megacorporation-crafted combat drug. Altogether, these are considered “pharmaceutical cyphers,” and they include most inhaler and pill cyphers. Character abilities and other game mechanics that affect poisons have a similar effect on pharmaceutical cyphers (although these shouldn’t prevent a character from intentionally using a pharmaceutical cypher).
 
 ### Apps As Cyphers
@@ -44273,6 +44596,7 @@ Level: 1d6
 Effect: Aids the user’s ability to notice being hacked, detect the digital presence of hackers and bots in a system, and resist hacks and digital attacks from hackers and bots. These tasks are eased (by two steps for cypher level 5 and higher) for ten minutes per cypher level.
 
 ## Artifacts
+
 Artifacts are prototype, experimental, highly regulated, or otherwise rare devices that aren’t generally for sale. They usually only end up in the hands of PCs as a reward for a job, loot from a fallen foe, or the spoils of a mission. Some artifacts are cybernetics (requiring surgery to install or remove), others are like regular equipment or vehicles (easily traded between people).
 
 Like a cypher, every artifact has a level. An artifact also has a depletion stat, written as a number range on a die roll, such as 1–2 in 1d10. When an artifact is used or activated, the player rolls the designated die. If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of “—” means that the artifact never depletes, and an entry of “automatic” means that it can be used only once.
@@ -44931,8 +45255,11 @@ Depletion: 1 in 1d20 (check each month)
 ## Creatures
 
 # Weird West
+
 ## Setting
+
 ## Characters
+
 ### Suggested Types for a Weird West Game
  
 |Role|Type|
@@ -44948,9 +45275,11 @@ Depletion: 1 in 1d20 (check each month)
 |Alchemist/Engineer|Adept with technology flavor|
 
 #### Alternate Character Roles
+
 If your setting is better described with a comparison “like the shows Firefly or Westworld but with X,” you might consider an alternate slate of roles, possibly types suitable for a science fiction game where PCs can be pilots, scientists, technicians, and so on. Alternatively, a mix of both the roles noted here and those indicated for a science fiction game might work best for your game.
 
 ### Weird West Descriptors
+
 In a weird west setting, as elsewhere, descriptors are designed to provide additional information about how and why characters take actions. Descriptors provide motivation and incentive, and place characters in the starting adventure.
 - Standard
 - Grizzled
@@ -44965,9 +45294,11 @@ Species
 - Risen
 
 #### Species Advancement
+
 The Forgeborn and Risen descriptors include suggestions for how to advance or improve a PC’s inherent nature as that sort of creature (becoming even more forgeborn if you are a made being, for example). You can allow a character with such a descriptor to choose any of the indicated abilities (plus any others you feel are appropriate for the descriptor) in place of a type ability, either upon advancing to a new tier, or as a character advancement option in exchange for 4 XP.
 
 #### Forgeborn
+
 Forgeborn—also called golems—are animate figures of metal, reanimated flesh, or other normally inert materials. Forgeborn are constructed for a specific purpose; their primary task is often to guard the alchemist that made them. As such, they usually ain’t playing with a full deck when it comes to brains. You’re different—somehow, you got a fully developed sense of self, and either never had or lost your compulsion to serve your maker. Maybe your alchemist creator emancipated you once they understood your animated form contained a fully realized mind, or maybe you ran away when the chance offered itself. Either way, you’re on your own now, choosing your own goals and jobs.
 
 Most folks who see you don’t immediately realize you’re not on the short leash of someone nearby. Maybe that’s fine by you, since that keeps them from interfering in your business or asking too many pesky questions. Other times, you can’t help it, and proudly proclaim your independent status to anyone and everyone.
@@ -45014,6 +45345,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You don’t suffer fools, and the way things were going, the PCs would’ve failed without you.
 
 #### Laconic
+
 You’re a soul of few words—or no words at all, when a shrug or nod will do. Now there’s some who’ll flap their jaws about everything that comes into their head. Sometimes they get under your skin. But you don’t upbraid them; nope—you just frown. You’re direct and to the point, avoiding elaboration. You’re comfortable with pauses, and when you do speak, your words carry extra weight. All that said—and that’s a hell of a lot more than you would say—you don’t mind other folks. Just their prattle.
 
 You gain the following characteristics:
@@ -45028,6 +45360,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You were wrongfully fingered for a crime, and the PCs believed your side of the story.
 
 #### Risen
+
 You died. Now you’re back. Except not completely—you’re what them alchemists call a necrovore, or as regular folks whisper in your wake, Damned. And perhaps you do bear a sigil branded onto your flesh by a demon from Perdition. Maybe your situation is the result of some other curse that pulled you screaming back into animation. Or you might be called back from death due to your own need to finish a task you failed to accomplish before life fled.
 
 Whatever the cause, you no longer breathe, your eyes dimly shine and blink only when you remember to, and your skin takes on an unnatural pallor.
@@ -45056,6 +45389,7 @@ Risen Advancement:
 - Not Dead Yet
 
 #### Slick
+
 You’ve got a silver tongue. Some of that’s down to natural talent, but your polished persona is mostly a product of constant practice. You’ve spent long hours mastering your ability to manipulate games of chance, run elaborate confidence games to get the better of your enemies, and hold yourself confidently. Plus, you’ve learned how to dress well—a well-turned-out individual is always taken more seriously, or such has been your experience, so you usually dress to impress.
 
 You gain the following characteristics:
@@ -45073,6 +45407,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You helped the PCs get out of trouble with the law by winning a bet with their jailer.
 
 #### Trailblazing
+
 You ain’t afraid to explore badlands, high plains, or weirder locales. That’s down to your pioneering spirit. Others like to stick close to what’s known, but you like to ride out to see places others can’t even imagine. Fear of the unknown is something you just don’t understand; it’s the known that makes you afraid. Spending too much time in one place makes you itchy and irritable. You live for the next time you’re blazing a fresh trail, scouting a new territory, and coming around another bend just to see what’s up ahead.
 
 You gain the following characteristics:
@@ -45090,6 +45425,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You saw the PCs from afar, figured something interesting was happening, and wanted to be part of it.
 
 #### Trigger-Happy
+
 You’re not just fast, you’re lightning fast. Quick‑thinking and nimble, you’re swift to act in critical situations—chiefly, when you’re in a showdown with another gunslinger. Some say you’re a little too fast on the draw. But any time folks call you “trigger‑happy” as if it’s a put‑down, you just smile, because they’re burnishing your reputation. Your rapid reaction time comes in handy in all sorts of situations. ’Course, nothing is ever as important as putting a bullet in an opponent before they do the same to you.
 
 You gain the following characteristics:
@@ -45106,6 +45442,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You showed up when and where you did on a dare—because, hey, you don’t back down from dares.
 
 #### Unforgiving
+
 They done you wrong and you ain’t gonna rest until they’ve paid the price. Maybe the crime or betrayal that befell you was long ago, and you’ve been looking for the perpetrators’ trail ever since, with only limited luck. Or maybe it happened recently, when your life as you knew it ended. Did you lose a spouse? A child? A community?
 
 You go about other tasks in the meantime, but you’ve become someone with an extra, underlying goal: vengeance. If you can only figure out who deserves it and/or where they’re hiding, and/or maybe even who they are in the first place.
@@ -45127,6 +45464,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You have no idea how you joined the PCs. You’re going along with it until a chance to gain vengeance presents itself.
 
 #### Wily
+
 You’re a real sly dog if ever there was one. Quick‑thinking and hard to cheat, folks would be plum foolish to take what you say at face value, ’cept for your friends, of course. You know how to work most any situation to your advantage. You’re not so much a silver‑tongued devil as you are a few steps ahead of whatever’s about to happen.
 
 Others rely on their looks or their charm to get ahead in the world, and you can’t help but smirk when you consider their shortcomings. No sir, for you, it’s all about that gray stuff between your ears.
@@ -45146,11 +45484,13 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You’re one hundred percent certain the other PCs will fail if you don’t come along.
 
 ### Foci of the Weird West
+
 Because these new foci were created specifically for the weird west genre, each has an expanded description with more story details than the foci in the _Cypher System Rulebook_ (which have short, broad descriptions suitable for being adapted to many different genres).
 
 The GM and player should adjust focus details to suit the specific campaign.
 
 #### Blazes Paths
+
 You read the land. You know every twisted arroyo, spiny cactus, and change in the weather. And what you don’t know, you soon learn by sniffing the wind, tasting the dirt, and squinting across the wilderness landscapes. As you go, you mark the way for others to follow, notching trees or scribing stones with your personal symbol. As you become more and more accomplished, the network of trails you’ve blazed enhances not only your reputation as a pathfinder, but also your personal spiritual strength, allowing you to see what’s happening along them, to flash along the miles you blazed in mere moments, and even return to the first time you ever set foot on a trail.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45187,6 +45527,7 @@ Tier 6
 - Trail Cypher: Choose one cypher that you carry. The cypher must have an effect that is not instantaneous. You destroy the cypher and embed its power into a trail you’ve blazed. Any time you are on that trail or a connecting trail, you gain the effect of that cypher continuously. You can choose a cypher when you gain this ability, or you can wait and make the choice later. However, once you embed a cypher into your system of trails, you cannot later switch to a different cypher—the ability works only once. Action to initiate.
 
 #### Collects Bounties
+
 You know just where to look to find the latest wanted posters. Each one that goes up on the side of the jail or the wall of the post office is potentially another job and another reward. But money’s only half the deal—you also do it for the rush when you finally apprehend someone you’ve tracked across three territories. Some folks prefer to collect bounties without any undue fuss. But it wouldn’t be fun if those you stalk don’t put up a fight when you finally find them. And if it’s a fight, well, they’d best watch themselves. Most bounties you take on are advertised as dead or alive. You’d prefer them alive so they can face justice, but if it’s down to you or them, that’s no choice at all.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45225,6 +45566,7 @@ Tier 6
 - Lethal Damage: Choose one of your existing attacks that inflicts points of damage (depending on your type and focus, this might be a particular pistol, a special ability such as a blast of fire, or your unarmed attacks). When you hit with that attack, you inflict an additional 5 points of damage. Enabler.
 
 #### Gambles It All Away
+
 How long have you been haunting the card tables? Seems like a lifetime. You probably played your first hand of poker before you could even read words. People, though, were much easier to understand. You could always read other folks’ tells, whether that’s squinting, tapping, stammering, pulling at their earlobe, or any of a thousand other ways you know when to call their bluffs. Which is not to say you haven’t walked away from the table in the hole. But you’ve always been able to make it up later. So far, anyway. Lately, you’ve been having weird dreams of loss and void. Is Lady Luck fixin’ to turn her back on you? You hope not, because there ain’t nothing in the world keeping you from gambling it all away.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45265,6 +45607,7 @@ Tier 6
 Enabler.
 
 #### Hits The Saloon
+
 The saloon is an old friend, whether or not you visit the same one twice. Whatever the name on the sign out front, the pungent smells of whiskey, cigars, and sawdust lift your spirits like nothing else. ’Cept for actual spirits, of course. When that first shot hits your throat and sets a warm blaze in your belly, you can’t keep a smile from your lips. This here’s your home away from home, and inside are your friends, both old and those soon to be made. Though not everyone’s happy to see you—troublemakers soon learn that in a scrap, you only hit harder with each shot of whiskey you pour down your throat.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45303,6 +45646,7 @@ Tier 6
 - Lethal Damage: Choose one of your existing attacks that deals damage (depending on your type and focus, this might be a specific weapon, your unarmed attacks, or maybe a bottle of whiskey). When you hit with that attack, you inflict an additional 5 points of damage. Enabler
 
 #### Rides Like the Wind
+
 Few things feel more empowering than when you jump into the saddle and ride! Maybe you have a special mount called Thunder, Caballo, Dusty, or a name you don’t share with others. Or perhaps any mount will serve, because you’re just that skilled in the saddle. Whatever the case, when you and your mount are moving, other folks say they have a hard time figuring where one of you stops and the other begins—you act as a single creature that almost nothing can stop.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45343,6 +45687,7 @@ Tier 6
 - Tornado Rider (7 Speed points): Your mount’s flashing hooves churn up a small tornado, lifting you and your mount a long distance into the eye of the supernatural storm. The tornado moves as you direct it up to a short distance each round for up to five minutes or until you dismiss it. The swirling winds damage creatures, objects, and structures within short range of the tornado’s eye. Each round, creatures in the area take 3 points of damage due to debris on the wind. Attempts to damage objects or structures with your tornado are eased by two steps. Action to initiate.
 
 #### Spits Fire and Lead
+
 You once crossed paths with a fiery demon, learned a bit of blazecraft from an alchemist, or maybe just always had a special talent for starting fires. That and your love of letting your six‑shooters bark combine to make you the feared gunfighter that you are today. You might have developed a reputation already as you move between plains and badlands, using your uncanny skills to avenge, promote justice, or just enrich yourself. Whatever the case, it’s how you’ll acquit yourself when, inevitably, you draw your burning iron.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45393,6 +45738,7 @@ Tier 6
 - Never Miss a Shot: If you shoot at a target and miss, reroll. If you hit, it’s because your shot ricochets off a nearby surface and actually hits, inflicting 2 fewer points of damage. Each time you reroll the same shot, 2 more points are deducted from the total damage, until the wildly ricocheting shot finally hits its target or the damage amount goes to 0. Enabler.
 
 #### Strikes Like a Rattler
+
 Your body is a venomous weapon able to cripple and kill. Watchful as a coiled rattlesnake, you’re ready to evade an attacker, then strike back with fists, elbows, knees, or feet that sink into flesh with the speed of fangs. Fact is, you’ve got a supernatural connection to venomous serpents, the rattler in particular. That spiritual fusion empowers you both offensively and defensively, maybe even eventually giving you power over snakes, or allowing you to become a serpent avatar after shedding your skin.
 
 Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -45438,7 +45784,9 @@ Tier 6
   If you apply a level of Effort when you make an attack with this ability (either to increase the odds of hitting or to increase damage), you can also choose to spin about as you spray venom, attacking every creature you choose within short range, and the improved chance to hit or deal damage applies to each attack. As with the base use, even on a miss, you inflict 1 point of damage. However, spinning as you spray venom is dizzying, leaving you dazed for a round afterward, during which time all your tasks are hindered. Action.
 
 ## Extra Rules
+
 ### PLAYING POKER  
+
 The most obvious way you’d use physical cards in a Cypher System game is by actually playing a few rounds of poker (like Texas hold ’em, five‑card draw, and so on), blackjack, faro, or some other card game when the characters have gotten themselves into an especially important in‑world card game.
 
 Usually, this means that you, the GM, will be standing in for one or more NPCs. The upshot is that every NPC poker player effectively has the same skill playing the game as you have, regardless of how good the NPC should be according to their stats. The same may be true of players, but at least they’re only simulating their single character; you could end up playing for multiple different NPCs over the course of a weird west campaign.
@@ -45446,32 +45794,39 @@ Usually, this means that you, the GM, will be standing in for one or more NPCs. 
 The following options can help you simulate different styles of play for different NPCs.
 
 #### Simulating NPC Poker Players
+
 Hard‑bitten gamblers who make their living at the card tables fall into individual styles. A handful of play styles are recognized, categorized by a cardplayer’s tendencies at various stages during a particular hand. The intricacies of those styles have their place, but not here. Instead, this optional rule provides five streamlined and broad categories, paired with some guidance on how you as the GM can “cheat” to make a given NPC’s play style more like the person you’re standing in for at the table. Make sure to let players know you’ll be using this method ahead of time, because otherwise some could misunderstand and think you’re actually cheating, which wouldn’t be fun for anyone.
 
 ##### Ace
+
 This NPC is an expert player who understands the intricacies of the game, how to bluff, and how to read the other players. They’re one of the best card sharks the PCs are ever likely to face.
 
 One way you can simulate this style of play is that you get two extra cards any time you draw cards for your hand, from which you can choose to make the best winning hand possible. For example, if you’re playing Texas hold ’em, you’d get four private cards (“hole cards”) instead of two that you’d use in combination with the community cards to make the best hand possible.
 
 ##### Reasonably Skilled
+
 This NPC is pretty good. Good enough, anyhow, to keep playing the tables even after some bad hands.
 
 If you consider yourself such a player, you could just play the game as usual. However, if you’re somewhat new to the game, give this NPC the benefit of one extra card any time you draw cards to your hand, but otherwise play like you’d simulate an ace NPC poker player.
 
 ##### Cheat
+
 This NPC is reasonably skilled at poker, but they also sometimes cheat. Give this NPC the benefit of one extra card any time you draw cards to your hand, but otherwise play like you’d simulate an ace NPC poker player.
 
 ##### Novice
+
 This NPC is just learning the game and really doesn’t have the experience to know how to consistently win. Most novices are quickly cleaned out and lose their seat at the table unless they have an especially large chip advantage.
 
 If you’re equally new to poker, you could just play the game as you can. However, if you’re actually a better player than a novice, you’ll have to handicap your play. That’s easy enough; just don’t choose the best hands and discard to lose, not win.
 
 ##### Maniac
+
 An NPC “maniac” plays most hands, even with a weak hand, and usually bets as if they’re going to win. This style leads to high variance, but in the long term, maniacs tend to lose lots of money.
 
 An easy way to simulate this style is just play that way; don’t fold, always call or raise the bet, and stay in the game as if you’ve got a winning hand.
 
 #### PC Skills and Real Poker
+
 It’s possible that you’ll end up playing a real game of poker, twenty‑one, or another card game that corresponds to an in‑world game between the PCs and one or more NPCs. In which case, your players’ knowledge and ability to play the game will be literally on display.
 
 The question is: Does an in‑world character’s training or specialization in poker (and similar games where bluffing is important, as is knowledge of the odds of what other players might be holding) affect the player’s game of poker in the real world?
@@ -45487,6 +45842,7 @@ Cheating: What if a player’s character is something of an in‑world cheat at 
 Each time a player relies on their character’s cheating skill, they must succeed on a Speed‑based task to cheat against the highest-level NPC playing (or closely observing) the game. On a failed roll, the NPC notices the cheat and probably calls out the character.
 
 ##### Evoking Poker with Dice
+
 In some situations, you may want to use Cypher System–adjacent rules to evoke a game of poker PCs play with one or more NPCs, rather than actually playing poker with cards. Here’s a simple optional rule for doing just that. (For something even easier, see Even Quicker Poker Resolution With Dice.)
 
 All dice rolls are made openly. In an actual game, players would hide their hole cards, but remember, this optional rule is for quick resolution, not exacting simulation. The rounds of betting that would normally occur and options for cardplayers to “develop” their hands come down to just a single roll under this procedure.
@@ -45504,6 +45860,7 @@ If two or more PCs beat the hand’s level and achieve the same result—say, bo
 If no PC beats the hand’s level, the hand goes to the NPC at the table whose level in poker set the hand.
 
 #### HANDS OF FATE
+
 Introducing the Hands of Fate optional rule gives PCs a bit more control over their situation while further investing them in a weird west feel.
 
 Deal Fate’s Hand: At the beginning of each day (usually after players have completed a ten-hour recovery roll), deal each player two cards—these are their personal Hand of Fate cards. The hand doesn’t exist in‑world, but is instead a meta resource, to be used by the player for the benefit of their PC (sort of like XP).
@@ -45523,16 +45880,19 @@ Play a Hand of Fate: After the first three Hand of Fate community cards are draw
 - High Card (none of the above hands): PC regains 1 Pool point.
 
 #### DECK AS D20
+
 Rolling a d20 offers a consistent 5% chance to produce any number from 1 to 20.
 
 This optional rule temporarily replaces player character d20 rolls with a card drawn from a specially constructed Midnight Deck (or standard 52‑card deck) that grants the same probability. The idea is that using the deck instead of dice further steeps a game in weird west ambiance.
 
 ##### When To Use Deck as D20
+
 Session: You could use the constructed “d20 deck” for part of a (or an entire) game session when playing in a High Noon at Midnight adventure or setting. For example, if a scenario asks characters to compete in an in‑world game of poker (such as in the adventure “Five Card Fiasco”), you could ask PCs to draw from the d20 deck instead of rolling dice, especially if you’ve opted for evoking poker with dice instead of actually playing poker in‑world.
 
 Special Moment: Alternatively, you could keep the constructed d20 deck in reserve, then pull it out for the PCs to draw from once or twice in a session at a pivotal point or fun moment in the game. This does some of the same ambiance‑building work as the Full Session option, but also gives you more leeway to create a Loaded Deck.
 
 ##### Construct the D20 Deck
+
 Here’s how to construct a “d20 deck.”
 1. Choose two suits, one red and one black—say, gears (diamonds) and eyes (spades).
 2. Gather all the cards from each of your chosen suits from Ace to King, then discard the Jack, King, and Queen from each.
@@ -45563,6 +45923,7 @@ Here’s how to construct a “d20 deck.”
 |20|10 of eyes (spades)|
 
 ##### Using the D20 Deck
+
 Shuffle the Deck: Establish one shuffled deck as the deck that’ll be used for generating random numbers for the whole table. (You could let each PC construct a d20 deck if you have enough card decks lying around, but it takes some time to construct each deck, so the payoff may not be worth it.)
 
 Draw: When a character would normally roll (or you’ve decided it’s a special moment), they draw a card from the top of the shuffled deck. The card drawn is the result the character obtains.
@@ -45574,6 +45935,7 @@ Effort, Assets, Training: Characters still benefit from training, applying Effor
 Reshuffle After Every Draw: Once a given result is drawn, shuffle that card back into the deck before the next draw. It’s important to follow this step each time or probabilities will become more and more skewed.
 
 ##### Loaded Deck
+
 If you use a d20 deck only for specific moments, consider loading the deck to create the possibility of more interesting results, both good and bad.
 
 More 1s and 20s: The easiest way to load the deck is to include another red suit Ace and another black suit 10—in the case of the Midnight deck (or standard deck), the ace of elixirs (hearts) and 10 of guns (clubs).
@@ -45587,6 +45949,7 @@ If the character draws a jackalope (joker), have them draw again without shuffli
 If the character gets to keep a single jackalope (joker), they can choose to use it any time to take an extra turn during any given round (at which point the jackalope goes back into the loaded deck).
 
 ##### Showdown Optional Rule
+
 Whether you’re using regular dice or a d20 deck to generate numbers, consider the following initiative option that applies specifically during a showdown between a PC and an NPC (or more than one PC against multiple NPCs). In a showdown, each participant typically has a few moments to consider their opponent and the overall situation, and in the moment of drawing their shootin’ iron, using what they notice for some sort of advantage.
 
 Simply put, if the PC wins initiative, they can choose from one of the following benefits.
@@ -45600,6 +45963,7 @@ Winning Initiative Benefits: The PC chooses one.
 - At any point in the encounter, the character can treat one result as a natural 20. (If using the NPC option, an NPC hinders a PC’s roll by three steps.)  
 
 ### CURSES OF THE WEIRD WEST
+
 If you use this optional rule, hard‑to‑dispel curses exist in your setting.
 
 Sometimes NPCs the PCs meet suffer from a curse, and that curse might confer upon them an unholy ability that makes it difficult for the PCs to deal with them. Other times, a PC might be cursed. Either way, PCs are probably interested in finding a way to break the curse.
@@ -45617,6 +45981,7 @@ Breaking a Curse: Breaking a curse is sometimes simple, and other times more com
 For instance, say a PC cheats at a game of cards, which leads an NPC who loses everything to an early grave. If the PC who cheated is cursed, the curse might be that they’ll lose every game of chance they undertake afterward (which is pretty mild as these things go). As the GM, you might decide that breaking the curse requires the PC to return whatever they won off the dead NPC. Which is somewhat difficult given that the victim is no longer alive, but finding their grave and burying the objects (poker chips?) might be the first step in what needs to be done to break the curse. They might also need to summon the ghost and apologize, and perhaps even convince the ghost to forgive them.
 
 #### Curses and Inciting Incident
+
 The following table describes an array of weird west curses. Use it for inspiration for curses PCs (or NPCs the characters meet) might suffer. The effect of the curse is listed, followed by a potential inciting incident in parentheses. If the curse is conferred by an individual, object, or something outside of the control of the cursed target in your game, ignore the parenthetical.
  
 |d00|Curse and Cause|
@@ -45662,7 +46027,9 @@ Demonic bull: level 5; health 33; gores twice each round for 6 damage each; if k
 Dark dimension: level 3; occupants take 3 Intellect damage (ignores Armor) each round until they can escape with an Intellect‑based roll as their action
 
 ### SURIVAL
+
 #### Survival GM Intrusions
+
 - PCs camp on an unmarked grave and a vengeful ghost attempts to possess a PC
 - The helpful stranger who offers to lead the PCs to safety turns out to be something sinister
 - The old fort the PCs find that seemed so hopeful turns out to be a chupacabra lair
@@ -45673,11 +46040,13 @@ Dark dimension: level 3; occupants take 3 Intellect damage (ignores Armor) each 
 Disturbing sleep: _level 5; PCs take 1 Intellect damage (ignores Armor) each minute asleep but can attempt an Intellect defense roll each minute to wake_
 
 #### Hunting, Trapping, and Finding Shelter
+
 Generally, characters must spend at least four hours of any given day foraging, hunting, and trapping, then succeed on a level 5 Intellect task. The task is eased for someone trained in identifying plants and creatures, navigation, or specifically in wilderness survival. On a success, enough food and water is obtained to sustain a group of five or six characters for one day.
 
 A separate level 5 Intellect task is required to find shelter after about four hours of searching, though time spent hunting and trapping also counts toward keeping an eye out for suitable campsites and materials that a shelter can be made from.
 
 ##### Food and Water
+
 Food is some combination of foraged plants and roots, and hunted and/or trapped game.
 
 Specific foraged edible plants could include ramps, prairie turnips, cactus pads, clover, sotol (a desert plant), mushrooms, and so on.
@@ -45691,10 +46060,13 @@ Dysentery (level 4 disease): People exposed to dysentery come down with severe d
 Starvation: Generally, a PC can survive without food for about ten days to several weeks. In game terms, PCs who go without food take 3 points of ambient damage each day. On any day a PC has taken starvation damage, their tasks are hindered (even if the character makes a recovery roll to regain lost Pool points). In addition, after seven days without food, a starving character must make a level 5 Might defense roll each day that follows. On a failed roll, the character descends one step on the damage track.
 
 ##### Shelter
+
 Depending on the area, shelter could be obtained by digging into hillsides, finding caves, pulling up sod to use as insulation, collecting deadfall or cutting saplings to create a tent‑like structure (made all the better if hide from slaughtered game is available), digging a trench or cave in a snow bank, and if nothing else serves, at least finding some shade at high noon.
 
 ### TALL TALES
+
 #### Growing Reputation
+
 Beginning at tier 3 or later, PCs have been active in the setting long enough that tall tales start being told about the group. That’s especially true if the characters have interacted with NPCs who know a little about the characters and their exploits.
 
 However, a tall tale grows in the telling. Whatever exploit is being recounted should include an exaggeration or two, if not at least one outright fabrication.
@@ -45727,6 +46099,7 @@ Player Intrusion: A PC of at least tier 3 may gain the benefits of a tall tale f
 Long-Term Benefit: A PC of at least tier 3 may spend 3 XP to gain a long-term benefit in the form of a tall tale about their character. The rest of the PCs aren’t featured in this tall tale unless they all do the same.
 
 ##### Benefits of Tall Tales
+
 Even if folks don’t fully believe the tall tales told about the PCs, the mere fact that the stories persist gives the PCs the following benefits.
 
 Reputation: When PCs are first recognized by NPCs familiar with the tall tale (and most are, unless they’re isolated), PCs’ very first interaction task (whether positive or negative) is eased by three steps. Once the shock of recognizing the PCs wears off a round later, future interaction tasks with the same NPCs are eased by one step.
@@ -45738,6 +46111,7 @@ Tall Tale Perks: When PCs are recognized, people do favors for the characters. F
 Retelling the Tale: If the PCs wish, they can tell the tall tale from their own perspective. Whether or not they stick closer to the truth or invent even more outrageous events is up to them. Either way, for as long as at least one PC is telling the story and listeners are not harmed, they keep the attention of all level 2 or lower NPCs who can hear them. If they have the Enthrall ability, they can captivate level 3 or lower NPCs. And if they have the Captivate With Starshine ability, they can captivate level 4 or lower NPCs.
 
 ##### Downsides of Tall Tales
+
 Introduce any of the following situations as group (or individual) GM intrusions.
  
 |d10|Consequence of Tall Tale Acclaim|
@@ -45756,6 +46130,7 @@ Introduce any of the following situations as group (or individual) GM intrusions
 Wild one: _level 5, wilderness and magical lore as level 7; health 24; Armor 1; batters foes twice as their action_
 
 ### PARANORMAL VICES OF THE WEIRD WEST
+
 Fair warning, pardner—if you ain’t careful, grifters, drunkards, and rabble‑rousers will drag you to Perdition. ’Cept some folks never seem to suffer from their own impure actions—and not even they really know why.
 
 A vice is behavior that many consider immoral or wicked. In some times and places, one person’s vice is another’s completely healthy pastime, if not taken to an extreme. But taking it to the extreme is what vices in the weird west rely on to empower them.
@@ -45789,6 +46164,7 @@ If the connection range reaches 1–6, the character suffers the final repercuss
 Repercussions and final repercussions are noted under each paranormal vice.
 
 #### DRINKING
+
 A person with this vice is called an Inebriate.
 
 Libations are celebrations in a glass for some, fortitude and confidence for others, or both at once. Best not to be stingy with the liquor! For an Inebriate, alcohol means transcending everyday existence. Graced by the spirits consumed, inhibitions dissolve and the Inebriate is set adrift on a sea of euphoria—or, for some, unstoppable rage.
@@ -45798,6 +46174,7 @@ _Related Vices:_ A character who overindulges in some other drug—like laudanum
   
 
 ##### Ill Effects of Drinking
+
 Someone who drinks too much in the short term descends one or more steps on the intoxication track. (Someone who drinks too much in the longer term risks alcoholism, liver disease, cancer, and an early death.)
 
 **Intoxication Track**
@@ -45816,6 +46193,7 @@ Each time a character has more than one drink in an hour, they must succeed on a
 - Hungover characters feel horrible and their tasks are hindered. A hangover lasts six to twelve hours, or until a character has “hair of the dog” (at least one drink).
 
 ##### Inebriate Abilities
+
 An Inebriate gains the following abilities, drawn from some inscrutable, invisible source.
 
 Make just a couple of the indicated abilities available to the character initially, but give them one more each time they increase their connection with a low connection roll.
@@ -45828,6 +46206,7 @@ Triggering Inebriate Abilities: Some Inebriate abilities require the Inebriate t
 - Unflinching: For ten minutes, the Inebriate gains +1 to Armor and eases Might defense rolls by two steps. For the same period, the Inebriate gains one extra step on the damage track called hurt, which is effectively the same as hale but a bit rougher looking. Drink (separate action) to activate.
 
 ##### Inebriate Repercussions
+
 An Inebriate faces the following repercussions each time they roll a 1 (or higher, if previously triggered) on a connection roll. The repercussions flow from the same inhuman powers granting them their abilities. Each repercussion also increases the connection range by 1.
  
 |d6|Inebriate Repercussions|
@@ -45843,6 +46222,7 @@ An Inebriate faces the following repercussions each time they roll a 1 (or highe
 *Insidious thing: level 5; health 18; attacks with toothed tentacles; where damaged, target’s skin is discolored for several weeks
 
 #### GAMBLING
+
 A person with this vice is called a Cardsharp.
 
 The promise of untold riches lies beyond the next card flip, dice roll, or spin of the wheel. Why sleep when one could be playing a game with a huge pot? For a Cardsharp, cards are weapons and dice are life. The whims of fate are nothing against their seemingly infallible luck. As stakes rise and tension mounts, a Cardsharp sees their opponents stripped bare, their true selves revealed as they gamble all their wealth away.
@@ -45850,6 +46230,7 @@ The promise of untold riches lies beyond the next card flip, dice roll, or spin 
 _Related Vices:_ Cardsharps are usually cardplayers (or dice players). But anyone who bets on the outcome of some event, such as stagecoach races, showdowns, or even flips of a coin might do it often enough to connect to the otherworldly and gain a paranormal vice.
 
 ##### Cardsharp Abilities
+
 A Cardsharp gains the following abilities, drawn from some inscrutable, invisible source.
 
 Make just a couple of the indicated abilities available to the character initially, but give them one more each time they increase their connection with a low connection roll.
@@ -45868,6 +46249,7 @@ A PC that is already specialized in poker and is a Cardsharp gains three cards i
 - Shuffle Wizard: For ten minutes, the Cardsharp gains +1 to Speed Edge and eases Speed defense rolls by two steps. Tasks to distract onlookers by the Cardsharp’s ability to shuffle and manipulate cards are also eased by two steps. Draw card, throw dice, or flip coin (each a separate action) to activate.
 
 ##### Cardsharp Repercussions
+
 A Cardsharp faces the following repercussions each time they roll a 1 (or higher, if previously triggered) on a connection roll. The repercussions flow from the same inhuman powers granting them their abilities. Each repercussion also increases the connection range by 1.
  
 |d6|Cardsharp Repercussions|
@@ -45883,9 +46265,11 @@ A Cardsharp faces the following repercussions each time they roll a 1 (or higher
 *Forgeborn, queen of gears: level 4; Armor 2; two bashing attacks
 
 #### SWINDLING
+
 A person with this vice is called a Shyster. They’re tricksters, but who doesn’t love a good trick? Shysters are mirage merchants who tell others what they most wish to hear. The truth is harsh—and made harsher when a lie is exposed—which is why a Shyster’s honeyed words are so potent that those who’ve been duped (call ’em marks) often refuse to believe anything other than the beautiful tapestry of fiction. The mark may even work to explain away the difference between the lie they want to believe and the cold reality of a Shyster’s grift.
 
 ##### Shyster Abilities
+
 A Shyster gains the following abilities, drawn from some inscrutable, invisible source.
 
 Make just a couple of the indicated abilities available to the character initially, but give them one more each time they increase their connection with a low connection roll.
@@ -45901,6 +46285,7 @@ Each time an ability is used (including enablers), the Shyster must roll 1d10 to
 
 
 ##### Shyster Repercussions
+
 A Shyster faces the following repercussions each time they roll a 1 (or higher, if previously triggered) on a connection roll. The repercussions flow from the same inhuman powers granting them their abilities. Each repercussion also increases the connection range by 1.
  
 |d6|Shyster Repercussions|
@@ -45914,10 +46299,13 @@ A Shyster faces the following repercussions each time they roll a 1 (or higher, 
 |Final|Character vanishes, leaving behind clothing and possessions, but no hint of any identifying papers and belongings. Depending on the campaigning or setting, this summons an avatar of lies into the physical world—whatever that means for your game.|
 
 ## Equipment
+
 ### Currency
+
 All kinds of currencies could be used simultaneously in your weird west game on account of the scarcity of officially issued coins and paper money. Here are some options for your consideration.
 
 ### Dollars
+
 In a weird west world inspired by real world history, you might decide to adopt the dollar. Dollars are mostly circulated as coins of various denominations. Paper money is also printed, though not as widely circulated.
 
 The Cypher System Rulebook uses price categories as an abstract way of defining equipment prices. If you want to use dollars instead of categories in the CSR, use the following equivalencies as a rough guideline. As you’ll note, dollars go a lot further in a weird west (and historical) setting than in a modern game.
@@ -45967,6 +46355,7 @@ For example, the Trail’s End Cantina, a local saloon in Midnight, offers smoot
 Other notes and documents that retain value almost anywhere include land deeds (especially if they’re transferrable) and stock certificates. However, stock certificates may not be appropriate to your setting if there isn’t a “national” stock market where shares are bought and sold.
 
 ### Additional Weird West Equipment
+
 Many weird west games assume a technological level equivalent to the American West in the 1800s, with the possibility of magical and/or steampunk artifacts thrown into the mix. This assumption holds for the equipment list provided here. PCs can use it to choose their starting equipment, or browse when they enter a general store.
 
 Sci-fi? However, your weird west campaign might take place in the future or on another planet settled via spaceflight, which could include a combination of the items in this chapter plus some items from the Additional Science Fiction Equipment list.
@@ -46077,18 +46466,23 @@ Sci-fi? However, your weird west campaign might take place in the future or on a
 Six‑shooters and other firearms in your setting might be more primitive than modern firearms and require extra time to reload—or not. Maybe the PCs are just that good, in which case, revolvers and other guns popular in your setting can be reloaded as part of another action. Alternatively, you could require that PCs use an action to reload six bullets into the chamber of the shootin’ iron (unless they have the Reload ability). If you don’t want to burden PCs with keeping track of how many bullets remain in the cylinders of their revolvers, an easy way to determine if a character’s six‑shooter is empty after any given turn is to use depletion; a typical six‑shooter has a depletion of 1 in 1d6.
 
 ## Cyphers
+
 ### Subtle Cyphers
+
 Subtle cyphers are appropriate as an adjunct to weird west games that have at least a passing similarity to historical reality.
 
 That said, weird west games—with their connection to magic and/or sci‑fi technology—have a lot of room to include thematically appropriate manifest cyphers (as shown by the examples provided later in this chapter). If you include manifest cyphers, remember that the Cypher System rules assume players have regular opportunities to regain cyphers after using the ones they have. Out in the badlands, deserts, or prairielands where weird west adventurers often find themselves, manifest cyphers might be harder to obtain. Letting subtle cyphers fill in the gaps during periods when PCs don’t find any manifest ones is a good idea.
 
 ### Manifest Cyphers
+
 Manifest cyphers in a weird west game could be the product of some oddity of your particular setting, such as alien invaders. However, the primary assumption is that manifest weird west cyphers are created by alchemists, sorcerers, demons, and the like.
 
 ### Alien Manifest Cyphers
+
 In a weird west setting enduring an ongoing alien invasion, encroaching alien outposts, crashed starfighters, and the rare alien conscientious objector who feels bad about conquering the place could all be sources of uncanny items. Given their off‑world manufacture, these manifest cyphers are probably nearly inscrutable, but PCs are able to get a single use out of them, even if it’s not the use the aliens had in mind.
 
 ### Alchemical Manifest Cyphers
+
 Alchemy is usually attributed to alchemists, while sorcery is attributed to demons and/or those who learned their magic from a Hellish source. But sometimes alchemists create items of such dire consequence that demons would be happy to take the credit.
 
 The most prominent alchemical manifest cyphers are alchemical rounds and slugs— ammunition for pistols, rifles, and shotguns.
@@ -46477,6 +46871,7 @@ If a gun fires an alchemical round that infuses it with a magical effect while t
 
   
 ## Artifacts
+
 The weird west artifacts described in this chapter include those created by alchemists, sorcerers, demons, and other supernatural beings, as well as a few leftover relics of an inhuman precursor species and their horrifying enemies.
 
 If your setting doesn’t include these specific concepts, reskin likely looking artifacts (and for that matter, cyphers noted in the previous section) to better fit your setting’s history. For instance, if your weird west setting leans heavily into steampunk, maybe “engineers” create most of the fantastic options of the setting, so that instead of a “demon pistol” (a demon in the shape of a six‑shooter), characters gain a “gauss pistol” that fires tiny steam‑powered automatons into the target’s flesh.
@@ -46870,8 +47265,11 @@ Artifact Depletion: Self‑aware artifacts don’t deplete the same way regular 
 
 
 ## Creatures
+
 ### CREATURES AND NPCs OF THE WEIRD WEST
+
 #### ANIMALS
+
 - Bat: level 1
 - Bear, black: level 3, attacks as level 4
 - Bear, grizzly: level 5; health 20; Armor 1
@@ -46891,6 +47289,7 @@ Artifact Depletion: Self‑aware artifacts don’t deplete the same way regular 
 - Wolf: level 3, perception as level 4
 
 #### NPCs
+
 People from Native Nations are also doctors, hunters, trappers, celebrities, and so on within their own communities, as well as being part of the larger example setting The Ghost Range. Their individual fashion, gear, and weapons reflect their own cultural norms, adopt cowboy garb, or most often, represent a fusion.
 - Card shark: level 2, gambling with card games as level 5, pistol attacks as level 3
 - Doctor: level 2, healing tasks as level 3
@@ -46902,6 +47301,7 @@ People from Native Nations are also doctors, hunters, trappers, celebrities, and
 - Soldier: level 2, initiative as level 4; rifle deals 4 points of damage
 
 #### CELEBRITIES
+
 A celebrity NPC is someone whose fame gives them an outsize ability to command the attention of regular folks.Their reputation probably accrued thanks to stories of actual (or made‑up) daring deeds, their particular personality, or some combination of both. For instance, some celebrities are gunfighters who earned their reputation through gunplay, which means some number of weird west celebrities are antiheroes, though marshals and lawmen balance that trope.
 
 Another sort of weird west celebrity are folks about whom stories are told, or who tell those stories themselves, which makes them entertainers and performers of a sort. Whether holding forth in a saloon or showcasing their roping, pistol, bow, or other impressive skill, these celebrities are recognized locally and enjoy a few related benefits.
@@ -47584,6 +47984,7 @@ Interaction: Sinister and conniving, a tomb shade doesn’t speak, but uses its 
 Use: An alchemist wants PCs to collect a cursed book for their library, but whenever someone opens the tome, shadows (a tomb shade) swallow the reader.
 
 ### THREATS AND HAZARDS OF THE WEIRD WEST
+
 Survey of Weird West Threats and Hazards
 
 If you’re looking for ideas to challenge your PCs who are between jobs or who’ve become complacent while riding into the sunset, look no further than this here table. Those spire‑like stones could be something other than strictly natural, giant scorpions are more common than most folks think, the Tomb Moon might eclipse the sun, or the characters could just discover that their mounts have been sickened by bad water.
@@ -47665,13 +48066,19 @@ Captain: _level 4; health 25_
 00 Alchemical War Machine (level 9): A massive machine the size of a small town on great steel legs stirs in the desert.
 
 # Modern Fantasy
+
 ## Setting
+
 ## Characters
+
 ### MODERN MAGIC FLAVORS
+
 #### Charms and Figments Flavor
+
 Creating illusions and affecting minds are sometimes considered “soft” magical disciplines (as opposed to “hard” disciplines that manipulate energy or physical matter). It’s common for a character with an interest in one to learn a few spells in the other.
 
 ##### Tier 1:
+
 - Background Music (1+ Intellect points): You create quiet background music in a short area, loud enough to be heard in a room with normal conversation, but not so loud to be distracting or overwhelming. The music repeats through up to ten songs you know, lasting up to an hour. In addition to the normal options for using Effort, you can use Effort to increase the duration; each level of Effort adds one hour to the play time and five songs to the playlist. Action.
 - Fast Talk
 - Goad
@@ -47680,6 +48087,7 @@ Creating illusions and affecting minds are sometimes considered “soft” magic
 - Minor Illusion
 
 ##### Tier 2:
+
 - Calm Stranger
 - Cloud Personal Memories
 - Illusory Duplicate
@@ -47707,9 +48115,11 @@ Creating illusions and affecting minds are sometimes considered “soft” magic
 - Terrifying Image
 
 #### Cozy Magic Flavor
+
 Sometimes a sorcerer isn’t interested in combat magic and secret of the universe. Sometimes “cozy magic” is enough: bonding with a group of close friends, having a nice house, and providing support and comfort in times of need.
 
 ##### Tier 1:
+
 - Advice From A Friend
 - Check Status (0+ Intellect points): You can telepathically reach out to up to ten creatures known to you, no matter where they are. The individual creatures must be willing and able to communicate. You immediately know their current status—eating, driving, sleeping, angry, injured, fine, great, frightened, worried, and so on, generally in the form of a short sentence or a few words.
   These creatures don’t have to share anything they don’t want to, including acknowledging that you checked on them, but they can’t lie through this connection. For example, one person might let you know that they’re upset, but that doesn’t mean you know why (they’re dealing with a recent breakup) or what they’re doing about it (drinking to cope).
@@ -47720,6 +48130,7 @@ Sometimes a sorcerer isn’t interested in combat magic and secret of the univer
   In addition to the normal options for using Effort, you can use Effort to affect more creatures; each level of Effort affects one additional creature. Action per target to initiate.
 
 ##### Tier 2:
+
 - Emotional Support Pet (3+ Intellect points): You conjure an adorable animal that most people find irresistibly cute, such as a puppy, kitten, or bunny, who is outgoing and friendly and otherwise acts according to its nature. Anyone in short range who can see the animal eases their defense tasks against negative feelings (such as anger, fear, sadness, and worry) for the next hour. Anyone who pets, cuddles, or plays with this animal for at least a round or two (up to four people can do so at once) feels happier for the next hour and adds +1 to any recovery rolls they make during that time. At the end of the spell, the conjured animal curls up, falls asleep, and disappears in a puff of smoke. If the animal is harmed in any way, anyone who saw it happen eases all rolls against the creature responsible for the harm. In addition to the normal options for using Effort, you can conjure three additional animals for each level of Effort you apply to this ability. Action.
 - Adorable Animal: level 1, positive social interactions as level 3
 - Fetch
@@ -47728,33 +48139,40 @@ Sometimes a sorcerer isn’t interested in combat magic and secret of the univer
 - Telepathic
 
 ##### Tier 3:
+
 - Informer
 - Laundry Day (3+ Intellect points): You select two batches of laundry within immediate range, each large enough for a typical washing machine or dryer. The laundry agitates and spins in midair for a minute, becoming clean and dry as it does so, after which it sorts and stacks itself into neat piles or, if you know where it belongs and that’s within short range, putting itself away. Particularly dirty clothes automatically take a few extra minutes to finish cleaning and drying. The spell doesn’t harm delicate items or clothing that needs special care (such as dry cleaning or low temperature). In addition to the normal options for using Effort, you can use Effort to affect more batches of laundry; each level of Effort affects two additional batches. Action to initiate; one minute to complete.
 - Spring Cleaning (3+ Intellect points): You choose a short area, such as a typical room in a house, two rooms in a small apartment, or two automobiles. Over the next few minutes, the area is thoroughly cleaned—floors are swept, vacuumed, or mopped; surfaces like countertops and sinks are wiped down with a gentle soap and disinfectant; and so on. In addition to the normal options for using Effort, you can use Effort to increase the area or clean more quickly; each level of Effort affects an additional short area or reduces the cleaning time from minutes to rounds. Action.
 
 ##### Tier 4:
+
 - Able Assistance
 - Pay it Forward
 - Thinking Ahead
 
 ##### Tier 5:
+
 - Group Friendship
 - Undo
 
 ##### Tier 6:
+
 - Drawing on Life’s Experiences
 - Stimulate
 - Telepathic Network
 
 #### Divination Flavor
+
 Knowledge is power! Characters with the divination flavor are familiar with using magic to learn information, see into hidden places, and discover secrets.
 
 ##### Tier 1:
+
 - Babel
 - Scan
 - Third Eye
 
 ##### Tier 2:
+
 - Diagnose Device (2 Intellect points): You ease by two steps the task to diagnose what’s wrong with a human-made electronic or mechanical device or system (such as a computer, clothes dryer, or toilet) that is damaged, malfunctioning, or broken. You must touch the device to diagnose it. Typically a successful roll means that you learn the main problem and its cause. For example, you could learn that a bricked phone is infected with malware, a pipe is clogged with “flushable” wipes, or a rattling engine needs motor oil. This ability is unreliable at best when used on alien, high-technology, or other mysterious devices. Action.
 - Mind Reading
 - Open Mind
@@ -47762,28 +48180,34 @@ Knowledge is power! Characters with the divination flavor are familiar with usin
 - See History
 
 ##### Tier 3:
+
 - Creature Insight
 - Device Insight
 - Question Past Self (4+ Intellect points): You reach into the past up to a week and mentally ask your past self one or two questions about something you knew or observed at the chosen time. For example, if you’ve forgotten an important phone number or can’t remember if a particular person was in a meeting, you can ask your past self about it while it’s still fresh in your past self ’s memory. Your past self doesn’t perceive this as an intrusive voice—it just seems like an unexpected moment of reflection about the questions your present self asks. This doesn’t allow you to remember things your past self didn’t actually know at the time, but it can sometimes help your present self (in the form of an asset) learn more about or realize something your past self wasn’t really paying attention to at the time (such as seeing part of a password or noting whether there was a red delivery truck nearby). For each level of Effort you apply to this ability, you can reach an additional week further into the past. Action.
 - Retrieve Memories
 
 ##### Tier 4:
+
 - Reading the Room
 - Remote Viewing
 - Sensor
 
 ##### Tier 5:
+
 - Knowing the Unknown
 - Read the Signs
 - True Sense
 
 ##### Tier 6:
+
 - See Through Time
 
 #### Modern Magic Flavor
+
 Characters who live in a modern world with magic and technology often know a bit about mixing the two of them together. These characters usually pick up a few useful spells (such as disrupting hostile magic or disabling a mugger’s pistol) from various sources, much like how people tend to learn skills unrelated to their day job (like cooking, dancing, and playing guitar).
 
 ##### Tier 1:
+
 - Cantrips (choose any four)
 - Annoy Electronics (1 Intellect point): You interfere with the operations of an electronic device. The device must be within short range and you must be able to see it. Your interference is limited to things you could do in a few seconds if you were directly using the device. For example, you could make a person’s phone start playing a loud video, type one or two commands on a computer’s keyboard, hit a bunch of buttons in an elevator, or change the station or volume on a television screen. You must succeed at an Intellect-based task against the device or its bearer (whichever level is higher). If you have never interacted with the particular device before, the task is hindered by two steps. Action.
 - Arcanaphone (2 Intellect points): You make use of your cellular service to start a telephone call or use text messaging, lasting up to ten minutes. To anyone watching you, you look like you’re in “hands free” mode. In all respects, this works as if you were carrying your device with you and using it directly (meaning the network notes your current location as if you were carrying your phone, and you may not have coverage in some areas). The first time you use this ability with your mobile service, you must contact their customer service department to authorize the magic (taking ten to sixty minutes), as if it were a new device. You can’t use this ability if you don’t have a cellular account. Action to initiate.
@@ -47795,6 +48219,7 @@ Characters who live in a modern world with magic and technology often know a bit
 - Ward
 
 ##### Tier 2:
+
 - Charm Machine
 - Dispel Magic (2+ Intellect points): Choose one magical effect within long range. An effect of up to level 3 ends if you succeed on an Intellect-based attack roll against the level of the effect, or against the level of the creature or object the magical effect affects, whichever is higher. In addition to the normal options for using Effort, you can apply Effort to increase the level of the effect that can potentially be dispelled. Action.
 - Gun Jammer (2+ Intellect points): You can interfere with a firearm so the next time it is used, it jams or misfires. The weapon must be within short range and you must be able to see it. Make an Intellect-based attack against the weapon or its bearer (whichever level is higher). If you succeed, the next attack with the firearm fails, and the weapon won’t fire until someone uses an action to correct the problem. If you activate this ability when it isn’t your turn, your attack against the weapon is hindered. In addition to the normal options for using Effort, you can use Effort to affect more firearms; each level of Effort affects one additional target. Action or enabler.
@@ -47804,55 +48229,67 @@ Characters who live in a modern world with magic and technology often know a bit
 - Third Eye
 
 ##### Tier 3:
+
 - Diagnose Device (2 Intellect points): You ease by two steps the task to diagnose what’s wrong with a human-made electronic or mechanical device or system (such as a computer, clothes dryer, or toilet) that is damaged, malfunctioning, or broken. You must touch the device to diagnose it. Typically a successful roll means that you learn the main problem and its cause. For example, you could learn that a bricked phone is infected with malware, a pipe is clogged with “flushable” wipes, or a rattling engine needs motor oil. This ability is unreliable at best when used on alien, high-technology, or other mysterious devices. Action.
 - Network Tap
 - Sensor
 
 ##### Tier 4:
+
 - Repair Machine (3+ Intellect points): You automatically repair one broken device of up to level 4 that you touch, restoring it to full working condition. This ability works only if at least 80 percent of the original device is still on hand. The device may still need fuel, oil, or other substances that aid its operation but are not part of the electronics or mechanism. This ability only reliably works on human-crafted devices and tends to fail when used on alien, high-technology, or otherwise mysterious machines. In addition to the normal options for using Effort, you can use Effort to increase the target level that can be affected by 1. Action.
 - Soothe the Savage
 
 ##### Tier 5:
+
 - Granite Wall
 - Tower of Will
 
 ##### Tier 6:
+
 - Information Gathering
 - Trust to Luck
 
 #### Protection Flavor
+
 Characters with the protection flavor use magic to defend against hostile environments, hazardous substances, dangerous creatures, and intrusive mental powers.
 
 ##### Tier 1:
+
 - Closed Mind
 - Resonance Field
 - Ward
 
 ##### Tier 2:
+
 - Safe Sex (2 Intellect points): One creature you touch can have sexual encounters with no chance of causing pregnancy or transmitting an STI. This protection lasts for ten hours. Action.
 - Trained Without Armor
 - Wind Armor
 
 ##### Tier 3:
+
 - Energy Protection
 - Force Field Barrier
 - Unstealable Charm (3+ Intellect points): An object you are holding, touching, or wearing becomes more difficult to steal; attempts to remove it from your person without your knowledge or permission are hindered. In addition to the normal options for using Effort, you can apply Effort to hinder such attempts by an additional step. The charm lasts for twenty-four hours. Action.
 
 ##### Tier 4:
+
 - Counter Danger
 - Elemental Protection
 - Poison Resistance
 
 ##### Tier 5:
+
 - Defensive Field
 - Nothing but Defend
 - Tower of Intellect
 
 ##### Tier 6:
+
 - Reactive Field
 - Untouchable
 
 ### DESCRIPTORS
+
 Most of these descriptors are for characters who are or become significantly nonhuman ; for example, the Dragon descriptor means you’re a four-legged, winged dragon who can breathe flame. These descriptors include suggestions for how to advance or improve your inherent nature as that sort of creature (becoming even more dragonish if you are a Dragon, for example). The GM should allow a character with such a descriptor to choose any of these abilities (and any others the GM feels are appropriate for the descriptor) in place of a type ability, either upon advancing to a new tier or selecting them as an other option of character advancement by spending 4 XP.
 
 It’s Only Magic Descriptors: Chimera, Dragon, Ghost, Hunter, Nix, Sylph, Unmagical
@@ -47883,6 +48320,7 @@ Chimera Advancement:
 - Frenzy
 
 #### Dragon
+
 You can shift at will between a dragon and humanoid form; you may choose to spend more time in one form or the other. In your dragon form you’re about 10 feet (3.5 m) long with four legs, leathery wings, and a serpentlike tail. You’re drawn to treasure and shiny things, but you’re willing to share your hoard with those you trust. Though you can speak human languages, you can’t ignore the fact that you’re a wild part of your local ecosystem—at least some of the time. You’re an apex predator, driven to fly and to hunt, and you brumate in cold temperatures like other reptiles.
 
 Brumation is a state of sluggishness and inactivity entered by reptiles in response to low temperatures.
@@ -47911,6 +48349,7 @@ Dragon Advancement:
 - Training in Spitting Flames
 
 #### Ghost
+
 Unfortunately, you’re dead. But hey, it’s not all bad! Your spirit has remained in the mortal world. You can still walk among the living, but you no longer need pesky things like food or sleep. It’s up to you how long you’ve been dead, whether you remember your death, and why you’ve stuck around: seeking revenge, settling a debt, protecting your descendants, perfecting your great-grandma’s pecan pie recipe, or something else entirely.
 
 You gain the following characteristics:
@@ -47937,6 +48376,7 @@ Ghost Advancement:
 - Walk Through Walls
 
 #### Hunter
+
 You once rode with the Wild Hunt: an immortal cavalry who traversed the skies in secret each night, gathering the souls of those who died in battle and carrying them to the beyond. These days, the Wild Hunt has downsized and your nights are your own. You’re mortal again, too, but it’s impossible to forget the terrifying freedom and power you once held. Maybe you’ve let nostalgia make you bitter, or maybe you don’t miss the Hunt at all, instead living in fear of being conscripted once more.
 
 You gain the following characteristics:
@@ -47954,6 +48394,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 4. You’re searching for the horse you remember riding—a massive undead stallion with flaming hooves.
 
 #### Nix
+
 You’re a shapeshifting water spirit. You can walk on two legs and breathe air, but when you’re submerged, you gain a tail, fins, and gills. You probably live near flowing water, with no preference for salinity or temperature; you also have a general affinity for nature and a knack for identifying useful plants. Your playful and upbeat disposition doesn’t mean you’re passive or helpless. Though you may prefer to talk your way out of tough situations, you’re quick to react to threats—especially in water, where you maneuver with deadly accuracy.
 
 You gain the following characteristics:
@@ -47981,6 +48422,7 @@ Nix Advancement:
 - Wilderness Life
 
 #### Sylph
+
 You’re an air spirit, with the gift of wingless flight and hawklike eyes. You’re happiest when you have an aerial view; you lean more toward strategy than action, calling the shots from an unmatched vantage point. Your sensitivity to air currents and atmospheric pressure means you’re able to predict weather patterns, which you incorporate into your machinations.
 
 You gain the following characteristics:
@@ -48006,6 +48448,7 @@ Sylph Advancement:
 - Shock
 
 #### Unmagical
+
 You’re not good at using magic. In fact, it’s clear that you’re inherently unmagical—magic is as confusing, difficult, and awkward for you as learning lava spells would be for a frost giant. It’s not that you don’t believe in magic (though maybe you don’t) or that you don’t like magic (though maybe you don’t). It’s just that you and magic are incompatible. You’ve learned to compensate for this problem and even turn it into an advantage in some cases.
 
 An Unmagical character shouldn’t be able to overcome their inability by becoming trained in magic. The GM might allow them to train away part of the inability with training in specific skills, such as “Onslaught” or “magical weapons.”
@@ -48027,9 +48470,11 @@ Initial Link to the Starting Adventure: From the following list of options, choo
   
 
 ### FOCI AND CHARACTER ABILITIES
+
 This section presents new foci that can be used as-is in most modern fantasy campaigns. Each of them has an expanded description with more story details than the foci in the Cypher System Rulebook (which have short, broad descriptions suitable for other genres). The GM and player should adjust these details to suit the specific campaign they’ll be playing.
 
 #### Codes Magic Apps
+
 You are a maker, a crafter, but you use a unique combination of code and magic instead of wood, steel, or circuit boards. Like anyone who’s spent a lot of time working on a computer, you’ve learned some strange secrets, not all of them entirely legal, and you know a lot about games, people, and how things work. More than just a computer nerd, you’re a developer and (although you might not admit it) a hacker. Most of your specialized gear is hardware or software for your computer or smart device, so you can dress however you want. You’re probably used to wearing comfortable clothes, sitting for hours at a time, and enjoying many caffeinated beverages (that have permanently discolored some of your clothing).
 
 Connection:
@@ -48067,6 +48512,7 @@ Tier 6:
 - Usurp Cypher
 
 #### Conjures Bullets
+
 You blend sorcery and firearms into an amazing mix of magic and technology. Bullets and spells are almost interchangeable to you; your magic has a firearm motif and you cast using your gun. You might be a trick-shot sorcerer, a magical member of the armed forces, or an outlaw with a flair for arcane power. Gun nuts and wizard purists might look down on your blended technique, but you can do things that nobody else can do. You might call yourself a guncaster, spellshooter, or triggermage. You wear clothing that leaves your arms and hands free to use your weapon and cast spells, preferring something more flashy than a gunslinger’s long coat and more intimidating than typical magician or witch clothing.
 
 Connection:
@@ -48106,6 +48552,7 @@ Tier 6:
 - Special Shot
 
 #### Hunts Witches
+
 You know enough about magic to mistrust anyone who uses it, especially witches—people who study ancient rituals, make pacts with evil creatures, and use their power for personal gain. Warped by their abilities, they are dangerous threats to regular folks, and it’s up to people like you to find and eliminate those threats. Sure, some witches claim to be good and even act friendly, but you’ve seen it go bad all too often, and you won’t be fooled again. You always carry weapons for fighting witches, or at least know what common tools will do as a weapon in a pinch. You wear clothing appropriate to the region and era (especially if regular people don’t know about magic or witches and you have to hide what you do). You may have a token, icon, or other reminder of your purpose, such as a lucky coin, a holy book, or a pouch of magic-thwarting herbs given to you by your mentor.
 
 What a “witch” is depends on the setting. In a setting where magic is rare or secret, superstitious people might consider anyone who uses magic to be a dangerous witch. In a different setting, “witch” might refer to a specific organization of people who know how to use magic.
@@ -48145,6 +48592,7 @@ Tier 6:
 - Heroic Witch Bane: When you inflict damage to witches (or other intelligent creatures who cast spells), you inflict 3 additional points of damage. Enabler.
 
 #### Inks Spells on Skin
+
 Your enchanted heritage is etched upon you. Studying strange formulas, mystic runes, and magical glyphs to learn spells is one thing. Making spells truly a part of you is another, but that’s exactly what you do when you apply magical inks to create intricate spell tattoos across your body. Each tattoo you inscribe on yourself is not merely a design, but the keystone of a spell, giving you the ability to cast it. Because your tattoos are magical, you can continually add to those you’ve already accumulated without ruining the designs, allowing your mastery over magic to grow. You often wear clothing that bares your arms and perhaps other parts of your body to expose your tattoos, so that others know you for a spellcaster.
 
 Readying Spell Tattoos: You learn two abilities (spells) at every tier of this focus, and each of them becomes a tattoo on your body. However, for each tier’s spells, you can only have one of the two readied (available for casting) at any given time, and the other is merely an interesting design until you change your readied spell for that tier. To change one readied spell, immediately after using a one-hour or ten-hour recovery roll, you must spend one minute in meditation, after which you can swap one readied spell.
@@ -48191,6 +48639,7 @@ Tier 6:
 - Summon Demon
 
 #### Is A Car Wizard
+
 Your skill behind the wheel is legendary, combining natural talent and specialized magic to perform stunts and tricks that are impossible for regular people. Nothing beats the feel of wind in your hair, except maybe the intense purr of a finely tuned engine augmented by sorcery. You love pushing yourself (and your vehicle) to the limit, even if it’s dangerous—better to die a legend than live a long, dull life driving something boring. You enjoy drawing attention to yourself, so you tend to wear sleek clothing, stylish sunglasses, and borderline-gaudy jewelry, but never anything that interferes with your ability to control a car or cast a spell.
 
 Connection:
@@ -48229,6 +48678,7 @@ Tier 6:
 - Trick Driver
 
 #### Learned From the Classics
+
 Magic comes intuitively to some people, but you’ve always had to work a bit harder. Luckily, you find that research comes naturally. You know what questions to ask; you know which books, websites, or professionals will have the answers. You spent years studying and practicing, and you taught yourself everything you know. Now you’re a skilled magician who’s always eager to learn more—evidenced by your lengthy reading list.
 
 Connection: Choose one of the following or choose one of the Focus Connections in the Cypher System Rulebook.
@@ -48264,6 +48714,7 @@ Tier 6:
 - Mental Magic: When attempting a magic-based Might or Speed task, you can instead roll as if it were an Intellect action. This means that if you apply Effort, you spend points from your Intellect Pool and use your Intellect Edge. Enabler.
 
 #### Practices Moon Magic
+
 The moon is a powerful force on the world, in terms of both science and magic. She hangs overhead like a watchful eye, makes creatures act strangely, represents cycles of time, and causes the ebb and flow of the tides. To you, she is a friend, an inspiration, and a constant reminder that someone is watching over you. You wield her magic to create beams of dangerous light, influence others, travel, and sense the underlying truth and reality of things. The day is not your foe (after all, the moon is often visible during the day), but you prefer the night when the moon can be the brightest light in the sky. You might call yourself a moonchild or a moon witch. You probably prefer black, white, or grey clothing, with flowing portions such as long sleeves, a cape, or a long coat. You might have one or more tattoos or tokens representing the moon, either full, crescent, or in multiple phases. Your favorite jewelry and adornments (like buttons) usually have moonstones.
 
 Connection:
@@ -48301,6 +48752,7 @@ Tier 6:
 - True Senses
 
 #### Steers The Coven
+
 Magic is strongest when wielded by a community. The strength of a community is derived from the strength of its leader, and you’ve taken on the role. Maybe you were chosen, or maybe you volunteered. Maybe you have an official title and responsibilities, or maybe you serve as an informal mentor. Maybe you run a coven with bylaws and a charter, or maybe you host gatherings where your friends and family can perform rituals together. Regardless, you’re responsible for a coalition of magicians who look to you for guidance, protection, and problem-solving.
 
 Connection:
@@ -48336,6 +48788,7 @@ Tier 6:
 - Drawing on Life’s Experiences
 
 #### Transmits Energy
+
 Magic is often compared to electromagnetism: it’s an invisible and ubiquitous force that holds everything together. Magic runs through every living creature, the ground, and even the air around us. You can sense—and influence—the flow of power, the way some people can hear currents running through wire. In a crisis, you attack by draining a foe’s energy. Otherwise, you focus on helping others by catalyzing and enhancing their magic abilities.
 
 Connection:
@@ -48371,6 +48824,7 @@ Tier 6:
 - Drain at a Distance
 
 #### Turns Decay to Growth
+
 You’re comfortable with decomposition: the bacteria and fungi that break down organic material are living creatures, and you coax magic from the interplay of life and death. To you, rot isn’t cause for revulsion—it’s an opportunity to build something new. Maggots, mushrooms, and mold are actors in your process, not unlike familiars. You probably keep a garden, nourished by your meticulously maintained compost pile. Your community might express discomfort with your methods, leading to friction. If you react to criticism by isolating yourself, you won’t be lonely for very long—what you have to offer is vital and rare, and it’s inevitable that someone will ask you for help.
 
 Connection:
@@ -48658,9 +49112,11 @@ Wrap Cantrip (1 Intellect point): You use available materials to wrap up an obje
 Youth Cantrip (1 Intellect point): You change the appearance of your face so you look about ten years younger than your normal appearance, lasting about an hour. Action.
 
 #### Optional Rules: Learning Cantrips
+
 In some fantasy settings, cantrips are commonly available, but not everyone knows how to cast them (in the same way that phone and computer apps are common, but not everyone knows how to code an app). When someone tries to learn a cantrip, have them attempt a level 3 Intellect-based task (skills such as magical lore affect this). If they succeed, they learn the cantrip. If they fail, they don’t. A PC only spends the 2 XP to learn cantrips when they succeed at this roll. This way, learning a cantrip isn’t automatic—it’s more like passing a final exam. And there are ways for the character to “cram” for this test, including expending Effort, getting help, or using an appropriate asset.
 
 ### COVENS
+
 Magic is a community affair, and magicians are more powerful in groups. A coven is a group of three or more magicians with similar goals and values, supporting each other and working together to hone their craft. Forming or joining a coven grants characters additional abilities, which you gain separately from the standard advancement track. When you join a coven, you start at rank 1 within that coven, and over time can advance to rank 6. Rank is a measurement of your connection to the coven, and doesn’t necessarily correspond to your character tier—for example, a high-tier character might have a low rank in their coven. However, your coven rank cannot exceed your character tier. The primary magical benefit of joining a coven is gaining access to its spells: a set of character abilities that all members (of the required rank) can use. These spells are usually tailored to the coven’s interests and purpose, and are sorted by rank from 1 to 6. Because a character’s rank within a coven starts at 1 when they join, a new member of a coven has access to the coven’s rank 1 spell. When the character advances to rank 2, they immediately gain access to the coven’s rank 2 spell, and so on. You can think of covens as similar to flavors, in that they allow the GM and players to modify characters with abilities. Unlike choosing an ability from a flavor, a character doesn’t have to trade away or swap anything to choose or use a coven spell—they have access to these spells automatically according to their rank in the coven. For example, if the rank 1 spell for the Benevolent Bakers uses the Resist the Elements ability (handy for working over a hot stove all day), any character who joins the Benevolent Bakers automatically gains Resist the Elements, without having to spend extra XP to learn it or trade away a type ability for it. It’s possible for a character to belong to multiple covens, as long as the covens don’t have opposed goals. Characters advance their rank in each coven separately, so a particular character might be rank 1 in the Chronographers and rank 3 in the Foretellers. If a character leaves or is removed from their coven, they immediately lose access to all of that coven’s spells.
 
 For magician NPCs in a coven, the GM can assume that their rank is equal to their NPC level (with a maximum of 6).
@@ -48668,24 +49124,29 @@ For magician NPCs in a coven, the GM can assume that their rank is equal to thei
 Spending XP to advance a character’s rank in a coven does not count as one of the four character advancements needed to reach a higher tier
 
 #### Joining A Coven
+
 Joining an existing coven at rank 1 requires a vow and a ritual. Characters must commit to pursuing the coven’s goals and living in accordance with its values. The ritual is a demonstration of dedication to the coven’s purpose, and varies in difficulty accordingly. Characters receive their talisman once the ritual is complete.
 
 #### Coven Talismans
+
 A coven talisman is a small item, such as a pendant or ring, that represents a character’s affiliation with the coven. Every coven member may carry a slightly different talisman, but they should be clearly related. The Benevolent Bakers’ talismans might include a necklace, a pin, and a keychain, all with the same whisk design.
 
 Coven talismans are a type of artifact, with a level equal to the character’s rank within the coven and a depletion of “—.” The talisman is what allows the character to use their coven abilities; if the talisman isn’t on the character’s person or within short range, all of the character’s coven magic is hindered by two steps. When a person advances within the coven, the talisman’s appearance may change to reflect this. While these talismans don’t require a depletion roll with each use, a character’s coven talisman automatically depletes if they break from the coven.
 
 #### Advancing Within A Coven
+
 Advancing within a coven is a separate matter from advancing a character. In fact, coven advancement is more similar to a long-term benefit of spending XP. Coven advancement should occur after a character has learned, discovered, or achieved something that aligns with the coven’s mission and values.
 
 To advance within the coven, the player spends 3 XP. Characters may mark the occasion with a celebration or let it pass quietly
 
 #### Breaking From A Coven
+
 If a character wishes to leave a coven, they relinquish their coven talisman and lose access to their coven abilities. But a character can also break from their coven by behaving in opposition to its values—such as if a Benevolent Baker were to knowingly poison someone. This causes their coven talisman to become depleted, meaning that they can no longer use their coven abilities.
 
 To restore their place in the coven, a disgraced character must begin by making amends with the other members. They then take their coven talisman to an epicenter and perform a ritual with a difficulty equal to their former coven rank. Upon completing the ritual, they regain that rank within the coven and can access spells accordingly.
 
 #### Forming A New Coven
+
 Creating a new coven simply requires a bit of discussion among the GM and players. Begin by deciding on the following:
 - What’s the coven called?
 - What are one or two goals for the coven’s magic? What do they want to learn how to do? What skill do the players want the coven to be known for?
@@ -48694,6 +49155,7 @@ Creating a new coven simply requires a bit of discussion among the GM and player
 - What does the initiation ritual (which exemplifies the coven’s goals and values) consist of?
 
 #### Selecting Coven Abilities
+
 Coven abilities are chosen by the GM and players. To start, they need to decide the rank 1 ability. They can determine the rank 2 ability when at least one character is ready to advance within the coven. In a longer campaign, selecting abilities on an ongoing basis—rather than choosing them all at once—means that the players can choose their next coven ability based on what obstacles they expect their characters to face.
 
 The Cypher System Rulebook divides abilities by both category and power level, which is helpful in narrowing down your options. Choose a low-tier ability for ranks 1 and 2, a mid-tier ability for ranks 3 and 4, and a high-tier ability for ranks 5 and 6.
@@ -48754,6 +49216,7 @@ If at any point the crafter fails on a subtask, the item isn’t ruined. Instead
 A player may ask to apply Effort to each subtask. Applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day
 
 ##### CRAFTING ARTIFACTS
+
 Crafting an artifact is similar to choosing a new type or focus ability—the character has many to choose from, they select the one that best fits their intention, and thereafter they can use the artifact much like they’d use any of their other character abilities. The main difference is that most artifacts don’t cost Pool points to activate, and character abilities don’t have a depletion stat that eventually removes the item from play. Crafting artifacts is handled as a long-term benefit of character advancement; the character and GM agree on the artifact to be crafted, and the character spends 3 XP. If the item is fairly simple, the GM can skip the crafting details and just say that after a period of time, the PC creates the artifact. For an item that significantly alters gameplay—granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the crafting steps for creating a magical cypher. Crafting this kind of artifact takes up to five times as many materials and up to twenty times as long as crafting a cypher of the same assessed difficulty
 
 ### RITUAL MAGIC
@@ -49166,6 +49629,7 @@ Wishing for more wishes doesn’t work because a creature shouldn’t be able to
 
 ### CRAFTING MAGIC ITEMS
 #### Crafting Cyphers
+
 1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher to create, which must be in the level range for the cypher as listed in the Cypher System Rulebook. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range and should always be treated as a level 6 cypher when crafted by a PC.
 
 2. Determine Ingredients. Crafting a magical cypher requires strange and exotic ingredients with inherent magical properties—gems, ink from weird creatures, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
@@ -49183,6 +49647,7 @@ For example, Vanya the alchemist wants to create a level 6 healing potion. A lev
 For example, Vanya’s potion brewing (assessed difficulty of 5) is divided into five subtasks (starting at difficulty 1 and ending at 5). Because the crafting time is one day, each subtask takes about five hours (twenty-four hours in a day divided by five subtasks). If Vanya fails on the difficulty 3 subtask, she’s lost five hours of work but can try again. If she fails a second time, she loses another five hours of work and ruins one of her expensive ingredients, which must be replaced before she can continue. When Vanya succeeds at the last subtask (difficulty 5), the potion is finished. Players might ask if they can apply Effort to each subtask. However, applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day.
 
 #### Magical Crafting Skills
+
 Depending on the setting, a character learning how to craft magic items might become trained or specialized in a general “crafting magic items” skill, or need to have a specific skill for each kind of item they might craft, such as “brewing potions” or “crafting wands.” The GM should decide if characters need a specific skill or if the general skill covers all sorts of crafted magic items.
 
 #### Ingredients
@@ -49222,11 +49687,13 @@ The simple way of handling artifacts in a modern fantasy game is to treat an art
 For an item that significantly alters gameplay—such as granting the character vast telepathic powers or giving them the ability to teleport at will—the GM can give the item an assessed difficulty equal to 3 + the artifact level and require the character to follow the steps for crafting a magical cypher. Crafting this kind of artifact takes up to five times as many ingredients and up to twenty times as long as crafting a cypher of the same assessed difficulty.
 
 ### FAMILIARS
+
 In the most general sense, a familiar is a creature (usually in the form of a small animal) bonded to a magical person as a companion. However, a familiar’s role, intelligence, relationship with their person, powers, and vulnerabilities vary greatly from setting to setting. A familiar might be just a pet or comfort animal, with no special abilities. They might have an empathic or telepathic connection with their person. They might be an extension of the person’s soul, with harm to the familiar causing harm to the person. They might be a fully supernatural creature, able to assist with magical tasks or provide advice. A magical world might only have one of these kinds of familiars, or any of them.
 
 CONTENT WARNING: This section talks about the death of pets.
 
 #### Standard Pet
+
 The simplest sort of familiar is one that is a normal animal that has an emotional bond with a character, essentially the same role as a typical pet or comfort animal. The familiar has no special abilities, doesn’t affect the character’s magical abilities in any way, and is not meant to help in combat. Their death doesn’t cause the character physical harm (although it probably causes emotional harm, just like the loss of any pet), and the character can gain a new familiar after a certain amount of time. For this type of familiar, a character should choose the Critter Companion ability, which gives them a level 1 creature.
 
 If the character wants a bigger or tougher creature that is otherwise still a normal animal, they should choose Beast Companion, which gives them a level 2 creature, but otherwise works the same as Critter Companion.
@@ -49234,6 +49701,7 @@ If the character wants a bigger or tougher creature that is otherwise still a no
 As a slightly more magical variant, choose either of these abilities, but instead of finding a replacement for the creature if it dies, the character can perform a magical ritual (taking 1d6 days) to return them to life.
 
 #### Unusual Familiar
+
 There’s no reason a familiar has to resemble a common Earth animal such as a cat, frog, or hawk. If the setting is a world other than Earth, and it has its own animal species that don’t exist on Earth (such as monkey-lizards, capybara-bats, and raven‑snakes), those kinds of creatures are valid choices for a familiar.
 
 If a familiar is a creature whose body is created by the bond with a magician (instead of an existing beast that the character finds and binds with magic), the GM could allow a familiar to look like an extinct animal, such as a dodo bird or Compsognathus dinosaur, or even a permanently miniature version of a large creature such as an elephant or rhinoceros.
@@ -49241,14 +49709,17 @@ If a familiar is a creature whose body is created by the bond with a magician (i
 History and fantasy literature has suggested other forms for familiars, such as fiendish-looking imps, tiny dragons, alchemy-crafted homunculi, fairies, intelligent floating skulls, and spirits resembling human children. Exactly what sorts of unusual familiars are available in the setting is up to the GM, but their appearance generally doesn’t affect their game statistics. For example, a flying skull familiar and a bat familiar probably have the same level, movement, and modifiers.
 
 #### Magical Familiar
+
 This kind of familiar is more of a magical creature than a standard pet. Advantages compared to a standard pet are the familiar’s ability to be physical or intangible, its telepathic connection to the character, and (unlike a standard pet familiar) the fact that it can’t truly die. The disadvantages of this kind of familiar are that they cannot travel too far away from you and they spend most of their time asleep and intangible instead of actively assisting you. For this type of familiar, a character should choose the Bound Magic Familiar ability.
 
 #### Soulbound Familiar
+
 This is the most powerful and versatile kind of familiar. They have significant magical abilities, but this requires a bond between the character and familiar that makes them both vulnerable in certain ways.
 
 For this type of familiar, a character should choose the Soul Familiar ability.
 
 #### Modifying A Familiar
+
 The following character abilities can be used to improve your familiar or the connection you have with it. (Although most of the ability descriptions refer to the Beast Companion ability, they have the same effect on a familiar as on a beast companion.)
 Tier 3: Stronger Together
 Tier 4: Beast Eyes
@@ -49256,6 +49727,7 @@ Tier 5: Improved Companion
 Tier 6: As If One Creature
 
 #### REVIVING ARTIFACTS
+
 While all artifacts have a depletion stat, in some settings artifacts may be “revived” after they deplete. Usually doing this has some kind of high cost, whether that be money, time, work, or the like. Depending on the setting, a character might take an artifact to a well-known repair person who charges a pretty penny for their services, they could make a bargain with a powerful entity who has special magic to bring items back to life, or they might sneak into a corporation to steal a prototype power source to get their artifact back in working condition.
 
 Typically, a revived artifact has the same depletion rate as it did when it was new. However, some repairs or fixes may be less substantial than others. In this case, move the depletion rate down to the next smaller die type. So an artifact that started at 1 in 1d00 would now be 1 in 1d20 (and if repaired again, might be 1 in 1d10). If the artifact’s depletion is already using a d6, double the depletion number (for example, from 1–2 in 1d6 to 1–4 in 1d6). If the depletion number is equal to or higher than the highest number the die can roll (like 1–6 on a d6), change the artifact’s depletion to “automatic.”
@@ -49265,6 +49737,7 @@ Typically, a revived artifact has the same depletion rate as it did when it was 
 
 
 ## Cyphers
+
 The Cypher System Rulebook assumes that subtle cyphers are the default, but depending on the nature of magic in the modern fantasy setting, some or all cyphers might be physical objects (manifest cyphers) with magical powers. This immediately creates a different gameplay dynamic than a game that uses only subtle cyphers. First, it means that the PCs can exchange cyphers with each other, allowing them better optimizations of their abilities and counteracting their weaknesses. Second, it means their cyphers can be stolen from them, forcing them to adapt to a situation without their extra magical tricks. Third, it probably means that fantastic cyphers become the norm because magic easily allows for fantastic effects.
 
   
@@ -50079,6 +50552,7 @@ Example malware cypher drawbacks are hindering the user’s attack spells, debit
 Other common malware cypher names are WarlockAntivirus, SpellManager, HexCleaner, TomeBot, and ScryBlocker.
 
 ## Artifacts
+
 If cyphers are the expendable magic that is ever-present in fantasy, artifacts are the more durable magic items that can be used over and over again—tomes of weird magic, magical vehicles, and so on. Unlike cyphers, there is no limit to how many artifacts a character can bear.
  
 |D00|Artifact|
@@ -51373,6 +51847,7 @@ Loot: In addition to standard medicines, handheld medical tools, and herbs and d
   
 
 # Cypher Shorts
+
 Cypher Shorts are what we call quick and easy adventures for use with the Cypher System. The idea here is an adventure with very quick character creation and minimal GM prep, designed for a one-shot game that can be finished in a single session of three to four hours. If a typical campaign is an ongoing television series, think of a Cypher Short as a movie.
 
 Cypher Shorts is a supplement for the Cypher System. You need the Cypher System Rulebook to play.
@@ -51388,6 +51863,7 @@ There is less of a plot than there is a situation. Plot implies a linear directi
 Just as players should use improvisation to react to and deal with situations they didn’t know were coming, the GM should be ready to do the same.
 
 ## CHARACTER CREATION
+
 Cypher Shorts use an abbreviated character creation system, even simpler than the standard Cypher System. This is to help players move quickly, without spending a lot of time deciding between this focus and that one.
 
 The following character creation guidelines are very broad, designed to work with any genre or situation. In a specific Cypher Short, it’s likely that only the type choices will be detailed, using the information here as a starting point. Descriptors and foci are general enough that they’ll work with almost any scenario. Sometimes, though, a Cypher Short might require adjustments to suit the situation.
@@ -51397,6 +51873,7 @@ Just like in the standard system, characters end up with a sentence to describe 
 All characters start with 1 XP.
 
 ### DESCRIPTORS 
+
 A descriptor quickly and easily distinguishes the character from the others. Ideally, no two players have the same descriptor.
 - Tough: Add +3 to Might Pool. You are trained in Might defense rolls.
 - Quick: Add +3 to Speed Pool. You are trained in Speed defense rolls.
@@ -51405,11 +51882,13 @@ A descriptor quickly and easily distinguishes the character from the others. Ide
 - Charming: Add +2 to Intellect Pool. You are trained in persuasion and deception.
 
 ### TYPES
+
 This is the role the character will have in the story. Types will likely change from genre
 
 to genre, particularly the type names. So in this section, we’ll talk about them in terms of the general role the character will have in the story, not what players will write on their character sheet (although a few example suggestions are provided).
 
 #### Performing Physical Actions
+
 This character might be called a Warrior, a Soldier, a Jock, or a Construction Worker (just to name a few), depending on the situation. Choose two of the following abilities:
 - Use any weapon without penalty
 - Wear armor without penalty
@@ -51417,6 +51896,7 @@ This character might be called a Warrior, a Soldier, a Jock, or a Construction W
 - Trained in two of the following: climbing, jumping, running, swimming • Add +2 to recovery rolls
 
 #### Sneaking
+
 This character might be called a Thief, a Scout, a Street Rat, or a Slacker (just to name a few), depending on the situation. Choose two of the following abilities:
 - Trained in stealth and disguise
 - Trained in perception and deception
@@ -51424,6 +51904,7 @@ This character might be called a Thief, a Scout, a Street Rat, or a Slacker (jus
 - Add +2 to recovery rolls
 
 #### Searching And Discovering 
+
 This character might be called an Explorer, a Detective, a Scientist, or a Middle Manager (just to name a few), depending on the situation. Choose two of the following abilities:
 - Trained in perception and Intellect defense rolls
 - Trained in Might and Speed defense rolls 
@@ -51431,6 +51912,7 @@ This character might be called an Explorer, a Detective, a Scientist, or a Middl
 - Trained in knowledge-based skills (history, biology, geography, and so on) • Add +2 to recovery rolls
 
 #### Talking
+
 This character might be called a Diplomat, a Priest, a Con Artist, or a Salesperson (just to name a few), depending on the situation. Choose two of the following abilities:
 - Trained in perception and deception
 - Trained in intimidation and interaction 
@@ -51438,6 +51920,7 @@ This character might be called a Diplomat, a Priest, a Con Artist, or a Salesper
 - Add +2 to recovery rolls
 
 #### Wielding Supernatural Powers 
+
 This type isn’t suited to all scenarios, obviously—it depends on the genre. This character might be called a Psychic, a Wizard, a Superhero, or a Mutant (just to name a few), depending on the situation. The player and GM will have to briefly work out the specifics together. Choose two of the following abilities:
 - Possess one offensive power (mental attacks, ray blasts, starting things on fire, and so on) that affects foes up to long range and either deals up to 4 points of damage or causes them to lose their next action. Costs 3 stat points (probably Intellect).
 - Possess one defensive power (force field, metal skin, super speed, and so on) that either grants you +3 Armor or eases defensive tasks.
@@ -51446,6 +51929,7 @@ This type isn’t suited to all scenarios, obviously—it depends on the genre. 
 - Have another power shift.
 
 ### FOCUS
+
 A focus determines the actions a character might often take in the story.
 - Fights: You’re a fighter. All of your attacks are eased, and you add +1 to your damage.
 - Plans: You think things through. You are trained in defense rolls, and you can choose two other noncombat skills in which you are trained.
@@ -51456,14 +51940,17 @@ A focus determines the actions a character might often take in the story.
 - Uses Powers: This focus won’t fit every genre. You can choose one of the abilities listed under the Wielding Supernatural Powers type. (Note: if that is already your type, you can’t select an ability you’ve already chosen, with the exception of miscellaneous powers.)
 
 ## THE SCENARIO
+
 When thinking about a Cypher Short scenario, think in terms of what you would expect to see in a movie. And not just any movie, but one where the action mostly takes place in one (probably large, hopefully interesting and dynamic) location
 
 ### SETUP
+
 This section of a Cypher Short is a brief overview of the setting and the premise of
 
 the situation. The basic statement of the genre and setting should be given to the players before they make characters.
 
 ### POSSIBLE ENCOUNTERS
+
 This section is a list of possible encounters that might happen in the scenario, depending on what the characters do, where they go, and so on. Cypher Shorts don’t rely on a keyed map or a detailed outline of a plot. Think of these as the possible scenes of your movie. More than likely, the group will have time for only five or six encounters in one session, so feel free to pick and choose the ones that best fit the way the game seems to be going.
 
 Each encounter is presented with a trigger, meaning that it is triggered by some action of the characters.
@@ -51471,17 +51958,21 @@ Each encounter is presented with a trigger, meaning that it is triggered by some
 Each encounter comes with the relevant game stats: the challenges for common tasks the PCs might attempt, the levels of NPCs involved, and other information not related to game stats, such as the answers to the questions the PCs might ask, the personality of any relevant NPC, and so on.
 
 ### GM INTRUSIONS
+
 Each Cypher Short comes with a brief list of GM intrusion suggestions that are specific to that scenario.
 
 Remember that GM intrusions are the only way for players to earn XP in the scenario, so they’re really important. At the same time, they will probably spend any XP they get. So there might be more calls for rerolls using XP in a Cypher Short adventure than you’re used to in a standard Cypher System game.
 
 ### THE CONCLUSION
+
 Ideally, as with a movie, the end of a Cypher Short session comes to a nice story conclusion (though not every ending needs to be a happy one). Hopefully, the main situation has been resolved one way or another, and the implications of what probably happens next for the characters and the setting are self-evident. But with a Cypher Short, we don’t worry too much about what happens next. It’s a one-shot scenario.
 
 ## TRAPPED IN FLAMES 
+
 The Premise: The characters work in a tall skyscraper. Suddenly, there’s an explosion, and the fire alarms start ringing!
 
 ### CHARACTER CREATION
+
 The characters should be relatively mundane people. No supernatural powers. Cypher Short character suggestions include:
 
 Office Worker: This is probably someone with the Sneaking type. The player should figure out the character’s name, a very short personality brief, what company they work for, and what their job is: data entry, customer service, accounts manager, and so on.
@@ -51499,6 +51990,7 @@ No one has any special equipment other than the typical: a cell phone, car keys,
 All random people in the building are level 2 or 3 NPCs.
 
 ### THE SETUP
+
 The characters all work in a tall skyscraper that houses many different businesses in a large city. They don’t necessarily work together or even know each other. But they’re all in a large lobby on the twenty-fifth floor, in front of a bank of four elevators, waiting for one to arrive. (A custodial worker probably is cleaning nearby rather than waiting for the elevator.) Suddenly, they hear an explosion, and the floor shudders and shakes. The fire alarms start ringing, and the power goes out, followed quickly by emergency lighting switching on, giving the area dim light.
 
 Obviously, the goal for the characters here is to get to safety. A safety-conscious person (like a security guard) would know that the safest thing to do is stay put, at least until the location of
@@ -51514,6 +52006,7 @@ Other facts:
 - Whenever the fire spreads to a new floor, the sprinklers will go off. This is enough to keep the fire from spreading too much or too quickly, but the incendiary bombs make it impossible for the sprinklers alone to put the fire out.
 
 ### POSSIBLE ENCOUNTERS  
+
 Staying Put: People from higher floors start coming down, alone or in small groups. Some of them claim to have information. Some of it is true and some isn’t. Things they might try to say include:
 - A gas main broke, and not only is there a fire danger, but the building is also filling with gas. (This is false.)
 - This is a terror attack! We have to get out of here at any cost! (This is true, although this NPC has no evidence or details, and the hysterical panic they feel probably doesn’t help.)
@@ -51541,6 +52034,7 @@ Fire! If the PCs descend to the eleventh floor, they find fire rages there (and 
 Firefighters to the Rescue: Eventually, the firefighters make a clear and relatively safe path out of the building through one of the stairwells, and they work to get everyone out. This is a great time for one last GM intrusion, or for the PCs who have seen the bomber to spot him trying to sneak out posing as a victim—perhaps as they exit the building.
 
 ### GM INTRUSIONS
+
 Explosion: First and foremost, the GM’s best tools in this scenario are the subsequent explosions from more bombs. The bomber has planted many bombs throughout the building, and they can go off any time, any place. This isn’t just one GM intrusion, but several, and they come in two varieties:
 
 Close explosion: One or more PCs are threatened by falling debris (difficulty 5). Speed defense rolls are required; otherwise, victims suffer 6 points of damage and are trapped and need to work to get free.
@@ -51550,6 +52044,7 @@ Very close explosion: All PCs must succeed at Speed defense rolls or suffer dama
 The Terrorist: The PCs spot the bomber setting another bomb. He is a level 5 NPC with body armor (+2 Armor), a handgun, and a knife. He’ll fight, but mostly he just wants to get away. A GM intrusion allowing him to get away from aggressive PCs means they can encounter him again somewhere else. Eventually, he tries to get to the roof and signal his ally in the helicopter to pick him up. Failing that, he ditches his gear and tries to get out with the rest of the victims when the firefighters arrive.
 
 ### THE CONCLUSION
+
 Ultimately, the PCs very likely just want to get to safety. When they do, the scenario is pretty much over. They’re wrapped in blankets by firefighters and loaded into ambulances. If they stopped or apprehended the bomber, the authorities will want to talk to them, and they will be hailed as heroes in the press.
 
 It’s not hard to imagine how you could modify this scenario slightly for the science fiction genre using a space station rather than a skyscraper. You could also have one of the PCs be an undercover FBI agent on the lookout for the terrorist, or even an undercover foreign agent working for the terrorist
