@@ -1,4 +1,4 @@
-# Project status
+# Welcome !
 
 This is a work in progress ! Everything should be in and categorized. Formatting still need Loads of work.
 
@@ -22,7 +22,37 @@ Further projects, that could happen within CSOL, that we want to support include
 - Use with Obsidian (https://obsidian.md/) or similar GM tools
 - Integration in VTT websites
 - Fan content standardisation for inclusion in reference sites
+# Progress
 
+Work on CSRD 2025-08-22
+- [x] Everything's in, in the right parts
+Core
+- [x] How To Play The Cypher System
+- [x] Characters
+	- [x] Types, flavors, focus
+	- [x] Abilities
+	- [x] Equipment
+		- [ ] Keep standard equipment from fantasy ?
+- [x] Rules
+	- [x] Rules of the Game
+		- [x] Key Concepts
+		- [x] Taking Action
+		- [x] Actions
+		- [x] Action: Attack
+			- [x] Damage
+			- [x] Attack Mods and special situations
+		- [x] Action: Activate a Special Ability
+		- [x] Action: Move
+		- [x] Action: Wait
+		- [x] Action: Do Something else
+		- [x] Followers
+	- [x] Experience Points
+- [ ] Game Mastering
+	- [ ] Creatures and NPC
+	- [ ] Cyphers
+	- [ ] Artifacts
+- [ ] Cutting and Linking
+Genres
 ## Formatting reference
 
 This document uses markdown best practices
