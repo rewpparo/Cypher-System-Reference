@@ -25,13 +25,13 @@ Further projects, that could happen within CSOL, that we want to support include
 
 ## Formatting reference
 
-This document should use markdown best practices
+This document uses markdown best practices
 https://www.markdownguide.org/basic-syntax/
-- Use two trailing whitespaces to indicate a line break
+- Use two trailing whitespaces to indicate a line break inside a paragraph
 - Use a blank line to indicate paragraphs
 - Use a blank line before and after headings
 - Never use more 5 level of headings (5x# max)
-- To comply with safe linking, never use in a header a character that would not be a filename
+- Never use in a header a character that would not be a filename.
 	 - https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
 
 ## Cards
@@ -40,24 +40,36 @@ Cards are categories of brief descriptions that follow, or could follow, the sam
 
 Card types are defined below, and the most precise and consistent formatting should be applied for this content.
 
-All Cards follow the following principles :
+All Cards follow the following principles :  
 - Cards are contained in their own headings
 	- They start with a heading, whose name is the name of the object described in the card.
-	- They end just before the next heading.
+	- They end just before the next heading or end of file
 	- The goal is that the text can be cut along heading line, including starting heading and ignoring next heading, and provide consistent cards.
 	- The name of the card is the name of what is described in the card. 
 		- If multiple names are possible, then the most common name is used, and the other names should be included where the name is on the card. 
 - Cards start with a tagline
-	- The first line of the card, should be the name, then tags.
+	- The first paragraph of the card, should be in one line the name, then tags.
 	- Tags are composed of the character # and a single token, without spaces
 	- Tags should never be guessed or imported from outside the document. It should be explicit somewhere in the document that this tag applies. 
 	- Tags however can be infered from the document. If a type is explicitly endorsed by a genre, all abilities of that types should be implicitly endorsed for the genre
 	- The first tag should be the card type tag. Each type below defines its tag
-	- #Obsolete can be used here to mark the card as removed from newer versions of the game.
+	- #Obsolete can be used after type tag to mark the card as removed from newer versions of the game.
 	- Following tags should include categories of the type of cards.
 	- Then Tags should include Genre tags.
 		- If the card is defined in the core rules (as opposed to a module or genre), the #Core tag should be on the tag line. 
 		- If any genre explicitly endorses or defines that card, a tag with the name of the genre should be applied. A genre endorsement could be implicit, as in an ability in a type or focus that is recommanded should be tagged for that genre.
+			- #Fantasy
+			- #Modern
+			- #ScienceFiction
+			- #Horror 
+			- #Romance 
+			- #SuperHeroes 
+			- #PostApo
+			- #FairyTale
+			- #Historical
+			- #Cyberpunk
+			- #WeirdWest
+			- #ModernFantasy
 	- Cards have blocks that are defined for each type. 
 		- A block ends with a free line. 
 		- Blocks cannot contain free lines. 
@@ -76,16 +88,18 @@ All Cards follow the following principles :
 
 - Tagline should be
 	- Ability Name(s)
+	- Ability Cost
 	- #Ability
 	- Tag for ability tier ( #Low #Mid or #High) as defined in core ability list
-	- Catergory Tag(s)
+	- #Unused if the ability is not referenced by anything else in the document (type, focus...)
+	- Category Tag(s)
 		- #AttackAbility 
 		- #CompanionAbility 
 		- #ControlAbility 
 		- #CraftAbility 
 		- #CureAbility 
-		- #EnvonmentAbility 
-		- #informationAbility 
+		- #EnvironmentAbility 
+		- #InformationAbility 
 		- #MetaAbility 
 		- #MovementAbility 
 		- #ProtectionAbility 
@@ -96,10 +110,10 @@ All Cards follow the following principles :
 		- #TaskAbility 
 		- #TransformAbility 
 		- Any ability category defined in the main abilities list or elsewhere in the document
-		- If no category is explicitely specified somewhere in CSRD, no category tag should be set
+		- If no category is explicitly specified somewhere in CSRD, no category tag should be set
 	- Genre Tags
-- Aptitude freeform block
-	- Last line should only contain usage : "Enabler" or "Action" sentence.
+- Aptitude freeform
+- Last paragraph should only contain usage : "Enabler" or "Action" sentence.
 
 ### Type
 
@@ -166,6 +180,7 @@ All Cards follow the following principles :
 		- #EnvironmentFocus
 		- #ExplorationFocus
 		- #InfluenceFocus
+		- #IrregularFocus
 		- #MovementFocus
 		- #StrikerFocus 
 		- #SupportFocus
@@ -273,5 +288,8 @@ Should follow the following template :
 
 ## Linking conventions
 
-- Links use Markdown convention, linking to relative file path ?
-- How do I make this work in one file and in multiple files ? Prioritise multiple files in the meantime
+- Links are going to be a mess. main linking will happen once we have a complete file, after the main file is split up.
+- For now, use markdown standard links to headers. Link to # then header name, all lowercase, - instead of space. Special characters removed
+	- [https://blog.markdowntools.com/posts/how-to-link-to-a-header-in-markdown](https://blog.markdowntools.com/posts/markdown-internal-links)
+- How do I make this work in one file and in multiple files ? Let's deal with single file for now, and relink when splitting the full file
+ 
