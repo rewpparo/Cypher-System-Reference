@@ -106,12 +106,6 @@ All Cards follow the following principles :
 	- A bullet point list is a series of consecutive lines that start with dash space "- "
 	- A numbered list is a series of consecutive lines that start with number dot space "1. ", with number increasing each line.
 	- The card ends with one free line, the one closing the last block
-- Cards are part of listings
-	- The header above a card is considered a listing
-	- A listing can be referenced by tools as additional information on the card.
-	- Listings should not contain headers that are not cards, or mixing card types.
-	- Listings can contain short information of any nature.
-	- Recommended information may include : information on the listing (genre, subtle or manifest, module, setting...) and/or random tables.
 
 ### Abilities
 
