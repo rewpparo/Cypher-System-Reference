@@ -231,15 +231,31 @@ All Cards follow the following principles :
 - Tagline should be :
 	- Item Name(s)
 	- #Item
+	- Item Type if applicable
+		- #WeaponLight 
+		- #WeaponMedium 
+		- #WeaponHeavy 
+		- #ArmorLight 
+		- #ArmorMedium 
+		- #ArmorHeavy 
+		- #Shield 
+		- #Ammo
 	- Price tag : 
-		- #Inexpensive
-		- #Moderate
-		- #Expensive
-		- #VeryExpensive
+		- #Inexpensive 
+		- #Moderate 
+		- #Expensive 
+		- #VeryExpensive 
 		- #Exorbitant 
 	- Genre tags
-- Description of the item as a freeform block
+- Description of the item as a freeform
 
+|Category|GP Value|
+|--|--|
+|Inexpensive|Less than 1 gp|
+|Moderate|1–10 gp|
+|Expensive|100–500 gp|
+|Very expensive|1,000–10,000 gp|
+|Exorbitant|10,000+ gp|
 ### Cypher
 
 - Tagline should be :
