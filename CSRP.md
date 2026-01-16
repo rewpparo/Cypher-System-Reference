@@ -365,15 +365,15 @@ The verb is called your focus.
 
 Even though character type is in the middle of the sentence, that’s where we’ll start this discussion. (Just as in a sentence, the noun provides the foundation.)
 
-Your character type is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an _adjective noun_ who _verbs_.”
+Your character type is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective* *noun* who *verbs*.”
 
 You can choose from four character types: Warriors, Adepts, Explorers, and Speakers.
 
-Your descriptor defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an _adjective noun_ who _verbs_.”
+Your descriptor defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an *adjective* *noun* who *verbs*.”
 
 Unless your GM says otherwise, you can choose from any of the character descriptors.
 
-Focus is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence “I am an _adjective noun_ who _verbs_.”
+Focus is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence “I am an *adjective* *noun* who *verbs*.”
 
 There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
 
@@ -1433,9 +1433,9 @@ A Warrior flavored with skills and knowledge might be a military engineer. An Ex
 
 ## Descriptor
 
-Your descriptor defines your character—it flavors everything you do. The differences between a Charming Explorer and a Vicious Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an _adjective noun_ who _verbs_.”
+Your descriptor defines your character—it flavors everything you do. The differences between a Charming Explorer and a Vicious Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an *adjective* *noun* who *verbs*.”
 
-Descriptors offer a one-time package of extra abilities, skills, or modifications to your stat Pools. Not all of a descriptor’s offerings are positive character modifications. For example, some descriptors have inabilities—tasks that a character isn’t good at. You can think of inabilities as negative skills—instead of being one step better at that kind of task, you’re one step worse. If you become skilled at a task that you have an inability with, they cancel out. Remember that characters are defined as much by what they’re _not_ good at as by what they _are_ good at.
+Descriptors offer a one-time package of extra abilities, skills, or modifications to your stat Pools. Not all of a descriptor’s offerings are positive character modifications. For example, some descriptors have inabilities—tasks that a character isn’t good at. You can think of inabilities as negative skills—instead of being one step better at that kind of task, you’re one step worse. If you become skilled at a task that you have an inability with, they cancel out. Remember that characters are defined as much by what they’re *not* good at as by what they *are* good at.
 
 Descriptors also offer a few brief suggestions for how your character got involved with the rest of the group on their first adventure. You can use these, or not, as you wish.
 
@@ -2485,7 +2485,7 @@ Initial Link to the Starting Adventure: From the following list of options, choo
 
 ## Focus
 
-Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It’s the verb of the sentence “I am an _adjective noun_ who _verbs_.”
+Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It’s the verb of the sentence “I am an *adjective* *noun* who *verbs*.”
 
 This chapter contains nearly a hundred sample foci, such as Bears a Halo of Fire, Would Rather Be Reading, and Pilots Starcraft. These foci can be chosen and used as presented by a player, or by the GM who adds them to a list of available foci for their players in their next campaign.
 
@@ -2569,7 +2569,7 @@ The foci in this book have been purposely stripped down to basics so they have t
 
 For instance, if you choose Operates Undercover, the summarizing description is “Under the guise of someone else, you seek to find answers the powerful do not want divulged.” If you choose Conducts Weird Science, the summary is “Your preternatural insight and ability make you a scientist capable of amazing feats.” These descriptions provide what you need to know to use the focus.
 
-However, if you wish (and _only_ if you wish; there is no requirement to do so), you can add more to those descriptions in a fashion that’s relevant for your game. For example, if you choose both Operates Undercover and Conducts Weird Science for use in a modern genre such as horror, urban fantasy, espionage, or something similar, you might expand the descriptions as shown in the following examples.
+However, if you wish (and *only* if you wish; there is no requirement to do so), you can add more to those descriptions in a fashion that’s relevant for your game. For example, if you choose both Operates Undercover and Conducts Weird Science for use in a modern genre such as horror, urban fantasy, espionage, or something similar, you might expand the descriptions as shown in the following examples.
 
 Operates Undercover: Espionage is not something you know anything about. At least, that’s what you want everyone to believe, because in truth, you’ve been trained as a spy or covert agent. You might work for a government or for yourself. You might be a police detective or a criminal. You could even be an investigative reporter.
 
@@ -2672,7 +2672,7 @@ Finally, this ability might improve a previously gained follower to level 5.
 
 Tier 6: Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 
-One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided _in addition_ to two other related abilities.
+One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided *in addition* to two other related abilities.
 
 Another high-tier option could provide a handful of level 3 followers to the character.
 
@@ -3242,7 +3242,7 @@ If you’re creating a focus and you think it should provide a suite of abilitie
 
 Choosing to create a focus that uses a particular concept—say, creating illusions—doesn’t lock you into creating a focus within a particular category—in this case, environment manipulation. A focus can be constructed in a variety of ways using a particular energy, tool, or concept, each ultimately leading to a focus that provides different results. It all depends on your ends. In this case, creating illusions might be used to sway others, which argues for a focus built using the influence category guidelines.
 
-In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn’t mean the focus should automatically be built using the energy manipulation category guidelines (though of course it _could,_ if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
+In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn’t mean the focus should automatically be built using the energy manipulation category guidelines (though of course it *could,* if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
 
 Here’s another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
 
@@ -19042,9 +19042,9 @@ Kaiju heal quickly, usually at a rate of 2 points per round.
 
 Kaiju are rare and devastating enough that most are dubbed with a unique identifier by survivors. The entry for each creature below notes only where it varies from the base creature described above.
 
-_Rampagion:_ This kaiju has been estimated to be almost 1,000 feet (300 m) high. Once per day, it can make a charging trample attack, dealing its damage in a line 300 feet (90 m) wide and 2 miles (3 km) long. Rampagion has 10 Armor and deals 20 points of damage with a physical attack (or 8 points if a victim makes a successful Speed defense roll).
-
-_Suneko:_ This kaiju’s body, which resembles a cross between a lion and a lizard, is so hot that its skin glows like red coals, its mane like the sun’s corona, and its eyes like beaming searchlights. Suneko automatically deals 10 points of damage to everyone within immediate range. The creature can emit twin rays of plasma from its eyes in a focused beam that can reach as far as the horizon, which from Suneko’s height above the ground is about 22 miles (35 km). When it makes its eyebeam attack, it stops emitting killing heat in immediate range for about one minute.
+> Rampagion: This kaiju has been estimated to be almost 1,000 feet (300 m) high. Once per day, it can make a charging trample attack, dealing its damage in a line 300 feet (90 m) wide and 2 miles (3 km) long. Rampagion has 10 Armor and deals 20 points of damage with a physical attack (or 8 points if a victim makes a successful Speed defense roll).
+> 
+> Suneko: This kaiju’s body, which resembles a cross between a lion and a lizard, is so hot that its skin glows like red coals, its mane like the sun’s corona, and its eyes like beaming searchlights. Suneko automatically deals 10 points of damage to everyone within immediate range. The creature can emit twin rays of plasma from its eyes in a focused beam that can reach as far as the horizon, which from Suneko’s height above the ground is about 22 miles (35 km). When it makes its eyebeam attack, it stops emitting killing heat in immediate range for about one minute.
 
 Interaction: Most PCs can’t directly interact with a kaiju unless they have some special device or association allowing them to get the attention of one of the massive creatures. Doing so could give the characters a chance to trick or lure the beast, or maybe even persuade one kaiju to fight another.
 
@@ -20542,14 +20542,14 @@ Modifications: Resists mental attacks and deception as level 8; understands, rep
 
 Combat: Doctor Dread’s armor allows her to exist without outside air (or air pressure), food, or water for up to ten days at a time. She can call on her robotic armor to accomplish a variety of tasks, including the following:
 
-_Barricade:_ Establish an immobile, two-dimensional field  
-of transparent force 10 feet by 10 feet (3 m by 3 m) for ten minutes
-
-_Energy Cloak:_ Create an energy field that gives her +5 to Armor against heat, cold, or magnetism (one at a time, chosen when she uses the power) for ten minutes
-
-_Fade:_ Become invisible for one minute, or until she makes an attack
-
-_Plasma Blast:_ Long-range heat and electricity blast that inflicts 7 points of damage
+> Barricade: Establish an immobile, two-dimensional field  
+> of transparent force 10 feet by 10 feet (3 m by 3 m) for ten minutes
+> 
+> Energy Cloak: Create an energy field that gives her +5 to Armor against heat, cold, or magnetism (one at a time, chosen when she uses the power) for ten minutes
+> 
+> Fade: Become invisible for one minute, or until she makes an attack
+> 
+> Plasma Blast: Long-range heat and electricity blast that inflicts 7 points of damage
 
 Interaction: Doctor Dread is slightly mad, but that’s normally disguised by her amazing brilliance. She is an egomaniac but will negotiate in return for a promise of wealth or biomedical lore she doesn’t already know.
 

@@ -142,6 +142,7 @@ All Cards follow the following principles :
 		- If no category is explicitly specified somewhere in CSRD, no category tag should be set
 	- Genre Tags
 - Aptitude freeform
+- If abilities are defined in abilities, either make the 
 - Last paragraph should only contain usage : "Enabler" or "Action" sentence.
 
 ### Type
