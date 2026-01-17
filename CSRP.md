@@ -18536,123 +18536,6 @@ Loot: This entry indicates what the PCs might gain if they take items from their
 
 GM Intrusion: This optional entry in the stats suggests a way to use GM intrusion in an encounter with the creature. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
 
-**FANTASY CREATURES AND NPCs BY LEVEL**
-
-|Level|Name|
-|---|---|
-|1|Goblin|
-|1|Shadow|
-|2|Guard|
-|2|Morlock|
-|2|Orc*|
-|2|Skeleton|
-|2|Wraith|
-|3|Bard|
-|3|Berserker|
-|3|Crime boss*|
-|3|Deinonychus|
-|3|Faerie|
-|3|Giant rat|
-|3|Giant spider|
-|3|Halfling|
-|3|Harpy|
-|3|Merfolk|
-|3|Sapient tree|
-|3|Thug|
-|3|Transitional vampire|
-|3|Zombie|
-|4|Deep one|
-|4|Devil|
-|4|Druid|
-|4|Dwarf|
-|4|Elemental, air|
-|4|Elemental, fire|
-|4|Elemental, water|
-|4|Elf|
-|4|Ghost|
-|4|Ghoul|
-|4|Giant snake|
-|4|Hollow knight|
-|4|Minotour|
-|4|Ogre*|
-|4|Paladin|
-|4|Shadow elf|
-|4|Thief|
-|4|Werewolf|
-|5|Basilisk|
-|5|Cambion|
-|5|Demon|
-|5|Elemental, earth|
-|5|Fallen angel|
-|5|Gorgon|
-|5|Mi-go|
-|5|Necromancer|
-|5|Occultist*|
-|5|Prince(ss) of summer|
-|5|Satyr|
-|5|Soul Eater|
-|5|Wendigo|
-|5|Witch|
-|6|Assassin|
-|6|Blackguard|
-|4|Elemental, water|
-|4|Elemental, water|
-|4|Elf|
-|4|Ghost|
-|4|Ghoul|
-|4|Giant snake|
-|4|Hollow knight|
-|4|Minotour|
-|4|Ogre|
-|4|Paladin|
-|4|Shadow elf|
-|4|Thief|
-|4|Werewolf|
-|5|Basilisk|
-|5|Cambion|
-|5|Demon|
-|5|Elemental, earth|
-|5|Fallen angel|
-|5|Gorgon|
-|5|Mi-go|
-|5|Necromancer|
-|5|Occultist|
-|5|Prince(ss) of summer|
-|5|Satyr|
-|5|Soul Eater|
-|5|Wendigo|
-|5|Witch|
-|6|Assassin|
-|6|Blackguard|
-|6|Chimera|
-|6|Elemental, thorn|
-|6|Golem|
-|6|Hag|
-|6|Jotunn, fire|
-|6|Jotunn, frost|
-|6|Manticore|
-|6|Puppet tree|
-|6|Troll|
-|6|Vampire|
-|6|Wyvern|
-|7|Corrupt mage|
-|7|Cyclops|
-|7|Djinni|
-|7|Dragon|
-|7|Evil priest|
-|7|Giant|
-|7|Hydra|
-|7|Noble knight|
-|7|Sphinx|
-|7|Statue, animate|
-|7|Tyrannosaurus rex|
-|7|Worm that walks|
-|8|Lich|
-|8|Wizard, mighty|
-|9|Demigod|
-|9|Demon Lord|
-|10|Kaiju|
-
 **BIGGER AND TOUGHER**
 
 If you need a larger or tougher version of a creature, such as a dire wolf or a giant crocodile, you can just increase the creature’s level (and all of its modifications) by 1 or 2. If the creature has a damage or health stat that isn’t the default for its level, take that into account at the modified creature’s new level.
@@ -22169,7 +22052,7 @@ Many NPCs are simple and understandable enough to be encapsulated just by their 
 
 ### Cannibal
 
-Cannibal #lvl3 (9) #Creature #Core
+Cannibal #lvl3 (9) #Creature #Core #Fantasy #Horror 
 
 Health: 12
 
@@ -22177,19 +22060,19 @@ Modifications: deception and other interaction tasks as level 6
 
 ### Hacker
 
-Hacker #lvl2 (6) #Creature #Core
+Hacker #lvl2 (6) #Creature #Core #ScienceFiction #Cyberpunk 
 
 Modifications: programming, digital infiltration, and repairing computers as level 7
 
 ### Mad scientist
 
-Mad scientist #lvl4 (12) #Creature #Core 
+Mad scientist #lvl4 (12) #Creature #Core #Modern #Cyberpunk #Horror 
 
 Modifications: most actions as level 6 due to gadgets, serums, artifacts, etc.
 
 ### Marauder
 
-Marauder #lvl4 (12) #Creature #Core
+Marauder #lvl4 (12) #Creature #Core #PostApo #Cyberpunk 
 
 Health: 28
 
@@ -22199,31 +22082,31 @@ Modifications: initiative and intimidation as level 7
 
 ### Master detective
 
-Master detective #lvl5 (15) #Creature #Core 
+Master detective #lvl5 (15) #Creature #Core #Modern 
 
 Modifications: perception, intuition, initiative, and detecting falsehood as level 9
 
 ### Politician
 
-Politician #lvl2 (6) #Creature #Core 
+Politician #lvl2 (6) #Creature #Core #Modern #Fantasy 
 
 Modifications: all interaction tasks as level 6
 
 ### Priest
 
-Priest #lvl2 (6) #Creature #Core 
+Priest #lvl2 (6) #Creature #Core #Modern #Fantasy 
 
 Modifications: religious lore and all interaction tasks as level 6
 
 ### Professor
 
-Professor #lvl2 (6) #Creature #Core 
+Professor #lvl2 (6) #Creature #Core #Modern #Fantasy 
 
 Modifications: knowledge of science and all interaction tasks as level 6
 
 ### Soldier
 
-Soldier #lvl3 (9) #Creature #Core 
+Soldier #lvl3 (9) #Creature #Core #Modern #Fantasy #ScienceFiction 
 
 Health: 12
 
@@ -22317,7 +22200,7 @@ Loot: In addition to their weapons and light armor, a berserker has one or two m
 
 ### CRIME BOSS
 
-CRIME BOSS #lvl3 (9) #Creature  #Core #Fantasy 
+CRIME BOSS #lvl3 (9) #Creature  #Core #Fantasy #Modern #Cyberpunk #ScienceFiction 
 
 A crime boss usually isn’t physically powerful but wields power through lies, bribery, and control. Rarely encountered alone, they rely on guards, thugs, and other measures to provide physical security. A crime boss could be a petty noble, a mafia king, or the captain of a pirate ship that sails the seas or glides the space lanes.
 
@@ -22345,7 +22228,7 @@ GM intrusion: The crime boss uses a clever trick or cypher to block all incoming
 
 ### DETECTIVE
 
-DETECTIVE #lvl3 (9) #Creature  #Core #Fantasy 
+DETECTIVE #lvl3 (9) #Creature  #Core #Modern 
 
 Detectives are usually veterans of their organization (such as the police, city watch, marshals, space command, and so on) with extensive experience. Some detectives are freelance sleuths whose uncanny ability to see the truth comes from personal training combined with an underlying talent for noticing clues that others miss.
 
@@ -22567,7 +22450,7 @@ Loot: In addition to their weapons and armor, paladins might have one or two cyp
 
 ### SECRET AGENT
 
-SECRET AGENT #lvl5 (15) #Creature #Core #Fantasy 
+SECRET AGENT #lvl5 (15) #Creature #Core #Modern 
 
 Secret agents are trained professionals who put their mission before their own well-being, regardless of which government agency, corporation, guild, or kingdom employs them. An agent operates under a fake cover, perhaps as an envoy, inspector, technician, actor, tourist, or bumbling fool.
 
@@ -22593,7 +22476,7 @@ GM intrusion: The secret agent produces a cypher that, for the rest of the day, 
 
 ### THIEF
 
-THIEF #lvl4 (12) #Creature #Core #Fantasy 
+THIEF #lvl4 (12) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction #PostApo 
 
 A thief takes things that don’t belong to them—preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets. 
 
@@ -22619,7 +22502,7 @@ Loot: Thieves usually carry light tools, a few small weapons, miscellaneous equi
 
 ### THUG
 
-THUG #lvl3 (9) #Creature #Core #Fantasy 
+THUG #lvl3 (9) #Creature #Core #Fantasy #Modern #Cyberpunk #ScienceFiction 
 
 Thugs are usually rough, crude, and harsh individuals who prey on those who follow the rules. A thug might be a streetwise drug dealer, a bandit who hunts lone travelers in the wilds, a savage warrior adroit with ranged weapons, or a cyberbully among pacifists. Most thugs work for themselves, but they may employ gangs of guards to help them conduct their business.
 
@@ -26653,6 +26536,124 @@ OTHER CREATURES AND NPCs FOR A FANTASY GAME
 - Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
 - Wolf: level 3, perception as level 4
 - Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
+
+**FANTASY CREATURES AND NPCs BY LEVEL**
+
+|Level|Name|
+|---|---|
+|1|Goblin|
+|1|Shadow|
+|2|Guard|
+|2|Morlock|
+|2|Orc*|
+|2|Skeleton|
+|2|Wraith|
+|3|Bard|
+|3|Berserker|
+|3|Crime boss*|
+|3|Deinonychus|
+|3|Faerie|
+|3|Giant rat|
+|3|Giant spider|
+|3|Halfling|
+|3|Harpy|
+|3|Merfolk|
+|3|Sapient tree|
+|3|Thug|
+|3|Transitional vampire|
+|3|Zombie|
+|4|Deep one|
+|4|Devil|
+|4|Druid|
+|4|Dwarf|
+|4|Elemental, air|
+|4|Elemental, fire|
+|4|Elemental, water|
+|4|Elf|
+|4|Ghost|
+|4|Ghoul|
+|4|Giant snake|
+|4|Hollow knight|
+|4|Minotour|
+|4|Ogre*|
+|4|Paladin|
+|4|Shadow elf|
+|4|Thief|
+|4|Werewolf|
+|5|Basilisk|
+|5|Cambion|
+|5|Demon|
+|5|Elemental, earth|
+|5|Fallen angel|
+|5|Gorgon|
+|5|Mi-go|
+|5|Necromancer|
+|5|Occultist*|
+|5|Prince(ss) of summer|
+|5|Satyr|
+|5|Soul Eater|
+|5|Wendigo|
+|5|Witch|
+|6|Assassin|
+|6|Blackguard|
+|4|Elemental, water|
+|4|Elemental, water|
+|4|Elf|
+|4|Ghost|
+|4|Ghoul|
+|4|Giant snake|
+|4|Hollow knight|
+|4|Minotour|
+|4|Ogre|
+|4|Paladin|
+|4|Shadow elf|
+|4|Thief|
+|4|Werewolf|
+|5|Basilisk|
+|5|Cambion|
+|5|Demon|
+|5|Elemental, earth|
+|5|Fallen angel|
+|5|Gorgon|
+|5|Mi-go|
+|5|Necromancer|
+|5|Occultist|
+|5|Prince(ss) of summer|
+|5|Satyr|
+|5|Soul Eater|
+|5|Wendigo|
+|5|Witch|
+|6|Assassin|
+|6|Blackguard|
+|6|Chimera|
+|6|Elemental, thorn|
+|6|Golem|
+|6|Hag|
+|6|Jotunn, fire|
+|6|Jotunn, frost|
+|6|Manticore|
+|6|Puppet tree|
+|6|Troll|
+|6|Vampire|
+|6|Wyvern|
+|7|Corrupt mage|
+|7|Cyclops|
+|7|Djinni|
+|7|Dragon|
+|7|Evil priest|
+|7|Giant|
+|7|Hydra|
+|7|Noble knight|
+|7|Sphinx|
+|7|Statue, animate|
+|7|Tyrannosaurus rex|
+|7|Worm that walks|
+|8|Lich|
+|8|Wizard, mighty|
+|9|Demigod|
+|9|Demon Lord|
+|10|Kaiju|
+
 
 # Modern
 

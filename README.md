@@ -31,7 +31,7 @@ Core
 - [x] Characters
 	- [x] Types, flavors, focus
 	- [x] Abilities
-	- [ ] Equipment
+	- [x] Equipment
 - [x] Rules
 	- [x] Rules of the Game
 		- [x] Key Concepts
@@ -47,8 +47,8 @@ Core
 		- [x] Followers
 	- [x] Experience Points
 - [x] Game Mastering
-	- [x] Creatures and NPC
-	- [x] Cyphers
+	- [ ] Creatures and NPC
+	- [ ] Cyphers
 	- [x] Running the Cypher System
 - [ ] Cutting and Linking
 Genres
