@@ -25322,11 +25322,15 @@ All of the cyphers in this chapter are manifest and fantastic cyphers.
 | 99-00 | Walking corpse         |
 #### ACID RESISTANCE
 
+Acid Resistance #Cypher #Manifest #Fantastic #Fantasy 
+
 Level: 1d6 + 3 
 
 Effect: The user gains Armor against acid damage equal to the cypher’s level for one hour. 
 
-#### ANIMAL CONTROL 
+#### ANIMAL CONTROL
+
+Animal Control #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25336,7 +25340,9 @@ The cypher doesn’t give the user any special ability to understand the target 
 
 “Beast” in this sense refers to creatures of animal-level intelligence and may include unintelligent magical creatures like basilisks, pegasi, and so on.
 
-#### BEAST SHAPE 
+#### BEAST SHAPE
+
+Beast Shape #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25348,19 +25354,25 @@ After about an hour, the user returns to their normal form.
 
 Depending on the cypher, the user might still be able to speak in a humanoid language, talk in a “language” of animal noises that other transformed people can understand perfectly, speak with animals of the same kind, or none of the above.
 
-#### COLD RESISTANCE 
+#### COLD RESISTANCE
+
+Cold Resistance #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 3 
 
 Effect: The user gains Armor against cold damage equal to the cypher’s level for one hour. 
 
-#### DEMON WARD 
+#### DEMON WARD
+
+Demon Ward #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
 Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from demons, devils, and similar malevolent creatures.
 
-#### DRAGON WARD 
+#### DRAGON WARD
+
+Dragon Ward #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25368,13 +25380,17 @@ Effect: For one hour, the user gains Armor equal to the cypher’s level against
 
 In a typical fantasy campaign, a demon is a supernatural being from another dimension or plane of existence.
 
-#### ELECTRICITY RESISTANCE 
+#### ELECTRICITY RESISTANCE
+
+Electricity Resistance #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 3 
 
 Effect: The user gains Armor against electricity damage equal to the cypher’s level for one hour. 
 
-#### ELEMENTAL CONJURATION 
+#### ELEMENTAL CONJURATION
+
+Elemental Conjuration #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25384,13 +25400,17 @@ The elemental is not particularly intelligent or capable of initiating action. I
 
 The elemental remains for one hour per cypher level or until its physical form is destroyed, after which it vanishes back to its native realm. 
 
-#### FIRE RESISTANCE 
+#### FIRE RESISTANCE
+
+Fire Resistance #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 3 
 
 Effect: The user gains Armor against fire damage equal to the cypher’s level for one hour.
 
-#### GIANT SIZE 
+#### GIANT SIZE
+
+Giant Size #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25400,13 +25420,17 @@ They return to their normal size after a minute. When the effect ends, their Mig
 
 If the user is an NPC, the cypher increases their health by 4, eases their Might-based tasks, and hinders their Speed defense. When the effect ends, they lose 4 health and all of the other advantages and penalties from the cypher. 
 
-#### INSTANT BOAT 
+#### INSTANT BOAT
+
+Instant Boat #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 2 
 
 Effect: Creates or transforms into a small sailboat that can carry up to eight people. The user or other characters must row, steer, and sail the boat as normal. At cypher level 5 and higher, the boat grants an asset on all tasks relating to its movement, and at cypher level 7 and higher, the boat can move a short distance each round under its own power. The boat lasts for a day, after which it vanishes.
 
-#### INSTANT TOWER 
+#### INSTANT TOWER
+
+Instant Tower #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25414,7 +25438,9 @@ Effect: Creates a simple, squat stone tower with a door, three arrow slits, and 
 
 The tower is permanent and immobile once created. 
 
-#### LYCANTHROPE WARD 
+#### LYCANTHROPE WARD
+
+Lycantrope Ward #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25422,7 +25448,9 @@ Effect: For one hour, the user gains Armor equal to the cypher’s level against
 
 Lycanthrope: Formally, a human who can transform into a wolf. Informally, a human who can transform into an animal, such as a bear, rat, tiger, or wolf
 
-#### PENULTIMATE KEY 
+#### PENULTIMATE KEY
+
+Penultimate Key #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25432,23 +25460,31 @@ Legends speak of the Ultimate Key, which can open any lock, even those sealed by
 
 #### POISON RESISTANCE
 
+Poison Resistance #Cypher #Manifest #Fantastic #Fantasy 
+
 Level: 1d6 + 3 
 
 Effect: The user gains Armor against poison damage equal to the cypher’s level for one hour.
 
-#### RESTORATIVE AURA 
+#### RESTORATIVE AURA
+
+Restorative Aura #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
 Effect: Creates an immediate area filled with aromatic smoke, reassuring sounds, gentle light, or other pleasing sensations that last for one hour. Creatures who rest within the area gain +2 on their recovery rolls (or +4 for cypher level 5 and higher). NPCs instead recover 2 health if they spend at least ten minutes within the area (or 4 health for cypher level 5 and higher). For a creature to gain this benefit, its entire rest must occur while the cypher is active. 
 
-#### THOUGHT LISTENING 
+#### THOUGHT LISTENING
+
+Thought Listening #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 + 1 
 
 Effect: The user can read the surface thoughts of a creature within short range that they can see, even if the target doesn’t want them to. Once the user has established contact, they can read the target’s thoughts for up to one minute per cypher level.
 
-#### TINY SIZE 
+#### TINY SIZE
+
+Tiny Size #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25456,13 +25492,17 @@ Effect: The user shrinks to about one-tenth their normal size. While at this sma
 
 If the user is an NPC, the cypher eases their Speed-based tasks and hinders their Might-based tasks. When the effect ends, they lose all of the advantages and penalties from the cypher. 
 
-#### UNDEAD WARD 
+#### UNDEAD WARD
+
+Undead Ward #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
 Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from skeletons, zombies, ghosts, vampires, and other undead creatures. 
 
-#### WALKING CORPSE 
+#### WALKING CORPSE
+
+Walking Corpse #Cypher #Manifest #Fantastic #Fantasy 
 
 Level: 1d6 
 
@@ -25556,6 +25596,8 @@ In many ways, fantasy is the genre for artifacts. All magic items—wands that s
 
 ### ADAMANTINE ROPE
 
+Adamantine Rope #Artifact #Fantasy 
+
 Level: 1d6 + 4
 
 Form: A 50-foot (15 m) length of black rope
@@ -25565,6 +25607,8 @@ Effect: This length of rope has the flexibility of ordinary rope but a hardness 
 Depletion: —
 
 ### ALCHEMIST BAG
+
+Alchemist Bag #Artifact #Fantasy 
 
 Level: 1d6
 
@@ -25576,6 +25620,8 @@ Depletion: 1 in 1d20 (check each time a cypher is added to the bag)
 
 ### ARMORED CLOTH
 
+Armored Cloth #Artifact #Fantasy 
+
 Level: 1d6
 
 Form: Suit of typical clothing (robe, dress, jerkin and breeches, and so on)
@@ -25586,6 +25632,8 @@ Depletion: —
 
 ### BELT OF STRENGTH
 
+Belt of Strength #Artifact #Fantasy 
+
 Level: 1d6
 
 Form: Thick leather belt with a metal buckle and rivets
@@ -25595,6 +25643,8 @@ Effect: The belt enhances the strength and endurance of the wearer. This increas
 Depletion: —
 
 ### BOOK OF ALL SPELLS 
+
+Book of all Spells #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25619,7 +25669,9 @@ The artifact always remembers the last page it was turned to. Opening the book a
 
 Depletion: 1 in 1d100 (Check each time the book is used or the bearer turns a page. The chance of depletion increases by 1 each time it is used [1 in 1d100, 2 in 1d100, 3 in 1d100, and so on]. Instead of depleting, the book might turn to a later page, or disappear and reappear somewhere else in the world.)
 
-### BOUNDING BOOTS 
+### BOUNDING BOOTS
+
+Bounding Boots #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -25629,7 +25681,9 @@ Effect: The boots assist the wearer’s every step to make jumping and running e
 
 Depletion: — 
 
-### CAT’S EYE SPECTACLES 
+### CAT’S EYE SPECTACLES
+
+Cat's Eye Spectacles #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25639,7 +25693,9 @@ Effect: Outside, the wearer can see at night as if it were daylight. Inside, the
 
 Depletion: — 
 
-### CLOAK OF BALAKAR 
+### CLOAK OF BALAKAR
+
+Cloak of Balakar #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25649,7 +25705,9 @@ Effect: The wearer can calm winds of the artifact’s level or lower in a radius
 
 Depletion: 1 in 1d6 (on depletion, cloak disappears and reappears somewhere else in the world) 
 
-### CLOAK OF ELFKIND 
+### CLOAK OF ELFKIND
+
+Cloak of Elfkind #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25659,7 +25717,9 @@ Effect: When activated (by drawing the hood over the wearer’s head), the cloak
 
 Depletion: 1 in 1d100
 
-### CLOAK OF FINERY 
+### CLOAK OF FINERY
+
+Cloak of Finery #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -25669,7 +25729,9 @@ Effect: This cloak is woven of beautiful fibers and set with dazzling gems. It a
 
 Depletion: 1 in 1d20 
 
-### COIL OF ENDLESS ROPE 
+### COIL OF ENDLESS ROPE
+
+Coil of Endless Rope #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25681,6 +25743,8 @@ Depletion: 1 in 1d20 (check each use that extends it beyond 50 feet) 
 
 ### CROWN OF EYES 
 
+Crown of Eyes #Artifact #Fantasy 
+
 Level: 1d6 
 
 Form: Metallic circlet set with several crystal spheres 
@@ -25689,7 +25753,9 @@ Effect: It takes one round to activate the crown. When activated, the crystal sp
 
 Depletion: 1 in 1d100
 
-### CROWN OF THE MIND 
+### CROWN OF THE MIND
+
+Crown of the Mind #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25699,7 +25765,9 @@ Effect: The crown augments the mind and thoughts of the wearer. This increases t
 
 Depletion: — 
 
-### CRYSTAL BALL 
+### CRYSTAL BALL
+
+Crystal Ball #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25731,7 +25799,9 @@ Depletion: 1 in 1d20
 
 An unwilling creature’s defenses against magic and Intellect attacks should hinder scrying attempts just as they would against a directly harmful mental spell.
 
-### DEATH’S SCYTHE 
+### DEATH’S SCYTHE
+
+Death's Scythe #Artifact #Fantasy 
 
 Level: 1d6 + 4 
 
@@ -25743,7 +25813,9 @@ Depletion: 1 in 1d20 (check per killing effect; upon depletion, a manifestation 
 
 Death manifestation: level 7
 
-### DEMONFLESH 
+### DEMONFLESH
+
+Demonflesh #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -25755,7 +25827,9 @@ Depletion: 1 in 1d20
 
 To randomly determine what kind of dragontongue weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-### DEMONIC RUNE BLADE 
+### DEMONIC RUNE BLADE
+
+Demonic Rune Blade #Artifact #Fantasy 
 
 Level: 1d6 + 4 
 
@@ -25769,7 +25843,9 @@ If the wielder misses with an attack, the blade sometimes hits an ally of the wi
 
 Depletion: 1 in 1d10 (check each time a killed creature’s life force is absorbed; if depleted, the sword’s magical abilities can be recharged if it kills an “innocent” creature) 
 
-### DRAGONTONGUE WEAPON 
+### DRAGONTONGUE WEAPON
+
+Dragontongue Weapon #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25779,7 +25855,9 @@ Effect: This weapon functions as a normal weapon of its type. If the wielder use
 
 Depletion: 1 in 1d100
 
-### DRAGONTOOTH SOLDIERS 
+### DRAGONTOOTH SOLDIERS
+
+Dragontooth Soldiers #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -25791,7 +25869,9 @@ Depletion: 1 in 1d10 
 
 Dragontooth warrior: level equal to the artifact level, Speed defense as artifact level + 1 due to shield; Armor 1; spear attack (melee or short range) inflicts damage and impedes movement of victim to immediate range for one round
 
-### ELFBLADE 
+### ELFBLADE
+
+Elfblade #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25799,9 +25879,11 @@ Form: Medium sword
 
 Effect: This sword can be used as a normal medium sword that deals 2 additional points of damage (for a total of 6 points). The short sword can cut through any material of its level or lower with ease, owing to its exceptional sharpness. The blade sheds a blue light as bright as a candle to warn when goblins, orcs, trolls, or similar creatures are within 300 feet (90 m). Depletion: — 
 
-### ENCHANTED ARMOR L
+### ENCHANTED ARMOR
 
-evel: 1d6 + 3 
+Enchanted Armor #Artifact #Fantasy 
+
+Level: 1d6 + 3 
 
 Form: Full suit of light, medium, or heavy armor 
 
@@ -25811,7 +25893,9 @@ The additional Armor provided by the magic also applies to damage that often isn
 
 Depletion: —
 
-### EXPLODING ARROW 
+### EXPLODING ARROW
+
+Exploding Arrow #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25833,7 +25917,9 @@ One advantage of an exploding arrow over a detonation cypher is that the arrow d
 
 An exploding arrow can instead be a crossbow bolt, sling stone, or other thrown weapon or projectile.
 
-### EXPLORER’S GLOVES 
+### EXPLORER’S GLOVES
+
+Explorer's Glove #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25844,6 +25930,8 @@ Effect: The wearer can cling to or climb any surface for up to one hour. Even le
 Depletion: 1 in 1d20
 
 ### FALCON CLOAK
+
+Falcon Cloak #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25857,6 +25945,8 @@ Most magic items that turn a character into a different creature make it difficu
 
 ### FLYING CARPET
 
+Flying Carpet #Artifact #Fantasy 
+
 Level: 1d6 + 1
 
 Form: Silken rug with repeating designs bordered with a pattern that suggests scudding clouds 
@@ -25865,7 +25955,9 @@ Effect: The carpet flies a long distance each round, carrying up to five passeng
 
 Depletion: 1 in 1d20 
 
-### GHOSTLY ARMOR 
+### GHOSTLY ARMOR
+
+Ghostly Armor #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25879,7 +25971,9 @@ Depletion: 1 in 1d10 (for the ghostly defense ability, but after depletion, the 
 
 To randomly determine what kind of ghostly armor is found, see Chapter 4: Medieval Fantasy Equipment, page 34. 
 
-### GLOVES OF AGILITY 
+### GLOVES OF AGILITY
+
+Gloves of Agility #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25889,7 +25983,9 @@ Effect: The gloves enhance the dexterity and reflexes of the wearer. This increa
 
 Depletion: — 
 
-### GRUELMAKER 
+### GRUELMAKER
+
+Gruelmaker #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25899,7 +25995,9 @@ Effect: The bowl fills itself to the brim with a bland-tasting tan porridge that
 
 Depletion: 1 in 1d10 
 
-### GUARDIAN IDOL 
+### GUARDIAN IDOL
+
+Guardian Idol #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25908,7 +26006,9 @@ Form: Demonic idol on top of a thin metal leg that is 1 foot (30 cm) tall 
 Effect: It takes two rounds to balance this artifact on its metal leg, and then it requires an action to activate. When activated, the idol stares at the activating character and nearby creatures for five rounds, memorizing their faces and shapes. After that, if anything the idol doesn’t recognize (and is larger than a mouse) comes within long range, it spits a small ball of fire at the target. The fire inflicts damage equal to the artifact level. The idol can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for twenty-four hours or until it has made one hundred attacks, whichever comes first.  
 Depletion: Automatic
 
-### HAND OF GLORY 
+### HAND OF GLORY
+
+Hand of Glory #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -25918,7 +26018,9 @@ Effect: A hand of glory has several potential uses, including the following. In 
 
 Depletion: 1 in 1d20 
 
-### HELM OF WATER BREATHING 
+### HELM OF WATER BREATHING
+
+Helm of Water Breathing #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25926,7 +26028,9 @@ Form: Green metal helm with a scaly or fishy motif Effect: The wearer’s head i
 
 Depletion: 1–2 in 1d100 (check each day) 
 
-### HORN OF THUNDER 
+### HORN OF THUNDER
+
+Horn of Thunder #Artifact #Fantasy 
 
 Level: 1d6 + 4 
 
@@ -25936,7 +26040,9 @@ Effect: This massive instrument can barely be held or carried by a single person
 
 Depletion: 1 in 1d10
 
-### INSTANT LADDER 
+### INSTANT LADDER
+
+Instant Ladder #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25948,7 +26054,9 @@ Depletion: 1 in 1d100 
 
 A creature unfamiliar with the buttons on an instant ladder needs to spend several rounds figuring out the proper sequence to expand or collapse it.
 
-### LIGHTNING HAMMER 
+### LIGHTNING HAMMER
+
+Lightning Hammer #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25958,7 +26066,9 @@ Effect: This hammer functions as a normal heavy weapon. However, if the wielder 
 
 Depletion: 1 in 1d6 (still usable as a normal heavy weapon after depletion)
 
-### MASTERCRAFT ARMOR 
+### MASTERCRAFT ARMOR
+
+Mastercraft Armor #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25968,7 +26078,9 @@ Effect: This armor grants its wearer an asset for Speed defense rolls. 
 
 Depletion: — 
 
-### MASTERCRAFT WEAPON 
+### MASTERCRAFT WEAPON
+
+Mastercraft Weapon #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -25980,7 +26092,9 @@ Depletion: — 
 
 Depending on the game world, mastercraft armor and weapons might be magical, mundanely crafted with exceptional quality, or both. To randomly determine what kind of mastercraft armor or weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-### MINDSHIELD HELMET 
+### MINDSHIELD HELMET
+
+Mindshield Helmet #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -25990,7 +26104,9 @@ Effect: The wearer gains 3 Armor that protects against Intellect damage only. Fu
 
 Depletion: — 
 
-### NECROMANTIC WAND 
+### NECROMANTIC WAND
+
+Necromantic Wand #Artifact #Fantasy 
 
 Level: 1d6 + 4 
 
@@ -26002,7 +26118,9 @@ This device is a rapid-fire weapon and thus can be used with the Spray or Arc Sp
 
 Depletion: 1 in 1d10
 
-### PACK OF STORAGE 
+### PACK OF STORAGE
+
+Pack of Storage #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26012,7 +26130,9 @@ Effect: This pack’s mouth can be loosened to open as wide as 6 feet (2 m) in d
 
 Depletion: 1 in 1d100 (check each time something is added to the pack; on depletion, all objects are expelled from the pack) 
 
-### POISONER’S TOUCH 
+### POISONER’S TOUCH
+
+Poisoner's Touch #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26022,7 +26142,9 @@ Effect: When the wearer activates the glove (which might require speaking a comm
 
 Depletion: 1 in 1d10 
 
-### PROTECTION AMULET 
+### PROTECTION AMULET
+
+Protection Amulet #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -26040,7 +26162,9 @@ Effect: The amulet reduces one type of damage by an amount equal to the artifact
 
 Depletion: 1 in 1d6 (check each time the amulet reduces damage)
 
-### RING OF FALL FLOURISHING 
+### RING OF FALL FLOURISHING
+
+Ring of fall Flourishing #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -26050,7 +26174,9 @@ Effect: The wearer of the ring can fall any distance safely, landing easily and 
 
 Depletion: 1 in 1d100 
 
-### RING OF INVISIBILITY 
+### RING OF INVISIBILITY
+
+Ring of Invisibility #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -26060,7 +26186,9 @@ Effect: The wearer of the ring becomes invisible for one minute. While invisible
 
 Depletion: 1 in 1d20 
 
-### RING OF WISHES 
+### RING OF WISHES
+
+Ring of Wishes #Artifact #Fantasy 
 
 Level: 1d6 + 4 
 
@@ -26070,7 +26198,9 @@ Effect: The user makes a wish, and it is granted, within limits. The level of th
 
 Depletion: 1–3 in 1d6 
 
-### SHIELD OF TWO SKIES 
+### SHIELD OF TWO SKIES
+
+Shield of Two Skies #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -26082,6 +26212,8 @@ Depletion: 1 in 1d100
 
 ### SKILL RING
 
+Skill Ring #Artifact #Fantasy 
+
 Level: 1d6 
 
 Form: Ring carved with sigils appropriate to its granted skill 
@@ -26090,7 +26222,9 @@ Effect: This ring grants its wearer knowledge of a specific skill, such as climb
 
 Depletion: — 
 
-### SMOOTH-STEPPING BOOTS 
+### SMOOTH-STEPPING BOOTS
+
+Smooth-stepping Boots #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26100,7 +26234,9 @@ Effect: When the boots are activated, for the next hour the wearer can move acro
 
 Depletion: 1 in 1d100 
 
-### SOUL-STEALING KNIFE 
+### SOUL-STEALING KNIFE
+
+Soul-Stealing Knife #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -26112,7 +26248,9 @@ As a separate activation, the wielder can ask three questions of a creature whos
 
 Depletion: 1 in 1d20 (check each activation)
 
-### SOVEREIGN KEY 
+### SOVEREIGN KEY
+
+Sovereign Key #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -26122,7 +26260,9 @@ Effect: When touched to a lock or the surface of a sealed object (such as a ches
 
 Depletion: 1 in 1d10 
 
-### SPELLBOOK OF ELEMENTAL SUMMONING 
+### SPELLBOOK OF ELEMENTAL SUMMONING
+
+Spellbook of Elemental Summoning #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26132,7 +26272,9 @@ Effect: When the user incants from the spellbook and succeeds at a level 3 Intel
 
 Depletion: 1–3 in 1d20
 
-### STAFF OF BLACK IRON 
+### STAFF OF BLACK IRON
+
+Staff of Black Iron #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -26152,6 +26294,8 @@ Depletion: 1 in 1d100 
 
 ### STAFF OF HEALING
 
+Staff of Healing #Artifact #Fantasy 
+
 Level: 1d6 + 4 
 
 Form: Wooden staff capped with a golden icon 
@@ -26160,7 +26304,9 @@ Effect: The staff emits a short-range beam of silvery light that affects only li
 
 Depletion: 1 in 1d10
 
-### STAFF OF THE PROPHET 
+### STAFF OF THE PROPHET
+
+Staff of the Prophet #Artifact #Fantasy 
 
 Level: 1d6 + 2 
 
@@ -26175,7 +26321,9 @@ Water From Stone. Produces approximately 10 gallons (38 liters) of pure water wi
 
 Depletion: 1 in 1d20 
 
-### STORM SHACK 
+### STORM SHACK
+
+Storm Shack #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -26185,7 +26333,9 @@ Effect: Activating the artifact transforms it over the next few rounds into a si
 
 Depletion: 1 in 1d100
 
-### TRAP RUNESTONE 
+### TRAP RUNESTONE
+
+Trap Runestone #Artifact #Fantasy 
 
 Level: 1d6 
 
@@ -26197,7 +26347,9 @@ The trigger can react to a specified movement within 3 feet (1 m)—a door openi
 
 Depletion: Automatic 
 
-### TUNNELING GAUNTLETS 
+### TUNNELING GAUNTLETS
+
+Tunneling Gauntlets #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26207,7 +26359,9 @@ Effect: When activated, for one hour the gauntlets let the wearer burrow up to a
 
 Depletion: 1 in 1d20
 
-### VORPAL SWORD 
+### VORPAL SWORD
+
+Vorpal Sword #Artifact #Fantasy 
 
 Level: 1d6 + 3 
 
@@ -26217,7 +26371,9 @@ Effect: The vorpal sword cuts through any material of a level lower than its own
 
 Depletion: 1–2 in 1d100 (check each decapitation and specific attempt to cut through solid material) 
 
-### WAND OF SPIDER’S WEBBING 
+### WAND OF SPIDER’S WEBBING
+
+Wand of Spider's Webbing #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26227,7 +26383,9 @@ Effect: This wand produces a long-range stream of grey spider’s webbing that e
 
 Depletion: 1 in 1d20 
 
-### WHISPERER IN THE ETHER 
+### WHISPERER IN THE ETHER
+
+Whisperer in the Ether #Artifact #Fantasy 
 
 Level: 1d6 + 1 
 
@@ -26241,6 +26399,8 @@ Depletion: 1 in 1d20 (check each day)
 
 ### WITCH’S BROOM
 
+Whitch's Broom #Artifact #Fantasy 
+
 Level: 1d6 + 2 
 
 Form: A 6-foot (2 m) long wooden broom 
@@ -26253,6 +26413,8 @@ Depletion: 1 in 1d20
 
 ### ANGELIC WARD
 
+Angelic Ward #Artifact #Fantasy 
+
 Level: 1d6 + 2
 
 Form: Tiny figurine of a winged angel
@@ -26262,6 +26424,8 @@ Effect: Once activated, the figurine’s spirit emerges and becomes semisolid as
 Depletion: 1 in 1d10
 
 ### RING OF DRAGON’S FLIGHT
+
+Ring of Dragon's Flight #Artifact #Fantasy 
 
 Level: 1d6 + 2
 
@@ -26273,6 +26437,8 @@ Depletion: 1 in 1d10
 
 ### SOULFLAYING WEAPON
 
+Soulflaying Weapons #Artifact #Fantasy 
+
 Level: 1d6 + 1
 
 Form: Weapon of any type, with engraved glowing runes denoting soulflaying
@@ -26283,6 +26449,8 @@ Depletion: 1 in 1d100
 
 ### SPELLBOOK OF THE AMBER MAGE
 
+Spellbook of the Amber Mage #Artifact #Fantasy 
+
 Level: 1d6
 
 Form: Weighty tome bound in amber filled with pages of spell runes
@@ -26292,6 +26460,8 @@ Effect: When the user incants from the spellbook and succeeds at a level 3 Intel
 Depletion: 1 in 1d20
 
 ### WAND OF FIREBOLTS
+
+Wand of Firebolts #Artifact #Fantasy 
 
 Level: 1d6 + 2
 
