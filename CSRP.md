@@ -27014,6 +27014,9 @@ Health: 8
 Science fiction is an incredibly broad category. It covers UFOs, space opera, near-future dystopias, otherworldly epics, hard science fiction, and everything in between. Even when compared to fantasy, science fiction is so wide that it almost isn’t a single genre at all. Truthfully, there’s not all that much to tie, say, _The Time Machine_ by H. G. Wells with a dark cyberpunk story except for the technology involved, which is at a higher level than we possess or understand today. But even that part of science fiction is contentious. Should the science be purely that which obeys the laws of physics as we understand them today (often called hard science fiction), or is it more of an “anything goes” proposition? Is science we can’t explain really just magic?
 
 For our purposes, we’ll treat fantastic science fiction as the default: aliens, spaceships that allow travel to other stars, energy weapons and shields, and so on. It’s a familiar setting to almost everyone interested in science fiction. That said, we’ve also got some additional guidance for hard science fiction, where what’s possible is more grounded in what we currently scientifically extrapolate. But your science fiction setting can be anything you can imagine.
+
+### ASSEMBLING A SCI-FI SETTING
+
 #### ESTABLISHING A TECHNOLOGY RATING
 
 Every science fiction setting has an implicit level of advancement, which is the average degree of technological sophistication available to most characters. This sophistication lies along a spectrum, from contemporary, to advanced, all the way to fantastic. Each of these terms specifies a particular “technology rating” (or “tech rating” for short). 
@@ -27021,8 +27024,6 @@ Every science fiction setting has an implicit level of advancement, which is the
 A tech rating is a handy way of helping you select what equipment your characters can use, which optional rules you’d like to include, and maybe even help guide your creature choice.
 
 On the other hand, you could choose to make all options available, regardless of tech rating. No technology police will cite you if you don’t stick inside a previously declared lane. The setting is your background for telling a compelling story. Does your setting have faster-than-light travel? Great. Unless it’s integral to the story (or fun for you), don’t worry about justifying it if you’ve generally settled on an advanced rating for your hard science fiction game (which doesn’t normally include FTL capability). In fact, the surprising and unexpected are where excitement is usually found in a setting; breaking the established rules (for a good reason) often leads to interesting results.
-
-## Extra Rules
 
 #### COSMIC SET PIECES AND OPTIONAL RULES
 
@@ -27041,6 +27042,9 @@ Blacking out from high acceleration feels like: Lightheaded and hard to think, a
 Exposure to hard radiation feels like: Heat. (The more dangerous the radiation, the hotter it feels, and may be accompanied by blue light; radiation excites electrons in the air that then slip back into an unexcited state, emitting high-energy photons that glow blue.) 
 
 Exposure to vacuum feels like: Breath explodes out of lungs, cold slashes the body like a knife carved from a glacier. Tears freeze in the corners of eyes, ice forms on teeth and tongue. Moisture boils out of ears, scalp, freezing on exposed skin, lips, and eyelids. (As this happens, the Effects of Vacuum also take their mechanical toll on the character.)
+
+## Extra Rules
+
 ### OPTIONAL RULES: HARDER SCIENCE FICTION
 
 Hard science fiction is distinguished from other science fiction subgenres by the perception of scientific accuracy. This means hard science fiction often precludes technology deemed impossible by mainstream scientific theory, including mainstays like faster-than-light travel and time travel. Choosing a hard science fiction setting also means the GM is interested in sprinkling realistic hazards into their game, at least up to a point. After all, the difficulties of real-life space travel offer tremendous breadth when it comes to providing excitement (i.e., life-threatening dangers) that can raise the stakes in an authentic fashion. Not to say that gun battles with space aliens aren’t exciting, but in a hard science fiction setting without aliens, there are all kinds of opportunities for pulse-pounding GM intrusions. 
@@ -27179,7 +27183,7 @@ It’s possible that vehicles from different tech ratings will fight each other 
 ##### VEHICLE COORDINATION  
 If two vehicles coordinate their attack against an enemy vehicle, the attack is eased. If three or more vehicles coordinate, the attack is eased by two steps. 
 
-#### SUPERIOR SHIP SYSTEMS
+##### SUPERIOR SHIP SYSTEMS
 
 Some vehicles have superior weapons or defenses, as noted in the specific vehicle listing in chapter 8. If a vehicle has a superior system, treat that vehicle as if one level higher than its actual level when figuring attacks or evasion tasks if that specific system is involved.
 
@@ -27279,7 +27283,7 @@ Refer to PC Science & Engineering System Options. If the PC triggers a GM intrus
 
 Ships with a captain may have a Command station, possibly a captain’s chair, though the captain might just crew one of the other stations. Sometimes those with captain’s privileges also have the Captain’s Calm special ability. Normally, a captain commanding someone else to do something can’t redline; it would be up to the person who received the command whether to try to redline or not, and to face any GM intrusion consequences.
 
-#### BRIDGE COMBAT AT THE TABLE
+##### BRIDGE COMBAT AT THE TABLE
 
 Running a combat using these extended rules is straightforward. 
 
@@ -27295,7 +27299,7 @@ At the end of each full round, reset all the markers on the tracker to their bas
 
 Roll initiative: Begin the combat, with the enemy spacecraft of your choice taking on the PCs’ ship. Decide whether the enemy spacecraft are already in weapon range (it’s your call, we’re not tracking that here), and if not, how soon they will be close enough to begin attacking, and let the combat flow
 
-#### VEHICLES FIGHTING CREATURES
+##### VEHICLES FIGHTING CREATURES
 
 Spacecraft vs. Colossal Creatures: If a creature is as capable as a spacecraft, treat it that way when it comes to vehicular combat. Instead of adjusting for mismatched tech rating, treat the creature’s effective level as if three levels less than its actual level. Extrapolate “weapon systems” to the creature’s attack methods, defenses to its weird organic plating, and so on. Killing such a creature means taking out its “power core or other vital spot.”
 
@@ -27303,7 +27307,7 @@ Spacecraft vs. Regular Creatures: If a vehicle weapon system fires on an unprote
 
 A PC defending from a spacecraft’s attack is hindered by five steps. Except in this case, the spacecraft inflicts damage. Given that ship weapons compared to handheld weapons are an order of magnitude apart when it comes to power, a good rule of thumb is that a spacecraft’s weapon inflicts 25 points of damage on a successful hit and knocks the character one step down the damage track. Even if the character succeeds on their defense roll, they still take 5 points of damage.
 
-#### PC WEAPON SYSTEM OPTIONS
+##### PC WEAPON SYSTEM OPTIONS
 
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
@@ -27318,7 +27322,7 @@ All tasks are also modified by any relevant PC skills (or inabilities) and Effor
 | Coordinate fire                  | –           | If PC’s ship has second weapon system, coordinate fire with it, providing that system an asset this round. (This weapon doesn’t make a separate attack) |
 | Redline attack                   | –           | Overcharge weapons, ricochet shot, or some other risky gamble                                                                                           |
 
-#### PC PILOTING SYSTEM OPTIONS  
+##### PC PILOTING SYSTEM OPTIONS  
 
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
@@ -27333,7 +27337,7 @@ All tasks are also modified by any relevant PC skills (or inabilities) and Effor
 | Fly in formation    | –           | If another allied ship is part of the combat, coordinate with it, providing that ship an asset in its next piloting task                                             |
 | Redline maneuver    | –           | Spinning, flying through a dangerous region, or some other gamble                                                                                                    |
 
-#### PC SCIENCE AND ENGINEERING SYSTEM OPTIONS  
+##### PC SCIENCE AND ENGINEERING SYSTEM OPTIONS  
 
 All tasks are also modified by any relevant PC skills (or inabilities) and Effort, as usual. 
 
@@ -27459,61 +27463,20 @@ If the derelict ship was subject to vacuum, partly destroyed in combat, or damag
 
 Salvage GM Intrusion: Claim jumpers/pirates might try to salvage a ship that PCs are attempting to salvage.
 
-|   |   |
-|---|---|
-|d10|In-Ship Salvage (value PCs gain on a sale of salvaged item)|
-|01|Power core/fuel for drive (expensive)|
-|02|Computer core holding core code of a sim AI or strong AI (expensive)|
-|03|Cargo– parts, seeds, feedstock for 4d printers, etc (very expensive)|
-|04|Food and water stores, 1d6 months (expensive for each month)|
-|05|Valuabel information encoded in ship systems (variable)|
-|06|GM-selected item of heat care and nutrition, advanced tech rating (variable)|
-|07|GM-selected item of utility gear, advanced tech rating (variable)|
-|08|GM-selected item or apparel and armor, advanced tech rating (variable)|
-|09|GM-selected robot, advanced tech rating (variable)|
-|10|GM-selected armament, advanced tech rating (variable)|
-
-### SPACE HAZARDS
-
-A few specific hazards that you can include as part of an encounter involving a spacecraft follow. These hazards are more site specific than the general threats presented in Chapter 5: Conflicts of the Future.
-
-#### GRAVITY WELL
-
-All bodies in space produce a gravitational field, though usually only things the size of a small moon or larger pose a hazard to unprepared (and sometimes even to prepared) spacecraft. The larger the body, the “deeper” and wider the associated gravity field. Any time a spacecraft launches from a moon or planet, it must escape the gravity well. For RPG purposes, that’s either a routine task, or a low-difficulty one (assuming no complicating factors are at play). 
-
-Gravity wells become a hazard when a spacecraft encounters one unexpectedly— usually because of a navigational or sensor error, but occasionally because of a moon or extreme gravity source being someplace unforeseen. 
-
-Slingshot Trajectory: An unexpected encounter with a gravity well can sling a spacecraft off on a new and unwanted trajectory on a failed piloting task, the difficulty determined by the situation.
-
-Captured: An unexpected encounter with a gravity well can also capture a spacecraft in the gravity well’s orbit, forcing the craft to expend additional power to get free (power it may or may not have)
-
-#### BLACK HOLE
-
-Black holes are just extreme gravity wells. All the dangers associated with a gravity well also apply to black holes. A couple of additional hazards are also associated with black holes, notably tidal destruction (“spaghettification”), time dilation, and being swallowed.
-
-Tidal Desctruction: Mechanically speaking, while a spacecraft feels tidal forces by passing too close to a black hole’s event horizon, all tasks aboard the craft are hindered, Void Rules are in effect, and if a GM intrusion is triggered thereby, the ship sustains major damage and risks coming apart. Meanwhile, PCs in the ship (assuming some sort of fantastic tech-rated gravity nullifier isn’t in use) suffer 1 point of ambient damage each round. 
-
-A ship near a very large black hole (like Sagittarius A*, the supermassive black hole at the center of the Milky Way Galaxy) can avoid tidal effects because the gravity gradient is so much wider, but still feel relativistic time dilation.
-
-Relativistic Time Dialation: From a mechanical perspective, spacecraft that survive close encounters with black holes and return to normal space discover that more time has passed than expected, which could range from fairly inconsequential minutes or hours, to far more serious days, months, years, centuries, or more.
-
-Past the Event Horizon: The event horizon is the point of no return, where not even light can escape the clutch of gravity. If a spacecraft falls into a black hole, assuming it is not spaghettified by tidal forces, it is still lost from the universe of its origin. At least, it’s lost assuming no intervention from a fantastic tech-rated post-singularity AI or ancient ultra.
-
-#### RADIATION BELT/SOLAR FLARE
-
-Radiation belts of intensely charged particles trapped by magnetic fields around some planets and moons can surge, causing radiation exposure. An unexpected solar flare, or the drive plume of a massive spacecraft, can cause the same unexpected exposure.
-
-Ship Damage: The ship suffers minor or major damage, requiring repair and perhaps even replacement of parts. This damage is as serious as you require for the purposes of creating an interesting story.
-
-Radiation Sickness: When PCs are exposed to intense radiation, they suffer 3 points of ambient radiation damage for each minute the character fails a difficulty 3 Might defense task. If the character fails three such defense rolls during any single period of radiation exposure, they suffer acute radiation sickness, a level 8 disease that drops them one step on the damage track for each day they fail a Might defense roll until they expire.
-
-#### ASTEROID/DEBRIS FIELD
-
-Movies often depict asteroid belts as densely packed fields of tumbling rock that ships must constantly swerve through to avoid a collision. Such locations are not easy to find in the solar system. But such situations can occur in fantastic settings, or possibly in solar systems other than Earth’s. 
-
-Evasive Ateroid Piloting: During any round a spacecraft moves through a densely packed asteroid or debris field, the pilot (or shipmind) must succeed on a piloting task, whose difficulty is set by the situation. On a failed roll, a collision occurs. Each time a collision occurs, the ship (and possibly its crew) is damaged according to the track laid out below. Collisions are assumed to be major rocks or pieces of debris, or possibly a series of smaller pieces of debris all impacting nearly simultaneously, with one getting through the shielding.
-
-Finding Shelter: The best way to find shelter in order to effect repairs, or hide from pursuers, is to try to find an asteroid or piece of debris large enough for the spacecraft to land on or find a crevice to slide into. To land a spacecraft on an asteroid or big piece of debris is a challenging (difficulty 5) piloting task to match the asteroid’s spin, then slide into the cramped space.
+|     |                                                                              |
+| --- | ---------------------------------------------------------------------------- |
+| d10 | In-Ship Salvage (value PCs gain on a sale of salvaged item)                  |
+| 01  | Power core/fuel for drive (expensive)                                        |
+| 02  | Computer core holding core code of a sim AI or strong AI (expensive)         |
+| 03  | Cargo– parts, seeds, feedstock for 4d printers, etc (very expensive)         |
+| 04  | Food and water stores, 1d6 months (expensive for each month)                 |
+| 05  | Valuabel information encoded in ship systems (variable)                      |
+| 06  | GM-selected item of heat care and nutrition, advanced tech rating (variable) |
+| 07  | GM-selected item of utility gear, advanced tech rating (variable)            |
+| 08  | GM-selected item or apparel and armor, advanced tech rating (variable)       |
+| 09  | GM-selected robot, advanced tech rating (variable)                           |
+| 10  | GM-selected armament, advanced tech rating (variable)                        |
+|     |                                                                              |
 
 ### SHIP COLLISION DAMAGE TRACK 
 
@@ -27620,6 +27583,8 @@ In a science fiction setting, some GMs may want to offer alien species or androi
 
 #### ARTIFICIALLY INTELLIGENT
 
+Artificially Intelligent #Descriptor #ScienceFiction 
+
 You are a machine—not just a sentient machine, but a sapient one. Your awareness might make you an exception, or there may be many like you, depending on the setting.
 
 Artificially intelligent characters have machine minds of one type or another. This can involve an advanced computer brain, but it could also be a liquid computer, a quantum computer, or a network of smart dust particles creating an ambient intelligence. You might even have been an organic creature whose mind was uploaded into a machine.
@@ -27629,22 +27594,17 @@ well, as you are as free-willed and free-thinking
 as they are.
 
 You gain the following characteristics:
-
-Superintelligent: +4 to your Intellect Pool.
-
-Artificial Body: +3 to your Might Pool and your Speed Pool.
-
-Shell: +1 to Armor.
-
-Limited Recovery: Resting restores points only to your Intellect Pool, not to your Might Pool or your Speed Pool.
-
-Mechanics, Not Medicines: Conventional healing methods, including the vast majority of restorative devices and medicines, do not restore points to any of your Pools. You can recover points to your Intellect Pool only by resting, and you can recover points to your Speed and Might Pools only through repair. The difficulty of the repair task is equal to the number of points of damage sustained, to a maximum of 10. Repairing your Might and Speed Pools are always two different tasks.
-
-Machine Vulnerabilities and Invulnerabilities: Damaging effects and other threats that rely on an organic system—poison, disease, cell disruption, and so on—have no effect on you. Neither do beneficial drugs or other effects. Conversely, things that normally affect only inorganic or inanimate objects can affect you, as can effects that disrupt machines.
-
-Uncanny Valley: You have a hard time relating to organic beings, and they don’t react well to you. All positive interaction tasks with such beings are hindered by two steps.
+- Superintelligent: +4 to your Intellect Pool.
+- Artificial Body: +3 to your Might Pool and your Speed Pool.
+- Shell: +1 to Armor.
+- Limited Recovery: Resting restores points only to your Intellect Pool, not to your Might Pool or your Speed Pool.
+- Mechanics, Not Medicines: Conventional healing methods, including the vast majority of restorative devices and medicines, do not restore points to any of your Pools. You can recover points to your Intellect Pool only by resting, and you can recover points to your Speed and Might Pools only through repair. The difficulty of the repair task is equal to the number of points of damage sustained, to a maximum of 10. Repairing your Might and Speed Pools are always two different tasks.
+- Machine Vulnerabilities and Invulnerabilities: Damaging effects and other threats that rely on an organic system—poison, disease, cell disruption, and so on—have no effect on you. Neither do beneficial drugs or other effects. Conversely, things that normally affect only inorganic or inanimate objects can affect you, as can effects that disrupt machines.
+- Uncanny Valley: You have a hard time relating to organic beings, and they don’t react well to you. All positive interaction tasks with such beings are hindered by two steps.
 
 #### QUINTAR
+
+Quintar #Descriptor #ScienceFiction 
 
 You are a quintar from the planet Quint. You are basically humanoid but taller, thinner, and blue skinned. Your hands end in three very long fingers. Quintar have five genders, but all quintar prefer to be addressed as female when communicating with more binary species. Human emotions and sexuality fascinate them, but not because they don’t have such concepts—quintar emotions and sexuality are just very different from those of humans. In general, quintar are more cerebral than other species, valuing knowledge over all else.
 
@@ -27698,10 +27658,10 @@ Listing all possible armaments and equipment and their many variants across all 
 
 INEXPENSIVE ITEMS
 
-|Weapons|Notes|
-|---|---|
-|Energy pack (50 shots)||
-|Knife (simple)|Light weapon|
+| Weapons                | Notes        |
+| ---------------------- | ------------ |
+| Energy pack (50 shots) |              |
+| Knife (simple)         | Light weapon |
 
 |Other Items|Notes|
 |---|---|
