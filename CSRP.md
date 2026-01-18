@@ -15564,7 +15564,7 @@ A high-quality breastplate crafted by a skilled dwarf, providing good protection
 
 #### Elven chainmail
 
-Elven chainmail #Item #ArmorMedium #VeryExpensive 8000gp #Core #Fantasy 
+Elven chainmail #Item #ArmorMedium #Exorbitant  8000gp #Core #Fantasy 
 
 A high-quality suit of chainmail crafted by a skilled elf, providing good protection and excellent mobility. Elven chainmail is medium armor (2 Armor) but is no more encumbering than a typical outfit of normal clothing (it has no Speed Effort cost). Not all elf-crafted chainmail counts as this type of armor (only exceptionally skilled elven smiths know how to make it). 
 
@@ -16008,11 +16008,11 @@ Or other small container
 
 #### Rations
 
-Rations (1 day) #Item #Inexpensive 5sp #Core #Fantasy 
+Rations (1 day) #Item #Food#Inexpensive 5sp #Core #Fantasy 
 
 #### Rope
 
-Rops (50 ft./15m) #Item #Modern 1gp #Core #Fantasy 
+Rops (50 ft./15m) #Item #Moderate  1gp #Core #Fantasy 
 
 #### Sack
 
@@ -16044,7 +16044,7 @@ A wooden stick with some kind of fuel on one end (such as burlap and wax). It bu
 
 #### Waterskin
 
-Waterskin #Item #Inexpensive 2sp #Core #Fantasy 
+Waterskin #Item #Food #Inexpensive 2sp #Core #Fantasy 
 
 ### Miscellaneous Items and Services
 
@@ -16158,23 +16158,50 @@ A horse trained to be calm during the noise and action of combat, used either as
 
 ### FOOD AND LODGING
 
-| Item                 | Price |
-| -------------------- | ----- |
-| Ale, gallon          | 2 sp  |
-| Ale, mug             | 4 cp  |
-| Banquet (1 person)   | 10 gp |
-| Bread, loaf          | 2 cp  |
-| Inn stay (per night) |       |
-| Good                 | 8 sp  |
-| Common               | 5 sp  |
-| Poor                 | 1 sp  |
-| Meals (per day)      |       |
-| Good                 | 5 sp  |
-| Common               | 3 sp  |
-| Poor                 | 6 cp  |
-| Meat (one serving)   | 3 sp  |
-| Wine (bottle)        | 10 gp |
-| Wine (pitcher)       | 2 sp  |
+#### Ale
+
+Ale #Item #Inexpensive #Core #Fantasy 
+
+Gallon : 2sp
+Mug : 2cp
+
+#### Banquet (1 person)
+
+Banquet (1 person) #Item #Moderate 10gp #Core #Fantasy 
+
+#### Loaf of Bread
+
+Loaf of Bread #Item #Inexpensive 2cp #Core #Fantasy 
+
+#### Inn stay (per night)
+
+Inn stay (per night) #Item #Inexpensive #Core #Fantasy 
+
+Good : 8cp ; Common : 5cp ; Poor : 1 sp
+
+#### Meal (per day)
+
+Meal (per day) #Item #Inexpensive #Core #Fantasy 
+
+Good : 5sp ; Common : 3sp ; Poor : 1sp
+
+#### Meat (one serving)
+
+Meat (one serving) #Item #Inexpensive #Core #Fantasy 
+
+3sp
+
+#### Pitcher of Wine 
+
+Pitcher of Wine #Item #Inexpensive #Core #Fantasy 
+
+2sp
+
+#### Bottle of Wine
+
+Bottle Of Wine #Item #Moderate #Core #Fantasy 
+
+10gp
 
 ### CYPHERS
 
@@ -18541,6 +18568,8 @@ GM Intrusion: This optional entry in the stats suggests a way to use GM intrusio
 If you need a larger or tougher version of a creature, such as a dire wolf or a giant crocodile, you can just increase the creature’s level (and all of its modifications) by 1 or 2. If the creature has a damage or health stat that isn’t the default for its level, take that into account at the modified creature’s new level.
 
 A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.
+
+**FANTASY CREATURES AND NPCs BY LEVEL**
 
 ### Bat
 
@@ -26473,105 +26502,6 @@ Depletion: 1 in 1d20
 
 ## Fantasy Equipment
 
-### ADDITIONAL FANTASY EQUIPMENT
-
-In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.
-
-#### INEXPENSIVE ITEMS
- 
-|Weapons|Notes|
-|---|---|
-|Arrows (12)||
-|Crossbow bolts (12)||
-|Knife (rusty and worn)|Light weapon (won’t last long)|
-|Wooden club|Light weapon|
-
-|Other Items|Notes|
-|---|---|
-|Burlap sack||
-|Candle||
-|Iron rations (1 day)||
-|Torch (3)||
-
-#### MODERATELY PRICED ITEMS
- 
-|Weapons|Notes|
-|---|---|
-|Blowgun|Light weapon, immediate range|
-|Dagger|Light weapon|
-|Handaxe|Light weapon|
-|Sword (substandard)|Medium weapon (won’t last long)|
-|Throwing knife|Light weapon, short range|
-  
-|Armor|Notes|
-|---|---|
-|Hides and furs|Light armor|
-|Leather jerkin|Light armor|
-|Shield|Asset to Speed defense|
- 
-|Other Items|Notes|
-|---|---|
-|Backpack||
-|Bedroll||
-|Crowbar||
-|Hourglass||
-|Lantern||
-|Rope|Hemp, 50 feet|
-|Signal horn||
-|Spikes and hammer|10 spikes|
-|Tent||
-
-#### EXPENSIVE ITEMS
- 
-|Weapons|Notes|
-|---|---|
-|Battleaxe|Medium weapon|
-|Bow|Medium weapon, long range|
-|Cutlass|Medium weapon|
-|Light crossbow|Medium weapon, long range|
-|Quarterstaff|Medium weapon (requires 2 hands)|
-|Sword|Medium weapon|
- 
-|Armor|Notes|
-|---|---|
-|Breastplate|Medium armor|
-|Brigandine|Medium armor|
-|Chainmail|Medium armor|
- 
-|Other Items|Notes|
-|---|---|
-|Bag of heavy tools||
-|Bag of light tools||
-
-#### VERY EXPENSIVE ITEMS
- 
-|Weapons|Notes|
-|---|---|
-|Greatsword|Heavy weapon|
-|Heavy crossbow|Heavy weapon, long range|
-|Sword (jeweled)|Medium weapon|
- 
-|Armor|Notes|
-|---|---|
-|Dwarven breastplate|Medium armor, encumbers as light armor|
-|Full plate armor|Heavy armor|
- 
-|Other Items|Notes|
-|---|---|
-|Disguise kit|Asset for disguise tasks|
-|Healing kit|Asset for healing tasks|
-|Spyglass|Asset for perception tasks at range|
-
-#### EXORBITANT ITEMS
-
-|Armor|Notes|
-|---|---|
-|Elven chainmail|Medium armor, encumbers as no armor|
- 
-|Other Items|Notes|
-|---|---|
-|Sailing ship (small)||
-
 ### MEDIEVAL FANTASY EQUIPMENT
  
 |Category|GP Value|
@@ -26582,8 +26512,17 @@ In the default Medieval Europe-style fantasy setting, the following items (and a
 |Very expensive|1,000–10,000 gp|
 |Exorbitant|10,000+ gp|
 
+**STARTING GOLD PIECES FOR CHARACTERS**
 
-RANDOM WEAPON TABLE
+Warrior Starting Equipment: Appropriate clothing and two weapons of your choice, plus 6d6 + 100 gp. 
+
+Adept Starting Equipment: Appropriate clothing, plus 3d6 + 80 gp. 
+
+Explorer Starting Equipment: Appropriate clothing and a weapon of your choice, plus 3d6 + 90 gp. 
+
+Speaker Starting Equipment: Appropriate clothing and a light weapon of your choice, plus 3d6 + 90 gp
+
+**RANDOM WEAPON TABLE**
 
 If the GM needs to randomly determine the weapon a creature or treasure trove has, use the following table.
  
@@ -26623,91 +26562,60 @@ If the GM needs to randomly determine the weapon a creature or treasure trove ha
 
 It’s more fun if a character finds an improved version of a weapon they like instead of a weapon they’re not familiar with.
 
+### ADDITIONAL FANTASY EQUIPMENT
 
+In the default Medieval Europe-style fantasy setting, the following items (and anything else appropriate to that time period) are usually available.
 
+#### Knife (Rusty and worn)
 
+Knife (Rusty and worn) #item #WeaponLight #Inexpensive #Fantasy 
 
+It won’t last long
 
-STARTING GOLD PIECES FOR CHARACTERS
+#### Wooden Club
 
-Warrior Starting Equipment: Appropriate clothing and two weapons of your choice, plus 6d6 + 100 gp. 
+Wooden Club #Item #WeaponLight #Inexpensive #Fantasy 
 
-Adept Starting Equipment: Appropriate clothing, plus 3d6 + 80 gp. 
+Simple light weapon
 
-Explorer Starting Equipment: Appropriate clothing and a weapon of your choice, plus 3d6 + 90 gp. 
+#### Burlap Sack
 
-Speaker Starting Equipment: Appropriate clothing and a light weapon of your choice, plus 3d6 + 90 gp
+Burlap Sack #Item #Inexpensive #Fantasy 
+
+#### Iron Rations (1 day)
+
+Iron Rations (1 day) #Item #Food #Inexpensive #Fantasy 
+
+#### Sword (substandard)
+
+Sword (substandard) #Item #WeaponMedium #Moderate #Fantasy 
+
+#### Throwing Knife
+
+Throwing Knife #Item #WeaponLight #Moderate #Fantasy 
+
+#### Spikes and Hammer
+
+Spikes and Hammer #Item #Moderate #Fantasy 
+
+#### Cutlass
+
+Cutlass #Item #Expensive #Fantasy 
+
+#### Sword
+
+Sword #Item #Expensive #Fantasy 
+
+#### Sword (Bejewled)
+
+Sword (Bejewled) #Item #WeaponMedium #VeryExpensive #Fantasy 
+
+#### Sailing Ship (Small)
+
+Sailing Ship (Small) #Item #Exorbitant #Fantasy 
 
 
 ## Creatures
-
-Basic CREATURES AND NPCs FOR A FANTASY GAME
-- Bat: level 1
-- Dog: level 2, perception as level 3
-- Dog, guard: level 3, attacks and perception as level 4
-- Hawk: level 2; flies a long distance each round
-- Horse: level 3; moves a long distance each round
-- Rat: level 1
-- Viper: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
-- Warhorse: level 4; moves a long distance each round
-- Wolf: level 3, perception as level 4
-- Blacksmith: level 2, metalworking as level 4; health 8
-- Farmer: level 2, animal handling as level 3; health 8
-- Merchant: level 2, haggling and assessment tasks as level 3
-- Villager: level 2
-
-OTHER CREATURES AND NPCs FOR A FANTASY GAME
-- Bat: level 1
-- Black bear: level 3, attacks as level 4
-- Blacksmith: level 2, metalworking as level 4; health 8
-- Cat: level 1, Speed defense as level 3 due to size and quickness
-- Catfolk: level 3, balancing and climbing as level 4; damage inflicted 4 points
-- Centaur: level 4; health 15; moves a long distance each round
-- Crocodile: level 4; Armor 1; swims a short distance each round
-- Dire wolf: level 4, attacks and perception as level 5; Armor 1
-- Dog: level 2, perception as level 3
-- Dog, guard: level 3, attacks and perception as level 4
-- Elephant: level 5; health 20; Armor 1
-- Farmer: level 2, animal handling as level 3; health 8
- - Gargoyle: level 3; Armor 5; damage inflicted 5 points; flies a short distance each round
-- Giant ape: level 3, climbing and attacks as level 4
-- Giant crab: level 6; Armor 4; pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
-- Giant frog: level 3
-- Giant octopus: level 5, Might defense and stealth as level 6; health 25; attacks four times as an action
-- Giant scorpion: level 4; Armor 2; damage inflicted 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
-- Giant snake: level 4; health 18; Armor 2; damage inflicted 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
-- Gnoll: level 2, Speed defense as level 3 due to shield; health 8; Armor 2
-- Gorilla: level 2, attacks as level 3; damage inflicted 3 points
-- Griffon: level 4, perception as level 5; Armor 1; flies a long distance each round
-- Grizzly bear: level 5; health 20; Armor 1
-- Hawk: level 2; flies a long distance each round
-- Hippogryph: level 3, attacks as level 4; flies a long distance each round.
-- Horse: level 3; moves a long distance each round
-- Leopard: level 4; climbing, jumping, stealth, and attacks as level 5; Armor 1
-- Lion or tiger: level 5, attacks as level 6; Armor 1
-- Lizardfolk: level 3; Armor 1
-- Merchant: level 2, haggling and assessment tasks as level 3
-- Mummy: level 6; ancient history, ancient religion, climbing, and stealth as level 8; health 24; Armor 2; damage inflicted 7 points
-- Nymph: level 3, stealth and positive social interactions as level 6
-- Pegasus: level 3, Speed defense as level 4; moves or flies a long distance each round
-- Pterodactyl: level 3; Armor 1; flies a long distance each round
-- Rat: level 1
-- Roc: level 6; health 25; Armor 2; flies a long distance each round; attacks twice as an action
-- Shark: level 3, attacks as level 4; health 15; Armor 2
-- Undead claw: level 1, attacks as level 3, Speed defense as level 3 due to quickness and size; health 5; Armor 1
-- Unicorn: level 4; Might defense, perception, and attacks as level 5; health 15; Armor 1; makes two attacks as its action; once per hour can teleport up to 1 mile; once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
-- Villager: level 1
-- Viper: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
-- Warhorse: level 4; moves a long distance each round
-- Werebear: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2
-- health per round (unless recently wounded by silver)
-- Wererat: level 3, Speed defense and stealth as level 4; regenerates 2 health per round (unless recently wounded by silver)
-- Wereshark: level 4, attacks as level 5; health 15; Armor 2; regenerates 2 health per round (unless recently wounded by silver)
-- Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
-- Wolf: level 3, perception as level 4
-- Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
-
-**FANTASY CREATURES AND NPCs BY LEVEL**
 
 |Level|Name|
 |---|---|
@@ -26823,7 +26731,6 @@ OTHER CREATURES AND NPCs FOR A FANTASY GAME
 |9|Demigod|
 |9|Demon Lord|
 |10|Kaiju|
-
 
 # Modern
 
