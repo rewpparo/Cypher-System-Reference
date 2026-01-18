@@ -286,7 +286,7 @@ All Cards follow the following principles :
 - Tagline should be :
 	- Creature name(s)
 	- Creature level as a tag, then a space, then target number in parenthesis : #lvl1 (3) #lvl2 (6)...
-	- #Creature or #NPC If in doubt, use #Creature 
+	- #Creature 
 	- Genre Tags
 - Optional Description paragraph(s) freeform text
 - Optional "Motive: " then freeform text

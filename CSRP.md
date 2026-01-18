@@ -15582,7 +15582,7 @@ Mail armor made from overlapping scales or plates attached to a leather or cloth
 
 #### Shield
 
-Shield #Item #Shield #Moderate 10gp #Core #Fantasy 
+Shield #Item #Shield #Moderate 10gp #Core #Fantasy #Modern
 
 Provides an asset to Speed defense. Shield sizes vary from a small buckler to a large kite shield (in the Cypher System, the difference is mainly flavor, and for game purposes they all grant the wearer the same benefit). 
 
@@ -15696,7 +15696,7 @@ A wooden pole with a blade on one end. 
 
 #### Bow
 
-Bow #Item #WeaponMedium #Moderate 30gp #Core #Fantasy 
+Bow #Item #WeaponMedium #Moderate 30gp #Core #Fantasy #Modern 
 
 A bent piece of flexible wood with a taut string connected to each end. It fires arrows. You need two hands to fire it. 
 Long Range. 
@@ -15860,17 +15860,17 @@ A sturdy wooden case with tiny flasks, stirring rods, droppers, and other materi
 
 #### Bagpack
 
-Bagpack #Item #Moderate 2gp #Core #Fantasy 
+Bagpack #Item #Moderate 2gp #Core #Fantasy #Modern 
 
 #### Bag of heavy tools
 
-Bag of heavy tools #Item #Moderate 25gp #Core #Fantasy 
+Bag of heavy tools #Item #Moderate 25gp #Core #Fantasy #Modern 
 
 Contains a hammer, six spikes, crowbar, large tongs, chisel, and 10 feet (3 m) of strong rope. 
 
 #### Bag of light tools
 
-Bag of light tools #Item #Moderate 10gp #Core #Fantasy 
+Bag of light tools #Item #Moderate 10gp #Core #Fantasy #Modern 
 
 Contains a small hammer, small tongs, pliers, small pry bar, awl, lockpicks, 10 feet (3 m) of string, 3 feet (1 m) of metal wire, and a handful of nails. 
 
@@ -15904,13 +15904,13 @@ A candle burns for one hour and creates dim light in an immediate area. 
 
 #### Climbing kit
 
-Climbing kit #Item #Moderate 25gp #Core #Fantasy 
+Climbing kit #Item #Moderate 25gp #Core #Fantasy #Modern 
 
 A set of crampons, pitons, ropes, and tools. Provides an asset on climbing tasks. 
 
 #### Crowbar
 
-Crowbar #Item #Moderate 2gp #Core #Fantasy 
+Crowbar #Item #Moderate 2gp #Core #Fantasy #Modern 
 
 This bent length of metal grants an asset on tasks to open doors, treasure chests, and similar objects. 
 
@@ -15926,7 +15926,7 @@ Grappling hook #Item #Moderate 2gp #Core #Fantasy
 
 #### Healing kit
 
-Healing kit #Item #Moderate 5gp #Core #Fantasy 
+Healing kit, First Aid Kit #Item #Moderate 5gp #Core #Fantasy #Modern 
 
 A collection of bandages, needles, thread, and basic medicines. Provides an asset on healing tasks. Some parts are reusable, but the kit runs out after about five uses. 
 
@@ -16014,6 +16014,7 @@ Rations (1 day) #Item #Food#Inexpensive 5sp #Core #Fantasy
 
 Rops (50 ft./15m) #Item #Moderate  1gp #Core #Fantasy 
 
+Can be hemp, nylon
 #### Sack
 
 Sack #Item #Inexpensive 1cp #Core #Fantasy 
@@ -16032,7 +16033,7 @@ This device grants an asset on perception tasks to see things at long range or l
 
 #### Tent
 
-Tent #Item #Moderate 2gp #Core #Fantasy 
+Tent #Item #Moderate 2gp #Core #Fantasy #Modern 
 
 This has enough room for two humans or three smaller people. 
 
@@ -26755,134 +26756,222 @@ Last, don’t forget foci such as Doesn’t Do Much or Would Rather Be Reading f
 
 **Suggested Types for a MODERN Game**
 
-|   |   |
-|---|---|
-|Role|Type|
-|Police officer|Explorer with combat flavor|
-|Detective|Explorer with stealth flavor|
-|Soldier|Warrior|
-|Criminal|Explorer with stealth flavor|
-|Teacher|Speaker|
-|Professional (accountant, writer, etc.)|Speaker with skills and knowledge flavor|
-|Technical profession|Explorer with skills and knowledge flavor|
-|Dilettante|Speaker with skills and knowledge flavor|
-|Doctor/Nurse|Explorer with skills and knowledge flavor|
-|Politician|Speaker|
-|Lawyer|Speaker|
-|Scholar|Explorer with skills and knowledge flavor|
-|Spy|Speaker with stealth flavor|
-|Occultist|Adept|
-|Mystic/Psychic|Adept|
+| Role                                    | Type                                      |
+| --------------------------------------- | ----------------------------------------- |
+| Police officer                          | Explorer with combat flavor               |
+| Detective                               | Explorer with stealth flavor              |
+| Soldier                                 | Warrior                                   |
+| Criminal                                | Explorer with stealth flavor              |
+| Teacher                                 | Speaker                                   |
+| Professional (accountant, writer, etc.) | Speaker with skills and knowledge flavor  |
+| Technical profession                    | Explorer with skills and knowledge flavor |
+| Dilettante                              | Speaker with skills and knowledge flavor  |
+| Doctor/Nurse                            | Explorer with skills and knowledge flavor |
+| Politician                              | Speaker                                   |
+| Lawyer                                  | Speaker                                   |
+| Scholar                                 | Explorer with skills and knowledge flavor |
+| Spy                                     | Speaker with stealth flavor               |
+| Occultist                               | Adept                                     |
+| Mystic/Psychic                          | Adept                                     |
 ### Equipment
 
 In a modern setting, the following items (and anything else appropriate to the real world) are usually available.
 
-INEXPENSIVE ITEMS
+#### Ammo (Box of 50 rounds)
 
-|   |   |
-|---|---|
-|Weapons|Notes|
-|Ammo (box of 50 rounds)||
-|Knife (simple)|Light weapon (won’t last long)|
-|||
-|Other Items|Notes|
-|Duct tape roll|Useful and ubiquitous|
-|Flashlight||
-|Padlock with keys||
-|Trail rations (1 day)||
+Ammo (Box of 50 rounds) #Item #Inexpensive #Modern 
 
-MODERATELY PRICED ITEMS
+#### Knife (Simple)
 
-|   |   |
-|---|---|
-|Weapons|Notes|
-|Hand grenade|Explosive weapon, inflicts 4 points of damage in immediate radius|
-|Hunting knife|Light weapon|
-|Machete|Medium weapon|
-|Nightstick|Light weapon|
+Knife (Simple) #Item #WeaponLight #Inexpensive #Modern 
 
-|   |   |
-|---|---|
-|Armor|Notes|
-|Leather jacket|Light armor|
-|Shield|Asset to Speed defense|
+Won't last long
 
-|   |   |
-|---|---|
-|Other Items|Notes|
-|Backpack||
-|Bag of heavy tools||
-|Bag of light tools||
-|Binoculars|Asset for perception tasks at range|
-|Bolt cutters||
-|Cell phone||
-|Climbing gear||
-|Crowbar||
-|Electric lantern||
-|First aid kit|Asset for healing tasks|
-|Handcuffs||
-|Rope|Nylon, 50 feet|
-|Sleeping bag||
-|Tent||
+#### Duct tape roll
 
-EXPENSIVE ITEMS
+Duct tape roll #Item #Inexpensive #Modern 
 
-|   |   |
-|---|---|
-|Weapons|Notes|
-|Light handgun|Light weapon, short range|
-|Medium handgun|Medium weapon, long range|
-|Bow|Medium weapon, long range|
-|Rifle|Medium weapon, long range|
-|Shotgun|Heavy weapon, immediate range|
+Useful and ubiquitous
 
-|   |   |
-|---|---|
-|Armor|Notes|
-|Kevlar vest|Medium armor|
+#### Flashlight
 
-|   |   |
-|---|---|
-|Other Items|Notes|
-|Camera designed to be concealed|Transmits at long range|
-|Microphone designed to be concealed|Transmits at long range|
-|Cold weather camping gear||
-|Nightvision goggles||
-|Scuba gear||
-|Smartphone||
-|Straightjacket||
+Flashlight #Item #Inexpensive #Modern 
 
-VERY EXPENSIVE ITEMS
+#### Padlock with keys
 
-|   |   |
-|---|---|
-|Weapons|Notes|
-|Heavy handgun|Heavy weapon, long range|
-|Assault rifle|Heavy weapon, rapid-fire weapon, long range|
-|Heavy rifle|Heavy weapon, 300-foot (90 m) range|
-|Submachine gun|Medium weapon, rapid-fire weapon, short range|
+Padlock with Keys #Item #Inexpensive #Modern 
 
-|   |   |
-|---|---|
-|Armor|Notes|
-|Lightweight body armor|Medium armor, encumbers as light armor|
-|Military body armor|Heavy armor|
+#### Trail Rations (1 day)
 
-|   |   |
-|---|---|
-|Other Items|Notes|
-|Disguise kit|Asset for disguise tasks|
-|Used car|Level 3|
-|Small boat|Level 3|
+Trail Rations (1 day) #Item #Inexpensive #Modern 
 
-EXORBITANT ITEMS
+#### Hand Grenade
 
-|   |   |
-|---|---|
-|Other Items|Notes|
-|Large boat|Level 5|
-|Luxury car|Level 5|
-|Sports car|Level 6|
+Hand Grenade #Item #Moderate #Modern 
+
+Explosive weapon, inflicts 4 points of damage in immediate radius
+
+#### Hunting Knife
+
+Hunting Knife #Item #WeaponLight #Moderate #Modern 
+
+#### Machete
+
+Machete #Item #WeaponMedium #Moderate #Modern 
+
+#### Nightstick
+
+Nightstick #Item #WeaponLight #Moderate #Modern 
+
+#### Leather Jacket
+
+Leather Jacket #Item #ArmorLight #Moderate #Modern 
+
+#### Binoculars
+
+Binoculars #Item #Moderate #Modern 
+
+#### Bolt Cutters
+
+Bolt Cutters #Item #Moderate #Modern 
+
+#### Cell Phone
+
+Cell Phone #Item #Moderate #Modern 
+
+#### Electric lantern
+
+Electric lantern #Item #Moderate #Modern 
+
+#### Handcuffs
+
+Handcuffs #Item #Moderate #Modern 
+
+#### Sleeping bag
+
+Sleeping bag #Item #Moderate #Modern 
+
+#### Light Handgun
+
+Light Handgun #Item #WeaponLight #Expensive #Modern 
+
+Short range
+
+#### Medium Handgun
+
+Medium Handgun #Item #WeaponMedium #Expensive #Modern 
+
+Long range
+
+#### Rifle
+
+Rifle #Item #WeaponMedium #Expensive #Modern 
+
+Long range
+
+#### Shotgun
+
+Shotgun #Item #WeaponHeavy #Expensive #Modern 
+
+Immediate Range
+
+#### Kevlar Vest
+
+Kevlar Vest #Item #ArmorMedium #Expensive #Modern 
+
+#### Concealed Camera
+
+Concealed Camera #Item #Expensive #Modern 
+
+Camera designed to be concealed. Transmits at long range
+
+#### Concealed microphone
+
+Concealed microphone #Item #Expensive #Modern 
+
+Microphone designed to be concealed. Transmits at long range
+
+#### Cold Weather Camping Gear
+
+Cold Weather Camping Gear #Item #Expensive #Modern 
+
+#### Nightvision Goggles
+
+Nightvision Goggles #Item #Expensive #Modern 
+
+#### Scuba Gear
+
+Scuba Gear #Item #Expensive #Modern 
+
+#### Smartphone
+
+Smartphone #Item #Expensive #Modern 
+
+#### Straightjacket
+
+Straightjacket #Item #Expensive #Modern 
+
+#### Heavy Handgun
+
+Heavy Handgun #Item #WeaponHeavy #VeryExpensive  #Modern 
+
+Long Range
+
+#### Assault rifle
+
+Assault Rifle #Item #WeaponHeavy #VeryExpensive #Modern 
+
+Rapid-Fire Weapon, Long rage
+
+#### Heavy Rifle
+
+Heavy Rifle #Item #WeaponHeavy #VeryExpensive #Modern 
+
+300-foot (90m) Range
+
+#### Submachine gun
+
+Submachine gun #Item #WeaponMedium #VeryExpensive #Modern 
+
+Rapid fire weapon, Short range
+
+Lightweight Body Armor
+
+Lightweight Body Armor #Item #ArmorMedium #VeryExpensive #Modern 
+
+Encumbers as light armor
+
+#### Military Body Armor
+
+Military Body Armor #Item #ArmorHeavy #VeryExpensive #Modern 
+
+#### Disguise kit
+
+Disguise kit #Item #VeryExpensive #Modern 
+
+Asset for disguise tasks
+
+#### Small Boat
+
+Small Boat #Item #VeryExpensive #Modern 
+
+#### Large Boat
+
+Large Boat #Item #Exorbitant #Modern 
+
+Level 5
+
+#### Luxury Car
+
+Luxury Car #Item #Exorbitant #Modern 
+
+Level 5
+
+#### Sports Car
+
+Sports Car #Item #Exorbitant #Modern 
+
+Level 6
 
 ## Extra Rules
 
@@ -26902,16 +26991,21 @@ AGE 14 TO 17
 
 ## Creatures
 
-#### Basic CREATURES AND NPCs FOR A Modern GAME
+#### Businessperson
 
-- Businessperson: level 2, business tasks as level 3
-- Cat: level 1, Speed defense as level 3
-- Clerk: level 2
-- Dog: level 2, perception as level 3
-- Dog, guard: level 3, attacks and perception as level 4
-- Horse: level 3; moves a long distance each round
-- Rat: level 1
-- Worker: level 2; health 8
+Businessperson #lvl2 (6) #Creature  #Modern 
+
+Modifications: business tasks as level 3
+
+#### Clerk
+
+Clerk #Lvl2 (6) #Creature #Modern 
+
+#### Worker
+
+Worker #lvl2 (6) #Creature #Modern 
+
+Health: 8
 
 # Science Fiction
 
