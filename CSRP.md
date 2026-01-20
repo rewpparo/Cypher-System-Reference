@@ -15860,17 +15860,17 @@ A sturdy wooden case with tiny flasks, stirring rods, droppers, and other materi
 
 #### Bagpack
 
-Bagpack #Item #Moderate 2gp #Core #Fantasy #Modern 
+Bagpack #Item #Moderate 2gp #Core #Fantasy #Modern #ScienceFiction 
 
 #### Bag of heavy tools
 
-Bag of heavy tools #Item #Moderate 25gp #Core #Fantasy #Modern 
+Bag of heavy tools #Item #Moderate 25gp #Core #Fantasy #Modern #ScienceFiction 
 
 Contains a hammer, six spikes, crowbar, large tongs, chisel, and 10 feet (3 m) of strong rope. 
 
 #### Bag of light tools
 
-Bag of light tools #Item #Moderate 10gp #Core #Fantasy #Modern 
+Bag of light tools #Item #Moderate 10gp #Core #Fantasy #Modern #ScienceFiction 
 
 Contains a small hammer, small tongs, pliers, small pry bar, awl, lockpicks, 10 feet (3 m) of string, 3 feet (1 m) of metal wire, and a handful of nails. 
 
@@ -15910,7 +15910,7 @@ A set of crampons, pitons, ropes, and tools. Provides an asset on climbing tasks
 
 #### Crowbar
 
-Crowbar #Item #Moderate 2gp #Core #Fantasy #Modern 
+Crowbar #Item #Moderate 2gp #Core #Fantasy #Modern #ScienceFiction 
 
 This bent length of metal grants an asset on tasks to open doors, treasure chests, and similar objects. 
 
@@ -15926,7 +15926,7 @@ Grappling hook #Item #Moderate 2gp #Core #Fantasy
 
 #### Healing kit
 
-Healing kit, First Aid Kit #Item #Moderate 5gp #Core #Fantasy #Modern 
+Healing kit, First Aid Kit #Item #Moderate 5gp #Core #Fantasy #Modern #ScienceFiction 
 
 A collection of bandages, needles, thread, and basic medicines. Provides an asset on healing tasks. Some parts are reusable, but the kit runs out after about five uses. 
 
@@ -27656,48 +27656,85 @@ For the most part, assume that equipment is either self-powered, or easily power
 
 Listing all possible armaments and equipment and their many variants across all three tech ratings, at least in the space available, isn’t an option. However, a representative cross section is provided. If you’re looking for something that isn’t noted, look for something close and adapt the listing
 
-INEXPENSIVE ITEMS
+### Equipment listing
 
-| Weapons                | Notes        |
-| ---------------------- | ------------ |
-| Energy pack (50 shots) |              |
-| Knife (simple)         | Light weapon |
+#### Energy Pack
 
-|Other Items|Notes|
-|---|---|
-|Flashlight||
-|Survival rations (1 day)||
+Energy pack (50 shots) #Item #Inexpensive #ScienceFiction 
 
-Moderately Priced ITEMS
- 
-|Weapons|Notes|
-|---|---|
-|Hunting knife|Light weapon|
-|Machete|Medium weapon|
-|Grenade (sonic)|Explosive weapon, inflicts 2 points of damage in immediate radius, plus Might defense roll or lose next turn|
-|Grenade (thermite)|Explosive weapon, inflicts 5 points of damage in immediate radius|
- 
-|Armor|Notes|
-|---|---|
-|Leather jacket|Light armor|
- 
-|Other Items|Notes|
-|---|---|
-|Backpack||
-|Bag of heavy tools||
-|Bag of light tools||
-|Binoculars|Asset for perception tasks at range|
-|Breather|8 hours of breathable air|
-|Climbing gear|Asset for climbing tasks|
-|Communicator|Planetary range|
-|Crowbar||
-|Environment tent||
-|First aid kit|Asset for healing tasks|
-|Handcuffs||
-|Nightvision goggles||
-|Portable lamp||
-|Rope|Nylon, 50 feet|
-|Sleeping bag||
+#### Knife (simple)
+
+Knife (simple) #Item #WeaponLight #Inexpensive #ScienceFiction 
+
+#### Flashlight
+
+Flashlight #Item #Inexpensive #ScienceFiction 
+
+#### Survival rations (1 day)
+
+Survival rations (1 day) #Item #Inexpensive #ScienceFiction 
+
+#### Hunting Knife
+
+Hunting Knife #Item #WeaponLight  #Moderate #ScienceFiction 
+
+#### Machete
+
+Machete #Item #WeaponMedium #Moderate #ScienceFiction 
+
+#### Grenade (sonic)
+
+Grenade (sonic) #Item #Moderate #ScienceFiction 
+
+Explosive weapon, inflicts 2 points of damage in immediate radius, plus Might defense roll or lose next turn
+
+#### Grenade (thermite)
+
+Grenade (thermite) #Item #Moderate #ScienceFiction 
+
+Explosive weapon, inflicts 5 points of damage in immediate radius
+
+#### Leather jacket
+
+Leather jacket #Item #ArmorLight #Moderate #ScienceFiction 
+
+Binoculars
+
+Binoculars
+
+Breather
+
+Breather
+
+Climbing gear
+
+Climbing gear
+
+Communicator
+
+Communicator
+
+Environment tent
+
+
+
+| Other Items         | Notes                               |
+| ------------------- | ----------------------------------- |
+| Backpack            |                                     |
+| Bag of heavy tools  |                                     |
+| Bag of light tools  |                                     |
+| Binoculars          | Asset for perception tasks at range |
+| Breather            | 8 hours of breathable air           |
+| Climbing gear       | Asset for climbing tasks            |
+| Communicator        | Planetary range                     |
+| Crowbar             |                                     |
+| Environment tent    |                                     |
+| First aid kit       | Asset for healing tasks             |
+| Handcuffs           |                                     |
+| Nightvision goggles |                                     |
+| Portable lamp       |                                     |
+| Rope                | Nylon, 50 feet                      |
+| Sleeping bag        |                                     |
 
 EXPENSIVE ITEMS
  
