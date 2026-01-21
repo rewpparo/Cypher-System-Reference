@@ -2,7 +2,7 @@
 
 This is a work in progress ! Everything should be in and categorized. Formatting still need Loads of work.
 
-Latest [CSRP](https://rewpparo.github.io/Cypher-System-Reference/Table%20Of%20Content.md)
+Latest [CSRP](https://rewpparo.github.io/Cypher-System-Reference/Cypher/Table%20Of%20Contents.md)
 # About CSRP
 
 The goal of the Cypher System Reference Project is to produce a clean and up to date version of the Cypher System Reference Document that can be used for further projects by the Cypher System community.
