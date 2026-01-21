@@ -7,6 +7,7 @@ Gihub page in progress
 # About CSRP
 
 ![](Compatible-with-the-Cypher-System-Logo-color-small.png)
+
 The goal of the Cypher System Reference Project is to produce a clean and up to date version of the Cypher System Reference Document that can be used for further projects by the Cypher System community.
 
 Cypher System Reference Project is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community to use.
