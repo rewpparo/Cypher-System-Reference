@@ -27,7 +27,6 @@ Further projects, that could possibly happen within CSOL, and that we want to su
 Work on CSRD 2025-08-22
 - [x] Core (pretty much)
 - [ ] Core linking
-
 - [ ] Fantasy - Needs organizing
 - [ ] Modern - Needs organizing
 - [ ] Science Fiction - Needs organizing
