@@ -26,18 +26,20 @@ Further projects, that could possibly happen within CSOL, and that we want to su
 
 Work on CSRD 2025-08-22
 - [x] Core (pretty much)
-- [ ] Fantasy
-- [ ] Modern
-- [ ] Science Fiction
-- [ ] Superheroes
-- [ ] Fairytale
-- [ ] Horror
-- [ ] Romance
-- [ ] Post-apocalyptic
-- [ ] Historical
-- [ ] Cyberpunk
-- [ ] Weird West
-- [ ] Modern Fantasy
+- [ ] Core linking
+
+- [ ] Fantasy - Needs organizing
+- [ ] Modern - Needs organizing
+- [ ] Science Fiction - Needs organizing
+- [ ] Superheroes - Needs organizing
+- [ ] Fairytale - Needs organizing
+- [ ] Horror - Needs organizing
+- [ ] Romance - Needs organizing
+- [ ] Post-apocalyptic - Needs organizing
+- [ ] Historical - Needs organizing
+- [ ] Cyberpunk - Needs organizing
+- [ ] Weird West - Needs organizing
+- [ ] Modern Fantasy - Needs organizing
 ## Formatting reference
 
 This document uses markdown best practices
