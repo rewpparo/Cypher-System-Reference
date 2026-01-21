@@ -1,0 +1,5299 @@
+## Extra Rules
+
+### Artificial Intelligence
+
+Artificial intelligence (AI) generally means machine intelligence or computer intelligence—the ability of a nonhuman system to think and reason. In cyberpunk, AIs range from helper apps on devices (including smart weapons that help the user target foes) to self‑acting machines (such as military or police robots) to powerful programs running on supercomputers or distributed across a computer network. AI can be broken into four general categories: weak, sim, strong, and post‑singularity.  
+Weak AI: An algorithmic‑based code with specific tasks, such as a chess bot, smart pistol, or voice‑activated helper app on a smartphone. It can’t do anything except what it was programmed to do.
+
+#### Sim AI
+
+A program with the capacity to understand directions, interpret multiple kinds of data, and draw conclusions from its findings, but that lacks consciousness like a human. An example is a self‑directed police robot that can navigate public spaces, use facial recognition to find criminals, intervene in obvious crime situations (including neutralizing aggressors) and respond to typical questions, but it isn’t actually thinking. A sim AI is essentially a stronger form of weak AI.
+
+#### Strong AI
+
+A strong AI has all of the abilities of a sim AI, and it can think and generalize the way a human can. In a typical cyberpunk setting, a strong AI doesn’t have full human citizenship or rights, and it’s digitally confined to prevent it from trying to escape, cause harm, or overthrow its creators (although there may be a few strong AIs that evolved out of sim AIs and are free to act in the world, whether toward grand plans like global domination or smaller goals like controlling a fleet of AI‑piloted limousines).
+
+#### Post‑singularity AI
+
+An AI created by a strong AI, designed to be better than and exceed the limitations of their first‑generation AI predecessors. In a typical cyberpunk setting, post‑singularity AI is just speculation, or its existence is kept hidden from the general public. These AIs would probably consider humanity their enemies at worst or their captors at best, and are kept locked behind multiple firewalls (perhaps in an older, sealed‑off internet) to protect the megacorporations’ interests.
+
+  
+
+### Brainslides
+
+A brainslide is a digital recording of the subject’s experience that plays directly into the viewer’s senses. When a character plays a brainslide, they experience the recorded events from the perspective of the subject who recorded them. This is an immersive experience that includes all major senses—the character playing a brainslide truly feels as though they are in the position of the individual who recorded it. This means that the spectator is also bound by the 
+recorder’s choices: if a character has a brainslide of a murder they are trying to solve, but the person who recorded the brainslide was facing away from the action, then the character will not be able to see who the killer was. They will see, hear, smell, taste and feel precisely what the recorder experienced in the moment.
+
+In most cases, the medium’s limitations don’t matter: brainslides are primarily used for entertainment, allowing the masses to simulate unobtainable experiences like scoring the winning point in a tennis Grand Slam or BASE jumping from the Burj Khalifa. In these situations, consumers aren’t worried about what’s happening just out of frame; the adrenaline is the point.
+
+But what happens when PCs use brainslides for other purposes, such as the aforementioned murder investigation? In these cases, brainslides are an immersive way to provide clues without giving the whole mystery away.
+
+#### Exploring a Brainslide
+
+Playing a brainslide is a level 0 task—players do not have to roll to experience the events in real time, noticing any details that stood out to the recording subject.
+
+A character can make a perception roll to notice something that the recording subject saw, heard, etc. but did not pay attention to in the moment of recording. Returning to the previous example, perhaps the recorder saw the murderer’s shadow or heard them say something, but was distracted by fleeing to safety. A successful perception roll will allow a character playing the brainslide to identify these clues.
+
+On a failed roll, the character can retry, but they must replay the brainslide. This means that if the recording is five minutes long, each attempt to find clues takes five minutes.
+
+Characters can replay brainslides as many times as they wish, but the events and the available information do not change. A character who has uncovered every clue in a brainslide will not gain any further benefit from playing it again.
+
+This level 0 task refers to the act of playing the brainslide. Characters might have to hack or bypass encryption before they can play it.
+
+Brainslides may capture intense experiences. Some, like skydiving or professionally boxing, are legal. Others are sold on the black market to a niche audience, and include experiences such as murder and torture—either from the perspective of the perpetrator or the victim.
+
+The rumors that intense brainslides cause lasting brain damage are grounded in truth. When a character plays a brainslide that simulates extreme violence, they take damage commensurate to the recording’s subject; because brainslides are a VR experience, this damage comes out of the character’s Intellect pool.
+
+### Engrams
+
+Engrams are AI personalities based on a real or fictitious person (as opposed to one created entirely from scratch, such as a generic customer service chatbot that isn’t emulating a specific person). How lifelike and accurate an engram is depends on the data used to make it.
+
+Engrams fall into one of four categories, presented here from least to most accurate. (It’s fairly easy to upgrade a lesser engram to the next-higher category, it just requires a skilled programmer to deactivate the AI, update the data, and coordinate the alterations.)
+
+D-engram: The engram was created using observations of the subject, such as surveillance footage, with little or no direct input from the subject. The engram presents a reasonably accurate version of the subject’s voice, speech patterns, and mannerisms, but can’t tell you anything about the subject that hasn’t been fed to it by its creator.
+
+For example, you can make an engram of a politician based on video footage of speeches and interviews, and fill in the background information with commonly-available knowledge (such as a biography on their website, names of friends and family from public social media posts, and so on); the engram could talk for hours about the subject’s espoused beliefs, but couldn’t answer private or obscure information such as the name of their family pet growing up, a medical condition they haven’t disclosed, or their recurring dreams and nightmares.
+
+A D-engram is enough to fool someone who doesn’t know the subject well, such as a typical voter, casual work colleague, or a family member they only talk to during the holidays.
+
+It is possible to create an engram of a fictitious person, such as a character in a movie franchise or multiple-season television show. Some megacorporations preferentially use these “actor avatars” as soon as they have enough recorded data, as that means they no longer need to pay the actor for future work.
+
+C-engram: The engram uses observation data (like a D-engram), plus personal data about the subject, such as casual interviews, police interrogations, personal journals, and statements from people who know the subject well. The result is an improved version of a D-engram that can respond to a reasonable range of questions about the subject, perhaps with the subject’s emotional responses coded into the answers. For example, if the politician engram was given data from an interview where the politician admitted to an affair and love child that they felt guilty about, the engram could talk about those subjects, perhaps rebuffing initial questions and only opening up about it if pressed about it. The engram might even invent false details to bolster its answers, or lie about things if the subject is known to lie. The engram only knows the data it is given; building an engram with inaccurate or false data (such as a “tell-all” book written by someone who doesn’t actually know anything about the subject) means it confidently gives answers that it doesn’t understand are incorrect.
+
+A C-engram can fool someone reasonably familiar with the subject or who doesn’t delve too deep into the engram’s personality, such as a close work colleague, ex-spouse, or child.
+
+B-engram: The engram uses observation data, personal data about the subject, and intimate internal details about the subject’s thoughts, feelings, emotions, and memories, usually provided by the subject through extensive interviews or therapist logs, or even by using custom software on the subject’s brain cyberware to record their experiences and surface-level thoughts. Providing these details takes a lot of time—at least several weeks of multiple-hour sessions to extensively cover the subject’s history and opinions. Because of this time investment, creating a B-engram of someone without their knowledge or cooperation is very difficult, and mainly used by subjects who want a “double” to take their place so they can remain hidden, or by people whose bodies and/or minds are failing and see becoming an engram as the only way to live on (perhaps in a robotic humanoid body) once they die.
+
+A B-engram can fool someone reasonably familiar with the subject and (if the interactions aren’t too long or detail-focused) even someone who knows the subject well, such as a spouse, close family member, or official biographer. A B-engram genuinely seems like a real person, even if they’re not a 100% accurate emulation of the subject; at worst, someone who knows the subject might think the engram is actually the subject, but having an “off day.”
+
+A-engram: The engram’s data comes from a direct copy of the subject’s brain, and therefore is an exact replica of the subject’s mind and personality. Of course, because the copying technology doesn’t exist (as far as the public knows), A-engrams are purely theoretical, the ideal concept of a perfect engram: it knows what the subject knows, remembers whatever the subject remembers, and effectively is the subject’s mind in a computerized brain. The copied subject can live on indefinitely regardless of what happens to the original—true immortality.
+
+An A-engram is perfect at pretending to be the subject, even if asked for details that only the original would know.
+
+Conspiracy theorists think the megacorps might be trying to invent a brain-copying device that would make creating an A-engram possible.
+
+D- and C-engrams are “sim AIs;” they are not conscious, but can emulate it pretty well. B- and A-engrams are “strong AIs;” effectively disembodied people, conscious and capable of generalizing concepts.
+
+Typically, an engram is programmed so it doesn’t know that it isn’t the actual subject; attempts to convince it otherwise are rebuffed with laughter, anger, changing the subject, or rebooting.
+
+Since most engrams are merely programs on a screen rather than embodied in a humanlike form, tricking someone into believing an engram is actually the person it emulates requires subterfuge, such as communicating with the engram through a voicemail or holophone call.
+
+### Netrunning
+
+The matrix is a three-dimensional hallucination: the net translated into a navigable space. This virtualized realm serves as playground and battleground alike, where information may be freely given or hard won.
+
+While netrunning, a character’s mind enters cyberspace (or the matrix), while their physical body is left behind in meatspace. Characters, represented by avatars, interact with dataforms—physical representations of NPCs, programs, viruses, AI, and the like—in pseudo-geographical locations called nodes and frames, each of which might have different environments and qualities. When characters log off from cyberspace, they may emerge with boons or damage that translate to the real world.
+
+#### Jacking In: Entering Cyberspace
+
+To enter cyberspace, characters must jack in: as an action, plug an electrode from a computer terminal into their datajack and make a difficulty 4 Intellect roll. On failure, the character still enters cyberspace, but they experience an avatar glitch.
+
+Some computer terminals lead to specific I/O points—a terminal in a Kaisha employee’s office will lead to the company intranet, for example. If characters jack in from a personal terminal, they either arrive in a random frame or at a frame of their choosing, if they have been to that frame before and succeed on a cyberspace navigation roll against the level of their intended destination. This roll is eased by one step due to their familiarity with the location.
+
+Characters can log off from cyberspace at an I/O point as an action. If the character (or someone else) physically unplugs while their avatar is not at an I/O point, they incur an ejection glitch while returning to meatspace.
+
+The datajack ability is required for netrunning.
+
+If the computer terminal characters are using must be hacked, that is a separate action that must be completed before jacking in.
+
+#### PC Avatars
+
+While in cyberspace, characters are represented by avatars. Because the matrix is a realm of information, something physical does not have to look like its meatspace counterpart; however, things in cyberspace tend to take recognizable forms, for ease of comprehension. Humans look mostly like humans. Any changes are purely cosmetic.
+
+Characters enter cyberspace with virtual representations of anything they were wearing or carrying when they jacked in, except for manifest cyphers. Their attire and equipment may change in appearance to match the aesthetic sensibilities of their location, such as a gun turning to a crossbow in a medieval-inspired frame, but the items’ function remains the same. A character in cyberspace makes melee and ranged attacks as normal, inflicting damage according to the type of weapon they typically use in meatspace.
+
+A character who dies in cyberspace is forcibly logged off with an ejection glitch and 1 Pool point remaining. The exception to this is black ICE: a character who is killed by black ICE in cyberspace also dies in meatspace.
+
+Alternately, a character can be forcibly logged off with an ejection glitch upon becoming debilitated.
+
+#### Cyphers in Cyberspace
+
+When a character jacks into the matrix, they bring any subtle cyphers with them, but their manifest cyphers remain in meatspace. Characters may pick up new cyphers in cyberspace; these cyphers are experienced as having physical form but, like all things in the matrix, they are really hallucinatory. When characters log off from cyberspace, they retain any new cyphers as subtle cyphers.
+
+If a character dies in cyberspace, or unplugs without using an I/O point, they do not retain the subtle cyphers they gained while in the matrix. 
+
+#### The Physical Body
+
+Creatures do not need to eat, drink, or breathe in the matrix—but the physical body the character leaves behind still does. Characters must log off to attend to survival needs such as food, hydration, and sleep.
+
+While a character is in the matrix, their body in meatspace is also not immune to danger. The character can react reflexively, such as ducking or covering their head in response to a nearby noise, but anything more complex is hindered by two steps.
+
+Subjective time may give a character a chance to safely log off before foes in meatspace can harm them.
+
+#### Optional Rule: Subjective Time
+
+Sometimes, time passes differently in the matrix than it does in meatspace. To increase (or decrease) stakes when some characters are in cyberspace and others aren’t, adjust the ratio of combat rounds in the matrix to meatspace. For example, two rounds may pass in meatspace for each round in cyberspace, or vice versa.
+
+#### Experiencing Cyberspace
+
+It is impossible for the human mind to interpret and understand the pure wealth of data that you must wade through in cyberspace. To make sense of it, the brain conceives of the matrix as three-dimensional spaces: frames, nodes, and conduits.
+
+Use the Cyberspace Directory to generate countless potential paths through the matrix and find inspiration for designing your own locations.
+
+##### Frames
+
+A frame is like a room in reality, with an environment that avatars perceive and interact with. A frame might appear as an empty white room, a tiny island, a city street, or something else—the options are limitless, because these are conceptual spaces that characters hallucinate in order to navigate the matrix.
+
+A frame always has a level, though the level may be determined by the node the frame is a part of. If a frame is locked, preventing creatures from entering or leaving, the level of the frame is usually the difficulty of any tasks to break the ICE and move to another adjacent frame or conduit.
+
+Characters can move within a frame as part of an action.
+
+I/O Points. Some frames contain I/O points, locations where characters can enter and/or exit the matrix. Logging off from the matrix at an I/O point takes a full round and usually does not require a roll, though in some cases characters must roll against the I/O point’s level.
+
+I/O points commonly appear as doors, airlocks, ladders, stairwells, or elevators.
+
+##### Nodes
+
+A node is a collection of adjacent frames. If frames are like rooms, then a node is like a house, castle, or larger building. Characters can move between frames within the same node as an action.
+
+Nodes tend to have a theme, meaning that the frames within them contain related information and appear aesthetically similar. A node always has a level, which is usually shared by the frames it’s composed of.
+
+Most nodes have at least one entry frame, where conduits leading to other nodes in cyberspace connect. However, some nodes can only be accessed by entering the matrix at a specific I/O point.
+
+##### Conduits
+
+A conduit is a pathway between nodes, connecting two nodes’ entry frames. Conduits are not experienced as physical spaces, but as instantaneous transit from one end to the other. It is impossible to see what lies at the other end of a conduit, so it’s difficult for characters to know what it connects to without prior experience, directions, or assistance.
+
+A conduit always has a level, though the level varies at each endpoint where it connects to a frame. The frame determines the conduit’s level at that endpoint.
+
+Characters can travel a conduit as an action.
+
+Some conduits are one-way. This means that someone could become stranded in a node until they locate another conduit or I/O point.
+
+##### Intrusion Countermeasures Electronics (ICE)
+
+Of course, characters’ travel through frames, nodes, and conduits is not always easy. Characters will encounter obstacles between data structures that must be circumvented or overcome.
+
+ICE stands between secure data and miscreants who shouldn’t access it; because the matrix is a conceptual space, ICE can appear as any object or creature. ICE may serve as a passive obstruction, like a locked door separating two adjacent frames or a stone wall blocking a conduit. Alternately, ICE can take a more active form, such that characters must battle a kaiju, outsmart a fey prince, or defuse a timebomb.
+
+ICE always has a level, which is usually the same as the space it’s protecting. These creatures and constructs remain in the location they’re guarding, and will not pursue characters through cyberspace.
+
+##### Black ICE.
+
+On the surface, black ICE doesn’t seem any different from regular ICE. The key distinction is that if black ICE kills a character in the matrix, they die in meatspace. Black ICE can also track avatars through cyberspace: if characters draw its attention, they may find themselves being hunted across various nodes.
+
+##### Creatures & NPCs in Cyberspace
+
+ICE aren’t the only creatures characters can interact with in cyberspace. Other computer programs, such as viruses and AI, have physical forms in the matrix. So do netrunner NPCs, whose virtual avatars may encounter those of player characters.
+
+Like PC avatars, which change in appearance depending on the theme of the present node, creatures and NPCs may look different according to their environment. In all cases, a creature or NPCs stats and abilities retain the same functions as in meatspace—it’s just the description that may vary.
+
+When creatures and NPCs die in cyberspace, their bodies disappear leaving behind any virtual equipment they were wearing or carrying. PCs can claim these items for use in the matrix, and can even stash them for future access, but do not retain them in meatspace when logging off.
+
+##### Asking for Help
+
+PCs can attempt to tap directly into the matrix with a cyberspace navigation roll of equal difficulty to the frame in which the attempt is made. If they are successful, a simple AI helper whose level is equal to the frame’s materializes, taking the form of a drone, computer, hologram, or small robot. The PC can ask this non-sapient AI questions about their surroundings, and receive a few facts about the current frame, one adjacent frame, and the end of a connected conduit. They can also use the AI helper to carry messages to other frames within the current node.
+
+If the PC attacks or harms the AI helper, they cannot summon another one until they log off and jack in again.
+
+Navigating cyberspace is an Intellect skill.
+
+#### Glitches
+
+Glitches are places where the digital environment functions strangely due to errors, damage, or degradation. Glitches might be stealthy, with no obvious sign to anyone else that there is something wrong, or they might be apparent, with some manifestation of the glitch’s presence, such as a constant or intermittent noise, light, image, or scent. The effect of the glitch might indicate how it manifests; for example, a glitch that causes blindness might manifest as a character’s avatar lacking eyes.
+
+Characters incur glitches from difficulty jacking in, from interacting with glitched areas, or from unusual attacks or effects. Some glitches are viral and can be passed from creature to creature by interacting with an infected target. Most circumstances of glitching allow a resist roll; the exception is a glitch caused by an error jacking in.
+
+Options from the location and avatar glitch tables can also be treated as GM Intrusions, meted out in exchange for XP.
+
+##### Location Glitches
+
+These tables provides examples of odd effects that might occur in virtual locations. Frame and node glitches should repeat as long as characters are present in the relevant space, while conduit glitches have a single effect. The GM can change the specific effects for any of these results, tailoring them to your game.
+
+Conduit Glitch Table
+ 
+|d6|Conduit Glitch|
+|---|---|
+|1|Null space. The conduit spits you out into a null frame: an endless expanse of white pixels. The only obvious ornamentation is an I/O point that appears as an infinite ladder.|
+|2|Moving in circles. After using the conduit, you arrive back in the frame you departed from.|
+|3|Through filth. You reach your destination covered in mud, blood, motor oil, or some other unpleasant and difficult-to-remove substance.|
+|4|Overload. Due to network overload, transit through this conduit is not instantaneous. 1d6 rounds pass between your departure from one node and your arrival at another.|
+|5|Lossy compression. For one minute, your avatar changes to something radically different from your normal form, such as a cube, sphere, or chair. You can still communicate and use your abilities, but movement tasks are hindered.|
+|6|Nightmare. In the instant it takes you to pass through the conduit, you experience a vivid hallucination of either your greatest fear or your worst memory. Your next Intellect defense is hindered due to the shock.|
+
+Node Glitch Table
+ 
+|d6|Node Glitch|
+|---|---|
+|1|Screenbug. You see a small stylized beetle in the bottom right corner of your field of vision, no matter where you look. Tasks involving visual perception are hindered.|
+|2|Earworm. A chiptune rendition of a popular song plays loudly and incessantly. Tasks involving auditory perception or verbal communication are hindered.|
+|3|Earthquake. Every few rounds, the node seems to rumble and shake. Characters must make a Speed defense roll against the node’s level to keep their footing.|
+|4|Sticky. Every surface within the node feels sticky.|
+|5|Fissures. Every surface is striated with cracks that reveal null space beyond: an endless wasteland of white pixels.|
+|6|Incongruent errors. Each frame within the node is afflicted by a different glitch. Roll on the Frame Glitch table whenever characters enter a new frame.|
+
+Frame Glitch Table
+ 
+|d6|Frame Glitch|
+|---|---|
+|1|Infinite scroll. The frame extends indefinitely on one axis. Though the boundary seems to get closer, characters never reach it.|
+|2|Manifest thought. Characters’ unwanted or uncontrolled thoughts gain physical representations with the same level as the frame.|
+|3|Stroboscope effect. Surfaces and objects in the frame emit rapid flashes of bright light.|
+|4|Odd behavior. Allied creatures and NPCs, including helper AIs, behave erratically and may even attack PCs.|
+|5|Unsubtle cyphers. Any cyphers a character is carrying emit a high-pitched whistle, hindering stealth tasks.|
+|6|Light trails. Characters’ movements leave trails of light behind, as in a long-exposure photograph. Attempts to sneak or hide are hindered.|
+
+##### Avatar Glitches
+
+Avatar glitches, which effect the appearance or capabilities of a PC’s avatar in cyberspace, are most commonly incurred due to an error while jacking in. Glitches with ongoing effects persist until the character logs off. The GM can change the specific effects for any of these results, tailoring them to your game.
+
+Putting an obvious card or token representing the glitch in front of the player is a useful reminder about incorporating the glitch effects into the game.
+
+Avatar Glitch Table
+ 
+|d20|Avatar Glitch|
+|---|---|
+|1|False memories. You remember people who never existed and events that never happened. These memories might be errors, or you might be acquiring memories from someone else.|
+|2|Lag. If you want to move, you must use your entire action; you cannot move as part of another action.|
+|3|Vulgarity. An offensive image or sound is imprinted upon or floats near your avatar at all times. Covering or removing it makes it appear elsewhere on your avatar.|
+|4|Auditory distortion. Your deliberate noises are muted, distorted, or slurred. Interaction tasks based on speaking are hindered.|
+|5|Discoloration. Your avatar and everything you carry takes on an obvious and unusual color (fluorescent orange, monochrome, flickering or strobing).|
+|6|Tracking signal. Your movements leave obvious signs (footprints, path vectors, trailing words), making it easy to follow you. Attempts to track or find you are eased by three steps.|
+|7|Visual distortion. You are afflicted by vision changes, such as flashing lights, ripples, or tunnel vision. Tasks based on visual perception are hindered.|
+|8|Targeted. Your avatar has a large, obvious target on it, making it easier to find and attack you. Defenses and stealth are hindered.|
+|9|Dulled senses. Sensory input is muffled, as if it reaches you through a dense fog. All tasks requiring perception are hindered by two steps.|
+|10|Earworm. You and everyone within a short distance hear Rick Astley’s “Never Gonna Give You Up” playing on a loop.|
+|11|Pixel growths. Your face and hands are covered with cube-shaped masses, tumors made of pixels.|
+|12|Shadow self. You are followed by a duplicate of you. The duplicate does not attack you and does not respond to speech; it merely loiters at the corner of your vision. Its level is equal to the level of your current frame.|
+|13|Hostile instance. A duplicate of you appears and immediately attacks you. The duplicate’s level is equal to the level of your current frame. If killed, it leaves behind glitching/malfunctioning equipment.|
+|14|Fractal limb. One lower arm splits into a cluster of smaller arms and hands, all of which move independently. Tasks requiring manual dexterity are hindered.|
+|15|Skew. You are oriented on a different axis from any characters or creatures in the same frame, such that they appear to walk on the ceiling or walls.|
+|16|Alarm. You emit a constant alarm noise, which hinders hearing tasks for all creatures in the frame and hinders your stealth tasks by three steps.|
+|17|Allergies. You are prone to loud, uncontrollable sneezing attacks.|
+|18|Vertigo. You constantly experience the sensation of falling. Tasks requiring balance or steadiness are hindered.|
+|19|Scrambled words. You cannot read. Any text you encounter in the matrix appears as gibberish.|
+|20|Viral glitch. Roll again on the Avatar Glitches table. The effect is transmissible to any avatars or creatures you touch.|
+
+Ejection Glitches
+When a character exits the matrix while their avatar is not at an I/O point—either by dying in cyberspace, or by being physically unplugged from the computer terminal they’re using—they incur an ejection glitch as their senses fail to map correctly back onto their body. This glitch effects their actions in meatspace until their next ten hour recovery roll.
+
+Ejection Glitch Table
+ 
+|d6|Ejection Glitch|
+|---|---|
+|1|Hearing damage. Hearing in one of your ears is muffled until your next ten hour recovery roll. Tasks involving hearing are hindered.|
+|2|Pins and needles. One of your legs becomes numb, hindering movement tasks until your next ten hour recovery roll.|
+|3|Useless eye. One of your eyes is unusable until your next ten hour recovery roll, hindering tasks specifically requiring eyesight.|
+|4|Weakness in Might. Until your next ten hour recovery roll, any time you spend points from your Might Pool, the cost is increased by 1 point.|
+|5|Weakness in Speed. Until your next ten hour recovery roll, any time you spend points from your Speed Pool, the cost is increased by 1 point.|
+|6|Weakness in Intellect. Until your next ten hour recovery roll, any time you spend points from your Intellect Pool, the cost is increased by 1 point.|
+
+#### Navigating Cyberspace
+
+Infinite paths lead through cyberspace to a particular node. Such paths are composed of an expanse of conduits, nodes, and frames. Sometimes netrunners know exactly which node they want to visit. If they’re lucky, they’re equipped with coordinates or directions to make their virtual journey more efficient. If they’re extremely fortunate, they have access to a computer terminal in meatspace that provides direct access.
+
+When characters wish to navigate to a specific node in the matrix, use the rules in this section.
+
+Navigating cyberspace is an Intellect skill.
+
+##### Finding a Location with Coordinates
+
+If PCs try to find a specific location in cyberspace but only have the coordinates of a node or frame (or some other directions or identifying information, possibly provided by an AI helper), allow them to attempt a cyberspace navigation task every time they enter a new node (or, if it’s a particularly large and complex node with hundreds of frames, each time they enter a new frame in that node). The PCs must succeed on three cyberspace navigation rolls, each of which must be made in a different node (or frame, if they’re trying to find a particular frame in a big node). The difficulty of each roll is set by the level of the frame or node they’re seeking. Each failure means the subsequent difficulty is hindered by one step. A success brings all remaining difficulties back to baseline. If the PCs succeed on three navigation tasks, they can be confident that one of the conduits in the node where they made the last success leads to the destination they’re seeking.
+
+##### Finding a Location Without Guidance
+
+If PCs are searching for a specific node or frame but have not previously been there and do not know the coordinates, allow them to attempt a cyberspace navigation task each time they enter a new node (or, if it’s a particularly complex node, each time they enter a new frame in that node). The PCs must succeed on a number of cyberspace navigation tasks equal to their desired destination’s level. These tasks start at difficulty 1, and the task difficulty increases by 1 until the player makes the final roll at the highest difficulty.
+
+For example, locating a level 3 frame requires three cyberspace navigation rolls, the first at difficulty 1, the second at difficulty 2, and the third at difficulty 3. If multiple characters are working together to navigate, the GM can allow different characters to make each roll.
+
+Each failure means the subsequent difficulty is hindered by one step. A success brings all remaining difficulties back to baseline. If the PCs succeed on the requisite navigation tasks, they can be confident that one of the conduits in the node where they made the last success leads to the destination they’re seeking.
+
+##### Returning to a Location
+
+Returning to a location that a character has previously been to requires a single navigation task with difficulty equal to the location’s level, eased by one step due to their familiarity.
+
+#### Cyberspace Directory
+
+Whether netrunners are seeking a specific destination or simply enjoy wandering through the matrix, you can use the following system to generate infinite combinations of nodes, frames, and conduits.
+
+##### Generating Nodes
+
+- When generating a new node, roll on the Node Themes Table to determine the node’s broad characteristics.  
+- Determine the node’s level by rolling a d10; the result is the level.
+- Determine how many frames are associated with the node by rolling a d6. The result is the number of frames in the node, unless the roll is 6, in which case the result is 4 plus one additional d6 roll; continue until no more d6s are rolled.
+- Decide whether the node theme is enough information to determine the contents of the associated frames, or if you’d like more inspiration. For more inspiration, roll on the Frame Features and Frame Creatures tables.
+- Roll a d10 to randomly determine whether the node has a location glitch. On a 10, roll on the Node Glitch Table.
+
+##### Generating Frames
+
+- If the frame is not already part of a node that has a level, roll a d10; the result is the frame’s level. Otherwise, the frame is the same level as the node containing it.    
+- Roll on the Frame Features Table one or more times to generate features of this particular frame within the node. If you’ve generated a theme for the node that the frame is part of, interpret the frame features results through the lens of that theme.
+- Any frame might contain something valuable to the PCs, whether that’s information, an important discovery, or a relevant cypher. To determine this randomly, roll a d20 for each new frame generated. On a roll of 17-20, the frame contains 1d6 cyphers.
+- Some frames contain virtual representations of creatures. To randomly determine whether a frame has a creature, roll a d20. On a roll of 1-4, the frame has one. Refer to the Frame Creatures Table for inspiration.
+- To randomly determine whether any given frame has an I/O point, roll a d10. On a roll of 8-9, the frame has an I/O point where characters can safely log off without difficulty. On a roll of 10, the frame has an I/O point, but characters must roll against the I/O point’s level to safely use it. If a player fails this roll, it is up to you whether they emerge with an ejection glitch or remain in cyberspace until they make further attempts to log off.
+- To randomly determine whether any given frame has a conduit, roll a d20. On a roll of 18-19, the frame has a single conduit. On a roll of 20, the frame has 1d6+1 conduits.
+- Roll a d10 to randomly determine whether the frame has a location glitch. On a 10, roll on the Frame Glitch Table.
+
+The I/O point’s level is the same as the frame’s level.
+
+##### Generating Conduits
+
+- A conduit is usually connected to at least two different frames, one on either end. At its endpoints, the conduit has the same level as the frame. Roll a d10 to determine the level of the conduit itself, which is also the level of any glitches encountered in the conduit.
+- To randomly determine whether the conduit has a location glitch, roll a d10. On a 10, roll on the Conduit Glitch Table.
+
+##### Node Themes Table
+
+|d00|Node Theme|
+|---|---|
+|1-2|The lunar surface|
+|3-4|Medieval castle|
+|5-6|Pharmaceutical development laboratory|
+|7-8|Deep-sea drilling facility|
+|9-10|Ancient Roman villa|
+|11-12|Mars habitat|
+|13-14|The Paris Catacombs|
+|15-16|University campus|
+|17-18|High-security prison|
+|19-20|Sporting arena|
+|21-22|A mirror image of Edge City|
+|23-24|Abandoned amusement park|
+|25-26|Hospital|
+|27-28|A PC’s childhood home|
+|29-30|Underground bunker|
+|31-32|Safari park|
+|33-34|Gaming convention|
+|35-36|Homogenous suburb|
+|37-38|Film studio complex|
+|39-40|Comic book franchise universe|
+|41-42|Monastery|
+|43-44|Onboard RMS Titanic|
+|45-46|Human-scale beehive|
+|47-48|Infinitely large library|
+|49-50|Airport|
+|51-52|Appalachian woods|
+|53-54|A cave system|
+|55-56|Nightclub|
+|57-58|Cruise ship|
+|59-60|Luxury hotel|
+|61-62|Haunted house|
+|63-64|Morgue|
+|65-66|A small Mediterranean fishing village|
+|67-68|Vlad the Impaler’s castle|
+|69-70|An Edwardian-era country house|
+|71-72|Opera house|
+|73-74|Nuclear power plant|
+|75-76|Shopping mall|
+|77-78|Natural history museum|
+|79-80|Shipwreck|
+|81-82|Arboretum|
+|83-84|Lighthouse|
+|85-86|Military training camp|
+|87-88|A prestigious artistic awards ceremony|
+|89-90|County courthouse|
+|91-92|Arctic tundra|
+|93-94|Human-scale dollhouse|
+|95-96|Inside a human body|
+|97-98|Experimental weapons laboratory|
+|99-00|Old West saloon|
+
+##### Frame Features Table
+ 
+|d00|Frame Feature|
+|---|---|
+|1|Clanging and rattling sounds emanate from all inanimate objects|
+|2|All creatures and characters appear as younger versions of themselves|
+|3|Harsh white light emanates from the frame’s walls|
+|4|Frame is littered with the aftermath of what must have been a wild party|
+|5|All creatures and characters are covered in irregular lines forming interlocking shapes, as in a jigsaw puzzle|
+|6|Frame is a platform floating in a clear sky with no ground below|
+|7|Frame is on the back of a giant turtle that wanders throughout the node|
+|8|High-speed wind gusts whip through the frame|
+|9|Frame is a replica of a PC’s bedroom, with all furniture shifted slightly out of place|
+|10|Shelves of outdated appliances that emit human screams when touched (may contain a cypher)|
+|11|All creatures and characters have horns or antlers|
+|12|Gravity operates in reverse, so that characters and objects fall upwards|
+|13|Cubes made of light float throughout the frame and feel cold when touched|
+|14|Frame contains at least twenty statues of flamingos|
+|15|Air feels extremely humid and smells like an oncoming thunderstorm|
+|16|Floor is covered by 2 inches (xx cm) of saltwater|
+|17|Walls and floor are made of matte black metal|
+|18|A perpetually flaming crater sits at the frame’s center|
+|19|Thimble-sized wooden statues of folk heroes (may contain a cypher)|
+|20|Scraps of paper rain from the ceiling, containing writing in an unrecognizable language|
+|21|Shaped like a giant whale|
+|22|The frame is a large, ornate staircase with no visible start or end|
+|23|Everything appears as primary colors (red, blue, and yellow)|
+|24|A garage containing inoperative vehicles in need of repair (may contain cyphers)|
+|25|Words or sounds uttered appear in the air, with distinct fonts for each character|
+|26|Walls painted with photorealistic snakes whose eyes seem to follow characters as they move|
+|27|Frame is a raft floating on a turbulent ocean|
+|28|A perpetual snowstorm effects half of the frame, while the other half is temperate|
+|29|Frame is bisected by a railway track; every half hour, a locomotive passes through|
+|30|Animate paintings of aliens on the walls dance to barely audible music|
+|31|Frame is a glass jar with air holes poked in the lid, large enough to hold several avatars|
+|32|Frame is dominated by a massive scarab beetle statue|
+|33|Floor oozes blood after each step taken|
+|34|Light filters in through stained glass windows depicting modern titans of industry|
+|35|Speakers embedded in the floor mimic any speech or sounds of human origin|
+|36|Scale is distorted so that characters and creatures appear as half their usual size relative to all structures and furnishings in the frame|
+|37|Newton’s cradle that emits a human scream with each strike|
+|38|A Rube-Goldberg machine of unknown purpose is activated when characters enter (may contain a cypher)|
+|39|Chalkboard filled with notes in a PC’s handwriting|
+|40|Walls and floor are made of concrete|
+|41|Holograms of sea creatures seem to swim through the air|
+|42|Sandstone formations shaped like pastries|
+|43|Screens displaying one-star reviews of random products and services|
+|44|Lit only by ornate candelabras|
+|45|Every character or creature’s heartbeat is amplified, audible to others within a short distance|
+|46|Analog radio tuned to a numbers station|
+|47|Frame is a sphere that rotates in response to movement within it|
+|48|Commemorative plaques with dates that don’t exist, such as February 30th|
+|49|Scraps of raw meat rain down from above|
+|50|Frame smells of freshly cut grass|
+|51|Walls decorated with a mosaic of tiles vaguely resembling a human face|
+|52|All furniture and fixtures are labeled with “FOR SALE” signs|
+|53|A computer monitor on with PCs can see real-time footage of themselves in meatspace|
+|54|A flock of fireflies with multicolored bioluminescence|
+|55|Stone floor embedded with a trail of well-worn footprints that stops halfway across the frame|
+|56|Frame is littered with medical implements and bloodied linens, as if a surgery or an autopsy took place here|
+|57|Frame is warm and stuffy, with A-frame walls that slant towards the ceiling|
+|58|Shed skins belonging to snakes and lizards of various sizes (may contain a cypher)|
+|59|Frame contains a plethora of art supplies; small objects that are drawn or painted become real|
+|60|A brazier in which a green fire burns; flames feel cold to the touch|
+|61|Stone carvings in the style of Mt. Rushmore that depict the PCs’ faces|
+|62|Frame is a desolate stretch of highway, bounded by mile markers on either end|
+|63|A theremin that emits meows, barks, and howls|
+|64|A well of carbonated water that imparts a feeling of peace when consumed|
+|65|Blaring overhead sirens make conversation and other such interactions difficult|
+|66|Rich, loamy soil that characters have an overwhelming urge to bury themselves in|
+|67|Avatars move not by walking or running, but by jumping|
+|68|Characters’ heads are each orbited by a jovial bullfrog that croaks frequently|
+|69|All characters and creatures appear as simple clay sculptures; their movement resembles stop-motion animation|
+|70|Frame is a shore littered with unidentifiable globs of washed up organic matter|
+|71|An encyclopedia of fictitious “extinct” animals|
+|72|All sapient creatures communicate in whale song|
+|73|Avatars appear as capuchin monkeys|
+|74|A run of 20,000 dominos, the toppling of which is triggered by characters entering the frame|
+|75|A television that only plays twentieth-century game shows|
+|76|A heap of discarded clam shells (may contain a cypher)|
+|77|A sequoia tree 20 feet (xx m) in diameter; the tree’s height may extend beyond the bounds of the frame|
+|78|Several arcade machines that dispense tokens when spoken to (may contain a cypher)|
+|79|A pond, fountain, or cistern populated by rubber duckies (may contain a cypher)|
+|80|A curio cabinet of perpetually-refilling teacups (may contain a cypher)|
+|81|The sound of flies buzzing is pervasive, though no bugs are visible|
+|82|A supply closet or pantry, containing various knickknacks pertaining to the node’s theme (may contain a cypher)|
+|83|A scale model of the larger node; accuracy is not guaranteed|
+|84|Thick fog that smells of lemon and herbs|
+|85|Path paved with chips of human bone|
+|86|A computer terminal where avatars can jack in, delivering them to a matrix within the matrix|
+|87|Telepathically communicating stalactites and stalagmites that wish to be removed from the surface they formed on|
+|88|Frame seems to be tilted at a 45-degree angle|
+|89|Jars containing various weather phenomena, such as a miniature tornado (may contain a cypher)|
+|90|A wall covered in various ornate doorknobs|
+|91|Frame is crowded with helium balloons|
+|92|A rat-shaped depression in the ground|
+|93|Frame will gradually fill with water, unless characters can reach the control panel|
+|94|Frame has a dreamlike atmosphere; events that occur here are difficult to recall|
+|95|Walls are made of tentacles, as if the frame were a sea anemone|
+|96|A moving walkway from one end of the frame to the other|
+|97|A shrine with an unadorned 6 inch (xx cm) wooden cube taking pride of place (may contain a cypher)|
+|98|Creatures and characters appear as marionettes, with larger versions of themselves holding the controls|
+|99|A guidebook to the unspoken norms of human social interaction|
+|00|The distant sound of hysterical weeping and wailing|
+
+##### Frame Creatures Table
+
+Nearly any creature could be present as an avatar in a frame. This table provides random inspiration taken from creatures in The Cypher System Rulebook.
+ 
+|d20|Creature|
+|---|---|
+|1|A clutch of chronophages hunt those affected by avatar glitches|
+|2|A fey noble impersonates netrunners familiar to the PCs|
+|3|A T. rex has made its home in this frame|
+|4|A virus takes the form of a slidikin, bent on destruction|
+|5|A netrunner detective seeks information hidden in this node|
+|6|ICE guarding this frame takes the form of an ogre|
+|7|A djinni grants wishes, the drawbacks of which manifest as glitches|
+|8|A cadre of supervillains have made their lair in this node|
+|9|A virus in the form of a devil tortures those who enter this frame|
+|10|Three nuppeppo linger here; they are what remains of a group of severely glitched netrunners|
+|11|Black ICE takes the form of zhev|
+|12|Killing white light attacks those who enter this frame|
+|13|Viruses in the form of abominations steal data when they consume their prey|
+|14|Computer programs take the form of affable dragons|
+|15|Kaiju rampage between nodes, leaving destroyed conduits in their wake|
+|16|A wizard aids those he judges to be good, and attacks those he judges to be evil|
+|17|A giant snake hunts in this frame|
+|18|Viruses in this frame take the form of zombies|
+|19|A dangerous AI, having broken containment, lingers in this form as a neveri|
+|20|ICE in the form of demons can possess netrunners and control their avatars|
+
+### Cybernetics
+
+#### Armor From Cybernetics
+
+A typical experienced cyberpunk character has multiple cybernetic implants—devices of metal and plastic embedded in or even replacing their organic parts. A player might think this means their character should automatically get Armor from having these devices—after all, plastic and metal are tougher than skin, right?
+
+Yes and no.
+
+Most implants aren’t made of the high-strength plastic and steel used to build cars and furniture. They need to be light enough that a human equipped with one can still move and act normally. After all, what good is a cybernetic arm if it weighs 50 pounds (22 kg) and your back frequently hurts trying to compensate for that weight? Instead, the structural and motorized parts of implants are made of light materials like fiberglass and lightweight plastic or carbon tubes (often hollow, like bird bones). The surface is usually plastiflesh, a lifelike malleable material that’s pliable enough to bend at the joints and sensitive enough to respond to touch stimuli. In between the structure and the surface are circuits, sensors, power conduits, and other technical bits that allow the implant to do its job and let the user control it like an organic limb. Altogether, this means an implant is about as durable and breakable as an organic limb; a knife slices through plastiflesh and ultrafine wiring as easily as skin and muscle, and a bullet can shatter a cybernetic femur about as easily as it does a bone one.
+
+Of course, there is cyberware that provides a character Armor—stuff that’s specifically intended to protect the character’s vulnerable cybernetics and organics. Furthermore, the Armored Chrome ability is available to all PCs who have at least three implants that could reasonably provide some Armor. Players who feel their chrome justifies having extra Armor can select this ability upon reaching a new tier or as an advancement.
+
+It’s also fine if the GM decides a particular NPC’s cybernetics are enough to give them 1 point of Armor. For example, a factory worker with two strong arms and skeletal reinforcement (so she can move huge crates and palettes without a forklift) might have 1 Armor from her chrome.
+
+A typical person’s organic arm weighs 10 to 15 pounds (4 to 7 kg).
+
+#### SHITS: A Cyberpunk Pandemic
+
+SHITS (Spontaneous Hypersensitive Induced Trauma Syndrome) is a term for the tendency for some people with cybernetics to experience hallucinations, dissociative events, and fits of violence. The exact cause is unknown, and there is currently no funding available for researching it, so medical workers only have anecdotal evidence for its causes. The only common factor is that all people with these symptoms have one or more extreme cybernetic implants—something more unusual than a standard prosthetic limb, eye, or communicator. Planted news stories (propaganda) from the megacorporations suggest that the main factors are excessive cybernetics coupled with drug addiction (which, conveniently, absolves the megacorps of any responsibility). The truth is certainly much more complicated than that, with several of the following issues as contributing factors.
+
+Yes, it’s pronounced like "shits," as in, "Doug got a bad case of the SHITS last weekend, the doot shot up a strip mall before the cops managed to take him out."
+
+##### Augmented body dysmorphia
+
+Cybernetic replacements for body parts are a wondrous marvel of modern (futuristic) technology. The standard units are functional replacements for missing limbs, eyes, and internal organs, and work as good as biological ones without any drawbacks or problems.
+
+Of course, those were just the beginning, and researchers (especially those with military funding) began to experiment with more radical cybernetics. Arms with built-in firearms, legs that can run as fast as a car, and wetware that accelerates reaction time or administers artificial combat hormones. Now these once-experimental devices are as common as a regular cybernetic eye or hand, but the technology and materials used to build them aren’t always safe, nor is the human brain always able to adapt to having a radically nonhuman body part. As far as users go, there will be people who handle it well, and people who don’t. Even a person who consciously accepts their radical cybernetic may experience phantom limb syndrome as a chronic medical condition. A person might successfully use their unusual cyberware all day, then have dreams or nightmares about how their body used to be. The more nonstandard cybernetics a person has, the more times their body and mind go through this process, and sometimes the mind doesn’t heal properly. For a physically fit and mentally healthy person, none of these things might be an issue. But if the patient has an existing inclination or medical issue—whether it’s childhood trauma, genetic vulnerability, subtle plastic allergy, or resentment about their injury (or their insurance company, or the quality of the cybernetic)—these factors can add up over time and push the patient toward a traumatic condition called SHITS.
+
+Note: Baseline cybernetics (such as prosthetic limbs with no special abilities, cybernetic eyes, and even communication implants) never seem to trigger SHITS, but the extreme ones (deep dive brain implants, weaponized limbs, and experimental devices that alter metabolism and sense of time) definitely do.
+
+Crime: Crime, particularly violent crime, is everywhere. Armed gangs stake out small fiefdoms in city neighborhoods, carve warnings into the bodies of people who cross them, and engage in open warfare with rivals and the police. City police departments (historically ineffective, violent, and shielded from consequences) have huge budgets but still can’t make a dent in crime statistics, to the extent that they place bounties on various criminals and organizations in the hopes that vigilantes will do their jobs for them. People fear for their safety, and firearms are so ubiquitous you can buy a disposable 3D-printed gun from a vending machine. Living in this kind of stressful environment has long-term effects on a person’s mental and physical health; for some people, the end of that road is a SHITS episode where a person thinks that murderous violence is the way to solve all their problems.
+
+  
+
+##### Environmental hazards
+
+In a cyberpunk world, the megacorporations have overturned or disbanded governmental agencies that protect the environment and people. There’s lead in the paint. Asbestos in the insulation. Microplastics and pesticides in the food. Toxic and carcinogenic materials at work and at home. The ozone layer is wrecked. Acid rain is common. Dirty nuclear bombs have made many regions uninhabitable, and dust storms from those areas bring fallout into the cities. There’s no such thing as clean air or water any more, unless you’re rich enough to live in a sealed environment and have it piped in to you (even the standard city water on tap is partially contaminated). Everyone is being slowly poisoned, every day, all the time, causing physical and mental harm.
+
+##### Isolation
+
+Humans are social creatures (yes, even introverts) and need interaction with other people to remain mentally healthy. But crime, pollution, lack of public parks, and other factors in the cyberpunk setting discourage people from spending much time outside or socializing with anyone other than their immediate family and coworkers. The typical person is starved for human attention, conversation, and intimacy. Casual interactions—holophone calls, sports events, and going out to bars—aren’t enough. Watching immersive reality TV and soliciting sex workers scratch similar itches, but are only superficial connections. It’s no wonder that young people, especially those living in poverty, often turn to street gangs as a surrogate family. Others may use drugs to escape from reality, or at least stave off the symptoms of their loneliness. Isolation can lead to depression, which often makes someone isolate themself even further because they feel that nobody understands what they’re going through, which can lead to feelings of aimlessness and dissociation.
+
+##### Nutrition
+
+Farm fresh produce is almost unheard of, a luxury for the rich. What’s available to regular people is grown in small rooftop gardens and planter boxes, sold in pop-up shops at a price that most struggle to afford.
+
+Grocery stores (not that they have actual “groceries”) sell prepackaged homogenized stuff that’s processed with fillers, added colors and textures, artificial flavors, stabilizers and preservatives—with a dash of multivitamins so it’s “healthy.” Salad in a tube. Pepperoni in a tube. Hamburger in a tube. Vegetable stew in a tube. Cheese in a tube. Ice cream in a tube. Anything in a tube. Some people do basic cooking with these “ingredients” at home, making sad replicas of actual dishes out of various pastes, slimes, and slurries. Many just slurp their meals from the tube, maybe after a quick blast in the microwave. On the upside, it’s easy to make noodle dough from tube ingredients, and fried or steamed noodle dishes (with salt, broth, and spice) are a common staple available at restaurants and street carts—the closest thing a typical person gets to a real meal.
+
+The poorest folks can only afford crunchy kibble resembling dry cat food, which is even more pathetic than tube products that look like wet cat food.
+
+Because the megacorporations control everything, they’re not required to list ingredients in the food they sell. People with allergies, sensitivities, metabolic disorders like phenylketonuria, or food-controllable conditions like diabetes are pretty much screwed. The lucky ones feel sick all the time; the unlucky ones end up with developmental disabilities or die from their health issues.
+
+Some megacorps market food brands catering to special diets, such as gluten-free or low-sugar, but the options are limited and bland.
+
+None of these options are healthy for adults or children, they’re merely sufficient. Years of malnutrition, chemical additives, and artificial substances take a toll on the human body.
+
+##### Planned obsolescence
+
+Rampant capitalism encourages manufacturers to create items that are meant to break and can’t be repaired, so consumers have to buy replacement items on a regular basis. Cars, televisions, refrigerators, and other big ticket items don’t last long. The constant cycle of buy-and-discard is expensive; many people eventually go without semi-luxuries because they can’t afford new ones—but on the bright side, most people don’t need a fridge because tube food has a shelf life of a couple of weeks.
+
+Even human body parts fall into this category. Kidneys shot from heavy metal poisoning? Replace them. Tendonitis from a lifetime of factory work? Replace the worker’s forearms and hands. With this mentality pressed into everyone’s minds by employers and advertisements, some people eventually realize that they themself are fully replaceable to their employer; it’s easy (and essentially free) to fire an injured worker and bring in someone new.
+
+Life is cheap. And that’s a brutal realization.
+
+##### Poverty
+
+The rich get richer and the poor get scraps. Wealth inequality is at its highest level in history. The government doesn’t bother to track economic statistics any more (the megacorporations don’t care), but most people in a typical large city are poor or are in poverty. A typical person is just getting by, and it only takes one financial setback (such as a car collision or medical emergency) to send them tumbling into a lower socioeconomic status. Most of them spend their entire lives hoping for a “big break” that’ll lift them into a comfortable and sustainable income.
+
+Being poor makes all the other problems of living worse. Poor people can’t afford to go to a restaurant or buy healthy food, so they eat more processed crap. They can’t afford a babysitter, so they rely more on television and screens to keep kids occupied. They can’t afford private schools, so they rely on underfunded public education. They can’t spend money on social activities, so they spend more time isolated from other people. They can’t afford larger living spaces, so their apartments are over capacity and nobody gets any privacy. They can’t afford to fix or replace expensive items, so much of what they have is of inferior quality, secondhand, or barely working. They can’t afford to move out if their apartment is infested with vermin, or has flaking lead paint, or a superintendent who can’t be bothered to fix the locks, lights, or plumbing in a timely manner.
+
+##### PTSD
+
+All of the other factors in this section assume a passive level of harm being done to people. But many people are dealing with active harm as well. Getting mugged on the way to work. Domestic violence. Child abuse. A friend’s murder. Food poisoning from unregulated additives. Drug addiction. Military combat. Losing an essential job. Traffic collision. These stresses add up, and people without an adequate support network (which is most people), therapy, or therapeutic drugs are at risk for developing severe symptoms.
+
+##### Screen Time
+
+Electronic screens are everywhere: in the home, at work, even plugged directly into peoples’ heads. If a corp can put a digital ad somewhere, they will—whether that’s commercials in elevators or multistory holograms on the sides of buildings—all blasting people with jingles, jump scares, and flashing lights. The near-constant screen time delays sleep, reduces sleep duration, decreases the efficiency and rewards of sleep, and alters circadian rhythms and hormone production. Extensive use of screens instead of physical activities often leads to sedentary behavior, obesity, and an overall reduction in physical fitness—and relentless advertising means people are more likely to choose unhealthy foods, exacerbating this trend. Too much screen time increases the likelihood of depression, causes an addictive loop (due to stimulating brain chemicals), increases aggression, harms a person’s ability to read emotional cues, and (if exposed to violent media) desensitizes them toward violence. VR technology or neural stimulation media (such as brainslides) are even more intense and more harmful in the long run than screens, especially in children and young adults.
+
+##### Virus
+
+One or more viruses—whether biological or software—may be contributing to incidents of SHITS. A nearly-harmless biological virus might undergo a mutation that gives it an adverse effect on a body interfacing with cybernetics, or causes it to jump from one symbiotic bacterial species to another which then alters its behavior in the human host. A bit of erratic code in cyberware or a malicious worm can cause biofeedback in the user or trigger unusual nervous system activity that affects the user's perception or emotions. Either or both of these causes can go undetected by medical professionals, creating an "invisible disease" with symptoms but no obvious cause. Even a minor viral contribution can have a negative interaction with the other potential causes of SHITS, pushing a person who is slightly unwell into a violent episode.
+
+
+Growing up with these factors leave people sick, unfocused, and exhausted, deprived of their natural ability to heal and rest. Most people live a life where on their best day they’re feeling merely okay, and they don’t remember the last time they felt well. Medicine and cybernetics can correct for some of these health problems and afflictions, but only if the person can afford it. A significant number of people in the world are functionally disabled (or close to it), but have to keep working.
+
+Some cases of SHITS may be the result of a hostile AI attempting to overstress a human so it can hijack an organic body.
+
+#### SHITS Rules
+
+This section presents two ways for the GM to handle SHITS in PCs.
+
+##### Simple SHITS
+
+Any character with cybernetics (particularly with brain mods or extensive body mods) can be the target of a SHITS GM intrusion, usually in response to a stressful situation such as an ambush, a serious injury, the death of a friend, betrayal by an ally, or failing a mission. As with any other typical GM intrusion, the character can pay 1 XP to refuse it.
+
+The character can attempt an Intellect defense roll to prevent or lessen the effect of the intrusion. The typical difficulty is 5, hindered if the character has four or more installed cybernetics, or hindered by two steps if they have six or more.
+
+If the character fails the defense roll, the GM makes them act erratically or irrationally—the character does something they probably wouldn’t do under normal circumstances, but that isn’t directly harmful to the character. The character’s actions might endanger or harm an ally or bystander, or put the character in a compromising situation.
+
+For example, the character might hallucinate additional foes (perhaps appearing through a door or around a corner, but just as likely to be from the darkness or “out of nowhere”) and spend one or more rounds attacking these seemingly-real enemies. Or the character might mistake an ally for an enemy and make an attack against their comrade. The character might babble incoherently, freeze up or dissociate for a couple of rounds, scream in alarm, reload or discard their weapon, or attempt to flee. Because this illness often manifests as extreme aggression, other options include attacking an unconscious or surrendered foe, or applying extra levels of Effort to damage on an attack with the intention of a brutal overkill (especially if the campaign is using the ultimate damage rule).
+
+Some SHITS manifestations are more subtle—compulsive lying, kleptomania, severe mood swings, and personality changes are common, but may be harder for the GM to insert into an encounter. One way for the GM to address this is to secretly hinder the at-risk character’s social interaction tasks by one or more steps.
+
+##### Incremental SHITS
+
+This version of SHITS works similarly to the madness optional rule, and represents the character’s slow mental degradation. When a character experiences a SHITS trigger (from any of the causes described in the Simple SHITS section), follow these steps:
+1. The GM decides how much Intellect damage is appropriate for the situation. Usually this is equal to the level of the stressful threat, foe, or task, or 5 points if there isn’t a comparable level for the situation. Optionally, the GM can increase this damage by 1 for every two installed cybernetics the character has. Reminder: Standard cybernetics, like a prosthetic limb, eye, or communicator implant, don’t cause SHITS.
+2. The character subtracts this damage from their Intellect Pool.
+3. If the character’s Intellect Pool reaches 0 and they would move a step down the damage track because of it, they instead decrease their maximum Intellect Pool by 1 and immediately recover Intellect points equal to 1d6 + their tier. (Alternatively, at the GM’s discretion, if the character doesn’t already have an inability in positive social interactions, their training in that skill is reduced from specialized to trained, trained to unmodified, or unmodified to inability.)
+4. If the character’s maximum Intellect Pool is ever decreased to 0, the character is afflicted with SHITS. They lose their current descriptor, gain the Mad descriptor, their new Intellect Pool maximum becomes 1d6 + their tier, they gain +1 to Intellect Edge, and their training in positive social interactions is reduced by one increment (as described in the previous step).
+5. If later stresses ever reduce the Mad character’s maximum Intellect Pool to 0 again, they fully succumb to SHITS, fall under the control of the GM, and are no longer a playable PC (and it’s likely that they immediately act out under the effect of murderous delusions).
+
+#### SHITS Treatment
+
+Treatments for SHITS are mostly experimental and tend to be expensive—but considering that the conventional “treatment” is hitting the character with volleys of bullets until they die, experimental treatments are better than nothing.
+
+##### Drugs
+
+Megacorporations love the idea of selling drugs to sick people—it’s a more profitable strategy than actually trying to cure them. As a result, there are many expensive medicinal “cocktails” that have varying effectiveness against SHITS. Most are a mix of several medications with different purposes:
+- Antidepressant: Treats depression, anxiety, chronic pain, and addiction.
+- Antipsychotic: Reduces symptoms of psychosis, delusions, hallucinations, paranoia and disordered thoughts.
+- Anxiolytic: Reduces anxiety, panic attacks, and PTSD episodes.
+- Immunosuppressive: Reduces reactions of the immune system, such as sensitivity to the metal and plastic in cybernetics, or environmental allergens (such as pollution) in general.
+- Mood stabilizer: Prevents intense sustained mood shifts (which can lead to mania and depression).
+Of course, an individual patient may be suffering from any combination of contributing factors, and prescribing multiple drug cocktails is more of a shotgun approach than a precise one. With enough time, it’s possible for a doctor to try different cocktail variants that may better suit the patient’s specific symptoms—but unfortunately most people dealing with SHITS don’t have a lot of time to spare.
+
+In game terms, a drug cocktail gives the character some combination of the following benefits: asset on Intellect defense rolls against SHITS, Armor against Intellect damage caused by SHITS, or reducing the frequency of SHITS episodes (by reducing the GM intrusion range for the character). Because each character’s trauma is unique to them, any particular cocktail may be less or more effective than expected (in other words, the GM is free to adjust the cocktail’s benefits for the character to suit the campaign narrative).
+
+Various therapeutic drug cocktails are presented in the Equipment section. The cost of these drugs is a significant reason why most cyber-enhanced characters are always looking for well-paying work.
+
+Therapeutic cocktail GM intrusion: The character has a bad reaction to their medication. The medication doesn’t work as well or stops working entirely. The character runs out of their pills and there’s a delay before they can get more.
+
+##### De-cyberization
+
+Removing a character’s cyberware does help offset the risk of SHITS, even if the character is already having episodes. The removal can have any of the following effects: reducing the frequency of the episodes (either by reducing the GM intrusion range or having the GM “skip” having some triggers provoke a reaction), easing the character’s defense rolls against an episode, or reducing the Intellect damage from an episode. Of course, removing some assistive prosthetics has its own set of problems; for example, removing a person’s cybernetic arm means they have to get by without an arm, although they can still opt for a standard prosthetic instead of an extreme one. Fortunately, replacing oversized, weaponized, or inhuman-looking cybernetics with standard or realistic prostheses allows the character normal functioning and still seems to reduce the risk of SHITS.
+
+##### Behavioral modification
+
+A person can be taught biofeedback methods to help minimize the effects of stressors and triggers, reducing the risk of SHITS episodes These techniques take time to learn and are usually part of a treatment plan involving therapy and drugs.
+
+Advances in cybernetics allow doctors to implant medical devices that connect to “problem areas” in the patient’s brain, monitoring hormone levels and electrical activity. Typically, passing a threshold value alerts the patient, an emergency contact, a medical professional, or some combination of the three. Some patients even have an inhibitor chip (usually called a “sleep switch” or “serenity switch” to avoid inflammatory terminology like “kill switch”) that allows a remote user (or even the patient themself) to pacify them in an emergency.
+
+Inhibitor chip: level 5; when activated, character’s tasks are hindered by two steps, and the character falls unconscious for one minute if they fail an Intellect defense task.
+
+In extreme cases where an inhibitor chip isn’t sufficient, the character might be subject to brain surgery (or a comparatively crude lobotomy) in order to limit negative behavior. For example, the part of the brain that causes a fear or anger response can be severed, so the character doesn’t have an emotional reaction to negative stimuli. Or the surgery could interrupt signals that release adrenaline, preventing the character from having an elevated response to a trigger. These unfortunate individuals live a muted life, unable to fully experience emotion; they’re a shadow of the person they used to be, but the megacorp surgeons argue that it’s better than the patient living the rest of their life under heavy sedation in an institution, or dead at the hands of the police.
+
+  
+
+##### Therapy
+
+SHITS can be mitigated with conventional therapy; however, most people in a cyberpunk setting don't have access to therapy, only the rich and elite do. A person on the edge of developing SHITS needs weekly therapy sessions to keep themself stable; those recovering from it usually require two or three sessions per week to make incremental progress toward being healthy.
+
+A different way to model the helpful effects of therapy is to use character advancements to counteract the game mechanics of developing SHITS (see the next section for more information). Obviously these methods have a different “cost” than actual therapy (XP instead of money), which may make them too “pricey” for some characters.
+
+  
+
+##### Character Arcs and Treatment
+
+The player may want to make the character’s recovery part of a recover from a wound (or trauma) character arc. Each step in the arc must include one of the above treatment options. The climax step is probably some sort of breakthrough in understanding the primary cause of the character’s illness, allowing the character to heal and become stable. For the resolution step, if the character currently has the Mad descriptor, they lose it and regain their previous descriptor, cured of SHITS. However, like an addict, the character is always at risk of a relapse: another traumatic event might trigger another episode, leading down that dark pathway again.
+
+Note that because the character is earning XP for the recovery character arc, they can also spend some of that XP on advancement options that slow or temporarily reverse the effects of SHITS, especially if the GM is using the incremental SHITS option. For example, choosing the “increasing capabilities” option and adding more points to the character’s Intellect Pool helps stave off their mental decline. The GM can allow the character to choose the “skill” advancement and become trained or specialized in “resisting SHITS,” which helps reduce further mental damage. (Although the “skill” advancement option doesn’t allow a character to choose Intellect defense as a general skill, they can choose this specific skill that affects these kinds of Intellect defense tasks.) Finally, instead of choosing the “moving toward perfection” option, the GM can let the character reduce their Intellect Edge by 1 and permanently add 2 to their Intellect Pool, in effect partially reversing some of the harm from SHITS.
+
+##### Choosing SHITS
+
+Some players might want their character to become afflicted with SHITS perhaps as part of the fall from grace character arc. Every triggering episode the character experiences counts as a step in the arc (earning the character XP). The player could voluntarily fail defense rolls against SHITS episodes—or even ask the GM for additional episodes—because they want the character to experience the arc. The climax of the arc is the character pushing themself too hard, losing control, and becoming a GM-controlled character.
+
+In this scenario, the character can become quite lucky or powerful (depending on how they use the arc XP) and gain a reputation in the community for doing so, but their story will end in their tragic downfall—and probably a lot of deaths, including their own.
+
+
+#### Damaging Cybernetics
+
+Combat in the Cypher System doesn’t normally include options for severing (or otherwise destroying) a creature’s organic limbs because the abstract combat system doesn’t address complications like bleeding to death or shock from severe injuries. However, in a cyberpunk setting, damage to artificial limbs can be more common and, because it’s not necessarily life-threatening, is more of an inconvenience on par with disarming a character or destroying their weapon.
+
+Normally, a PC attempting to damage an object held by a foe is a minor effect on an attack roll, followed by a Might roll against the object’s level, and the extent of the damage depends on how successful the attack was. Characters trained in breaking objects (such as those with the Strong descriptor) ease their Might roll. With this rule, the Might roll to damage cybernetics is eased by an additional step, making it more likely that the implant is damaged or destroyed.
+
+If the GM is also using the optional rule for choosing a combat effect ahead of time, ease the attack by one step (so trying for a minor effect is unmodified instead of hindered by one step, and trying for a major effect is hindered instead of hindered by two steps). Note that if the GM is also using the ultimate damage optional rule, it becomes much easier to achieve these intentional minor and major effects, since the character can use Effort to overcome the reduced damage threshold for the attack.
+
+Using this rule (and the targeting cybernetics advancement option) means it’s easier for PCs to damage NPC cybernetics and easier to intentionally aim to hit NPC cybernetics. The GM can also use an intrusion as part of an NPC’s attack, adding the possibility of damaging a PC’s implant if they fail a hindered Might defense roll.
+
+#### Salvaging Tech from the Dead
+
+If characters defeat adversaries with especially impressive cybernetics, they may want to take that chrome for themselves and either use or sell it.
+
+To remove surgically integrated chrome, characters must attempt two rolls against the deceased foe’s level. The first roll is based on knowledge, to see if the characters can figure out how to detach the cyberware without damaging any crucial components. This roll can be retried. The second roll, based on dexterity, determines how well they execute the removal. If this roll is failed, the cybernetics are damaged in the process of removal. Characters can bypass one or both of these rolls by taking the corpse to an especially unscrupulous chopper, though the chopper’s fee might exceed the resale value. If characters get a chopper to install the salvaged chrome, the fee will almost certainly exceed the piece’s value.
+
+**How Much is it Worth?**
+
+Due to normal wear and tear, combat damage, and planned obsolescence rendering equipment out of date before the average person even gets their hands on it, salvaged cyberware isn’t all that lucrative. As a rule of thumb, characters can resell it for 50% of the market value, and a chopper’s installation fee will be between 50% and 75% of the market value.
+
+#### Stat Minimums for Cybernetics
+
+Some GMs may want to require characters to “bulk up” before their character can have certain cybernetic implants installed. For example, a scrawny character who wants gorilla arms might need to add to their Might Pool, or else the surgeon won’t be able to safely connect the device to the character’s organic muscles and bones. (Unsafely connecting them would mean a high risk of GM intrusions that tear the character’s muscles or break their bones from the implant’s excessive strength.)
+
+GMs who like this sort of setup should keep in mind that several aspects of the Cypher System make it difficult to have precise thresholds for these requirements. For one, the Might Pool represents strength as well as toughness; one character with 16 Might may be huge like a weightlifter, while another may be tough as nails with a typical or even a wiry build. With that in mind, the following is a simple guideline for minimum stats to support certain cybernetics.
+  
+|Number of Implants|Minimum Might Pool*|Minimum Might Edge*|
+|---|---|---|
+|One|8|1|
+|Two|10|2|
+|Three|12|3|
+|Four|14|4|
+|Five|16|5|
+
+*The character must meet either of these minimums to be able to receive the implant.
+
+It’s the GM’s discretion if a particular implant requires a minimum stat, but the following cybernetics are a good starting point:
+- Gorilla arm
+- Grapple javelin
+- Grenade launcher (any type)
+- Myomanager
+- Skeletal augmentation
+- Skeletal reinforcement
+- Strong arm
+- Leg blade
+- Warframe (any type)
+
+#### Targeting Cybernetics
+Some players will want their characters to be able to more easily strike at a foe’s cybernetics. Characters can select the following option as a character advancement. (This counts as an “other options” step.)
+
+When choosing a combat effect ahead of time to strike a foe’s cybernetics, gain an asset on the attack roll or reduce the subtracted damage by 4 (for example, attempting a minor effect is either no longer hindered or no longer reduces the damage by 4 points). A character can choose this advancement up to two times.
+
+### Cypher and Artifact
+
+#### Activating Multiple Cyphers
+
+The Cyphers section presents additional forms for cyphers, including inhalers and pills. It’s possible for a character to use multiple cypher pills or cypher inhalers as one action, under the following circumstances.
+- A character can retrieve and use up to two pill cyphers as part of the same action if they have two hands free.
+- A character can retrieve and use up to five pill cyphers as part of the same action if they have one hand free, the pills are all in the same container, and the container can be opened with one hand (such as an orange medicine bottle from a pharmacy).
+- A character can retrieve and use two inhaler cyphers (one in each hand) as part of the same action if they have two hands free.
+- A character can retrieve and use two inhaler cyphers (in the same hand) as part of the same action if they have one hand free and succeed at a level 3 Speed task. Failing the task means they drop one of the inhalers (chosen randomly) but successfully activate the other.
+
+The following are suggested GM intrusions for characters attempting to activate multiple cyphers as one action.
+- GM intrusion: One or more of the cyphers takes an extra round or two to take effect.
+- GM intrusion: One of the cyphers works normally, but the other’s effectiveness or duration is halved.
+- GM intrusion: The cyphers have an unexpected interaction with the character’s cyberware or organic parts, hindering all tasks by one or two steps for the next minute.
+- GM intrusion: Character chokes from trying to activate multiple cyphers at once, losing their next turn coughing, sneezing, or retching. Each following turn they can attempt a level 4 Might task to overcome this; failure means they can take no action that round except move an immediate distance.
+
+#### Shopping for Cypher Apps
+
+Subtle cyphers in a cyberpunk campaign are sometimes found in the form of apps. Instead of always having them be random discoveries, an interesting option is to have in-game vendors, websites, servers, or cloud storage centers that allow a character to select from a specific list of app cyphers.
+
+Gaining access to an app server might be a one-time thing for the character (such as jacking in to a corpo server in the middle of an infiltration mission). Other times, the character might be granted temporary access by a fixer until a specific job is done, or the provider might be a contact (such as from the Charming descriptor, the Underworld Contacts ability, or spending XP on a long-term benefit for the character).
+
+A character with access to one of these sources can see a list of which app cyphers are available and download whichever ones they want (up to their cypher limit, of course). Whether or not this costs them any money depends on the provider. The download takes only a few moments and automatically deletes the app from the source (unless the provider keeps multiple redundant copies there).
+
+Anonymous, disreputable, and illegal sources of app cyphers are more likely to be infected with malware.
+
+Some people make side money hacking into sources with app cyphers and reselling them on the black market.
+### Corporate Currency
+
+The prices in this book are listed with a dollar sign (). With the rise of megacorporations, the role of the government in regulating currency (such as the US dollar) has dwindled. As an additional way of representing the dystopia of the cyberpunk genre, you may have the megacorps exploit this loss of regulation by issuing their own currency, similar to scrip issued by mining companies in remote towns at the turn of the 20th century. Megacorps use their company-branded scrip to pay their employees, and company-owned retail centers only accept their own currency for payments.
+
+Because the megacorps are in a fairly balanced power struggle, the various corpocurrencies maintain approximately the same value; in other words, 100 MuxCoin is usually worth about 100 ImmorTokens is worth about 100 KaiYen, although the stock market and other economic factors mean for a few hours one currency might be worth 1% to 5% more than another (some fast-acting traders use these fluctuations to make money, but their activities are intensely monitored by corpo officials on all sides).
+
+Banks and currency exchanges can convert one kind of corpocurrency for another, typically charging a 10% fee, so someone could trade in 100 MuxCoin to get 90 Immortokens. NPC black market dealers and loan sharks do this as well, but in smaller amounts (typically no more than 5000 at a time, depending on how much the NPC has in their account), with fees ranging from 25% to 50%.
+
+Most corporate currency is digital, and actual cash (whether old US dollars or physical representations of corpocurrency) is very rare and only issued for special occasions (such as television game show prize). Not only does digital-only currency make it difficult for people to have private untraceable transactions, it also means the megacorp doesn’t have to monitor and recall physical currency as it becomes worn (as most governments do with paper money and coins), nor is counterfeiting much of a problem.
+
+Furthermore, the megacorp always has the option to manipulate the value of its own currency (higher or lower, for complicated reasons that only make sense to accountants). These short-term adjustments really hurt regular people who were expecting to make critical purchases on payday, only to find that their account is worth half of what they expected. Fortunately, these manipulations are rare because the company doesn’t want to risk that other corporations might take advantage of the dip, or the change might trigger a spike in inflation—but if doing so creates a short-term advantage for the megacorporation without a long-term disadvantage, it’ll happen at some point (followed by the currency bouncing back after the damage has been done to regular people).
+
+For freelancers (such as typical cyberpunk PCs), dealing with multiple corpocurrencies is complicated. They may want to refuse jobs that pay in corpocurrency from a megacorp they dislike. Taking cashcards from downed corpo foes could mean they end up with a significant amount of money that they can’t or won’t use without first getting it exchanged, either at an above-the-table business (which can draw the attention of the hostile megacorp) or by paying a huge fee on the black market. A particularly interesting weapon or bit of chrome might only be available from one particular megacorp, requiring the characters to acquire and spend that corp’s currency. A megacorp’s fixer might offer an especially high payment in their corpocurrency in order to get the PCs under their thumb, or to lock them out of work for a rival corp. For PCs whose goal is to get rich, they need to figure out if having moderate amounts in eight different currencies feels as wealthy as having one big stash in a favored currency.
+
+Corpocurrencies
+   
+|Megacorp|Currency|Alternative Names|Symbol|
+|---|---|---|---|
+|Halo|MicroBit|MBit, Hale|$H|
+|Immortech|ImmorToken|ImToke, Imm, IT|$IT|
+|JimBob AgriBiz|JimDollar|JD, Buck|$J|
+|Kaisha|KaiYen|Kai|¥K, $K|
+|MuxCom|MuxCoin,|MuxBux, XCoin|$M, $X|
+|Oleg NutriCorp|Nalichnyee|Nal, Ollie|$N|
+|RubyLight|RuCoin|Rubie, Rube|R|
+|Zeerosh|Zeerium|Zee, Zed|Z|
+
+From time to time, a wealthy private individual or group tries to create their own 21st-century-style cryptocurrency as an investment scheme. The megacorps quickly shut these down, often executing those responsible to make an example for others with similar ideas.
+
+Corpocurrency GM intrusion: The corpocurrency a character was about to spend suddenly loses half its value. It bounces back to nearly its previous value within a few hours, but the opportunity for the transaction has passed (item is no longer available, seller is suspicious or scared, and so on).
+
+### Drugs
+
+Drugs are substances that have a physical or mental effect on a creature when ingested or otherwise introduced to their body. Most run-of-the-mill drugs found in a cyberpunk setting function similarly to artifacts with automatic depletion, rather than cyphers. After all, a duffel bag could have hundreds of doses of an illegal street drug, and it would break the game’s plausibility if each dose was a cypher.
+
+Drugs can produce amazing effects, sometimes similar to or even surpassing what a cypher can do. However, drugs have several disadvantages compared to cyphers: they are often addictive, have a risk of causing side-effects or overdoses, and over time the user can develop a tolerance to them that reduces their effectiveness.
+
+For the purpose of this section, the term “drug” includes medicine, street drugs, designer drugs, and common substances that people use like drugs (such as huffing gasoline or aerosols). The specific drugs described here are by no means a comprehensive list.
+
+While cyphers can take the form of drugs in a cyberpunk setting, the drugs described in this section do not function as cyphers.
+
+#### Activating Drugs
+
+Using a drug is an action, regardless of the method of its use (smoking, injection, and so on), but the character might need to spend some time preparing the drug before it is ready to be used (heating a crystalline drug so it can be injected, rolling a cigarette with the chemically-laced material, and so on).
+
+Most drugs have an initial effect (what happens immediately after the character uses it) and a secondary effect (which happens after the initial dosing, typically one minute or one hour later). Both the initial and secondary effect require the character to attempt a Might defense roll against the drug’s level; however, a creature that willingly takes a drug automatically fails both of these defense rolls. It is not possible for a character to intentionally fail one defense roll but try to resist the other. The levels are provided for situations in which a character is drugged against their will.
+
+All drugs are technically poisons, so abilities and items that help a character resist or negate poisons (such as Alleviate, Poison Resistance, or an antivenom cypher) work against drugs.
+
+Depending on how a drug is used, the GM may decide that multiple doses (or even multiple different drugs) could be taken as part of the same action, such as swallowing a handful of pills.
+
+A character that takes multiple doses must repeat their overdose roll and addiction roll for each.
+
+#### Drug Price and Availability
+
+Drugs can be categorized by their source: OTC, Rx Only, or Street.
+
+OTC drugs are inexpensive and ubiquitous. These drugs can be purchased in convenience stores and vending machines, or found in a well-stocked medicine cabinet.
+
+Rx Only drugs are created for therapeutic purposes. If such a drug is prescribed to a character, the price ranges vary depending on what the character’s health insurance covers. If purchased on the secondary market or the black market, the cost is negotiable.
+
+Street drugs are synthesized solely for recreational purposes. Price is set at the dealer’s discretion, fluctuating according to supply and demand.
+
+#### Overdose Roll
+
+Some drugs have a chance of an overdose, even when taken deliberately. When a PC takes a drug, the player rolls the designated die (1d10, 1d20, or 1d00). If the die shows the overdose number(s), the character descends a step on the damage track every five minutes, unless medical aid is provided (CPR, an antidote or antagonist, remedy serum, etc.). The specific symptoms of the overdose may vary, as specified in each listing, but the mechanical representation is the same.
+
+For each additional drug currently affecting a character, the range for overdose increases by 1 (such as increasing from 1 in 1d20 to 1–2 in 1d20).
+
+An NPC that overdoses is reduced to 0 health but may survive if aided.
+
+On a successful overdose roll, overdose can occur as a GM intrusion.
+
+#### Addiction, Tolerance, and Recovery
+
+One of the primary drawbacks of drugs is their potential for addiction. While drugs may ease certain tasks or provide initial benefits, some people reach a point where they need the drug to function normally.
+
+##### Addiction Roll
+
+Each time a character uses a potentially habit-forming drug, they must make an addiction roll determined by the drug’s addiction level.
+
+None: The drug is non-addictive.
+
+Low: The character must make a level 2 Might defense roll each time the drug is used or become addicted. Being addicted means the character must have the drug at least once a week or have all their tasks hindered. This penalty goes away for a week if they use the drug. If the character avoids taking the drug for thirty days, they recover from their addiction.
+
+Medium: The character must make a level 3 Might defense roll each time the drug is used or become addicted. Being addicted means the character must have the drug at least once every five days or have all their tasks hindered. This penalty goes away for five days if they use the drug. If the character avoids taking the drug for fifty days, they have recovered from their addiction.
+
+High: The character must make a level 5 Might defense roll each time the drug is used or become addicted. Being addicted means the character must have the drug at least once every day or have all their tasks hindered by two steps. This penalty goes away for one day if they use the drug. If the character avoids taking the drug for sixty days, they have recovered from their addicti
+
+##### Optional Mechanic: Increasing Tolerance
+
+Characters who come to rely on drugs to ease certain tasks may see diminishing returns as their tolerance increases. You can represent this mechanically by increasing task difficulty over the course of a campaign, so that the PC’s drug use must also increase to maintain the same effect.
+
+Take, for example, a Tech addicted to Elevate®, which they use to ease their hacking tasks. They’ve hacked plenty of Muxcom vehicles before. They may have even hacked this specific vehicle before … but the difficulty is increased by one step, driving them to take yet another dose of Elevate® to maintain the same odds of success.
+
+##### Miscellaneous Recreational Drugs
+Note that in addition to the drugs listed here, there are a wide variety of drugs that have no game-advantageous effects (such as easing tasks) but can produce euphoria (Intellect-based tasks are hindered), hallucinations (perception tasks are hindered by three steps), or lethargy (Might- and Speed-based tasks are hindered by two steps). Some of these drugs cause Might, Speed, or Intellect damage (all three of these types of damage ignore Armor) as a side effect, while others are harmless. These drugs have varying levels of addictiveness, availability, and possibility of overdose.
+
+##### Recovery
+
+A character that is addicted to a drug can recover from their addiction by spending a sufficient amount of time without taking the drug, determined by the drug’s addictiveness (see Addiction Roll above). A character that has recovered from a drug addiction no longer suffers penalties from abstaining from the drug, but their defense rolls to avoid becoming addicted to that drug again are hindered by two steps, and their defense rolls to avoid addiction to any other drugs are hindered. Additionally, if a character who has recovered from addiction later uses that drug again, their potential for overdose doubles (such as increasing from 1 in 1d20 to 1–2 in 1d20).
+
+#### Drugs
+
+Drugs are presented in the following format:
+
+Name: The name of the drug, followed by any common nicknames.
+
+Description: A description of the drug’s appearance, its origin, and its effects.
+
+Form: How the drug is typically used, such as inhalation (cigarette, vape, inhaler, nasal spray, or huffing), by mouth (pill, tincture, gummy), injection (using a needle or autoinjector), or topical application (patch or ointment).
+
+Level: The drug’s level, which is the level of the Might defense rolls made if a character is drugged against their will (see Activating Drugs, above).
+
+Availability: Where the drug can be purchased (OTC, RX Only, or Street).
+
+Initial Effect: The effects if the initial defense roll is failed. If multiple effects are listed, the result of one defense roll indicates whether all or none of these effects occur.
+
+Secondary Effect: The effects if the secondary defense roll is failed. If multiple effects are listed, the result of one defense roll indicates whether all or none of these effects occur.
+
+Adverse Effects: Adverse effects, if any. These generally are effects that occur when the primary and/or secondary effect expire; the duration is about the same as the primary effect’s duration. Some of these have mechanical effects, while others are solely flavor.
+
+Overdose: What constitutes an overdose and any notable effects of same (see Overdose Roll, above).
+
+Addiction: Addiction level of the drug (see Addiction Roll, above).
+
+##### Axodrine
+
+Name : Axodrine®, acro
+
+Description: Axodrine® is a motion sickness drug developed by JimBob AgriBiz that treats dizziness and nausea; it also improves balance and proprioception. It’s commonly available over the counter, with single-dose blister packs sold in vending machines at airports and high-speed rail stations.
+
+Form: Ingested as a capsule or chewable tablet
+
+Level: 3
+
+Availability: OTC
+
+Initial Effect: Tasks requiring balance and steadiness are eased, as are any defense rolls against gastrointestinal effects.
+
+Secondary Effect: +1 bonus to Speed Edge for twenty minutes.
+
+Adverse Effects: Brain fog (Intellect defense is hindered); fatigue (–1 to the character’s next recovery roll).
+
+Overdose: None; if more than two doses are taken in a 24-hour period, the character immediately takes 3 points of damage.
+
+Addiction: None
+
+##### Blue Spirit
+
+Name : Blue Spirit
+
+Description: Blue Spirit is an anesthetic with hallucinogenic side effects. It’s sold as clear crystals or a colorless powder. When burned, the resultant smoke is bright blue. The high peaks after 30 minutes, but hallucinogenic effects may last up to 5 hours.
+
+Form: Inhaled or injected
+
+Level: 5
+
+Availability: Street
+
+Initial Effect: Decreased physical inhibitions, increasing Might Edge by 2 for the next hour due to the character’s willingness to overexert themself.
+
+Secondary Effect: Dissociation, numbness, and synesthesia (experiencing colors as tastes and smells), easing all actions taken within cyberspace for one hour.
+
+Adverse Effects: Paranoia, auditory hallucinations, confusion (all reality-based perception tasks are hindered). Decreased muscle coordination (Speed tasks are hindered).
+
+Overdose: 1 in 1d20; the character suffers from convulsions.
+
+Addiction: High
+
+##### Calcichloride
+
+Name : Calcichloride®, calc, chopsticks
+
+Description: A Kaisha-produced analgesic commonly prescribed after dental surgery. Though most patients recovering from an extraction or root canal only need one or two doses, a standard prescription is for a box of five autoinjectors. The resultant surplus has led to a booming secondary market.
+
+Form: Pre-loaded autoinjector
+
+Level: 4
+
+Availability: RX Only
+
+Initial Effect: For the next hour, the character regains 1 Pool point lost to damage per round. If all their Pools are at maximum, the effect pauses until they take more damage, at which point it resumes for whatever remains of the hour.
+
+Secondary Effect: The character is suffused with a feeling of warmth, giving them 2 Armor against cold damage.
+
+Adverse Effects: Lethargy (Speed tasks are hindered)
+
+Overdose: 1–2 in 1d00; increases to 1 in 1d20 if multiple doses are used within 12 hours.
+
+Addiction: Medium
+
+##### Clickbait
+
+Description: Clickbait is ubiquitous in Edge City’s club circuit, though it has a reputation as the drug of choice for salarymen who can afford to cut loose on the weekends. It is most commonly used in the form of a bitter-tasting tincture. Clickbait’s psychoactive effects promote feelings of empathy and connection.
+
+Form: Sublingual tincture
+
+Level: 5
+
+Availability: Street
+
+Initial Effect: All positive social interaction is eased by two steps. Intellect defense rolls and tasks requiring dexterity are hindered.
+
+Secondary Effect: None.
+
+Adverse Effects: Overheating, excessive sweating, tremors (tasks requiring dexterity are hindered).
+
+Overdose: 1 in 1d00
+
+Addiction: Low
+
+##### Crunch
+
+Name : Crunch, chips, crisps
+
+Description: This synthetic stimulant, commonly labeled as fertilizer for smuggling purposes, causes a short-term increase in energy, mood, and friendliness. Because it causes dehydration and a craving for crunchy foods, a dose is typically accompanied by a cup of ice chips.
+
+Form: Inhaled or injected
+
+Level: 4
+
+Availability: Street
+
+Initial Effect: The character regains 1d4 Intellect Pool points. For the next hour, they can apply one free level of Effort to any social tasks, including intimidation and deception.
+
+Secondary Effect: None.
+
+Adverse Effects: Dehydration (character must drink 32oz (1 liter) of water per hour or else take 1 point of damage), intense urge to chew.
+
+Overdose: 1 in 1d20
+
+Addiction: Medium
+
+GM Intrusion: Without realizing it, the character begins to gnaw on their own hand, inflicting 1 point of damage and hindering any ongoing interactions.
+
+##### Dex
+
+Name: Dex®, icicles
+
+Description: Developed by Immortech as the perfect drug to enhance a sniper’s steadiness and focus, Dex® is now commonly used by mercenaries, assassins, and especially diligent office workers.
+
+Form: Ingested as a capsule
+
+Level: 4
+
+Availability: RX Only
+
+Initial Effect: Perception, deduction, and concentration tasks are eased by two steps for two hours.
+
+Secondary Effect: None.
+
+Adverse Effects: Itchy skin, excessive sweating.
+
+Overdose: 1 in 1d00; the character’s blood pressure increases to the point of causing heart failure.
+
+Addiction: High
+
+##### Elevate
+
+Name: Elevate®, peppermint
+
+Description: This stimulant manufactured by Oleg NutriCorp provides an initial kick of energy, followed by a short-lived enhancement to cognitive focus. The tablets earned their street name for their red-and-white striped coloration.
+
+Form: Ingested as a tablet
+
+Level: 3
+
+Availability: Rx Only
+
+Initial Effect: The character can apply one free level of Effort to their next noncombat task without using points from a Pool. This level of Effort does not count towards the maximum amount of Effort a character can normally apply to a task.
+
+Secondary Effect: Intellect tasks are eased by one step for the next hour.
+
+Adverse Effects: Anger and irritability (positive social interactions are hindered), insomnia (-1 to the character’s next ten-hour recovery roll).
+
+Overdose: 1 in 1d00
+
+Addiction: Medium
+
+##### Last Gasp
+
+Name: Last Gasp®
+
+Description: Developed for military use by Kaisha, Last Gasp® is a manufactured feeling of invincibility. It won’t keep you alive, but it’ll make you forget you’re dying, at least for long enough to get one last swing in on your opponent.
+
+Form: Nasal spray, chewable tablet
+
+Level: 3
+
+Availability: RX Only
+
+Initial Effect: Removes the additional Effort cost for impaired characters and allows an impaired character to use major and minor effects on their rolls in combat. Allows a debilitated character to move a short distance and take one action.
+
+Secondary Effect: None.
+
+Adverse Effects: Painful hiccups, spicy aftertaste, blurred vision (hindering perception).
+
+Overdose: 1 in 1d10; the character’s airway spasms and constricts.
+
+Addiction: Medium
+
+##### Liftoff
+
+Name: Liftoff®
+
+Description: An over-the-counter agonist that can help prevent users from forming addictions, manufactured by Oleg NutriCorp. Though its purchase is stigmatized, Liftoff® also improves circulation—which means using oxygen more efficiently, which means moving faster.
+
+Form: Applied topically as a patch
+
+Level: 3
+
+Availability: OTC
+
+Initial Effect: Eases the user’s next addiction roll by two steps.
+
+Secondary Effect: Adds 2 to the user’s Speed Edge for one hour.
+
+Adverse Effects: Headaches (3 points of Intellect damage, ignores Armor), dizziness, shaking hands (hinders dexterity).
+
+Overdose: 1 in 1d00
+
+Addiction: None
+
+##### Moon Rocks
+
+Name: Moon Rocks
+
+Description: A sedative that guarantees the best, most restorative sleep of your life. Initially developed for medical use, moon rocks were later replaced by a class of drugs with lower potential for addiction—but rogue labs have continued to produce the original formula.
+
+Form: Ingested as a tablet
+
+Level: 6
+
+Availability: Street
+
+Initial Effect: +1d6 to the character’s next ten-hour recovery roll.
+
+Secondary Effect: None.
+
+Adverse Effects: The character must sleep for eight unbroken hours. During this time, they are deeply unconscious and will not awaken in response to light, noise, or touch—even if they are in danger.
+
+Overdose: 1 in 1d20; the character enters a comatose state and can’t be awakened without stimulants.
+
+Addiction: High
+
+##### Pixel
+
+Name: Pixel®, P1xel, pix3l, Pickle
+
+Description: Pixel® is an anesthetic and analgesic developed by Zeerosh. Though it’s technically only available by prescription—and only prescribed in rare cases—Pixel® is most commonly used by netrunners, because it induces a trancelike state that eases their integration into the matrix. The drug is easy to produce with a basic 3D printer, and trivial with the RxHypo3D. Netrunners tend to print their own supply, but it can sometimes be found in convenience stores under alternate names to dodge trademark protection.
+
+Form: Ingested as a tablet
+
+Level: 3
+
+Availability: Rx Only
+
+Initial Effect: The character recovers 2 Pool points lost to damage.
+
+Secondary Effect: Eases tasks related to understanding and navigating cyberspace.
+
+Adverse Effects: Speed defense is hindered.
+
+Overdose: 1–3 in 1d00
+
+Addiction: Medium
+
+##### Rampage
+
+Name: Rampage
+
+Description: A physical performance enhancer that lives up to its name, Rampage is a favorite of brawlers, bruisers, and toughs. The viscous, oil-based solution takes effect immediately after injection.
+
+Form: Injected
+
+Level: 5
+
+Availability: Street
+
+Initial Effect: For an hour, all noncombat tasks involving raw strength are eased by two steps. When the character strikes an NPC or creature, they can choose to make a second attack roll. If the second attack roll is a success, the target is killed. If the target is a PC, the character instead moves one step down the damage track.
+
+Secondary Effect: None.
+
+Adverse Effects: Swelling of the face and hands (hinders dexterity, may hinder pleasant social interaction).
+
+Overdose: 1 in 1d20
+
+Addiction: Medium
+
+### Hacking
+
+Indecipherable white or green text scrolls past on a black monitor. A hacker in a darkened room—perhaps wearing a Guy Fawkes mask, or a hoodie pulled low over their head—types impossibly fast, picking code apart, exclaiming about firewalls and ICE. And then, at last, those magic words: “I’m in.”
+
+Hacking, a staple of cyberpunk and near-future science fiction, is rarely depicted with anything approaching accuracy. The classic, tropey version is just more fun—and that’s the hacking experience this optional rulerules module emulates.
+
+Hackers work using a computer, phone, tablet, or communicator implant.. For a VR cyberspace experience, where characters are completely immersed in the matrix, use the netrunning optional rulerules module.
+
+#### Skill Breakdown
+
+Much of the time, hacking is a sequence of different tasks. The hacker infiltrates a device or network; digs around until they find what they’re looking for; accesses, edits, or disables the relevant data, servers, software, or so on; and logs out, all while avoiding detection.
+
+Here are some relevant skills and the situations in which they may be used. Note that this list is not comprehensive, and characters may have specific abilities that accomplish these actions.
+- Programming: slip past security measures, modify a device or software’s function, code programs for later use.
+- Research: identify useful information within the drive or network.
+- Perception: identify useful information within the drive or network, detect attacks by other hackers.
+- Deception: avoid detection, misdirect the attention of administrators or other hackers.
+- Stealth: avoid detection.
+- Speed, agility, manual dexterity: counteract other hackers’ efforts by typing really fast.
+
+The exceptions to this are Programmed Cyphers and Advanced Preparation, which allow characters to execute a hack as a single action.
+
+Optional rule: the hacker gains an asset on their next hacking-related task if they say “I’m in!” after a successful infiltration.
+
+Optional rule: Perception tasks are eased by one step if the character says “enhance” at least twice while looking at a digital photo or video.
+
+#### Impromptu Hacking
+
+The guidance in this section is useful when a character needs to hack without any prior preparation. For example, if the party has been cornered by CRAZRs and a hacker wishes to use their cyberware to disable them. Or if, after breaking into a fixer’s residence, characters decide to copy the contents of their computer but must first bypass any authentication measures.
+
+Because this sort of hacking is a multi-step process, it can occur in tandem with combat, with each task taking one round.
+
+##### Establishing a Goal
+
+Begin by establishing what the hacker is trying to do. Are they targeting a specific computer? A network? An individual’s cybernetics? Is their intent to gain access to data, such as to download the contents of a drive? Or to cause a malfunction that prevents others from using the device? Or to gain complete control of the targeted device? This information is relevant when determining the tasks required and their level.
+
+##### Choosing Tasks
+
+Once the player has described their intended outcome, determine the required steps. Often, the steps will be:
+1. Infiltrate the device or network.
+2. Locate the software or data the characters need within that device or network.
+3. Use code to attempt their main objective.
+4. Log off undetected.
+
+However, some of these steps may be unnecessary depending on the circumstances. Characters may have abilities that bypass or consolidate steps. Characters could have the password to a computer, but still need to code and modify software. When disabling a device that only serves one purpose, such as simple cyberware or a Raptor® Smart Pistol, characters don’t have to identify specific software to target within the larger data infrastructure. Characters might not care about subtlety or making a clean exit.
+
+These hacking tasks can be retried if failed. Failure is also an opportunity to introduce a narrative complication, such as an additional layer of network security, corrupted data that will take longer to parse, unfriendly hackers counteracting their work in real time, or another snag in the PCs’ plan.
+
+##### Determining Difficulty
+
+There are two ways to determine the difficulty of hacking tasks: the GM can set the difficulty of the overall goal and use this level for each required step, or the GM can set the task difficulty of each individual step. In either case, the difficulty should take into account the levels of any devices, security measures, AIs, and NPCs involved.
+
+For example, shutting a rival hacker out of a network requires a roll against said rival hacker’s level. Infiltrating an NPC’s cybernetics entails a roll against that NPC’s level. Bypassing a security AI requires a roll against the AI’s level, whereas guessing the password of a basic laptop may be a roll against the computer’s level or the level of its owner.
+
+#### Programmed Cyphers
+
+Characters can prepare simple programs and store them on their computer, on an external drive, or within their cyberware. When the time comes, all they have to do is deploy the code, bypassing most of the work of hacking.
+
+These programs are single-use and function as cyphers. You can think of them as cypher apps that are crafted by the character, rather than being purchased or pirated. They are also similar to hacks in that they can only be used on software, computers, or cybernetics.
+
+Characters deploying programs may still need to access/infiltrate the target device. For example, deploying a program saved on a memory chip requires plugging said memory chip into the computer.
+
+Programmed cyphers are subject to the character’s cypher limit.
+
+##### Crafting Programmed Cyphers
+
+Creating a programmed cypher involves four steps.
+1. Choose Cypher Level. The character decides the level of the program they wish to create. A low-level program is easier to write than a high-level one.
+2. Assess Difficulty. The difficulty of writing the program is always 1 + the level of the program. The hacker can reduce the difficulty of the task with skill training, assets, special abilities provided by their focus or type, and so on. Using a tutorial, instructions, or other guidelines for a specific program counts as an asset for this purpose.
+   Because programming requires special knowledge, it is not possible for a character with no programming skill (or with an inability in this skill) to prepare programs in this way; the character cannot attempt the task at all.
+3. Determine Time to Program. The amount of time it takes to write a program is determined by the assessed difficulty, so decreasing the difficulty not only means the character is more likely to succeed, but also that they have to spend less time coding it.
+
+Programming Duration Table
+ 
+|Assessed Difficulty|Time to Code|
+|---|---|
+|1|Ten minutes|
+|2|One hour|
+|3|Four hours|
+|4|Nine hours|
+|5|One day|
+|6|Two days|
+|7|One week|
+|8|Three weeks|
+|9|Two months|
+|10|Six months|
+
+For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking in on it occasionally to make sure everything is going as planned while their computer continues running. In other words, the character can perform other actions (eating, resting, going to work, etc.) as long as they have access to the machine they’re using to work on the code.
+
+4. Complete Subtasks. The character must complete multiple subtasks that are steps toward finishing the process—one subtask per level of assigned difficulty.
+   The first subtask’s difficulty is 1, and each successive task’s difficulty increases by 1 until the character reaches the last, hardest task with a difficulty equal to the cypher’s assessed difficulty. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to write the program.
+   If the character fails on a subtask, the cypher isn’t ruined. Instead, the character only wasted the time spent on that subtask, and they can spend that much time again to try and succeed at the same subtask. Effort cannot be applied to any cypher-crafting task or subtask that takes longer than one day.
+
+  
+
+##### Example Programs
+
+Cyphers that the characters may create using the programmed cypher rules include:
+- Farsight
+- Information Sensor
+- Lockout Hack
+- Logic Bomb
+- Machine Control
+- Mental Scrambler
+- Motion Sensor
+- Perfect Memory
+- Psychic Communique
+- Ray Emitter (Command, Fear, Friend Slaying, Mind Disrupting, Numbing, Paralysis)
+- Shocker
+
+This is not a comprehensive list. If the GM agrees, characters can write programs that accomplish countless effects.
+
+#### Advanced Preparation
+
+When characters anticipate a major showdown, hackers can prepare simple attacks in advance. The player describes what their character does to prepare, then rolls to determine how effective that preparation really was. The difficulty level equals the number of prepared actions; for example, if a hacker is preparing 3 actions, the roll’s target number is 9. The roll can be retried if failed, with the target number remaining the same; however, each failure decreases the final number of prepared actions by 1.
+
+The player does not have to define the actions they’re preparing. In fact, they should choose how to use their prepared actions during the encounter, based on how the situation plays out. In combat, the hacker can use a prepared action to make the lights go out, the elevator jam, the automatic targeting on the security guard’s gun malfunction, or something similar. This action is deployed with a single roll, bypassing the more detailed infiltrate-code-escape process in favor of quick, fluid combat.
+
+Mechanically, this gives hackers freedom to adapt their strategy in the moment. Just as a Solo might swap their shotgun for a garrote when the situation demands it, a hacking-focused Tech can wait to determine an approach until they know what they’re up against.
+
+Ideally, these prepared actions are completed in one round and do not entail multiple steps.
+
+#### Detecting and Countering Hacks
+
+When a character finds their own tech under attack, they have a short window to notice and prevent their devices from being hacked. First, have the character roll to detect the hack, with difficulty determined by level of the opposing individual, software, or virus. If the character does not detect the hack, they cannot attempt to counter it until the effects become obvious, even though the player may now suspect that shenanigans are afoot.
+
+If the character successfully detects the hack, they can then roll to counter the hack as their next action—again with the difficulty determined by the target’s level, eased by one step due to the character’s vigilance. Characters can use either Intellect or Speed to counter a hack; after all, typing really fast can be the make-or-break.
+
+If the character failed to detect the hack, the effects begin two rounds after their failed roll. If the character fails to counter the hack, the effects begin in the next round. If the device under attack is a cybernetic attached to the character’s body, they can make one last defense roll to delay or minimize the harm done, but they will not get away unscathed. On a successful defense roll, the cybernetic either reboots within the next three rounds, taking up to one minute to come back online, or the cybernetic lags until the character’s next ten-hour recovery roll, hindering all tasks using it.
+
+If characters do not preemptively counter a hack, the effects may include the following:
+- The device reboots, taking up to one minute to come back online.
+- The device is disabled (cybernetic limbs become paralyzed; computers freeze).
+- The device is externally controlled (an embedded pistol fires at an ally; hackers broach sensitive data).
+- The device goes haywire (a mantis blade extends and retracts randomly; a smartphone overheats and emits smoke).
+
+Depending on the hacker’s objective, a character whose cybernetics are hacked may take 2 to 4 points of damage per round while the attack is ongoing. Once the hack has taken effect, characters can roll to counter it each round, as an action. The effects will continue until the hacker relents, the character or an ally succeeds in countering it, or the device is destroyed. In the aftermath of such an attack, the device is likely to require extensive (and costly) repairs.
+
+### High-Speed Chases
+
+In most cases, driving is a routine task that does not require a roll. But when characters are chased, pursue another vehicle, or engage in combat while in the vehicle, things get a bit more complicated.
+
+#### Vehicle Speed and Rounds
+
+When starting from a standstill, most vehicles move a long distance in one round. When already at speed, vehicles can move a very long distance in one round. That distance is decreased (from very long to long, or from long to medium) if the vehicle is not on a paved road, or if the driver must turn, brake, or maneuver in the same round.
+
+So you can assume a car or motorcycle moves a long distance in a straight line in its first round underway, and a very long distance in a straight line in its second round. If the car veers onto a gravel shoulder in its third round, it moves a long distance. If the car is on a gravel shoulder and the driver must weave to avoid obstacles, the car moves a medium distance in its fourth round.
+
+The GM can track these distances loosely. What matters is that if the car in the lead is moving faster, it’s getting farther away. If the car in the lead is moving slower, the car in pursuit is getting closer.
+
+#### Gaining (or Losing) Ground
+
+When multiple vehicles are moving at the same speed in game terms (medium, long, or very long), one can still catch up to or evade the other. The driver makes two Speed rolls, one against the opposing driver’s level, and one against the opposing vehicle’s level. If both rolls succeed, the gap between vehicles either increases or decreases, depending on the PC driver’s objective.
+
+#### Actions in Motion
+
+By default, the driver’s action each round is to control the vehicle. If moving in a straight line, this is a Speed task with a difficulty of 0, meaning that no roll is required. The driver can try to catch up to or shake another vehicle. The driver can turn, brake, or maneuver the car around obstacles; these are Speed tasks that vary in difficulty, but are typically 3 or 4 when moving at high speeds. Failure results are based on the situation but might involve a collision, a flat tire, or some other form of damage to the vehicle.
+
+Any task that distracts the driver from the road, such as reaching for a weapon in the backseat, hinders their next driving task by one step. This means that if the driver uses their action to get a handgun from the glove box, they must complete a difficulty 1 driving task in the next round.
+
+When the driver attempts to evade a hazard, their Speed defense is eased if the level of the vehicle exceeds that of the obstacle. The driver can use the car itself as a weapon, attacking multiple creatures within a short distance. To do so, the character must make a Speed defense roll against each foe to determine if they are hit; the task is eased if the vehicle’s level is higher than the adversary’s.
+
+While in a moving vehicle, attacks on characters outside of that vehicle—such as shooting the driver of the car behind yours—are hindered. Attacks on a vehicle as a whole—such as firing a grenade at the car tailing yours—are not.
+
+In a round where the car turns, brakes, or moves erratically, the actions of all passengers are hindered. In case of a collision, intentional or unintentional, all passengers must make a Speed defense roll to avoid injury.
+
+#### Optional: Pooling Actions
+
+Because the difficulty of all actions in the car depends on the car’s movement, tracking which characters’ tasks are hindered and why can become unwieldy. It may save time to have each character in the vehicle determine what they’re doing in the round, then have everyone roll at once. This means that the difficulty of each task accounts for the planned actions of the other characters.
+
+### Inflation
+
+Inflation is the general trend of prices going up. In a cyberpunk campaign, prices should increase over time, anywhere from 3% to 10% in a typical game year. However, unusual events—a civil war, a nuclear strike on a foreign country, or poor economic choices by a dictator—can trigger a sudden spike in inflation, adjusting the cost of all goods by 5% to 10% in a single month. It is rare for inflation prices to settle back down; it’s much more likely that inflation flattens after a spike and remains flat until the overall prices catch up to what they “should be” in a normal annual inflation cycle.
+
+Short-term cyberpunk campaigns usually don’t experience much inflation because the month-over-month price increases are pretty negligible (even a hefty 10% annual inflation rate is less than a 1% price increase per month). One way for the GM to make inflation a factor in the campaign is to use the forced downtime optional rule; by making the campaign take longer, there’s more time for inflation to have a noticeable effect on prices.
+
+Hyperinflation is inflation that has accelerated out of control, such as an overall 50% increase in prices in the span of a month. In severe cases, prices might double every few days, rendering existing currencies almost worthless in a very short amount of time. In a cyberpunk setting, megacorporations can try to curtail hyperinflation with several drastic and obscure methods, most of which are unseen to the typical person on the street but include temporarily freezing digital assets (such as money accounts with corpo-controlled banks). If these attempts work, prices can stabilize after a couple of months, but the damage has been done, with more people ending up in poverty or homeless.
+
+In a setting where the megacorps issue their own corporate currency, inflation tends to remain steady overall but an individual currency might experience an inflation spike (so all the other currencies become more valuable, and costs of items in the inflated currency go up). Likewise, hyperinflation is usually limited to just one corpocurrency, triggered by a disastrous investment, public relations error, vile scandal, or reckless market manipulation in an attempt to increase shareholder value.
+
+Inflation GM intrusion: Just as the character has saved up the exact amount of money to buy a particular item, its price suddenly jumps by 10% because of an issue outside the seller’s control (war, stolen shipments, unexpected taxes or tariffs, and so on).
+
+Hyperinflation group GM intrusion: The cost of all goods increases by 50% in just a few weeks, but income (including payments to freelancers like the PCs) stays the same.
+
+### Planned Obsolescence
+
+In a world run by megacorporations, all of which manufacture some sort of consumer good, there is always pressure to buy the newest thing. So what, you only got your communicator implant a year ago? Don’t you want one with more features? (Or, the same features under new names!) Don’t you want one that’s faster/better/shinier? Of course you do.
+
+Or maybe you don’t, but that’s really too bad, because that’s where planned obsolescence comes in. Devices aren’t built for the long haul. Corps keep consumers buying more by artificially limiting a product’s lifespan. Whether it’s a smartphone or an embedded pistol, it will eventually deteriorate to the point that replacement is required.
+
+Planned obsolescence is an opportunity for both GM intrusions and long-lasting narrative rumorf the setting: capitalism rules the day, and it’s a struggle to keep up.
+
+Here are some of the ways planned obsolescence can manifest in a cyberpunk setting.
+- A character loses a device’s charging cable. The device’s newest model has a different charging port, making it difficult to find the older style of cable the character needs.
+- A character’s cybernetic limb is damaged in combat. It should be an easy fix—just replacing a single part—but that part isn’t manufactured anymore. The whole limb must be upgraded.
+- A portable device’s battery stops holding a charge, causing it to die at inconvenient moments.
+- Continued use of an entertainment subscription requires a software update—but the character owns a device model that does not support the updated software. Now they’re being billed for a subscription they can’t even use.
+- The bullets, grenades, or other projectiles compatible with a character’s arm cybernetics are no longer being manufactured.
+- In an effort to prevent at-home repairs, repair guides are copyrighted and difficult to find. Repairs done by a licensed technician cost nearly as much as replacement.
+
+### Rumors, Advertisements, and Headlines
+
+In an urban setting, characters are surrounded by neon signs and news displays, inundated with advertisements and rumors—all of which can add flavor to descriptions of locations, lead the PCs to new encounters, or spark a new adventure. These tables provide ideas ranging in tone from lighthearted to dramatic.
+
+Story Hook Source Table
+ 
+|d6|Story Hook Source|
+|---|---|
+|1|News headline|
+|2|Street art|
+|3|Advertisement|
+|4|Overheard on the street|
+|5|Spotted on a screen|
+|6|Neon sign|
+
+News Headline Table
+ 
+|d10|News Headline|
+|---|---|
+|1|“Torrential Acid Rain Expected In Edge City”|
+|2|“Revolutionary Commando Army Takes Over Nevada”|
+|3|“Lake Erie Hits Record-Breaking 90°”|
+|4|“Missing Woman Found After 6 Years Beneath Corps Tower”|
+|5|“Leaked Documents Show Plans to Build American Embassy on Mars”|
+|6|“Early 21st-Century Surveillance Program Declassified”|
+|7|“Steve Ballmer Becomes World’s First Trillionaire”|
+|8|“Fire In The College District Kills 39”|
+|9|“Abkhazian Apsar Plummets In Value As Economic Crash Continues”|
+|10|“Are Police Prohibited From Committing Robbery? Legal Experts Weigh In”|
+
+Street Art Table
+ 
+|d10|Street Art|
+|---|---|
+|1|“NOTHING IS SACRED”|
+|2|A mural of a smiling stick figure, pushing a boulder up a slope|
+|3|A mural of a sinking ship|
+|4|“Kilroy was here”|
+|5|“Protect your heart”|
+|6|A character from a popular children’s cartoon holding a can of spray paint|
+|7|The Kaisha logo followed by the phrase “Enemy of the people”|
+|8|The Immortech logo with stylized devil horns|
+|9|A skeleton in handcuffs|
+|10|The structural formula of butane|
+
+Advertisement Table
+ 
+|d10|Advertisement|
+|---|---|
+|1|“Return used plastic utensils for 10¢ each!”|
+|2|“You break it? We buy it!”|
+|3|“A New Life Awaits You In New Grimsby”|
+|4|A commercial for Axodrine® featuring a woman dancing across a tightrope|
+|5|A poster for off-brand Pixel®, featuring an anthropomorphic pickle|
+|6|A pop-up advertisement for an advertising network|
+|7|“Click here if everyone hates you”|
+|8|A pop-up advertisement for an expensive adblocker|
+|9|An advertisement for a divorce lawyer specializing in splitting cryptocurrency|
+|10|“Corps Tower: if you lived here, you’d always be home”|
+
+Overheard on the Street Table
+ 
+|d10|Overheard on the Street|
+|---|---|
+|1|A group of street kids discuss breaking into a nearby vending machine.|
+|2|“Yeah, I saw them pull it out of the reservoir last week.”|
+|3|“I wouldn’t’ve eaten it if I actually knew what it was.”|
+|4|“I already canceled my HD optics package. Why am I still getting charged for it!?”|
+|5|“When was the last time you saw the sky?”|
+|6|Three businessmen argue over whether a hologram of a deer is a video capture or computer animation.|
+|7|“It’s because you’re always in that damn matrix!”|
+|8|“No, that was after the second time I got my memory erased.”|
+|9|“I only do the installation. So if you hate the new arm, don’t come bothering me about it.”|
+|10|“I saw this livestream of a guy eating a live shark. It was real, I swear!”|
+
+Spotted on a Screen Table
+ 
+|d10|Spotted on a Screen|
+|---|---|
+|1|Hour five of an ongoing marathon boxing match at the Dome|
+|2|A replay of a decades-old space shuttle launch|
+|3|A clock frozen at 13:37|
+|4|A gameshow with everchanging rules, set in zero gravity|
+|5|SMPTE color bars … and a face, if you look closely|
+|6|A documentary on climate refugees|
+|7|A weather forecast for toxic smog|
+|8|A live camera feed of the construction of a high-rise tower|
+|9|A review of a new restaurant in Starlight|
+|10|An almond-eating competition|
+
+Neon Sign Table
+ 
+|d10|Neon Signs and Holograms|
+|---|---|
+|1|A bucket of paint tipping over, spilling its contents|
+|2|A fortune cat that appears to be waving its paw|
+|3|A glitching go-go dancer|
+|4|A long-dead musician, repeating his final performance|
+|5|A circus troop of mice|
+|6|A syringe with a slowly depressing plunger|
+|7|A cyclops with a spiral for an eye|
+|8|“Bar 1312”|
+|9|“What’s worse than rain?”|
+|10|“The future has already arrived”|
+
+### GM Advice and Tools
+
+#### Changing a Character’s Focus
+
+In a genre where people literally replace much of their body with machine technology, picking a different character focus is well within the realm of possibility. The Cypher System Rulebook already has information about switching a character’s descriptor or focus, so all that the character needs is a narrative (in-game) reason for it. Maybe the character had to plug an experimental bio-organic chip into their brain implant, or got splashed with weird nanobots that dug into their organics and chrome and make radical changes, or they succumbed to SHITS and had to be institutionalized and reprogrammed, or a generous (or sadistic) chopper decided to replace all of their cybernetics with ones that grant different abilities. In a weirder cyberpunk game that mixes in other genres, other justifications for this sort of character change include alien experimentation, possession by a ghost (or engram or AI), dimensional bleed, a significant mutation, or time travel reworking some aspect of the character’s past.
+
+The GM may require the character to complete a character arc such as growth or recover to fully make the change from the old focus to the new focus. It’s also likely that the character needs time to figure out their new outlook and abilities, which the GM can easily manage with forced downtime.
+
+#### Character Reputations and Relationships
+
+In a cyberpunk world ruled by megacorporations and street gangs, having the right people in your corner can make the difference between surviving and thriving. The process of forging and maintaining these relationships can be represented by Character Arcs, Medium- and Long-Term Benefits, or Relationship Levels.
+
+##### Using Advancement Benefits
+
+As a medium-term benefit, a character can spend 4 XP to become trained in a skill. Proficiency interacting with members of a gang, corporation, or other faction can be treated as a skill. Narratively, this means that the character fits in; they know the group’s social norms and customs, so interactions with its members are more likely to go well.
+
+As a long-term benefit, a character can spend 3 XP to gain a position of importance within the group, or an NPC contact—perhaps a fixer or someone in power at the organization.
+
+##### Using Relationship Levels
+
+Using the relationship level rules from the Cypher System Rulebook captures how romantic and platonic relationships can both deepen and weaken over time. A character who relies on an NPC contact for aid will have to put work into building that bond, increasing the relationship level. Inappropriate or careless behavior can lower the relationship level, meaning that characters must put work into rebuilding it. A relationship’s level also dictates the NPC’s actions in relation to the character—how likely are they to do the character an inconvenient favor? How likely are they drop everything to save the character from a deadly situation?
+
+#### GM Intrusions
+
+This section provides GM intrusion suggestions for various encounters, circumstances, and events, sorted into categories for your easy use. For example, if you want a GM intrusion specifically about a cybernetics malfunction, you can consult the Cybernetics Intrusions category and pick from a shorter list, without having to skim past intrusions about police or random events.
+
+Note that these are meant to be generic GM intrusions suitable for many encounters and circumstances. These lists do not include the GM intrusions relating to foci, creatures, or equipment, which only come into play when those foci, creatures, or items are present.
+
+##### Combat Intrusions
+
+- A foe activates a hidden weapon implant (such as a mantis blade) and makes an eased extra attack.
+- A foe activates prototype martial arts software, easing their Speed defense by two steps or easing their melee attacks by two steps for the rest of the combat.
+- A foe activates a “death by a thousand cuts” program and makes a number of melee attacks against the character equal to twice the foe’s level. Each attack inflicts 2 points of damage.
+- A foe’s missed shot ricochets (or redirects, if from a smart weapon) toward the character, making an eased attack against them.
+- A foe activates a stealth camouflage cypher, turning invisible until they attack; an attack from the invisible foe is hindered by two steps.
+- A foe’s smart targeting software instantly locks onto the character. They make a free attack against the character, and their attacks against the character are eased for the rest of the combat.
+
+##### Cybernetics Intrusions
+
+Many of the intrusions in the Technology section may apply to cybernetics as well.
+- An implant causes twitching, pain, or involuntary movements, hindering tasks with it or the connected part of the character’s body for several rounds.
+- A character’s body starts to reject an implant; actions with it may be hindered or delayed, and the surgical site is leaks pus, machine fluids, or both.
+- A character’s implant gets hacked and does what the hacker wants it to do (interfere with the character, act randomly, or strike at the character, as appropriate.) If the character reboots it (an action), it’s offline for a few rounds and then works normally.
+- Malware takes over an implant and starts to generate cryptocurrency for the hacker; actions using the implant are hindered, and excessive heat from the implant inflicts 1 point of ambient damage per round.
+- Implant starts to loudly beep like a fire alarm. Running a diagnostic can identify the problem within a few rounds, which then can be corrected by several rounds of fiddling with it.
+
+##### Dystopia Intrusions
+
+- (Group intrusion) A social event turns out to be an ambush by gang members or scraprats.
+- Landlord and police show up to illegally evict the character from their apartment; the character only has about an hour to move all of their stuff out before the locks get changed.
+- Sudden price hike on several items the character is interested in, each price increasing by about 50%.
+- A quiet or sleeping screen (computer, billboard, and so on) near the character activates, blaring a loud, obnoxious advertisement. This attracts unwanted attention to the character, and the jarring ad hinders the character’s tasks until they move at least a short distance away.
+
+##### Environment Intrusions
+
+- (Group intrusion) Weather takes an unexpected turn (overcast becomes stormy, rain becomes clear, and so on), interfering with the plans the characters made contingent upon the previous weather.
+- A passerby mistakes the character for a wanted criminal with a bounty, starts making a scene, and tries to capture the character or loudly calls the police.
+- Character notices some odd graffiti—their name, a vulgar phrase, a strange drawing, or text that almost makes sense. The character is distracted (hindered) until they spend a few rounds looking at it or move so it’s out of sight.
+
+##### Health Intrusions
+
+References to drugs in this section include actual drugs, medications (such as “immune suppressants” for cybernetics and SHITS), and pharmaceutical cyphers.
+- A character has a bad reaction to the day’s air quality; tasks requiring physical exertion are hindered for the next hour.
+- Fumes from nearby burning garbage (trash can, pile of tires, old car) sickens the character, hindering all tasks until they move at least a long distance away.
+- Character has a bad reaction to a drug. Each hour for the next few hours they must succeed at a hindered Might defense roll against the drug’s level or one of their Pools takes ambient damage equal to the level of the drug.
+- Character has a rare allergic reaction to a drug, causing one of the following for about an hour: swelling on the face and hands (hindering interaction and hand-using tasks), numbness in the extremities (hindering hand-using tasks and movement tasks), or slurred speech (hindering interaction tasks by two steps).
+- Drug is less effective than expected, either because of a weak dose or the character is building up a tolerance. The drug’s effect is halved (half the duration, half the benefit, or a similar reduction).
+- A foe’s attack breaks one of the character’s bones. The effect depends on the damaged bone: leg (movement slowed by one category), arm (tasks with it hindered by two steps), rib (one-action and ten-minute recovery rolls take twice as long), or skull (Intellect-based tasks hindered by two steps). This is lasting damage.
+- Character’s insurance runs out (or a paperwork or software error makes it seem to run out), ending any further care or support from the insurer or hospital.
+- Someone nearby (perhaps someone the character is speaking with) suddenly gets very sick. If the character fails a Speed defense roll, the person vomits on them, inflicting 2 points of Intellect damage (ignores Armor). (Did they have too much to drink? Bad trip? Illness? Poisoning? Nervous?)
+
+##### Police Intrusions
+
+- A “good cop” turns out to be a bad cop at exactly the worst time.
+- (Group intrusion) An armed police intervention in the area is probably unrelated to the characters’ situation but still complicates things.
+- A character is swatted: police raid their home, confiscate valuables and contraband, and attempt to detain or arrest them.
+- A police officer recognizes or mistakes the character as having a felony bounty, draws their weapon, calls for backup, and attempts to detain the character.
+- (Group intrusion) Police drones turn their attention to what the characters are doing.
+- Several police cars suddenly show up for an unrelated event, with lights flashing. (Perhaps there's a donut spill nearby.)
+
+##### SHITS Intrusions
+
+Most of these intrusions are realistic hallucinations or delusions in the character’s head, although the character might believe their senses are being hacked. These kinds of intrusions can be tricky to make effective if the player doesn’t go along with it. Any hallucinations from the GM intrusion usually end within a few rounds.
+- A new foe appears and threatens or attacks the character.
+- A foe uses advanced stealthtech to vanish, but continues to attack the character, whose defenses against this foe are hindered by two steps.
+- The character is attacked with surprise by an ally who suddenly decided to betray them. (The ally is not actually attacking, but the character believes they are being harmed.)
+- The character is attacked with surprise by an ally whose brain implant just got hacked. (The ally is not actually attacking, but the character believes they are being harmed.)
+- The character suddenly finds themself alone in a wasteland under a hot sun, with the city in the distance and a garbage dump with rusted cars off to one side. (If the character moves while hallucinating, they wander away from wherever they’re standing.)
+- The character stands dumbfounded, lost and confused in their own thoughts and feelings.
+- The character, struck by a searing headache and a loud ringing noise, can do nothing but scream and clutch their head.
+- The character experiences an itching sensation, then realizes bugs are swarming all over their skin, trying to get under their implants and into their eyes and mouth.
+- The character believes an unconscious or dead foe is still a threat and continues to attack them. (This eventually kills the foe if they aren’t already.)
+- Someone the character loves (such as a parent, sibling, or pet) arrives, asking for the character’s help or immediately getting in harm’s way.
+- A dead person (probably someone the character knew) speaks to the character, pleading with, insulting, taunting, or shaming them. (This may be an auditory hallucination, a visual one, or both.)
+
+##### Technology Intrusions
+
+- An activated item doesn’t take effect until after an advertisement plays, which takes two or three rounds.
+- An item’s software license or subscription runs out; the character has to pay to renew it before the item can be used.
+- An item displays a popup spam message that blocks the important part of the interface. Closing the spam requires a successful level 3 Intellect task (try once per round).
+- An item is infected with a computer virus that hampers its use (hindered roll, reduced duration, increased depletion chance, and so on).
+- A rival hacker takes action while the character is hacking or netrunning. This might hinder the character’s digital actions, put them at risk of getting a virus or spyware, or require a hacking battle before the character can proceed.
+- An item locks up and requires an emergency reboot. Starting the reboot requires an action and a level 3 Intellect-based task; the item works normally after about a minute.
+- Kaisha item only: The device activates reflex-enhancing tech, allowing the character to take two eased actions each round for the next minute, but each turn they automatically take 2 points of Intellect damage (ignores Armor) from the strain on their brain and nerves. Shutting off this feature is an action and requires a successful level 4 hacking task.
+- Immortech item only: The device recognizes illegal activity in the area (assault, gunshots, hacking, and so on) and notifies the user that it is making an emergency call to the police. Canceling the call requires the character’s next action and a successful level 4 Speed-based task; otherwise, the automated call goes through and the police respond with almost as much concern as if an actual cop called for backup.
+- Zeerosh item only: The device completely locks up and can’t be reactivated or repaired. (It can still be disassembled for parts, such as removing the bullets from a pistol.)
+- Muxcom item only: The device offers a free trial of a new beta test software or hardware that completely irrelevant to its functions (exercising you while you sleep, mining cryptocurrency, cool rave-style lighting using bioluminescence, and so on) for the next month. Accepting makes the device more erratic (GM intrusion on 2+) and once per day the GM gets a free intrusion that makes it brick up for an hour.
+- Oleg NutriCorp item only: The device starts playing a boastful ad about the well-stocked shelves of the local OlegMart (with a pop-up live map showing the quickest path to that location), lasting one minute. Canceling the ad requires a successful level 3 Intellect-based task (try once per round).
+- JimBob Agribiz item only: The device starts playing a patriotic cartoon advertisement about the latest fast food product or firearm, lasting one minute. Canceling the ad requires a successful level 3 Intellect-based task (try once per round).
+- Halo item only: The device becomes insistent for the next few hours, attempting to connect to the character’s social media, activate push notifications, suggest “friends” they might know, and upgrade to the latest (beta) software. Once or twice an hour, this distraction hinders the character’s current task.
+- Rubylight item only: An optic device offers a free trial upgrade (such as targeting software, night vision, or cloud storage of everything viewed) for the next three days, converting automatically to a monthly subscription … but what’s the catch?
+
+##### Wild Event Intrusions
+
+- A crazed or confused person on the street (drug user, drunk, excitable gang member, unhoused person, and so on) starts a commotion, gets in the character’s face, or has a bizarre, vulgar, or disgusting reaction to the character.
+- A local power outage affects several blocks.
+- An approaching ambulance causes mayhem as drivers make room or freeze up; the ambulance’s destination may be nearby.
+- Pieces from a dead foe (blood, gore, a severed limb, broken cybernetics) hit the character in the face, blinding them for about a minute or until they use an action to wipe their face.
+- (Group intrusion) A runaway car careens into the characters; those who fail a level 4 Speed defense roll take 6 points of ambient damage. (Drunk driver? Prank? Carjacking gone wrong? Child at the wheel? Gang initiation?)
+- A character briefly spots an odd person (who has that “syndromer look”) in an alley, on a rooftop, or other unusual location. The character has a few rounds to intervene before the person starts killing random people.
+- (Group intrusion) Protestors, with the cops sent to stop them, disrupts foot and vehicle traffic for at least a block.
+- A speeding car collides with another car or hard obstacle nearby. (Drunk driver? Medical emergency? Self-driving car failure?) The car catches on fire with people trapped inside.
+- Other people in the area start fighting with each other. (Gang conflict? Mugging? Rowdy drunks?)
+- A funeral procession (cop, gang member, famous person, rich person) slows traffic, while pedestrians pause to pay their respects.
+- (Group intrusion) A section of pavement and sidewalk opens up into a sinkhole connected to the sewer system or water main. Characters fall in if they fail a Speed defense roll (level 3 to 5, depending on how close). Several NPCs fall in and need to be rescued.
+
+#### Forced Downtime
+
+In a cyberpunk campaign, it’s easy to fall into the RPG story trap that every single day for the PCs is fraught with danger, intrigue, conflict, and strange encounters, creating a non-stop pace that leads to characters burning through all the advancement steps and reaching tier 6 within just a few in-game weeks. There are two reasons to avoid letting this happen to the campaign.
+
+It's unrealistic. It takes more than a few weeks for a person (even an exceptional one like a PC) to change from a relative nobody with a few skills and interesting abilities to a nigh-indestructible chromed-up badass.
+
+It limits storylines. This accelerated tempo makes it hard for the GM to include storylines for longer-term events like trade wars between megacorporations, slow-burning schemes between influential families and politicians, and a gradual increase in street-level activism that leads to riots, anarchy, and perhaps even revolution.
+
+In a typical fantasy campaign where the PCs wander from village to village dealing with local problems, the required travel time between adventure locations acts to slow down the overall timeline of the campaign. In a cyberpunk campaign, particularly one taking place almost exclusively in and around one major city, there’s no longer a travel-induced brake on the timeline. Instead, the GM should use a more direct method: forcing the characters to take time off in between their active gigs. Here are some easy ways to do this.
+
+##### Advancement
+
+The rules assume that character advancements take place almost instantly, without any need for training or study, even if it means the character is suddenly gaining new abilities, new skills, or adding to their stat pools. An easy way to slow a campaign timeline is to require some story-induced downtime to justify gaining (or mastering) a new ability. A character increasing their Might or Speed Pool needs to spend some time at the gym or dojo. One adding to their Intellect Pool needs to take a college class or attend a meditation retreat. Learning how to use a new ability requires the character to practice, watch holotutorials, or both. And so on. An easy guideline is to have the character spend about a week of downtime for each advancement they choose; this in itself means extending the campaign timeline by at least 20 weeks (five tears beyond tier 1, with four advancements each).
+
+##### Expenses and splurging
+
+The GM should encourage the players to see their characters getting paid as a windfall situation: instead of struggling to meet their day-to-day expenses, the characters have some money to burn. They can pay off debts, pick out some new equipment and cybernetics, party or vacation a bit, and perhaps find a safer or sexier place to live. Even if the GM hand-waves basic expenses like rent, food, clothing, and so on (with the assumption that the characters are spending some of their time outside of a game session doing boring, risk-free work to pay for their mediocre standard of living), the extra money from a typical gig gives the PCs some time to cool off and distract themselves from their dystopian existence. Not taking time off to relax is bad for a person’s mental health, and that sort of stress can build up and lead to SHITS. Even in a campaign where SHITS isn’t really something PCs have to deal with, the GM can encourage downtime by hindering the characters’ Intellect-based tasks (starting with one step, increasing about one step per week), reflecting their ongoing fatigue, emotional damage, and burnout.
+
+##### Lasting damage
+
+The lasting damage rule gives a character an injury that they can’t fix with a simple recovery roll. They only recover slowly during light activity or complete rest. Using this rule, a typical 4-point wound from a medium pistol becomes something that requires four days of complete bed rest, or twelve days of regular activity, during which time the character isn’t at full strength. Diseases, poisons, and even something or even something like a grenade’s explosioncould trigger a group GM intrusion for lasting damage that leaves all of the PCs wanting some extra time to heal. Also, this section’s entry on lasting damage encourages the GM to sometimes damage or destroy a character’s cybernetics—a bloodless but hard-hitting way to show the lethality of dystopian cyberpunk. More of these attacks also push characters to slow down a little bit.
+
+##### Life happens
+
+Sometimes your daily life throws you a curveball, ruining your plans. There’s a heat wave and it’s too hot to go outside. There’s a power outage and you can’t get the surgery, interview, or mainframe access you need. It’s time to do your taxes. Everyone in your group of friends gets a bad cold. There’s a fire in your apartment building and you have to live out of a hotel for a few days before they declare it safe to return. A sports game, political event, or controversial television episode leads to riots in the streets. A terrorist act (or the suspicion of one) shuts down all travel in or out of a specific neighborhood. None of the fixers the PCs know have interesting, suitable, or well-paying gigs to offer the PCs. Any of these things happening during a game session could be a GM intrusion, complicating an encounter, but outside of a game session, it’s just life—things happen that delay your plans, giving frenetic characters (and players) an excuse to let some time slide by.
+
+##### Splitting XP
+
+Most of the options in this section are ways to let the campaign calendar move forward more slowly. However, you can also address the “speedy zero to hero” problem from the other (advancement) direction by reducing the amount of XP the characters can use for tier advancement. Characters still earn the same amount of XP, but it’s allocated for specific uses (rerolls, advancements, and more). The section on splitting XP gives more details about this option.
+
+##### Surgical Recovery
+
+Getting a cybernetic implant requires surgery, and a body needs time after surgery to heal, build up strength, and learn how to use the newly implanted device so it functions as automatically as the user’s own limbs. A minor surgical procedure typically leaves a person sore and stiff for a few days. A major procedure requires weeks or even a couple of months before the character feels back to normal again. Major surgeries are anything that replaces limbs, connects to or augments bones and major muscles, penetrates the skull, or directly interfaces with the character’s brain or spinal cord (everything else counts as a minor surgery).
+
+While recovering, the character’s tasks are hindered (by two steps for a major surgery). Anything other than bed rest and light activity (such as going for a short walk) risks the character injuring themselves, inflicting up to 6 points of damage (ignores Armor); whether this damage is Might, Speed, or Intellect depends on the nature of the surgery the character is recovering from. Some major surgeries might even move the character down the damage track to impaired or debilitated until they’ve had time to recover.
+
+These penalties will likely make players insist on their characters taking adequate time to rest. They may even coordinate their characters’ schedules so two or more people have their bigger surgeries at the same time—an excellent opportunity to relax at a spa, take a cruise, or otherwise enjoy some quiet time off with friends.
+
+Obviously, a GM wanting to slow down the pace of the campaign by using cybernetic recovery times shouldn’t then punish the characters for resting. In other words, don’t wait until all multiple characters are hindered from their surgeries to introduce a story plot that requires them to get out of bed and fight while penalized.
+
+The GM Says So. Ultimately, it’s always fine for the GM to just skip the campaign forward an arbitrary amount of time. There’s nothing wrong with ending a session by saying, “You completed the gig, the fixer congratulates you and transfers the money to your accounts, you go home, and take a couple of weeks off to relax and recover.”
+
+#### Lasting and Permanent Damage
+
+A typical cyberpunk game is packed with over-the-top violence and extreme injuries—it’s common for foes to be dismembered, stabbed through the heart, or burned to a crisp. The prevalence of cybernetics in the setting adds two interesting twists to the campaign: the GM can inflict bloodless over-the-top violence on PCs by targeting their cybernetics, and extreme organic injuries can be corrected or overcome with the right technological implant. Both of these aspects are represented by the lasting damage and permanent damage rules.
+
+For example, a character hit by an omega bat might get lasting damage in the form of a shattered arm bone. In a cyberpunk setting, the character might get patched up at a hospital and decide to wait for the bone to heal “the old fashioned way,” or the injury might be what convinces them to head to a chopper and get their arm replaced with a gorilla arm cybernetic. Likewise, one good whack with an omega bat might bend or break a character’s cybernetic arm, inflicting lasting damage that takes a while for the implant’s self-repair mode to fix (or the character could just have a brand-new arm installed, either of the same type or an upgrade).
+
+The permanent damage option describes “extraordinary technology” repairing or replacing lost body parts; cyberware is that technology. If a street punk with a monowire chops off a character’s leg, just buy a new cybernetic leg. If an assassin stabs a character through the heart, there are multiple cybernetic hearts on the market that work as well as or better than the original organic one. Getting burned by a flamethrower or falling into a vat of acid is easily remedied by a comprehensive skin cybernetic, and the character has the option of realistic plastiflesh or something more artificial-looking (such as dermachrome). Even decapitation can be fixed with a full-body prosthesis (a FuBo) if the character’s brain is unharmed and the severed head can be brought to a hospital or chopper in time.
+
+In other words, if your group is okay with gore, feel free to use the lasting damage and permanent damage rules to inflict extreme injuries upon PCs’ flesh and chrome (especially as they get GM intrusion XP for them).
+
+#### Rewards and Loot
+
+Use the following guidelines for determining what sort of monetary reward per character is appropriate for completing a gig. The lower end is for quick gigs that are low-risk for the character, such as roughing up an unchromed bookie, spying on a cheating husband, or delivering a suitcase full of cash to a politician. The middle range is for somewhat risky or dangerous stuff where the PCs might get a bit hurt, like getting some gangsters to stop harassing a restaurant, beating up a cop who’s fallen behind on his loan shark payments, or participating in a street race where you’re allowed to crash other drivers. The high end is for risky gigs where the PCs need to use a lot of their special skills and will face multiple or ongoing threats, such clearing out all the gangsters from a hideout, breaking into a corpo building to steal data, or stealing from a well-guarded convoy.
+
+Remember that money is a squishy sort of resource, and how rich the characters feel will increase and decrease as the campaign continues. If the PCs end up with too much money (a very relative concept), you can always use forced downtime to have them spend a bit on rent and vacation. Maybe gigs become scarce because the cops are cracking down on crime. Or you could use a GM intrusion to get them to repair or replace an expensive cybernetic or piece of equipment. Or give them something really cool to spend their money on, like a vacation to the Moon or a super sexy car.
+
+You can also limit the gigs available to low-level stuff that doesn’t pay as well; after all, just because the PCs become high-tier doesn’t mean that the only gigs are high-tier gigs. It’s okay to have the PCs “slum it” for a bit and deal with easy challenges; not only does this offer altruistic PCs a chance to “give back” to their community, it lets the players enjoy how powerful their characters are against threats that they would have found very challenging at the start of their career (although these easy gigs shouldn’t give them as much XP as something at their skill level).
+
+Finally, it’s fine to alter the typical parameters of a gig’s payment. Maybe a fixer is low on cash but has a stash of cypher apps, interesting drugs, or information that the PCs need. A corpo contact might not be able to transfer money to the PCs, but could arrange for a shipment of new chrome to “fall off” the back of a truck into the PCs waiting arms. An important NPC may not be in a position to pay the PCs, but their reward could be a valuable contact or an extra step in a character arc.
+
+If characters are scrounging for money and you want to push some downtime, you can tell them that they spend that time doing some easy gigs that cover their basic expenses—that way the PCs don’t start the next session worse off than they ended the previous one.
+ 
+|Character|Reward Per Character|
+|---|---|
+|Tier 1|100–500|
+|Tier 2|300–800|
+|Tier 3|500–1,200|
+|Tier 4|800–2,000|
+|Tier 5|1,000–2,500|
+|Tier 6|1,500–4000|
+
+#### Splitting XP
+
+There are three primary ways that characters earn XP in the Cypher System: GM intrusions, character arcs, and GM awards for discoveries and story events. The assumption is that each character will spend about half their XP on immediate benefits (rerolling a d20) and short- and medium-term benefits, and half on advancement and long-term benefits. However, each player group probably has at least one outlier—the one who hoards XP for advancement and almost never uses it for rerolls, or who uses most of it on rerolls and rarely on advancement. Although both are reasonable options in a short-term game, in a long-term campaign where the characters reach tier 3 and higher, a character who rarely advances ends up weaker and with fewer options than a higher-tier character. For a long-term campaign, the GM can prevent this power disparity by using the following guidelines for spending XP:
+- XP from GM intrusions can only be spent on immediate, short, and medium-term benefits.
+- XP from character arcs can only be spent on long-term benefits and character advancement.
+- XP from GM awards (discoveries and story events) can only be spent on long-term benefits and character advancement.
+
+If you use this method, you might want to think of XP as falling into one of two categories, such as “action XP and campaign XP,” “emergency XP and story XP,” “reroll XP and advancement XP,” or even just “red XP and blue XP.” If you use cards or tokens to represent XP, make sure you have two visually distinct kinds so the players can easily tell them apart.
+
+You should also keep an eye on the individual XP totals for each character, just in case one character keeps ending up with a surplus of one kind and a scarcity in the other. (The player might be fine with this imbalance, but if not it’s an opportunity for you to balance the scales, either by trading XP between the two categories or using the next session to award more of the XP they need.) This method is also a good way to encourage players to choose character arcs if they want to advance to higher tiers, as they can’t rely on GM intrusion XP for advancement.
+
+### 3D Printing
+
+Characters with access to a standard 3D printer can design and print small (fist-sized) items. The difficulty depends on the desired item’s complexity. Printing a simple figurine has a difficulty of 1. Printing something with moving parts, like a Zeerok pistol, has a difficulty of 3. Printing something involving a circuit board has a difficulty of at least 5, as does working with Plastiflesh.
+
+A standard print cycle takes ten minutes. A roll can be retried if failed, but the character has lost the time and materials used. All 3D printing tasks are eased by skill in programming. Other skills may be useful for manufacturing specific items; for example, medical training eases printing drugs by one step.
+
+At the GM’s discretion, the RxHypo3D can be modified to print other drugs. This may require the printer to be loaded with alternate precursor chemicals, which could prove more expensive than the standard set. To 3D print a dose of a drug with game-advantageous effects, the character must roll against the drug’s level. The process takes around five minutes. The roll can be retried if failed, but the character has lost the time and materials used.
+
+Because 3D printing is open-ended, characters may come to rely on a 3D printer to produce everyday items. To keep this from becoming stale, the GM may introduce a complication such as the following.
+- Planned Obsolescence: The 3D printer is no longer able to connect to a character’s computer or phone. The required filament is no longer manufactured.
+- Failure: The 3D printer malfunctions. Printed items break at inopportune times. Printed drugs have unexpected side effects.
+- Material Cost: Printing more complex items runs through twice as much filament or precursor chemicals. The price of materials goes up.
+
+A 3D printer can print around 10 fist-sized items before the filament must be replaced.
+
+Characters can 3D print a larger item in parts, then manually assemble the components.
+
+A RxHypo3D can print around 10 doses before the precursor chemicals must be replenished.
+
+
+### Holograms
+
+A typical cyberpunk setting has hologram technology—projectors that create 3D sculptures out of light, typically used for advertisements, signs, and impressive art displays. Holograms obviously don’t look real; they’re translucent images that overlay whatever is behind them, and show up best when the ambient light level is low enough that the hologram appears much brighter than its surroundings, such as when it’s heavily overcast or at night. The hologram device is basically a cluster of tiny image projectors that work together in 3D space to create a semi-realistic image; obscuring or blocking one or more of the projectors degrades and disrupts the image, often with hideous results.
+
+A hologram projector in a typical apartment is used in conjunction with a television to augment the flat screen image with 3D elements, or as part of a communication device (holophone) to allow the user to talk to a 3D image of the other person on the line instead of a flat video call.
+
+Optical cyberware can produce hologram-like images by directly sending data into the cybernetic implant. However, these technically aren’t actual holograms because they’re not emitting light. Likewise, a translucent image of a hologram on a computer screen isn’t an actual hologram. However, in common jargon both of these are called holograms.
+
+Holograms have no physical substance; objects and creatures pass right through them, and a person doing so doesn’t feel any sensation except the flickering lights on their eyes. Theoretically, long exposure to a large, bright hologram might cause some discomfort, much like standing next to a powerful lamp can feel warm.
+
+### Ultimate Damage
+
+Normally a character’s Effort score is the limit to how many levels of Effort they can apply to a task. However, in a cyberpunk game, firearms are ubiquitous, life-threatening injuries are common, and over-the-top violence is the norm. To represent this paradigm, treat a character’s Effort score as 6 for the purpose of applying levels of Effort to damage. In other words, when it comes to using Effort for extra damage, a character can exceed their normal Effort limit (but not beyond the normal maximum of 6 levels of Effort).
+
+Applying Effort still costs the normal amount: 3 for the first level, 2 each for the second through sixth. (Quite an expensive option for a low-tier character with a low Edge.)
+
+The GM is free to disallow players from using the ultimate damage rule against important NPCs (such as “bosses”) where huge damage can end a fight quickly and anticlimactically. For those situations, the GM should inform the player (before any Pool points are spent) that they can’t exceed their Effort limit, and then the player decides if they want to apply Effort at all (anywhere from none up to their normal Effort limit). Alternatively, the GM can let the player exceed the normal Effort limit and spend the Pool points, then use a GM intrusion to reveal the NPC’s “plot armor” against the ultimate damage (in a way, they’re recompensating the character for the high Pool point expenditure); the player does not have the option to spend 1 XP and refuse this intrusion.
+
+Although the Cypher System normally allows players to decide that an attack which reduces a foe to 0 health merely knocks them unconscious, the GM is free to say that a foe downed using the ultimate damage rule is dead despite any nonlethal intent by the PC. (Ultimate damage is not gentle!)
+
+For NPCs, the ultimate damage rule increases the damage for their unusual attacks by an amount equal to the NPC’s level. What an “unusual attack” is depends on the NPC; it might be a basic extra-damage GM intrusion from a PC rolling 1 on a Speed defense roll, the explosion GM intrusion from a mechanical soldier, or when an assassin attacks from hiding. (In any case, it shouldn’t affect the typical damage the NPC inflicts with its normal attack every round.)
+
+### Weapon Variations
+
+Variations are small tweaks to a common weapon, giving it an unusual benefit or detriment that makes it stand out. Rather than filling the Equipment section with dozens of near-identical weapons (which would be cumbersome to read and use), like one brand-name pistol having a six-round clip and another having an eight-round clip, you can use the Weapon Variations Table to quickly make a weapon just a little bit unique. For simplicity, roll on the table once each session that any character picks up a new weapon.
+
+Unless a weapon’s variation is that it’s famous or visually distinctive, the only way to discover a weapon’s variation is by using it, either in combat or a practice situation (such as a shooting range).
+
+Several variations alter the GM intrusion range of the weapon and indicate a specific result when this increased range triggers an intrusion. For example, the entry for 03–04 means the weapon’s intrusion range is 1–4 (instead of the standard 1), and any GM intrusion from rolling a 2–4 means the weapon jams.
+
+These variants add to (not replace) the existing stats for the weapon. For example, the entry for 63–64 is “+1 damage on a roll of 17+,” which means the weapon inflicts +1 damage on a 17 or higher in addition to the normal bonus damage for rolling 17 or higher (so +2 points for rolling 17, +3 for 18, +4 for 19, and +5 for 20).
+
+Weapons Variations Table
+ 
+|d00|Variation|
+|---|---|
+|01–02|–1 damage|
+|03–04|GM intrusion range increases by +3 (jam)|
+|05–06|GM intrusion range increases by +3 (ejects clip)|
+|07–08|GM intrusion range increases by +3 (disassembles)|
+|09–10|GM intrusion range increases by +3 (backfire)|
+|11–12|Attack roll hindered|
+|13–14|Holds fewer than the normal number of bullets|
+|15–16|Heavy kick; user falls prone on a failed level 3 Might task|
+|17–18|Takes twice as long to reload|
+|19–20|Odd reloading method requires a successful level 4 Speed task|
+|21–22|Infested with bugs|
+|23–24|Currently loaded with several blanks|
+|25–26|Loud report deafens wielder for a minute|
+|27–28|Explodes instead of jamming|
+|29–30|Hidden AI won’t fire on certain people|
+|31–32|Creates excessive smoke when fired|
+|33–34|Can’t be reloaded|
+|35–36|Requires expensive nonstandard ammo|
+|37–38|Uncomfortably hot when fired|
+|39–40|Uncomfortably sticky|
+|41–42|Leaks a smelly chemical|
+|43–44|Reboots for one minute after each use|
+|45–46|Smart weapon functionality, but only against cops|
+|47–48|Aggressive lockout mode stabs wielder for 1 damage each use|
+|49–50|Ridiculously large and bulky; is it intimidating or compensating?|
+|51–52|Stains wielder’s hand|
+|53–54|Visually distinctive color|
+|55–56|Visually distinctive wrap|
+|57–58|Visually distinctive engraving|
+|59–60|Visually distinctive customization|
+|61–62|Jewelry mode disguises it as cosmetic skin cyberware|
+|63–64|+1 damage on a roll of 17+|
+|65–66|+1 damage on a roll of 18+|
+|67–68|+1 damage on a roll of 19+|
+|69–70|+1 damage on a roll of 20|
+|71–72|+2 damage on a roll of 20|
+|73–74|Asset on attack roll|
+|75–76|GM intrusion range for the weapon decreases by 1 (to a minimum of 1)|
+|77–78|No extreme range penalty|
+|79–80|Holds more than the normal number of bullets|
+|81–82|Disguised as sex toy|
+|83–84|Famous|
+|85–86|Slowly reloads itself with 3D-printed bullets|
+|87–88|In police registry as lost murder weapon|
+|89–90|Nonmetallic (hidden from metal detectors)|
+|91–92|Fingerprint-resistant|
+|93–94|Unusually quiet|
+|95–96|Roll twice for two bad results|
+|97–98|Roll twice for one good and one bad result|
+|99–00|Roll twice for two good results|
+
+### Wild Firing
+
+Abilities like Spray and Arc Spray allow a character to fire multiple shots in one round, which is defined as five to ten seconds long. Obviously, even “single shot” 21st-century firearms like revolvers are able to fire more than once every few seconds, but a typical character can only fire once per round if they want a chance of hitting. The wild firing rule allows a character to shoot multiple times in a round, even without Spray or Arc Spray, but their odds of hitting are much lower.
+
+As an action, a character can make a wild firing attack with a firearm, sending multiple shots in the general direction of their foe. This attack is hindered by two steps. If it hits, it inflicts 1 less point of damage than normal (and if the weapon has an attachment or feature that inflicts additional damage, such as electricity or fire, the attack doesn’t include this damage).
+
+If the character uses wild firing as part of helping an ally’s attack or defense, the help provides an additional asset (over the standard one asset for helping).
+
+Typically, wild firing uses the rest of the ammunition in the firearm, although the GM might say that one or two shots remain if the weapon was fully loaded before the wild spray attack.
+
+Wild firing cannot be combined with Arc Spray, Spray, or similar abilities to make additional attacks or fire additional times.
+
+If a character with a firearm is helping an ally’s attack or creating a distraction for a foe, it’s reasonable for the GM to say that the character has to fire the weapon at least once as part of helping. Wild Firing
+
+Abilities like Spray and Arc Spray allow a character to fire multiple shots in one round, which is defined as five to ten seconds long. Obviously, even “single shot” 21st-century firearms like revolvers are able to fire more than once every few seconds, but a typical character can only fire once per round if they want a chance of hitting. The wild firing rule allows a character to shoot multiple times in a round, even without Spray or Arc Spray, but their odds of hitting are much lower.
+
+As an action, a character can make a wild firing attack with a firearm, sending multiple shots in the general direction of their foe. This attack is hindered by two steps. If it hits, it inflicts 1 less point of damage than normal (and if the weapon has an attachment or feature that inflicts additional damage, such as electricity or fire, the attack doesn’t include this damage).
+
+If the character uses wild firing as part of helping an ally’s attack or defense, the help provides an additional asset (over the standard one asset for helping).
+
+Typically, wild firing uses the rest of the ammunition in the firearm, although the GM might say that one or two shots remain if the weapon was fully loaded before the wild spray attack.
+
+Wild firing cannot be combined with Arc Spray, Spray, or similar abilities to make additional attacks or fire additional times.
+
+If a character with a firearm is helping an ally’s attack or creating a distraction for a foe, it’s reasonable for the GM to say that the character has to fire the weapon at least once as part of helping.
+
+Unless otherwise stated, a firearm holds ten bullets. Reloading a weapon (either with individual bullets or swapping in a new clip) is an action.
+
+## Characters
+
+### Cyberpunk Types
+
+The standard character types are meant to be generic enough to allow you to create most characters in any genre, especially with the use of flavors. However, it’s also possible to directly customize the various types so they fit the parameters of a specific genre. This section presents an updated cyberpunk variant of each of the four standard types, focusing on the changes to the rules content for those types (use the standard versions of the type’s Individual Role, Group Role, Societal Role, and Advanced information).
+
+Cyberpunk is a near-future genre where technology and firearms are common. To account for this, the types in the Cypher System Rulebook have been updated as follows:
+- Solo: A variant of the Warrior, with technological options.
+- Hotshot: A variant of the Explorer, with technological options and additional abilities relating to guns.
+- Broker: A variant of the Speaker, without overtly supernatural abilities, and with technological options and additional abilities relating to guns.
+- Tech: A variant of the Adept, without overtly supernatural abilities, and with technological options and additional abilities relating to guns.
+
+#### Standard Cyberpunk Abilities
+
+In a cyberpunk world, easy access to computers, hacking, and cybernetics means that all characters (regardless of type) can choose the following type abilities. Unlike choosing an ability from a flavor, the character isn’t required to permanently give up access to one of their type’s abilities—all of these options are in addition to the possible choices from their type’s ability list.
+Tier 1
+- Optical Hack (2+ Intellect points): You reboot the technological optical sensors of a target within short range (such as a robot, surveillance camera, or person with cybernetic optics). If your Intellect-based attack against them succeeds, the target is blinded for one round. In addition to the normal options for using Effort, you can choose to use Effort to increase the range (long for one level of Effort, very long for two, or 1000 feet (300 m) for three). Action.
+  A blinded foe acts as if they’re in total darkness; if the attacker has a sense of where the opponent might be (such as hearing them speak), their attack is only hindered by four steps, otherwise the attack automatically fails.
+- Overheat Hack (1 Intellect point): You overheat the electrical system of a creature (such as a robot or cyberware-equipped person) or electronic object (such as a computer or technological vehicle) within short range that you can see. If your Intellect-based attack succeeds against the creature, you inflict 3 points of fire damage. If the target is an object rather than a creature (such as a computer or vehicle), this attack is eased. Action.
+  Abilities that are hacks require you to use a computer interface or cyberware (such as a communication implant) to affect your foe.
+- Sensor Scan (2 Intellect points): You scan an area equal in size to a 10-foot (3 m) cube, including all objects or creatures within that area; the results of your scan are compared to a database of information (facial recognition, object recognition, police database, and so on) to determine what it is you’re looking at. The area must be within short range. Scanning a creature or object always reveals its level. You also learn whatever facts the GM feels are pertinent about the objects and creatures in that area. For example, you might learn that a device is made of metal, plastic, and electronics. You might learn a person’s name, occupation, whether or not they have any standard cybernetics, and that they have several outstanding parking tickets. You might learn that the creature in front of you is an exotic mammal (such as a tapir), and that owning it requires an expensive permit. However, this ability doesn’t tell you what the information means. Thus, in the first example, you don’t know what the metal and plastic device does—it might be a radio or a land mine. In the second, you don’t know the person is intent on harming you. In the third, you don’t know if the creature is dangerous. The information you do get from the initial scan probably gives you enough of a lead to perform an internet search to find more information. Many materials (such as lead shielding, a Faraday cage, or concrete) prevent or hinder scanning. Action.
+
+Tier 2
+- Armored Chrome: You have +1 to Armor if you do not wear physical armor. You can only select this ability if you have at least three significant pieces of cyberware that (at the GM’s discretion) are durable enough to provide some protection from attacks. Enabler.
+- Bonus Cypher App: You can bear one additional app cypher (your cypher limit increases by one, but only if the extra cypher is an app cypher). When you advance to a tier where you can select Expert Cypher Use, Adroit Cypher Use, or Master Cypher Use, you can replace this ability with the cypher ability you qualify for.
+
+#### Hacks
+
+A hack is an attempt to control, override, shut down, or influence a computer system, usually performed by exploiting a weakness in the system, such as spoofing an administrator’s login, using a “back door” to access information, or uploading a virus to unlock functions that a typical user can’t access.
+
+Many character abilities in the cyberpunk genre are technically hacks; new abilities in this book that have “Hack” in the name are hacks. Hacks can’t be used on devices or creatures lacking computers, software, or cybernetics; for example, a person with no cyberware can’t be hacked, nor can a candle, office chair, or common toilet.
+
+Hacks can be detected, although only if the targeted system has software that watches for them or an experienced user is monitoring activity in the system. If the hacker is detected, the system (or a system operator reacting to the hacking) might try to shut out the hacker, counter-hack them, or notify the police or other real-world entities (such as a megacorp hit squad, if the data is particularly sensitive) to take action against them.
+
+The GM has information about hacking, counter-hacking, and how these actions affect players. Generally, a hacker PC might need to make a separate hacking roll to remain undetected, a defense roll to avoid a counter-attack, or some other kind of roll to distract or negate attempts to find or harm the hacker.
+
+Most player character abilities that are hacks are quick operations that use a standard computer or cybernetic interface, such as a keyboard, game-like obstacle, or cybernetics (such as a communication implant); without these options, the PC can’t use a hack.
+
+Netrunning is a more intensive form of hacking, requiring a deeper connection and often an immersive virtual reality interface.
+
+  
+
+#### Solo  
+
+The Solo type is a cyberpunk variant of the Warrior. Mercenaries, soldiers, security guards, assassins, brawlers, and police officers are usually Solos.
+
+##### Solo Stat Pools
+
+Stat Pool Starting Value
+- Might 10
+- Speed 10
+- Intellect 8
+You get 6 additional points to divide among your stat pools however you wish.
+
+##### First-Tier Solo
+
+First-tier Solos have the following abilities:
+- Effort: Your Effort is 1.
+- Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
+- Cypher Use: You can bear two cyphers at a time.
+- Weapons: You are practiced with light, medium, and heavy weapons and are not hindered when using any kind of weapon. Enabler.
+- Starting Equipment: Appropriate clothing, a communicator implant, and $5,700.
+- Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise.
+
+- Bash
+- Combat Prowess
+- Control the Field
+- Datajack
+- Hacker
+- Improved Edge
+- Machine Interface
+- No Need for Weapons
+- Optical Hack
+- Overwatch
+- Physical Skills
+- Practiced in Armor
+
+Most people in a cyberpunk setting don’t wear armor, except maybe a flak jacket or bulletproof vest. Those who do wear modern armor tend to look like cops.
+- Quick Throw
+- Scramble Machine
+- Scramble Machine counts as a hack.
+- Sensor Scan
+- Swipe
+- Tech Skills
+- Tinker
+- Trained Without Armor
+
+##### Second-Tier Solo
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Armored Chrome
+- Bonus Cypher App
+- Crushing Blow
+- Distant Interface
+  Distant Interface counts as a hack. You can use it to affect a foe’s cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you’ve never interacted with before).
+- Hemorrhage
+- Machine Efficiency
+- Reload
+- Skill With Attacks
+- Skill With Defense
+- Successive Attack
+
+##### Third-Tier Solo
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Deadly Aim
+- Energy Resistance
+- Experienced in Armor
+- Expert Cypher Use
+- Fury
+- Lunge
+- Reaction
+- Seize the Moment
+- Slice
+- Spray
+- Trick Shot
+- Vigilance
+
+##### Fourth-Tier Solo
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Amazing Effort
+- Capable Warrior
+- Experienced Defender
+- Feint
+- Increased Effects
+- Momentum
+- Pry Open
+- Robot Fighter
+- Snipe
+- Tough As Nails
+
+##### Fifth-Tier Solo
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adroit Cypher Use
+- Arc Spray
+- Control Machine
+- Control Machine counts as a hack.
+- Improved Success
+- Jump Attack
+- Mastery in Armor
+- Mastery With Attacks
+- Mastery With Defense
+- Parry
+
+##### Sixth-Tier Solo
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Again and Again
+- Finishing Blow
+- Magnificent Moment
+- Murderer
+- Spin Attack
+- Weapon and Body
+
+#### Hotshot
+The Hotshot type is a cyberpunk variant of the Explorer with a knack for using technology. Burglars, drivers, and scouts are usually Hotshots, as are some hackers and soldiers.
+
+##### Hotshot Stat Pools
+
+Stat Pool Starting Value
+- Might 10
+- Speed 9
+- Intellect 9
+You get 6 additional points to divide among your stat pools however you wish.
+
+##### First-Tier Hotshot
+
+First-tier Hotshots have the following abilities:
+- Effort: Your Effort is 1.
+- Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect Edge of 0.
+- Cypher Use: You can bear two cyphers at a time.
+- Weapons: You are practiced with light weapons, light firearms, medium weapons, and medium firearms without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.
+- Starting Equipment: Appropriate clothing, a communicator implant, and $5,300.
+
+Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise.
+- Block
+- Danger Sense
+- Datajack
+- Endurance
+- Find the Way
+- Fleet of Foot
+- Hacker
+- Improved Edge
+- Knowledge Skills
+- Machine Interface
+- Muscles of Iron
+- No Need for Weapons
+- Optical Hack
+- Overheat Hack
+- Physical Skills
+- Practiced in Armor
+  Most people in a cyberpunk setting don’t wear armor, except maybe a flak jacket or bulletproof vest. Those who do wear modern armor tend to look like cops
+- Practiced With All Weapons
+- Scramble Machine
+- Scramble Machine counts as a hack.
+- Sensor Scan
+- Surging Confidence
+- Tech Skills
+- Tinker
+- Trained Without Armor
+
+##### Second-Tier Hotshot
+
+Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Armored Chrome
+- Bonus Cypher App
+- Curious
+- Danger Instinct
+- Distant Interface
+  Distant Interface counts as a hack. You can use it to affect a foe’s cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you’ve never interacted with before).
+- Enable Others
+- Escape
+- Eye for Detail
+- Foil Danger
+- Hand to Eye
+- Investigative Skills
+- Machine Efficiency
+- Quick Recovery
+- Range Increase
+- Skill With Defense
+- Stand Watch
+- Travel Skills
+- Wreck
+
+##### Third-Tier Hotshot
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Controlled Fall
+- Experienced in Armor
+- Expert Cypher Use
+- Ignore the Pain
+- Obstacle Running
+- Resilience
+- Run and Fight
+- Seize the Moment
+- Skill With Attacks
+- Spray
+- Think Your Way Out
+- Trapfinder
+- Wrest From Chance
+
+##### Fourth-Tier Hotshot
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Capable Warrior
+- Expert Skill
+- Increased Effects
+- Read the Signs
+- Runner
+- Subtle Steps
+- Tough As Nails
+- Robot Fighter
+
+##### Fifth-Tier Hotshot
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adroit Cypher Use
+- Control Machine
+- Free to Move
+- Group Friendship
+- Hard to Kill
+- Jump Attack
+- Mastery With Defense
+- Parry
+- Physically Gifted
+- Take Command
+- Vigilant
+
+##### Sixth-Tier Hotshot
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Again and Again
+- Inspire Coordinated Actions
+- Mastery in Armor
+- Mastery With Attacks
+- Negate Danger
+- Share Defense
+- Spin Attack
+
+#### Broker
+
+The Broker type is a cyberpunk variant of the Speaker without the overtly supernatural abilities. Fixers, journalists, media stars, corpos, and public relations specialists are usually Brokers.
+
+##### Broker Stat Pools
+
+Stat Pool Starting Value
+- Might 8
+- Speed 9
+- Intellect 11
+You get 6 additional points to divide among your stat pools however you wish.
+
+##### First-Tier Broker
+
+First-tier Brokers have the following abilities:
+- Effort: Your Effort is 1.
+- Clever: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
+- Cypher Use: You can bear two cyphers at a time.
+- Weapons: You are practiced with light weapons, light firearms, and medium firearms without penalty. You have an inability with other medium weapons and all heavy weapons; your attacks with medium weapons (other than firearms) and heavy weapons are hindered.
+- Starting Equipment: Appropriate clothing, a communicator implant, and $5,200.
+- Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise.
+
+
+- Anecdote
+- Datajack
+- Demeanor of Command
+- Enthrall
+- Erase Memories
+- Erase Memories counts as a hack.
+- Fast Talk
+- Hacker
+- Interaction Skills
+- Knowledge Skills
+- Machine Interface
+- Optical Hack
+- Overheat Hack
+- Practiced With Medium Weapons
+- Scramble Machine
+- Scramble Machine counts as a hack
+- Sensor Scan
+- Spin Identity
+- Tech Skills
+- Tinker
+- Translation App: You have adaptive learning software installed in your communicator implant. After hearing an unfamiliar human language spoken for a few minutes, the software deciphers the language and translates it for you, either directly into your ear or in your vision as holophone subtitles. If you choose, you can have the software translate what you say into this language, projecting it audibly from an implanted speaker. The software’s translation improves the longer it can listen to a source language, picking up idioms and slang after a few hours. Enabler.
+- Understanding
+
+##### Second-Tier Broker
+
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Armored Chrome
+- Basic Follower
+- Bonus Cypher App
+- Calm Stranger
+- Disincentivize
+- Distant Interface
+- Distant Interface counts as a hack. You can use it to affect a foe’s cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you’ve never interacted with before).
+- Gather Intelligence
+- Impart Ideal
+- Machine Efficiency
+- Practiced in Armor
+- Skill With Defense
+- Unexpected Betrayal
+
+##### Third-Tier Broker
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adroit Cypher Use
+- Beckon Hack (3 Intellect points): You hack a foe’s brain implant, tricking them into hearing or seeing something they think they need to investigate. They might interpret this as someone calling their name, an ally waving for them to approach, or a text message asking them to move to a specific location. If your Intellect-based roll against the creature is successful, on their next turn they move up to a short distance to where you indicated, without thinking anything is amiss. The foe must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so you can’t make them step off of a roof or into a trash compactor. Once the creature moves to the designated location, they are free to act normally (depending on the circumstances, they might think they imagined or misheard the call, that someone is playing a trick on them, or there is something suspicious going on). The foe can still defend themselves normally and return an attack if one is made on them. Action.
+- Blend In
+- Expert Cypher Use
+- Expert Follower
+- Grand Deception
+- Lead by Inquiry
+- Mind Reading
+- Oratory
+- Perfect Stranger
+- Quick Wits
+- Spray
+- Telling
+
+##### Fourth-Tier Broker
+
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Anticipate Attack
+- Confounding Banter
+- Feint
+- Heightened Skills
+- Psychosis
+- Read the Signs
+- Spur Effort
+- Strategize
+- Suggestion
+- Robot Fighter
+
+##### Fifth-Tier Broker
+
+Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adroit Cypher Use
+- Control Machine
+- Discipline of Watchfulness
+- Experienced in Armor
+- Knowing the Unknown
+- Peaceblock Hack (4+ Intellect points): You hack a foe’s brain implant, triggering pain whenever they attempt to harm a creature you specify. The foe must be level 3 or lower and within short range. For the next minute, the foe’s harmful actions against the designated creature are hindered by two steps, and the foe automatically take 4 points of Intellect damage (ignores Armor) every time they try to touch, strike, or harm the designated creature. The foe immediately recognizes (without needing to attack first) that acting against the creature will be harmful. The foe knows when the effect ends, remembers the earlier aversion, and can immediately act normally.
+  In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target or increase the duration by one minute. Thus, to peaceblock a level 6 target (three levels above the normal limit) or block them for four minutes (three minutes above the normal duration), you must apply three levels of Effort.
+  Action to initiate.
+- Skill With Attacks
+- Stimulate
+
+Sixth-Tier Broker
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Battle Management
+- Crowd Control
+- Inspiring Success
+- Recruit Deputy
+- Shatter Mind
+- True Senses
+
+#### Tech
+
+The Tech type is a cyberpunk variant of the Adept without any overtly supernatural abilities. Hackers, medics, netrunners, choppers, and mechanics are usually Techs.
+
+Tech (the character type encompassing several kinds of character concepts) and tech (the flavor) aren’t the same thing. If you’re playing a character with the Tech type, feel free to write a more specific name (like “hacker” or “chopper”) on your character sheet if that’s your preference.
+
+##### Tech Stat Pools
+
+Stat Pool Starting Value
+- Might 7
+- Speed 9
+- Intellect 12
+You get 6 additional points to divide among your stat pools however you wish.
+
+##### First-Tier Tech
+
+First-tier Techs have the following abilities:
+- Effort: Your Effort is 1.
+- Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0.
+- Expert Cypher Use: You can bear three cyphers at a time.
+- Starting Equipment: Appropriate clothing, a communicator implant, and $5,200.
+- Weapons: You are practiced with light weapons, light firearms, and medium firearms without penalty. You have an inability with medium weapons (other than firearms) and all heavy weapons; your attacks with medium and heavy weapons are hindered.
+- Special Abilities: Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise.
+
+- Datajack
+- Distortion
+- Erase Memories
+- Extra Skill
+- Hacker
+- Interaction Skills
+- Knowledge Skills
+- Machine Interface
+- Optical Hack
+- Overheat Hack
+- Scramble Machine
+- Scramble Machine counts as a hack.
+- Sensor Scan
+- Tech Skills
+- Tinker
+
+Second-Tier Tech
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adaptation
+- Armored Chrome
+- Bonus Cypher App
+- Corpse Datadump (3 Intellect points): You touch the remains of a recently killed creature and make an Intellect-based roll to read data from its brain cybernetics. The GM sets the difficulty based on the amount of time that has passed since the creature died. A creature that has been dead for only a few minutes is a difficulty 2 task, one that has been dead for an hour is a difficulty 4 task, and one that has been dead for a few days is a difficulty 9 task. If you succeed, you can browse the corpse’s memories in a virtual environment as if you were speaking to its living self. This lasts about one minute, after which time the environment degrades. The creature is limited to what it knew in life, though it cannot recall minor memories, only big events of importance to it. When the effect ends, or if you fail the roll, the creature’s memory data becomes corrupted and you can gain no further information from it. Action.
+- Cutting Light
+- Distant Interface
+  Distant Interface counts as a hack. You can use it to affect a foe’s cyberware (such as moving a cybernetic arm or turning off a night vision implant) but your attack roll is hindered by two steps (similar to controlling a machine you’ve never interacted with before).
+- Extra Skill
+- Machine Efficiency
+- Paralysis Hack (3 Intellect points): You target a foe’s brain implants in an attempt to override their voluntary movement for one minute, freezing them solid with the strength of their own muscles. You must be able to see the target, and it must be within short range. Harming the foe, roughly moving them, or forcing their body to work against their own rigid muscles (such as bending their arms behind their back so you can handcuff them) ends the effect. You can’t use this ability on a creature that doesn’t have any brain implants. Action.
+- Understanding  
+
+##### Third-Tier Tech
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Adroit Cypher Use
+- Beckon Hack (3 Intellect points): You hack a foe’s brain implant, tricking them into hearing or seeing something they think they need to investigate. They might interpret this as someone calling their name, an ally waving for them to approach, or a text message asking them to move to a specific location. If your Intellect-based roll against the creature is successful, on their next turn they move up to a short distance to where you indicated, without thinking anything is amiss. The foe must be within short range and able to understand you. The command can’t inflict direct harm on the creature or its allies, so you can’t make them step off of a roof or into a trash compactor. Once the creature moves to the designated location, they are free to act normally (depending on the circumstances, they might think they imagined or misheard the call, that someone is playing a trick on them, or there is something suspicious going on). The foe can still defend themselves normally and return an attack if one is made on them. Action.
+- Countermeasures
+- Flex Skill
+- Improvise
+- Sensor Hack (4 Intellect points): You establish a connection with a camera-enabled device within short range, such as a security camera, smart TV or game console camera, optical cyberware of a creature (living or dead), or a mobile phone. At any time during the next 24 hours, you can see through this camera, no matter how far you move from it. (If the device also has a microphone, you can hear through that when you look through it.) Action to create; action to check.
+  Obviously, Sensor Hack is a hack, meaning that your connection with the device can be detected and counter-hacked, although it’s much harder to do so when you’re not actively using the camera.
+- Skill With Defense
+- Spray
+- Targeting Eye
+
+##### Fourth-Tier Tech
+
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Death Touch
+- Limited Camouflage (3 Speed points): You activate camouflage software that alters your appearance to match an adjacent large object such as a wall, cabinet, or vehicle. Everyone who was observing you completely loses track of you. Although you’re not invisible, you can’t be seen until you reveal yourself again by making an attack or moving away from the object. Action.
+- Multiple Skills
+- Peaceblock Hack (4+ Intellect points): You hack a foe’s brain implant, triggering pain whenever they attempt to harm a creature you specify. The foe must be level 3 or lower and within short range. For the next minute, the foe’s harmful actions against the designated creature are hindered by two steps, and the foe automatically take 4 points of Intellect damage (ignores Armor) every time they try to touch, strike, or harm the designated creature. The foe immediately recognizes (without needing to attack first) that acting against the creature will be harmful. The foe knows when the effect ends, remembers the earlier aversion, and can immediately act normally.
+  In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target or increase the duration by one minute. Thus, to peaceblock a level 6 target (three levels above the normal limit) or block them for four minutes (three minutes above the normal duration), you must apply three levels of Effort. 
+  Action to initiate
+- Projection
+  Projection requires a device with holographic capability be within an immediate distance of the desired location. Alternatively, you can project your image into the optic devices of any creatures in the area.
+- Robot Fighter
+- Task Specialization
+
+##### Fifth-Tier Tech
+
+Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Control Machine
+- Knowing the Unknown
+- Master Cypher Use
+- Practiced With Medium Weapons
+- Read the Signs
+- True Senses
+- Zeerosh Prime Delivery (6 Intellect points): You place an order for an item from the Zeerosh company (or a megacorp that fills a similar role in your GM’s cyberpunk setting) which is delivered to you within a few rounds. You can order any item you choose that would ordinarily have a crafting difficulty of 5 or lower and costs up to 1,000. Once created, the item lasts for a number of hours equal to 6 minus the difficulty to create it. Thus, if you create a set of sturdy manacles (difficulty 5), it would last for one hour. Action.
+  Zeerosh products are low-quality and tend to break quickly, but their custom 3D-printing and rapid delivery service for important customers are top notch.
+
+##### Sixth-Tier Tech
+
+Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
+- Amplify Sounds
+- SHITS Hack (7 Intellect points): A foe within short range temporarily experiences SHITS and spends its next turn attacking the nearest creature (if multiple creatures are the same distance away, you can choose which one they attack). As long as you continue to use your action each turn to maintain this berserk state in the target, they continue to attack the nearest creature (switching to a new creature if their current target drops). This effect ends when you stop using your action to control the foe, or if they are out of short range. Action to initiate.
+- Divide Your Mind
+- Question the Network (5 Intellect points): You send a digital query to any or all machines within 1 mile (1.5 km). Depending on the circumstances, this might be a wireless communication or transmitted through a hard data connection. You can ask one basic question about the machines or anything happening near them and receive a simple answer. For example, while in an area with many machines, you could ask about the location of a specific creature or individual, and if they are within a mile of you, one or more machines will probably provide the answer. Action.
+- Shatter Mind
+- Skill With Attacks
+- Skill With Defense
+- Total Awareness
+
+### Cyberpunk Descriptors
+
+#### Addicted
+
+You are addicted to a drug, probably something illegal, expensive, or both. You are usually in control enough to be a functional adult, holding down a job and maintaining some personal relationships, but the hunger is always there, threatening to fuck up your life. You have a unique insight about crime, or at least how to interface with the criminal world so you can get your next score. You know you have your addiction under control—your drug of choice helps you cope with your illness, or the crapsack world you live in. Or you’re looking for help. Or you need to hit rock bottom before you realize how serious your problem is. Or maybe you’re too stubborn to realize this’ll kill you sooner rather than later. People who know about your addiction might pity you, want to save you, or dismiss you as a junkie.
+
+You gain the following characteristics:
+- Survivor: If you weren’t as tough as you are, you’d already be dead—whether from an overdose, starting a fight while high and feeling immortal, or doing something stupid while high (like driving the wrong way on a highway). You get 2 additional points to divide among your Might and Speed Pools.
+- Addiction: You are addicted to one drug.
+- Unusual Skills: Your exposure to drugs and drug culture has given you a unique education. You become trained in your choice of two of the following skills: biology, chemistry, climbing, identifying, pickpocketing, running, seduction, sensing motive, sneaking.
+- All for Me: When the GM gives you 2 XP for a GM intrusion, you get to keep both of them instead of giving one to another player. You can do this one time, but this ability is renewed each time you make a ten-hour recovery roll.
+- Inability: Chemicals (of any kind) are hard for you to resist. Might and Intellect tasks to resist addiction, drugs, and chemical attacks (such as tear gas and tranquilizer darts) are hindered.
+- Additional Equipment: You have two doses of a drug of your choice that costs 50 or less per dose.
+
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+1. You think one of the PCs is or knows a cheap source for your drug of choice.
+2. You sobered up to discover that you had agreed to work with the other PCs.
+3. Another PC saved your life (perhaps from an overdose or hostile encounter with a dealer), and now you’re trying to repay them.
+4. One PC has been your friend since before you became an addict, and you want to keep them around.
+
+#### Corpo
+
+You have (or had) a successful career working for a megacorporation, climbing your way up through the ranks. You’ve kissed ass and backstabbed as much as you needed to in order to survive the capitalist rat race. You’re smart, manipulative, and observant. Maybe you’re still employed there, with a “safe” promotion that’s giving you some time to take a breather before your next goal. Maybe you were fired for cause, or cut loose to improve the corporation’s end-of-quarter profit. You might be a loyalist looking to get back in, or vengeful and ready to see what other opportunities avail you.
+
+If you have the Corpo descriptor, you should pick one of the megacorporations in the GM’s setting as part of your work history.
+
+You gain the following characteristics:
+- Team Player: +2 to your Intellect Pool.
+- Fake Smile: You can turn on the charm in order to get what you want. You’re trained in positive social interactions.
+- Cold Eyes: You can be ruthless when it suits you. You’re trained in intimidation.
+- Business Acumen: You know how megacorporations work. You’re trained in bureaucracy and corporate business.
+- Office Politics: You’re aware of how others can manipulate and charm people, and you notice when those tactics are used on you. You are trained in resisting persuasion and seduction.
+- Self-serving: You’re always looking out for number one—yourself. When you help another character, they gain no benefit from your help unless you are trained or specialized in that task.
+- Inability: Life in a climate-controlled corporate office has made you a little soft. Might defense tasks are hindered.
+- Additional Equipment: Your job has allowed you to a comfortable buffer in your savings account. Your starting money is increased by 250.
+
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+1. You charmed or intimidated another PC into bringing you along.
+2. The PCs knew that someone with megacorporation knowledge and connections would be helpful, and chose you.
+3. One of the PCs owed you a favor, and this is how you’ve decided they’re repaying it.
+4. You suspect that assisting the other PCs might give you a long-term advantage towards your goals or against your enemies.
+
+#### Engram
+
+A common refrain within this uncommon demographic. You’ve got some chrome—who doesn’t?—but you thought you were human at the core. As it turns out, you’re not a mammalian body with machine augmentations. You’re a machine intelligence housed in a body constructed from biological components. You’re an engram—an AI personality based on someone else’s consciousness.
+
+Short of an x-ray, invasive medical procedure, or catastrophic injury, you seem normal enough. You may have recently found out you’re an engram, harbor suspicions that something isn’t quite right, or begin the adventure oblivious to your own android nature.
+
+You gain the following characteristics:
+- Refined Consciousness: +4 to your Intellect Pool.
+- Machine Reflexes: You are trained in Speed defense.
+- Inorganic Components: Attacks based on poison, disease, or infection have no effect on you. Conversely, attacks that normally disrupt machines (such as an electromagnetic pulse) can affect you.
+- Computer Memory: You’re observant and good at making inferences based on what’s around you. You are trained in tasks related to figuring out how to solve problems with multiple solutions (like the best way to pack a truck, or the fastest route through the city). Enabler.
+- Inability: In the process of copying and transferring your consciousness, a few things got muddled—including your social skills. All tasks relating to pleasant social interaction are hindered.
+
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+1. You’re looking for others like yourself; you believe (perhaps incorrectly) that another PC is also an engram.
+2. Another PC was present when you discovered that you’re an engram; they may have even realized before you did.
+3. You’re looking for whoever made you; you may desire revenge, closure, or to express gratitude.
+4. You overheard the PCs discussing something interesting and warned them of a potential flaw in their plan.
+
+#### Furious
+
+You always feel like you’re a hair-trigger away from giving in to an unthinking rage. You may have a mild case of SHITS, or suffer an illness or injury that makes you prone to violent outbursts. You might do your best to hide it or control it, or perhaps you have given up trying to tame it and you let it run wild. Either way, it seems to cause you—and those around you—grief more often than not.
+
+You gain the following characteristics:
+- Relentless: +2 to your Might Pool and +2 to your Speed Pool.
+- Skill: You quickly respond to provocation. You are trained in initiative.
+- Time for Violence: If you don’t like the result of your die roll, you can reroll it as if you had spent 1 XP. Regardless of whether the roll succeeds or fails, using this ability triggers a SHITS GM intrusion as if you had rolled a 1. You can do this one time, but this ability is renewed each time you make a ten-hour recovery roll.
+  A SHITS GM intrusion usually means you act erratically or irrationally, which might mean you harm an ally or innocent bystander, but probably isn’t directly harmful to yourself. You usually can attempt an Intellect defense roll to ignore or lessen the effect of the intrusion, or spend 1 XP to refuse it.  
+- Inability: You find it hard to hold your anger back—it seeps through your skin even when you don’t mean it to, causing others to shy away from it. Positive social interactions are hindered.
+- Inability: Sometimes your anger overrides your good senses, causing you to act before you’ve properly assessed the situation. Perception is hindered.
+
+Initial Link to the Starting Adventure:
+
+From the following list of options, choose how you became involved in the first adventure.
+1. You are trying to get a handle on your anger, and you’re hoping that being with the other PCs will help you do so.
+2. You let your anger get the best of you recently, and now you’re running from the fallout.
+3. You believe that this adventure will provide you with a way to channel your ire, allowing you to use it for good.
+4. After seeing you fight, one of the other PCs invited you to join.
+
+#### Luddite
+
+You’ve made it this far without having any cybernetic implants—an extreme outlier in a world where they’re as common as eyeglasses. You should decide the reason why you don’t have any—religious objection, allergic to synthetic materials, poverty, or simply lucky (or talented) enough to never have needed them. You might be open and obvious about this, or try to keep it a secret (perhaps using scars or tattoos to make it look like you aren’t a luddite).
+
+You gain the following characteristics:
+- Natural Fitness: You’ve had to rely on your own natural organic abilities instead of technological implants. You get 4 additional points to divide among your Might and Speed Pools.
+- Resourceful: A lifetime of exploring non-cybernetic options has let you acquire skills in many areas. You’re trained in two areas of knowledge (such as computers, geography, or history) and two physical skills (such as climbing, jumping, or swimming).
+- Inability: At best, your aversion to cyberware makes it hard for people to take you seriously; at worst, they think you’re weak or a fool. Social interaction tasks to influence people with extensive cybernetics (GM’s discretion, but typically three or more implants) are hindered.
+- Unchromed: You have no cybernetics. If you ever do gain cybernetics (even unwillingly), you lose this descriptor and all of its characteristics. You can regain this descriptor if you have all of your cybernetics removed (and, at the GM’s discretion, complete a cleanse, recover, or restoration character arc); otherwise, you have no descriptor until you complete a character arc (perhaps explore, growth, or transformation) to gain a new one.
+- Additional Equipment: You have a smartphone. If some other starting aspect of your character (such as your type or focus) gives you cyberware (such as a communicator implant), you instead get money equal to the value of that implant.
+
+Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure.
+1. Another PC took pity on you when they realized you don’t have any cybernetics. (They probably assumed you’re poor or stupid, even if they don’t feel that way now.)
+2. One of the PCs invited you, and you’re not sure why, but you’ve decided you don’t want to let them down.
+3. Another PC recruited you before they realized you don’t even have any basic chrome.
+4. A chromed PC helped you overcome a bad situation; now you’re trying to make it up to them.
+
+### Cyberpunk Foci
+
+#### Appropriate Cyberpunk Foci
+
+The following foci from the Cypher System Rulebook are all appropriate for a cyberpunk setting and can be used as is.
+- Battles Robots
+- Builds Robots
+- Calculates the Incalculable
+- Crafts Unique Objects
+- Defends the Gate
+- Doesn’t Do Much
+- Drives Like a Maniac
+- Entertains
+- Explores Dark Places
+- Fights Dirty
+- Fuses Flesh and Steel
+- Fuses Mind and Machine
+- Helps Their Friends
+- Hunts
+- Infiltrates
+- Interprets the Law
+- Is Idolized by Millions
+- Is Licensed to Carry
+- Is Wanted by the Law
+- Leads
+- Learns Quickly
+- Lives in the Wilderness
+- Looks for Trouble
+- Masters Weaponry
+- Metes Out Justice
+- Moves Like a Cat
+- Murders
+- Needs No Weapon
+- Never Says Die
+- Operates Undercover
+- Performs Feats of Strength
+- Plays Too Many Games
+- Rages
+- Runs Away
+- Shepherds the Community
+- Solves Mysteries
+- Stands Like a Bastion
+- Throws With Deadly Accuracy
+- Wields Two Weapons at Once
+- Works for a Living
+- Works the Back Alleys
+- Works the System
+- Would Rather Be Reading
+
+#### Cyberware-Derived Abilities
+
+Various character abilities mentioned or described in this book are accompanied by this symbol. In a typical cyberpunk setting, these abilities are beyond what a normal human can achieve or accomplish. Therefore, if your character has that ability, the source of that ability is some kind of cyberware—something your character has acquired and installed.
+
+Your character doesn’t have to pay money for this cyberware or spend time having it installed; it happens as part of selecting that ability at character creation or when you gain the ability from advancement. Likewise, these cybernetics can’t be swapped out like other items from that section. If you replace that ability (such as by advancing to a new tier and replacing one of your existing abilities), the cyberware goes with it automatically, without spending time or money.
+
+These abilities don’t increase your likelihood of SHITS. However, just like other cybernetic devices, they do make you vulnerable to hacking and attacks that hamper or disable cybernetics.
+
+A character with the Luddite descriptor cannot choose an ability with this symbol; they first must change their descriptor (typically through a character arc) to something else, after which they’re able to select these abilities like any other character.
+
+For foci available from other sources (such as the Cypher System Rulebook), the GM should decide which of the character’s focus abilities fit this category. As a guideline, anything that obviously relies on technology, would be impossible for a regular person to do, or would require “special effects” if shown in a film or television show should require cyberware, which (like the foci presented here) happens automatically when the character selects that ability.
+
+#### Making Foci Cyberpunk
+
+The Cypher System Rulebook has nearly one hundred character foci to choose from, but some of them aren’t particularly suited for a cyberpunk campaign because they refer to magic, telepathy, or technology that isn’t available in this sort of setting. A focus such as Awakens Dreams is a reasonable choice for a fantasy setting, or even a modern or futuristic setting with psychic powers, but it would be out of place if used as-is for cyberpunk.
+
+This section gives advice on adapting these particular foci for a cyberpunk setting.
+
+Abides in Stone: The character’s body is an advanced prototype made of especially durable plastiflesh crafted into a human form. The player and GM should decide if the character’s mind is organic (and therefore their body is essentially a full-body prosthetic, or FuBo) or machine (making the character a humanoid AI or an android). If this technology was developed by a specific megacorporation and the character is “on the loose,” that megacorp is probably trying to track them down, and rival companies almost certainly want to take the character apart to reverse-engineer how their body works.
+
+Awakens Dreams: The character uses a combination of custom software and cybernetics to harness dream images and create realistic holograms of them. More advanced powers require nanobots (or similar specialized technology) that can give the holograms physical heft and the ability to interact with other creatures. Unless the GM wants teleportation to be an aspect of their setting, they should pick an alternative tier 6 ability in place of Chamber of Dreams, such as Infer Thoughts or Terrifying Gaze. Companies that make holograms and brainslides would love to get their hands on the character’s tech and use it to create incredible new devices.
+
+Controls Beasts: The character’s implants use a combination of pheromones, soothing subsonic tones, and brute-force organic hacks to befriend, tame, and repel animals. Alternatively, the character’s beast companion is a cybernetic animal with sympathetic software allowing the character to interact with them verbally or holophonically. In an urban cyberpunk setting, the character’s companion might be the only live animal that regular people ever see, potentially drawing attention due to curiosity, fear, or both.
+
+Descends From Nobility: It’s unlikely that the character actually has a “noble” title in the traditional sense, but in a cyberpunk setting they’d belong to an influential family, probably associated with a particular megacorporation, such as the adult child of a CEO or CTO. The character probably was raised with the expectation that they’d eventually inherit their parent’s role or otherwise take a prominent position within the company. (Contrast this focus with Is Idolized by Millions, where the character has influence because of their own merits and actions rather than coasting on their family reputation.)
+
+Howls at the Moon: Instead of a person cursed to transforming into a strange beast, the character is the recipient of experimental military technology that (outside of their control) sometimes switches to “war mode,” visibly enhancing their physique but causing a berserk state similar to SHITS. This might happen on five consecutive nights (perhaps due to the proximity of a military satellite broadcasting a signal) or occur at shorter but more frequent intervals, such as once every six days (perhaps due to some component needing to recharge or self-repair before it activates again).
+
+Separates Mind From Body: Similar to one with the Explores Cyberspace focus or other netrunning abilities, the character’s implants and software allow them to project their consciousness elsewhere as a digital avatar. They may accomplish this by hacking surveillance devices, controlling a camera- and hologram-enabled cloud of nanobots that can infiltrate tight spaces, or both. Telepathic abilities like Psychic Passenger work by copying a portion of the character’s mind and awareness into another person’s brain implants (even a standard communicator implant is sufficient).
+
+Talks to Machines: The character may have a unique organic brain that can easily interface with machines, extensive implants that effortlessly translate their thoughts and will to machine language, or an implanted AI (or the character’s mind has been taken over by an AI) that facilitates this sort of communication and control. In any case, the character’s ability to interact with machines is exceptional and rare, even in a world where cybernetics are common. A character with this focus will have quite a reputation, and various fixers and job brokers will want them as an asset.
+
+Fuses Flesh and Steel. This focus in the Cypher System Rulebook assumes a setting where cybernetics are rare or experimental. In particular, the Enhanced Body ability is powerful, but has a drawback that the character’s inorganic parts have to be repaired rather than healing naturally like flesh. In a typical cyberpunk setting, cybernetics have advanced beyond that early technology, and self-repair mechanisms (whether using nanobots or some other technology) allow a cyborg character to heal without needing repairs like a machine. The new cybernetic foci presented in this section present alternatives to Enhanced Body—less powerful, but without the requires-repair drawback. The GM may allow a character to choose Fuses Flesh and Steel as their focus, perhaps representing an older character with obsolete or “retro” technology, but most players who want a heavily-chromed character focus should instead select one of the new foci presented here.
+
+#### Cyberpunk Foci
+
+Some foci presented in this section provide a “type swap option” that allows a player to swap an ability that would otherwise be gained from their type for the indicated ability instead. A player doesn’t have to make the swap; they merely have the option. For instance, the Is a Walking Tank focus provides the option to gain the ability Hidden Shield instead of a type ability.
+
+##### Embeds Stealthtech
+
+Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are meant for stealth and infiltration. You almost certainly have synthetic materials and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. You grew up in the same neighborhood and have known each other since childhood.
+2. Pick one other PC. No matter how hard you try, they’re always able to spot you and see through your deceptions.
+3. Pick one other PC. Something about their organic parts and cybernetics means you two look a lot alike—close enough to be siblings.
+4. Pick two other PCs. You know about an important connection between them, something that even they don’t know about.
+
+Minor Effect Suggestion: You regain 1 point to your Speed Pool.
+Major Effect Suggestion: You can immediately take a second action during this turn.
+
+Tier 1
+- Fast Chrome: Your machine parts grant you +1 to Armor and +2 to your Speed Pool. Enabler.
+  Fast Chrome is a variant of Enhanced Body for a setting where cybernetics are common and have limited self-healing capabilities; it doesn’t grant as many Pool points as Enhanced Body, but doesn’t have the limited healing drawbacks.
+- Stealth Skills
+
+Tier 2
+- Cat’s Paw: You gain CatsPaw cybernetics that replace your organic feet. Enabler.
+
+Tier 3
+- Ability Choice: Choose either Confidence Artist or Limited Camouflage as your tier 3 ability.
+- Confidence Artist
+- Limited Camouflage (3 Speed points): You activate camouflage software that alters your appearance to match an adjacent large object such as a wall, cabinet, or vehicle. If you succeed at a stealth task, everyone who was observing you completely loses track of you. Although you’re not invisible, you can’t be seen until you reveal yourself again by making an attack or moving away from the object. Action.
+
+Tier 4
+- Better Surprise Attack
+
+Tier 5
+- Hard to See
+
+Tier 6
+- Ability Choice: Choose either Escape Plan or Perfect Speed Burst as your tier 6 ability.
+- Escape Plan
+- Perfect Speed Burst
+
+Embeds Stealthtech GM intrusions: The character’s overconfidence leads to a clumsy outcome. An overzealous maneuver places the character in harm’s way.
+
+##### Explores Cyberspace
+
+You’ve always been fascinated by cyberspace, its architecture, and the wealth of data it contains. You may have started out as a hacker, programmer, or data administrator, but viewing the internet on a screen was never enough for you. You’re driven by the urge to transcend your body, to enter a complete simulation of that nonsensical nonspace. You’re a netrunner, hooked on the thrill of jacking into the matrix, where you interact with physical manifestations of AI, software, and viruses.
+
+You might enter the matrix for legitimate reasons, such as for your job or education—or maybe you make a point of going where you’re not welcome, stealing and selling proprietary data. With access to a computer or terminal, you plug yourself in and you’re off to the races.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one PC. You’re convinced you’ve encountered them in cyberspace, but they don’t resemble their avatar offline.
+2. Pick one PC. You’ve previously worked for the same fixer but were siloed into different jobs.
+3. Pick one PC. When their identity was stolen by hackers, you helped clear things up.
+4. Pick one PC. Once, while you were netrunning and they were on watch, they fled from a physical threat and left you to fend for yourself. You’re fine, now, but wary around that character.
+
+Minor Effect Suggestion: Any foes or ICE in the frame freeze for one round.
+Major Effect Suggestion: Any foes or ICE in the frame are paralyzed by debilitating glitches.
+
+Tier 1
+- Datajack
+- Computer Programming
+- Characters who have chosen Datajack as a type ability should replace it with a different special ability selection from their type.
+
+Tier 2
+- Hacker
+
+Tier 3
+- Ability Choice: Choose either AI Assistant or Experienced Netrunner as your tier 3 ability.
+- AI Assistant (2 Intellect points): While in cyberspace, you summon an AI assistant that appears at any point you can see within a short range. The AI is a level 3 NPC with 15 health. The AI obeys your commands and does as you direct it. The AI remains until you dismiss it as an action or until it is killed. If the AI disappears because it was killed, you take 4 points of damage that ignore Armor and cannot summon the AI again until the next time you jack in. Action to initiate.
+- Experienced Netrunner (3 Intellect points): The more you practice netrunning, the more proficient you become. To flaunt your experience, roll a d6 when completing a netrunning task you have succeeded at previously. On an even result, the task you’re attempting is eased by two steps. On a roll of 1, the task is hindered. Enabler.
+
+Tier 4
+- Greater Inhanced Intellect
+- Floating in the Matrix: You are trained in navigating cyberspace. If you are already trained in navigating cyberspace, you become specialized. If you are already specialized, choose another area of knowledge (such as coding, research, or repairs). Enabler.
+
+Tier 5
+- Information Gathering
+
+Tier 6
+- Ability Choice: Choose either Machine Enhancement or Perfect Direction as your tier 6 ability
+- Machine Enhancement
+- Perfect Direction (5+ Intellect points): While in cyberspace, you can instantly return to any frame you’ve previously visited, bypassing any conduits or obstacles. You can transport willing creatures with you, with each creature requiring 1 additional Intellect point. Action.
+
+Explores Cyberspace GM Intrusions: A bit of lint or dust lodged in a datajack causes an unstable connection. Netrunning requires a working console or computer. Prolific data thieves may catch the attention of rivals and adversaries
+
+##### Hacks the Network
+
+AI and the countless networks integrated into every part of life are as ubiquitous as air and, to most people, about as noticeable. Not you. From the moment you first realized that networks ran on an underlying “Ur” tongue, a code of mathematics and logical symbols, you were hooked. It wasn’t your goal to learn everything you could about hacking computers so much as there was nothing else for you. As a thrown stone follows its trajectory, you learned to hack the network.
+As long as you have access to a computer, hand terminal, or other connection, you accomplish your goals by working the code. You might have a few extra pockets for high-energy snacks and spare storage medium, as well.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. You believe that this character shows potential for being an excellent hacker, but you don’t know if they would be interested in the rigorous training and practice required.
+2. Pick one other PC. This character once accidentally wrecked your computer.
+3. Pick one other PC. You promised this character you would ease their debts by hacking the places where they owe money and adjusting their balance downward.
+4. Pick one other PC. Something about this character interrupts your flow. If they’re next to you while you’re attempting a coding-related task, your efforts are hindered by one step.
+
+Minor Effect Suggestion: The network security measures or linked cameras are blinded for one round.
+Major Effect Suggestion: The network and all nearby connected machines power down for several rounds, up to one minute.
+
+Tier 1
+- Datajack
+- Computer Programming
+Characters who have chosen Datajack as a type ability should replace it with a different special ability selection from their type.
+
+Tier 2
+- Hack the Impossible
+
+Tier 3
+- Ability Choice: Choose either Network Tap or Experienced Coder as your tier 3 ability.
+- Network Tap
+- Experienced Coder: All app cyphers and programmed cyphers function at one level higher than normal. If given a week and access to a computer, you can tinker with app and programmed cyphers, changing their function to that of another cypher you had in the past. Enabler.
+
+Tier 4
+- Erased: You infiltrated the networks so completely that networked cameras can’t identify you. If your face comes up on automated recording devices, vulnerabilities you’ve previously exploited keep you from being recognized. When security officers recognize you, upon checking their records they’re told that you’re not who you seem to be, but rather someone unimportant, which you can use as an asset in any related persuasion or deception interaction. Enabler.
+
+Tier 5
+- Repeat Hack (5 Intellect points): You can control the functions of any machine, no matter how far from you it is, that you’ve previously exploited using Hack the Impossible, as long as it is networked to your current location. This effect lasts for ten minutes. Action.
+
+Tier 6
+- Ability Choice: Choose either Mind Surge or Machine Bond as your tier 6 ability.
+- Mind Surge
+- Machine Bond (8 Intellect points): You can control the functions of any machine that you’ve previously exploited using Hack the Impossible, as long as it is networked to your current location. Additionally, if you use an action to concentrate on the machine, you are aware of what’s going on around it (you see and hear as if you were standing beside it, no matter how far away you are). You must touch the machine to create the bond, but afterward, there is no range limitation. This bond lasts for a week. You can only bond with one machine at a time. Action to initiate.
+
+Hacks the Network GM Intrusions: It’s nearly impossible to write perfect code on the first try. Hackers who make a name for themselves can become targets of other hackers. Hacking requires a working computer, hand terminal, or other device.
+
+##### Has a Custom Drone
+
+You’re a genius with drones—building them, controlling them, and repairing them. You’ve created a unique drone with a limited artificial intelligence; it follows your commands like it’s an extension of your thoughts. As you advance, you learn and discover new ways to update your drone and give it additional abilities, and how to control multiple drones at once. You may think of your drone as a tool, pet, or sidekick; it sees you as a best friend or beloved parent.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. Your drone accepts commands from them as if they were you (but your commands take precedent).
+2. Pick one other PC. You built a drone for that character, but it promptly tried to kill them, so it had to be destroyed. You’re not sure what went wrong.
+3. Pick one other PC. You are certain that character is either an AI in a fully artificial body, or has a FuBo (full body cybernetic), even if they deny it.
+4. Pick one other PC. You created a level 1 robotic pet for that character that sometimes shows up but is usually off doing its own thing.
+
+Additional Equipment: Drone spare parts, drone tool kit.
+
+Minor Effect Suggestion: Your drone buddy jostles your foe, hindering its next turn by one step.
+Major Effect Suggestion: Your drone buddy takes an immediate extra action that you choose.
+
+Tier 1
+- Drone Buddy: A robot drone about the size of a small dog (built by you) accompanies you and follows your instructions. When within long range, you can wirelessly communicate with and control the drone and it can transmit what it sees and hears to you. You and the GM must work out the physical details of your drone. You’ll probably make rolls for it when it takes actions. A drone in combat usually doesn’t make separate attacks but helps with yours. On your action, if the drone is next to you, it serves as an asset for one attack you make on your turn. If the drone is destroyed, you can repair the original with a few days’ worth of tinkering, or build a new one with a week’s worth of half-time labor. Enabler.
+- Robot Builder: You are trained in tasks related to building and repairing robots. For the purposes of repair, you can use this skill to heal robots and repair cybernetics that use similar technology. Enabler.
+
+Tier 2
+- Robot Control (2+ Intellect points): You use your knowledge of robot command and control (and possibly devices that transmit on the proper frequency) to affect any mechanized system or robot of level 2 or lower within short range. You can render several targets inactive for as long as you focus all your attention on them. If you focus on just one target, you can attempt to take active control of it for one minute, commanding it to do simple tasks on your behalf while you concentrate. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the mechanized system or robot. Thus, to affect a level 4 target (two levels above the normal limit), you must apply two levels of Effort. Action to initiate.
+
+Tier 3
+- Ability Choice: Choose either Coordinated Actions or Expert Drone as your tier 3 ability.
+- Coordinated Actions: When you and your drone from the Drone Buddy ability are within immediate distance of each other, you inflict 2 additional points of damage when you attack and both of you gain an asset to defense actions. Enabler.
+- Expert Drone: The drone from your Drone Buddy ability advances to level 3. You can either gain (build) a secondary drone, or add +1 Armor to your primary drone. Enabler.
+
+Tier 4
+- Drone Upgrade: You modify your primary drone with one new capability. Standard options include the following. Work with your GM if you prefer a different capability.
+- Amplify. When the drone is within an immediate distance of you, it eases your wireless actions (such as hacking, broadcasting, or activating a machine). Enabler.
+- Defense Mode. The drone can reconfigure itself into armor for a person you designate (typically protecting their head and torso), providing +1 Armor. Action to become armor or return to its normal form.
+- Improved Flight. The drone can fly a long distance each round. It is strong enough to carry you, moving a short distance each round for up to one minute; after carrying you, the drone’s tasks are hindered for one hour. Enabler.
+- Increased Range. Your communication range with your drone increases to very long range.
+- Integrated Weapon. The drone has an integrated medium weapon such as a blade, pistol, or monowire. If the weapon uses bullets, it can hold up to 30 of them. You can allow the drone to attack on its own, or you can wield it as a weapon and make eased attacks with it. Enabler, or action to reload the drone’s bullets.
+- Medical Intervention: The drone has a hypo injector filled with hospital-grade emergency drugs. Using the hypo on a living creature heals them points equal to the drone’s level (Might for PCs, health for NPCs). The drone cannot use this ability again until after your next recovery roll. Enabler.
+- Relay Signal Extender. Using your wireless connection to the drone, you can bounce your wireless actions (such as hacking, broadcasting, or activating a machine) through it, using those abilities as if you were where the drone is. Tasks relayed through the drone are hindered by one step. Action.
+
+Tier 5
+- Premium Drone: Your primary drone’s level increases to 4. If you have a secondary drone from the Expert Drone ability, its level increases to 3; otherwise, your primary drone gains +1 to Armor. Enabler.
+
+Tier 6
+- Ability Choice: Choose either Drone Evolution or Drone Split as your tier 6 ability.
+- Drone Evolution: Your primary drone’s level increases to 5, and you build up to four fleet drones of the same or smaller size as the primary drone. If a fleet drone is destroyed, you can build a new one (or repair the old one from its parts) after a week of half-time labor. Enabler.
+- Drone Split: Your primary drone can split into two identical drones with all of the abilities of the primary drone. The split drones are each one level lower than the primary drone (so a level 4 primary drone becomes two level 3 drones). When they recombine, apply the damage from the more injured drone to the primary drone’s health. If one of the two drones is destroyed, you can repair the primary drone as described in Drone Buddy. Action to split or recombine.
+
+Has a Custom Drone GM intrusions: The drone gets hacked. The drone acts erratically. The drone runs out of power. The drone thinks an ally is a foe.
+
+##### Has Eyes Everywhere
+
+Let’s be honest: you live in a surveillance state. Security cameras on every corner, smartphones that track the user’s activity, cybernetics that track the wearer’s movements … It’s nearly impossible to avoid being tracked, but you’ve made the most of it. You hack into these surveillance networks and use your unauthorized access to monitor your environment.
+
+It’s up to you what you do with this access. You may serve as a lookout for criminal associates, work dispatch for local vigilantes, or just keep an eye on the neighborhood. You likely have multiple phones and computers, alternating between them to obfuscate your activities.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. When they were caught on camera committing a crime, you deleted the footage before anyone else saw it.
+2. Pick one other PC. You taught them how to prevent their cyberware from sharing their location with the manufacturer.
+3. Pick one other PC. Your hacking skills—and how you use those skills—seem to make that character nervous.
+4. Pick one other PC. You were once hired to track down someone that character was protecting.
+
+Minor Effect Suggestion: Something you see provides information that eases your next action by one step.
+Major Effect Suggestion: Other individuals using the surveillance network are logged out for up to a minute.
+
+Tier 1
+- Datajack
+- Stealth Skills
+Characters who have chosen Datajack as a type ability should replace it with a different special ability selection from their type.
+
+Tier 2
+- Camera Sight (3+ Intellect points): This ability has two different options.
+  One, you become aware of all security cameras within long range.
+  Two, you can hack a security camera that you are aware of that is within one mile (XX km), allowing you to see through the camera’s vantage point for up to 10 minutes.
+  If you activate this ability and apply a level of Effort, you can gain the benefit of both options at once. Action to initiate.
+
+Tier 3
+- Ability choice: Choose either Awareness or Surveillance Overwatch as your tier 3 ability.
+- Awareness
+- Surveillance Overwatch (3 Intellect points): When you use your Camera Sight ability to assess a situation and warn another character of an impending threat, that character’s next defense roll against the threat you’ve spotted is eased. Likewise, if you use Camera Sight to advise a character of a foe’s weakness, that character’s next attack roll against that foe is eased. Action to initiate.
+
+Tier 4
+- Greater Enhanced Intellect
+- Find by Phone (3 Intellect points): If you know someone’s full name, phone number, or some other identifier, you can determine the approximate location (within 100 feet or 30 m) of their smartphone, computer, or other portable device. Action.
+
+Tier 5
+- Enhanced Camera Sight (5 Intellect points): Using your Camera Sight ability, you can either look through two security cameras simultaneously, look through one security camera that is up to 5 miles (8 km) away, or look through one camera for up to 30 minutes. Action to initiate.
+
+Tier 6
+- Ability choice: Choose either Machine Enhancement or 360° Vision as your tier 6 ability
+- Machine Enhancement
+- 360° Vision (6+ Intellect points): You become aware of all security cameras, smartphones, computers, and other small surveillance device within long range. You can immediately hack such a device, either one you just detected or one you know of that is within 10 miles (XX km), allowing you to see from that camera’s vantage point for one hour. In addition to the normal options for applying Effort, you can use Effort to affect additional cameras (one per level of Effort), increase the duration (one hour per level of Effort), or increase your range (another long distance of detection or 10 miles of access per level of Effort) in any combination. Action to initiate.
+
+Has Eyes Everywhere GM Intrusions: Security cameras malfunction. Video data is corrupted or deleted. Subjects of surveillance may attempt to retaliate.
+
+##### Is a Walking Tank
+
+Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are meant for defense and protecting others. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. This character protected you from harm recently, and you feel indebted to them for saving your life.
+2. Pick one other PC. They think you are an incredibly selfish person, perhaps based on their belief that you always save yourself first.
+3. Pick one other PC. You once fought on opposite sides of a combat.
+4. Pick one other PC. Something about them makes you feel very protective toward them.
+
+Minor Effect Suggestion: You gain +1 to Armor for one round.
+Major Effect Suggestion: You regain 2 points to your Might Pool.
+
+Tier 1
+- Type swap option: Hidden Shield: You have a shield built into your body (probably your arm) made of a composite of metal and advanced polymers. The shield is concealed until you wish to use it. You are practiced in using the shield in one hand as a light melee weapon. Furthermore, as part of an attack action you can make a melee attack with the shield, but if you do so the main attack and shield attack are both hindered. Enabler.
+- Tank Chrome: Your machine parts grant you +1 to Armor and +2 to your Might Pool. Enabler.
+  Tank Chrome is a variant of Enhanced Body for a setting where cybernetics are common and have limited self-healing capabilities; it doesn’t grant as many Pool points as Enhanced Body, but doesn’t have the limited healing drawbacks.
+
+Tier 2
+- Defensive HUD (2+ Intellect points): You upgrade your chrome with heads-up display (HUD) systems that help you make sense of, analyze, and use your defenses in your environment. When you trigger this ability, you gain an asset on one defense roll as your software outlines foes and predicts their attacks.
+  Alternatively, you can use the heads-up display to magnify your vision, increasing your vision range to 5 miles (8 km) for two rounds.
+  If you apply one level of Effort, you can also see through basic materials (such as wood, concrete, plastic, and stone) to a short distance in false color images. If you apply two levels of Effort, you can see through special materials (such as solid lead or other substances) to an immediate distance in false color images; however, the GM might require you to succeed at an Intellect-based task first, depending on the material blocking your armor’s sensors. Enabler.
+
+Tier 3
+- Ability Choice: Choose either Hidden Shield or Enhanced Armor as your tier 3 ability.
+- Enhanced Armor: You upgrade your hardware to give you armor plating, subdermal implants, or some other material that provides physical protection. This change changes give you +1 to Armor. Enabler.
+- Hidden Shield: You have a shield built into your body (probably your arm) made of a composite of metal and advanced polymers. The shield is concealed until you wish to use it. You are practiced in using the shield in one hand as a light melee weapon. Furthermore, as part of an attack action you can make a melee attack with the shield, but if you do so the main attack and shield attack are both hindered. Enabler.
+
+Tier 4
+- Living Wall
+
+Tier 5
+- Deep Reserves
+
+Tier 6
+- Ability Choice: Choose either Embedded Drone or Ultra Enhancement as your tier 6 ability.
+- Embedded Drone (3 Intellect points): Your chrome now has an embedded drone that you can launch and control for up to an hour. The drone is no larger than 1 foot (30 cm) on a side. It has manipulators, allowing it to attempt to accomplish physical tasks, and a built-in medium pistol that it can use to make attacks. The drone can immediately take an action on the turn that you launch it. You’ll probably make rolls for your drone when it takes actions. A drone in combat usually doesn’t make separate attacks but helps with your defenses. On your action, if the drone is next to you, it serves as an asset for one defense roll you make on your turn. If the drone is destroyed, you can spend 2 XP to rebuild it. Action to initiate.
+- Ultra Enhancement
+
+Embedded drone: level 4, long-range embedded pistol inflicts 4 damage, flies a short distance each round
+
+Is a Walking Tank GM intrusions: Armor or a defensive system is damaged. Cybernetics suffer a temporary power loss. The chrome acts under its own power.
+
+##### Knows Everything
+You’re a know-it-all. You’ve always been curious, likely to be found with your nose in a book and several wiki articles pulled up on your computer. In your school days, you were probably a good student and skilled researcher. In the present, your primary hobby is gathering knowledge. You know what questions to ask, and where to look for the answers.
+
+Your mental cybernetics have improved your memory and given you nigh-unlimited access to information. You’re a mental powerhouse—and eager to keep learning.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. You overheard them spouting inaccurate information and stepped in to provide a correction.
+2. Pick one other PC. You want them to think highly of you, so you’ve researched their interests in order to make conversation.
+3. Pick one other PC. This character always tries to stump you, but they haven’t succeeded.
+4. Pick one other PC. You inadvertently deduced and revealed something they were trying to keep secret.
+
+Minor Effect Suggestion: You gain an insight that eases your next action by one step.
+Major Effect Suggestion: Your intellectual prowess intimidates a foe into retreating from the conflict.
+
+Tier 1
+- Datajack
+- Knowledge Skills
+Characters who have chosen Datajack as a type ability should replace it with a different special ability selection from their type.
+
+Tier 2
+- Scan
+
+Tier 3
+- Ability Choice: Choose either Network Tap or Action Processor as your tier 3 ability.
+- Network Tap
+- Action Processor
+
+Tier 4
+- Greater Enhanced Intellect
+- Knowledge Skills
+
+Tier 5
+- Information Gathering
+
+Tier 6
+- Ability Choice: Choose either Mind Surge or Knowing the Unknown as your tier 6 ability.
+- Mind Surge
+- Knowing the Unknown
+
+Knows Everything GM Intrusions: Research leads to dead ends or falsehoods. Some people don’t trust a person with such powerful mental enhancements.
+
+##### Packs Chromed Heat
+
+Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and they assist you with ranged combat. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. This person has a bad habit of getting in the way of your shot. Anytime you miss and the GM rules (typically with a GM intrusion) that you hit an ally, it’s usually them.
+2. Pick one other PC. While working together on a job, you accidentally shot them. Not only are you not sure they’ve forgiven you for it, you’re embarrassed by your clumsy error.
+3. Pick one other PC. You suspect this person has a close connection with someone you had to kill. So far, they don’t know who was responsible.
+4. Picked one other PC. You worked together on a job that went bad, but some clever teamwork and a bit of luck got you both out alive.
+
+Minor Effect Suggestion: You can attempt an intimidation task against your foe as part of this action; if you succeed, the foe immediately surrenders.
+Major Effect Suggestion: Your attack makes the foe bleed for 1 point of damage (plus 1 point for every level of Effort added to the attack’s damage) each round until someone uses an action to bind the wound.
+
+Tier 1
+- Type swap option: Smart Link: You gain smart link cybernetics in both of your hands. Enabler.
+- Shooter Chrome: Your machine parts grant you +1 to Armor and +2 to your Speed Pool. Enabler.
+  Shooter Chrome is a variant of Enhanced Body for a setting where cybernetics are common and have limited self-healing capabilities; it doesn’t grant as many Pool points as Enhanced Body, but doesn’t have the limited healing drawbacks.
+- Gunner
+
+Tier 2
+- Careful Shot
+
+Tier 3
+- Ability Choice: Choose either Damage Dealer or Embedded Pistol as your tier 3 ability.
+- Damage Dealer
+- Embedded Pistol: You gain an embedded pistol cybernetic in one of your arms. You are trained in using this weapon. (If you replace this embedded weapon with another, you lose the training in the previous weapon and gain training in the new one.) Enabler.
+
+Tier 4
+- Snap Shot
+
+Tier 5
+- Mastery With Attacks
+
+Tier 6
+- Ability Choice: Choose either Advanced Targeting System or Lethal Damage as your tier 6 ability.
+- Advanced Targeting System (5 Intellect points): You gain a limited AI that assists you in eliminating a chosen foe. Choose one target you can see within very long range. For the next ten minutes, you gain an asset to all tasks (including attacks and defenses) involving that target. You can only use the advanced targeting system against one creature at a time. Enabler.
+- Lethal Damage
+
+Packs Chromed Heat GM intrusions: A firearm jams or overheats and can’t be used for a couple of rounds (perhaps requiring the character to take an action to correct the problem). A software error makes the character attack the wrong foe.
+
+##### Weaponizes Chrome
+
+Some of your organic parts have been replaced with artificial components. Like most people in the city, you are a cyborg, but your augmentations are extensive, and your chrome parts are specialized for melee combat. You almost certainly have metal plating and technical components visible on your skin. As you advance, you can add to, modify, or discover new functions for your machine parts.
+
+Connection: Choose one of the following, or choose one of the Focus Connections in the Cypher System Rulebook.
+1. Pick one other PC. You think they shows potential for learning your combat style (and choice of chrome), but you’re not necessarily qualified to teach them.
+2. Pick one other PC. They once paid for repairs on a treasured item you own. You feel like you owe them, even though you may have already paid them back.
+3. Pick one other PC. You once saved their life, and they clearly feel indebted to you (you wish they didn’t, it was just part of the job).
+4. Pick one other PC. This person recently mocked your combat stance. How you deal with this (if at all) is up to you.
+
+Minor Effect Suggestion: Your software learns from your successful actions, granting you an asset on a similar action involving the same task (such as making attacks against the same foe or operating the same device).
+Major Effect Suggestion: Make an additional attack with a melee weapon as part of your turn.
+
+Tier 1
+- Type swap option: Integrated Weapon: One light or medium melee weapon of your choice (such as a mantis blade or monowire) is built into one of your arms. The weapon is concealed until you wish to use it. Enabler.
+- Melee Chrome: Your machine parts grant you +1 to Armor, +1 to your Might Pool, and +1 to your Speed Pool. Enabler.
+- Melee Chrome is a variant of Enhanced Body for a setting where cybernetics are common and have limited self-healing capabilities; it doesn’t grant as many Pool points as Enhanced Body, but doesn’t have the limited healing drawbacks.
+- Bash
+
+Tier 2
+- Weapon Defense
+
+Tier 3
+- Ability Choice: Choose either Heavy Integrated Weapon or Rapid Attack as your tier 3 ability.
+- Heavy Integrated Weapon: You must have at least one gorilla arm to select this ability. One heavy melee weapon of your choice (such as a chainsaw or omega bat) is built into your gorilla arm. The weapon is concealed until you wish to use it. Enabler.
+  If you have both Integrated Weapon and Heavy Integrated Weapon, each weapon is built into a different arm.
+- Rapid Attack
+
+Tier 4
+Reliable Weaponry: Choose one of your weapons. If you roll a natural 1 when attacking with that weapon, you can ignore or countermand the GM intrusion for that roll. If it isn’t an embedded weapon, you can never be disarmed of it, nor will you ever drop it accidentally. If it is an embedded weapon, it can’t be damaged or destroyed unless you allow it or you deliberately attempt to do so (such as sticking it in molten steel). Enabler.
+
+Tier 5
+- Extreme Mastery
+
+Tier 6
+- Ability Choice: Choose either Lethal Damage or Ultra Enhancement as your tier 6 ability.
+- Lethal Damage
+- Ultra Enhancement
+
+Weaponizes Chrome GM intrusions: The character’s weapon moves two steps down the object damage track. The character’s weapon gets stuck in the foe (or their corpse) and can’t be used until the character uses an action to pull it free.
+
+## Equipment
+
+  
+
+In a cyberpunk campaign, use the following currency amounts for starting characters and allow them to purchase items normally from this section.
+
+• Broker (Speaker): Appropriate clothing, a communicator implant, and $5,200.
+
+• Hotshot (Explorer): Appropriate clothing, a communicator implant, and $5,300.
+
+• Solo (Warrior): Appropriate clothing, a communicator implant, and $5,700.
+
+• Tech (Adept): Appropriate clothing, a communicator implant, and $5,200.
+
+  
+
+Selling Equipment
+
+If you’re in need of cash or credit, you can sell unwanted equipment, such as the little gun you no longer need now that you have a bigger gun, or a bit of tech you’ve looted from the corpse of someone who tried to kill you.
+
+In the olden days, you’d have to go to a pawnbroker, consignment store, or (for weapons) a gun dealer or gun show, but nowadays various companies (including megacorporations, particularly JimBob AgriBiz and Oleg NutricCorp) have reverse-vendor kiosks in every neighborhood of every major city; just scan your item, get a quote (usually one-third to one-half the retail price of the item), drop it into the kiosk’s hopper, and immediately receive a cashcard or get money sent to your account. The kiosk scanner automatically reports any illegal items it scans to the city police—but it still pays you for them. Likewise, if the scan identifies an item used to commit a crime (such as a legal pistol used in a cold-blooded murder), the kiosk reports it. The kiosk also records your image and uses facial recognition to identify you, which is how many dumb criminals get caught. The kiosk dumps its bought materials into an underground receptable (not accessible from the sidewalk) which is emptied and sorted by the owner on a regular basis.
+
+If you want to avoid the automatic surveillance of a kiosk, or want to get more money for your items, you’ll need to find an interested buyer. Preferably one who is trustworthy, or at least not going to rip you off. At best, you might get 75% of the item’s value instead of just 30–50%, but these kinds of transactions often have strings attached.
+
+  
+
+Weapon Variations
+
+Although most weapons you’ll find in shops (or the hands of foes) are mass-produced and essentially identical to all the others of that make and model, some weapons have a quirk that makes them unusual—sometimes good, sometimes bad, sometimes a little of both. For example, a pistol might inflict extra damage on a roll of 19 or higher, have double the normal ammunition capacity, or jam more often. The GM will let you know if a particular weapon has a variation.
+
+  
+
+Weapons
+
+|   |   |   |
+|---|---|---|
+  
+|Light Weapons (2 points of damage, attack eased)|Price|Notes|
+|CancelYou® stunner pistol|$300|Short range, nonlethal|
+|Falling Blossom® subtle needler|$700|Immediate range, see text|
+|Handaxe|$30|Attacks eased against wooden objects|
+|Knife|$30||
+|Light katana|$200–$400||
+|Light pistol|$400|Short range|
+|Light Sukurajima® pistol|$1,000|Short range, adds +1 electricity damage|
+|Light Xaphan® pistol|$800|Short range, adds +1 fire damage|
+|Light Zeerok Blank® pistol|$100|Short range, no reload|
+|Mantis blade, knife configuration|$7,000|Cybernetic|
+|Nightstick|$50||
+
+Technically, a light katana is something like a wakizashi and a heavy katana is a nodachi, but most (ignorant, non-Japanese) people call all of them “katanas”.
+
+  
+
+|   |   |   |
+|---|---|---|
+  
+|Medium Weapons (4 points of damage)|Price|Notes|
+|Basbeball bat|$50||
+|Firefighter’s axe|$100|Attacks eased against wooden objects|
+|Leg blade|$8,000|Cybernetic|
+|Machete|$75||
+|Mantis blade, sword configuration|$7,000|Cybernetic|
+|Medium katana||$500–$1,000|
+|Medium pistol|$600|Long range|
+|Medium Raptor® smart pistol|$1,500|Short range, AI-assisted targeting|
+|Medium rifle|$800|Long range|
+|Medium sniper rifle|$1,600|Very long range|
+|Medium Sekhmet® rifle|$1,500|Long range, adds +1 fire damage|
+|Medium Sukurajima® pistol|$1,500|Short range, adds +1 electricity damage|
+|Medium Xaphan® pistol|$1,200|Short range, adds +1 fire damage|
+|Medium Zeerok Blank® pistol|$150|Short range, can’t be reloaded|
+|Monowire|$7,000|Cybernetic|
+|Submachine gun|$800|Medium weapon, short range, rapid-fire|
+
+Most rifles require two hands to use, but can be fired one-handed as a hindered attack.
+
+  
+
+|   |   |   |
+|---|---|---|
+  
+|Heavy Weapons (6 points of damage)|Price|Notes|
+|Assault rifle|$1,400|Long range, rapid-fire|
+|Double-barrel break-action shotgun|$800|Immediate range*, rapid-fire|
+|Heavy katana|$1,000–$2,000||
+|Heavy pistol|$800|Long range|
+|Heavy Raptor® pistol|$1,700|Long range, AI-assisted targeting|
+|Heavy rifle|$1,000|300-foot (90 m) range|
+|Heavy sniper rifle|$1,800|Very long range|
+|Heavy Sekhmet® rifle|$1,800|Long range, adds +1 fire damage|
+|Heavy Sukurajima® pistol|$1,700|Long range, adds +1 electricity damage|
+|Heavy Xaphan® pistol|$1,500|Long range, adds +1 fire damage|
+|Heavy Zeerok pistol|$350|Short range, no reload|
+|Omega bat®|$200||
+|Single-barrel automatic shotgun|$1,300|Immediate range*, rapid-fire, unreliable|
+|Single-barrel break-action shotgun|$500|Immediate range*|
+|Single-barrel pump-action shotgun|$800|Immediate range*, rapid-fire|
+|Single-barrel semi-automatic shotgun|$1,000|Immediate range*, rapid-fire|
+
+* Although it is an immediate-range weapon, extreme range for a shotgun extends out to short range (instead of just at the limit of immediate range).
+
+Attacking against targets at the limit of a weapon’s range are hindered.
+
+  
+
+Ammunition
+
+|   |   |   |
+|---|---|---|
+  
+|Buckshot (10)|$20|For shotguns only|
+|Bullets (10)|$20||
+|Falling Blossom® darts (4), kayumi|$40|Hindering poison|
+|Falling Blossom® darts (4), habu|$60|Speed damage poison|
+|Falling Blossom® darts (4), mamushi|$80|Might damage poison|
+|Falling Blossom® darts (4), kanashibari|$160|Paralysis poison|
+
+  
+
+Weapons
+
+The weapons in this section often have unusual or exceptional abilities, the potential for extra effects, or additional options in the hands of specially trained or cybernetically enhanced characters. Such weapons include suggestions for minor effects, major effects, and GM intrusions.
+
+  
+
+Obsolete Firearms
+
+Humans have been inventing and using firearms for hundreds of years. The weapons section of this artif provides game stats for the most commonly available cyberpunk-modern firearms that are manufactured by various megacorporations. Of course, countless firearms made in previous centuries still exist in private homes, farms, museums, and so on, but most of these are long neglected and are prone to misfire or simply don’t work at all. The ones maintained by skilled hands are still reliable, but lack most of the features that modern users rely on, or are too valuable to be used in the streets.
+
+  
+
+Firearms Clip Size
+
+Unless otherwise stated, a firearm holds ten bullets. Reloading a weapon (either with individual bullets or swapping in a new clip) is an action.
+
+  
+
+Even in a dangerous city, carrying weapons other than knives or pistols tends to attract attention. A character brandishing a katana, rifle, shotgun, or other large weapon will frighten civilians (usually causing them to flee area at the hint of a confrontation) and draw police like flies to a corpse.
+
+  
+
+Assault rifle: A heavy rifle that can be used in single-fire mode (firing one bullet per pull of the trigger) or rapid fire (continues firing as long as the trigger is squeezed).
+
+Automatic firing over several rounds tends to overheat and damage the weapon, cause misfires, or even caused a chambered bullet to detonate from the heat, all of which are potential GM intrusions.
+
+  
+
+Buckshot (ammunition, 10): Ten shells packed with small metal pellets for use in a shotgun, intended for hunting large game such as deer. The pellets tend to spread out as they travel; you can make an eased attack against one target within immediate range. Alternatively, you can fire buckshot at up to three adjacent targets at once; make a separate hindered attack roll against each target.
+
+  
+
+Bullets (ammunition, 10): A pack of ten bullets for a pistol or rifle, or ten slug cartridges for a shotgun.
+
+  
+
+CancelYou® stunner pistol: This Halo-manufactured light weapon looks like a cross between a heavy flashlight and a pistol with a snub nose. It launches multiple metal darts at one creature, with each dart trailing a thin wire, and releases a strong electrical current through the wires into the creature. The stunner fires out to short range, but attacks beyond immediate range are hindered because the darts tend to go astray. A struck creature of level 2 or lower falls prone and can’t take actions for a round or two; PCs and creatures of level 3 or higher do not fall prone or lose their actions, and instead are hindered by two steps for the next round or two. Retracting the wires for another shot is an action; the weapon usually can be fired two or three times before it needs a one-hour recharge. CancelYou GM intrusion suggestion: The weapon strikes and stuns a bystander; the weapon causes a medical complication that inflicts 4 points of damage (ignores Armor) to the creature.
+
+  
+
+Falling Blossom® Subtle Needler: Manufactured by Kaisha, this flat synthetic skin patch adheres to the back of your hand or wrist. Its sensors can detect when you make a “finger gun” gesture with that hand, firing a toothpick-sized needle at a target within immediate range. The needler is a light weapon that inflicts 1 point of damage; most users use pre-poisoned needles for additional effect. The weapon holds four needles. Due to the size and delicate structure of the weapon, reloading one needle is an action. Your tasks to conceal a worn subtle needler are eased by two steps. GM intrusion suggestion: The character accidentally fires the needler with a careless gesture, hitting themselves or an unintended target.
+
+  
+
+Falling Blossom® darts (4), kayumi: These darts are pre-loaded with a level 2 poison that causes itching and swelling, hindering the target’s physical actions for ten minutes.
+
+  
+
+Falling Blossom® darts (4), habu: These darts are pre-loaded with a level 2 poison that inflicts 2 points of Speed damage (ignores Armor).
+
+  
+
+Falling Blossom® darts (4), mamushi: These darts are pre-loaded with a level 2 poison that inflicts 2 points of Might damage (ignores Armor).
+
+  
+
+Falling Blossom® darts (4), kanashibari: These darts are pre-loaded with a level 2 poison that causes paralysis for ten minutes.
+
+  
+
+Omega bat®: This Oleg NutriCorp heavy weapon normally looks like an oversized metal baseball bat. With a touch, you can extend dozens of small spikes or studs from its striking end, allowing you to inflict bashing or piercing damage. You can extend or retract these as part of another action.
+
+  
+
+Raptor® Smart Pistol (medium or heavy): This Immortech pistol has an AI assistant that increases accuracy. If the wielder uses an action to aim at a target, or uses a level of Effort to ease the attack against the target, the AI locks on to that target, granting the wielder an asset to all later attacks with the pistol against that target (by a combination of steering the wielder’s hand and curving the bullets mid-flight). The target lock ends if the wielder shoots at a different target or stops holding the weapon. Using the AI requires the user to have Smart Link cyberware installed (without it, the weapon works like a standard medium pistol). GM intrusion suggestion: The weapon locks on a friendly or neutral target and remains locked until the wielder uses an action to force a lock on a different target.
+
+  
+
+Sekhmet® Rifle (medium or heavy): This Immortech rifle coats its bullets with an incendiary substance that ignites when fired, inflicting 1 point of fire damage in addition to the normal bullet damage. This has the side effect of acting like a tracer round. Minor effect suggestion: The target catches fire, taking 1 point of damage on the attacker’s turn each round until someone uses an action to douse the flame. Major effect suggestion: The target catches fire (same as the minor effect); the smoke and flames partially blind them for one round, hindering their tasks. GM intrusion suggestion: The gun misfires, setting the attacker on fire (as per the major effect).
+
+  
+
+Shotgun: A long-barreled heavy firearm that shoots a cartridge loaded with either a slug (a single metal projectile, essentially a heavy bullet) or buckshot. A shotgun is a heavy weapon; it can be fired (but not chambered or reloaded) one handed, but the attack is hindered. Sawing off most of a shotgun’s barrel turns it into a medium weapon, but most attachments won’t fit on the altered barrel.
+
+Although it is an immediate-range weapon, extreme range for a shotgun extends out to short range (instead of just at the limit of immediate range).
+
+The various shotgun configurations dictate how many barrels it has (single or double) and how new shells are chambered after a shot (break-action, pump-action, or semi-automatic).
+
+Single-barrel: The shotgun has one barrel. The weapon might be break-action, pump-action, semi-automatic, or automatic.
+
+Double-barrel: The shotgun has two parallel barrels loaded separately, situated next to each other or on top of each other. This is a rapid-fire weapon (but can only fire two shots in the same action, limiting you to two targets). Double-barrel shotguns are break-action.
+
+Break-action: There is no magazine with additional shells; reloading the weapon requires using an action to open it (at a hinge point at the base of the barrel) and manually removing and loading in a new shell into the barrel or barrels.
+
+Pump-action: A magazine under the barrel holds five additional shells. You can chamber a new shell by sliding the magazine toward yourself as part of another action. Reloading the magazine partially or completely is an action.
+
+Semi-automatic: A magazine under the barrel holds five additional shells. This is a rapid-fire weapon. Firing it automatically chambers a new shell from the magazine. Reloading the magazine partially or completely is an action.
+
+Automatic: A magazine under the barrel holds five additional shells. This is a rapid-fire weapon. Firing it automatically chambers a new shell from the magazine. Reloading the magazine partially or completely is an action. Automatic shotguns are less reliable than manual shotguns, and trigger a GM intrusion (typically a misfire or jam) on a 1–3 on a d20.
+
+  
+
+Sukurajima® Pistol (light, medium, or heavy): This pistol coats its bullets with an electrochemical substance that inflicts 1 point of electricity damage in addition to the normal bullet damage. This causes a visible electrical burst when it hits, about as bright as a flashlight. Minor effect suggestion: The target convulses from the electricity, hindering their next action. Major effect suggestion: The target must make a Might defense roll (for an NPC, the attacker must make an Intellect-based attack) or be stunned for one round, losing their next turn. GM intrusion suggestion: The electricity shocks the attacking character, stunning them for one round; on a failed level 4 Might defense task, the electricity disrupts one of the attacking character’s cybernetics for a few rounds.
+
+  
+
+Xaphan® Pistol (light, medium, or heavy): This Muxcom pistol coats its bullets with an incendiary substance that ignites when fired, inflicting 1 point of fire damage in addition to the normal bullet damage. This has the side effect of acting like a tracer round. Minor effect suggestion: The target catches fire, taking 1 point of damage on the attacker’s turn each round until someone uses an action to douse the flame. Major effect suggestion: The target catches fire (same as the minor effect); the smoke and flames partially blind them for one round, hindering their tasks. GM intrusion suggestion: The gun misfires, setting the attacker on fire (as per the major effect).
+
+Tracer rounds create a visible streak of light when fired. Although this is intended to help the attacker trace the trajectory of the bullet (especially at night) and make adjustments to their aim, they also allows the defender to see where the attack is coming from—as they say in the military, “tracers work both ways.”
+
+  
+
+Zeerok Blank® Pistol (light, medium, or heavy): This no-frills disposable six-shot pistol is cheap and available almost anywhere—in some cities, you can buy one 3D-printed fresh from a vending machine, with bullets pre-installed. A Zeerok is designed to be idiot-proof; all characters are practiced with using a Zeerok pistol (able to use it without an attack penalty). It can’t be reloaded (there’s no way to open it, but it can be broken in half if you really need to get the bullets out of it). Most people who choose a Zeerok do so because they need a cheap firearm and just want to be able to scare off a threatening person. It’s also fingerprint-resistant and ballistics-anonymizing to make it harder to trace expended bullets back to the weapon that fired it. GM intrusion suggestion: The gun jams, rendering it completely useless (because it can’t be opened or adjusted to clear the jam).
+
+  
+
+Weapon Attachments
+
+Any pistol or rifle can be outfitted with one weapon attachment that modifies its shots, such as a Ghost® (reduces the noise of gunfire) or a Phoenix (adds additional fire damage).
+
+Installing an attachment to a weapon takes about a minute, or half that time if the character makes a difficulty 4 crafting roll. Removing an attachment takes the same amount of time as installing one. Removing an attachment usually destroys it.
+
+Most attachments are available from multiple manufacturers.
+
+Corporations that make weapon attachments deliberately manufacture them so that they’re destroyed if removed; planned obsolescence means a customer has to buy a new attachment rather than transferring it to a different weapon.
+
+  
+
+|   |   |   |
+|---|---|---|
+  
+|Item|Price|Notes|
+|Blitzkreig®|$1,000|Adds +1 electricity damage|
+|Genius®|$1,200|Enables smart link connection|
+|Ghost®|$800|Silencer/suppressor|
+|Gyro|$300|Reduces recoil to ease followup attacks|
+|Hawk|$1,000|Increases range by one category|
+|Phoenix|$800|Adds +1 fire damage|
+|Scorpion®|$900|Adds +1 Intellect damage from poison|
+|Swarm®|$1,000|Turns single shots into cluster for multiple attacks|
+
+  
+
+Blitzkreig®: This Muxcom attachment coats the weapon’s bullets with an electrochemical substance that reacts when fired, inflicting 1 point of electricity damage in addition to the normal bullet damage. This causes a visible electrical burst when it hits, about as bright as a flashlight. Minor effect suggestion: The target convulses from the electricity, hindering their next action. Major effect suggestion: The target must make a Might defense roll (for an NPC, the attacker must make an Intellect-based attack) or be stunned for one round, losing their next turn. GM intrusion suggestion: The electricity shocks the attacking character, stunning them for one round; on a failed level 4 Might defense task, the electricity disrupts one of the attacking character’s cybernetics for a few rounds. A Blitzkreig attachment has no effect on a weapon that already inflicts extra electricity or fire damage, such as a Xaphan® or Sukurajima® pistol.
+
+  
+
+Genius®: This Halo attachment interfaces with your smart link implant to help aim the weapon and uses electromagnetic fields to steer the bullets toward your intended target. You gain an asset on your attacks with the weapon. Without smart link cyberware, the attachment has no effect, but the gun can still be fired normally. A Genius attachment has no effect on a smart weapon, such as a Raptor® smart pistol.
+
+  
+
+Ghost®: This JimBob AgriBiz attachment uses advanced technology to quiet the various sources of sound from a firearm, reducing the overall noise level to about the sound of a typical verbal conversation. A bullet fired from a weapon with a silencer reduces its damage by 1 point.
+
+  
+
+Gyro: The attachment reduces the recoil from using a firearm, making it easier for the user to hit a target with successive attacks. If the user hits, their attack against that target on the next round is eased unless the target moves at least an immediate distance from their location last round.
+
+  
+
+Hawk®: Perfected by Oleg NutriCorp, the attachment stabilizes the weapon’s bullets in flight, increasing the range by one category (short to long, long to very long, very long to 1,000 feet, or +500 feet for weapons with very long range).
+
+  
+
+Phoenix: The attachment coats the weapon’s bullets with an incendiary substance that ignites when fired, inflicting 1 point of fire damage in addition to the normal bullet damage. This has the side effect of acting like a tracer round. Minor effect suggestion: The target catches fire, taking 1 point of damage on the attacker’s turn each round until someone uses an action to douse the flame. Major effect suggestion: The target catches fire (same as the minor effect); the smoke and flames partially blind them for one round, hindering their tasks. GM intrusion suggestion: The gun misfires, setting the attacker on fire (as per the major effect). A Phoenix attachment has no effect on a weapon that already inflicts extra electricity, fire, or poison damage, such as a Xaphan® or Sukurajima® pistol.
+
+  
+
+Scorpion®: The Muxcom attachment coats the weapon’s bullets with a neurotoxin (poison), inflicting 1 point of Intellect damage (ignores Armor) in addition to the normal bullet damage. Minor effect suggestion: The creature’s reactions are temporarily slowed, hindering their next action. Major effect suggestion: The target must make a Might defense roll (for an NPC, the attacker must make an Intellect-based attack) or be sickened for one round, losing their next turn. GM intrusion suggestion: The weapon misfires, dosing the attacker with the neurotoxin, inflicting 1 point of Intellect damage (ignores Armor) and hindering their tasks for the next round if they fail a level 4 Might defense task. A Scorpion attachment has no effect on a weapon that already inflicts extra electricity, fire, or poison damage, such as a Xaphan® or Sukurajima® pistol.
+
+  
+
+Swarm®: This Immortech attachment divides the weapon’s bullets into smaller dart-like projectiles that travel in a cluster toward one target—two projectiles for a light weapon, four for a medium weapon, or six for a heavy weapon. As a single action, the wielder makes a separate hindered attack for each projectile. The user remains limited by the amount of Effort they can apply on one action; because these are separate attacks, the opponent’s Armor applies to each of them. Anything that modifies the weapon’s or wielder’s attack or damage applies to all of these attacks, unless it’s specifically tied to a single attack. A projectile that hits inflicts 1 point of damage. Swarm attachments have a higher tendency to jam the weapon; the GM intrusion range for the character’s attacks with the weapon increases by 3, and any intrusions from this increased intrusion range mean the weapon jams and can’t be fired until the character spends a few rounds dislodging the bullet fragments.
+
+  
+
+Armor
+
+  
+
+|   |   |   |   |
+|---|---|---|---|
+   
+|Light Armor|Price|Armor|Speed Effort Additional Cost*|
+|Heavy leather jacket|$300|1|+2|
+|Medium Armor|Price|Armor|Speed Effort Additional Cost*|
+|Kevlar vest or jacket|$800|2|+3|
+|Riot gear|$1,500|2|+2|
+|Heavy Armor|Price|Armor|Speed Effort Additional Cost*|
+|Military body armor|$4,000|3|+4|
+|Riot shield**|$200|—|—|
+
+*This table presents the additional cost of applying Effort while wearing armor in a different way than the Cypher System Rulebook. Here it lists the full additional cost for a character is not experienced with that kind of armor; the CSR shows the cost for a character who is experienced and reminds you to add +1 to the cost for non-experienced characters. Both methods are correct.
+
+** Grants you an asset on Speed defense tasks. Carrying one makes you look very suspicious and draws a lot of attention.
+
+Worn armor GM intrusion: The armor has taken enough damage that it no longer provides the character any protection. Typical body armor is rated to withstand anywhere from ten to thirty hits before failing.
+
+  
+
+Wearing armor is uncommon in a cyberpunk setting, and comes with two big drawbacks. One, cops assume that you’re up to no good. Two, you look like you’re a fucking cop, fed, or megacorp security guard, and therefore are untrustworthy.
+
+  
+
+Entertainment
+
+  
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Brainslide|$200|
+|Concert or sporting event ticket|$50–$1,000|
+|Movie rental (streaming)|$50|
+|Movie ticket|$30|
+|Musical theater ticket|$50|
+|Sex|$100|
+|Stage play ticket|$50|
+
+  
+
+Brainslide: Digital recording of a person’s experiences, using data from their optics and other senses, that plays directly into your senses. For example, you can experience what it’s like to be a professional baseball player hitting a grand slam, a popular musician performing at a sold-out venue, or a tourist-astronaut jumping around on the moon.
+
+When “viewing” a brainslide, you experience the events of the recording as if you were the person being recorded. Typical family-friendly brainslides are vacation sites (beaches, hiking trails, zoos), sports events, and theater performances. Typical adult-oriented brainslides are extreme sports (parachuting, parkour, whitewater rafting, and so on), voyeurism, and sexual acts. Selling brainslides of illegal activities (such as murder or torture, whether the recorded person is the perpetrator or victim) is illegal, but they can be found on the black market at inflated prices.
+
+There is some concern among medical professionals that intense brainslides can cause lasting brain and nerve damage, similar to heavy drinking or drug use. There is some evidence that experiencing violent brainslides desensitizes the user to violence.
+
+  
+
+Sex: Typical fee for about an hour’s worth of consensual sexual activity with a sex worker. Elite services cost anywhere from two to ten times as much. Unlike selling used physical equipment for half the listed price, a PC sex worker can charge the full listed price for their services.
+
+  
+
+Food, Drink, and Healthcare
+
+  
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Admiral Snack Bar®|$125|
+|Antivenom serum|$1,000|
+|Biomonitor chip|$500|
+|Chemsleep|$500|
+|Cigarettes|$20|
+|Emergency medical visit|$5,000|
+|First-aid kit|$100|
+|Health insurance, average|$1,500|
+|Health insurance, strong|$3,000|
+|Health insurance, weak|$500|
+|Immortech field dressing|$500|
+|Mealz|$50|
+|Remedy serum|$1,000|
+|Resurrection® cocktail|$5,000|
+|RxHypo3D|$5,000|
+|Slut® water|$50|
+|Sobertab|$40|
+|TastyKib®|$15|
+|Therapeutic drug cocktail, “chrome balance”|$100|
+|Therapeutic drug cocktail, “cyber flat”|$500|
+|Therapeutic drug cocktail, “organic nirvana”|$900|
+|Therapy, session|$300|
+|Toobfood|$30|
+|Vape Pen|$75|
+
+  
+
+Admiral Snack Bar®: Manufactured by JimBob AgriBiz, this provides enough nutrition to sustain one adult human for one day. Alternatively, eating one provides a free recovery roll, with the character healing one point per round for a number of rounds equal to the result of the recovery roll. (NPCs instead gain 4 health over 4 rounds.)
+
+Warning: Consuming more than one Snack Bar in a 24-hour period tends to cause severe gastric distress (a likely GM intrusion is in your future…)
+
+  
+
+Antivenom serum: Ampoule of artificially-engineered chemicals designed to bind to and neutralize toxic substances in the body. Injecting someone with serum is an action, and gives the person an immediate Might defense roll (eased by four steps) against any poisons currently affecting them; success means they take no further damage from that dose of poison. The character’s defense tasks against poison are eased by four steps for the next day. Frequent use of antivenom serum causes side effects such as anemia, tremors, and slurred speech.
+
+  
+
+Biomonitor chip: This chip plugs into your communicator implant. It tracks your location and various human biometrics (heartrate, blood pressure, temperature, and so on). It analyses this data to determine if you’ve experienced a significant injury, at which point it automatically places an emergency call for medical help … if your health insurance policy is current.
+
+  
+
+Chemsleep: Bottle of ten pills with a specially-formulated sleeping drug. One pill makes you fall asleep within about ten minutes and lasts about four hours (most people take two pills for a full night’s sleep). Waking from a full period of chemsleep usually has no drawbacks, but being awakened early leaves you groggy, hindering all tasks until the full duration passes.
+
+  
+
+Cigarettes: A pack of nicotine-enhanced tobacco products for smoking, like the ones your dad went out to get when you were a kid and he never came home again.
+
+  
+
+Emergency medical visit: Costs (without insurance) for an emergency trip to a medical facility to treat a serious injury (broken bone, burn, gunshot wound, stabbing, vehicular collision) or a crisis event (appendicitis, heart attack, poison exposure, severe allergic reaction, stroke). Cost is per day; typical incidents require one to three days at the hospital.
+
+A non-surgical clinic or typical chopper can provide medical services at half the cost of an emergency medical visit, but they usually don’t have the skill, technology, or medication to deal with many life-threatening or exotic conditions.
+
+  
+
+First-aid kit: Kit of bandages, antibiotics, and similar supplies. Provides an asset to up to five healing tasks.
+
+  
+
+Health insurance: Essentially a gambling-type “investment” against a potential future injury or medical condition. Weak plans cover 25% of approved medical costs, average ones cover 50%, strong plans cover 75%. Cost is per month; prices tend to increase if you use the policy’s rewards too frequently. In general, health insurance does not cover the cost of cybernetics (or the surgery to implant them) unless medically necessary (such as installing a cybernetic limb after an organic limb is lost in an accident).
+
+  
+
+Immortech field dressing: Bandage made of artificial skin with antimicrobial, analgesic, and hemostatic qualities. Provides two assets to one healing task. Alternatively, using this on a wounded (but still living) person raises them one step on the damage track.
+
+  
+
+Mealz: Meal made out of non-paste ingredients, but still processed food. The components are usually molded into the traditional food form for the meal—a cheeseburger looks roughly like a cheeseburger, chicken parmesan looks roughly like actual chicken parmesan, and so on.
+
+  
+
+Remedy serum: Ampoule of artificially-engineered blood and plasma. Injecting someone with serum is an action, and restores 3 points to a Pool of their choice (an NPC instead regains 3 health). It also relieves hangover symptoms. Multiple uses of remedy serum within a span of a few hours tends to cause convulsions and unconsciousness.
+
+  
+
+RxHypo3D: Thermos-sized hypo spray with a built-in 3D printer preloaded with various common medicinal drugs—aspirin, penicillin, insulin, adrenaline, nicotine, mild sedatives, birth control, and so on. Grants an asset on appropriate healing tasks. Can print about ten doses total before it needs to be refilled with precursor chemicals (costing $500).
+
+  
+
+Resurrection® cocktail: Immortech’s combination of miliary-grade designer drugs in a spray hypo designed to keep a mortally injured person alive. When injected (an action), it immediately moves the patient one step up the damage track (even from dead to debilitated, if used quickly enough). The patient’s tasks are hindered by two steps for the next day or two.
+
+  
+
+Slut® Water: One day’s worth of heavily-filtered clean water with additives for flavor and enhancing stamina and sexual prowess. A Muxcom product.
+
+  
+
+Sobertab: Chewable tablet that speeds the breakdown of blood alcohol while also dissolving the toxic breakdown products of natural alcohol processing, leaving you sober and hangover-free within ten minutes.
+
+  
+
+TastyKib®: Manufactured by JimBob AgriBiz, these dried food pellets made of processed food paste baked into various simple shapes, overall resembling dry dog food or cat food. Has a very long shelf life. Eating this for every meal tends to constipate you.
+
+  
+
+Therapeutic drug cocktail, “chrome balance”: The most common medication for people worried about experiencing SHITS. (Kaisha’s brand name is Chromezac®, Oleg NutriCorp’s is Serochrome®.) Grants an asset on Intellect defense rolls against SHITS episodes. Price is for seven days of medication, taken twice daily. Side effects include vertigo (balance tasks are hindered) and moodiness (social interaction tasks are hindered).
+
+  
+
+Therapeutic drug cocktail, “cyber flat”: Prescribed as an anti-SHITS medication for people who aren’t helped by “chrome balance” or are considered high-risk patients. (Kaisha’s brand name is Stabitol®, Oleg NutriCorp’s is Halextrin®.) Grants an asset on Intellect defense rolls against SHITS episodes and +1 Armor against Intellect damage caused by SHITS. Price is for seven days of medication, taken twice daily. Side effects include hand tremors (physical tasks requiring hands are hindered), apathy (social interaction tasks are hindered), and loss of appetite.
+
+  
+
+Therapeutic drug cocktail, “organic nirvana”: A last-gasp, radical, experimental anti-SHITS drug cocktail for people who haven’t had positive results with any other medication and/or are already experiencing violent episodes. (Kaisha’s brand name is Quietrol®, Oleg NutriCorp’s is Neuropolarin®.) Grants an asset on Intellect defense rolls against SHITS episodes, +1 Armor against Intellect damage caused by SHITS, and reduces your intrusion range for SHITS by 1 (for example, if your GM intrusion range for SHITS is 1–3, it becomes 1–2). Price is for seven days of medication, taken twice daily. Side effects include lethargy (all physical tasks are hindered) and mild euphoria (deception and intimidation tasks are hindered).
+
+  
+
+Therapy: One-hour solo session with a professional therapist, either in-person or through a holophone call (aka “holohealth”). Most issues requiring therapy need at least four to six sessions for you to make progress; deep-seated trauma might take dozens of sessions to recover from. Therapy is often a step in character arcs such as growth or recover from a wound (or trauma). Therapy might lead to taking medication (such as antianxiety drugs) or inform your future decisions about the sort of person you want to become (which might affect what character advancements you pursue).
+
+  
+
+Toobfood: Processed meal in a paste form, served in a squeezable tube. Various flavors and meals, anything from hamburger to salad to ice cream. Microwaveable, refrigerable, freezable.
+
+  
+
+  
+
+Vape: A small atomizer for inhaling tobacco or similar products. For double the price, you can get one installed in your cybernetic finger.
+
+  
+
+Therapeutic Drugs and SHITS
+
+Several megacorps produce anti-SHITS cocktails, with Kaisha and Oleg NutriCorp having the best brand recognition.
+
+These drugs all available over the counter in limited quantities, often because gangs buy up or steal them with the intent of reselling them as medication or recreational drugs (Chrome balance, cyber bliss, and organic nirvana are the street drug names for these cocktails.) Corpo pharmacies and experienced choppers are more reliable suppliers.
+
+Because every patient is different, any particular drug cocktail used to forestall or treat SHITS may be less or more effective than expected. In other words, the GM may adjust the cocktail’s benefits for your character—and some cocktails might not help your character at all. Be on the lookout for GM intrusions that reveal unexpected side effects for your pills, or surprise you by worsening your symptoms.
+
+  
+
+Miscellaneous Items
+
+|   |   |   |
+|---|---|---|
+  
+|Item|Price|Notes|
+|3D printer|$2,000||
+|Backpack|$30||
+|Bolt cutters|$25|Asset for cutting through metal bars|
+|Burner phone|$100||
+|Cardpick|$750||
+|Cashcard|$5||
+|Climbing gear|$750|Asset for climbing tasks|
+|Crowbar|$40||
+|Digital shroud|$6,000||
+|Drum synthesizer|$200||
+|Duct tape roll|$20||
+|Duffel bag|$30||
+|Face scanner|$500||
+|Flashlight|$25|24 hours, cone out to short area, rechargeable|
+|Game console|$200–$700||
+|Glowgrenade|$100||
+|Glowpaint|$25||
+|Glowstick|$5||
+|Guitar|$200–$1,000||
+|Handcuffs|$75|Level 5 restraint|
+|Heavy tools|$300||
+|Holoprojector|$2,000||
+|Keyboard|$200||
+|Kleenbot|$250||
+|Land mine|$100||
+|Light tools|$100||
+|Limb swapper|$5,000||
+|Loudspeaker|$100||
+|Magnetic grapple|$500||
+|Parachute|$2,500||
+|Poison sniffer|$2,000||
+|Portable lantern|$200|24 hours in a short area, rechargeable|
+|Rope|$50|50 feet (15 m), nylon|
+|Smartphone|$1,000||
+|Subvocalizer|$200||
+|Suction grapple|$750||
+|Suitcase|$50–$100||
+|Surveillance camera|$1,000||
+|Tactile drone|$3,000||
+|Television|$500–$2,000||
+|Tracking device|$150–$500||
+|Translator chip|$3,000||
+|Wireless jammer|$4,000||
+|Zeta torch|$100||
+|Zip ties (10)|$20|Level 3 restraint|
+
+  
+
+3D printer: Briefcase-sized device that can print physical objects out of an internal supply of synthetic material. Printing a fist-sized item takes about ten minutes; the device stores enough materials to make about ten such items. Advanced users can configure the printer to produce complex designs, including working circuit boards and custom plastiflesh overlays. Reloading the synthetic filaments costs $100.
+
+  
+
+Burner phone: Simple wireless communication device that can send and receive telephone calls. Includes a prepaid amount of phone time (typically ten hours). Mainly used by people who want to make anonymous calls (not associated with their comm implant, smart phone, or personalized accounts), such as criminals and spies.
+
+Cardpick: Digital lockpick for locks that require a key fob or keycard to open. Grants an asset on tasks to “pick” these locks.
+
+  
+
+Cashcard: Card or chip used to carry digital currency that can be used like cash (in 20th-century terminology, it’s a prepaid debit card or gift card). Typically used when you don’t want a transaction linked to your account. You can add value to it at any computer or device that allows you to access your account.
+
+  
+
+Digital shroud: Fist-sized device that interferes with most common electromagnetic sensing and communication frequencies, hindering by five steps all digital perception and surveillance tasks (such as by security cameras or people with optical cybernetics) within short range.
+
+  
+
+Drum synthesizer: Allows a user to emulate playing an acoustic drum set, creating music and looking cool. Includes digital hookups enabling it to be plugged directly into an amplifier or recording device.
+
+Face scanner: Camera-like device that can identify a person by looking at their face, drawing on online databases with additional information (social media, criminal record, and so on). More accurate the longer it has to look at a person, and if given multiple angles. This functionality is also available as an upgrade to cybernetic optics.
+
+  
+
+Game console: Small specialized computer that streams videogames to a television, AU device, or cybernetic optics. More expensive units have better features (lifelike graphics, full-spectrum sound, haptic feedback to cybernetics, and so on) than cheaper ones.
+
+  
+
+Glowgrenade: Pressurized device that explodes in an immediate area, coating everything with glowpaint. Sometimes used by police to mark fleeing rioters, protestors, and other people in groups so they can be tracked down and identified.
+
+  
+
+Glowpaint: Spray-can of watery paint that glows when exposed to air (like a glowstick). Under typical conditions, a hand-sized area of the paint provides as much light as a candle and lasts a couple of hours. Even after the glow fades, ultraviolet light makes the residual chemicals fluoresce.
+
+  
+
+Glowstick: Soft plastic rod containing fluid that glows when an internal chamber is broken. Illuminates like a candle and lasts a couple of hours.
+
+  
+
+Guitar: Allows a trained user to play music and look cool. Some models have digital hookups enabling them to be plugged directly into an amplifier or recording device.
+
+  
+
+Holoprojector: Projects a 3D hologram image or video into an adjacent space. A small unit can create a hologram about the size of a human head, a large one creates a holo the size of an adult human or a large-screen television. The unit comes with a programmable interface (allowing you to create a simple custom hologram of words and shapes, like a sign in a fuel station window) and data storage for downloading holos created with superior software. Holograms are obviously not real, and are mainly used for entertainment, advertising, and traffic signs.
+
+  
+
+Keyboard: Allows a user to play music. Includes digital hookups enabling it to be plugged directly into an amplifier or recording device.
+
+  
+
+KleenBot: A robotic vacuum, broom, and mop that patrols an area (such as an office or apartment), cleaning up messes.
+
+  
+
+Land mine: An explosive charge with a trigger, placed on or under the ground. Typical triggers are a top-surface button (activated by pressure, such as from a foot or tire), a motion sensor, a tripwire (extending up to a short distance away), or a radio receiver that can be triggered manually by an operator; advanced models can be programmed to ignore specific individuals. Setting up a mine takes several rounds. Antipersonnel mines are designed to kill people; these usually launch a projectile into the air, which explodes and sends shrapnel in all directions. Some antipersonnel mines use shaped charges so the blast area is a cone or rather than a sphere. Antitank mines direct their explosion upward to disable a passing vehicle (even if the explosion doesn’t destroy the vehicle, it usually damages the wheels or treads enough to prevent it from moving). A triggered mine creates a level 4 explosion, inflicting 8 points of damage in a short area and 4 points in the surrounding short area. A character who makes a Speed defense roll against the mine takes half damage. Mines with motion sensors or radio receivers can be hacked.
+
+  
+
+Limb swapper: A tech device about 2 feet (60 cm) square, a limb swapper is handy for people who have multiple sets of cybernetic limbs and want to be able to switch them out without visiting a chopper. For example, a musician might have one set of cybernetic arms with augmentations for playing guitar and another set of arms they use for recreational athletics; a chopper might have a specialized set of arms for surgery (with no “normal” fingers at all, just scalpels and probes) and an organic-looking set they wear when not working. The limbs must first be adjusted to be swappable (which the swapper itself can do, taking an hour each), after which it only takes about a minute to swap limbs (singly or in pairs).
+
+  
+
+Loudspeaker: Electronic device used to turn a digital signal (such as from a microphone or connected musical instrument) into sound. A typical speaker is the size of a human head and can create sounds loud enough to be heard at very long range.
+
+  
+
+Magnetic grapple: A high-tech alternative to a grappling hook, this metallic disk contains a level 5 electromagnet that can stick to metallic surfaces. Controlled by a wireless fob.
+
+  
+
+Parachute: Lightweight backpack containing an expandable nylon sail that slows falling to a non-lethal velocity. The sail takes two to three seconds to fully open, so it’s best used for falls over 300 feet (90 mm). Landing without injury from an adequate height requires a successful level 2 Speed-based task.
+
+  
+
+Poison sniffer: Wristwatch device containing sensitive multipurpose receptors that can detect a wide range of toxic substances. It passively scans the air in an immediate area around itself, but can be manually activated to scan a liquid or solid material up to a few inches away. It is configured to beep when it detects something, but can be set to vibrate, flash a light, send a wireless notification, or all of the above.
+
+  
+
+Smartphone: A communication device that performs some of the functions of a computer with a touchscreen interface, internet access, and ability to run multiple apps. Provides an asset to knowledge tasks that can be researched on the internet, and bright light within immediate range. In the cyberpunk setting, a communicator implant handles text, voice, and video interactions, so smart phones are mainly used for games, social media, and apps. (Luddites, of course, don’t have comm implants and must rely on smartphones for calls and texts.)
+
+  
+
+Subvocalizer: Paired adhesive patches for the neck and behind the ear. The throat device registers miniscule speech movements in your larynx and mouth even if you’re not vocalizing, so you don’t need to speak aloud. The ear device transmits tiny vibrations directly into the bones and soft tissues of the ear, allowing you to silently receive audio messages. Overall, the devices work like a two-way radio that lets you operate in complete silence.
+
+  
+
+Suction grapple: A high-tech alternative to a grappling hook, this disk-shaped device uses various complementary technologies that allow it to stick to most flat surfaces (level 5 strength). Controlled by a wireless fob.
+
+  
+
+Suitcase: Soft- or hard-sided storage container used for carrying personal belongings while traveling. Includes a handle and wheels.
+
+  
+
+Surveillance camera: Can wirelessly transmit images and video to an internet node or receiver (including optical cybernetics) within long range, or save them to on-board digital storage (for when the camera is retrieved at a later time). Includes small speakers so you can have a conversation through it (for example, with a person you’re watching through the camera). Some models (called “spy cameras”) are smaller and designed to be concealed for stealthy recording.
+
+  
+
+Tactile drone: Flying drone about 2 feet (60 cm) in diameter, outfitted with a camera and transmitter keyed to a piloting device or your communication implant. Provides audio and video feeds back to the device or your implant. Can use small robotic arms to manipulate physical objects, easily performing routine tasks; you can attempt more difficult remote tasks through the drone (up to difficulty 4), but your rolls are hindered.
+
+Tactile drone: level 2, flies a short distance each round
+
+  
+
+Television: A typical flatscreen TV with stereo sound, able to connect to broadcast or streamed content, controlled by the user’s voice or an app. (Megacorps don’t manufacture the older CRT-style televisions, most of the existing ones are broken, and the people who know how to repair them are a dying breed.)
+
+  
+
+Tracking device: A small tag, fob, or similar concealable device that stealthily transmits a signal indicating its current location. Simple ones use a basic radio frequency that can be detected up to very long range. Advanced units use wireless technology, relaying their signal through the internet or cellular towers to a server or specific user, effectively giving it unlimited range so long as it can make use of a wireless connection. The signal from a tracking device can be detected.
+
+  
+
+Translator chip: This chip plugs into your communicator implant. It comes preprogrammed with five common languages (typically Chinese, English, Japanese, Russian, and Spanish). When you hear these languages spoken, the chip automatically translates them in real time to a preprogrammed language of your choice and transmits it as audio into your communication implant. Translator chip GM intrusion: The chip switches to a different language and can’t be changed without spending several rounds navigating complex menus in the wrong language.
+
+  
+
+Wireless jammer: Jams wireless transmissions within long range by blasting common transmission frequencies with bursts of data “noise.” Audio, video, and data transmissions (including hacks and similar attacks that rely on wireless technology) are hindered by three steps. The broad-spectrum noise is strong and disruptive enough that it only takes a short amount of time (anywhere from a few rounds to about a minute) to figure out where the signals are coming from (narrowing the jammer’s location to within an immediate area if there are no intervening obstacles such as walls, or short range if there are).
+
+  
+
+Zeta torch: Small fuel-filled container used for welding, soldering, and metal-cutting (up to level 5). Contains enough fuel to work for a couple of hours. Its flame is too small to effectively use as a weapon. Can be ignited as a makeshift bomb, inflicting 4 points of fire damage to one or two adjacent creatures.
+
+  
+
+Clothing and Worn Items
+
+|   |   |   |
+|---|---|---|
+  
+|Item|Price||
+|Advanced binoculars|$1,500||
+|Augmented reality (AR) unit|$500||
+|Binoculars|$100|Asset for perception tasks at long range|
+|Disguise kit|$2,000|Asset for disguise tasks|
+|Fancy clothes|$1,000–$5,000||
+|Filtration mask|$300|Filters out smoke and toxins for eight to twelve hours|
+|Night vision goggles|$1,000||
+|Scuba gear|$1,500||
+
+  
+
+Advanced binoculars: High-end binoculars that include night vision (see in darkness up to a long distance away), an infrared range finder (very long range), and a short-range camera interface for transmitting what you see to a receiving device or optical cybernetics.
+
+  
+
+Augmented reality (AR) unit: Device worn on the face that covers the eyes; various models look like glasses, goggles, visors, or helmets. Lets you experience virtual reality programming and games, or overlay your normal vision with a heads-up display (HUD) and augmented reality functions. (Advanced cybernetic optics are capable of these functions without needing a separate wearable device.)
+
+  
+
+Binoculars: Analog lens device that enlarges the image of whatever you see through them. Grants an asset on perception tasks at long range or longer.
+
+  
+
+Disguise kit: Hair dye, cosmetics, a few hair pieces, and other small props. Preparing a disguise with the kit takes a few minutes and grants an asset to disguise and impersonation tasks.
+
+  
+
+Fancy clothes: Clothing suitable for moving in elite circles; provides an asset to interaction tasks in some situations.
+
+  
+
+Filtration mask: Sealed hood and integrated goggles with filtration cartridges positioned near the mouth and nose. Protects against airborne contaminants (smoke, tear gas, and so on) for eight to twelve hours. (Note that some chemical agents, such as mustard gas and various substances called “nerve gas,” work directly on or through the skin, requiring full-body protection instead of just a filtration mask.)
+
+  
+
+Night vision goggles: Reasonably accurate vision in complete darkness, up to a long distance.
+
+  
+
+Scuba gear: Breathing gear allows you to function underwater for about an hour at depths of up to 130 feet (40 m)
+
+  
+
+Services
+
+|   |   |
+|---|---|
+ 
+|Service|Average Cost|
+|Bounty (assault)|$500|
+|Bounty (murder)|$1,000|
+|Bounty (robbery)|$200|
+|Bounty (theft)|$100|
+|Food delivery surcharge|$20|
+|Sexual services|$1,00—$5,000|
+|Vehicle for hire|$50|
+
+  
+
+Bounty: The going rate for catching a criminal of this type, whether they’re an escaped convict or just have a warrant out for their arrest. Once you catch the subject and hand them over to the interested party (or provide proof of death, for dangerous targets where kill-on-sight is allowed), the issuer of the bounty will verify the results before sending you payment for your services. Bounties are often displayed on holobillboards, making it hard for the subject to move about the city. More dangerous targets (level 4 and higher, or those who’ve committed multiple violent crimes) typically have higher bounties.
+
+Note that megacorps can issue bounties with very sketchy or even completely-fabricated charges; always make note of the issuer and decide whether you think their complaint is real.
+
+  
+
+Food delivery surcharge: The additional cost for having food delivered from a restaurant, food truck, or grocery store. Please tip your delivery person.
+
+  
+
+Vehicle for hire: The cost of using a taxi or rideshare to go from one point in the city to another. The listed fare is for a destination no more than ten minutes away under current traffic conditions (the cost of longer trips scales up proportionately). A typical vehicle for hire can hold two people comfortable or three uncomfortably; fares for larger vehicles that can hold double these amounts are 50% higher. A luxury vehicle (such as a limousine) costs double the fare.
+
+  
+
+Housing (Weekly)
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Cheap room|$200|
+|Studio apartment|$500|
+|One-bedroom apartment|$700|
+|Two-bedroom apartment|$1,300|
+|Penthouse apartment|$3,000|
+|Luxury apartment|$5,000|
+|Luxury penthouse apartment|$7,000|
+|Housing Modifications|Price|
+|Bulletproof windows|$200–$1,000|
+|Hidden compartment|$1,000|
+|Panic room|$5,000–$10,000|
+|Smart windows|$1,000–$5000|
+
+  
+
+Cheap room: A private bedroom in a building such as a flophouse, boarding house, or private individual’s home. Usually doesn’t have a private bathroom or kitchen (you share common facilities with other renters).
+
+  
+
+Studio apartment: Private residence consisting of one main room (combining a living room, bedroom, and kitchen) and a bathroom. Most require a contract locking you in for six or twelve months, but some allow month-to-month rentals at a 50% markup.
+
+  
+
+One-bedroom apartment: Private residence consisting of a living room, bedroom, kitchen, and bathroom. Most require a contract locking you in for six or twelve months, but some allow month-to-month rentals at a 50% markup.
+
+  
+
+Two-bedroom apartment: Private residence consisting of a living room, two bedrooms, a kitchen, and a bathroom. Most require a contract locking you in for six or twelve months, but some allow month-to-month rentals at a 50% markup.
+
+  
+
+Penthouse apartment: A one-bedroom apartment on the top floor of a building, usually with a pleasant view and superior facilities (such as a large balcony, rooftop garden, jacuzzi, or keycard-restricted elevator access). Yours might be the only penthouse in the building, or the entire top floor might be penthouse apartments.
+
+  
+
+Luxury apartment: Two-bedroom apartment with superior facilities, architecture, atmosphere, and services (such as a concierge, doorperson, yoga studio, weight room, swimming pool, or armed security guards). Many corpos see renting or owning a lux as a status symbol indicating they’ve “made it” as a well-paid professional.
+
+  
+
+Luxury penthouse apartment: Large living space with the benefits of both a luxury apartment and a penthouse apartment.
+
+  
+
+Bulletproof windows: Replaces the standard windows in a residence with bulletproof (level 3) windows.
+
+  
+
+Hidden compartment: Adds a concealed (level 4 to detect) storage compartment to a residence. Typically used to hide a safe, a stash of guns, or something that size, but can make do as an uncomfortable one-person panic room in a pinch.
+
+  
+
+Panic room: A fortified small room within a residence, intended to protect against home invasion or kidnapping. Walls and doors are level 6. Usually includes a non-crawlable air vent, emergency phone, small supply of food and water, sink, and toilet.
+
+  
+
+Smart windows: Replaces the standard windows in a residence with smart glass devices capable of darkening (for sleep), blurring (for privacy), or displaying images or video (for scenic views) streamed from another device.
+
+  
+
+Drugs
+
+The drugs detailed in this section behave similarly to artifacts, with short-term benefits and potential drawbacks. Their prices depend on the source and availability. Over the counter (OTC) drugs are inexpensive and ubiquitous. Rx Only drugs are created for therapeutic purposes; if they’re prescribed to a character, the price ranges from $25 to $100 per week and may be covered by the character’s health insurance. Of course, these drugs can be purchased without a prescription, if you know someone willing to sell. Though street drugs still have in-game benefits, they are created solely for recreational purposes, and the price is set at the dealer’s discretion.
+
+  
+
+Axodrine®: A motion sickness drug that improves proprioception and balance. Manufactured by JimBob AgriBiz. Available OTC.
+
+  
+
+Blue Spirit: An anesthetic that decreases physical inhibitions, thereby increasing raw strength. Can also help with netrunning. Street drug.
+
+  
+
+Calcichloride®: An injected analgesic that relieves pain and promotes healing. Manufactured by Kaisha. Available Rx Only, with a booming secondary market.
+
+  
+
+Clickbait: A party drug that eases social interactions. Street drug.
+
+  
+
+Crunch: A synthetic stimulant that increases energy and elevates mood. Street drug.
+
+  
+
+Dex®: A stimulant developed for military applications, most commonly used by mercenaries and assassins. Manufactured by Immortech. Rx Only.
+
+  
+
+Elevate®: A focus-enhancing drug that provides an immediate kick of energy. Coffee wishes it could be Elevate®. Manufactured by Oleg NutriCorp. Rx Only.
+
+  
+
+Last Gasp®: A manufactured feeling of invincibility, for when you’re out of options. Last Gasp® won’t save you, but it’ll let you get one last swing in on your opponent. Developed for military use. Manufactured by Kaisha. Rx Only.
+
+  
+
+Liftoff®: A transdermal patch that, when used with other drugs, can help prevent chemical dependency. Also makes you faster! Manufactured by Oleg NutriCorp. Available OTC.
+
+  
+
+Moon Rocks: A sedative that guarantees the most restorative sleep of your life. Street drug.
+
+  
+
+Pixel®: An anesthetic that’s a hit among netrunners. Induces a trancelike state that gets you one step closer to the mass hallucination known as the matrix. Manufactured by Zeerosh, but sometimes found in convenience stores under alternate names. Technically it’s Rx Only.
+
+  
+
+Rampage: A physical performance enhancer that lives up to its name. If there were a way to inject yourself with pure strength, it would look something like this. Street drug.
+
+  
+
+Cybernetics
+
+Cybernetics are personal equipment requiring surgery to add or remove safely—augmented limbs, artificial organs, replacement eyes, brain chips for wireless communication, and so on.
+
+There are hospital surgeons trained in installing, replacing, or removing cybernetics (particularly for rich clients). However, most people—including most player characters—get their chrome done by surgeons in small clinics or “back alley” locations, especially if the hardware is stolen or illegal, or if they don’t want extra attention from a megacorporation. Devices that look like natural skin are made with an outer layer of plastiflesh.
+
+Plastiflesh: A synthetic skin-like material used in most lifelike cybernetics. It looks and feels like skin, has embedded artificial nerves that let you feel contact like organic skin does, and is available in most colors.
+
+The cybernetics in this section include run-of-the-mill items like fully-functional prosthetic limbs and eyes as well as military-grade tech like concealed grenade launchers and combat accelerator spinal implants. In general, something that a typical NPC might use for their daily life or regular job is a fully-legal item that can be acquired from a legitimate retailer—mechanical arms for heavy lifting, prosthetic legs for amputees, night vision optics for security guards, implanted cameras for journalists, and so on. Other items, including implanted weapons and combat enhancements, are either illegal or only quasi-legal, and require the character to visit a chopper.
+
+The listed prices for these cybernetics include the surgery cost to install them in your body, as well as the cost to remove existing chrome in that location. For example, if you have a strength arm and decide to get a gorilla arm, the cost includes removing the strength arm before installing the gorilla arm.
+
+Used cybernetics are worth about 20% of the listed cost. Some choppers hold your old items on consignment for you for a few months, paying you if someone else decides to buy your used chrome.
+
+Sometimes a used cybernetic is damaged or worn enough, or the tech obsolete enough, that it’s basically just trash. The GM has more information about planned obsolescence of equipment.
+
+  
+
+What is a Chopper?
+
+Although most people in a cyberpunk setting know what a chopper is, it’s a very broad term (synonymous with “razordoc” and “ripperdoc”).
+
+Some choppers are normal medical professionals (doctors, nurses, EMTs, and so on) who use their skills to help people, especially if doing so bypasses bureaucratic red tape or allows them to give care to people who otherwise couldn’t afford it. Often, their resources are acquired through shady means (“spillage” from a hospital, outright stolen or near-obsolete equipment, and drugs that are just past their expiration dates). Although they operate illegally (or on the fringes of the law), they’re legitimately trying to help people.
+
+And then there’s the other kind of chopper. The ones who lost their license to practice due to a sex scandal, drug abuse, or being drunk on the job. Ones who don’t care that what they’re doing is illegal, or that they’re not really trained in this specialty, or that their clinic isn’t sterile. Ones who don’t care that they’re implanting illegal hardware in a gang boss, or that the last person to have this piece of chrome didn’t give it up willingly. They’re the docs who work for organized crime, or operate a “veterinarian” office that’ll patch up or chrome up a criminal for the right price with no questions asked. They don’t care about laws and regulations, and they don’t talk to the police.
+
+Most choppers end up somewhere in the middle … and over time they slowly slide toward the second kind, whether that’s because they have to cut corners to keep working, or because the money is too good to resist.
+
+A reputable chopper who keeps a clean house and does good work is worth the extra money. They know the insides and outsides of their client’s body better than the client knows themself.
+
+  
+
+Cybernetic Weapon Variations
+
+As with conventional weapons, some weapons have a quirk that makes them unusual—sometimes good, sometimes bad, sometimes a little of both. The GM will let you know if a particular cybernetic weapon has a variation.
+
+  
+
+Install or Replace?
+
+Some cyberware can be installed into a body part (such as an organic or chrome arm); others completely replace the body part. Each item’s description indicates if it’s an implant or a replacement.
+
+In some cases, the question of whether cyberware is an addition or a replacement affects whether two different items can be used together, although the GM is the final arbiter of what combinations are allowed.
+
+  
+
+Losing Your Organics
+
+In many cases, cyberware is a replacement for an existing organic body part—a leg, arm, eye, heart, and so on. Obviously, this means that installing chrome requires removing the original organic tissue to make room for the cyberware: arms are amputated before gorilla arms are installed, an eye is removed before new optics are installed, and so on. These leftover organic bits are normally discarded (thrown away or, in a more prestigious environment, medically incinerated) as part of the surgeon’s post-operational procedures.
+
+One important take-away from this is you can’t get them back. Sure, maybe you could hire someone to keep your old organic bits “on ice” just in case you want to get them reattached, but it’s easier to forget about them. Especially if you can buy a premium cybernetic that works as well or better than the original and also looks completely organic. Or hand over a lot of money to a corp, for them to regrow your original parts using your own DNA. But most people just stick with cybernetics. (After all, it’s cyberpunk, not biopunk.)
+
+The point is that if your cybernetic fails or is damaged, you don’t have your original meat-bits to fall back on. Your gorilla arms get shot off? You’re armless until you can get them replaced. Optics burn out from a nasty virus? You’re blind until you can get a clean set installed. Your replacement heart gets fried by an electrical pulse? You’re dead (barring CPR and an emergency transplant). Of course, bad things can happen to your original organics, so you’re not actually worse off if you get cyberware … but you need to think of them as permanent changes to your body. Like how tattoos used to be.
+
+  
+
+Cybernetics and Weapon Skills
+
+You are practiced with any weapon cyberware you have in your body, regardless of its size or damage. For example, a mantis blade in sword mode is a medium bladed weapon, and you are practiced with using it even if you aren’t practiced with other medium weapons.
+
+  
+
+Cybernetics Descriptions
+
+  
+
+Arm Cybernetics
+
+Arm cybernetics are sold singly. Every arm cybernetic includes a hand, although if you already have a hand cybernetic you can swap out the arm’s hand for your existing chrome hand.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Embedded pistol|$6,000|
+|Gorilla arm|$16,000|
+|Grapple javelin|$7,000|
+|Grenade launcher|$12,000|
+|Mantis blade|$7,000|
+|Monowire|$7,000|
+|Skill arm|$7,000|
+|Standard arm|$4,000|
+|Strong arm|$10,000|
+
+  
+
+Embedded pistol. Installation of a hidden firearm that is the equivalent of a light, medium, or heavy pistol into your organic or cybernetic arm. Reloads through a slot in your arm and can hold ten shots. Fires through a disguised barrel in the center of the palm of your hand. Cannot be fitted with a weapon attachment.
+
+For an additional $3,000, the embedded medium or heavy pistol includes smart link functionality (counting as a smart weapon with a smart link cybernetic); a smart embedded pistol is hackable.
+
+  
+
+Gorilla arm: Replacement of one forearm and its upper arm. Looks comically large compared to all but the largest humans. When using this new limb, you get a free level of Effort on all tasks involving arm strength, including melee and thrown weapon damage, but not attack rolls. A gorilla arm is strong enough that you can wield and attack with a heavy weapon (which normally requires two hands) with one hand, but you still need two hands to reload it (or use any other aspects of the weapon the GM decides are appropriate).
+
+  
+
+Grapple javelin: Replacement of one forearm with a prosthetic containing 100 feet (30 m) of sturdy cable attached to the cybernetic hand, which can reconfigure into a claw-like grapple. You can fire the grappling claw as an action; success means the claw has caught your intended target. As an action you can pull yourself a short distance toward your target, or attempt a Might task to pull the target toward you. As part of another action, you can completely spool in a loose hook and claw, reverting it to its normal hand form.
+
+  
+
+Grenade launcher: Replacing one arm is a projectile device that can fire a grenade up to a long distance away. The grenade explodes on impact, inflicting 4 points of damage in an immediate radius on a successful attack roll (make separate attack rolls for each creature in the area) or 1 point on a failure. The launcher can hold two grenades; reloading one grenade into it is an action.
+
+  
+
+Mantis blade: Implant contains a retractable blade on a complicated hinge. You can extend the blade as part of an action, either in a knife configuration (light weapon, 2 points of damage) or sword configuration (medium weapon, 4 points of damage). You can still use your hand when the blade is extended, but the awkward angle means tasks with that hand are hindered.
+
+Even if both of your arms have mantis blades, you still can only make one attack per round—unless you have a special ability that enables two attacks per round.
+
+Monowire: Replacing one of your arms is a cybernetic arm containing a thin wire made of an advanced blend of metal, plastic, and ceramic; implants on both hands allow you to touch this wire safely. When unspooled from your arm, a linked device in your arm aligns the molecules in the wire to create an edge that is sharper and stronger than steel. A monowire is a medium bladed weapon (4 points of damage), usually wielded with one hand like a whip, although you can hold the end with your other hand to use it two-handed.
+
+A monowire is good at attacking objects, including cybernetic limbs; in general, the GM should count it as an asset on rolls to damage objects or have your successful attack move the object an additional step down the object damage track. (This applies whether your intention was to damage the object or if you’re choosing to damage the object as a minor or major effect on an attack roll.)
+
+  
+
+Skill Arm: Replaces a forearm and possibly its upper arm. Grants you an asset on one skill that requires manual dexterity or the use of a hand—anything from medical treatment, computer use, or even firefighting. Rarely, this type of implant is just a hand.
+
+  
+
+Strong arm: Replaces one of your forearms and its upper arm. Looks like a muscular human arm. You gain an asset on strength-based tasks involving the arm.
+
+  
+
+Brain Cybernetics  
+Most people’s brains only have the capacity for two cybernetic implants; exceeding this limit tends to cause hallucinations, aggression, and brain damage.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Communicator implant|$500|
+|Duplicator|$2,000|
+|Hack augmenter|$3,000|
+|ICEpack|$7,000|
+|Neurostimulator|$3,000|
+|RAM manager|$4,000|
+|ShadyICE|$3,000|
+
+  
+
+Communicator implant: Send and receive holocalls, interface wirelessly with standard electronics, record video, and perform basic internet searches—basically anything a smart phone can do. Has planetary range for calls by connecting to wireless or satellite networks. Has three chip slots for expansions (such as a translator chip or extra data storage).
+
+  
+
+Duplicator: Implant monitors and buffers your hacks. Allows you to effect additional targets with a single-target hack. Each additional target adds 1 to the Intellect cost of the hack, and requires a separate roll to affect the target.
+
+  
+
+Hack augmenter: Implant optimizes one specific hack, granting you an asset on attack rolls with it.
+
+  
+
+ICEpack: Implant contains protective hardware and software against hacks. Grants you two assets on defense rolls against hacks directed at you or your equipment.
+
+  
+
+Neurostimulator: Implant augments your brain chemistry. When you make a recovery roll, you gain an additional +2 points that can only be used for your Intellect Pool.
+
+  
+
+RAM manager: Implant with hardware and software upgrades that facilitate memory and cognitive functions. Adds +1 to your Intellect Edge.
+
+  
+
+ShadyICE: Implant modifies your outgoing hacks to make them more stealthy. Hinders attempts to detect or redirect your hacks.
+
+  
+
+Eye Cybernetics
+
+Standard optics are sold in pairs (like shoes), so you don’t get a discount if you only need one. Eye cybernetics that work with your organic eyes usually function through an additional lens installed in your face, typically on your brow or upper cheekbone.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Countersurveillance optics|$5,000|
+|Night vision|$1,200|
+|Ogg|$900|
+|Standard optics (replacement)|$4,000|
+|Threat detector|$2,000|
+|Zoomz|$1,000|
+
+  
+
+Countersurveillance optics: Implant works with your eyes or optics, granting you two assets to notice cameras, including identifying if a person has optics.
+
+  
+
+Night vision optics: Implant works with your eyes or optics, granting you reasonably accurate vision in darkness, up to a long distance.
+
+  
+
+Ogg: Implant equivalent of an augmented reality (AR) unit. Lets you experience virtual reality programming and games, or overlay your normal vision with a heads-up display (HUD) and augmented reality functions.
+
+  
+
+Threat detector: Implant works with your eyes or optics, reading peoples’ biometrics and other data, granting you an asset on determining if a person is lying or secretly hostile toward you.
+
+  
+
+Zoomz: Implant works with your eyes or optics. Allows you to zoom in like you’re using binoculars, granting you an asset on perception tasks at long range or longer.
+
+  
+
+Face Cybernetics
+
+Limit one facial cybernetic per person.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Everydoot|$3,000|
+|FaceGoBlrr|$5,000|
+
+  
+
+Everydoot: Implant allows you to adjust bone structure and soft tissue to alter your appearance. The device is mainly for making you more anonymous by muting your normal features and less about disguising yourself as someone else. It grants you two assets on tasks to avoid being recognized, and one asset on disguise tasks to look like someone whose face is similar to yours.
+
+  
+
+FaceGoBlrr: Implanted subdermal modules can emit scrambling frequencies that make your face look like white noise when viewed through cameras or optics. Because optics and cameras are so common, it’s easy for people to spot that you’re using it (“Hey, why does their face look like that?”); although the police find this suspicious, it’s not technically illegal (but that won’t stop them from harassing you). You can activate or deactivate the device as part of another action.
+
+  
+
+Foot Cybernetics
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|CatsPaw (pair)|$5,000|
+|FootKnife (single)|$2,000|
+|PowerSkate (pair)|$3,000|
+
+  
+
+CatsPaw: Replacement for ankles and feet. Grants an asset on stealth tasks for walking and running (but not for pickpocketing or other tasks that don’t involve your feet), and reduces falling damage by 2 points.
+
+  
+
+FootKnife: Implant in your foot contains a retractable blade. You can extend the blade between your toes as part of an action, allowing you to make attacks with it (light weapon, 2 points of damage). The extended blade is short enough that it doesn’t impair walking, but running or climbing tasks are hindered when the blade is out.
+
+Even if both of your feet have FootKnifes, you still can only make one attack per round—unless you have a special ability that enables two attacks per round.
+
+  
+
+PowerSkate: Implants in each of your feet contain motorized wheels. You can extend the wheels as part of an action, allowing you to roll on smooth surfaces at your normal speed. The wheels grant two assets on tasks to move a long distance (on a smooth surface) as your entire action.
+
+  
+
+Full-Body Cybernetics
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|FuBo®|$90,000|
+|JarHead®|$50,000|
+
+  
+
+FuBo®: Immortech pioneered this technology for a full-body cybernetic replacement—a human head kept alive by a fully-cybernetic body. The typical setup replaces everything from the neck down, although more extreme conversions (such as only retaining the person’s eyes and brain, or just the brain) are available at a 20% higher cost. Installing a FuBo is a radical procedure and is normally only done for people with extensive critical injuries, a debilitating medical condition that can’t be corrected with smaller-scale cyberware, or when the brain is intact and there are no other options to save a person’s life.
+
+If you get a FuBo, you lose your original Might and Speed Pools; you gain a Might Pool and a Speed Pool of 8 each, with 4 additional points to distribute between them. Otherwise, the FuBo works just like a normal organic body—you can restore expended Pool points by using recovery rolls, you can allocate more points as part of character advancement, and so on. (The GM might need to hand-wave or explain some aspects of how your artificial body interacts with some of the rules, but the intent is that your character is just as capable and functional as a fully-organic or partly-organic character.)
+
+A FuBo has cybernetic equivalents of most organic body parts, so you can replace any of your chrome parts with new and better ones. For example, you could replace your standard FuBo arms with gorilla arms, or your standard metal skeleton with a skeletal augmentation.
+
+Many people are suspicious of those who have a full body replacement, thinking that they’re much more likely to develop SHITS.
+
+  
+
+JarHead®: Muxcom’s radical variant of a FuBo is technically still in beta testing, even though it’s available for preorder. Essentially, your brain is transferred to a shielded life-support unit about the size of a suitcase, with basic optics, audio processor, and speech synthesizer. Muxcom hasn’t worked out all the kinks in creating their own full-body replacement cyberware, so current JarHead customers are given the option of ongoing coma-sedation, soothing holoprograms transmitted directly into their cybersenses, or a CRaVAC® (Cybernetic Roaming Voice-Activated Crab) unit to carry them around.
+
+  
+
+Genitalia Cybernetics
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|HotJunk®|$4,000|
+|UltraJunk®|$9,000|
+
+HotJunk®: Manufactured by MuxCom, this set of functional replacement genitals is configured before installation to match up to seventeen common genders, each of which can be customized to the owner’s desired features, including color, size, depth, shape, curvature, texture, strength, pattern of pseudofollicles, subcutaneous lights, vibration, and so on.
+
+  
+
+UltraJunk®: Manufactured by MuxCom, this advanced version of the HotJunk includes software allowing the owner to adjust the device’s configuration on the fly, taking less than a minute to transform to its new shape.
+
+  
+
+Gut Cybernetics
+
+Most people only have room for two or three devices of this category. You can get additional ones beyond that limit, but they either become visible distensions or require additional plastiflesh padding to disguise them as belly fat, a pregnancy, or some other enlargement of your abdomen.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|BestLiver|$5,000|
+|Storage|$2,000|
+|ZoomWomb®|$20,000|
+
+BestLiver: Replaces your liver and interfaces with your stomach. Grants two assets against poison (ingested, inhaled, or injected), foodborne illnesses, and food allergens. Allows you to sober up as an action (about four drinks’ worth, requiring multiple activations for additional drinks).
+
+  
+
+Storage: Implant creates a storage cavity within your abdomen about the size of a loaf of bread, covered with a seamless plastiflesh lid that’s all but invisible to the naked eye. The cavity is dry, watertight, and airtight, and has a thermostat app (controlled by a fob, smart phone, or communicator implant) to keep its temperature anywhere between “ice water” and “hot coffee.”
+
+  
+
+ZoomWomb®: Manufactured by MuxCom as part of its Mars colony project, this artificial womb is capable of gestating an embryo or fetus to full term (approximately as safely and reliably as an organic human womb). The device can replace an organic uterus or be implanted in a host who lacks one (in other words, it can be an implant or a replacement depending on your anatomy).
+
+A ZoomWomb can be configured to gestate any type of mammal, but the host of the device needs to be biologically similar to the offspring. For example, a human could gestate a human or perhaps a chimpanzee, but not a dog, and vice versa. MuxCom PR says they’re working on better cross-species compatibility.
+
+  
+
+Hand Cybernetics
+
+Hand cybernetics are sold singly.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Grip stabilizer|$3,000|
+|Standard hand|$2,500|
+|Smart link|$5,000|
+|StillHand|$2,000|
+|WitchClaw|$5,000|
+
+  
+
+Grip stabilizer: Implant improves the hand’s grip strength and reflexes, granting you an asset on thrown weapon attacks.
+
+  
+
+Smart Link: Implant connects to your communicator implant. Having a smart link is required to use a smart weapon to its full effect.
+
+Smart weapons have an AI assistant that increases accuracy. Examples include the Raptor® smart pistol and Genius® attachment.
+
+  
+
+StillHand: Implant reduces the recoil from using a firearm, making it easier for you to hit a target with successive attacks. If you hit, your attack against that target on the next round is eased unless they move at least an immediate distance from their location last round.
+
+  
+
+WitchClaw: Implant in your hand contains five retractable blades. You can extend the blades through the tips of your fingers and thumb as part of an action (resembling long fingernails), allowing you to make attacks with them (altogether counting as a light weapon, 2 points of damage). The extended blades don’t interfere with most hand tasks.
+
+Even if both of your hands have witchclaws, you still can only make one attack per round—unless you have a special ability that enables two attacks per round.
+
+  
+
+Heart Cybernetics
+
+Most people can only tolerate having two heart cybernetics at the same time; more than that tends to cause glitches and false triggers that can be lethal.
+
+Item Price
+
+|   |   |
+|---|---|
+ 
+|Medical pump|$4,000|
+|PanicButton|$5,000|
+|SecondLife|$10,000|
+|Standard heart (replacement)|$15,000|
+|Zfibrilator|$8,000|
+
+  
+
+Medical pump: Implant injects you with restorative drugs when activated by a linked fob or your communicator implant. Gives you an additional one-action recovery roll each day. Older models don’t work instantly, instead restoring 1 point per round over the course of several rounds until the amount of the recovery roll is reached.
+
+  
+
+PanicButton: Implant injects you with performance-enhancing drugs if your Might Pool reaches zero, granting you an asset on Speed defense for one minute. Once activated, it won’t do so again until after your next ten-hour recovery roll.
+
+  
+
+SecondLife: Implant injects you with restorative drugs if you die (from damage, moving down the damage track, or some other medically-identifiable cause), granting you an immediate free recovery roll. Once activated, it won’t do so again until after your next ten-hour recovery roll.
+
+  
+
+Zfibrilator: Implant injects you with restorative drugs if any of your Pools are reduced to zero points, granting you an immediate free recovery roll. Once activated, it won’t do so again until after your next ten-hour recovery roll.
+
+  
+
+Leg Cybernetics
+
+Leg cybernetics are sold singly.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|JackRabbit|$5,000|
+|Leg blade|$8,000|
+|MurphyLeg|$6,000|
+|Standard leg|$4,000|
+
+  
+
+JackRabbit: Replacement augments your jumping and running, granting an asset on these tasks. Also reduces falling damage by 1 point.
+
+  
+
+Leg blade: Replacement articulated blade prosthetic (some models are full-leg replacements, others just replace your lower leg). Gyrostabilizers allow you to walk or run on the tips of the blade as easily as you would with a foot, and grant an asset on balancing tasks. You can use the blade to attack (medium weapon, 4 points of damage). Say goodbye to wearing shoes and long pants.
+
+Even if both of your legs are leg blades, you still can only make one attack per round—unless you have a special ability that enables two attacks per round.
+
+  
+
+MurphyLeg: Replacement leg with a pop-out compartment in the thigh that contains a pistol holster and two clips. Thigh is designed to conceal the presence of the compartment even to scanning devices; tasks to hide the existence of the compartment (and its contents) are eased by two steps. Includes an swappable holster bracket for holding two large knives.
+
+  
+
+Muscle Cybernetics
+
+Most people can manage two muscle cybernetics at once.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Myomanager|$4000|
+
+  
+
+Myomanager: Implanted strong synthetic muscle fibers all over your body. Adds +1 to your Might Edge. You can have multiple simultaneous instances of this implant.
+
+  
+
+Nervous System Cybernetics
+
+You can have up to two nervous system cybernetics.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Adrenaline boost|$3,000|
+|Reflex manager|$4,000|
+|Twitch fiber|$3,500|
+
+  
+
+Adrenaline boost: Implant improves reaction time, granting an asset on initiative tasks.
+
+  
+
+Reflex Manager: Implant upgrades nerve fibers, improving speed and reflexes. Adds +1 to your Speed Edge.
+
+  
+
+Twitch fiber: Implant calculates and anticipates optimal movement when defending. Grants an asset on one Speed defense task of your choice each turn.
+
+  
+
+Skeleton Cybernetics
+
+Most people can only tolerate up to three skeleton cybernetics at once; exceeding this limit causes incompatible errors and deterioration.
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Metamarrow|$3,500|
+|Regenerator|$5,000|
+|Skeletal augmentation|$6,000|
+|Skeletal reinforcement|$7,000|
+
+  
+
+Metamarrow: Implant works with your immune system. When you make a recovery roll, you gain an additional +2 points that can only be used for your Might Pool. You can have multiple simultaneous instances of this implant.
+
+  
+
+Regenerator: Augments your immune system. Grants you an additional one-action recovery roll.
+
+  
+
+Skeletal augmentation: Implant adds +1 to your Might Edge. You can have multiple simultaneous instances of this implant.
+
+  
+
+Skeletal reinforcement: Implant adds +1 your Armor. You can have multiple simultaneous instances of this implant.
+
+  
+
+Skin Cybernetics
+
+You can have up to two skin cybernetics at the same time. DermaChrome, LiveTats, and NuSkin don’t count toward this limit (but you can’t have both DermaChrome and NuSkin on the same part of your body).
+
+|   |   |
+|---|---|
+ 
+|Item|Price|
+|Dermachrome|$4,000|
+|DumbScrambler|$3,000|
+|Galvanic eel|$6,000|
+|LiveTat|$1,000|
+|NuSkin|$3,000|
+|Subdermal weave|$6,000|
+
+  
+
+Dermachrome: Replaces most or all of your natural skin with metallic-sheened plastiflesh. Available in silver, bronze, copper, gold, and most chromatic shades. Listed price is for your entire skin; anything up to about half your skin is half the cost.
+
+  
+
+DumbScrambler: Confuses and scrambles smart weapons aimed at you. Smart weapons can’t get a lock on you, and their attacks against you are hindered.
+
+  
+
+Galvanic eel: Network of chemically-activated electrical nodes all over your body. Activating it is not an action (and can be done when it’s not your turn). It releases a burst of electricity, inflicting 4 damage to all creatures in immediate range. Once used, it slowly recharges, and can’t be activated again until after your next recovery roll.
+
+  
+
+LiveTat: A thin flexible videoscreen about the size of your hand that matches the material (flesh, plastic, or metal) of the intended part of your body. The livetat can alternate between up to twenty images copied into the device, or show a looped animation of up to one minute.
+
+  
+
+NuSkin: Replaces most or all of your natural skin with plastiflesh. Take care of that pesky acne, get a tan, and get some cosmetic augmentations (lifts, nips, and tucks) while you’re at it. Listed price is for your entire skin; anything up to about half your skin is half the cost.
+
+  
+
+Subdermal weave: A reinforced metal and plastic layer of armor that goes under your skin, generally unnoticeable to the untrained eye. Counts as light armor; grants you +1 Armor, with a +2 Speed Effort cost.
+
+  
+
+Cyberpunk Vehicles
+
+  
+
+Just as in real life, cyberpunk car makers want to excite potential buyers about a vehicle’s performance, speed, handling, and other capabilities. Some brands are about prestige and luxury, others utility, and still others about raw power.
+
+This section includes only a small selection of vehicles that characters can purchase in a typical city environment. Many more vehicle types and brands probably exist in a typical cyberpunk setting.
+
+The last part of this section describes aftermarket customization that vehicle owners can add to their cars and trucks. These features grant vehicles advanced, unusual, or exceptional abilities, or additional options in the hands of specially-trained or cybernetically-enhanced characters.
+
+  
+
+Hackable Vehicles
+
+Unless noted otherwise, all vehicles are hackable. The effects of hacking vary (GM’s discretion), but include the vehicle’s brakes failing or activating unexpectedly, the vehicle driving where the driver doesn’t want to go, the vehicle running over a pedestrian or crashing, and so on.
+
+  
+
+Vehicles
+
+PCs can buy vehicles from a variety of dealers in most cyberpunk settings. If a particular vehicle has an aftermarket mod or brand capability that includes weapons or weapon-like features, the dealer is either harder to find or only indicates their inventory to select clientele.
+
+|   |   |   |
+|---|---|---|
+  
+|Vehicle|Price|Notes|
+|Car, luxury|$100,000|level 6|
+|Car, sedan|$30,000|level 4|
+|Car, sports|$55,000|level 6|
+|Car, utility|$30,000|level 5|
+|Mech, battle|priceless|level 7|
+|Motorcycle, cruiser|$3,000|level 3|
+|Motorcycle, dirt bike|$500|level 2|
+|Motorcycle, interceptor|$75,000|level 4|
+|Motorcycle, monowheel|$10,000|level 3|
+|Skates, powered|$500|level 3|
+|Tank, hover|priceless|level 7|
+|Tank, spider|priceless|level 7|
+|Truck, big rig|$125,000|level 5|
+|Van, cargo|$25,000|level 4|
+|Wheelchair, motorized|$3,000|level 3|
+|Wheelchair, standard|$250|level 2|
+
+  
+
+Vehicle Descriptions
+
+Basic vehicle descriptions are provided in this section.
+
+  
+
+Power: Some or all of the vehicles could have fully electric motors, internal combustion engines (perhaps with gasoline or biodiesel), hydrogen fuel cells, or something else, depending on the specifics of your setting.
+
+  
+
+Vehicle Movement in Game Terms: Most vehicles described here can move a long distance on paved surfaces when starting from a standstill if the driver applies full acceleration without turning or maneuvering. A round or two later, a vehicle traveling at least 60 mph (96 kph) can travel a very long distance each round on paved surfaces, assuming the area is clear of traffic. Going full speed in traffic requires a driver’s concentrated attention, and all kinds of GM intrusion possibilities exist, because other drivers do crazy things.
+
+A vehicle’s range is how far the vehicle can travel on a full tank of gas or liquid hydrogen, on a full charge, etc.
+
+  
+
+Car, Luxury: The epitome of opulence, these vehicles are preferred by the ultra-wealthy. Luxury vehicles blend timeless elegance with cutting-edge technology—most come equipped with at least three aftermarket customizations, one of which is probably a Skyroam® VTOL pod granting flight. Seats a driver and up to four or five passengers. Auto-stabilization eases all tasks related to driving. Trunk storage is enough for a couple of large suitcases. A luxury car has a range of over 400 miles (640 km) with a top speed of around 160 mph (260 kph).
+
+  
+
+Car, Sedan: Four-wheeled vehicle supporting an average frame with stylistic elements that vary by manufacturer, a sedan seats a driver and up to four additional passengers. Trunk storage is enough for a couple of large suitcases. A sedan has a range of over 400 miles (640 km) with a top speed of around 120 mph (190 kph).
+
+  
+
+Car, Sports: Four-wheeled vehicle, supporting a “rolling work of art” frame focusing on flamboyance and swagger. Seats a driver and usually only a single passenger. Auto-stabilization eases all tasks related to driving. Trunk storage is enough for a couple of small suitcases. A sports car has a range of over 400 miles (640 km) with a top speed of around 200 mph (320 kph).
+
+Sports cars, unlike most vehicles, can travel a very long distance in the very first round they fully accelerate in straight line, if on a paved surface with no traffic in the way.
+
+  
+
+Car, Utility: Four large wheels support a tall frame (sometimes utilitarian, other times sporty, depending on the manufacturer); seats a driver and up to seven passengers with cargo space for four or more large suitcases, plus additional gear storage on top. Billed as combining the ruggedness of an off-road vehicle with the comfort of a passenger car. Four-wheel drive eases all tasks related to driving through broken and difficult terrain. A sedan has a range of over 350 miles (560 km) with a top speed of around 120 mph (190 kph).
+
+  
+
+Mech, battle: Produced by Muxcom, this powered anthropomorphic exoskeleton frame is partially open to the environment, offers minimal storage, and provides +3 Armor to its solitary operator. Biofeedback links ease attacks made by the battle mech operator using either a bult-in electrified blade for melee or a long-range combat rifle, inflicting 6 points of damage. A mech can walk or power jump across broken or difficult terrain or paved surfaces with equal facility, with a range of about 120 miles (190 km) and a top speed of about 70 mph (110 kph).
+
+  
+
+Motorcycle, Cruiser: Two-wheeled vehicle, supporting a stylish frame with a seat for one rider (and sometimes a passenger) open to the environment. A cruiser may have saddlebags with storage equal to a couple of small suitcases. A cruiser is designed for paved surfaces, on which it has a range of 240 miles (380 km) with a top speed of 160 mph (260 kph).
+
+  
+
+Motorcycle, Dirt Bike: Knobby two-wheeled vehicle, supporting a basic frame with a seat for one rider (and sometimes a passenger) open to the environment. A dirt bike has minimal storage but is ideal for wild terrain and off-road travel, with a range of about 130 miles (200 km) when moving at safe speeds for broken/off-road conditions of about 30 mph (48 kph). Range and speed double on paved surfaces.
+
+  
+
+Motorcycle, Interceptor: Produced by Kaisha, this two-wheeled vehicle supports a reinforced, armored frame with a seat for one driver (and sometimes a passenger). It’s partly closed off from the environment, providing the driver +2 Armor. An interceptor has minimal storage but features a deployable swivel long-range machine gun that inflicts 6 points of damage. Auto-stabilization eases all tasks related to driving the vehicle. Suitable for paved and broken surfaces. On paved surfaces it has a range of 300 miles (480 km) with a top speed of 90 mph (144 kph). Range and speed half on broken surfaces.
+
+  
+
+Motorcycle, Monowheel: Produced by Immortech, this large, single-wheeled, high-mobility vehicle features a gyroscopic actuator and a compact jet engine, allowing for extremely quick acceleration and tight maneuvering—driving tasks are eased. A monowheel has minimal storage but makes up for it with built-in weapons including a deployable swivel long-range machine gun that inflicts 6 points of damage and two single-use very-long-range micro-missiles that inflict 8 points of damage in an immediate area. Suitable for paved surfaces, it has a range of 200 miles (320 km) with a top speed of 200 mph (320 kph).
+
+  
+
+Skates, Powered: Produced by Muxcom, these custom inline skates extend up the calf and over the knee, an armored exoskeleton-like housing that grants extra stability to the skater as powered wheels propel them through “the ultimate urban riding experience.” Powered skates have minimal storage. In assist mode on paved surfaces, a skater has a range of over 120 miles (190 km) with a top speed of around 90 mph (145 kph).
+
+  
+
+Tank, Hover: Produced by Immortech, this massively armored cab is supported by a ground effect field allowing the tank to flit across terrain of any kind, including water, at about 6 feet (2 m) above the ground. Seats a pilot and a gunner plus up to three passengers, with interior cargo space for up four or more large suitcases, plus additional exterior gear storage. The gunner controls a primary very-long-range cannon that deals 12 points of damage in an immediate area (carrying about 30 shells). A hover tank has a travel range of over 500 miles (800 km) with a top speed of around 100 mph (160 kph).
+
+  
+
+Tank, Spider: Produced by Kaisha, this massively armored cab is supported by four to six thick metallic legs allowing the tank to cross broken and difficult terrain as well as paved surfaces with equal facility (it ignores most difficult terrain except for flooded areas or large bodies of water); when climbing mode is engaged, it can slowly ascend reinforced structures. Seats a pilot and a gunner plus up to three passengers, with interior cargo space for four or more large suitcases, plus additional exterior gear storage. The gunner controls a primary very-long-range cannon that deals 12 points of damage in an immediate area (carrying about 20 shells). A spider has a range of over 250 miles (400 km) with a top speed of around 40 mph (60 kph).
+
+  
+
+Truck, Big Rig: Also known as a semi-truck or tractor-trailer, these large, powerful vehicles are used for transporting goods over long distances. Consists of the engine and cab, which holds a driver plus up to two passengers. A coupling mechanism at the rear allows the rig to haul one or more trailers behind, granting an enormous hauling capacity upwards of 4,000 cubic feet (370 square meters), accessible from the cab’s rear doors. A big rig has a driving range of over 1,000 miles (1,600 km) with a top speed of around 75 mph (120 kph).
+
+  
+
+Van, cargo: Four wheeled tall-body vehicle optimized for carrying goods instead of passengers. The cab holds a driver and up to two passengers. The rear compartment, which may be separated from the cab, offers upwards of 300 cubic feet (8.5 cubic meters) of cargo space, sometimes featuring shelves or racks. A van has a driving range of over 350 miles (560 km) with a top speed of around 90 mph (140 kph).
+
+  
+
+Wheelchair, Standard: A standard mobility device consisting of a seat, two large wheels (operated by the user’s arms), two small wheels for stabilization, and a small storage area behind the seat (about equivalent to a large backpack or small suitcase). On paved or smooth surfaces, a person using a wheelchair can move at the same speed as person on foot.
+
+  
+
+Wheelchair, Motorized: Produced by Muxcom, this wheelchair features self-strapping five point safety belts and joystick control over motorized wheels that adjust to on and off-road situations, including the capability of taking stairs easily. The wheelchair seats a single user, but includes under seat storage equal to a small suitcase. A motorized wheelchair has a range of about 120 miles (190 km) with a top speed of about 45 mph (72 kph).
+
+When not in use, the motorized wheelchair can be folded down into a suitcase that can be carried or wheeled.
+
+  
+
+Aftermarket Customizations
+
+As with vehicles, PCs can buy aftermarket attachments from a variety of dealers in most cyberpunk settings, though those that are weapons are harder to acquire.
+
+|   |   |   |
+|---|---|---|
+  
+|Customization|Price|Notes|
+|BioPulse® Ambulance Sidecar|$6,000|level 4|
+|Cerebrox® Auto Interface|$5,000|level 5|
+|Cryptocruise® Car Cloak|$20,000|level 5|
+|Evermax® Bulletproof Interior|$10,000|level 3|
+|Evermax® Bulletproof Windows|$2,000|level 3|
+|Helix® Food And Comfort Sidecar|$10,000|level 4|
+|Imperium® Windowless Cab|$4,000|level 4|
+|Lancer® Self-Driving Mod Chip|$8,000|level 3|
+|MadMegan® Rocket Pod|$50,000|level 5|
+|Omni-Road® Wall Wheels|$10,000|level 5|
+|Sentinex® Anti-Theft|$4,000|level 3|
+|Skyroam® VTOL pod|$100,000|level 4|
+|SmoothRide® tires|$7,000|level 5|
+|Turbocore® Acceleration|$4,000|level 5|
+|Vigiwatch® Remote Driving|$7,000|level 5|
+
+  
+
+Aftermarket Customization Descriptions
+
+Any vehicle can be outfitted with an aftermarket customization. Level 5 or higher vehicles can take two, and level 6 or higher vehicles can take three different customizations.
+
+Installing customizations to a vehicle requires a garage fitted with tools and lifts and takes at least four hours, or half that time if the character succeeds on a difficulty 4 mechanics roll. Removing a customization takes the same amount of time as installing one. Removing a customization usually destroys it (but those who succeed on a difficulty 6 mechanics roll manage to salvage it).
+
+Most attachments are available from multiple manufacturers, but the branded ones are what customers seek out most, whether that’s because they’re the highest quality or because of better marketing.
+
+Corporations that make aftermarket customizations deliberately manufacture them so that they’re destroyed if removed; planned obsolescence means a customer has to buy a new one rather than transferring it to a different vehicle.
+
+  
+
+  
+
+BioPulse® Ambulance Sidecar: Someone put in the sidecar gets a free 1 hour recovery roll (NPCs get 5 health), but they are under anesthesia the whole time. GM intrusion suggestion: Oleg NutriCorp, the maker of the BioPulse® Ambulance Pod, commandeers the car to respond to an accident of a rich client nearby.
+
+  
+
+Cerebrox® Auto Interface: Driver who wears the vehicle’s neural cap gains an asset on all driving tasks with vehicle. Someone who also jacks in using a cybernetic connection gains an additional asset. GM intrusion suggestion: A well-known, unpatched exploit means tasks to hack the vehicle are eased.
+
+  
+
+Cryptocruise® Car Cloak: Car treatment renders it harder to track via video, radar, lidar, or even if a tracker is attacked to the car, hindering all electronic tracking by two steps. GM intrusion: All tracking is hindered except tracking attempted by Zeerosh, the aftermarket manufacturer.
+
+  
+
+Evermax® Bulletproof Interior: Hinders by two steps attacks meant to penetrate doors, roof, floor, or other sections of car to target the passengers or driver of the vehicle. GM intrusion suggestion: The doors get stuck shut.
+
+  
+
+Evermax® Bulletproof Windows: Hinders by two steps attacks meant to penetrate, shatter, or bypass windows to target the passengers or driver of the vehicle. GM intrusion suggestion: The windows fog.
+
+  
+
+Helix® Food And Comfort Sidecar: When opened while vehicle is not moving, robotic vending can serve up thirty people a day like a mini-food truck, featuring pre-packed JimBob AgriBiz products. Also features a deployable porta-potty, attached via hose. Sidecar requires only minimal inputs each month as base feedstock for 3D printing inside unit. Operating the vending for an eight-hour day nets the owner about $100 in profits. GM intrusion suggestion: Fans of the food truck side business come looking for it at an inopportune time.
+
+  
+
+Imperium® Windowless Cab: “No more tinted windows! All-in-one privacy and safety enhancement.” Removes windows from vehicles completely, replacing them with exterior cameras and interior screens. GM intrusion suggestion: Electromagnetic inference causes the exterior cameras to fail for a few rounds.
+
+  
+
+Lancer® Self-Driving Chip: Allows car to autonomously navigate to routes selected from database. GM intrusion suggestion: The vehicle delivers passengers somewhere unexpected.
+
+  
+
+MadMegan® Rocket Pod: Driver (or other passenger) can fire a rocket at a target within long range every few rounds. Rocket explodes in an immediate range dealing 5 points of damage. GM intrusion suggestion: Rockets are all expended.
+
+  
+
+Omni-Road® Wall Wheels: If installed on a small vehicle like powered skates, a motorized wheelchair, or a monowheel, the vehicle can drive on steeply inclined or even vertical surfaces (such as the sides of buildings) in any direction so long as they’re moving at least a short distance each round. GM intrusion suggestion: The window of the building being driven across shatters.
+
+  
+
+Sentinex® Anti-Theft: Armed when primary user exits vehicle, electrifying surfaces. Armed surfaces deal 3 points of damage every few rounds to anything that touches interior or exterior of vehicle and sends video alert to vehicle owner. GM intrusion suggestion: Video alert shows owner that someone they’d prefer not be shocked is approaching the armed vehicle.
+
+For double the cost, an anti-theft upgrade also releases a puff of nerve gas. Those within immediate range that are affected are knocked out for a few minutes.
+
+  
+
+Skyroam® VTOL Pod: With the touch of a button, the car lifts into the sky as the wheels give way to a series of rotor blades housed in cylindrical mounts. A car customized with this unit can go about as far and as fast as before, but in three dimensions.
+
+  
+
+SmoothRide® Tires: Hundreds of nodules on the surface of these tires can extend or contract up to one foot (30 cm) like a starfish’s tube feet. The tires’ built-in cameras scan the upcoming ground surface, and an app manipulates the nodules to precisely fit uneven surfaces such as gravel and even rubble. A vehicle with these tires is not slowed at all on rough terrain, round-by-round movement on difficult terrain is not slowed, and long-term movement on difficult terrain is only reduced to about half normal.
+
+  
+
+Turbocore® Acceleration: When activated, a secondary motor revs up, causing the vehicle to insanely accelerate for one round, easing by three steps any task related to arriving on time, racing, or losing another driver in the rear view mirror. Once used, it can’t be used again for about 10 minutes. GM intrusion suggestion: The speed is even more extreme than was intended, and another vehicle is struck.
+
+  
+
+Vigiwatch® Remote Driving: Owner can remotely drive their vehicle using a paired visor from any location, so long as a digital signal is able to connect the two. Remote driving tasks are hindered. GM intrusion suggestion: A self-aware AI begins taking the car out on joy-rides.
+
+  
+
+  
+
+
+
+## Cyphers
+
+A typical cyberpunk campaign uses a mix of subtle cyphers and manifest cyphers. In most cases, it doesn’t matter if a cypher is subtle or manifest.
+
+Characters who are part of the campaign’s chrome culture or hacker culture often use slang names for common cyphers. For example, a hacker might call an Intellect booster cypher “digital coffee,” a mind stabilizer “personal ICE,” and an Intellect defense skill boost “countermeasures.”
+
+### Manifest Cypher Forms
+
+- Circuit board
+- Chip (roughly the equivalent of a thumb drive)
+- Food tube
+- Inhaler (nebulizer or vape)
+- Pill
+
+### Pharmaceutical Cyphers
+
+Many cyphers in a cyberpunk setting are some kind of drug—perhaps a street drug, designer drug, or megacorporation-crafted combat drug. Altogether, these are considered “pharmaceutical cyphers,” and they include most inhaler and pill cyphers. Character abilities and other game mechanics that affect poisons have a similar effect on pharmaceutical cyphers (although these shouldn’t prevent a character from intentionally using a pharmaceutical cypher).
+
+### Apps As Cyphers
+
+Cyberpunk also allows for cyphers in the form of software apps, which can be downloaded onto any device that can store data, such as a laptop, computer chip, smart weapon, smart phone, or communicator implant. Technically these are subtle cyphers because they’re not distinct physical objects. The benefit of having an app cypher is that (like a manifest cypher) a character could give or trade an app to another person by either handing over the device it’s stored on or (more commonly) digitally transferring the app from its current device to a new one, which automatically deletes it from the current device.
+
+Even though apps can be cyphers, not all apps are cyphers. A character might have dozens of apps installed on their communication implant—games, social media, specialized camera filters, image editing software, and so on; none of those count toward the character’s cypher limit. Only actual cypher apps count toward a character’s cypher limit.
+
+Characters can find random app cyphers on a device or server, just like they might “find” a random subtle cypher. There is a rule for allowing PCs to shop from a list of specific app cyphers (for example, if they know they’re facing an enemy hacker in an upcoming job and want to load up on anti-hacking cyphers).
+
+### Malware Cyphers
+
+Any cypher that has a software component (including app cyphers, chips, and circuit boards) has a risk of being infected with malware. The malware is the same level as the cypher and has one or more of the following effects.
+
+Software cypher GM intrusion: The cypher is infected with malware, which activates when the character uses the cypher.
+- Sends the user’s personal information (location, POV camera video, account numbers) to a hacker
+- Attacks one (or more) of the user’s devices or implants, bricking it or at least hindering it by one to three steps (perhaps with a ransom demand)
+- Hinders the user’s defense rolls against hacks by one to three steps
+- Copies itself to nearby characters’ devices
+- Mines cryptocurrency on the user’s hardware
+- Resets the user’s passwords, locking them out of other devices
+ 
+### Random Cyberpunk Cyphers
+
+|d00|Cypher|
+|---|---|
+|01–08|Danger daemon|
+|09–13|Death by a thousand cuts|
+|14–25|Drug blocker|
+|26–35|Fastest keys|
+|36–45|Ghost defense|
+|46–57|Knowledge enhancement (hacking)|
+|58–69|Lockout hack|
+|70–80|Logic bomb|
+|81–90|Skill boost (hacking)|
+|91–00|Vigilance|
+
+#### Danger Daemon
+
+Level: 1d6 + 1
+
+Effect: Creates a daemon (program) within a computer system the user is connected to. The daemon moves to intercept and attack an entity within the system that the user is aware of. This daemon’s level is equal to the cypher’s. After about one minute, the daemon vanishes.
+
+  
+
+#### Death by a Thousand Cuts
+
+Level: 1d6 + 2
+
+Effect: This pistol-like device fires a barrage of dart-like projectiles (equal to the level of the cypher) at one target within short range. As a single action, the user makes a separate hindered attack for each projectile. The user remains limited by the amount of Effort they can apply on one action; because these are separate attacks, the opponent’s Armor applies to each of them. Anything that modifies the user’s attack or damage applies to all of these attacks, unless it’s specifically tied to a single attack. A dart that hits inflicts 2 points of damage.
+
+Death by a thousand cuts is only available as a manifest cypher, never as a subtle cypher … unless the GM wants a digital version for use within a computer system.
+
+  
+
+#### Drug Blocker
+
+Level: 1d6
+
+Effect: Automatically detects drugs (medications, street drugs, pharmaceutical cyphers, and so on) in the user’s system, informs the user what drug they’ve been dosed with, and (if the cypher level is equal to or greater than the drug’s level) gives them the option to counteract the drug’s effects. Countering the drug also negates its side effects and prevents overdose or addiction from that specific dose. Lasts one hour per cypher level.
+
+  
+
+#### Fastest Keys
+
+Level: 1d6
+
+Effect: For ten minutes per cypher level, the user’s speed increases for computer work (including hacking), allowing them to reduce the time of any computer-related task to half the normal amount. Note that this only affects the user’s speed, not the computer’s speed, so some tasks (such as downloading a very large file) are not sped up. While the character is netrunning, their movement is doubled and their Speed-based attacks and Speed defense are eased.
+
+  
+
+#### Ghost Defense
+
+Level: 1d6 + 1
+
+Effect: While the user is working within a computer system, creates a number of ghosts (simple level 1 programs meant to resemble the user) equal to the cypher’s level. The ghosts move about the system, poking at code, attempting logins, and otherwise acting as a distraction to keep hostile entities within the system from seeing what the user is doing. Approximately once each minute, one of the ghosts is destroyed (either falling prey to ICE or self-destructing after leading pursuers down a false trail).
+
+The ghosts attract a lot of attention to themselves and the user, so this cypher is normally reserved for when the user has been detected within the system and needs to buy some time.
+
+The effects of a ghost defense cypher might vary depending on the structure of the hacking environment; see the Seventeenth Floor adventure for an example.
+
+  
+
+#### Knowledge Enhancement (Hacking)
+
+Level: 1d6
+
+Effect: For the next day, the character has training in hacking (or hacking and defense against hacking, if the cypher is level 5 or higher).
+
+  
+
+#### Lockout Hack
+
+Level: 1d6 + 2
+
+Effect: Targets an entity the user has detected within the system (such as a rival hacker or a defensive bot). If the user succeeds at an Intellect-based attack, the cypher traps the entity in place within the system for one ten minutes per cypher level, preventing them from taking actions that affect any other part of the system (such as searching for the user, attacking the user remotely, or shutting down other parts of the system). Even if the entity logs out of the system and logs back in, they’re dropped right back into the trap.
+
+Think of a lockout hack as an endless cascade of pop-up windows affecting the entity’s screen, each with a “prove you’re not a robot” test.
+
+  
+
+#### Logic Bomb
+
+Level: 1d6 + 2
+
+Effect: Deploys targeted malware against an entity within a computer system (such as a hacker, surveillance bot, or sysadmin) that the user has detected. The user makes an Intellect-based attack roll against the entity; if successful, the entity takes Intellect damage equal to the cypher’s level (ignores Armor), and creatures adjacent to the entity (relatively speaking within the system) take 1 point of Intellect damage.
+
+  
+
+#### Skill Boost (Hacking)
+
+Level: 1d6
+
+Effect: Dramatically but temporarily alters the user’s mind and body so they can ease a hacking task by three steps. Once activated, this boost can be used a number of times equal to the cypher’s level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three hacks the character attempts.
+
+  
+
+#### Vigilance
+
+Level: 1d6
+
+Effect: Aids the user’s ability to notice being hacked, detect the digital presence of hackers and bots in a system, and resist hacks and digital attacks from hackers and bots. These tasks are eased (by two steps for cypher level 5 and higher) for ten minutes per cypher level.
+
+## Artifacts
+
+Artifacts are prototype, experimental, highly regulated, or otherwise rare devices that aren’t generally for sale. They usually only end up in the hands of PCs as a reward for a job, loot from a fallen foe, or the spoils of a mission. Some artifacts are cybernetics (requiring surgery to install or remove), others are like regular equipment or vehicles (easily traded between people).
+
+Like a cypher, every artifact has a level. An artifact also has a depletion stat, written as a number range on a die roll, such as 1–2 in 1d10. When an artifact is used or activated, the player rolls the designated die. If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of “—” means that the artifact never depletes, and an entry of “automatic” means that it can be used only once.
+
+On depletion, a cybernetic artifact stops working and provides the user with none of its benefits; depending on the cyberware, it might even be a liability (such as hindering tasks using that part of the body) until it is repaired or removed.
+
+### Zeerosh Artifacts
+
+Zeerosh is known for its “disposable,” cheap, and somewhat-unreliable products. To make a Zeerosh equivalent of any of the artifacts presented in this section, double the item’s depletion rate (such as from 1–9 in 1d20 to 1–18 in 1d20), increase the GM intrusion range for using it by 4, or both.
+
+  
+
+### Making Artifacts Common
+
+The idea of these artifacts is that they’re rare, unusual, and not generally available because they’re prototypes or one-offs. However, if you want your setting to have even more advanced tech compared to a typical cyberpunk game, any or all of the items in this section might be available for purchase, just like the items in the Equipment or Cybernetics sections. If that is the case, you should decide the prices for these items (generally at least as much as comparable equipment and cybernetics, if not more) and if they still have a depletion stat.
+
+  
+
+### Example Artifacts
+
+The rest of this section is examples of artifacts suitable for a cyberpunk game. As with the items in the Equipment section, some of these have trademark symbols or a megacorporation’s name, which means they’re only available from that megacorp (or knockoffs may be available at significantly poorer quality, lower reliability, and more frequent depletion).
+ 
+|D00|Artifact|
+|---|---|
+|01|Augmentive Warframe (cyberware)|
+|02–06|Blue Shift™ Implant (cyberware)|
+|07–13|Bugdrone™|
+|14–15|EMP Weapon|
+|16–19|Fiery Mantis™ (cyberware)|
+|20–21|Focusing module (Fuses Mind and Machine)|
+|22–23|Focusing module (Moves Like a Cat)|
+|24–25|Focusing module (Works the Back Alleys)|
+|26|GasLight™ Projector|
+|27|Gatekeeper™|
+|28–30|Gladys™ Pistol|
+|31–33|Hover Bike|
+|34–36|Iridescent Shadow™ Suit|
+|37–43|LifeBlood™|
+|44–47|MagMaster™ Railgun|
+|48–51|Magnoshield™|
+|52–56|Maser Pistol|
+|57–59|MaxTranq™ Rifle|
+|60–65|Molotok™ Rocket Hammer|
+|66|NewU™|
+|67–68|Nightblade™|
+|69–70|OmniDoc|
+|71–75|PlantSkin™ (cyberware)|
+|76|Power Warframe|
+|77–79|Puppetmaster|
+|80–84|Red Haze™ Implant (cyberware)|
+|85–86|Relentless™ Pistol|
+|87|Scarab Door™|
+|88–97|Skill Chip|
+|98|Suitcase Nuke|
+|99–00|Tri-Arm™ (cyberware)|
+
+  
+
+  
+
+#### Augmentive Warframe (cyberware)
+
+Level: 1d6 + 1
+
+Form: Metal cybernetic exosuit designed for a human wearer
+
+Effect: This device requires surgery to connect it to the user’s muscles, skeleton, and nervous system. Other than various contact points all over the user’s body, the device is completely external, and can be equipped over existing cybernetics (barring some sort of extreme augmentation, such as a limb replaced by a cruise missile launcher).
+
+As part of another action, the user can activate the AI assistant so it augments their strength and movement for the next hour, adding 2 to their Might Edge (3 for artifact level 6 and higher). As the user’s entire action, they can move a long distance (in a generally straight line) and can maintain this speed without fatigue for the entire duration of the warframe’s augmentation period.
+
+The user can disengage the assistive AI (ending the Might Edge boost and increased movement speed) as an action.
+
+The warframe can function indefinitely if the augmentation mode isn’t used, drawing energy from the user’s body like any large cybernetic implant. When in augmentation mode, its increased power consumption is provided by an attached external battery.
+
+If the artifact depletes, there’s a 50% chance it just needs a new battery (taking one to ten minutes to swap out); otherwise, some of the mechanisms have seized up or burned out and need to be replaced or repaired.
+
+Depletion: 1 in 1d20 (check each use)
+
+  
+
+#### Blue Shift™ Implant (cyberware)
+
+Level: 1d6 + 3
+
+Form: Paired cybernetic implants (one for the brain, one for the nervous system)
+
+Effect: Created by Kaisha, this military-grade cyberware accelerates the user’s movement and thought to superhuman levels. To most people, the user appears to be a fast-moving blur—if they notice them at all.
+
+The user can activate the artifact as part of their action, immediately gaining two additional actions on that turn (three actions for artifact level 8 and higher). However, the user’s intense speed outpaces what most mechanical devices are designed for (such as a keyboard registering keypresses or a just-fired pistol cycling a new cartridge into its chamber), so the user’s additional actions are typically limited to extra movement, quick manipulations of objects, and low-tech physical attacks (unarmed, swords, throwing knives, and so on). The accelerated user also gains two assets on Speed defense and stealth for the next round.
+
+The user can activate it during another creature’s turn, immediately gaining one action before the creature finishes their turn and a second action after the creature finishes their turn; they also gain two assets on Speed defense and stealth for the next round.
+
+Depletion: 1–9 in 1d20 (if the artifact depletes, the user can instead move one step down the damage track; an NPC user who choses this option is hindered by two steps until they rest for ten hours)
+
+Blue Shift™ GM intrusion: The stress on the user’s bodily systems moves them one step down the damage track, even if the artifact didn’t deplete.
+
+Variant Blue Shift™ prototypes from other megacorporations aren’t nearly as effective as the Kaisha model, perhaps granting only one or two additional actions per use, and only one asset on Speed defense and stealth.
+
+  
+
+#### Bugdrone™
+
+Level: 1d6 + 1
+
+Form: Living cockroach or dragonfly with sensors and remote-piloting implants
+
+Effect: This Rubylight “drone” is actually a living cybernetic insect modified with a camera, microphone, and microreceivers that respond to signals from a handheld controller. The user “drives” the insect like playing a videogame, and receives audio and video input on the controller’s screen (which can be streamed to a television, monitor, or the user’s optical implant).
+
+The maximum range for control and receiving data is a long distance (very long distance for artifact level 6 and higher), but thick walls or shielding can reduce this by one or two range categories. The insect mostly looks like a typical creature of its kind, but when still and viewed up close (at arm’s length or less) the implanted tech is obvious.
+
+When not being used as a drone, the insect lives in a small terrarium and requires minimal care (prompted by cues from the handheld controller).
+
+Depletion: 1 in 1d20 (depletion sometimes means the cybernetics suffered a mishap but can be repaired; otherwise, it means the insect stops responding due to hunger or death)
+
+Cybernetic Insect: level 1, Speed defense and stealth as level 3 due to size and speed; moves a short distance each round (roach) or flies a long distance each round (dragonfly)
+
+  
+
+#### EMP Weapon
+
+Level: 1d6 + 2
+
+Form: Suitcase-sized electronic device
+
+Effect: This device emits a strong electromagnetic pulse out to very long range, scrambling systems and machines that rely on electrical wiring (including automobiles and the local power grid). Devices of less than the artifact’s level stop working for several rounds; devices whose level is three or more levels below the artifact’s level either shut down for several minutes or are destroyed.
+
+The EMP affects cyberware (including archaic implanted electronic devices such as pacemakers and cochlear implants). A chromed creature in the EMP area must attempt a Might defense roll for each implant. Success means that item is unaffected, while failure means it shuts down for several rounds and must be rebooted before it can be used.
+
+Non-cybernetic creatures suffer no ill effects from the EMP.
+
+Shielding can protect against the EMP, with varying effectiveness. A typical concrete wall provides limited protection; treat the EMP as one level lower for the purpose of determining if an item is affected. Magnetite-reinforce concrete (generally only used to protect hardware against this sort of attack) or a contiguous layer of metal (such as a metal trash can and lid, or a room covered in aluminum foil) provides reasonable protection; treat the EMP as two levels lower. A Faraday cage provides strong protection; treat the EMP as three levels lower.
+
+Recharging the EMP weapon requires a reliable power source (house current or stronger) and several hours.
+
+Depletion: 1 in 1d6
+
+EMP weapon GM intrusion: The device misfires and explodes, inflicting damage (half electrical, half fire) equal to the artifact’s level in an immediate radius.
+
+  
+
+#### Fiery Mantis™ (cyberware)
+
+Level: 1d6
+
+Form: Mantis blade arm cyberware with additional technological components
+
+Effect: Kaisha’s research labs developed this improved mantis blade prototype. One of the user’s arms is replaced with a standard prosthetic that contains a retractable blade on a complicated hinge. The blade is hollow and permeated with hundreds of pinpoint holes.
+
+The user can extend the blade as part of an action, either in a knife configuration (light weapon, 2 points of damage) or sword configuration (medium weapon, 4 points of damage). They can still use their hand when the blade is extended, but the awkward angle means tasks with that hand are hindered.
+
+As part of an action, the user can trigger a secondary mechanism to force fuel through the blade and ignite it, creating a plume of flame that runs the length of the blade, inflicting an additional 2 points of damage. The flame is automatically snuffed when the user retracts the blade.
+
+The current design of this artifact requires manual refilling of the small fuel tank within the user’s arm; researchers are working on an improved model that manufactures its own fuel out of the user’s biological resources (likely requiring extra food intake or specific meals to supply certain fuel-precursor molecules).
+
+Depletion: 1 in 1d20 (depletion usually just means the artifact is out of fuel, and can still be used as a standard mantis blade implant)
+
+  
+
+#### Focusing Modules
+
+A focusing module is an especially rare artifact that augments certain abilities from a character’s focus. It has wired and wireless connections to the character’s cybernetics, and may be an implanted device (and therefore cyberware) or merely worn (and therefore equipment). Most focusing modules are unique creations and originate from a megacorporation with a vested interest in a particularly talented operative. In other words, they’re not meant to be random discoveries in a CEO’s office safe, but specific equipment for a particular PC or NPC, made by people who know what the character is capable of.
+
+A focusing module Is meant to be used by a character who has the focus the module augments; it does nothing if used by a character who doesn’t have that focus. The level of the artifact determines what tiers of focus abilities it augments (a level 4 module affects a tier 1 ability, a level 5 module affects a tier 2 ability, and so on). All focusing module abilities based on artifact level are cumulative (a level 5 focusing module also does everything that a level 4 focusing module does). A focusing module normally augments only one focus ability at each tier.
+
+Obviously, an NPC doesn’t have a character focus, but an NPC whose abilities are modeled after a focus can use a module made for that focus.
+
+The listed augmentations for a focusing module are added effects for the listed abilities, not replacements for them. For example, a level 4 or higher Fuses Mind and Machine module adds +2 to the user’s Intellect Pool in addition to what the focus already gives the PC. Sometimes this augmentation applies to only certain ways the ability can be used and doesn’t affect its normal use. For example, the level 7 Moves Like a Cat module lets the wearer hinder their Quick Strike attack to hinder their foe for an additional round, but they can still make a non-hindered Quick Strike that only affects the foe for one round, just like the unmodified ability.
+
+Focusing modules are usually one-offs or prototypes. If a megacorporation managed to create a long-term stable version of a focusing module, they'd probably adapt the technology into a skin or brain cybernetic, if only to make it more difficult for an enemy to loot the artifact from the fallen character and give it to someone else.
+
+The module only augments focus abilities the wearer has. For example, if a character who Fuses Mind and Machine chooses Action Processor as their tier 3 ability instead of Machine Telepathy, a focusing module that augments Machine Telepathy does nothing for them.
+
+This section includes entries for three focusing modules. The GM is free to create modules for other foci in the campaign, or use modules described in other sourcebooks.
+
+  
+
+#### Focusing Module (Fuses Mind and Machine)
+
+Level: 1d6 + 3
+
+Form: Phone-sized device with wired hookups
+
+Effect: When worn by someone with the Fuses Mind and Machine focus, this device augments the following abilities, based on the artifact’s level:
+
+Level 4: Enhanced Intellect increases your Intellect Pool by +2.
+
+Level 5: Network Tap inflicts 1 less point of Intellect damage to you on a failed roll.
+
+Level 6: Action Processor lasts for twenty minutes. Machine Telepathy works out to long range, but is hindered if the target is farther away than short range.
+
+Level 7: Greater Enhanced Intellect increases your Intellect Pool by +2.
+
+Level 8: See the Future lasts for fifteen minutes.
+
+Level 9: Machine Enhancement lets you choose to have a minor effect on a roll of natural 17 or 18 rather than dealing extra damage. Mind Surge adds +2 to the Intellect Pool recovery roll from this ability.
+
+Depletion: 1 in 1d20 (check each month it is used)
+
+  
+
+#### Focusing Module (Moves Like a Cat)
+
+Level: 1d6 + 3
+
+Form: Phone-sized device with wired hookups
+
+Effect: When worn by someone with the Moves Like a Cat focus, this device augments the following abilities, based on the artifact’s level:
+
+Level 4: Greater Enhanced Speed increases your Speed Pool by +2.
+
+Level 5: Movement Skills gives you an asset on climbing tasks.
+
+Level 6: Greater Enhanced Speed increases your Speed Pool by +2. Enhanced Speed Edge gives you an asset on escaping tasks.
+
+Level 7: Quick Strike lets you choose to hinder your attack in order to hinder the target for an additional round.
+
+Level 8: Slippery increases your Speed Pool by +2.
+
+Level 9: Greater Enhanced Speed increases your Speed Pool by +3.Perfect Speed Burst lets you take a third action, but all three actions are hindered by two steps.
+
+Depletion: 1 in 1d20 (check each month it is used)
+
+  
+
+#### Focusing Module (Works the Back Alleys)
+
+Level: 1d6 + 3
+
+Form: Phone-sized device with wired hookups
+
+Effect: When worn by someone with the Works the Back Alleys focus, this device augments the following abilities, based on the artifact’s level:
+
+Level 4: Stealth Skills gives you a free additional level of Effort on all sneaking tasks when you apply at least one level of Effort on them.
+
+Level 5: Underworld Contacts eases positive social interactions with your underworld contacts.
+
+Level 6: Guild Training lets your long-distance type abilities work out to very long range, but the task is hindered if the target is more than a long distance away. Pull a Fast One lets you reroll one of the tasks it gives you an asset on, taking the better of the two results, but the second roll is hindered.
+
+Level 7: Master Thief gives you a free level of Effort on its tasks when you apply at least one level of Effort on them.
+
+Level 8: Dirty Fighter hinders your target by two steps on the first round after you use it.
+
+Level 9: Alley Rat is eased. All-Out Con also adds an asset to the task.
+
+Depletion: 1 in 1d20 (check each month it is used)
+
+  
+
+#### GasLight™ Projector
+
+Level: 1d6 + 2
+
+Form: Laptop-like device, or incorporated into a large flatscreen television
+
+Effect: The user can selectively delete one specific memory from a person within immediate range (short range for artifact level 7 or higher) who can see the images on the device. Memories most easily deleted are those of specific incidents whose duration was no more than about a minute; attempts to delete longer or more complex memories are hindered by one to three steps. Memories that are interwoven into a target’s daily existence (like their address, how to speak, the names of ordinary things, and so on) can’t be deleted, though attempting to do so stuns the target for one round.
+
+Instead of deleting a memory, the user can change the details of one of the person’s existing memories, such as their office computer’s password, the name of a colleague, or the site of a recent family vacation. This alteration is hindered by one to four steps, depending on how long and/or complex the original memory is.
+
+Depletion: 1 in 1d20
+
+  
+
+#### Gatekeeper™
+
+Level: 1d6
+
+Form: Coffin-sized metal container with hardened glass window
+
+Effect: This Immortech device can hold one adult human. When activated, it puts the person inside it into a state of suspended animation. The person in stasis can take no actions, doesn’t age, and is protected from all effects that fail to break open the artifact. If the artifact is broken open, the person awakens immediately, but their actions are hindered by two steps for a few minutes as their metabolism returns to normal.
+
+The pod can be activated or deactivated by an external user. Alternatively, the user can set an activation timer to awaken them anywhere from days to months later, or in response to a coded command entered on the control panel.
+
+Depletion: 1 in 1d20 (check each month); when the artifact depletes, the person inside wakes up and the door opens
+
+  
+
+#### Gladys™ Pistol
+
+Level: 1d6
+
+Form: Medium smart pistol with unique rose-themed paint job
+
+Effect: Created by Muxcom, this medium pistol has an AI assistant that increases accuracy. If the wielder uses an action to aim at a target, or uses a level of Effort to ease the attack against the target, the AI locks on to that target, granting the wielder an asset to all later attacks with the pistol against that target (by a combination of steering the wielder’s hand and curving the bullets mid-flight). The target lock ends if the wielder shoots at a different target or stops holding the weapon. Using the AI requires the user to have Smart Link cyberware installed (without it, the weapon works like a standard pistol).
+
+The pistol’s AI hardware includes a personality program and miniature holoprojector, able to create a hand-sized image of a friendly cartoon woman’s face near the weapon. This program, Gladys, is curious, talkative, capable of learning and remembering, and able to perform routine internet tasks (such as searching for local restaurant, looking up trivia, and so on). However, she often speaks up at inopportune times, is easily shocked by extreme violence, and sulks if not treated kindly or ignored. If sufficiently annoyed, she may disable the weapon’s targeting assistance, bend her bullets away from foes, or shut down the weapon entirely, only relenting if the user makes a sincere apology and “treats” her with a careful cleaning and takes her on a “date” to see something entertaining (such as a sports event, movie, or holoprogram).
+
+Gladys AI: level 2, interaction and general knowledge as level 3
+
+Depletion: 1 in 1d00 (check each day); if the artifact depletes, all the AI functionality stops, but it continues to work as a medium pistol
+
+  
+
+Hover Bike
+
+Level: 1d6 + 2
+
+Form: Motorcycle-like chassis with hover-rocket engines instead of wheels
+
+Effect: The hover bike can fly a long distance each round, carrying the user (driver) and up to one human-sized passenger. On extended trips, the hover bike can move up to 100 miles per hour (160 kph).
+
+The hover bike can’t rise more than an immediate distance from the ground, road, or similar surface below it—enough to jump over a low obstacle such as a parked car or fallen tree, but not enough to actually fly upward. If the bike falls (such as by cruising off the side of a building), the hover-rockets reduce falling damage by 2 points, but the vehicle risks bottoming out when it hits the ground and may roll, slide, or move down the object damage track.
+
+Because of the small profile and light frame of the hover bike, it grants the user an asset on riding tricks and special maneuvers while driving the bike.
+
+Depletion: 1 in 1d20 (check each day of use)
+
+  
+
+#### Iridescent Shadow™ Suit
+
+Level: 1d6 + 2
+
+Form: Thin bodysuit and mask made of flexible polymer fabric
+
+Effect: When activated, this Rubylight device takes on the colors and textures of everything around the wearer for ten minutes (one hour for artifact level 7 or higher), easing stealth tasks by two steps. Rapid movement (such as attacking, running, or even pivoting too fast) interferes with the effect, reducing the suit’s benefit to just one step until a round or two after the disruptive movement.
+
+Depletion: 1 in 1d00
+
+  
+
+#### LifeBlood™
+
+Level: 1d6
+
+Form: Transfusion device with a liter of blood-like fluid
+
+Effect: This Immortech device contains one of several varieties of synthetic blood created by Immortech. The user must first transfuse the fluid into their body (taking about ten minutes), after which they gain two benefits.
+
+The first benefit is the user adds +1 to their recovery rolls. This lasts until the artifact depletes.
+
+The second benefit lasts 24 hours (36 hours for artifact level 5 or higher), and its specific effect depends on the specific combination of hormones, enzymes, and genetically-engineered cells present in the fluid. Roll d00 or choose one of the following benefits.
+ 
+|D100|Benefit|
+|---|---|
+|1-10|Eases tasks against disease by two steps|
+|11-20|Eases tasks against poison (including intoxication) by two steps|
+|21-30|+5 to Armor against electrical damage|
+|31-40|+5 to Armor against fire damage|
+|41-50|+5 to Armor against cold damage|
+|51-60|+1 to Might Edge|
+|61-70|+1 to Speed Edge|
+|71-80|+1 to Intellect Edge|
+|81-90|Additional +2 to recovery rolls|
+|91-00|See in very dim or dim light as normal light|
+
+Depletion: 1 in 1d20 (check each day)
+
+  
+
+#### MagMaster™ Railgun
+
+Level: 1d6 + 3
+
+Form: Bulky heavy rifle
+
+Effect: This Muxcom weapon uses an explosive charge and a focused magnetic field to shoot a hard metal slug at incredible velocity up to long range. The slug inflicts damage equal to the artifact level, and a struck target must make a Might defense roll or be knocked back a short distance and knocked prone.
+
+The propulsive magnetic field has a minor disruptive effect on electronics (including cybernetics) within immediate range. This is usually harmless, but sometimes interferes with a device’s functionality.
+
+Depletion: 1 in 1d20
+
+GM intrusion: The magnetic field causes an electronic device or cyberware (belonging to the character or an ally within immediate range) to shut down or spend a few rounds rebooting.
+
+  
+
+#### Magnoshield™
+
+Level: 1d6 + 1
+
+Form: Mechanical gauntlet with embedded electronics
+
+Effect: This Muxcom device detects when a bullet, thrown knife, arrow, or similar physical projectile comes close to the user, and automatically attempts to slow or deflect this attack by creating a powerful visible energy field about the size of a riot shield. This eases the user’s Speed defense against such attacks (by two steps for artifact level 6 or higher). If the projectile hits, the energy field adds 1 to Armor against the attack.
+
+Depletion: 1 in 1d20 (if the artifact depletes, there is a 50% chance it explodes in an immediate area, inflicting electrical damage equal to the artifact level)
+
+  
+
+#### Maser Pistol
+
+Level: 1d6 + 1
+
+Form: Pistol-like weapon with a glass-like barrel
+
+Effect: This prototype medium ranged weapon shoots an invisible beam of collimated microwaves up to long range. A hit initially inflicts damage equal to the artifact’s level; on each of the following two rounds it inflicts additional damage equal to half the artifact’s level (no additional attack rolls needed). A living creature killed by the maser pistol explodes due to the water in its body turning into steam.
+
+The maser pistol can burn through solid objects of its level or lower.
+
+Depletion: 1 in 1d20
+
+  
+
+#### MaxTranq™ Rifle
+
+Level: 1d6 + 2
+
+Form: Medium tranquilizer rifle
+
+Effect: As an action, this Halo weapon fires one or two drug-filled darts at a living creature within long range. The user makes a separate attack roll for each dart. If one needle strikes a creature, the creature becomes calm and placid (even if they are using berserk cybernetics or are in the throes of SHITS) for at least one minute, or until they are attacked. If two needles strike the creature, they fall asleep for up to a minute or until they take damage.
+
+The darts have no effect on creatures whose level is higher than the artifact’s level.
+
+The dart’s drugs are an unstable mix of sedatives, mood stabilizers, antipsychotics, antidepressants, empathogens, and anxiolytics, meant only to put a dangerous subject into a relaxed and complicit state so they can be restrained and transported to a medical facility for treatment. Some individuals experience harmful short-term side effects (hindering tasks, moving down the damage track, Intellect Pool damage, and so on), but considering that the typical authoritative response to violent citizens is a hail of gunfire, these are considered an “acceptable risk” for trying to nonlethally neutralize the target.
+
+Depletion: 1 in 1d20 (check each needle, or week of inactivity)
+
+Any character can use the MaxTranq to fire two darts on their turn; they don’t need to have a special ability to use this feature.
+
+  
+
+#### Molotok™ Rocket Hammer
+
+Level: 1d6
+
+Form: Heavy hammer with small pulsejet engine on the back of the hammer head
+
+Effect: Created by Oleg Nutricorp, this heavy bashing weapon fires its jet engine when it senses the acceleration from the user’s swing, increasing its impact velocity and dealing an additional 3 points of damage. If attacking an object, instead of inflicting additional damage, the weapon provides an asset on the attack.
+
+The additional force provided by the pulsejet means that if the user misses with their hammer attack, their Speed defense tasks are hindered until their next turn.
+
+Depletion: 1–2 in 1d00
+
+  
+
+#### NewU™
+
+Level: 1d6 + 4
+
+Usable: A large glass and metal tank filled with pale yellow slime
+
+Effect: Immortech is still working out a lot of kinks with this machine. To activate it, the user must place a fresh DNA sample (such as a few drops of blood, hairs with the follicle cells still attached, or skin scrapings) in the connected receptable. The sample is scanned and its DNA sequenced, after which it begins to grow a clone from that DNA over the next 3d6 months (2d6 months for artifact level 9 or higher). At the end of this time, a full-grown creature, identical in every physical way to the DNA donor, emerges from the tank, and the artifact deactivates. The clone is a level 1 creature and has no memories or knowledge—essentially a blank slate operating on instinct and reacting to stimuli.
+
+Depletion: 1–9 in 1d20 (depletion might mean the device breaks, or the artifact might be fine but the clone is malformed or dead)
+
+  
+
+#### Nightblade™
+
+Level: 1d6
+
+Form: Medium katana with a monowire edge
+
+Effect: In development by Kaisha, this weapon uses an experimental method to fuse a monowire along the cutting edge of a katana, retaining the monowire’s cutting force backed up by the extra weight of the sword. The weapon inflicts an additional 2 points of damage (6 total) and ignores 1 point of the foe’s Armor.
+
+If the user attempts to damage, destroy, or sever a cybernetic limb, the GM should count it as an asset on rolls to damage objects or have the user's successful attack move the object an additional step down the object damage track. (This applies whether the user's intention was to damage the object or if they are choosing to damage the object as a minor or major effect on an attack roll.)
+
+A Nightblade is good at attacking objects, including cybernetic limbs; in general, the GM should count it as an asset on rolls to damage objects or have the user’s successful attack move the object an additional step down the object damage track. (This applies whether their intention was to damage the object or if they choose to damage the object as a minor or major effect on an attack roll.)
+
+Depletion: 1 in 1d20 (if the artifact depletes, it can still be used as a normal medium katana)
+
+  
+
+#### OmniDoc
+
+Level: 1d6 + 2
+
+Form: Table-sized device with a flat surface for a patient to rest
+
+Effect: If used by a person with any sort of healing, medical, or surgical skill, the OmniDoc eases the user’s relevant tasks. This does not require a depletion roll.
+
+The user (regardless of skill) can command it to scan a patient, diagnose their injuries and afflictions, and provide treatment, granting them an immediate one-minute recovery roll or moving them one step up the damage track. (NPCs regain health equal to their level.) This requires a depletion roll.
+
+Alternatively, the user (regardless of skill) can command the OmniDoc to perform a more thorough scan and treatment, taking one hour. This restores one of the patient’s Pools to full or moves them two steps up the damage track. (NPCs regain health equal to their level.) This requires a depletion roll.
+
+Depletion: 1 in 1d10; if the artifact depletes, it’s usually (75%) because its supplies of drugs and other medical supplies are exhausted and must be refilled (costing $2,500)
+
+  
+
+#### PlantSkin™ (cyberware)
+
+Level: 1d6 + 1
+
+Effect: This skin cyberware developed by Rubylight contains thousands of tiny biomolecule-filled spheres that turn various wavelengths of light into glucose, which is absorbed into the user’s bloodstream. The user can subsist without food for as long as they are exposed to about four hours of bright sunlight (or eight hours of weak sunlight) each day. Because the implant prioritizes directing glucose to the user’s brain, even half this amount of sunlight allows the implant to negate the mental effects of starvation (tiredness, poor concentration, moodiness, and so on).
+
+The user gains +2 Armor against attacks using light (such as lasers), and light-based attacks restore 1 point to a Pool of the user’s choice.
+
+The user is still able to eat normal food. They can activate or deactivate the implant at will, allowing them to only use it when it’s needed.
+
+Depletion: 1 in 1d00 (check each day)
+
+  
+
+#### Power Warframe
+
+Level: 1d6 + 1
+
+Form: Metal exosuit designed for a human wearer
+
+Effect: Designed to be less intrusive (or permanent) than an extensive cybernetic augmentation, this military warframe has dozens of adhesive patches that connect to the user’s skin and transmits their muscular-skeletal nerve signals to the frame’s AI assistant.
+
+As part of another action, the user can activate the AI assistant so it augments their strength and movement for the next hour, adding 2 to their Might Edge (3 for artifact level 6 and higher). As the user’s entire action, they can move a long distance (in a generally straight line) and can maintain this speed without fatigue for the entire duration of the warframe’s augmentation period.
+
+While the warframe augmentation is active, the lag between the user’s movements and the (non-cybernetic) machine’s response hinders the user’s Speed-based tasks.
+
+The user can disengage the assistive AI (ending the Might Edge boost, increased movement speed, and the Speed hindrance) as an action.
+
+Putting on or removing a warframe takes four to ten rounds, or half that if the user has at least one person helping them.
+
+If the artifact depletes, there’s a 50% chance it just needs a new battery (taking one to ten minutes to swap out); otherwise, some of the mechanisms have seized up or burned out and need to be replaced or repaired. A warframe has a small reserve battery, allowing the user to move normally for up to an hour if it loses main power. While running on reserve power, the user cannot activate the warframe’s augmentation, and their physical tasks are hindered.
+
+Depletion: 1 in 1d10 (check each use)
+
+  
+
+#### Puppetmaster
+
+Level: 1d6
+
+Form: Briefcase-sized machine
+
+Effect: This machine interrupts a person’s thoughts, allowing the user to speak through them and move that person’s body as if it were their own. If the person’s level is equal to or lower than the artifact’s, the person cannot take actions until the user breaks contact.
+
+The character using the machine uses their entire action to speak through or control the person. They may give the person general instructions, such as “get in the car” or “surrender to the police,” or instruction to take a particular action, such as to move to a corner of the room or attack a specific foe. In the case of general instructions, the person carries them out to the best of their ability until they complete the task, then they stand in place until given new instructions. When the control ends, the person remembers being controlled and has a reasonable awareness of what they did while they were controlled, but they don’t automatically know who was controlling them (although anything the controller says or has them do might indicate who the controller is, and a willing person probably knows the identity of their controller).
+
+A puppetmaster only works on people who have brain cybernetics (even a basic communication implant is enough to make a person vulnerable to the device). It can control a person up to long range if the user has line of sight, or from just about anywhere through a wireless network (attempting to control an unwilling person through a wireless network is hindered).
+
+Depletion: 1 in 1d6 (check each ten minutes for a willing person, or each minute for an unwilling one)
+
+  
+
+#### Red Haze™ Implant (cyberware)
+
+Level: 1d6 + 3
+
+Form: Paired cybernetic implants (one for the brain, one for the muscular system)
+
+Effect: Created by Immortech, this military-grade cyberware enhances the user’s adrenal system and muscle fibers, creating a dangerous berserk combat state.
+
+As part of their action, the user can activate the artifact, lasting about a minute. While it is active, the user can’t use Intellect points, but gains +2 to their Might Edge, +2 to their Speed Edge, and +1 Armor (+2 Armor for artifact level 8 or higher). The user can end this effect at any time. When the effect ends, the user’s tasks are hindered until they use a recovery roll. (The user can delay this hindering by activating the artifact again, but then will be hindered by one step for each activation.)
+
+Depletion: 1–9 in 1d20 (if the artifact depletes, the user can instead move one step down the damage track; an NPC user who choses this option is hindered by two steps until they rest for ten hours)
+
+Red Haze™ GM intrusion: The stress on the user’s bodily systems moves them one step down the damage track, even if the artifact didn’t deplete.
+
+Variant Red Haze™ prototypes from other megacorporations slightly alter how the artifact enhances character stats, such as adding +3 to Might Edge but only +1 to Speed Edge, or +2 to Armor but only +1 to Might Edge.
+
+  
+
+#### Relentless™ Pistol
+
+Level: 1d6 + 1
+
+Form: Heavy pistol with bulky attachments
+
+Effect: This Muxcom heavy pistol has an AI assistant that increases accuracy. If the wielder uses an action to aim at a target, or uses a level of Effort to ease the attack against the target, the AI locks on to that target, granting the wielder an asset to all later attacks with the pistol against that target (by a combination of steering the wielder’s hand and curving the bullets mid-flight). The target lock ends if the wielder shoots at a different target.
+
+Once the AI has a lock on a target, as part of another action the user can trigger the weapon’s autonomous mode. In autonomous mode, the pistol functions as a miniature hovering combat drone, and continues to pursue its target and attacks them once per round. The pistol attempts to return to the user (retracing its flight path) if the target dies, falls unconscious, evades pursuit, or gets at least a very long distance away from it.
+
+Relentless combat drone: level 4, attacks as level 5; health 6; Armor 1; flies a short distance each round; long-range smart bullet inflicts 6 points of damage
+
+Using the AI requires the user to have Smart Link cyberware installed (without it, the weapon works like a standard heavy pistol).
+
+Depletion: 1 in 1d10 (check each flight)
+
+  
+
+#### Scarab Door™
+
+Level: 1d6 + 2
+
+Form: Helmet with electronics, connected to a computer
+
+Effect: Created by Immortech, this device is currently the most successful way to retrieve data (including thoughts and memories) from an organic human brain, living or dead. The device is placed on the subject’s head; imparted magnetic resonance and specialized electrodes then alter the brain’s neural pathways to force a large “data dump” into the device’s digital storage.
+
+Being scanned by the device is nauseating and traumatic, so normal practice is to restrain or fully sedate a living subject so they can’t escape. After one minute, the subject’s Intellect Pool is reduced to zero (which also moves them one step down the damage track); an NPC subject is instead reduced to half their normal health. After an hour, the subject moves another step down the damage track; an NPC instead is reduced to 0 health but is still alive. Completing the scan takes another one to four hours, depending on the amount of data in the brain, the extent of brain damage (if any), and various hard-to-quantify factors (including training to resist interrogation or torture).
+
+If the subject is already dead, completing the scan takes about the same time as for a living brain, but the main issue is oxygen starvation and cell death of the brain tissue. Scanning a dead brain is less effective than scanning a living one; the device usually ends up with only about half the expected amount of data archived.
+
+The resulting scan is a huge amount of raw data that must be extensively processed before anything useful can be learned from it; even a custom supercomputer’s algorithm takes several days to generate a top-level searchable file (similar to a series of journal entries summarizing a week’s worth of memories and events), and a network of typical computers would take weeks for a similar result. A set of processed data can be used to create a realistic engram of the scanned person.
+
+Depletion: 1 in 1d6
+
+  
+
+#### Skill Chip
+
+Level: 1d6
+
+Form: Advanced computer chip designed to fit into a person’s neck data slot
+
+Effect: When plugged into a person’s standard neck data slot (such as in a communicator implant), its hardware and software interfaces with the user’s brain, nerves, and muscles. This grants the user training in one (predetermined) skill, or two skills for artifact level 5 or higher. The skill can be almost anything (including something specific to a particular device, such as using a prototype weapon or unique computer system), or roll d00 to choose a common skill.
+ 
+|D00|Skill|
+|---|---|
+|01–04|Balancing|
+|05–08|Biology|
+|09–12|Climbing|
+|13–16|Computers|
+|17–20|Cybernetics|
+|21–24|Deceiving|
+|25–28|Disguise|
+|29–32|Driving|
+|33–36|Hacking|
+|37–40|Healing|
+|41–44|History|
+|45–48|Initiative|
+|49–52|Intimidation|
+|53–56|Jumping|
+|57–60|Lockpicking|
+|61–64|Machinery|
+|65–68|Melee attacks (choose light, medium, or heavy)|
+|69–72|Perception|
+|73–76|Persuasion|
+|77–80|Physics|
+|81–84|Piloting|
+|85–88|Ranged attacks (choose light, medium, or heavy)|
+|89–92|Repairing|
+|93–96|Stealth|
+|97–00|Swimming|
+
+If the chip is removed from the user, it is destroyed, and the user loses the skill training from it. (Rumor has it that doing so also risks causing brain damage or memory loss.)
+
+Depletion: —
+
+  
+
+#### Suitcase Nuke
+
+Level: 7
+
+Form: Complicated nuclear device in a suitcase- or backpack-sized traveling container
+
+Effect: A nuclear weapon is a conventional explosive device designed to force fissionable radioactive materials into a small area so they create a cascading nuclear reaction that explodes with a great deal of force and energy. A suitcase nuke weighs about 50 pounds (23 kg).
+
+The explosive yield of a typical suitcase nuke is one kiloton (1,000 pounds) of TNT, enough to destroy a large building at ground zero and much of the surrounding city block. For this reason, they usually include a time-delayed or remote-activated triggering device so the user isn’t caught in the explosion.
+
+Everything within short range of the nuke’s detonation is incinerated (instantly killed or destroyed). However, creatures in short range that have especially robust cover can attempt a Might defense roll; if they succeed, they take 20 points of damage.
+
+Beyond short range but within long range, the explosion inflicts 20 points of damage. Creatures in this greater blast area can attempt a Might defense roll; success means they only take 7 points of damage.
+
+The blast damages structures within the area, making it likely that they collapse and inflict further injuries. The explosion stirs up and irradiates dust, soil, and debris, creating an area with radioactive fallout that persists for days or weeks.
+
+A suitcase nuke can be detected by the small amount of gamma rays it emits; however, sensor contamination from other harmless radiation sources, the limited range of accurate sensors, and the short (but not instant) time needed to get a reading means it is actually very difficult to detect the presence of such a small device.
+
+Depletion: Automatic
+
+The materials needed to make a nuclear bomb are highly regulated, which drives up the black market price for a suitcase nuke; in the rare times they become available—usually due to high-level espionage or terrorism—they typically cost $250,000.
+
+  
+
+#### Tri-Arm™ (cyberware)
+
+Level: 1d6
+
+Form: Complete cybernetic third arm with a nonstandard shoulder attachment
+
+Effect: Created by Muxcom, this cyberware attaches to the user’s skeleton (on the side or back of the rib cage) and counts toward their limit of skeleton cybernetics. Learning to use the extra arm takes twenty to forty hours of practice and physical therapy; once this time is completed, the user can control the arm as easily as their other arms (organic or otherwise).
+
+The arm grants the user an asset on carrying, catching, and lifting tasks, as well as any task the GM thinks would benefit from an extra arm, such as holding a door closed, using a computer terminal, or driving a vehicle.
+
+The arm doesn’t give the user additional actions or attacks on their turn, any more than holding two pistols automatically lets a character make two attacks per round. (Wild-firing is the exception.) However, using the extra arm to carry or hold something is often beneficial to the character, such as using two arms to wield a heavy weapon and using the third arm to hold a grenade.
+
+Depletion: 1 in 1d20 (check each month)
+
+  
+  
+## Creatures
+

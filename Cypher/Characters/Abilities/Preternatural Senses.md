@@ -1,0 +1,5 @@
+Preternatural Senses #Ability #CureAbility #Mid #Core 
+
+While you are conscious and able to use an action, you cannot be surprised. In addition, you are trained in initiative actions. 
+
+Enabler.

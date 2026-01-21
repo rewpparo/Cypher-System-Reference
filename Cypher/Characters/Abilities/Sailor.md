@@ -1,0 +1,5 @@
+Sailor #Ability #TaskAbility #Low #Core 
+
+You are trained in tasks related to sailing and trained in the geography of islands and coastlines. 
+
+Enabler.

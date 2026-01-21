@@ -1,0 +1,5 @@
+Superb Infiltrator #Ability #TaskAbility #Low #Core 
+
+You are trained in lockpicking and tinkering with devices in an effort to make them work, or at least work for you. 
+
+Enabler.

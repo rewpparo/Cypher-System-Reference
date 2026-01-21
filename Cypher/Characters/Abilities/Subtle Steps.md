@@ -1,0 +1,5 @@
+Subtle Steps #Ability #TaskAbility #Mid #Core 
+
+When you move no more than a short distance, you can move without making a sound, regardless of the surface you move across. 
+
+Enabler.

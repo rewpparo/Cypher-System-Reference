@@ -1,0 +1,5 @@
+Assassin Strike (5 Intellect points) #Ability #SpecialAttackAbility #High #Core 
+
+If you successfully attack a creature that was previously unaware of your presence, you deal 9 additional points of damage. 
+
+Enabler.

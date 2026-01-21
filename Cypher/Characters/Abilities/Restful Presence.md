@@ -1,0 +1,5 @@
+Restful Presence #Ability #CureAbility #Low #Core 
+
+Creatures who make a recovery roll within short range of you add +1 to their roll. 
+
+Enabler.

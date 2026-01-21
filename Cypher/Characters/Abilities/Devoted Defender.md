@@ -1,0 +1,5 @@
+Devoted Defender (2 Might or Intellect points) #Ability #TaskAbility #Low #Core 
+
+Choose one character you can see. That character becomes your ward. You are trained in all tasks involving finding, healing, interacting with, and protecting that character. You can have only one ward at a time. 
+
+Action to initiate.

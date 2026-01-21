@@ -1,0 +1,5 @@
+Out of Harm’s Way #Ability #ProtectionAbility #Low #Core 
+
+No matter how careful, an investigator sometimes ends up in a scrap. Knowing how to survive is more than half the battle. You are trained in Speed defense tasks. 
+
+Enabler.

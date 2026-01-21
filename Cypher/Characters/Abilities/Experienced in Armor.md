@@ -1,0 +1,5 @@
+Experienced in Armor #Ability #ProtectionAbility #Mid #Core 
+
+The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed cost by 2. 
+
+Enabler.

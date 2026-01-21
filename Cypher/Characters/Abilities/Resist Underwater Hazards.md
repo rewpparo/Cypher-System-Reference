@@ -1,0 +1,5 @@
+Resist Underwater Hazards #Ability #ProtectionAbility #Low #Core 
+
+Whether you’re resisting crushing waters while exploring the depths or a sting from a poisonous fish, all defense tasks while submerged in water are eased. 
+
+Enabler.

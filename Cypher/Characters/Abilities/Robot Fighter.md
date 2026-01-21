@@ -1,0 +1,5 @@
+Robot Fighter #Ability #AttackAbility #Mid #Core 
+
+When fighting a robot or intelligent machine, you are trained in attacks and defense. 
+
+Enabler.

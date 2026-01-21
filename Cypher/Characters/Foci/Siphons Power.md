@@ -1,0 +1,14 @@
+Siphons Power #Focus #SupportFocus #Core 
+
+You suck power out of machines and creatures alike in order to empower yourself.
+
+(Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.)
+
+- Tier 1: Drain Machine
+- Tier 2: Drain Creature
+- Tier 3: Drain at a Distance or Unraveling Consumption
+- Tier 4: Store Energy
+- Tier 5: Share the Power
+- Tier 6: Explosive Release or Sun Siphon
+
+GM Intrusions: Drained power also transmits something unwanted—compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.

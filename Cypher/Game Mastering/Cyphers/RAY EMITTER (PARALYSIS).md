@@ -1,0 +1,5 @@
+RAY EMITTER (PARALYSIS) #Cypher #Fantastic #Core 
+
+Level: 1d6 + 2
+
+Effect: Allows the user to project a ray of energy up to very long range that paralyzes the target for one minute. A small number of these devices (5%) induce paralysis that lasts for one hour.

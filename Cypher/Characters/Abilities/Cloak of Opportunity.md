@@ -1,0 +1,5 @@
+Cloak of Opportunity (5 Intellect points) #Ability #Core 
+
+You set small objects from the environment (rocks, broken items, clumps of dirt, and so on) swirling about you for up to ten minutes, which grants you +2 Armor. 
+
+Action to initiate.

@@ -1,0 +1,1 @@
+Giant frog #lvl3 (9) #Creature #Core #Fantasy

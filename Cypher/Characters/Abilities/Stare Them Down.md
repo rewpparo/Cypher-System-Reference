@@ -1,0 +1,5 @@
+Stare Them Down #Ability #ProtectionAbility #Low #Core 
+
+One doesn’t play games of chicken with other maniac drivers without gaining mental strength. You’re trained in Intellect defense tasks. 
+
+Enabler.

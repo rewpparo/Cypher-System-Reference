@@ -1,0 +1,86 @@
+Your descriptor defines your character—it flavors everything you do. The differences between a Charming Explorer and a Vicious Explorer are considerable. The descriptor changes the way those characters go about every action. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It is the adjective of the sentence “I am an *adjective* *noun* who *verbs*.”
+
+Descriptors offer a one-time package of extra abilities, skills, or modifications to your stat Pools. Not all of a descriptor’s offerings are positive character modifications. For example, some descriptors have inabilities—tasks that a character isn’t good at. You can think of inabilities as negative skills—instead of being one step better at that kind of task, you’re one step worse. If you become skilled at a task that you have an inability with, they cancel out. Remember that characters are defined as much by what they’re *not* good at as by what they *are* good at.
+
+Descriptors also offer a few brief suggestions for how your character got involved with the rest of the group on their first adventure. You can use these, or not, as you wish.
+
+This section details fifty descriptors. Choose one of them for your character. You can pick any descriptor you wish regardless of your type. At the end of this chapter, a few options are provided for Customizing Descriptors, including making a character’s species their descriptor.
+
+(Your descriptor matters most when you are a beginning character. The benefits (and perhaps drawbacks) that come from your descriptor will eventually be overshadowed by the growing importance of your type and focus. However, the influence of your descriptor will remain at least somewhat important throughout your character’s life.)
+
+# CUSTOMIZING DESCRIPTORS
+
+Under the normal rules, each descriptor is based on some modification of the following guidelines:
+
+Some descriptors offer +4 to one stat Pool and either two narrow skills or one broad skill.
+
+Other descriptors offer +2 to one stat Pool and either three narrow skills or one narrow skill and one broad skill.
+
+A broad skill covers many areas (such as all interactions). A narrow skill covers fewer areas (such as deceptive interactions). Combat-related skills, such as defense or initiative, are considered broad skills in this sense.
+
+Regardless, you can add an additional skill if it is balanced by an inability.
+
+You can add other non-skill abilities by eyeballing them and trying to equate them to the value of a skill, if possible. If the descriptor seems lacking, add a moderately priced item as additional equipment to balance things out.
+
+With this general information, you can customize a descriptor, but keep in mind that a heavily customized descriptor isn’t a descriptor if it no longer says one thing about a character. It’s better to use this information to create a new descriptor that fits exactly how the player wants to portray the character.
+
+# SPECIES AS DESCRIPTOR
+
+Sometimes, in settings that have alien or fantasy species, players want to play a member of that species rather than the default (which is usually “human”). Most of the time, this choice is one of flavor rather than game mechanics. If you’re a 7-foot-tall furry Rigellian with three eyes, that’s great, but it doesn’t change your stats or skills (though it may have roleplaying challenges).
+
+However, sometimes being a nonhuman results in more substantive changes. A PC ogre in a fantasy setting might have the Strong or Tough descriptor, or perhaps it has a descriptor simply called Ogre, which is similar to Strong or Tough but more pronounced (with greater Might but even greater drawbacks). This would mean that instead of being a Tough Warrior who Controls Beasts, the character is an Ogre Warrior who Controls Beasts.
+
+The Genre chapter offers a few species descriptors, but many GMs will want to create their own as suits their setting. It can’t be stressed enough, however, that nine times out of ten, in most genres, species differences aren’t significant enough to warrant this treatment. The differences between a Mysterious character and a Virtuous one are probably greater than those between an Alpha Centauran and an Earthling.
+
+# DESCRIPTORS
+
+- [APPEALING](Descriptors/APPEALING.md)
+- [BENEFICENT](Descriptors/BENEFICENT.md)
+- [BRASH](Descriptors/BRASH.md)
+- [CALM](Descriptors/CALM.md)
+- [CHAOTIC](Descriptors/CHAOTIC.md)
+- [CHARMING](Descriptors/CHARMING.md)
+- [CLEVER](Descriptors/CLEVER.md)
+- [CLUMSY](Descriptors/CLUMSY.md)
+- [CRAVEN](Descriptors/CRAVEN.md)
+- [CREATIVE](Descriptors/CREATIVE.md)
+- [CRUEL](Descriptors/CRUEL.md)
+- [DISHONORABLE](Descriptors/DISHONORABLE.md)
+- [DOOMED](Descriptors/DOOMED.md)
+- [EMPATHIC](Descriptors/EMPATHIC.md)
+- [EXILED](Descriptors/EXILED.md)
+- [FAST](Descriptors/FAST.md)
+- [FOOLISH](Descriptors/FOOLISH.md)
+- [GRACEFUL](Descriptors/GRACEFUL.md)
+- [GUARDED](Descriptors/GUARDED.md)
+- [HARDY](Descriptors/HARDY.md)
+- [HIDEOUS](Descriptors/HIDEOUS.md)
+- [HONORABLE](Descriptors/HONORABLE.md)
+- [IMPULSIVE](Descriptors/IMPULSIVE.md)
+- [INQUISITIVE](Descriptors/INQUISITIVE.md)
+- [INTELLIGENT](Descriptors/INTELLIGENT.md)
+- [INTUITIVE](Descriptors/INTUITIVE.md)
+- [JOVIAL](Descriptors/JOVIAL.md)
+- [KIND](Descriptors/KIND.md)
+- [LEARNED](Descriptors/LEARNED.md)
+- [LUCKY](Descriptors/LUCKY.md)
+- [MAD](Descriptors/MAD.md)
+- [MECHANICAL](Descriptors/MECHANICAL.md)
+- [MYSTERIOUS](Descriptors/MYSTERIOUS.md)
+- [MYSTICAL](Descriptors/MYSTICAL.md)
+- [NAIVE](Descriptors/NAIVE.md)
+- [PERCEPTIVE](Descriptors/PERCEPTIVE.md)
+- [RESILIENT](Descriptors/RESILIENT.md)
+- [RISK-TAKING](Descriptors/RISK-TAKING.md)
+- [RUGGED](Descriptors/RUGGED.md)
+- [SHARP-EYED](Descriptors/SHARP-EYED.md)
+- [SKEPTICAL](Descriptors/SKEPTICAL.md)
+- [STEALTHY](Descriptors/STEALTHY.md)
+- [STRONG](Descriptors/STRONG.md)
+- [STRONG-WILLED](Descriptors/STRONG-WILLED.md)
+- [SWIFT](Descriptors/SWIFT.md)
+- [TONGUE-TIED](Descriptors/TONGUE-TIED.md)
+- [TOUGH](Descriptors/TOUGH.md)
+- [VICIOUS](Descriptors/VICIOUS.md)
+- [VIRTUOUS](Descriptors/VIRTUOUS.md)
+- [WEIRD](Descriptors/WEIRD.md)

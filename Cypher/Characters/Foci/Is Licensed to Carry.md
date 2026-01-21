@@ -1,0 +1,15 @@
+Is Licensed to Carry #Focus #StrikerFocus #Core 
+
+You carry a gun and you know how to use it in a fight.
+
+(Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.)
+
+- Tier 1: Gunner
+- Tier 1: Practiced With Guns
+- Tier 2: Careful Shot
+- Tier 3: Trained Gunner or Damage Dealer
+- Tier 4: Snap Shot
+- Tier 5: Arc Spray
+- Tier 6: Special Shot or Lethal Damage
+
+GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.

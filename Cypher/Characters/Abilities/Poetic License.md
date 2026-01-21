@@ -1,0 +1,5 @@
+Poetic License #Ability #TaskAbility #Low #Core 
+
+You are trained in all social interactions, including persuasion, deception, and intimidation. You also know two additional languages. 
+
+Enabler.

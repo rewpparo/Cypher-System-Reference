@@ -1,0 +1,5 @@
+Fists of Fury #Ability #MetaAbility #Low #Core 
+
+You inflict 2 additional points of damage with unarmed attacks. 
+
+Enabler.
