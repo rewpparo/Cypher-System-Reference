@@ -1,57 +1,42 @@
 # Welcome !
 
-This is a work in progress ! Everything should be in and categorized. Formatting still need Loads of work.
+This is a work in progress. All the CSRD should be in, and can be found in the Cypher directory. Genres files still need a lot of work, but the core is pretty good.
 
-Latest [CSRP](https://rewpparo.github.io/Cypher-System-Reference/Cypher/Table%20Of%20Contents.md)
+Gihub page in progress
+
 # About CSRP
 
+![](Compatible-with-the-Cypher-System-Logo-color-small.png)
 The goal of the Cypher System Reference Project is to produce a clean and up to date version of the Cypher System Reference Document that can be used for further projects by the Cypher System community.
 
-Cypher System Reference Project is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements.
+Cypher System Reference Project is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community to use.
 
-The main production of the Cypher System Reference Project is the CSRP. The CSRP is a document that aims to contain all the CSRD, only the CSRD, and an up-to-date CSRD, in an organized, versioned and automatic processing friendly format, using Markup Langage formatting.
+- No other content or sources should be used, other than the CSRD, in the making of this document. 
+- No original content should be added to this project either while making it. 
+- Some information can be inferred from the CSRD only, and it's OK for the document to reflect that. Contributors should just be ready to argue if challenged.
 
-No other content or sources should be used, other than the CSRD, in the making of this document.  
-No original content should be added to this project either while making it.
-Some information can be inferred from the CSRD only, and it's OK for the document to reflect that. Contributors should just be ready to argue if challenged.
-
-Further projects, that could happen within CSOL, that we want to support include :  
-- Fan translation projects
-- Reference websites and documents
-- Filling databases
+Further projects, that could possibly happen within CSOL, and that we want to support include :  
+- Weblate translation project coming soon
+- Reference websites, documents, books
 - Use with Obsidian (https://obsidian.md/) or similar GM tools
 - Integration in VTT websites
 - Fan content standardisation for inclusion in reference sites
 # Progress
 
 Work on CSRD 2025-08-22
-- [x] Everything's in, in the right parts
-Core
-- [x] How To Play The Cypher System
-- [x] Characters
-	- [x] Types, flavors, focus
-	- [x] Abilities
-	- [x] Equipment
-- [x] Rules
-	- [x] Rules of the Game
-		- [x] Key Concepts
-		- [x] Taking Action
-		- [x] Actions
-		- [x] Action: Attack
-			- [x] Damage
-			- [x] Attack Mods and special situations
-		- [x] Action: Activate a Special Ability
-		- [x] Action: Move
-		- [x] Action: Wait
-		- [x] Action: Do Something else
-		- [x] Followers
-	- [x] Experience Points
-- [x] Game Mastering
-	- [ ] Creatures and NPC
-	- [ ] Cyphers
-	- [x] Running the Cypher System
-- [ ] Cutting and Linking
-Genres
+- [x] Core (pretty much)
+- [ ] Fantasy
+- [ ] Modern
+- [ ] Science Fiction
+- [ ] Superheroes
+- [ ] Fairytale
+- [ ] Horror
+- [ ] Romance
+- [ ] Post-apocalyptic
+- [ ] Historical
+- [ ] Cyberpunk
+- [ ] Weird West
+- [ ] Modern Fantasy
 ## Formatting reference
 
 This document uses markdown best practices
