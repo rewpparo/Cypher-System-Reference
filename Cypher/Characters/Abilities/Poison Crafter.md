@@ -1,4 +1,4 @@
-Poison Crafter #Ability #CraftAbility #Mid #Core 
+Poison Crafter #Ability #CraftAbility #ProtectionAbility #Mid #Core 
 
 You are trained in crafting, sensing, identifying, and resisting poisons. Your poison crafting has given you some immunity to poisons; you have +5 Armor that applies specifically to poison damage. 
 

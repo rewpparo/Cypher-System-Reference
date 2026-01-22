@@ -1,4 +1,4 @@
-Precognition (6 Intellect points) #Ability #ProtectionAbility #High #Core 
+Precognition (6 Intellect points) #Ability #ProtectionAbility #TaskAbility #High #Core 
 
 You dimly sense the future for the next ten minutes. This has the following effects until the duration expires:
 - Your defense tasks gain an asset.

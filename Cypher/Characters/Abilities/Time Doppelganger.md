@@ -1,4 +1,4 @@
-Time Doppelganger (6+ Intellect points) #Ability #CompanionAbility #Mid #Core 
+Time Doppelganger (6+ Intellect points) #Ability #CompanionAbility #High #Core 
 
 A perfect copy of you appears within an immediate distance. This doppelganger is probably a version of you from another timeline or the past. The doppelganger is a level 5 NPC with 15 health. It has your mind and memories, and you control it as if it were you in another body. In effect, while this ability is active, you have two bodies.
 

@@ -1,4 +1,4 @@
-See the Future (6 Intellect points) #Ability #ProtectionAbility #High #Core 
+See the Future (6 Intellect points) #Ability #ProtectionAbility #TaskAbility #High #Core 
 
 Based on all the variables you perceive, you can predict the next few minutes. This has the following effects:  
 > For the next ten minutes, your defense rolls gain an asset.

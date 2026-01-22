@@ -1,4 +1,4 @@
-Grasping Foliage (3+ Intellect points) #Ability #EnvironmentAbility #Low #Core 
+Grasping Foliage (3+ Intellect points) #Ability #EnvironmentAbility #SpecialAttackAbility #Low #Core 
 
 Roots, branches, grass, or other natural foliage in the area snags and holds a foe you designate within short range for up to one minute. A foe caught in the grasping foliage can’t move from its position, and all physical tasks, attacks, and defenses are hindered, including attempts to free itself. In addition to the normal options for using Effort, you can choose to use Effort to deal damage with the initial attack. Each level applied inflicts 2 additional points of damage when Grasping Foliage first snags and holds your foe.
 

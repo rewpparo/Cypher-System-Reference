@@ -1,4 +1,4 @@
-Moderate Wish #Ability #MetaAbility #High #Core 
+Moderate Wish #Ability #MetaAbility #ProtectionAbility #TransformAbility #High #Core 
 
 At your request, the magic ally from your Bound Magic Creature ability can spend its action casting a moderate spell on you. Afterward, it must retreat to its bound object to rest for at least one hour. The effects it can produce include the following. 
 

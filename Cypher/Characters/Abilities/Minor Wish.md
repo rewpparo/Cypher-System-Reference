@@ -1,4 +1,4 @@
-Minor Wish #Ability #MetaAbility #Mid #Core 
+Minor Wish #Ability #MetaAbility #ProtectionAbility #TaskAbility #Mid #Core 
 
 At your request, the magic ally from your Bound Magic Creature ability can use its action to cast a minor spell on you. Afterward, it must retreat to its bound object to rest for one hour. The effects it can produce include the following. 
 

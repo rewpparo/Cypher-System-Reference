@@ -1,4 +1,4 @@
-Phase Sprint (1+ Speed points) #Ability #MovementAbility #Low #Core 
+Phase Sprint (1+ Speed points) #Ability #MovementAbility #ProtectionAbility #Low #Core 
 
 You can run up to a long distance as long as you take no other actions. During your action and until the beginning of your next turn, you are partially phased, and some attacks pass through you harmlessly. While phased, you gain an asset to your Speed defense tasks, but you lose any benefit from armor you wear.
 

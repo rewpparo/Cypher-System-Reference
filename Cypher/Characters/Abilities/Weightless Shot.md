@@ -1,4 +1,4 @@
-Weightless Shot #Ability #MetaAbility #High #Core 
+Weightless Shot #Ability #MetaAbility #SpecialAttackAbility #High #Core 
 
 You have a sixth sense when it comes to lining up trajectories and moving in low-gravity and zero-gravity environments, which also translates to making ranged attacks. When you hit a target with a ranged attack in microgravity conditions, you can choose to reduce the damage by 2 points but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:
 
