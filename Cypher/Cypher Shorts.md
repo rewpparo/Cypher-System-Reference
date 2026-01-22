@@ -18,7 +18,7 @@ Cypher Shorts use an abbreviated character creation system, even simpler than th
 
 The following character creation guidelines are very broad, designed to work with any genre or situation. In a specific Cypher Short, it’s likely that only the type choices will be detailed, using the information here as a starting point. Descriptors and foci are general enough that they’ll work with almost any scenario. Sometimes, though, a Cypher Short might require adjustments to suit the situation.
 
-Just like in the standard system, characters end up with a sentence to describe themselves: “I am a [blank] [blank] who [blanks].” All players start with a score of 9 in their stat Pools, with 6 points to divide among them as they wish. They have an Edge of 1 in a stat of their choosing. Recovery rolls are 1d6 + 1, and characters have an Effort of 1. (Otherwise, don’t worry about tier.)
+Just like in the standard system, characters end up with a sentence to describe themselves: “I am a \[blank\] \[blank\] who \[blanks\].” All players start with a score of 9 in their stat Pools, with 6 points to divide among them as they wish. They have an Edge of 1 in a stat of their choosing. Recovery rolls are 1d6 + 1, and characters have an Effort of 1. (Otherwise, don’t worry about tier.)
 
 All characters start with 1 XP.
 
@@ -33,9 +33,7 @@ A descriptor quickly and easily distinguishes the character from the others. Ide
 
 ## TYPES
 
-This is the role the character will have in the story. Types will likely change from genre
-
-to genre, particularly the type names. So in this section, we’ll talk about them in terms of the general role the character will have in the story, not what players will write on their character sheet (although a few example suggestions are provided).
+This is the role the character will have in the story. Types will likely change from genre to genre, particularly the type names. So in this section, we’ll talk about them in terms of the general role the character will have in the story, not what players will write on their character sheet (although a few example suggestions are provided).
 
 #### Performing Physical Actions
 
@@ -43,7 +41,8 @@ This character might be called a Warrior, a Soldier, a Jock, or a Construction W
 - Use any weapon without penalty
 - Wear armor without penalty
 - Stun an enemy as part of your attack, forcing them to lose their next action (costs 1 Might point)
-- Trained in two of the following: climbing, jumping, running, swimming • Add +2 to recovery rolls
+- Trained in two of the following: climbing, jumping, running, swimming 
+- Add +2 to recovery rolls
 
 ### Sneaking
 
@@ -95,9 +94,7 @@ When thinking about a Cypher Short scenario, think in terms of what you would ex
 
 ## SETUP
 
-This section of a Cypher Short is a brief overview of the setting and the premise of
-
-the situation. The basic statement of the genre and setting should be given to the players before they make characters.
+This section of a Cypher Short is a brief overview of the setting and the premise of the situation. The basic statement of the genre and setting should be given to the players before they make characters.
 
 ## POSSIBLE ENCOUNTERS
 
@@ -143,16 +140,15 @@ All random people in the building are level 2 or 3 NPCs.
 
 The characters all work in a tall skyscraper that houses many different businesses in a large city. They don’t necessarily work together or even know each other. But they’re all in a large lobby on the twenty-fifth floor, in front of a bank of four elevators, waiting for one to arrive. (A custodial worker probably is cleaning nearby rather than waiting for the elevator.) Suddenly, they hear an explosion, and the floor shudders and shakes. The fire alarms start ringing, and the power goes out, followed quickly by emergency lighting switching on, giving the area dim light.
 
-Obviously, the goal for the characters here is to get to safety. A safety-conscious person (like a security guard) would know that the safest thing to do is stay put, at least until the location of
-
-the fire is known (going down into smoke and flames is how many people die in high-rise fires).
+Obviously, the goal for the characters here is to get to safety. A safety-conscious person (like a security guard) would know that the safest thing to do is stay put, at least until the location of the fire is known (going down into smoke and flames is how many people die in high-rise fires).
 
 What the PCs don’t know (yet) is that a terrorist has planted a number of bombs in the building. One of them went off prematurely on the tenth floor. There are more bombs, designed to bring the entire structure down. And because the bomb exploded early, the bomber is still in the building.
 
 Other facts:
 - The floor the PCs are on has only a few other people on it currently.
 - It will take about ten minutes for first responders to arrive. They will take positions around the base of the building, and, after determining that the fire is on floor 10, will evacuate floors below that and set up on floor 8. This will likely take ten to fifteen minutes. During this time, authorities will attempt to contact anyone on floors above 10 and tell them to stay put, so office phones and some cell phones will start ringing. It’s very likely that more bombs will go off at this time, with rescue workers recalled for safety.
-- Emergency services will be jammed with calls. • The elevator cabs all descend to the ground floor and no longer function.
+- Emergency services will be jammed with calls.
+- The elevator cabs all descend to the ground floor and no longer function.
 - Whenever the fire spreads to a new floor, the sprinklers will go off. This is enough to keep the fire from spreading too much or too quickly, but the incendiary bombs make it impossible for the sprinklers alone to put the fire out.
 
 ## POSSIBLE ENCOUNTERS  
@@ -179,7 +175,7 @@ Going Further Down the Stairwell: Three people stand in the stairwell and tell t
 
 Going Even Further Down the Stairwell: Smoke! The stairwell is quickly becoming a chimney, even before the PCs get close to the tenth floor. Visibility is almost nil (treat as complete darkness) and characters must succeed at Might defense rolls each round or suffer 2 points of damage and lose their next action. The difficulty level starts at 2 but increases by 1 every other round.
 
-Fire! If the PCs descend to the eleventh floor, they find fire rages there (and it extends down to the ninth). The explosive(s) are incendiary and designed to start hot fires that can eventually bring the building down. Characters on thesefloors must make Speed defense rolls each round or suffer 6 points of damage. Even characters who succeed at their rolls suffer 3 points of damage from the heat, flames, smoke, and lack of oxygen.
+Fire! If the PCs descend to the eleventh floor, they find fire rages there (and it extends down to the ninth). The explosive(s) are incendiary and designed to start hot fires that can eventually bring the building down. Characters on these floors must make Speed defense rolls each round or suffer 6 points of damage. Even characters who succeed at their rolls suffer 3 points of damage from the heat, flames, smoke, and lack of oxygen.
 
 Firefighters to the Rescue: Eventually, the firefighters make a clear and relatively safe path out of the building through one of the stairwells, and they work to get everyone out. This is a great time for one last GM intrusion, or for the PCs who have seen the bomber to spot him trying to sneak out posing as a victim—perhaps as they exit the building.
 
