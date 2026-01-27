@@ -1,5 +1,0 @@
-Bigger #Ability #TransformAbility #Low #Core 
-
-When you use [Enlarge](Enlarge.md), you can choose to grow up to 12 feet (4 m) in height, and you add 3 more temporary points to your Might Pool. 
-
-Enabler.

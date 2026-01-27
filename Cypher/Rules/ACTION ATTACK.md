@@ -298,7 +298,8 @@ For example, consider a character who uses Shatter to attack six cultists (level
 
 ## ATTACKING OBJECTS
 
-Attacking an object is rarely a matter of hitting it. Sure, you can hit the broad side of a barn, but can you damage it? Attacking inanimate objects with a melee weapon is a Might action. Objects have levels and thus target numbers. Objects have a damage track that works like the damage track for PCs.
+Attacking an object is rarely a matter of hitting it. Sure, you can hit the broad side of a barn, but can you damage it? Attacking inanimate objects with a melee weapon is a Might action. Objects have  
+levels and thus target numbers. Objects have a damage track that works like the damage track for PCs.
 
 Intact is the default state for an object.
 
