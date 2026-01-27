@@ -6,7 +6,7 @@ You can create light, sculpt it, bend it away from you, or gather it to use as a
 - Tier 1: [Illuminating Touch](../Abilities/Illuminating%20Touch.md)
 - Tier 2: [Dazzling Sunburst](../Abilities/Dazzling%20Sunburst.md)
 - Tier 3: [Burning Light](../Abilities/Burning%20Light.md) or [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
-- Tier 4: [[Sunlight]]
+- Tier 4: [[../Abilities/Sunlight]]
 - Tier 5: [Disappear](../Abilities/Disappear.md)
 - Tier 6: [Living Light](../Abilities/Living%20Light.md) or [Defensive Field](../Abilities/Defensive%20Field.md)
 

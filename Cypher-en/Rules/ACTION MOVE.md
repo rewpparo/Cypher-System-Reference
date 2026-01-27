@@ -1,7 +1,7 @@
 As a part of another action, a character can adjust their position—stepping back a few feet while using an ability, sliding over in combat to take on a different opponent to help a friend, pushing through a door they just opened, and so on. This is considered an immediate distance, and a character can move this far as part of another action.
 
 In a combat situation, if a character is in a large melee, they’re usually considered to be next to most other combatants, unless the GM rules that they’re farther away because the melee is especially large or the situation dictates it.
-
++
 If they’re not in melee but still nearby, they are considered to be a short distance away—usually less than 50 feet (15 m). If they’re farther away than that but still involved in the combat, they are considered to be a long distance away, usually 50 to 100 feet (15 to 30 m), or possibly even a very long distance away, usually more than 100 feet to 500 feet (30 to 150 m).
 
 In a round, as an action, a character can make a short move. In this case, they are doing nothing but moving up to about 50 feet (15 m). Some terrain or situations will change the distance a character can move, but generally, making a short move is considered to be a difficulty 0 action. No roll is needed; they just get where they’re going as their action.
