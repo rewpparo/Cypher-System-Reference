@@ -1,0 +1,7 @@
+Confounding Banter (4 Intellect points) #Ability #ProtectionAbility #Mid #Core
+
+You spew a stream of nonsense to distract a foe within immediate range. On a
+successful Intellect roll, your defense roll against the creature’s next attack
+before the end of the next round is eased.
+
+Action.
