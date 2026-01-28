@@ -6,4 +6,4 @@ it is. Ask and the GM will tell you; usually, this is not associated with a
 roll, but in certain cases the GM may decide that there is a chance for you not
 to know. In these cases, you are specialized in knowing creature weaknesses.
 
-Enabler.
+Facilitateur.
