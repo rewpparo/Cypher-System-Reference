@@ -11,4 +11,4 @@ points to use Lunge. In addition to the normal options for using Effort, you can
 choose to use Effort to copy an ability you saw longer than one week ago; each
 level of Effort used in this way extends the time period by one week.
 
-Enabler.
+Facilitateur.
