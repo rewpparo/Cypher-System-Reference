@@ -6,4 +6,4 @@ reduce the assessed difficulty of a crafting task to 4 or lower, this ability
 also applies to each subtask, assuming something doesn’t interrupt you during
 the ensuing time to build.
 
-Enabler.
+Facilitateur.
