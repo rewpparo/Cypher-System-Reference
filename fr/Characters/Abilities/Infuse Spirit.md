@@ -6,4 +6,4 @@ one of your Pools (your choice). The spirit is stored within you, which means it
 cannot be questioned, raised, or restored to life by any means unless you allow
 it.
 
-Enabler.
+Facilitateur.
