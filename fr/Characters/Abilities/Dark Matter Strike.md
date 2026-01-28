@@ -6,4 +6,4 @@ target and entangles its limbs, holding it in place and easing your attack by
 two steps. The ability works for whatever kind of attack you use (melee, ranged,
 energy, and so on).
 
-Enabler.
+Facilitateur.
