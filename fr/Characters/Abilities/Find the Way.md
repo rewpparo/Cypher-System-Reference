@@ -5,4 +5,4 @@ lost, are attempting to blaze a new route, need to choose between two or more
 otherwise similar paths to take, or something very similar, you can apply a free
 level of Effort.
 
-Enabler.
+Facilitateur.
