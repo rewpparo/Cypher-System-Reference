@@ -9,4 +9,4 @@ So if you have 2 Armor and are struck by a force blast for 4 points of damage,
 your beast can take the 2 points of damage you would suffer, but their Armor
 does not come into play, nor does their immunity to force blasts, if any.
 
-Enabler.
+Facilitateur.
