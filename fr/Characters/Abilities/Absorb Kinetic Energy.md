@@ -1,9 +1,10 @@
-Absorb Kinetic Energy #Ability #ProtectionAbility #Low #Core
+Absorber l'énergie cinétique #Ability #ProtectionAbility #Low #Core
 
-You absorb a portion of the energy of a physical attack or impact. You negate 1
-point of damage you would have suffered and store that point as energy. Once you
-have absorbed 1 point of energy, you continue to negate 1 point of damage from
-any incoming blow or impact, but the residual energy bleeds off with a flare of
-harmless light (you cannot store more than 1 point at a time).
+Vous absorbez une portion de l'énergie d'une attaque physique ou d'un impact.
+Vous annulez 1 points de dégât que vous auriez subi et stocker ce point sous
+forme d'énergie. Une fois que vous avez absorbé un point d'énergie, vous
+continuez d'annuler 1 point de dégât de tous les coups ou impacts reçus, mais
+l'énergie résiduelle se dissipe sous forme d'un éclat de lumière inoffensive
+(vous ne pouvez pas stocker plus de 1 point à la fois).
 
-Enabler.
+Facilitateur.
