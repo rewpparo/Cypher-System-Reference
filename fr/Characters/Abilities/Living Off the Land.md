@@ -6,4 +6,4 @@ Further, since you’re so hardy and have gained resistance over time, you are
 trained in resisting the effects of natural poisons (such as those from plants
 or living creatures). You’re also immune to natural diseases.
 
-Enabler.
+Facilitateur.
