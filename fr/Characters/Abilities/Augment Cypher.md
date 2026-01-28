@@ -5,4 +5,4 @@ options for using Effort, you can choose to use Effort to increase the level of
 the cypher by an additional +1 (per level of Effort applied). You can’t increase
 the cypher’s level above 10.
 
-Enabler.
+Facilitateur.
