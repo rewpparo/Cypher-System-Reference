@@ -10,4 +10,4 @@ Enlarge after a ten-hour recovery roll, if you apply two levels of Effort, your
 base height is 80 feet (24 m), and you add a total of 17 temporary points to
 your Might Pool.
 
-Enabler.
+Facilitateur.
