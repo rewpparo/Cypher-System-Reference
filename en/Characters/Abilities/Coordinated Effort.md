@@ -1,5 +1,5 @@
 Coordinated Effort (3 Intellect points) #Ability #MetaAbility #TaskAbility #High #Core 
 
-When you and the duplicate from your Duplicate ability would attack the same creature, you can choose to make one attack roll with an asset. If you hit, you inflict damage with both attacks and treat the attacks as if they were one attack for the purpose of subtracting Armor from the damage. 
+When you and the duplicate from your [Duplicate](Duplicate.md) ability would attack the same creature, you can choose to make one attack roll with an asset. If you hit, you inflict damage with both attacks and treat the attacks as if they were one attack for the purpose of subtracting Armor from the damage. 
 
 Action.
