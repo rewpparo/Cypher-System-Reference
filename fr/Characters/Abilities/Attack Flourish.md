@@ -5,4 +5,4 @@ something that entertains or impresses others. One creature you choose within
 short range who can see you gains an asset to its next task if taken within a
 round or two.
 
-Enabler.
+Facilitateur.
