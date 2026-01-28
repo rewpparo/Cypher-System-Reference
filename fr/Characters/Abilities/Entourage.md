@@ -8,4 +8,4 @@ interference if you’re trying to avoid someone, help hide you from media
 attention, help you muscle through a crowd, and so on. On the other hand, if a
 situation becomes physically violent, they retreat to safety.
 
-Enabler.
+Facilitateur.
