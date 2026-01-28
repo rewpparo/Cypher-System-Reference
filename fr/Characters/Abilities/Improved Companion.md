@@ -6,4 +6,4 @@ a level 4 creature, it has a target number of 12 and 12 health, and it inflicts
 asset to your attacks). You can gain this ability once per tier. Each additional
 time you select it, it increases your companion or follower’s level by 1.
 
-Enabler.
+Facilitateur.
