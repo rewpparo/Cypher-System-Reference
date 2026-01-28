@@ -5,4 +5,4 @@ the hunt for ten minutes. During this time, you gain an asset to all tasks
 involving your quarry, including attacks. Your quarry is the creature you
 selected with your Quarry ability.
 
-Enabler.
+Facilitateur.
