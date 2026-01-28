@@ -7,4 +7,4 @@ artifacts, machines, manifest cyphers, and lesser magic devices within short
 range inoperable for one minute. After the creature uses this ability, it must
 retreat to its object to rest for three hours.
 
-Enabler.
+Facilitateur.
