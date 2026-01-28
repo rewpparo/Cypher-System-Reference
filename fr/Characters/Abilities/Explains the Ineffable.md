@@ -8,4 +8,4 @@ ends if you leave, but it resumes if you return to your friends’ company withi
 24 hours. If you leave your friends’ company for longer than that, you must
 spend another 24 hours together to reactivate the benefit.
 
-Enabler.
+Facilitateur.
