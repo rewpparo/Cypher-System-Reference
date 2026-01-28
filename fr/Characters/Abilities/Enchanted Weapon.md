@@ -10,4 +10,4 @@ attunement to the first one. Action to initiate, ten minutes to complete.
 If you attune yourself to a different weapon, come up with a story reason for
 why you are able to do that and why you chose this new weapon.
 
-Enabler.
+Facilitateur.
