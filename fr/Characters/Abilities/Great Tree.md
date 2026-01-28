@@ -12,4 +12,4 @@ foliage, and so on). This does not affect any of your abilities—in tree shape,
 you can use type abilities, other focus abilities, and so on. In tree shape,
 pretending to be a tree and hiding among normal trees are eased by two steps.
 
-Enabler.
+Facilitateur.
