@@ -6,4 +6,4 @@ electrical damage specifically, and you inflict 2 points of damage on any
 creature that touches you or attacks you with a melee weapon that conducts
 electricity.
 
-Enabler.
+Facilitateur.
