@@ -8,4 +8,4 @@ leave, but it resumes if you return to the allies’ company within 24 hours. If
 you leave the allies’ company for more than 24 hours, you must spend another 24
 hours together to reactivate the benefit.
 
-Enabler.
+Facilitateur.
