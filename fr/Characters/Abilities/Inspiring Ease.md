@@ -7,4 +7,4 @@ It ends if you leave, but it resumes if you return to the friend’s company
 within 24 hours. If you leave the friend’s company for more than 24 hours, you
 must spend another 24 hours together to reactivate the benefit.
 
-Enabler.
+Facilitateur.
