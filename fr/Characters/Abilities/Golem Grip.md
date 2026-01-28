@@ -8,4 +8,4 @@ make a Might-based roll to maintain your grip. If the target fails to break
 free, you can continue to hold it each round as your subsequent actions,
 automatically inflicting 4 points of damage each round by squeezing.
 
-Enabler.
+Facilitateur.
