@@ -6,4 +6,4 @@ damage. If you apply Effort to the attack, you get a free level of Effort on the
 task. You can’t use this ability if your Speed Effort costs are reduced from
 wearing armor.
 
-Enabler.
+Facilitateur.
