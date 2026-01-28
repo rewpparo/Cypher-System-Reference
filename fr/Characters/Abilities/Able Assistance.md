@@ -1,6 +1,6 @@
-Able Assistance #Ability #SupportAbility #High #Core
+Assistance habile #Ability #SupportAbility #High #Core
 
-When you help someone with a task and they apply a level of Effort, they get a
-free level of Effort on that task.
+Quand vous aidez quelqu'un sur une tâche et qu'ils appliquent un niveau
+d'effort, ils ont un niveau d'effort gratuit sur cette tâche.
 
-Enabler.
+Facilitateur.
