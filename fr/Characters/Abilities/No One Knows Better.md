@@ -5,4 +5,4 @@ intimidation, research, knowledge in one area, or seeing through deception. If
 you choose a skill in which you’re already trained, you become specialized in
 that skill instead.
 
-Enabler.
+Facilitateur.
