@@ -6,4 +6,4 @@ normally deals 2 extra points of damage, you instead deal 3 extra points. If you
 roll a natural 20 and choose to deal damage instead of achieve a special major
 effect, you deal 5 extra points of damage.
 
-Enabler.
+Facilitateur.
