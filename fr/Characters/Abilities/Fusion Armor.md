@@ -5,4 +5,4 @@ metal-hard skin, the blessings of an angel protect you, or something similar
 happens. These changes give you +1 to Armor even when you’re not wearing
 physical armor.
 
-Enabler.
+Facilitateur.
