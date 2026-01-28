@@ -3,4 +3,4 @@ Bestiary Knowledge #Ability #TaskAbility #Low #Core
 You are trained in the lore of flesh-eating, nonhumanoid creatures—recognizing
 them, knowing their weaknesses, and knowing their habits and behaviors.
 
-Enabler.
+Facilitateur.
