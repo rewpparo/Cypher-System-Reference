@@ -7,4 +7,4 @@ of the creature, and you’ll probably make rolls for it when it takes noncombat
 actions. The mount acts on your turn. If your mount dies, you can hunt in the
 wild for 3d6 days to find a new one.
 
-Enabler.
+Facilitateur.
