@@ -6,4 +6,4 @@ you. If successful, you don’t descend the step and you regain 1 point in any
 Pool that is bereft of points. You can’t use this ability again until after your
 next ten-hour rest.
 
-Enabler.
+Facilitateur.
