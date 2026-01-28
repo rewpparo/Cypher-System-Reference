@@ -5,4 +5,4 @@ which you will concentrate. For the rest of that day, you’re trained in that
 task. You can’t use this ability with a skill in which you’re already trained to
 become specialized.
 
-Enabler.
+Facilitateur.
