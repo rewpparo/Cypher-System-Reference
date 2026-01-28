@@ -4,4 +4,4 @@ You can take any small object—a coin, a pen, a bottle, a stone, and so on—an
 throw it with such force and precision that it inflicts damage as a light
 weapon.
 
-Enabler.
+Facilitateur.
