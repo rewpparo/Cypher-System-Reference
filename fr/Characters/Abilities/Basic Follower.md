@@ -7,4 +7,4 @@ follower.
 (When you use Basic Follower, the GM may require that you actually look for a
 suitable follower.)
 
-Enabler.
+Facilitateur.
