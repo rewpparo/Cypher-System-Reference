@@ -9,4 +9,4 @@ hindered. While bigger, you also gain an asset to tasks that are easier for a
 larger creature to perform, like climbing, intimidating, wading rivers, and so
 on.
 
-Enabler.
+Facilitateur.
