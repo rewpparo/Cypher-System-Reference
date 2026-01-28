@@ -7,4 +7,4 @@ attack can still potentially affect you—if the attacking creature can move to
 keep pace, if the attack fills an area too big to escape, etc. —the ability
 offers no benefit.
 
-Enabler.
+Facilitateur.
