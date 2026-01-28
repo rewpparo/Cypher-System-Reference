@@ -7,4 +7,4 @@ apply a level of Effort, you grant the same benefits to a ranged attack made by
 an ally within immediate range. In any case, you can use this ability only once
 per round.
 
-Enabler.
+Facilitateur.
