@@ -5,4 +5,4 @@ ranged projectile attacks to the ground. You are immune to such attacks until
 your turn in the next round. You must be aware of an attack to foil it. This
 ability does not work on energy attacks.
 
-Enabler.
+Facilitateur.
