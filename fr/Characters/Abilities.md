@@ -1,6 +1,6 @@
-This chapter presents a vast catalog of more than a thousand abilities a
-character can gain from their type, flavor (if any), and focus. They are sorted
-alphabetically by the ability’s name.
+Ce chapitre présente un vaste catalogue de plus de mille aptitudes qu'un
+personnage peut obtenir par son type, sa saveur (si utilisée), et son focus.
+Elles sont triées alphabétiquement par nom d'aptitude.
 
 A character’s type, flavor, and focus assign an appropriate tier to each
 ability. However, if you’re creating a brand-new focus or type, we provide a
