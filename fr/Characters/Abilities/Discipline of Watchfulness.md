@@ -10,4 +10,4 @@ hours. If you leave the allies’ company for more than 24 hours, you must spend
 another 24 hours together to reactivate the benefit. You must spend the
 Intellect point cost each 24 hours you wish to keep the benefit active.
 
-Enabler.
+Facilitateur.
