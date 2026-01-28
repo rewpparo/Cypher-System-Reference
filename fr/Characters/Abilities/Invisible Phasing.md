@@ -10,4 +10,4 @@ If you have the Invisibility ability, you can remain invisible during the entire
 round, which means that if you use Scratch Existence or Shred Existence,
 attacking each target along your path is eased by two steps.
 
-Enabler.
+Facilitateur.
