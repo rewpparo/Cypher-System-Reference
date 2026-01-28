@@ -6,4 +6,4 @@ and get a number matching your lucky number, your next task is eased. Whenever
 you make a roll that day and get a number matching your unlucky number, your
 next task is hindered.
 
-Enabler.
+Facilitateur.
