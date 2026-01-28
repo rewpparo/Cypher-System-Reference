@@ -8,4 +8,4 @@ none of your targets, the shield dissipates and then reforms in your grasp. (If
 you choose Bouncing Shield and have previously taken the Throw Force Shield
 ability, you have the option to exchange that ability for Healing Pulse.)
 
-Enabler.
+Facilitateur.
