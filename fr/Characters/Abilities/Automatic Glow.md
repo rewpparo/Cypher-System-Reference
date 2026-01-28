@@ -5,4 +5,4 @@ illuminating everything in immediate range. Whenever you want, your body
 (entirely or just part of it) sheds light, illuminating everything in short
 range.
 
-Enabler.
+Facilitateur.
