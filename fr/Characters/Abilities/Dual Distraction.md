@@ -4,4 +4,4 @@ When you wield two weapons, your opponent’s next attack is hindered, and if yo
 apply Effort on your next attack against that same foe, you get a free level of
 Effort on the task.
 
-Enabler.
+Facilitateur.
