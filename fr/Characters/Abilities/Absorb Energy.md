@@ -1,15 +1,17 @@
-Absorb Energy (7 Intellect points) #Ability #SpecialAttackAbility #High #Core
+Absorber l'énergie (7 Points d'Intellect) #Ability #SpecialAttackAbility #High
+#Core
 
-You touch an object and absorb its energy. If you touch a manifest cypher, you
-render it useless. If you touch an artifact, roll for its depletion. If you
-touch another kind of powered machine or device, the GM determines whether its
-power is fully drained. In any case, you absorb energy from the object touched
-and regain 1d10 Intellect points. If this would give you more Intellect than
-your Pool’s maximum, the extra points are lost, and you must make a Might
-defense roll. The difficulty of the roll is equal to the number of points over
-your maximum you absorbed. If you fail the roll, you take 5 points of damage and
-are unable to act for one round. You can use this ability as a defense action
-when you’re the target of an incoming ability. Doing so cancels the incoming
-ability, and you absorb the energy as if it were a device.
+Vous touchez un objet et absorbez son énergie. Si vous touchez un cypher
+manifeste, vous le rendez inutilisable. Si vous touchez un artefact, faites un
+jet de déchargement. Si vous touchez un autre type de machine ou appareil, le MJ
+détermine si son énergie est complètement absorbée. Dans tous les cas, vous
+absorbez de l'énergie de l'objet touché et regagnez 1d10 Points d'Intellect. Si
+ça vous donne plus d'Intellect que le maximum de votre réserve, les points en
+trop sont perdus, et vous devez faire un jet de défense de Puissance. La
+difficulté du jet est égale au nombre de points au dessus du maximum que vous
+avez absorbé. Si vous échouez le jet, vous prenez 5 points de dégâts et êtes
+incapable d'agir pendant un round. Vous pouvez utiliser cette aptitude comme une
+action de défense quand vous êtes la cible d'une aptitude. Dans ce cas,
+l'aptitude est annulée, et vous absorbez l'énergie comme si c'était un appareil.
 
 Action.
