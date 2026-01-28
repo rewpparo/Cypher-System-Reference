@@ -9,4 +9,4 @@ the negative effects of being impaired or debilitated. If you would otherwise
 descend the final step on the damage track to death, a successful defense roll
 keeps you at 1 point in one Pool, and you remain debilitated.
 
-Enabler.
+Facilitateur.
