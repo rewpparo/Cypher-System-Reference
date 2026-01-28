@@ -10,4 +10,4 @@ are hindered. When you are unconscious or sleeping, the force field dissipates.
 (A shield, including one produced by a force field, provides an asset to a
 character’s Speed defense task while it is held in one hand.)
 
-Enabler.
+Facilitateur.
