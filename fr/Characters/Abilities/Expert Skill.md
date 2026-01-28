@@ -7,4 +7,4 @@ attack roll or a defense roll.
 (A character can’t apply Effort or other abilities to any task they accomplish
 using Expert Skill.)
 
-Enabler.
+Facilitateur.
