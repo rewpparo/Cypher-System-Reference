@@ -8,4 +8,4 @@ weapon.
 (If you aren’t trained in an attack, select Skill With Attacks to become trained
 in that attack.)
 
-Enabler.
+Facilitateur.
