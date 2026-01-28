@@ -6,4 +6,4 @@ ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks
 using that type of weapon. If you’re already trained in that type of attack, you
 instead are specialized in that type of attack.
 
-Enabler.
+Facilitateur.
