@@ -11,4 +11,4 @@ If a character has Magical Repertoire, the GM should give the PC frequent
 opportunities to gain new subtle cyphers, whether from preparation or by gaining
 them automatically as explained in the Cyphers chapter
 
-Enabler.
+Facilitateur.
