@@ -5,4 +5,4 @@ as you direct. As a level 3 machine companion, it has a target number of 9 and 9
 health, and it inflicts 3 points of damage. If it’s destroyed, it takes you one
 month to create a new one.
 
-Enabler.
+Facilitateur.
