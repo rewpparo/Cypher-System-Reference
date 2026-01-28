@@ -6,4 +6,4 @@ work out the details of your creature, and you’ll probably make rolls for it i
 combat or when it takes actions. The companion acts on your turn. If your
 companion dies, you can hunt in the wild for 1d6 days to find a new one.
 
-Enabler.
+Facilitateur.
