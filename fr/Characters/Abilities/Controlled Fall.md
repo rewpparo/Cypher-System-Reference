@@ -5,4 +5,4 @@ surface, you can attempt to slow your fall. Make a Speed roll with a difficulty
 of 1 for every 20 feet (6 m) you fall. On a success, you take half damage from
 the fall. If you reduce the difficulty to 0, you take no damage.
 
-Enabler.
+Facilitateur.
