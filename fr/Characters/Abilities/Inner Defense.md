@@ -5,4 +5,4 @@ any task to resist another creature’s attempt to discern your true feelings,
 beliefs, or plans. You are likewise trained in resisting torture, telepathic
 intrusion, and mind control.
 
-Enabler.
+Facilitateur.
