@@ -6,4 +6,4 @@ to enter or pass through that area and you don’t wish it, you make an automati
 attack against them. If you hit, not only do you inflict damage, but they must
 also stop their movement.
 
-Enabler.
+Facilitateur.
