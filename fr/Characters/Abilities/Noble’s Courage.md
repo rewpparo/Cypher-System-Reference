@@ -8,4 +8,4 @@ the effect for up to a minute or, if you’re actively being attacked, until the
 next attack. For each level of Effort applied, you can increase the level of the
 effect you can neutralize by 1.
 
-Enabler.
+Facilitateur.
