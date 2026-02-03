@@ -3,4 +3,4 @@ Precision #Ability #MetaAbility #Low #Core
 You deal 2 additional points of damage with attacks using weapons that you
 throw.
 
-Enabler.
+Facilitateur.
