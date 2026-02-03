@@ -50,11 +50,11 @@ s'il y a quelque chose que vous ne parvenez pas à comprendre ou à saisir.
 
 # Réserve pour un Émissaire
 
-| Stat      | Réserve de Départ |
-| --------- | ----------------- |
-| Puissance | 8                 |
-| Célérité  | 9                 |
-| Intellect | 11                |
+| **Stat**  | **Réserve initiale** |
+| --------- | -------------------- |
+| Puissance | 8                    |
+| Célérité  | 9                    |
+| Intellect | 11                   |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
@@ -141,8 +141,8 @@ different one from a lower tier.
 - [Impart Ideal](../Abilities/Impart%20Ideal.md)
 - [Inspiring Ease](../Abilities/Inspiring%20Ease.md)
 - [Interaction Skills](../Abilities/Interaction%20Skills.md)
-- [Practiced in Armor](../Abilities/Practiced%20in%20Armor.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
+- [Pas besoin d'armes](../Abilities/No%20Need%20For%20Weapons.md)
+- [Hémorragie](../Abilities/Hemorrhage.md)
 - [Speedy Recovery](../Abilities/Speedy%20Recovery.md)
 - [Unexpected Betrayal](../Abilities/Unexpected%20Betrayal.md)
 
@@ -154,7 +154,7 @@ different one from a lower tier.
 - [Accelerate](../Abilities/Accelerate.md)
 - [Blend In](../Abilities/Blend%20In.md)
 - [Discerning Mind](../Abilities/Discerning%20Mind.md)
-- [Expert Cypher Use](../Abilities/Expert%20Cypher%20Use.md)
+- [Pulvérisation](../Abilities/Spray.md)
 - [Expert Follower](../Abilities/Expert%20Follower.md)
 - [Grand Deception](../Abilities/Grand%20Deception.md)
 - [Lead by Inquiry](../Abilities/Lead%20by%20Inquiry.md)
@@ -171,7 +171,7 @@ repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
 - [Anticipate Attack](../Abilities/Anticipate%20Attack.md)
 - [Confounding Banter](../Abilities/Confounding%20Banter.md)
-- [Feint](../Abilities/Feint.md)
+- [Effort incroyable](../Abilities/Amazing%20Effort.md)
 - [Heightened Skills](../Abilities/Heightened%20Skills.md)
 - [Psychosis](../Abilities/Psychosis.md)
 - [Read the Signs](../Abilities/Read%20the%20Signs.md)
@@ -184,14 +184,14 @@ different one from a lower tier.
 Choose three of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Adroit Cypher Use](../Abilities/Adroit%20Cypher%20Use.md)
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Discipline of Watchfulness](../Abilities/Discipline%20of%20Watchfulness.md)
-- [Experienced in Armor](../Abilities/Experienced%20in%20Armor.md)
+- [Fureur](../Abilities/Fury.md)
 - [Flee](../Abilities/Flee.md)
 - [Foul Aura](../Abilities/Foul%20Aura.md)
 - [Knowing the Unknown](../Abilities/Knowing%20the%20Unknown.md)
 - [Regeneration](../Abilities/Regeneration.md)
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
+- [Coup écrasant](../Abilities/Crushing%20Blow.md)
 - [Stimulate](../Abilities/Stimulate.md)
 
 # SIXTH-TIER SPEAKER
