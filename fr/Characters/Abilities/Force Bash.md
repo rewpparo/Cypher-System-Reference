@@ -5,4 +5,4 @@ Shield](Force%20Field%20Shield.md). Your attack inflicts 1 less point of damage
 than normal but dazes your target for one round, during which time all tasks it
 performs are hindered.
 
-Enabler.
+Facilitateur.
