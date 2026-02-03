@@ -12,4 +12,4 @@ integrated solid state mechanisms. The suit’s power supply is a radioisotope
 thermoelectric generator, which means it’ll function for a few decades before
 needing to be changed out.
 
-Enabler.
+Facilitateur.
