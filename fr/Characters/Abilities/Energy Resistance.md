@@ -7,4 +7,4 @@ you have no experience with a certain kind of extradimensional energy, you canâ€
 protect against it. You can select this ability more than once. Each time you
 select it, you must choose a different kind of energy.
 
-Enabler.
+Facilitateur.
