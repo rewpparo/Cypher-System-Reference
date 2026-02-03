@@ -14,4 +14,4 @@ you can add ten more creatures to the network. These larger networks last for
 ten minutes. Creating a network of twenty or more creatures does require an
 action to establish contact.
 
-Enabler.
+Facilitateur.
