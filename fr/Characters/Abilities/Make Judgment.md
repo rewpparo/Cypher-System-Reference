@@ -1,0 +1,6 @@
+Make Judgment #Ability #TaskAbility #Low #Core
+
+You are trained in discerning the truth of a situation, seeing through lies, or
+otherwise overcoming deception.
+
+Enabler.
