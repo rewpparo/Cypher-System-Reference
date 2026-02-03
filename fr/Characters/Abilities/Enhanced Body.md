@@ -9,4 +9,4 @@ For example, if you start with a full Might Pool of 10 and take 8 points of
 damage, you can use recovery rolls to restore 3 points, but the remaining 5
 points must be restored with repair tasks.
 
-Enabler.
+Facilitateur.
