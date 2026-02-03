@@ -7,4 +7,4 @@ each. Each tendril inflicts 4 points of damage. Otherwise, the attacks function
 as standard attacks. If you don’t use the tendrils to attack, they remain but do
 nothing.
 
-Enabler.
+Facilitateur.
