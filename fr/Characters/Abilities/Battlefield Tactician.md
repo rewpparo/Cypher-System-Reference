@@ -17,4 +17,4 @@ they stand on it. You can apply Effort to learn one additional good or bad
 location within range (one location per level of Effort), increase the range of
 this ability (another short distance per level of Effort), or both.
 
-Enabler.
+Facilitateur.
