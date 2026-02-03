@@ -6,4 +6,4 @@ physical melee attack that would otherwise hit you. When you do, the misdirected
 attack hits another creature you choose within immediate range of both you and
 the attacking foe. This ability is a difficulty 2 Intellect task.
 
-Enabler.
+Facilitateur.
