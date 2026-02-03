@@ -5,4 +5,4 @@ areas of knowledge such as history, geography, archeology, and so on. You can
 select this ability multiple times. Each time you select it, you must choose two
 different skills.
 
-Enabler.
+Facilitateur.
