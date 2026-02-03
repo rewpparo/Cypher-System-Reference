@@ -48,11 +48,11 @@ otherwise.
 
 # EXPLORER STAT POOLS
 
-| Stat      | Réserve de Départ |
-| --------- | ----------------- |
-| Puissance | 10                |
-| Célérité  | 9                 |
-| Intellect | 9                 |
+| **Stat**  | **Réserve initiale** |
+| --------- | -------------------- |
+| Puissance | 10                   |
+| Célérité  | 9                    |
+| Intellect | 9                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
@@ -100,25 +100,27 @@ First-tier Explorers have the following abilities:
 - Weapons: You can use light and medium weapons without penalty. You have an
   inability with heavy weapons; your attacks with heavy weapons are hindered.
 
-Special Abilities: Choose four of the abilities listed below. You can’t choose
-the same ability more than once unless its description says otherwise. The full
-description for each listed ability can be found in Abilities, which also has
-descriptions for flavor and focus abilities in a single vast catalog.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne
+pouvez pas choisir la même capacité plus d'une fois, à moins queup to four
+inexpensive items sa description dit le contraire. La description complète de
+chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi
+des descriptions pour les préférences et les capacités de focus en un seul grand
+catalogue.
 - [Block](../Abilities/Block.md)
 - [Danger Sense](../Abilities/Danger%20Sense.md)
 - [Decipher](../Abilities/Decipher.md)
 - [Endurance](../Abilities/Endurance.md)
 - [Find the Way](../Abilities/Find%20the%20Way.md)
 - [Fleet of Foot](../Abilities/Fleet%20of%20Foot.md)
-- [Improved Edge](../Abilities/Improved%20Edge.md)
+- [Compétences physiques](../Abilities/Physical%20Skills.md)
 - [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
 - [Muscles of Iron](../Abilities/Muscles%20of%20Iron.md)
-- [No Need for Weapons](../Abilities/No%20Need%20for%20Weapons.md)
-- [Physical Skills](../Abilities/Physical%20Skills.md)
-- [Practiced in Armor](../Abilities/Practiced%20in%20Armor.md)
+- [Contrôler le terrain](../Abilities/Control%20The%20Field.md)
+- [Lancer rapide](../Abilities/Quick%20Throw.md)
+- [Pas besoin d'armes](../Abilities/No%20Need%20For%20Weapons.md)
 - [Practiced With All Weapons](../Abilities/Practiced%20With%20All%20Weapons.md)
 - [Surging Confidence](../Abilities/Surging%20Confidence.md)
-- [Trained Without Armor](../Abilities/Trained%20Without%20Armor.md)
+- [Tir d'Opportunité](../Abilities/Overwatch.md)
 
 # SECOND-TIER EXPLORER
 
@@ -135,7 +137,7 @@ different one from a lower tier.
 - [Investigative Skills](../Abilities/Investigative%20Skills.md)
 - [Quick Recovery](../Abilities/Quick%20Recovery.md)
 - [Range Increase](../Abilities/Range%20Increase.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
+- [Hémorragie](../Abilities/Hemorrhage.md)
 - [Stand Watch](../Abilities/Stand%20Watch.md)
 - [Travel Skills](../Abilities/Travel%20Skills.md)
 - [Wreck](../Abilities/Wreck.md)
@@ -146,14 +148,14 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
 - [Controlled Fall](../Abilities/Controlled%20Fall.md)
-- [Experienced in Armor](../Abilities/Experienced%20in%20Armor.md)
-- [Expert Cypher Use](../Abilities/Expert%20Cypher%20Use.md)
+- [Fureur](../Abilities/Fury.md)
+- [Pulvérisation](../Abilities/Spray.md)
 - [Ignore the Pain](../Abilities/Ignore%20the%20Pain.md)
 - [Obstacle Running](../Abilities/Obstacle%20Running.md)
 - [Resilience](../Abilities/Resilience.md)
 - [Run and Fight](../Abilities/Run%20and%20Fight.md)
-- [Seize the Moment](../Abilities/Seize%20the%20Moment.md)
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
+- [Se Fendre](../Abilities/Lunge.md)
+- [Coup écrasant](../Abilities/Crushing%20Blow.md)
 - [Stone Breaker](../Abilities/Stone%20Breaker.md)
 - [Think Your Way Out](../Abilities/Think%20Your%20Way%20Out.md)
 - [Trapfinder](../Abilities/Trapfinder.md)
@@ -164,26 +166,26 @@ different one from a lower tier.
 Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Capable Warrior](../Abilities/Capable%20Warrior.md)
+- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
 - [Expert Skill](../Abilities/Expert%20Skill.md)
-- [Increased Effects](../Abilities/Increased%20Effects.md)
+- [Feinte](../Abilities/Feint.md)
 - [Read the Signs](../Abilities/Read%20the%20Signs.md)
 - [Runner](../Abilities/Runner.md)
 - [Subtle Steps](../Abilities/Subtle%20Steps.md)
-- [Tough As Nails](../Abilities/Tough%20As%20Nails.md)
+- [Tir Précis](../Abilities/Snipe.md)
 
 # FIFTH-TIER EXPLORER
 
 Choose three of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Adroit Cypher Use](../Abilities/Adroit%20Cypher%20Use.md)
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Free to Move](../Abilities/Free%20to%20Move.md)
 - [Group Friendship](../Abilities/Group%20Friendship.md)
 - [Hard to Kill](../Abilities/Hard%20to%20Kill.md)
-- [Jump Attack](../Abilities/Jump%20Attack.md)
-- [Mastery With Defense](../Abilities/Mastery%20With%20Defense.md)
-- [Parry](../Abilities/Parry.md)
+- [Maîtrise en Armure](../Abilities/Mastery%20In%20Armor.md)
+- [Tirs en éventail](../Abilities/Arc%20Spray.md)
+- [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
 - [Physically Gifted](../Abilities/Physically%20Gifted.md)
 - [Take Command](../Abilities/Take%20Command.md)
 - [Vigilant](../Abilities/Vigilant.md)
@@ -193,13 +195,13 @@ different one from a lower tier.
 Choose three of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Again and Again](../Abilities/Again%20and%20Again.md)
+- [Arme et corps](../Abilities/Weapon%20And%20Body.md)
 - [Inspire Coordinated Actions](../Abilities/Inspire%20Coordinated%20Actions.md)
-- [Mastery in Armor](../Abilities/Mastery%20in%20Armor.md)
-- [Mastery With Attacks](../Abilities/Mastery%20With%20Attacks.md)
+- [Parade](../Abilities/Parry.md)
+- [Succès amélioré](../Abilities/Improved%20Success.md)
 - [Negate Danger](../Abilities/Negate%20Danger.md)
 - [Share Defense](../Abilities/Share%20Defense.md)
-- [Spin Attack](../Abilities/Spin%20Attack.md)
+- [Meurtrier](../Abilities/Murderer.md)
 - [Wild Vitality](../Abilities/Wild%20Vitality.md)
 
 # EXPLORER EXAMPLE
