@@ -6,4 +6,4 @@ the hull, finding a stowaway, and so on. The same goes for any attack or defense
 rolls you make within the starcraft against enemy boarders, as well as any
 attack or defense rolls you make with the ship against enemy ships.
 
-Enabler.
+Facilitateur.
