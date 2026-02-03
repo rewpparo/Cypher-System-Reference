@@ -6,4 +6,4 @@ Also, it can remain manifest for an extended period, lasting until the end of
 your next ten-hour recovery roll. Finally, if you give permission, the magic
 ally can emerge from and enter the bound object on its own initiative.
 
-Enabler.
+Facilitateur.
