@@ -9,4 +9,4 @@ trained in that field until you use this ability again. You could use this
 ability with an area of knowledge you’re already trained in to become
 specialized.
 
-Enabler.
+Facilitateur.
