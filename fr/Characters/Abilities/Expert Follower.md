@@ -5,4 +5,4 @@ can take this ability multiple times, each time gaining another level 3
 follower. Alternatively, you could choose to advance a level 2 follower you
 already have to level 3 and then gain a new level 2 follower.
 
-Enabler.
+Facilitateur.
