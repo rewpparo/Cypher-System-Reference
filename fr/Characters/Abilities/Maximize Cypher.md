@@ -6,4 +6,4 @@ maximizing that cypher changes its level to 8. You can have only one maximized
 subtle cypher at a time. You can’t use this ability again until after you’ve
 taken a ten-hour recovery action.
 
-Enabler.
+Facilitateur.
