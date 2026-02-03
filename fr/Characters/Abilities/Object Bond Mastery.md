@@ -15,4 +15,4 @@ it +10 to Armor but rendering it incapable of attacking foes. In this form, it
 can fly a long distance each round, and the first time each day it returns to
 flesh (as an action), it regains 25 points of health.
 
-Enabler.
+Facilitateur.
