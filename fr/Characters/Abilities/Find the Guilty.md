@@ -3,4 +3,4 @@ Find the Guilty #Ability #TaskAbility #Mid #Core
 If you have used Designation on a target, you are trained in tracking them,
 spotting them when they are hidden or disguised, or otherwise finding them.
 
-Enabler.
+Facilitateur.
