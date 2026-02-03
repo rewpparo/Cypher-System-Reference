@@ -8,4 +8,4 @@ creature you want to heal, unless you have the Drain at a Distance ability, in
 which case they can be up to a short distance away.
 
 
-Enabler.
+Facilitateur.
