@@ -10,4 +10,4 @@ When you use Improved Copying, a copied ability must be low, medium, or high
 tier according to how it is listed in the ability categories. It doesn’t matter
 if a type or focus makes it available at a lower or higher tier.
 
-Enabler.
+Facilitateur.
