@@ -6,4 +6,4 @@ absorb 2 points. You can also store up to 2 points of energy from any source.
 However, you can still [Release Energy](Release%20Energy.md) only 1 point at a
 time.
 
-Enabler.
+Facilitateur.
