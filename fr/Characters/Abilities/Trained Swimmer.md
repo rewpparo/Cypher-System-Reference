@@ -3,4 +3,4 @@ Trained Swimmer #Ability #TaskAbility #Low #Core
 While underwater, you are trained in escaping, perception, sneaking, and
 swimming tasks, as well as in tasks to identify aquatic creatures and geography.
 
-Enabler.
+Facilitateur.
