@@ -7,4 +7,4 @@ effect lasts as long as you wish or until you attack a foe or no combat is
 taking place within range of your senses. Once the effect of this ability ends,
 you can’t enter it again for one minute.
 
-Enabler.
+Facilitateur.
