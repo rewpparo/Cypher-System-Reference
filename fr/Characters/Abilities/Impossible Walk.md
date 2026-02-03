@@ -9,4 +9,4 @@ water, mud, quicksand, or even lava (although touching a dangerous surface like
 lava still harms you). If you apply two levels of Effort, you can also walk on
 air as if it were solid ground.
 
-Enabler.
+Facilitateur.
