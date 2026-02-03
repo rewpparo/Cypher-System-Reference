@@ -198,7 +198,7 @@ rolls. For example, if a PC uses a low wall to gain cover from attacks, the wall
 eases the player’s defense rolls. If a foe uses the wall to gain cover from the
 PC’s attacks, it hinders the player’s attack rolls.
 
-# SPECIAL ROLLS
+# LANCERS SPÉCIAUX
 
 If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that
 number), special rules come into play. These are explained in more detail in the
@@ -378,10 +378,10 @@ point-blank, particularly when referring to ranges.
 (The words “immediate” and “close” can be used interchangeably to talk about
 distance. If a creature or object is within arm’s reach of the character, it can
 be considered both immediate and close.)
-- Short distance is anything greater than immediate distance but less than 50
-  feet (15 m) or so.
-- Long distance is anything greater than short distance but less than 100 feet
-  (30 m) or so.
+- La distance courte est tout ce qui est plus loin que la distance immédiate,
+  mais moins de 15m environ.
+- La distance longue est tout ce qui est plus loin que la distance courte, mais
+  moins de 30m environ.
 - Very long distance is anything greater than long distance but less than 500
   feet (150 m) or so.
 - Beyond that range, distances are always specified—1,000 feet (300 m), 1 mile
