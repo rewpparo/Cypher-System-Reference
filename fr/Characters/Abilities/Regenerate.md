@@ -10,4 +10,4 @@ activates and brings you back to life; however, you come back with a permanent
 because relying on it too much leads to a kind of malaise that vitality alone
 can‘t fix.)
 
-Enabler.
+Facilitateur.
