@@ -8,4 +8,4 @@ to save yourself with this ability before your next ten-hour recovery roll, the
 task is hindered. (A character can’t apply Effort or other abilities to any task
 accomplished using Tough As Nails.)
 
-Enabler.
+Facilitateur.
