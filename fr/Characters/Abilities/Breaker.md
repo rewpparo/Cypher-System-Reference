@@ -10,4 +10,4 @@ immediately destroyed. Brittle material reduces the effective level of the
 object, while hard material like wood or stone adds 1 to the effective level or
 2 for very hard objects like those made of metal.
 
-Enabler.
+Facilitateur.
