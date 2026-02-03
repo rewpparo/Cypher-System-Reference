@@ -8,4 +8,4 @@ energy you can store. If you also have [Improved Absorb Kinetic
 Energy](Improved%20Absorb%20Kinetic%20Energy.md), you can absorb 2 points of
 damage from other energy sources as well.
 
-Enabler.
+Facilitateur.
