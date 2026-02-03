@@ -5,4 +5,4 @@ immune defense nanobots into your bloodstream, exposure to strange radiation, or
 something else, you are now immune to diseases, viruses, and mutations of any
 kind.
 
-Enabler.
+Facilitateur.
