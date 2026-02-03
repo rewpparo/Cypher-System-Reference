@@ -10,4 +10,4 @@ one target.
 (Two characters attempting to draw an attack at the same time cancel each other
 out.)
 
-Enabler.
+Facilitateur.
