@@ -7,4 +7,4 @@ similar ability, it’s your choice (no roll required) whether you get a minor
 effect, a major effect, or a free activation of one of your tier 1–3 focus
 abilities.
 
-Enabler.
+Facilitateur.
