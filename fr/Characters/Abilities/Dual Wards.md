@@ -8,4 +8,4 @@ Defender apply to both your wards. If your wards separate, you choose which
 retains the benefit. If they come back together, both regain the benefit
 immediately.
 
-Enabler.
+Facilitateur.
