@@ -5,4 +5,4 @@ of the following: deceiving, persuading, public speaking, seeing through
 deception, or intimidation. You can select this ability multiple times. Each
 time you select it, you must choose two different skills.
 
-Enabler.
+Facilitateur.
