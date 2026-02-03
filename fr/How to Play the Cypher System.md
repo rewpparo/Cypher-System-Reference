@@ -1,5 +1,5 @@
 Les règles du Cypher System sont plutôt simples, car tout le jeu est basé sur
-quelques rares concepts de base.
+quelques concepts de base.
 
 Ce chapitre fournit une explication brève de la manière de jouer au jeu, et est
 utile pour apprendre le jeu. Une fois que vous comprenez les concepts de base,
