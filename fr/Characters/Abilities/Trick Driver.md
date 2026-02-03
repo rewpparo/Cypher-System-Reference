@@ -6,4 +6,4 @@ recover 5 additional points. When you attempt a driving task or an extreme
 trick—such as jumping a ravine or other vehicle, spinning in the air, landing
 safely on another vehicle, and so on—the task is eased.
 
-Enabler.
+Facilitateur.
