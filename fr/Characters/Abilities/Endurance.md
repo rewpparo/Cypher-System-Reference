@@ -7,4 +7,4 @@ can march for four hours without stopping, you can do so for eight hours. In
 terms of harmful effects, if a poison paralyzes its victims for one minute, you
 are paralyzed for thirty seconds. The minimum duration is always one round.
 
-Enabler.
+Facilitateur.
