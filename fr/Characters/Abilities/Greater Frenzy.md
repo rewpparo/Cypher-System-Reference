@@ -6,4 +6,4 @@ your Speed Edge. This effect lasts as long as you wish, but it ends if no combat
 is taking place within range of your senses. If you have the Frenzy ability, you
 can use it or this ability, but you can’t use both at the same time.
 
-Enabler.
+Facilitateur.
