@@ -1266,7 +1266,7 @@ damage track. If you die, your familiar instantly dies.
 You can replace a dead familiar (or revive them, if you have their remains) by
 performing a magical ritual that takes 1d6 days.
 
-Enabler.
+Facilitateur.
 
 Soul familiar: level 2, Speed defense as level 4 due to size
 
