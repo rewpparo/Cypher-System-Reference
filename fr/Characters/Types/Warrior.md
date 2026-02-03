@@ -1,11 +1,12 @@
-Warrior #Type #Core
+Guerrier #Type #Core
 
-- Fantasy/Fairy tale: Warrior, fighter, swordsman, knight, barbarian, soldier,
-  myrmidon, valkyrie
-- Modern/Horror/Romance: police officer, soldier, watchman, detective, guard,
-  brawler, tough, athlete
-- Science fiction: security officer, warrior, trooper, soldier, merc
-- Superhero/Post-Apocalyptic: hero, brick, bruiser
+- **Fantasy/Contes:** Guerrier, combattant, escrimeur, chevalier, barbare,
+  soldat, myrmidon, valkyrie
+- **Moderne/Horreur/Romance:** Officier de police, soldat, gardien, détective,
+  vigile, athlète
+- **Science fiction:** officier de sécurité, guerrier, homme de troupe, soldat,
+  mercenaire
+- **Superhero/Post-Apocalyptique:** héro, brique, cogneur
 
 You’re a good ally to have in a fight. You know how to use weapons and defend
 yourself. Depending on the genre and setting in question, this might mean
@@ -13,237 +14,254 @@ wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier
 of grenades in a savage firefight, or a blaster rifle and powered armor when
 exploring an alien planet.
 
-Individual Role: Warriors are physical,\
-action-oriented people. They’re more likely to overcome a challenge using force
-than by other means, and they often take the most straightforward path toward
-their goals.
+Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des
+armes et vous défendre.En fonction du genre et de la campagne, cela pourrait
+signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un
+AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une
+armure mécanique dans l'exploration d'une planète lointaine.
 
-Group Role: Warriors usually take and deal the most punishment in a dangerous
-situation. Often it falls on them to protect the other group members from
-threats. This sometimes means that warriors take on leadership roles as well, at
-least in combat and other times of danger.
+**Rôle individuel:** Les Guerriers sont orienté sur le physique et l'action. ils
+auront plus l'habitude de surmonter un péril en uincreases to impressive levels.
+At higher tiers, they can often take on groups of foes by themselves or stand
+toe to toe with anyone.tilisant la force que d'autre moyen, et ils prennent
+souvent le chemin le plus court vers leur objectif.
 
-Societal Role: Warriors aren’t always soldiers or mercenaries. Anyone who is
-ready for violence, or even potential violence, might be a Warrior in the
-general sense. This includes guards, watchmen, police officers, sailors, or
-people in other roles or professions who know how to defend themselves with
-skill.
+**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des
+mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la
+violence potentielle, peut être un Guerrier dans un sens général. Cela inclut
+les gardes, les gardiens, les officiers de police, les marins, ou les personnes
+dans d'autres rôle ou profession qui savent comment se défendre avec talent.
 
-Advanced Warriors: As warriors advance, their skill in battle—whether defending
-themselves or dishing out damage—increases to impressive levels. At higher
-tiers, they can often take on groups of foes by themselves or stand toe to toe
-with anyone.
+**Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur
+compétence dans les batailles, que ce soit en se défendant ou en infligeant des
+dommages, augmente à un rang impressionant. A un rang supérieur, ils peuvent
+souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain
+n'importe qui.
 
-# Warrior Background Connection
+# # Relation avec l'histoire passée du Guerrier
 
 Votre type vous aide à déterminer la relation que vous avez avec la campagne en
 cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
 définir un fait spécifique à propos de votre histoire qui fournit un relation
 avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
-| d20 | Historique                                                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | You were in the military and have friends who still serve. Your former commander remembers you well.                                       |
-| 2   | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace.                                      |
-| 3   | You were the bouncer in a local bar for a while, and the patrons there remember you.                                                       |
-| 4   | You trained with a highly respected mentor. They regard you well, but they have many enemies.                                              |
-| 5   | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others.                            |
-| 6   | You have no formal training. Your abilities come to you naturally (or unnaturally).                                                        |
-| 7   | You spent time on the streets and were in prison for a while.                                                                              |
-| 8   | You were conscripted into military service, but you deserted before long.                                                                  |
-| 9   | You served as a bodyguard to a powerful criminal who now owes you their life.                                                              |
-| 10  | You worked as a police officer or constable of some kind. Everyone knows you, but their opinions of you vary.                              |
-| 11  | Your older sibling is an infamous character who has been disgraced.                                                                        |
-| 12  | You served as a guard for someone who traveled extensively. You know a smattering of people in many locations.                             |
-| 13  | Your best friend is a teacher or scholar. They are a great source of knowledge.                                                            |
-| 14  | You and a friend both smoke the same kind of rare, expensive tobacco. The two of you get together weekly to chat and smoke.                |
-| 15  | Your uncle runs a theater in town. You know all the actors and watch all the shows for free.                                               |
-| 16  | Your craftsman friend sometimes calls on you for help. However, they pay you well.                                                         |
-| 17  | Your mentor wrote a book on martial arts. Sometimes people seek you out to ask about its stranger passages.                                |
-| 18  | Someone you fought alongside in the military is now the mayor of a nearby town.                                                            |
-| 19  | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.           |
-| 20  | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
+| d20 | Historique                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Vous étiez dans l'armée et vous y avez toujours des amis. Votre ancien commandant se souvient bien de vous.                                                                          |
+| 2   | Vous étiez le garde du corps d'unefemme riche qui vous a accusé de vol. Vous avez quitté son service en disgrâce.                                                                    |
+| 3   | Vous étiez le videur d'un bar du coin pendant un temps, et les habitués se souviennent de vous.                                                                                      |
+| 4   | Vous vous êtes entrainé avec un maître reconnu. Il vous respecte mais il a beaucoup d'ennemis.                                                                                       |
+| 5   | Vous vous êtes entrainé dans un monastère isolé. Les moines sont toujours vos frêres mais vous êtes un étranger pourtout les autres.                                                 |
+| 6   | Vous n'avez pas été vraiment entrainé. Vos compétences viennent naturellement (ou de manière surnatuelle).                                                                           |
+| 7   | Vous avez passé du temps dans les rues et avez été en prison pendant un moment.                                                                                                      |
+| 8   | Vous avez été réquisitionné dans une armée, mais vous avez déserté rapidement.                                                                                                       |
+| 9   | Vous avez servi de garde du coprs à un puissant criminel qui vous doit sa vie.                                                                                                       |
+| 10  | Vous avez travaillé comme officier de police ou comme une sorte de gendarme. Tout le monde vous connait, mais les opinions qu'il ont de vous peuvent varier.                         |
+| 11  | Votre grand frêre ou grande soeur est un personnage tristement célèbre qui a été disgracié.                                                                                          |
+| 12  | Vous avez servi comme garde pour quelqu'un qui a beaucoup voyagé. Vous connaissez beaucoup de monde un peu partout.                                                                  |
+| 13  | Votre meilleur ami est un enseignant ou un savant. C'est une bonne source d'information.                                                                                             |
+| 14  | Vous et un ami fumez tout les deux la même sorte de tabac rare et cher. Vous vous réunissez au moins une fois par semaine pour parler un peu et fumer.                               |
+| 15  | Votre oncle dirige un théatre en ville. Vous connaissez tous les acteurs et pouvez regarder les spectacles gratuitement.                                                             |
+| 16  | Votre ami artisan peut quelque fois vous demander de l'aide. Toutefois il vous paie correctement.                                                                                    |
+| 17  | Votre maître a écrit un livre sur les arts martiaux. De temps en temps, des personnes vous cherche pour vous demander des éclaircissement sur certains passages un peu étranges.     |
+| 18  | Une personne avec qui vous avez combattu dans l'armée est maintenant le maire d'une ville voisine.                                                                                   |
+| 19  | Vous avez sauvé la vie d'une famille alors que leur maison était en flamme. Elle a une dette envers vous et les voisins voient en vous un héro.                                      |
+| 20  | Votre ancien entraineur attend toujours de vous que vous revenniez nettoyer après les cours;quand vous le faites, il partage avec vous de temps en temps des rumeurs interressantes. |
 
-# WARRIOR PLAYER INTRUSIONS
+# Intrusions de Joueur pour un Guerrier
 
-You can spend 1 XP to use one of the following player intrusions, provided the
-situation is appropriate and the GM agrees.
+Vous pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à
+condition que la situation soit appropriée et que la Meneuse soit d'accord.
 
-Perfect Setup: You’re fighting at least three foes and each one is standing in
-exactly the right spot for you to use a move you trained in long ago, allowing
-you to attack all three as a single action. Make a separate attack roll for each
-foe. You remain limited by the amount of Effort you can apply on one action.
+**Position Parfaite:** Vous combattez au moins trois adversaires et chacun d'eux
+se trouve exactement à la bonne position pour vous pour faire un mouvement pour
+lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer
+tous les trois en une seule action. Faites un jet d'attaque pour chaque
+adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer
+en une seule action.
 
-Old Friend: A comrade in arms from your past shows up unexpectedly and provides
-aid in whatever you’re doing. They are on a mission of their own and can’t stay
-longer than it takes to help out, chat for a while after, and perhaps share a
-quick meal.
+**Vieil Ami:** Un ancien companion d'arme se présente de manière spontanée et
+vous fourni de l'aide dans ce que vous êtes en train de faire. Il doit accomplir
+sa propre mission et ne peut pas rester plus longtemps que pour vous aider,
+parler un peu après et peut-être partager un repas rapide.
 
-Weapon Break: Your foe’s weapon has a weak spot. In the course of the combat, it
-quickly becomes damaged and moves two steps down the object damage track.
+**Arme cassée:** L'arme de votre adversaire a un point faible. Pendant le
+combat, l'arme est endommagée et descend de deux rangs sur le suivi des dommages
+des objets.
 
-**WARRIOR STAT POOLS**
+# Statistiques de Réserve du Guerrier
 
-| Stat      | Réserve de Départ |
-| --------- | ----------------- |
-| Puissance | 10                |
-| Célérité  | 10                |
-| Intellect | 8                 |
+| **Stat**  | **Réserve initiale** |
+| --------- | -------------------- |
+| Puissance | 10                   |
+| Célérité  | 10                   |
+| Intellect | 8                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
 
-# FIRST-TIER WARRIOR
+# # Guerrier de Premier Rang
 
-First-tier warriors have the following abilities:
+Les Guerriers de Premier Rang ont les capacités suivantes:
 - **Effort:** Votre Effort est de 1.
-- Physical Nature: You have a Might Edge of 1 and a Speed Edge of 0, or you have
-  a Might Edge of 0 and a Speed Edge of 1. Either way, you have an Intellect
-  Edge of 0.
+- **Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage
+  de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de
+  Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intellect de 0.
 - **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
-- Weapons: You become practiced with light, medium, and heavy weapons and suffer
-  no penalty when using any kind of weapon. Enabler.
-- Starting Equipment: Appropriate clothing and two weapons of your choice, plus
-  one expensive item, two moderately priced items, and up to four inexpensive
-  items.
+- **Armes:** Vous avez la pratique des armes légères, moyennes et lourdes et
+  n'avez aucune pénalité quand vous utilisez une arme quelconque.
+- **Equipment au départ:** Des vêtements appropriés et deux armes de votre
+  choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à
+  quatre objets peu chers.
 
-Special Abilities: Choose four of the abilities listed below. You can’t choose
-the same ability more than once unless its description says otherwise. The full
-description for each listed ability can be found in Abilities, which also has
-descriptions for flavor and focus abilities in a single vast catalog.
-- [Bash](../Abilities/Bash.md)
-- [Combat Prowess](../Abilities/Combat%20Prowess.md)
-- [Control the Field](../Abilities/Control%20the%20Field.md)
-- [Improved Edge](../Abilities/Improved%20Edge.md)
-- [No Need for Weapons](../Abilities/No%20Need%20for%20Weapons.md)
-- [Overwatch](../Abilities/Overwatch.md)
-- [Physical Skills](../Abilities/Physical%20Skills.md)
-- [Practiced in Armor](../Abilities/Practiced%20in%20Armor.md)
-- [Quick Throw](../Abilities/Quick%20Throw.md)
-- [Swipe](../Abilities/Swipe.md)
-- [Trained Without Armor](../Abilities/Trained%20Without%20Armor.md)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne
+pouvez pas choisir la même capacité plus d'une fois, à moins queup to four
+inexpensive items sa description dit le contraire. La description complète de
+chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi
+des descriptions pour les préférences et les capacités de focus en un seul grand
+catalogue.
+- [Avantage de Stat Amélioré](../Abilities/Improved%20Edge.md)
+- [Choc](../Abilities/Bash.md)
+- [Claque](../Abilities/Swipe.md)
+- [Compétences physiques](../Abilities/Physical%20Skills.md)
+- [Contrôler le terrain](../Abilities/Control%20The%20Field.md)
+- [Entraîné sans armure](../Abilities/Trained%20Without%20Armor.md)
+- [Lancer rapide](../Abilities/Quick%20Throw.md)
+- [Pas besoin d'armes](../Abilities/No%20Need%20For%20Weapons.md)
+- [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
+- [Prouesses au combat](../Abilities/Combat%20Prowess.md)
+- [Tir d'Opportunité](../Abilities/Overwatch.md)
 
-# SECOND-TIER WARRIOR
+# # Guerrier de Second Rang
 
-Choose two of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Crushing Blow](../Abilities/Crushing%20Blow.md)
-- [Hemorrhage](../Abilities/Hemorrhage.md)
-- [Reload](../Abilities/Reload.md)
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
-- [Successive Attack](../Abilities/Successive%20Attack.md)
+Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
+votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- [Attaque successive](../Abilities/Successive%20Attack.md)
+- [Compétence avec les attaques](../Abilities/Skill%20With%20Attacks.md)
+- [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
+- [Coup écrasant](../Abilities/Crushing%20Blow.md)
+- [Hémorragie](../Abilities/Hemorrhage.md)
+- [Recharger](../Abilities/Reload.md)
 
 # THIRD-TIER WARRIOR
 
-Choose three of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Deadly Aim](../Abilities/Deadly%20Aim.md)
-- [Energy Resistance](../Abilities/Energy%20Resistance.md)
-- [Experienced in Armor](../Abilities/Experienced%20in%20Armor.md)
-- [Expert Cypher Use](../Abilities/Expert%20Cypher%20Use.md)
-- [Fury](../Abilities/Fury.md)
-- [Lunge](../Abilities/Lunge.md)
-- [Reaction](../Abilities/Reaction.md)
-- [Seize the Moment](../Abilities/Seize%20the%20Moment.md)
-- [Slice](../Abilities/Slice.md)
-- [Spray](../Abilities/Spray.md)
-- [Trick Shot](../Abilities/Trick%20Shot.md)
+Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- [Découpe](../Abilities/Slice.md)
+- [Expérimenté en armure](../Abilities/Experienced%20In%20Armor.md)
+- [Fureur](../Abilities/Fury.md)
+- [Pulvérisation](../Abilities/Spray.md)
+- [Réaction](../Abilities/Reaction.md)
+- [Résistance énergétique](../Abilities/Energy%20Resistance.md)
+- [Saisissez l'instant](../Abilities/Seize%20The%20Moment.md)
+- [Se Fendre](../Abilities/Lunge.md)
+- [Tir Double](../Abilities/Trick%20Shot.md)
+- [Utilisation experte des cyphers](../Abilities/Expert%20Cypher%20Use.md)
 - [Vigilance](../Abilities/Vigilance.md)
+- [Visée mortelle](../Abilities/Deadly%20Aim.md)
 
-# FOURTH-TIER WARRIOR
+# # Guerrier de Quatrième Rang
 
-Choose two of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Amazing Effort](../Abilities/Amazing%20Effort.md)
-- [Capable Warrior](../Abilities/Capable%20Warrior.md)
-- [Experienced Defender](../Abilities/Experienced%20Defender.md)
-- [Feint](../Abilities/Feint.md)
-- [Increased Effects](../Abilities/Increased%20Effects.md)
+Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
+votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- [Dur comme du Bois](../Abilities/Tough%20As%20Nails.md)
+- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
+- [Effets accrus](../Abilities/Increased%20Effects.md)
+- [Effort incroyable](../Abilities/Amazing%20Effort.md)
+- [Feinte](../Abilities/Feint.md)
+- [Guerrier Capable](../Abilities/Capable%20Warrior.md)
 - [Momentum](../Abilities/Momentum.md)
-- [Pry Open](../Abilities/Pry%20Open.md)
-- [Snipe](../Abilities/Snipe.md)
-- [Tough As Nails](../Abilities/Tough%20As%20Nails.md)
+- [Percer les Défenses](../Abilities/Pry%20Open.md)
+- [Tir Précis](../Abilities/Snipe.md)
 
-# FIFTH-TIER WARRIOR
+# # Guerrier de Cinquième Rang
 
-Choose three of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Adroit Cypher Use](../Abilities/Adroit%20Cypher%20Use.md)
-- [Arc Spray](../Abilities/Arc%20Spray.md)
-- [Improved Success](../Abilities/Improved%20Success.md)
-- [Jump Attack](../Abilities/Jump%20Attack.md)
-- [Mastery in Armor](../Abilities/Mastery%20in%20Armor.md)
-- [Mastery With Attacks](../Abilities/Mastery%20With%20Attacks.md)
-- [Mastery With Defense](../Abilities/Mastery%20With%20Defense.md)
-- [Parry](../Abilities/Parry.md)
+Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
+- [Maîtrise de la défense](../Abilities/Mastery%20With%20Defense.md)
+- [Maîtrise des attaques](../Abilities/Mastery%20With%20Attacks.md)
+- [Maîtrise en Armure](../Abilities/Mastery%20In%20Armor.md)
+- [Parade](../Abilities/Parry.md)
+- [Succès amélioré](../Abilities/Improved%20Success.md)
+- [Tirs en éventail](../Abilities/Arc%20Spray.md)
+- [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
 
-(Remember that at higher tiers, you can choose special abilities from lower
-tiers. This is sometimes the best way to ensure that you have exactly the
-character you want. This is particularly true with abilities that grant skills,
-which can usually be taken multiple times.)
+(Souvennez-vous qu'aux rangs supérieurs, vous pouvez choisir des capacités
+spéciales des rangs inférieurs. C'est quelque fois la meillere façon d'avoir
+exactement le personnage que vous souhaitez. C'est particulièrement vrai pour
+les capacités qui confèrent des compétences, que vous pouvez séletionner
+plusieurs fois.)
 
-# SIXTH-TIER WARRIOR
+# # Guerrier de Sixième Rang
 
-Choose two of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Again and Again](../Abilities/Again%20and%20Again.md)
-- [Finishing Blow](../Abilities/Finishing%20Blow.md)
-- [Magnificent Moment](../Abilities/Magnificent%20Moment.md)
-- [Murderer](../Abilities/Murderer.md)
-- [Spin Attack](../Abilities/Spin%20Attack.md)
-- [Weapon and Body](../Abilities/Weapon%20and%20Body.md)
+Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
+votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- [Arme et corps](../Abilities/Weapon%20And%20Body.md)
+- [Attaque Tournoyante](../Abilities/Spin%20Attack.md)
+- [Coup final](../Abilities/Finishing%20Blow.md)
+- [Encore et encore](../Abilities/Again%20And%20Again.md)
+- [Meurtrier](../Abilities/Murderer.md)
+- [Moment magnifique](../Abilities/Magnificent%20Moment.md)
 
-# WARRIOR EXAMPLE
+# # Exemple de Guerrier
 
-Ray wants to create a Warrior character for a modern campaign. He decides that
-the character is an ex-military fellow who is fast and strong. He puts 3 of his
-additional points into his Might Pool and 3 into his Speed Pool; his stat Pools
-are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his
-Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both
-0. His character is not particularly smart or charismatic.
+Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide
+que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points
+supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Célérité ;
+ses pools de statistiques sont désormais Puissance 13, Célérité 13 et Intellect
+8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de
+Puissance est de 1 et son Avantage de Célérité et son Avantage d'Intellect sont
+tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou
+charismatique.
 
-He wants to use a large combat knife (a medium weapon that inflicts 4 points of
-damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but
-requires the use of both hands). Ray decides not to wear armor, as it’s not
-really appropriate to the setting, so for his first ability, he chooses Trained
-Without Armor so he eases Speed defense actions. For his second ability, he
-chooses Combat Prowess so he can inflict extra damage with his big knife.
+Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4
+points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de
+dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter
+d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première
+capacité, il choisit Entraîné sans armure afin de faciliter les actions de
+défense en Célérité. Pour sa deuxième capacité, il choisit Prouesses au combat
+afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
 
-Ray wants to be fast as well as tough, so he selects Improved Edge. This gives
-him a Speed Edge of 1. He rounds out his character with Physical Skills and
-chooses swimming and running.
+Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne
+Avantage de Stat Amélioré. Cela lui donne un Avantage de Célérité de 1. Il
+complète son personnage avec des compétences physiques et choisit la natation et
+la course.
 
-The Warrior can bear two cyphers. The GM decides that Ray’s first cypher is a
-pill that restores 6 points of Might when swallowed, and his second is a small,
-easily concealed grenade that explodes like a firebomb when thrown, inflicting 3
-points of damage to all within immediate range.
+Le guerrier peut porter deux cyphers. Le MJ décide que le premier cypher de Ray
+est une pilule qui restaure 6 points de puissance lorsqu'il est avalé, et son
+second est une petite grenade facilement dissimulée qui explose comme une bombe
+incendiaire lorsqu'elle est lancée, infligeant 3 points de dégâts à tous ceux
+qui se trouvent à portée immédiate.
 
-Ray still needs to choose a descriptor and a focus. Looking ahead to the
-descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He
-also becomes trained in jumping and breaking inanimate objects. (If he had
-chosen jumping as one of his physical skills, the Strong descriptor would have
-made him specialized in jumping instead of trained.) Being Strong also gives Ray
-an extra medium or heavy weapon. He chooses a baseball bat that he’ll use in a
-pinch. He keeps it in the trunk of his car.
+Ray doit encore choisir un descripteur et un focus. En prévision des règles des
+descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17.
+Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait
+choisi le saut comme l'une de ses compétences physiques, le descripteur Fort
+l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort
+donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une
+batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa
+voiture.
 
-For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon
-of high quality. He chooses another combat knife and asks the GM if he could use
-it in his left hand—not to make attacks, but as a shield. This will ease his
-Speed defense rolls if he has both knives out (the “shield” counts as an asset).
-The GM agrees. During the game, Ray’s Warrior will be hard to hit—he is trained
-in Speed defense rolls, and his extra knife eases his defense rolls by another
-step.
+Pour son focus, Ray choisit Maîtrise l'Armement. Cela lui donne encore une arme
+de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il
+peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais
+comme bouclier. Cela facilitera ses jets de défense en Célérité s'il a ses deux
+couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord.
+Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné
+aux jets de défense de Célérité, et son couteau supplémentaire facilite encore
+plus ses jets de défense.
 
-Thanks to his focus, he also inflicts 1 additional point of damage with his
-chosen weapon. Now he inflicts 6 points of damage with his blade. Ray’s
-character is a deadly combatant, likely starting the game with a reputation as a
-knife fighter.
+Grâce à son Focus, il inflige également 1 point de dégâts supplémentaire avec
+l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le
+personnage de Ray est un combattant mortel, commençant probablement le jeu avec
+une réputation de combattant au couteau.
 
-For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none
-other than someone in his company who was once a friend but went rogue.
+Pour son arc de personnage, Ray choisit Defeat a Foe. Cet ennemi, décide-t-il,
+n'est autre qu'un membre de sa compagnie qui était autrefois un ami mais qui est
+devenu un voyou.
