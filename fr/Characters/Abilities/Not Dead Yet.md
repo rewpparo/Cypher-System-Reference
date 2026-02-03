@@ -7,4 +7,4 @@ before you make your ten-hour recovery roll, you are truly dead. If you also
 have this ability from another source, your healing from this ability increases
 to 1d6 + 12.
 
-Enabler.
+Facilitateur.
