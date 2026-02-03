@@ -6,4 +6,4 @@ and sleep). You move more stiffly than a creature of flesh, which means you can
 never be trained or specialized in Speed defense rolls. Furthermore, you are
 practiced in using your stone fists as a medium weapon.
 
-Enabler.
+Facilitateur.
