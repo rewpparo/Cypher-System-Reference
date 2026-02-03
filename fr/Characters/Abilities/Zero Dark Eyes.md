@@ -6,4 +6,4 @@ vision is actually better thanks to all your practice. You can see in very dim
 light as though it were bright light. You can see in total darkness as if it
 were very dim light.
 
-Enabler.
+Facilitateur.
