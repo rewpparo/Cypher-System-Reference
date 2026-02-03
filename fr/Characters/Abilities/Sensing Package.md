@@ -5,4 +5,4 @@ see up to a short distance through fog, smoke, and other obscuring phenomena. In
 addition, if you apply a level of Effort to perception or searching tasks, you
 get a free level of Effort on that task.
 
-Enabler.
+Facilitateur.
