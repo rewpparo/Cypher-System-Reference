@@ -5,4 +5,4 @@ knocked down, pushed back, or moved against your will even if the effect
 attempting to move you doesn’t allow it. If you apply Effort to this task, you
 can apply two free levels of Effort.
 
-Enabler.
+Facilitateur.
