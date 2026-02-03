@@ -6,4 +6,4 @@ weapons specifically. While the cyclone is active, you feel no discomfort from
 the wind, and you can interact with other creatures and objects normally because
 the wind flow automatically diverts to enable such interaction.
 
-Enabler.
+Facilitateur.
