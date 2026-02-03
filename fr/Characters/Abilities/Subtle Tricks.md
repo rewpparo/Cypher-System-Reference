@@ -12,4 +12,4 @@ make rolls to use your skills and abilities with Subtle Tricks. Using a skill or
 ability in a subtle way hinders the task. This ability can’t be used to conceal
 your attack or defense rolls.
 
-Enabler.
+Facilitateur.
