@@ -6,4 +6,4 @@ were from your Might or Speed Pool, or use an action to spend them to restore an
 equal number of points to your Might or Speed Pool. Your Siphon Pool can safely
 store up to 3 points; each point beyond that hinders all of your tasks.
 
-Enabler.
+Facilitateur.
