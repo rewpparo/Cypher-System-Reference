@@ -3,4 +3,4 @@ Further Mathematics #Ability #TaskAbility #High #Core
 You are specialized in higher mathematics. If you are already specialized,
 choose some other sphere of knowledge to become trained in.
 
-Enabler.
+Facilitateur.
