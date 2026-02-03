@@ -9,4 +9,4 @@ something that would impress onlookers so significantly. If you attempt the task
 you boast about but fail to accomplish it, all your attempts to affect or attack
 onlookers who saw you are hindered for about ten minutes.
 
-Enabler.
+Facilitateur.
