@@ -2,4 +2,4 @@ Greater Enhanced Potential #Ability #MetaAbility #Mid #Core
 
 You gain 6 points to divide among your stat Pools however you wish.
 
-Enabler.
+Facilitateur.
