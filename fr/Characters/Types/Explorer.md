@@ -48,22 +48,23 @@ otherwise.
 
 # EXPLORER STAT POOLS
 
-| Stat      | Pool Starting Value |
-| --------- | ------------------- |
-| Might     | 10                  |
-| Speed     | 9                   |
-| Intellect | 9                   |
+| Stat      | Réserve de Départ |
+| --------- | ----------------- |
+| Puissance | 10                |
+| Célérité  | 9                 |
+| Intellect | 9                 |
 
-You get 6 additional points to divide among your stat Pools however you wish.
+Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
+Réserves.
 
 # Explorer Background Connection
 
-Your type helps determine the connection you have to the setting. Roll a d20 or
-choose from the following list to determine a specific fact about your
-background that provides a connection to the rest of the world. You can also
-create your own fact.
+Votre type vous aide à déterminer la relation que vous avez avec la campagne en
+cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+définir un fait spécifique à propos de votre histoire qui fournit un relation
+avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
-| d20 | Background                                                                                                                                 |
+| d20 | Historique                                                                                                                                 |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |
 | 2   | Your brother is the lead singer in a really popular band.                                                                                  |
@@ -89,10 +90,10 @@ create your own fact.
 # FIRST-TIER EXPLORER
 
 First-tier Explorers have the following abilities:
-- Effort: Your Effort is 1.
+- **Effort:** Votre Effort est de 1.
 - Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an
   Intellect Edge of 0.
-- Cypher Use: You can bear two cyphers at a time.
+- **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 - Starting Equipment: Appropriate clothing and a weapon of your choice, plus two
   expensive items, two moderately priced items, and up to four inexpensive
   items.
