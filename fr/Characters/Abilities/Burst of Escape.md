@@ -3,4 +3,4 @@ Burst of Escape (5 Speed points) #Ability #MetaAbility #High #Core
 You can take two separate actions this round, as long as one of them is to hide
 or to move in a direction that is not toward a foe.
 
-Enabler.
+Facilitateur.
