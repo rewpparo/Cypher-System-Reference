@@ -16,4 +16,4 @@ lead or other substances) to an immediate distance in false color images;
 however, the GM might require you to succeed at an Intellect-based task first,
 depending on the material blocking your armor’s sensors.
 
-Enabler.
+Facilitateur.
