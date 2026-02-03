@@ -9,4 +9,4 @@ you use Shield Burst with a melee attack, you and creatures behind you are not
 affected by this explosion. If you use Shield Burst with a ranged attack, the
 shield dissipates after the attack and then reforms in your grasp.
 
-Enabler.
+Facilitateur.
