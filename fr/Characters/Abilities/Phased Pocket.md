@@ -10,4 +10,4 @@ you, and so on. When the connection ends, anything in the space falls out. For
 each 2 additional Intellect points you spend, the pocket lasts an additional
 hour.
 
-Enabler.
+Facilitateur.
