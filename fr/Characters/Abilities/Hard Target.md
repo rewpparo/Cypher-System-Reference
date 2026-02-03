@@ -1,0 +1,6 @@
+Hard Target #Ability #ProtectionAbility #High #Core
+
+If you move a short distance or farther on your turn, all Speed defense rolls
+are eased.
+
+Enabler.
