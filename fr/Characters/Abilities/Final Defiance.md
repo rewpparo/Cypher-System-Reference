@@ -6,4 +6,4 @@ Might task. During these rounds, you are debilitated. If you do not receive
 healing or otherwise gain points in a Pool during your final round(s) of
 activity, you are subject to the effects of Not Dead Yet.
 
-Enabler.
+Facilitateur.
