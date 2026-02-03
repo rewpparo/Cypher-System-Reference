@@ -5,4 +5,4 @@ gives you +1 to Armor. While the sheen is active, you feel no discomfort from
 normal cold temperatures and have an additional +2 to Armor versus cold damage
 specifically.
 
-Enabler.
+Facilitateur.
