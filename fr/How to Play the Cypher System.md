@@ -1,330 +1,350 @@
-The rules of the Cypher System are quite straightforward at their heart, as all
-of gameplay is based around a few core concepts.
+Les règles du Cypher System sont plutôt simples, car tout le jeu est basé sur
+quelques rares concepts de base.
 
-This chapter provides a brief explanation of how to play the game, and it’s
-useful for learning the game. Once you understand the basic concepts, you’ll
-likely want to reference Rules of the Game for a more in-depth treatment.
+Ce chapitre fournit une explication brève de la manière de jouer au jeu, et est
+utile pour apprendre le jeu. Une fois que vous comprenez les concepts de base,
+il est plus utile de se référer au chapitre Règles du Jeu pour des informations
+plus approfondies.
 
-The Cypher System uses a twenty-sided die (1d20) to determine the results of
-most actions. Whenever a roll of any kind is called for and no die is specified,
-roll a d20.
+Le Cypher System utilise un dé à 20 faces (1d20) pour déterminer le résultat de
+la plupart des actions. Quand un jet est demandé sans préciser quel dé, le jet
+se fera avec un d20.
 
-The game master sets a difficulty for any given task. There are ten degrees of
-difficulty. Thus, the difficulty of a task can be rated on a scale of 1 to 10.
+Le maitre du jeu définit la difficulté pour chaque tâche. Il y a dix degrés de
+difficulté. Donc la difficulté d'une tâche peut être quantifiée sur une échelle
+de 1 à 10.
 
-Each difficulty has a target number associated with it. The target number is
-always three times the task’s difficulty, so a difficulty 1 task has a target
-number of 3, but a difficulty 4 task has a target number of 12. To succeed at
-the task, you must roll the target number or higher. See the Task Difficulty
-table for guidance in how this works.
+Chaque difficulté est associée à un seuil de réussite. Le seuil de réussite est
+toujours trois fois la difficulté de la tâche. Donc une tâche de difficulté 1 a
+un seuil de réussite de 3, mais une tâche de difficulté 4 a un seuil de réussite
+de 12. Pour réussir une tâche, vous devez obtenir sur le dé le seuil de réussite
+ou plus. Voir sur la Table de Difficulté de Tâche comment ça marche.
 
-Character skills, favorable circumstances, or excellent equipment can decrease
-the difficulty of a task. For example, if a character is trained in climbing,
-they turn a difficulty 6 climb into a difficulty 5 climb. This is called
-**easing the difficulty by one step** (or just **easing the difficulty**, which
-assumes it’s eased by one step). If they are specialized in climbing, they turn
-a difficulty 6 climb into a difficulty 4 climb. This is called **easing the
-difficulty by two steps**. Decreasing the difficulty of a task can also be
-called **easing a task**. Some situations increase, or **hinder**, the
-difficulty of a task. If a task is hindered, it increases the difficulty by one
-step.
+Les compétences des personnages, les circonstances favorables, ou un excellent
+équipement peuvent réduire la difficulté d'une tâche. Par exemple, si un
+personnage est entrainé en escalade, ils changent une ascension de difficulté 6
+en une ascension de difficulté 5. Ceci s'appelle **diminuer la difficulté d'un
+niveau** (ou juste **diminuer la difficulté**, ce qui suppose d'un niveau).
+S'ils sont spécialisés en escalade, ils changent une ascension de difficulté 6
+en une ascension de difficulté 4. Ceci s'appelle **diminuer la difficulté de
+deux niveaux**. Diminuer la difficulté d'une tâche s'appelle aussi **faciliter
+une tâche**. Certaines situations augmentent, ou **gênent**, la difficulté d'une
+tâche. Si une tâche est gênée, sa difficulté augmente d'un niveau.
 
-A skill is a category of knowledge, ability, or activity relating to a task,
-such as climbing, geography, or persuasiveness. A character who has a skill is
-better at completing related tasks than a character who lacks the skill. A
-character’s level of skill is either trained (reasonably skilled) or specialized
-(very skilled).
+Une compétence est une catégorie de connaissance, une capacité, ou activité liée
+à une tâche, comme l'escalade, la géographie ou la persuasion. Un personnage qui
+a une compétence est meilleur à réussir les tâches correspondantes qu'un
+personnage qui n'a pas la compétence. Une compétence de personnage peut être
+"entrainé" (raisonnablement compétent) ou "spécialisé" (très compétent).
 
-If you are trained in a skill relating to a task, you ease the difficulty of
-that task by one step. If you are specialized, you ease the difficulty by two
-steps. A skill can never decrease a task’s difficulty by more than two steps.
+Si vous êtes entrainé dans une compétences liée à une tâche, vous facilitez la
+tâche d'un niveau. Si vous êtes spécialisé, vous facilitez la tâche de deux
+niveaux. Une compétence ne peut jamais diminuer la difficulté d'une tâche de
+plus de deux niveaux.
 
-Anything else that reduces difficulty (help from an ally, a particular piece of
-equipment, or some other advantage) is referred to as an **asset**. Assets can
-never decrease a task’s difficulty by more than two steps.
+Tout autre moyen réduisant la difficulté (l'aide d'un allié, une pièce
+d'équipement particulière, ou un autre avantage) s'appelle un **atout**. Les
+atouts ne peuvent jamais diminuer la difficulté d'une tâche de plus de deux
+niveaux.
 
-You can also decrease the difficulty of a given task by applying Effort. (Effort
-is described in more detail in the Rules of the Game chapter.)
+Vous pouvez aussi diminuer la difficulté d'une tâche en mettant de l'Effort.
+(L'Effort est décrit plus en détail dans les Règles du Jeu.)
 
-To sum up, three things can decrease a task’s difficulty: skills, assets, and
-Effort.
+Pour résumer, trois choses peuvent diminuer la difficulté d'une tâche : les
+compétences, les atouts, et l'Effort.
 
-If you can ease a task so its difficulty is reduced to 0, you automatically
-succeed and don’t need to make a roll.
+Si vous pouvez faciliter une tâche jusqu'à ce que sa difficulté devienne 0, vous
+réussissez automatiquement et n'avez pas besoin de faire un jet.
 
-# WHEN DO YOU ROLL?
+# QUAND FAIRE UN JET ?
 
-Any time your character attempts a task, the GM assigns a difficulty to that
-task, and you roll a d20 against the associated target number.
+A chaque fois que votre personnage tente une tâche, le MJ détermine la
+difficulté de la tâche, et vous lancez un d20 pour faire plus que le seuil de
+réussite.
 
-When you jump from a burning vehicle, swing an axe at a mutant beast, swim
-across a raging river, identify a strange device, convince a merchant to give
-you a lower price, craft an object, use a power to control a foe’s mind, or use
-a blaster rifle to carve a hole in a wall, you make a d20 roll.
+Quand vous sautez d'un véhicule en feu, abattez votre hache sur une bête
+mutante, nagez à travers un torrent, identifiez un appareil étrange, persuadez
+un marchand de baisser son prix, fabriquez un objet, utilisez un pouvoir pour
+contrôler l'esprit d'un ennemi, ou utilisez un fusil blaster pour faire un trou
+dans le mur, vous faites un jet avec un d20.
 
-However, if you attempt something that has a difficulty of 0, no roll is
-needed—you automatically succeed. Many actions have a difficulty of 0. Examples
-include walking across the room and opening a door, using a special ability to
-negate gravity so you can fly, using an ability to protect your friend from
-radiation, or activating a device (that you already understand) to erect a force
-field. These are all routine actions and don’t require rolls.
+Cependant, si vous tentez quelque chose qui a une difficulté de 0, aucun jet
+n'est nécessaire—vous réussissez automatiquement. Beaucoup d'actions ont une
+difficulté de 0. Par exemple, traverser la pièce et ouvrir une porte, utiliser
+une aptitude spéciale pour annuler la gravité et voler, utiliser une aptitude
+pour protéger un ami des radiations, activer un objet (dont vous comprenez le
+fonctionnement) pour ériger un champ de force. Toutes ces actions sont des
+actions de routine qui ne requièrent aucun jet.
 
-Using skill, assets, and Effort, you can ease the difficulty of potentially any
-task to 0 and thus negate the need for a roll. Walking across a narrow wooden
-beam is tricky for most people, but for an experienced gymnast, it’s routine.
-You can even ease the difficulty of an attack on a foe to 0 and succeed without
-rolling.
+En utilisant les compétences, les atouts, et l'Effort, vous pouvez faciliter
+potentiellement n'importe quelle tâche à 0 et donc annuler le besoin d'un jet.
+Marcher sur une poutre en bois est compliqué pour la plupart des gens, mais pour
+une gymnaste expérimentée, c'est la routine. Vous pouvez même diminuer la
+difficulté d'une attaque sur un ennemi à 0 et toucher sans jet.
 
-If there’s no roll, there’s no chance for failure. However, there’s also no
-chance for remarkable success (in the Cypher System, that usually means rolling
-a 19 or 20, which are called special rolls; the Rules of the Game chapter also
-discusses special rolls).
+S'il n'y a pas de jet, il n'y a pas de chance d'échouer. Mais il n'y a pas non
+plus de chance pour un succès remarquable (dans le Cypher System, cela veut dire
+faire un 19 ou un 20 sur le dé, ce qu'on appelle les jets spéciaux. Voir les
+règles du jeu qui parlent des jets spéciaux).
 
-# TASK DIFFICULTY
+# DIFFICULTÉ D'UNE TÂCHE
 
-| Task Difficulty | Description  | Target No. | Guidance                                                                                      |
-| --------------- | ------------ | ---------- | --------------------------------------------------------------------------------------------- |
-| 0               | Routine      | 0          | Anyone can do this basically every time.                                                      |
-| 1               | Simple       | 3          | Most people can do this most of the time.                                                     |
-| 2               | Standard     | 6          | Typical task requiring focus, but most people can usually do this.                            |
-| 3               | Demanding    | 9          | Requires full attention; most people have a 50/50 chance to succeed.                          |
-| 4               | Difficult    | 12         | Trained people have a 50/50 chance to succeed.                                                |
-| 5               | Challenging  | 15         | Even trained people often fail.                                                               |
-| 6               | Intimidating | 18         | Normal people almost never succeed.                                                           |
-| 7               | Formidable   | 21         | Impossible without skills or great effort.                                                    |
-| 8               | Heroic       | 24         | A task worthy of tales told for years afterward.                                              |
-| 9               | Immortal     | 27         | A task worthy of legends that last lifetimes.                                                 |
-| 10              | Impossible   | 30         | A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics). |
+| Difficulté | Description | Seuil | Repère                                                                                      |
+| ---------- | ----------- | ----- | ------------------------------------------------------------------------------------------- |
+| 0          | Routine     | 0     | N'importe qui réussit à chaque fois.                                                        |
+| 1          | Simple      | 3     | La plupart des gens réussissent la plupart du temps.                                        |
+| 2          | Standard    | 6     | Demande de la concentration, mais la plupart des gens y arrivent.                           |
+| 3          | Exigeant    | 9     | Demande toute l'attention ; la plupart des gens ont 50% de chances de réussite.             |
+| 4          | Difficile   | 12    | Les gens Entrainés ont 50% de chance de réussite.                                           |
+| 5          | Défi        | 15    | Même les gens entrainés échouent souvent.                                                   |
+| 6          | Intimidant  | 18    | Les gens normaux échouent presque toujours.                                                 |
+| 7          | Formidable  | 21    | Impossible sans compétences ou Effort.                                                      |
+| 8          | Héroïque    | 24    | Une tâche qu'on racontera pendant des années.                                               |
+| 9          | Immortel    | 27    | Une tâche qui nourrira les légendes pendant des générations.                                |
+| 10         | Impossible  | 30    | Une tâche impossible pour un humain normal (mais qui ne viole pas les lois de la physique). |
 
 # COMBAT
 
-Making an attack in combat works the same way as any other roll: the GM assigns
-a difficulty to the task, and you roll a d20 against the associated target
-number.
+Attaquer en combat marche de la même manière que n'importe quel jet : le MJ
+choisit la difficulté de la tâche, et vous lancez un d20 pour faire plus que le
+seuil de réussite.
 
-The difficulty of your attack roll depends on how powerful your opponent is.
-Just as tasks have a difficulty from 1 to 10, creatures have a level from 1 to
-10. Most of the time, the difficulty of your attack roll is the same as the
-creature’s level. For example, if you attack a level 2 bandit, it’s a level 2
-task, so your target number is 6.
+La difficulté de votre jet d'attaque dépend de la puissance de votre adversaire.
+Comme les tâches ont des difficultés entre 1 et 10, les créatures ont un niveau
+entre 1 et 10. La plupart du temps, la difficulté de votre jet d'attaque sera
+identique au niveau de la créature. Par exemple, si vous attaquez un bandit
+niveau 2, la tâche sera de niveau 2 et le seuil de réussite de 6.
 
-It’s worth noting that players make all die rolls. If a character attacks a
-creature, the player makes an attack roll. If a creature attacks a character,
-the player makes a defense roll.
+Il faut noter que les joueurs font les jets. Si un personnage attaque une
+créature, le joueur fera un jet d'attaque. Si une créature attaque un
+personnage, le joueur fait un jet de défense.
 
-The damage dealt by an attack is not determined by a roll—it’s a flat number
-based on the weapon or attack used. For example, a spear always does 4 points of
-damage.
+Le dégâts infligés par une attaque ne sont pas déterminés par un jeu—c'est un
+nombre brut basé sur le type d'arme ou d'attaque. Par exemple, une lance fera
+toujours 4 points de dégâts.
 
-Your Armor characteristic reduces the damage you take from attacks directed at
-you. You get Armor from wearing physical armor (such as a leather jacket in a
-modern game or chainmail in a fantasy setting) or from special abilities. Like
-weapon damage, Armor is a flat number, not a roll. If you’re attacked, subtract
-your Armor from the damage you take. For example, a leather jacket gives you +1
-to Armor, meaning that you take 1 less point of damage from attacks. If a mugger
-hits you with a knife for 2 points of damage while you’re wearing a leather
-jacket, you take only 1 point of damage. If your Armor reduces the damage from
-an attack to 0, you take no damage from that attack.
+Votre caractéristique d'Armure réduit les dégâts que vous subissez des attaques
+contre vous. Vous obtenez de l'Armure en portant une armure physique (comme une
+veste en cuir dans un jeu moderne, ou de la maille dans un cadre de fantasy) ou
+avec des aptitudes spéciales. Comme les dégâts des armes, l'Armure est un
+nombre, pas un jet. Quand vous êtes attaqué, soustrayez votre Armure des dégâts
+subis. Par exemple, une veste en cuir donne +1 d'Armure, ce qui veut dire que
+vous subissez 1 points de dégâts en moins des attaques. Si un voleur vous frappe
+avec un couteau qui fait 2 points de dégâts alors que vous portez une veste en
+cuir, vous prendrez seulement 1 point de dégâts. Si votre Armure réduit les
+dégâts d'une attaque à 0, vous ne prenez aucun dégâts de l'attaque.
 
-When you see the word “Armor” capitalized in the game rules (other than in the
-name of a special ability), it refers to your Armor characteristic—the number
-you subtract from incoming damage. When you see the word “armor” with a
-lowercase “a,” it refers to any physical armor you might wear.
+Quand vous voyez le mot "Armure" avec une majuscule dans les règles (sauf si
+c'est le nom d'une aptitude spéciale), il s'agit de votre caractéristique
+d'Armure—le nombre que vous soustrayez des dégâts reçus. Quand vous voyez le mot
+"armure" avec un a minuscule, il s'agit d'une armure physique que vous pourriez
+porter.
 
-Typical physical weapons come in three categories: light, medium and heavy.
+Les armes physiques classiques sont réparties en trois catégories : légères,
+moyennes et lourdes.
 
-Light weapons inflict only 2 points of damage, but they ease attack rolls
-because they are fast and easy to use. Light weapons are punches, kicks, clubs,
-knives, handaxes, rapiers, small pistols, and so on. Weapons that are
-particularly small are light weapons.
+Les armes légères infligent seulement 2 points de dégâts, mais facilitent les
+attaques car elles sont rapides et faciles à utiliser. Les armes légères sont
+les poings, les pieds, les gourdins, les haches de travail, les rapières, les
+petits pistolets, etc. Les armes très petites sont des armes légères.
 
-Medium weapons inflict 4 points of damage. Medium weapons include swords,
-battleaxes, maces, crossbows, spears, pistols, blasters, and so on. Most weapons
-are medium. Anything that could be used in one hand (even if it’s often used in
-two hands, such as a quarterstaff or spear) is a medium weapon.
+Les armes moyennes infligent 4 points de dégâts. Les armes légères sont les
+épées, les haches de bataille, les masses, les arbalètes, les lances, les
+pistolets, les blasters, etc. La plupart des armes sont moyennes. Tout ce qui
+peut être utilisé à une main (même s'ils peuvent être utilisés à deux mains,
+comme un bâton ou une lance) est une arme moyenne.
 
-Heavy weapons inflict 6 points of damage, and you must use two hands to attack
-with them. Heavy weapons are huge swords, great hammers, massive axes, halberds,
-heavy crossbows, blaster rifles, and so on. Anything that must be used in two
-hands is a heavy weapon.
+Les armes lourdes infligent 6 points de dégâts, et vous devez utiliser vos deux
+mains pour attaquer avec. Les armes lourdes sont les grandes épées, les grand
+marteaux, les haches massives, les hallebardes, les arbalètes lourdes, les fusil
+blaster, etc. Tout ce qui doit être utilisé à deux mains est une arme lourde.
 
-# SPECIAL ROLLS
+# LANCERS SPÉCIAUX
 
-When you roll a natural 19 (the d20 shows “19”) and the roll is a success, you
-also have a minor effect. In combat, a minor effect inflicts 3 additional points
-of damage with your attack, or, if you’d prefer a special result, you could
-decide instead that you knock the foe back, distract them, or something similar.
-When not in combat, a minor effect could mean that you perform the action with
-particular grace. For example, when jumping down from a ledge, you land smoothly
-on your feet, or when trying to persuade someone, you convince them that you’re
-smarter than you really are. In other words, you not only succeed but also go a
-bit further.
+Quand vous faites un 10 naturel (le d20 tombe sur "19") et que le jet est un
+succès, vous avez en plus un effet mineur. En combat, un effet mineur inflige 3
+points de dégâts supplémentaires avec votre attaque, ou si vous préférez un
+résultat spécial, vous pouvez décider à la place que vous forcez l'ennemi à
+reculer, vous les déconcentrez, ou quelque chose de similaire. Hors de combat,
+un effet mineur peut vouloir dire que vous accomplissez l'action avec une grâce
+particulière. Par exemple, si vous sautez d'un rebord, vous atterrissez
+proprement sur vos pieds, ou si vous essayez de persuader quelqu'un, ils pensent
+que vous êtes plus malins que vous ne l’êtes réellement. En résumé, non
+seulement vous réussissez mais vous allez un peu plus loin.
 
-When you roll a natural 20 (the d20 shows “20”) and the roll is a success, you
-also have a major effect. This is similar to a minor effect, but the results are
-more remarkable. In combat, a major effect inflicts 4 additional points of
-damage with your attack, but again, you can choose instead to introduce a
-dramatic event such as knocking down your foe, stunning them, or taking an extra
-action. Outside of combat, a major effect means that something beneficial
-happens based on the circumstance. For example, when climbing up a cliff wall,
-you make the ascent twice as fast. When a roll grants you a major effect, you
-can choose to use a minor effect instead if you prefer.
+Quand vous faites un 20 naturel (le d20 indique "20") et que le jet est un
+succès, alors vous obtenez un effet majeur. C'est similaire à un effet mineur,
+mais le résultat est encore plus remarquable. En combat, un effet majeur
+implique 4 points de dégâts supplémentaire avec votre attaque, mais vous pouvez
+choisir d'ajouter un évènement dramatique comme faire tomber votre adversaire,
+l'étourdir, ou avoir une action supplémentaire. Hors de combat, un effet majeur
+veut dire que quelque chose de positif arrive selon la circonstance. Par
+exemple, si vous grimpez une falaise, vous montez deux fois plus vite. Si un jet
+vous donne un effet majeur, vous pouvez choisir un effet mineur si vous
+préférez.
 
-In combat (and only in combat), if you roll a natural 17 or 18 on your attack
-roll, you add 1 or 2 additional points of damage, respectively. Neither roll has
-any special effect options—just the extra damage.
+En combat (et seulement en combat), si vous faites un 17 ou un 18 sur votre jet
+d'attaque, vous ajoutez 1 ou 2 points de dégâts supplémentaires, respectivement.
+Ces jets n'ont pas d'effet spéciaux—juste les dégâts supplémentaires.
 
-(For more information on special rolls and how they affect combat and other
-interactions, see Rules of the Game.)
+(Pour plus d'information sur les jets spéciaux et la manière dont ils
+influencent le combat et les autres interactions, voir les Règles du Jeu.)
 
-Rolling a natural 1 is always bad. It means that the GM introduces a new
-complication into the encounter.
+Faire un 1 naturel est toujours une mauvaise nouvelle. Ça veut dire que le MJ va
+ajouter une complication aux évènements.
 
-# GLOSSARY
+# GLOSSAIRE
 
-## Game master (GM)
+## Maitre du jeu (MJ)
 
-The player who doesn’t run a character, but instead guides the flow of the story
-and runs all the NPCs.
+Le joueur qui ne joue pas de personnage, mais à la place guide le flux de
+l'histoire et joue les PNJs.
 
-## Nonplayer character (NPC)
+## Personnage Non Joueur (PNJ)
 
-Characters run by the GM. Think of them as the minor characters in the story, or
-the villains or opponents. This includes any kind of creature as well as people.
+Les personnages joués par le MJ. Ce sont des personnages mineurs dans
+l'histoire, ou les méchants ou adversaires, y compris les créatures et les gens.
 
-## Party
+## Groupe
 
-A group of player characters (and perhaps some NPC allies).
+Plusieurs personnages joueurs (et peut être des alliés PNJ).
 
-## Player character (PC)
-A character run by a player rather than the GM. Think of the PCs as the main
-characters in the story.
+## Personnage Joueur (PJ)
+Un personnage joué par une joueur et non le MJ. Ce sont les personnages
+principaux de l'histoire.
 
-## Player
-The players who run characters in the game.
+## Joueur
+Les joueurs qui jouent les personnages du jeu.
 
 ## Session
-A single play experience. Usually lasts a few hours. Sometimes one adventure can
-be accomplished in a session. More often, one adventure is multiple sessions.
+Une expérience de jeu continue. Souvent quelques heures. Parfois une aventure
+peut durer une session, mais souvent plusieurs.
 
-## Adventure
-A single portion of the campaign with a beginning and an end. Usually defined at
-the beginning by a goal put forth by the PCs and at the end by whether or not
-they achieve that goal.
+## Aventure
+Une portion de campagne avec un début et une fin. Souvent définie au début par
+un but que les personnages se donnent et qui à la fin par leur réussite ou leur
+échec.
 
-## Campaign
-A series of sessions strung together with an overarching story (or linked
-stories) with the same player characters. Often, but not always, a campaign
-involves a number of adventures.
+## Campagne
+Une série de sessions qui se suivent avec une histoire surplombante (ou des
+histoires liées) avec les mêmes personnages joueurs. Souvent, mais pas toujours,
+une campagne implique plusieurs aventures.
 
-## Character
-Anything that can act in the game. Although this includes PCs and human NPCs, it
-also technically includes creatures, aliens, mutants, automatons, animate
-plants, and so on. The word “creature” is usually synonymous.
+## Personnage
+Tout ce qui peut agir dans le jeu. Ça inclue les PJ et les NPC humains, mais
+aussi techniquement toutes les créatures, aliens, mutants, automates, plantes
+animées, etc. Le mot "créature" est souvent synonyme.
 
-# RANGE AND SPEED
+# PORTÉE ET VITESSE
 
-Distance is simplified into four categories: immediate, short, long, and very
-long.
+La distance est simplifiée en quatre catégories : immédiate, courte, longue et
+très longue.
 
-Immediate distance from a character is within reach or within a few steps. If a
-character stands in a small room, everything in the room is within immediate
-distance. At most, immediate distance is 10 feet (3 m).
-- Short distance is anything greater than immediate distance but less than 50
-  feet (15 m) or so.
-- Long distance is anything greater than short distance but less than 100 feet
-  (30 m) or so.
-- Very long distance is anything greater than long distance but less than 500
-  feet (150 m) or so. Beyond that range, distances are always specified—1,000
-  feet (300 m), a mile (1.5 km), and so on.
+La distance immédiate d'un personnage est à portée de mains ou à quelques pas.
+Si un personnage est dans une petite pièce, toute la pièce est à portée
+immédiate. Au plus, la distance immédiate est de 3m.
+- La distance courte est tout ce qui est plus loin que la distance immédiate,
+  mais moins de 15m environ.
+- La distance longue est tout ce qui est plus loin que la distance courte, mais
+  moins de 30m environ.
+- La très longue distance est ce qui est plus loin que la distance longue, mais
+  moins de 150m environ. Au delà de cette distance, les distances sont toujours
+  spécifiées—300m, 1.5km, etc.
 
-The idea is that it’s not necessary to measure precise distances. Immediate
-distance is right there, practically next to the character. Short distance is
-nearby. Long distance is farther off. Very long distance is really far off.
+L'idée est qu'il n'est pas nécessaire de mesurer des distances précises. La
+distance immédiate, c'est ce qui est là, juste à coté du personnage. La distance
+courte, c'est pas loin, la distance longue, c'est plus loin. La distance très
+longue, c'est très loin.
 
-All weapons and special abilities use these terms for ranges. For example, all
-melee weapons have immediate range—they are close-combat weapons, and you can
-use them to attack anyone within immediate distance. A thrown knife (and most
-other thrown weapons) has short range. A bow has long range. An Adept’s
-Onslaught ability also has short range.
+Toutes les armes et les aptitudes spéciales utilisent ces termes pour les
+portées. Par exemple, toutes les armes de mêlée ont une portée immédiate—ce sont
+des armes de combat rapproché, et vous pouvez les utiliser pour attaquer
+n'importe qui à distance immédiate. Un couteau de lancer (comme la plupart des
+armes de lancer) a une distance courte. Un arc a une distance longue. L'aptitude
+Assaut d'un Adepte a aussi une portée courte.
 
-A character can move an immediate distance as part of another action. In other
-words, they can take a few steps over to the control panel and activate a
-switch. They can lunge across a small room to attack a foe. They can open a door
-and step through.
+Un personnage peut se déplacer d'une distance immédiate avec son action. En
+d'autre termes, il peut faire quelques pas jusqu'au panneau de contrôle et
+pousser le bouton. Ils peuvent se jeter sur un ennemi pour l'attaquer. Ils
+peuvent ouvrir une porte et passer à travers.
 
-A character can move a short distance as their entire action for a turn. They
-can also try to move a long distance as their entire action, but the player
-might have to roll to see if the character slips, trips, or stumbles as the
-result of moving so far so quickly.
+Un personnage se déplace d'une distance courte en utilisant la totalité de son
+action pour un tour. Ils peuvent aussi se déplacer à distance longue en
+utilisant la totalité de leur action, mais le joueur pourrait avoir à faire un
+jet pour voir si son personnage glisse ou trébuche à force de courir si vite.
 
-For example, if the PCs are fighting a group of cultists, any character can
-likely attack any cultist in the general melee—they’re all within immediate
-range. Exact positions aren’t important. Creatures in a fight are always moving,
-shifting, and jostling, anyway. However, if one cultist stayed back to fire a
-pistol, a character might have to use their entire action to move the short
-distance required to attack that foe. It doesn’t matter if the cultist is 20
-feet (6 m) or 40 feet (12 m) away—it’s simply considered short distance. It does
-matter if the cultist is more than 50 feet (15 m) away because that distance
-would require a long or very long move.
+Par exemple, si un PJ se bat contre un groupe de sectateurs, un personnage peut
+probablement attaquer n'importe quel sectateur dans la mêlée—ils sont tous à
+distance immédiate. Les positions exactes ne sont pas importantes. Les créatures
+en combat sont tout le temps en train de bouger, se glisser, se déplacer de
+toutes façons. Cependant, si un sectateur est resté en arrière pour tirer au
+pistolet, un personnage pourrait avoir à utiliser son action complète pour se
+déplacer d'une distance courte pour attaquer cet ennemi. Ça ne change rien si le
+sectateur est à 6m ou 12m—c'est jute à distance courte. Par contre, c'est
+important si le sectateur est à plus de 15m, car à cette distance il faudrait se
+déplacer d'une distance longue ou très longue.
 
-(Many rules in this system avoid the cumbersome need for precision. Does it
-really matter if the ghost is 13 feet away from you or 18? Probably not. That
-kind of needless specificity only slows things down and draws away from, rather
-than contributes to, the story.)
+(Beaucoup de règles dans ce systèmes évitent une précision lourde à gérer. Est
+ce vraiment intéressant si le fantôme est à 4m ou à 5 ? Probablement pas. Ce
+genre de précision ralenti le jeu, et éloigne de l'histoire sans y contribuer.)
 
-# EXPERIENCE POINTS
+# POINTS D’EXPÉRIENCE
 
-Experience points (XP) are rewards given to players when the GM intrudes on the
-story (this is called GM intrusion) with a new and unexpected challenge. For
-example, in the middle of combat, the GM might inform the player that they drop
-their weapon. However, to intrude in this manner, the GM must award the player 2
-XP. The rewarded player, in turn, must immediately give one of those XP to
-another player and justify the gift (perhaps the other player had a good idea,
-told a funny joke, performed an action that saved a life, and so on).
+Les points d'expérience (XP) sont des récompenses données aux joueurs quand le
+MJ fait une intrusion dans l'histoire (on appelle ça une intrusion de MJ) avec
+un défi inattendu. Par exemple, au milieu du combat, le MJ peut informer le
+joueur qu'il a laissé tomber son arme. Cependant, pour faire une telle
+intrusion, le MJ doit donner au joueur 2 XP. Le joueur récompensé, en retour,
+doit immédiatement donner un de ces XP à un autre joueur et justifier son choix
+(peut être que le joueur a eu une bonne idée, fait une bonne blague, a sauver
+une vie par ses actions, etc).
 
-Alternatively, the player can refuse the GM intrusion. If they do so, they don’t
-get the 2 XP from the GM, and they must also spend 1 XP that they already have.
-If the player has no XP to spend, they can’t refuse the intrusion.
+Sinon, le joueur peut refuser l’intrusion de MJ. Dans ce cas, ils n'obtiennent
+pas les 2 XP du MJ, et doivent aussi dépenser 1 XP qu'ils avaient déjà. Si un
+joueur n'a pas d'XP à dépenser, il ne peut pas refuser l'intrusion.
 
-The GM can also give players XP between sessions as a reward for making
-discoveries during an adventure. Discoveries are interesting facts, wondrous
-secrets, powerful artifacts, answers to mysteries, or solutions to problems
-(such as where the kidnappers are keeping their victim or how the PCs repair the
-starship). You don’t earn XP for killing foes or overcoming standard challenges
-in the course of play. Discovery is the soul of the Cypher System.
+Le MJ peut aussi donner de l'XP aux joueurs entre les sessions en récompense de
+découvertes pendant l'aventure. Les découvertes sont des faits intéressants, des
+secrets merveilleux, de puissants artefacts, la réponse à des mystères, la
+solution à des problèmes (comme l'endroit où les kidnappeurs gardaient la
+victime, ou comment réparer le vaisseau). Vous ne gagnez pas d'XP en tuant des
+ennemis ou en réussissant des défis pendant le jeu. La découverte est l'âme du
+Cypher System.
 
-Experience points are used primarily for character advancement (for details, see
-the Creating Your Character chapter), but a player can also spend 1 XP to reroll
-any die roll and take the better of the two rolls.
+Les points d'expérience sont utilisés principalement pour l'avancement de
+personnage (pour des détails, voir la section Créer votre personnage), mais un
+joueur peut également dépenser 1 XP pour relancer n'importe quel dé et prendre
+le meilleur jet.
 
 # CYPHERS
 
-Cyphers are abilities that have a single use. In many campaigns, cyphers aren’t
-physical objects—they might be a spell cast upon a character, a blessing from a
-god, or just a quirk of fate that gives them a momentary advantage. In some
-campaigns, cyphers are physical objects that characters can carry. Whether or
-not cyphers are physical objects, they are part of the character (like equipment
-or a special ability) and are things characters can use during the game. The
-form that physical cyphers take depends on the setting. In a fantasy world they
-might be wands or potions, but in a science fiction game they could be alien
-crystals or prototype devices.
+Les cyphers sont des aptitudes à usage unique. Dans beaucoup de campagnes, les
+cyphers ne sont pas des objets physiques—ils peuvent être un sort lancé au
+personnage, une bénédiction divine, ou un hasard du destin qui leur donne un
+avantage. Dans certaines campagnes, les cyphers sont des objets physiques que
+les personnages peuvent porter. Qu'ils soient physiques ou pas, ils font partie
+du personnage (comme un équipement ou une aptitude spéciale) et peuvent être
+utilisés par des personnages pendant le jeu. La forme que prennent les cyphers
+physiques dépend du genre. Dans un monde de fantaisie, ça peut être des
+baguettes ou des potions, mais dans un jeu de science fiction ça peut être des
+cristaux aliens ou des prototypes.
 
-Characters will find new cyphers frequently in the course of play, so players
-shouldn’t hesitate to use their cypher abilities. Because cyphers are always
-different, the characters will always have new special powers to try.
+Les personnages trouveront de nouveaux cyphers fréquemment dans le jeu, donc les
+joueurs ne doivent pas hésiter à utiliser les aptitudes de leurs cyphers. Comme
+les cyphers sont toujours différents, les personnages auront toujours de
+nouveaux pouvoirs à essayer.
 
-# OTHER DICE
+# AUTRES DÉS
 
-In addition to a d20, you’ll need a d6 (a six-sided die). Rarely, you’ll need to
-roll a number between 1 and 100 (often called a d100 or d% roll), which you can
-do by rolling a d20 twice, using the last digit of the first roll as the “tens”
-place and the last digit of the second roll as the “ones” place. For example,
-rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and
-rolling a 20 and a 10 gives you 00 (also known as 100). If you have a d10 (a
-ten-sided die), you can use it instead of the d20 to roll numbers between 1 and
-100.
+En plus du d20, vous aurez besoin d'un d6 (un dé à six faces). Rarement, vous
+aurez besoin d'un jet entre 1 et 100 (qu'on appelle un jet de d100 ou un d%), ce
+que vous pouvez faire en lançant deux fois le d20, en utilisant le dernier
+chiffre du premier pour les dizaines et le dernier chiffre du second pour les
+unités. Par exemple, vous faites un 17 et un 9 qui vous donne 79, faire un 3 et
+un 18 donne 38, et faire un 20 et un 10 donne 00 (qu'on appelle aussi 100). Si
+vous avez un d10, vous pouvez l'utiliser à la place du d20 pour faire des
+nombres entre 1 et 100.
 
-(A d6 is used most often for recovery rolls and to determine the level of
-cyphers.)
+(un d6 est utilisé surtout pour les jets de guérison et pour déterminer le
+niveau des cyphers)
 
