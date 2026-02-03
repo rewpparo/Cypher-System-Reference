@@ -10,4 +10,4 @@ effects until the duration expires:
 - You know what people are probably thinking and what they will say before they
   say it, which gives you an edge. You gain an asset to all interaction skills.
 
-Enabler.
+Facilitateur.
