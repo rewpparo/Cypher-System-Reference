@@ -5,4 +5,4 @@ avoid a GM intrusion—unless you roll a second 1—and might succeed on your ta
 Once you use this ability, it is not available again until after you make a
 ten-hour recovery roll.
 
-Enabler.
+Facilitateur.
