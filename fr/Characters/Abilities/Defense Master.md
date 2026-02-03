@@ -6,4 +6,4 @@ for Dodge and Resist.) Your attack must be the same type (melee weapon, ranged
 weapon, or unarmed) as the attack you defend against. If you don’t have an
 appropriate type of weapon ready, you can’t use this ability.
 
-Enabler.
+Facilitateur.
