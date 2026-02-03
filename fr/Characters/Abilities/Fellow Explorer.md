@@ -3,4 +3,4 @@ Fellow Explorer #Ability #CompanionAbility #Mid #Core
 You gain a level 2 follower. One of their modifications must be for tasks
 related to perception.
 
-Enabler.
+Facilitateur.
