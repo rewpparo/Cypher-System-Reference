@@ -3137,14 +3137,14 @@ can tell them that they spend that time doing some easy gigs that cover their
 basic expenses—that way the PCs don’t start the next session worse off than they
 ended the previous one.
 
-| Character | Reward Per Character |
-| --------- | -------------------- |
-| Tier 1    | 100–500              |
-| Tier 2    | 300–800              |
-| Tier 3    | 500–1,200            |
-| Tier 4    | 800–2,000            |
-| Tier 5    | 1,000–2,500          |
-| Tier 6    | 1,500–4000           |
+| Personnage | Reward Per Character |
+| ---------- | -------------------- |
+| Tier 1     | 100–500              |
+| Tier 2     | 300–800              |
+| Tier 3     | 500–1,200            |
+| Tier 4     | 800–2,000            |
+| Tier 5     | 1,000–2,500          |
+| Tier 6     | 1,500–4000           |
 
 #### Splitting XP
 
@@ -4016,8 +4016,8 @@ Stat Pool Starting Value
 
 First-tier Techs have the following abilities:
 - Effort: Your Effort is 1.
-- Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge
-  of 0.
+- **Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance
+  de 0 et un Avantage de Célérité de 0.
 - Expert Cypher Use: You can bear three cyphers at a time.
 - Starting Equipment: Appropriate clothing, a communicator implant, and $5,200.
 - Weapons: You are practiced with light weapons, light firearms, and medium
