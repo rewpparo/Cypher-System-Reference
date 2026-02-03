@@ -9,4 +9,4 @@ through a crowd, and so on. If a situation becomes physically violent, they
 provide an asset to your Speed defense tasks and, if you command it, try to hold
 a foe’s attention while you escape.
 
-Enabler.
+Facilitateur.
