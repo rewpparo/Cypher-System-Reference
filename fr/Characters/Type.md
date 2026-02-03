@@ -1,118 +1,135 @@
-Character type is the core of your character. Your type helps determine your
-character’s place in the world and relationship with other people in the
-setting. It’s the noun of the sentence “I am an *adjective* *noun* who *verbs*.”
+Le Type de personnage est le coeur de votre personnage. Son type vous aide à
+déterminer sa place dans le monde et les relations avec les autres dans la
+campagne. C'est le "nom" dans la phrase "Je suis un/e *nom+adjectif* qui
+*proposition*"
 
-(In some roleplaying games, your character type might be called your character
-class.)
+(Dans certains jeux de rôle, votre type de personnage peut être appelé votre
+classe de personnage.)
 
-You can choose from four character types: **Warrior**, **Adept**, **Explorer**,
-and **Speaker**. However, you may not want to use these generic names for them.
-This chapter offers a few more specific names for each type that might be more
-appropriate to various genres. You’ll find that names like “Warrior” or
-“Explorer” don’t always feel right, particularly in games set in modern times.
-As always, you’re free to do as you wish. (Your type is who your character is.
-You should use whatever name you want for your type, as long as it fits both
-your character and the setting.)
+Vous pouvez choisir parmi quatre types de personnage: [Guerrier](#guerrier),
+[Adepte](#adepte), [Explorateur](#explorateur), et [Émissaire](#emissaire).
+Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce
+chapitre vous propose, pour chaque type, quelques alternatives de noms qui
+pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que
+des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier
+dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous
+êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage
+est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment
+qu'il s'accorde à la fois au personnage et à la campagne.)
 
-Since the type is the basis upon which your whole character is built, it’s
-important to consider how the type relates to the chosen setting. To help with
-this, types are actually general archetypes. A Warrior, for example, might be
-anyone from a knight in shining armor to a cop on the streets to a grizzled
-cybernetic veteran of a thousand futuristic wars.
+Comme le type est la base sur laquelle votre personnage est bati, il est
+important de considérer comment le type se tient avec la campagne sélectionnée.
+Pour se faire, les types sont en pratique des archetypes. Un Guerrier, par
+exemple, pourrait être n'importe qui du chevalier en armure étincellante au
+policier dans la rue ou au baroudeur cybernétique vétéran de milliers de guerres
+futuristes.
 
-To further massage the four types for better use in various settings, different
-methods called flavors are presented in Flavors to help slightly tailor the
-types toward fantasy, science fiction, or other genres (or to address different
-character concepts).
+Pour faciliter l'usage des quatre types dans les diverses campagnes, différentes
+méthodes appelées "préférences" sont présentées dans le chapitre idoine to aider
+à personnaliser les différents types pour de la fantasy, de la science fiction,
+ou d'autres genres (ou pour s'ajuster à différents concepts de personnage).
 
-Finally, more fundamental options for further customization are provided at the
-end of this chapter.
+Au final, des options plus fondamentales de personnalisation sont fournies à la
+fin de ce chapitre.
 
 # PLAYER INTRUSION
 
-A player intrusion is the player choosing to alter something in the campaign,
-making things easier for a player character. Conceptually, it is the reverse of
-a GM intrusion: instead of the GM giving the player XP and introducing an
-unexpected complication for a character, the player spends 1 XP and presents a
-solution to a problem or complication. What a player intrusion can do usually
-introduces a change to the world or current circumstances rather than directly
-changing the character. For instance, an intrusion indicating that the cypher
-just used still has an additional use would be appropriate, but an intrusion
-that heals the character would not. If a player has no XP to spend, they can’t
-use a player intrusion.
+Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans
+la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle,
+c'est l'inverse d'un intrusion de la Meneuse qui donne au joueur des points
+d'expérience en introduisant une complication inatendue pour le personnage. Dans
+le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un
+problème ou une complication. Ce que l'intrusion du joueur peut faire est en
+général introduire un changement du monde ou des circonstances en cours, plutôt
+que de changer directement le personnage. Par exemple, une intrusion qui propose
+que le cypher qui vient d'être utilisé a une charge supplémentaire, est
+appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est
+pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion
+de joueur.
 
-A few player intrusion examples are provided under each type. That said, not
-every player intrusion listed there is appropriate for all situations. The GM
-may allow players to come up with other player intrusion suggestions, but the GM
-is the final arbiter of whether the suggested intrusion is appropriate for the
-character’s type and suitable for the situation. If the GM refuses the
-intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
+Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela
+dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à
+chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres
+suggestions d'intrusion de joueur, mais la Meneuse a le dernier mot pour savoir
+si une intrusion est appropriée en fonction du type de personnage et de la
+situation. Si la Meneuse refuse l'intrusion, le joueur ne dépense pas de XP, et
+l'intrusion n'a simplement pas lieu.
 
-Using an intrusion does not require a character to use an action to trigger it.
-A player intrusion just happens.
+Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour
+l'activer. Une intrusion de joueur survient tout simplement.
 
-(Player intrusions should be limited to no more than one per player per
-session.)
+(Les intrusions de joueur devraient être limitées à pas plus d'une par joueur et
+par session.)
 
-# DEFENSE TASKS
+# Tâche de Défense
 
-Defense tasks are when a player makes a roll to keep something undesirable from
-happening to their PC. The type of defense task matters when using Effort.
-- Might defense: Used for resisting poison, disease, and anything else that can
-  be overcome with strength and health.
-- Speed defense: Used for dodging attacks and escaping danger. This is by far
-  the most commonly used defense task.
-- Intellect defense: Used for fending off mental attacks or anything that might
-  affect or influence one’s mind.
+Les tâches de défense surviennent quand un joueur fait un jet de dé pour
+empècher que quelque chose de nuisible n'arrive à leur PJ. Le type de tâche de
+défense importe quand on applique un Effort.
+- **Défense de Puissance:** Utilisée pour résister au poison, à la maladie, et à
+  tout ce qui peut être sumonté par la force et la santé.
+- **Défense de Célérité:** Utilisée pour éviterdes attaques et échapper au
+  danger. C'est en général la tâche de défense la plus utilisée.
+- **Défense d'Intellect:** Utilisée pour se débarraser des attaques mentales ou
+  tout ce qui peut affecter ou influencer son esprit.
 
-# FURTHER CUSTOMIZATION
+# Plus de Personnalisation
 
-The rules in this section are more advanced and always involve the GM. They can
-be used by the GM to tailor a type to better fit the genre or setting, or by a
-player and a GM to tweak a character to fit a concept.
+Les règles de cette section sont plus avancées et impliquent toujours la
+Meneuse. Elles peuvent être utilisées par la Meneuse pour personnaliser un type
+afin de mieux l'adapter au genre ou au contexte, ou par un joueur et un MJ pour
+peaufiner un personnage afin de l'adapter à un concept.
 
-# MODIFYING TYPE ASPECTS
+# Modifier les Aspects d'un Type
 
-The following aspects of the four character types can be modified at character
-creation. Other abilities should not be changed.
+Les aspects suivants des quatre types de personnages peuvent être modifiés lors
+de la création du personnage. Les autres capacités ne doivent pas être
+modifiées.
 
-Stat Pools: Each character type has a starting stat Pool value. A player can
-exchange points between their Pools on a one-for-one basis. For example, they
-can trade 2 points of Might for 2 points of Speed. However, no starting stat
-Pool should be higher than 20.
+**Réserves:** Chaque type de personnage a une valeur de Réserve de statistiques
+de départ. Un joueur peut échanger des points entre ses Réserves sur une base
+individuelle. Par exemple, ils peuvent échanger 2 points de Puissance contre 2
+points de Célérité. Cependant, aucune Réserve de statistiques de départ ne doit
+être supérieur à 20.
 
-Edge: A player can start with an Edge of 1 in whichever stat they wish.
+**Avantage:** Un joueur peut démarrer avec un Avantage de 1 dans la Statistique
+de son choix.
 
-Cypher Use: If a character gives up the ability to bear one cypher, they gain an
-additional skill of their choice.
+**Utiliser un Cypher:** Si un personnage abandonne la possibilité de porter un
+Cypher, il gagne une compétence supplémentaire de son choix.
 
-Weapons: Some types have static first-tier abilities that let them use light,
-medium, and/or heavy weapons without a penalty. Warriors can use all weapons,
-Explorers can use light and medium weapons, and Adepts and Speakers can use
-light weapons. Any one of these weapon abilities can be sacrificed to gain
-training in a different skill of the player’s choice.
+**Armes:** Certains types ont des capacités statiques de premier rang qui leur
+permettent d'utiliser des armes légères, moyennes et/ou lourdes sans pénalité.
+Les Guerriers peuvent utiliser toutes les armes, les Explorateurs peuvent
+utiliser des armes légères et moyennes, et les Adeptes et Émissaires peuvent
+utiliser des armes légères. N'importe laquelle de ces capacités d'armes peut
+être sacrifiée pour acquérir un Entrainement dans une compétence différente au
+choix du joueur.
 
-# DRAWBACKS AND PENALTIES
+# Désavantages et Pénalités
 
-In addition to other customization options, a player can choose to take
-drawbacks or penalties to gain further advantages.
+En plus d'autres options de personnalisation, un joueur peut choisir de prendre
+des inconvénients ou des pénalités pour obtenir des avantages supplémentaires.
 
-Weakness: A weakness is, essentially, the opposite of Edge. If you have a
-weakness of 1 in Speed, all Speed actions that require you to spend points cost
-1 additional point from your Pool. At any time, a player can give their
-character a weakness in one stat and, in exchange, gain +1 to their Edge in one
-of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to
-their Might Edge.
+**Faiblesse:** Une faiblesse est essentiellement le contraire d'un Avantage de
+Statistique. Si vous avez une faiblesse en Célérité, toutes les actions de
+Célérité qui vous demandent de dépenser des points coûtent 1 point
+supplémentaire de votre Réserve. A tout moment, un joueur peut donner à son
+personnage une faiblesse dans une statistique et, en échange, gagner +1 à son
+Avantage dans l'une des deux autres statistiques. Ainsi, un PJ peut prendre une
+faiblesse en Célérité pour gagner +1 à son Avantage de Puissance.
 
-Normally, you can have a weakness only in a stat in which you have an Edge of 0.
-Further, you can’t have more than one weakness, and you can’t have a weakness
-greater than 1 unless the additional weakness comes from another source (such as
-a disease or disability arising from actions or conditions in the game).
+Normalement, vous ne pouvez avoir une faiblesse que dans une statistique dans
+laquelle vous avez un avantage de 0. De plus, vous ne pouvez pas avoir plus
+d'une faiblesse, et vous ne pouvez pas avoir une faiblesse supérieure à 1 à
+moins que la faiblesse supplémentaire ne provienne d'une autre source (telle
+qu'une maladie ou un handicap résultant d'actions ou de conditions du jeu).
 
-Inabilities: Inabilities are like negative skills. They make one type of task
-harder by hindering it. If a character chooses to take an inability, they gain a
-skill of their choice. Normally, a character can have only one inability unless
-the additional inability comes from another source (such as a descriptor or a
-disease or disability arising from actions or conditions in the game).
+**Inaptitude:** Les Inaptitudes sont comme des compétences négatives. Elles
+rendent un type de tâche plus difficile en l'entravant. Si un personnage choisit
+de prendre une Inaptitude, il acquiert une compétence de son choix. Normalement,
+un personnage ne peut avoir qu'une seule Inaptitude, à moins que l'Inaptitude
+supplémentaire ne provienne d'une autre source (comme un descripteur ou une
+maladie ou un handicap résultant d'actions ou de conditions du jeu).
 
 
