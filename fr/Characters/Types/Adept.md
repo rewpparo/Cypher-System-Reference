@@ -63,22 +63,23 @@ use out of a depleted cypher or artifact.
 
 # ADEPT STAT POOLS
 
-| Stat      | Pool Starting Value |
-| --------- | ------------------- |
-| Might     | 7                   |
-| Speed     | 9                   |
-| Intellect | 12                  |
+| Stat      | Réserve de Départ |
+| --------- | ----------------- |
+| Puissance | 7                 |
+| Célérité  | 9                 |
+| Intellect | 12                |
 
-You get 6 additional points to divide among your stat Pools however you wish.
+Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
+Réserves.
 
 # Adept Background Connection
 
-Your type helps determine the connection you have to the setting. Roll a d20 or
-choose from the following list to determine a specific fact about your
-background that provides a connection to the rest of the world. You can also
-create your own fact.
+Votre type vous aide à déterminer la relation que vous avez avec la campagne en
+cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+définir un fait spécifique à propos de votre histoire qui fournit un relation
+avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
-| d20 | Background                                                                                                                                                        |
+| d20 | Historique                                                                                                                                                        |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.                                                            |
 | 2   | You studied in a school infamous for its dark, brooding instructors and graduates.                                                                                |
@@ -104,9 +105,9 @@ create your own fact.
 # FIRST-TIER ADEPT
 
 First-tier Adepts have the following abilities:
-- Effort: Your Effort is 1.
-- Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge
-  of 0.
+- **Effort:** Votre Effort est de 1.
+- **Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance
+  de 0 et un Avantage de Célérité de 0.
 - Expert Cypher Use: You can bear three cyphers at a time.
 - Starting Equipment: Appropriate clothing, plus two expensive items, two
   moderately priced items, and up to four inexpensive items of your choice.
