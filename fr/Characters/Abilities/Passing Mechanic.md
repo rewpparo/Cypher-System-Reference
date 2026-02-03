@@ -1,0 +1,5 @@
+Passing Mechanic #Ability #TaskAbility #Mid #Core
+
+You are trained in tasks related to the repair and maintenance of a starcraft.
+
+Enabler.
