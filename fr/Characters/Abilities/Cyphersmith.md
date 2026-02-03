@@ -7,4 +7,4 @@ you had in the past. The GM and player should collaborate to ensure that the
 transformation is logical—for example, you probably can’t transform a pill into
 a helmet.
 
-Enabler.
+Facilitateur.
