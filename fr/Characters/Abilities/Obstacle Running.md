@@ -8,4 +8,4 @@ stepping on a creature to boost yourself over something. If an obstacle would
 normally require a Might or Speed task to overcome, such as swinging on a rope,
 balancing on a rope, or jumping over a hole, you are trained in that task.
 
-Enabler.
+Facilitateur.
