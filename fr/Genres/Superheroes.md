@@ -505,7 +505,7 @@ time and the “helpers” taking care of the rest.
 
 |                 |                                         |                                                    |                       |
 | --------------- | --------------------------------------- | -------------------------------------------------- | --------------------- |
-| Character       | Summary                                 | Sentence                                           | Archetype             |
+| Personnage      | Summary                                 | Sentence                                           | Archetype             |
 | Ant-Man         | Ant-sized hero                          | Jovial Explorer who Shrinks to Minute Size         | Tiny hero             |
 | Batman          | Dark knight                             | Perceptive Warrior who Solves Mysteries            | Genius                |
 | Black Panther   | King and chosen guardian of his country | Honorable Warrior who Needs No Weapon              | Master martial artist |
