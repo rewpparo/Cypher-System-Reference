@@ -6,4 +6,4 @@ categories (electronic, plastic, dangerous, metallic, glass, or textile), you
 have the materials you need to craft a new item in one of your areas of training
 (unless the GM deems otherwise).
 
-Enabler.
+Facilitateur.
