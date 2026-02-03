@@ -1,6 +1,6 @@
-Able Assistance #Ability #SupportAbility #High #Core
+Assistance compétente #Ability #SupportAbility #High #Core
 
-When you help someone with a task and they apply a level of Effort, they get a
-free level of Effort on that task.
+Lorsque vous aidez quelqu'un dans une tâche et qu'il applique un niveau
+d'effort, il obtient un niveau d'effort gratuit sur cette tâche.
 
 Enabler.
