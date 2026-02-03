@@ -6,4 +6,4 @@ an unmodified attack roll against the new target (do not use any of your or the
 opponent’s modifiers to the attack roll, but you can apply Effort for accuracy).
 If the attack hits, the target takes damage from your opponent’s attack.
 
-Enabler.
+Facilitateur.
