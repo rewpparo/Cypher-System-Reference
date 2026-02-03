@@ -1,6 +1,0 @@
-Machine Vulnerabilities #Ability #MetaAbility #Mid #Core
-
-You inflict 3 additional points of damage against robots and animate machines of
-all kinds.
-
-Facilitateur.

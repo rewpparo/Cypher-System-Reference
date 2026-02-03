@@ -1,5 +1,0 @@
-Enhanced Physique #Ability #MetaAbility #Mid #Core
-
-You gain 3 points to divide among your Might and Speed Pools however you wish.
-
-Facilitateur.

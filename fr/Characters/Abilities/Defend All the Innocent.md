@@ -1,7 +1,0 @@
-Defend All the Innocent #Ability #SupportAbility #Mid #Core
-
-You protect everyone within immediate range whom you have designated as innocent
-with your Designation ability. Speed defense rolls made by such creatures gain
-an asset.
-
-Facilitateur.

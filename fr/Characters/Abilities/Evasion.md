@@ -1,6 +1,0 @@
-Evasion #Ability #ProtectionAbility #High #Core
-
-You’re hard to affect when you don’t want to be affected. You are trained in all
-defense tasks.
-
-Facilitateur.

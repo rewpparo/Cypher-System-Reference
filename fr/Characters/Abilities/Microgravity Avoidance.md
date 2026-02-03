@@ -1,6 +1,0 @@
-Microgravity Avoidance #Ability #ProtectionAbility #High #Core
-
-By taking advantage of microgravity conditions, you gain an asset to Speed
-defense tasks while in zero-gravity or low-gravity conditions.
-
-Facilitateur.

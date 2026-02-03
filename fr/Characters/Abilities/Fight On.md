@@ -1,7 +1,0 @@
-Fight On #Ability #CureAbility #Mid #Core
-
-You do not suffer the normal penalties for being impaired on the damage track.
-If debilitated, instead of suffering the normal penalty of being unable to take
-most actions, you can continue to act; however, all tasks are hindered.
-
-Facilitateur.

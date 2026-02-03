@@ -1,0 +1,7 @@
+FRICTION REDUCER #Cypher #Manifest #Core
+
+Level: 1d6
+
+Effect: Spread across an area up to 10 feet (3 m) square, this makes things
+extremely slippery. For one hour per cypher level, movement tasks in the area
+are hindered by three steps.

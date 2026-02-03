@@ -1,7 +1,0 @@
-Dual Distraction (1+ Speed points) #Ability #MetaAbility #High #Core
-
-When you wield two weapons, your opponent’s next attack is hindered, and if you
-apply Effort on your next attack against that same foe, you get a free level of
-Effort on the task.
-
-Facilitateur.

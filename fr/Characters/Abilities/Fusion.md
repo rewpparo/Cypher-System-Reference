@@ -1,6 +1,0 @@
-Fusion #Ability #MetaAbility #Mid #Core
-
-You can fuse your manifest cyphers and artifacts with your body. These fused
-devices function as if they were one level higher.
-
-Facilitateur.
