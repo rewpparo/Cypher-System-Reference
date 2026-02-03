@@ -1,111 +1,119 @@
-Speaker #Type #Core
+Émissaire #Type #Core
 
-- Fantasy/Fairy tale: bard, speaker, skald, emissary, priest, advocate
-- Modern/Horror/Romance: diplomat, charmer, face, spinner, manipulator,
-  minister, mediator, lawyer
-- Science fiction: diplomat, empath, glam, consul, legate
-- Superhero/Post-Apocalyptic: charmer, mesmerist, puppet master
+- **Fantasy/Fairy tale:** barde, emissaire, skald, prêtre, avocate
+- **Modern/Horror/Romance:** diplomate, charmeur, espion, spin doctor,
+  manipulateur, ministre, mediateur, avocat
+- **Science fiction:** diplomate, empath, glam, consule, legat
+- **Superhero/Post-Apocalyptic:** charmeur, mesmeriste, puppet master
 
-You’re good with words and good with people. You talk your way past challenges
-and out of jams, and you get people to do what you want.
+Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sortir
+du pétrin ou surmonter des obstacles, et vous incitez les gens à faire ce que
+vous voulez.
 
-Individual Role: Speakers are smart and charismatic. They like people and, more
-important, they understand them. This helps speakers get others to do what needs
-to be done.
+**Rôle Individuel:** Les émissaires sont intelligents et charismatiques. Ils
+aiment les gens et, plus important encore, ils les comprennent. Cela aide les
+émissaires à amener les autres à faire ce qui doit être fait.
 
-Group Role: The Speaker is often the face of the group, serving as the person
-who speaks for all and negotiates with others. Combat and action are not a
-Speaker’s strong suits, so other characters sometimes have to defend the Speaker
-in times of danger.
+**Rôle de Groupe:** L'émissaire est souvent le visage du groupe, celui qui parle
+au nom de tous et négocie avec les autres. Le combat et l'action ne sont pas les
+points forts d'un Émissaire, c'est pourquoi d'autres personnages doivent parfois
+défendre l'Émissaire en cas de danger.
 
-Societal Role: Speakers are frequently political or religious leaders. Just as
-often, however, they are con artists or criminals.
+**Rôle en Société:** Les émissaires sont souvent des dirigeants politiques ou
+religieux. Mais il s'agit tout aussi souvent d'escrocs ou de criminels.
 
-Advanced Speakers: Higher-tier speakers use their abilities to control and
-manipulate people as well as aid and nurture their friends. They can talk their
-way out of danger and even use their words as weapons.
+**Émissaires Avancés:** Les émissaires de rang supérieur utilisent leurs
+capacités pour contrôler et manipuler les gens ainsi que pour aider et nourrir
+leurs amis. Ils peuvent parler pour se sortir du danger et même utiliser leurs
+mots comme des armes.
 
 # SPEAKER PLAYER INTRUSIONS
 
-When playing a Speaker, you can spend 1 XP to use one of the following player
-intrusions, provided the situation is appropriate and the GM agrees.
+Quand vous jouez un Émissaire, vous pouvez dépenser 1 XP pour utiliser l'une des
+intrusions de joueur ci-dessous, à condition que la situation est appropriée et
+que la Meneuse soit d'accord.
 
-Friendly NPC: An NPC you don’t know, someone you don’t know that well, or
-someone you know but who hasn’t been particularly friendly in the past chooses
-to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a
-favor in return afterward, depending on how much trouble they go to.
+**PNJ Amical:** Un PNJ que vous ne connaissez pas, quelqu'un que vous ne
+connaissez pas très bien, ou quelqu'un que vous connaissez mais qui n'a pas été
+particulièrement amical dans le passé, choisit de vous aider, sans
+nécessairement expliquer pourquoi. Peut-être qu'ils vous demanderont une faveur
+en retour par la suite, en fonction des ennuis qu'ils se donnent.
 
-Perfect Suggestion: A follower or other already-friendly NPC suggests a course
-of action with regard to an urgent question, problem, or obstacle you’re facing.
+**Suggestion Parfaite:** Un suivant ou un autre PNJ déjà amical suggère un plan
+d'action concernant une question urgente, un problème ou un obstacle auquel vous
+êtes confronté.
 
-Unexpected Gift: An NPC hands you a physical gift you were not expecting, one
-that helps put the situation at ease if things seem strained, or provides you
-with a new insight for understanding the context of the situation if there’s
-something you’re failing to understand or grasp.
+**Don Inatendu:** Un PNJ vous remet un cadeau physique auquel vous ne vous
+attendiez pas, qui aide à apaiser la situation si les choses semblent tendues,
+ou vous fournit un nouvel aperçu pour comprendre le contexte de la situation
+s'il y a quelque chose que vous ne parvenez pas à comprendre ou à saisir.
 
-# SPEAKER STAT POOLS
+# Réserve pour un Émissaire
 
-| Stat      | Pool Starting Value |
-| --------- | ------------------- |
-| Might     | 8                   |
-| Speed     | 9                   |
-| Intellect | 11                  |
+| Stat      | Réserve de Départ |
+| --------- | ----------------- |
+| Puissance | 8                 |
+| Célérité  | 9                 |
+| Intellect | 11                |
 
-You get 6 additional points to divide among your stat Pools however you wish.
+Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
+Réserves.
 
-# Speaker Background Connection
+# Relation avec l'histoire passée de l'Émissaire
 
-Your type helps determine the connection you have to the setting. Roll a d20 or
-choose from the following list to determine a specific fact about your
-background that provides a connection to the rest of the world. You can also
-create your own fact.
+Votre type vous aide à déterminer la relation que vous avez avec la campagne en
+cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+définir un fait spécifique à propos de votre histoire qui fournit un relation
+avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
-| d20 | Background                                                                                                                                                 |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.                                            |
-| 2   | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over. |
-| 3   | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.                                    |
-| 4   | You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.                                        |
-| 5   | You have no memory of anything that happened to you before the age of 18.                                                                                  |
-| 6   | Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.         |
-| 7   | As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.                                                                |
-| 8   | You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.                                                |
-| 9   | You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.                                         |
-| 10  | You have an annoying rival who always seems to get in your way or foil your plans.                                                                         |
-| 11  | You’ve worked yourself into the position of spokesperson for an organization or company of some importance.                                                |
-| 12  | Your neighbors were murdered, and the mystery remains unsolved.                                                                                            |
-| 13  | You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.                                               |
-| 14  | Your childhood sweetheart ended up with your best friend (now your ex-best friend).                                                                        |
-| 15  | You are part of a maligned minority, but you work to bring the injustice of your status to public attention.                                               |
-| 16  | You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.                                                        |
-| 17  | You once ran a con that cheated important people out of money, and they want revenge.                                                                      |
-| 18  | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).                                             |
-| 19  | You are in a close romantic relationship with someone in local politics.                                                                                   |
-| 20  | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |
+| d20 | Historique                                                                                                                                                                                        |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | L'un de vos parents était un artiste célèbre dans ses premières années et espérait que vous excelleriez dans le même milieu.                                                                      |
+| 2   | Lorsque vous étiez adolescent, un de vos frères et sœurs a disparu et est présumé mort. Le choc a déchiré votre famille, et c'est quelque chose dont vous ne vous êtes jamais remis.              |
+| 3   | Vous avez été intronisé dans une société secrète qui prétend détenir et protéger des connaissances ésotériques opposées aux forces du mal.                                                        |
+| 4   | Vous avez perdu un de vos parents à cause de l'alcoolisme. Ils sont peut-être encore en vie, mais vous auriez du mal à trouver le pardon.                                                         |
+| 5   | Vous n'avez aucun souvenir de ce qui vous est arrivé avant l'âge de 18 ans.                                                                                                                       |
+| 6   | Vos grands-parents vous ont élevé dans une ferme loin des centres urbains animés. Vous aimez penser que les instructions qu'ils vous ont données vous ont préparé à tout.                         |
+| 7   | Orphelin, vous avez eu une enfance difficile et votre entrée dans la vie adulte a été éprouvante.                                                                                                 |
+| 8   | Vous avez grandi dans une extrême pauvreté, parmi des criminels. Vous avez encore quelques liens avec le vieux quartier.                                                                          |
+| 9   | Vous avez servi d'envoyé pour une personne puissante et influente dans le passé, et elle vous considère toujours avec faveur.                                                                     |
+| 10  | Vous avez un rival ennuyeux qui semble toujours vous gêner ou déjouer vos plans.                                                                                                                  |
+| 11  | Vous avez accédé au poste de porte-parole d'une organisation ou d'une entreprise d'une certaine importance.                                                                                       |
+| 12  | Vos voisins ont été assassinés et le mystère reste entier.                                                                                                                                        |
+| 13  | Vous avez beaucoup voyagé et, pendant ce temps, vous avez accumulé toute une collection de souvenirs étranges.                                                                                    |
+| 14  | Votre amour d'enfance s'est retrouvé avec votre meilleur ami (maintenant votre ex-meilleur ami).                                                                                                  |
+| 15  | Vous faites partie d'une minorité décriée, mais vous travaillez pour attirer l'attention du public sur l'injustice de votre statut.                                                               |
+| 16  | Vous êtes copropriétaire d'un bar local, où vous êtes un expert dans la création de cocktails spéciaux.                                                                                           |
+| 17  | Vous avez déjà organisé une arnaque qui a escroqué de l'argent à des personnes importantes, et elles veulent se venger.                                                                           |
+| 18  | Vous jouiez dans un théâtre ambulant et ils se souviennent de vous avec tendresse (tout comme les gens des endroits que vous avez visités).                                                       |
+| 19  | Vous entretenez une relation amoureuse étroite avec un membre de la politique locale.                                                                                                             |
+| 20  | Quelqu'un essaie de se faire passer pour vous, en utilisant votre identité, souvent à des fins néfastes. Vous n'avez jamais rencontré le coupable, mais vous aimeriez certainement le rencontrer. |
 
-# FIRST-TIER SPEAKER
+# Émissaire de Premier Rang
 
-First-tier speakers have the following abilities:
-- Effort: Your Effort is 1.
-- Genius: You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge
-  of 0.
-- Cypher Use: You can bear two cyphers at a time.
-- Weapons: You can use light weapons without penalty. You have an inability with
-  medium and heavy weapons; your attacks with medium and heavy weapons are
-  hindered.
-- Starting Equipment: Appropriate clothing and a light weapon of your choice,
-  plus two expensive items, two moderately priced items, and up to four
-  inexpensive items.
+Les Émissaires ont les capacités suivantes:
+- **Effort:** Votre Effort est de 1.
+- **Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance
+  de 0 et un Avantage de Célérité de 0.
+- **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
+- **Armes:** Vous pouvez utilisers des armes légères sans pénalité. Vous êtes
+  inapte avec les armes moyennes et lourdes; vos attaques avec ces armes sont
+  atténuées.
+- **Equipement de Départ:** Vêtements appropriés et une arme légère de votre
+  choix, ainsi que deux objets très cher, deux objets moyennement cher, et au
+  plus quatre objets peu chers.
 
-Special Abilities: Choose four of the abilities listed below. You can’t choose
-the same ability more than once unless its description says otherwise. The full
-description for each listed ability can be found in Abilities, which also has
-descriptions for flavor and focus abilities in a single vast catalog.\
-(Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural
-element. If this is inappropriate to the character or the setting, these
-abilities can be replaced with something from the stealth flavor, or the GM can
-slightly modify them so they are based in extraordinary talents and insight
-rather than the supernatural.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne
+pouvez pas choisir la même capacité plus d'une fois, à moins que sa description
+dit le contraire. La description complète de chaque capacité listée se trouve
+dans le chapitre Capacités, qui dispose aussi des descriptions pour les
+préférences et les capacités de focus en un seul grand catalogue. (Certaines
+capacités d'Émissaire, comme Lecture mentale ou Véritables sens, impose un
+élément surnaturel. Si ce n'est pas apprprié pour le personnage ou la campagne,
+ces capacités peuvent être remplacées par quelque chose de la Préférence
+Furtivité, ou alors la Meneuse peut les modifier légèrement afin qu'elles soient
+basées sur des talents ou des intuitions extraordinaires plutôt que sur du
+supernaturel.)
 - [Anecdote](../Abilities/Anecdote.md)
 - [Babel](../Abilities/Babel.md)
 - [Demeanor of Command](../Abilities/Demeanor%20of%20Command.md)
@@ -200,44 +208,51 @@ different one from a lower tier.
 - [True Senses](../Abilities/True%20Senses.md)
 - [Word of Command](../Abilities/Word%20of%20Command.md)
 
-# SPEAKER EXAMPLE
+# Exemple d'Émissaire
 
-Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of
-her additional stat points into her Intellect Pool and 3 into her Speed Pool;
-her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier
-character, her Effort is 1, her Might Edge and Speed Edge are 0, and her
-Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
+Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle
+met 3 de ses points de statistiques supplémentaires dans sa réserve
+d'intelligence et 3 dans sa réserve de Célérité; ses statistiques sont désormais
+de Puissance 8, Célérité 12 et Intellect 14. En tant que personnage de premier
+rang, son Effort est de 1, son avantage de Puissance et son avantage de Célérité
+sont de 0 et son avantage d'Intellect est de 1. Elle est intelligente et
+charismatique mais pas particulièrement costaude.
 
-Mary chooses Fast Talk and Spin Identity to help get into places and learn
-things she wants to know. She’s a bit of a con artist. She’s good to her
-friends, however, and chooses Encouragement as well. Mary rounds out her
-first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary choisit Embrouiller et Changement d'Identité pour l'aider à se rendre dans
+des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une
+escroc. Cependant, elle est gentille avec ses amis et choisit également
+l'encouragement. Mary complète ses capacités de premier rang avec des
+compétences d'interaction (tromperie et persuasion).
 
-A Speaker normally starts with two cyphers, but the GM rules that characters in
-this campaign start with only one—something creepy relating to their background.
-Mary’s cypher is an odd pocket watch given to her by her grandfather. She
-doesn’t know how or why, but when activated, the watch allows her to take twice
-as many actions for three rounds.
+Un émissaire commence normalement par deux cyphers, mais la Meneuse décide que
+les personnages de cette campagne commencent par un seul --- à cause de quelque
+chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de
+poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi,
+mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus
+d'actions pendant trois tours.
 
-Mary’s character carries a small knife hidden in her bag in case of trouble. As
-a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
+Le personnage de Mary porte un petit couteau caché dans son sac en cas de
+problème. En tant qu'arme légère, elle inflige 2 points de dégâts, mais les
+attaques avec elle sont facilitées.
 
-Mary chooses Resilient for her descriptor and decides that she can probably
-learn the truth behind some of the strange things that she’s heard about without
-feeling too much trauma if it’s horrible. Resilient increases her Might Pool to
-10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense
-actions and gains an extra recovery roll each day. At first, Mary is sad that
-her descriptor gives her an inability in knowledge and puzzle tasks, but then
-she realizes that the flaw fits her character well—she’s better at getting
-people to tell her what she needs to know than at figuring out the information
-herself.
+Mary choisit Résilient comme descripteur et décide qu'elle peut probablement
+apprendre la vérité derrière certaines des choses étranges dont elle a entendu
+parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente
+sa Réserve de Puissance à 10 et sa Réserve d'Intellect à 16. Elle est entraînée
+aux actions de défense de Puissance et d'Intellect et gagne un jet de
+récupération supplémentaire chaque jour. Au début, Mary est triste que son
+descripteur lui donne une incapacité dans les tâches de connaissances et
+d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son
+personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a
+besoin de savoir qu'à comprendre l'information elle-même.
 
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of
-18 and training in balance. In the end, she’s graceful and quick, charismatic,
-and hardier than she initially thought thanks to her drive. She’s ready to
-investigate the weird.
+Pour son focus, Mary choisit Bouge comme un Chat, lui accordant une Réserve de
+Célérité finale de 18 et un entraînement à l'équilibre. En fin de compte, elle
+est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au
+départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
 
-For her character arc, Mary chooses Fall From Grace. She decides she’s had an
-obsession with a strange tome that’s been in her family for generations, and her
-character is drawn to its strange languages and rituals.
+Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle
+est obsédée par un livre étrange qui appartient à sa famille depuis des
+générations, et son personnage est attiré par ses langages et ses rituels
+étranges.
 
