@@ -6,4 +6,4 @@ addition to the asset from that ability). On a successful hit with this surprise
 attack, you inflict 2 additional points of damage (for a total of 4 additional
 points of damage if you have Surprise Attack).
 
-Enabler.
+Facilitateur.
