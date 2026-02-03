@@ -6,4 +6,4 @@ of you. This destroys the illusion but leaves you unharmed by the attack. If the
 attack affects an area and the teleportation can’t get you out of that area, the
 attack still affects you normally.
 
-Enabler.
+Facilitateur.
