@@ -1,0 +1,6 @@
+Skill With Defense #Ability #AttackAbility #Mid #Core
+
+Choose one type of defense task in which you are not already trained: Might,
+Speed, or Intellect. You are trained in defense tasks of that type.
+
+Enabler.
