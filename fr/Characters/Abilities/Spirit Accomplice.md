@@ -27,4 +27,4 @@ indicated otherwise, such as when an attack is made with a special weapon. An
 insubstantial creature can pass through solid matter without hindrance, but
 solid energy barriers, such as magical fields of force, keep it at bay.)
 
-Enabler.
+Facilitateur.
