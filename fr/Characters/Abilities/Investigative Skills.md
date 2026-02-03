@@ -5,4 +5,4 @@ of the following: perception, identifying, lockpicking, assessing danger, or
 tinkering with devices. You can select this ability multiple times. Each time
 you select it, you must choose two different skills.
 
-Enabler.
+Facilitateur.
