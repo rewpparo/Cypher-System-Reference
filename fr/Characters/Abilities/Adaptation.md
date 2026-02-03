@@ -6,4 +6,4 @@ comfortable temperature; never need to worry about dangerous radiation,
 diseases, or gases; and can always breathe in any environment (even the vacuum
 of space).
 
-Enabler.
+Facilitateur.
