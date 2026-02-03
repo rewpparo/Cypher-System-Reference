@@ -1,0 +1,6 @@
+Subconscious Defense #Ability #ProtectionAbility #Mid #Core
+
+Your subconscious constantly runs predictive models for avoiding danger. You
+gain an asset on your Speed defense tasks.
+
+Enabler.
