@@ -5,4 +5,4 @@ spaces, and other contortionist tasks, you get a free level of Effort on the
 task. Thanks to your experience, you are also trained in Speed defense tasks
 while wearing light armor or no armor.
 
-Enabler.
+Facilitateur.
