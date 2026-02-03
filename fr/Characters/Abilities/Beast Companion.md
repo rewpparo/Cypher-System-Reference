@@ -14,4 +14,4 @@ health of 6, and it inflicts 2 points of damage. A level 4 beast companion has a
 target number of 12 and a health of 12, and it inflicts 4 points of damage. And
 so on.)
 
-Enabler.
+Facilitateur.
