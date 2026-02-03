@@ -5,4 +5,4 @@ near you. Choose one creature within immediate range. You provide an asset to
 that creature’s Speed defense tasks. You can’t use Quick Block while using Block
 for Another.
 
-Enabler.
+Facilitateur.
