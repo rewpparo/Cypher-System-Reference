@@ -19,4 +19,4 @@ Illusion), or use a separate action to apply it to one of your existing
 illusions. The effect ends if the illusion is destroyed, you let the illusion
 lapse, the effect’s health is reduced to 0, or ten minutes pass.
 
-Enabler.
+Facilitateur.
