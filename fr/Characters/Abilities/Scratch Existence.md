@@ -15,4 +15,4 @@ Alternatively, if you apply Effort to increase the damage rather than ease the
 task, you deal 2 additional points of damage per level of Effort (instead of 3
 points); the target takes 1 point of damage even if you fail the attack roll.
 
-Enabler.
+Facilitateur.
