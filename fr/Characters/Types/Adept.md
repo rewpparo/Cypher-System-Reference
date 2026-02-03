@@ -63,11 +63,11 @@ use out of a depleted cypher or artifact.
 
 # ADEPT STAT POOLS
 
-| Stat      | Réserve de Départ |
-| --------- | ----------------- |
-| Puissance | 7                 |
-| Célérité  | 9                 |
-| Intellect | 12                |
+| **Stat**  | **Réserve initiale** |
+| --------- | -------------------- |
+| Puissance | 7                    |
+| Célérité  | 9                    |
+| Intellect | 12                   |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
@@ -150,7 +150,7 @@ different one from a lower tier.
 Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Adroit Cypher Use](../Abilities/Adroit%20Cypher%20Use.md)
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Countermeasures](../Abilities/Countermeasures.md)
 - [Energy Protection](../Abilities/Energy%20Protection.md)
 - [Fire and Ice](../Abilities/Fire%20and%20Ice.md)
