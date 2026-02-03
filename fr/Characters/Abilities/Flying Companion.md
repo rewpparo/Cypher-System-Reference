@@ -7,4 +7,4 @@ accompanies you and acts as you direct. As a level 3 companion, it has a target
 number of 9 and 9 health, and it inflicts 3 points of damage. If it’s killed or
 destroyed, it takes you one month to find or create a suitable replacement.
 
-Enabler.
+Facilitateur.
