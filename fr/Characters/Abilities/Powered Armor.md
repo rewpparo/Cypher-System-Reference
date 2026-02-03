@@ -8,4 +8,4 @@ depth of 4 miles (6 km); and it allows you to see in the dark up to a short
 distance. Getting into the suit requires an action (and, of course, access to
 your suit).
 
-Enabler.
+Facilitateur.
