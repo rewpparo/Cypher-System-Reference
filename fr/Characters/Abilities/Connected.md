@@ -6,4 +6,4 @@ These people are not necessarily your friends and might not be trustworthy, but
 they owe you a favor. You and the GM should work out the details of your
 contacts.
 
-Enabler.
+Facilitateur.
