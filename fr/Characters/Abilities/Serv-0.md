@@ -5,4 +5,4 @@ actions or leave your immediate area. In truth, it’s more an extension of you
 than a separate being. It gains a modification in using machines and other
 technological devices.
 
-Enabler.
+Facilitateur.
