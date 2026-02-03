@@ -10,4 +10,4 @@ movement is based on its creature type (avian, swimmer, and so on). If your
 critter companion dies, you can search an urban or wild environment for 1d6 days
 to find a new one.
 
-Enabler.
+Facilitateur.
