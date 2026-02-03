@@ -6,4 +6,4 @@ bashing, heavy bladed, or heavy ranged. You are trained in attacks using that
 type of weapon. You can select this ability multiple times. Each time you select
 it, you must choose a different type of attack.
 
-Enabler.
+Facilitateur.
