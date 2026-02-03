@@ -5,4 +5,4 @@ along narrow surfaces, or otherwise move around the battlefield at your normal
 speed as if such tasks were routine (difficulty 0). You can’t use this ability
 if your Speed Effort costs are reduced from wearing armor.
 
-Enabler.
+Facilitateur.
