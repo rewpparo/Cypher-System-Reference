@@ -8,4 +8,4 @@ can build a new one (or repair the old one from its parts) after a week of
 half-time labor. Instead of this ability, you can select one of the following
 abilities: Expert Follower, Robot Control, or Robot Upgrade.
 
-Enabler.
+Facilitateur.
