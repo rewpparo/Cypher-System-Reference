@@ -7,4 +7,4 @@ insight into overcoming a problem, or a rush of dumb luck.
 (Improvise can be used on a task a character has an inability in, but instead of
 gaining an asset, the character just loses the inability penalty.)
 
-Enabler.
+Facilitateur.
