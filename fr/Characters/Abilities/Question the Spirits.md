@@ -23,4 +23,4 @@ or “I’ll destroy this relic that belonged to you”).
 The GM determines what the spirit might know, based on the knowledge it
 possessed in life.
 
-Action to initiate.
+Action à initier.
