@@ -11,4 +11,4 @@ creature offers a convincing defense to those who’ve heard your label), the
 friend’s social interactions gain an asset, the fool’s social interactions are
 hindered, or the enemy’s defenses are hindered.
 
-Action to initiate, one minute to complete.
+Action à initier, une minute pour la terminer.
