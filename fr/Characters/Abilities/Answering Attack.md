@@ -1,7 +1,8 @@
-Answering Attack (3 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Attaque en réponse (3 points de Célérité) #Ability #SpecialAttackAbility #Mid
+#Core
 
-If you are struck in melee, you can make an immediate melee attack against that
-attacker once per round. The attack is hindered, and you can still take your
-normal action during the round.
+Si vous êtes touché au corps à corps, vous pouvez effectuer une attaque de mêlée
+immédiate contre cet attaquant une fois par tour. L'attaque est gênée et vous
+pouvez toujours effectuer votre action normale pendant le tour.
 
 Facilitateur.
