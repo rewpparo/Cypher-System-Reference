@@ -79,24 +79,24 @@ prend cette forme.
   respirer de l'eau en plus de respirer de l'air.
 - * **Armure:** L'animal a une peau ou une carapace épaisse, accordant +1 à
   l'armure.
-- * **Constriction**: L'animal peut saisir rapidement son adversaire après avoir
+- Constriction : L'animal peut saisir rapidement son adversaire après avoir
   effectué une attaque au corps à corps (généralement avec une morsure ou une
   griffe), facilitant ainsi les jets d'attaque contre cet ennemi dans les tours
   suivants jusqu'à ce qu'il le libère.
 - * **Rapide** : L'animal peut se déplacer sur une longue distance pendant son
   tour au lieu d'une courte distance.
-- * **Voler**: L'animal peut voler, ce qui (selon le type d'animal) peut
-  parcourir une distance courte ou longue lors de son tour.
+- Voler : L'animal peut voler, ce qui (selon le type d'animal) peut parcourir
+  une distance courte ou longue lors de son tour.
 - * **Mains** : L'animal a des pattes ou des mains presque aussi agiles que
   celles d'un humain. Contrairement à la plupart des formes d'animaux, les
   tâches de l'animal qui nécessitent des mains ne sont pas gênées (bien que le
   MJ puisse décider que certaines tâches nécessitant de l'agilité humaine, comme
   jouer de la flûte, sont toujours gênées).
-- * **Odeur**: L'animal a un odorat très performant, acquérant un atout pour le
+- Odeur : L'animal a un odorat très performant, acquérant un atout pour le
   pistage et la gestion de l'obscurité ou de la cécité.
-- * **Petit**: L'animal est considérablement plus petit qu'un humain, ce qui
-  facilite ses tâches de défense contre la Célérité mais gêne les tâches de
-  déplacement d'objets lourds.
+- Petit : L'animal est considérablement plus petit qu'un humain, ce qui facilite
+  ses tâches de défense de Célérité mais gêne les tâches de déplacement d'objets
+  lourds.
 - * **Venin** : L'animal est venimeux (généralement par morsure), lui infligeant
   1 point de dégâts supplémentaire.
 
