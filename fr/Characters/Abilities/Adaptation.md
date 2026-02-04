@@ -1,9 +1,9 @@
-Adaptation #Ability #EnvironmentAbility #High #Core
+Adaptation #Ability #High #Core
 
-Thanks to a latent mutation, a device implanted in your spine, a ritual
-performed with dragon’s blood, or some other gift, you now remain at a
-comfortable temperature; never need to worry about dangerous radiation,
-diseases, or gases; and can always breathe in any environment (even the vacuum
-of space).
+Grâce à une mutation latente, un appareil implanté dans votre colonne
+vertébrale, un rituel réalisé avec du sang de dragon ou un autre don, vous
+restez désormais à une température confortable ; vous n'aurez jamais à vous
+soucier des radiations dangereuses, des maladies ou des gaz ; et peut toujours
+respirer dans n'importe quel environnement (même dans le vide de l'espace).
 
 Facilitateur.
