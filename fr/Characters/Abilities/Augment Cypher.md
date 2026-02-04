@@ -1,8 +1,8 @@
-Augment Cypher (2+ Intellect points) #Ability #MetaAbility #Low #Core
+Augmentation Cypher (2+ points d'Intellect) #Ability #MetaAbility #Low #Core
 
-When you activate a cypher, add +1 to its level. In addition to the normal
-options for using Effort, you can choose to use Effort to increase the level of
-the cypher by an additional +1 (per level of Effort applied). You can’t increase
-the cypher’s level above 10.
+Lorsque vous activez un cypher, ajoutez +1 à son niveau. En plus des options
+normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour
+augmenter le niveau du cypher d'un +1 supplémentaire (par niveau d'Effort
+appliqué). Vous ne pouvez pas augmenter le niveau du cypher au-dessus de 10.
 
 Facilitateur.
