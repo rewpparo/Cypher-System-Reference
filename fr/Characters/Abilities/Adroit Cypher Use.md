@@ -1,5 +1,5 @@
-Adroit Cypher Use #Ability #MetaAbility #High #Core
+Utilisation adroite des cyphers #Ability #MetaAbility #High #Core
 
-You can bear four cyphers at a time.
+Vous pouvez utiliser quatre cyphers à la fois.
 
 Facilitateur.
