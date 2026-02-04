@@ -5771,7 +5771,7 @@ rounds dislodging the bullet fragments.
 
 
 
-Armor
+Armure
 
 
 
@@ -8978,8 +8978,8 @@ skill.
 | 81–84 | Piloting                                        |
 | 85–88 | Ranged attacks (choose light, medium, or heavy) |
 | 89–92 | Repairing                                       |
-| 93–96 | Stealth                                         |
-| 97–00 | Swimming                                        |
+| 93–96 | Furtivité                                       |
+| 97–00 | Nager                                           |
 
 If the chip is removed from the user, it is destroyed, and the user loses the
 skill training from it. (Rumor has it that doing so also risks causing brain
