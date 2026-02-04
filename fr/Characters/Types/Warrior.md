@@ -1,11 +1,11 @@
 Guerrier #Type #Core
 
-- **Fantasy/Contes de fées:** Guerrier, combattant, escrimeur, chevalier,
-  barbare, soldat, myrmidon, valkyrie
-- Moderne/Horreur/Romance: Officier de police, soldat, gardien, détective,
+- Fantasy/Contes de fées : Guerrier, combattant, escrimeur, chevalier, barbare,
+  soldat, myrmidon, valkyrie
+- Moderne/Horreur/Romance : Officier de police, soldat, gardien, détective,
   vigile, athlète
-- Science fiction: officier de sécurité, guerrier, trooper, soldat, mercenaire
-- Superhero/Post-Apocalyptique: héro, brique, cogneur
+- Science fiction : officier de sécurité, guerrier, trooper, soldat, mercenaire
+- Superhero/Post-Apocalyptique : héro, brique, cogneur
 
 Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des
 armes et vous défendre.En fonction du genre et de la campagne, cela pourrait
@@ -13,34 +13,31 @@ signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un
 AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une
 armure mécanique dans l'exploration d'une planète lointaine.
 
-Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des
-armes et vous défendre.En fonction du genre et de la campagne, cela pourrait
-signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un
-AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une
-armure mécanique dans l'exploration d'une planète lointaine.
+Rôle Individuel : Les guerriers sont des gens physiques et tournés vers
+l'action. Ils sont meilleurs pour relever un défi en utilisant la force que par
+d'autres moyens, et prennent souvent le chemin le plus simple vers leur but.
 
-**Rôle individuel:** Les Guerriers sont orienté sur le physique et l'action. ils
-auront plus l'habitude de surmonter un péril en uincreases to impressive levels.
-At higher tiers, they can often take on groups of foes by themselves or stand
-toe to toe with anyone.tilisant la force que d'autre moyen, et ils prennent
-souvent le chemin le plus court vers leur objectif.
+Rôle de groupe : les guerriers prennent et distribuent le plus de dégâts dans
+une situation dangereuse. Leur rôle est souvent de protéger les autres membres
+du groupes du danger. Ca veut parfois dire que le guerrier prendra un rôle de
+commandement, au moins en combat et en période de danger.
 
-**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des
-mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la
+Rôle en Société : Les Guerriers ne sont pas toujours des soldats ou des
+mercenaires. N'importe qui est toujours prêt pour la violence, ou même la
 violence potentielle, peut être un Guerrier dans un sens général. Cela inclut
 les gardes, les gardiens, les officiers de police, les marins, ou les personnes
 dans d'autres rôle ou profession qui savent comment se défendre avec talent.
 
-**Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur
+Guerrier Expérimentés : Alors que les Guerriers gagnent en expérience, leur
 compétence dans les batailles, que ce soit en se défendant ou en infligeant des
-dommages, augmente à un rang impressionant. A un rang supérieur, ils peuvent
-souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain
-n'importe qui.
+dommages, augmente à un rang impressionnant. A un rang supérieur, ils peuvent
+souvent se prendre un groupe d’adversaires tout seul ou affronter sur son
+terrain n'importe qui.
 
 # # Relation avec l'histoire passée du Guerrier
 
 Votre type vous aide à déterminer la relation que vous avez avec la campagne en
-cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+cours. Jetez un d20 ou choisissez dans la liste ci-dessous un élément pour
 définir un fait spécifique à propos de votre histoire qui fournit un relation
 avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
@@ -72,53 +69,52 @@ avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 Vous pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à
 condition que la situation soit appropriée et que la Meneuse soit d'accord.
 
-**Position Parfaite:** Vous combattez au moins trois adversaires et chacun d'eux
-se trouve exactement à la bonne position pour vous pour faire un mouvement pour
+Position Parfaite : Vous combattez au moins trois adversaires et chacun d'eux se
+trouve exactement à la bonne position pour vous pour faire un mouvement pour
 lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer
 tous les trois en une seule action. Faites un jet d'attaque pour chaque
 adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer
 en une seule action.
 
-**Vieil Ami:** Un ancien companion d'arme se présente de manière spontanée et
-vous fourni de l'aide dans ce que vous êtes en train de faire. Il doit accomplir
-sa propre mission et ne peut pas rester plus longtemps que pour vous aider,
-parler un peu après et peut-être partager un repas rapide.
+Vieil Ami : Un ancien compagnon d'arme se présente de manière spontanée et vous
+fourni de l'aide dans ce que vous êtes en train de faire. Il doit accomplir sa
+propre mission et ne peut pas rester plus longtemps que pour vous aider, parler
+un peu après et peut-être partager un repas rapide.
 
-**Arme cassée:** L'arme de votre adversaire a un point faible. Pendant le
-combat, l'arme est endommagée et descend de deux rangs sur le suivi des dommages
-des objets.
+Arme cassée : L'arme de votre adversaire a un point faible. Pendant le combat,
+l'arme est endommagée et descend de deux rangs sur le suivi des dommages des
+objets.
 
-# Statistiques de Réserve du Guerrier
+**RÉSERVES DU GUERRIER**
 
-| **Stat**  | **Réserve initiale** |
-| --------- | -------------------- |
-| Puissance | 10                   |
-| Célérité  | 10                   |
-| Intellect | 8                    |
+| Carac     | Réserve initiale |
+| --------- | ---------------- |
+| Puissance | 10               |
+| Célérité  | 10               |
+| Intellect | 8                |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
 
 # # Guerrier de Premier Rang
 
-Les Guerriers de Premier Rang ont les capacités suivantes:
-- **Effort:** Votre Effort est de 1.
-- **Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage
-  de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de
+Les Guerriers de Premier Rang ont les capacités suivantes :
+- Effort : Votre Effort est de 1.
+- Naturel Physique : Vous avez un Avantage de Puissance de 1 et un Avantage de
+  Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de
   Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intellect de 0.
-- **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
-- **Armes:** Vous avez la pratique des armes légères, moyennes et lourdes et
-  n'avez aucune pénalité quand vous utilisez une arme quelconque.
-- **Equipment au départ:** Des vêtements appropriés et deux armes de votre
-  choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à
-  quatre objets peu chers.
+- Utilisation de cypher : Vous pouvez porter deux cyphers en même temps.
+- Armes : Vous êtes exercé avec des armes légères, moyennes et lourdes et n'avez
+  aucune pénalité quand vous utilisez une arme quelconque.
+- Équipement au départ : Des vêtements appropriés et deux armes de votre choix,
+  ainsi que un objet cher, deux objets modérément chers, et jusqu'à quatre
+  objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne
-pouvez pas choisir la même capacité plus d'une fois, à moins queup to four
-inexpensive items sa description dit le contraire. La description complète de
-chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi
-des descriptions pour les préférences et les capacités de focus en un seul grand
-catalogue.
+Aptitudes Spéciales : Choisissez quatre aptitudes listées ci-dessous. Vous ne
+pouvez pas choisir la même aptitude plus d'une fois, à moins que sa description
+ne dise le contraire. La description complète de chaque aptitude listée se
+trouve dans le chapitre Aptitudes, qui dispose aussi des descriptions des
+aptitudes de saveur et de focus en un seul grand catalogue.
 - [Avantage de Stat Amélioré](../Abilities/Improved%20Edge.md)
 - [Choc](../Abilities/Bash.md)
 - [Claque](../Abilities/Swipe.md)
@@ -126,7 +122,7 @@ catalogue.
 - [Contrôler le terrain](../Abilities/Control%20The%20Field.md)
 - [Entraîné sans armure](../Abilities/Trained%20Without%20Armor.md)
 - [Lancer rapide](../Abilities/Quick%20Throw.md)
-- [Pas besoin d'armes](../Abilities/No%20Need%20For%20Weapons.md)
+- - [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
 - [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
 - [Prouesses au combat](../Abilities/Combat%20Prowess.md)
 - [Tir d'Opportunité](../Abilities/Overwatch.md)
@@ -140,7 +136,7 @@ inférieur par une différente d'un rang inférieur.
 - [Compétence avec les attaques](../Abilities/Skill%20With%20Attacks.md)
 - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
 - [Coup écrasant](../Abilities/Crushing%20Blow.md)
-- [Hémorragie](../Abilities/Hemorrhage.md)
+- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
 - [Recharger](../Abilities/Reload.md)
 
 # # Guerrier de Troisième Rang
