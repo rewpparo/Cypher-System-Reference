@@ -1,18 +1,17 @@
 Guerrier #Type #Core
 
-- **Fantasy/Contes:** Guerrier, combattant, escrimeur, chevalier, barbare,
-  soldat, myrmidon, valkyrie
-- **Moderne/Horreur/Romance:** Officier de police, soldat, gardien, détective,
+- **Fantasy/Contes de fées:** Guerrier, combattant, escrimeur, chevalier,
+  barbare, soldat, myrmidon, valkyrie
+- Moderne/Horreur/Romance: Officier de police, soldat, gardien, détective,
   vigile, athlète
-- **Science fiction:** officier de sécurité, guerrier, homme de troupe, soldat,
-  mercenaire
-- **Superhero/Post-Apocalyptique:** héro, brique, cogneur
+- Science fiction: officier de sécurité, guerrier, trooper, soldat, mercenaire
+- Superhero/Post-Apocalyptique: héro, brique, cogneur
 
-You’re a good ally to have in a fight. You know how to use weapons and defend
-yourself. Depending on the genre and setting in question, this might mean
-wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier
-of grenades in a savage firefight, or a blaster rifle and powered armor when
-exploring an alien planet.
+Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des
+armes et vous défendre.En fonction du genre et de la campagne, cela pourrait
+signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un
+AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une
+armure mécanique dans l'exploration d'une planète lointaine.
 
 Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des
 armes et vous défendre.En fonction du genre et de la campagne, cela pourrait
@@ -144,7 +143,7 @@ inférieur par une différente d'un rang inférieur.
 - [Hémorragie](../Abilities/Hemorrhage.md)
 - [Recharger](../Abilities/Reload.md)
 
-# THIRD-TIER WARRIOR
+# # Guerrier de Troisième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
