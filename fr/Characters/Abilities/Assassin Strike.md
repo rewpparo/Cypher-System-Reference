@@ -1,6 +1,7 @@
-Assassin Strike (5 Intellect points) #Ability #SpecialAttackAbility #High #Core
+Frappe d'Assassin (5 points d'Intellect) #Ability #SpecialAttackAbility #High
+#Core
 
-If you successfully attack a creature that was previously unaware of your
-presence, you deal 9 additional points of damage.
+Si vous réussissez à attaquer une créature qui ignorait auparavant votre
+présence, vous infligez 9 points de dégâts supplémentaires.
 
 Facilitateur.
