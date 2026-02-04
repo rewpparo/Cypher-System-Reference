@@ -1,5 +1,5 @@
-Assassin Skills #Ability #TaskAbility #Low #Core
+Compétences d'assassin #Ability #TaskAbility #Low #Core
 
-You are trained in stealth and disguise tasks.
+Vous êtes entraîné aux tâches de furtivité et de déguisement.
 
 Facilitateur.
