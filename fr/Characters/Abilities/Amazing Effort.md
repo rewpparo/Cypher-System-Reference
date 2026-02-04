@@ -1,7 +1,8 @@
-Amazing Effort #Ability #MetaAbility #Mid #Core
+Effort incroyable #Ability #MetaAbility #Mid #Core
 
-When you apply at least one level of Effort to a noncombat task, you get a free
-level of Effort on that task. When you choose this ability, decide if it applies
-to Might Effort or Speed Effort.
+Lorsque vous appliquez au moins un niveau d'effort à une tâche hors combat, vous
+obtenez un niveau d'effort gratuit sur cette tâche. Lorsque vous choisissez
+cette capacité, décidez si elle s'applique à l'Effort de Puissance ou à l'Effort
+de Célérité.
 
 Facilitateur.
