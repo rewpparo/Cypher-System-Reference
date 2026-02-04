@@ -1,6 +1,7 @@
-Ageless #Ability #Core
+Sans âge #Ability #Mid #Core
 
-Your body and mind do not age. Unless you are killed by violence (or some
-outside force such as poison or infection), you will never die.
+Votre corps et votre esprit ne vieillissent pas. À moins que vous ne soyez tué
+par la violence (ou par une force extérieure telle qu'un poison ou une
+infection), vous ne mourrez jamais.
 
 Facilitateur.
