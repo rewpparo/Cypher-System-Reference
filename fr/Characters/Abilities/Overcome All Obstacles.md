@@ -8,4 +8,4 @@ or until the target can throw off the effect. This ability can only be active on
 one target at a time. You can apply Effort to increase damage during the first
 round, and for any one round in which you apply Effort and use another action.
 
-Action to initiate.
+Action à initier.
