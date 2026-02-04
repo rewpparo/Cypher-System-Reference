@@ -9,4 +9,4 @@ Speed defense rolls. In addition, while the cloud is around you, you can use an
 action to whip the material so that it abrades everything within immediate
 range, dealing 1 point of damage to each creature and object in the area.
 
-Action to initiate.
+Action à initier.
