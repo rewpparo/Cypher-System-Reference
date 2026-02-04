@@ -9,4 +9,4 @@ them produce their leader or ask that they take you to their leader. You gain a
 free level of Effort that can be applied to one persuasion task you attempt
 during this period.
 
-Action to initiate.
+Action à initier.
