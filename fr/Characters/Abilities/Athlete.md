@@ -1,5 +1,5 @@
-Athlete #Ability #TaskAbility #Low #Core
+Athlète #Ability #TaskAbility #Low #Core
 
-You are trained in carrying, climbing, jumping, and smashing.
+Vous êtes entraîné à porter, grimper, sauter et écraser.
 
 Facilitateur.
