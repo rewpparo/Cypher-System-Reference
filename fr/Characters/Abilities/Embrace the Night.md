@@ -10,4 +10,4 @@ stunned for one round so that it loses its next turn. Alternatively, you can
 cause the creature to take other actions, as long as you are able to see it and
 mentally control it as your action. The creature disperses after about a minute.
 
-Action to initiate.
+Action à initier.
