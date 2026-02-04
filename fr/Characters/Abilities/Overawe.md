@@ -8,4 +8,4 @@ anything other than to shake free of the divine awe each round. If the target is
 a demon, spirit, or something similar, it also takes 1 point of damage that
 ignores Armor each round it remains affected.
 
-Action to initiate.
+Action à initier.
