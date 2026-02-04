@@ -1,11 +1,12 @@
-Absorb Pure Energy #Ability #ProtectionAbility #Mid #Core
+Absorber l'énergie pure #Ability #ProtectionAbility #Mid #Core
 
-When you use [Absorb Kinetic Energy](Absorb%20Kinetic%20Energy.md), you can also
-absorb and store energy from attacks made with pure energy (focused light,
-radiation, transdimensional, psychic, etc.) or from conduits that direct energy,
-if you can make direct contact. This ability does not change how many points of
-energy you can store. If you also have [Improved Absorb Kinetic
-Energy](Improved%20Absorb%20Kinetic%20Energy.md), you can absorb 2 points of
-damage from other energy sources as well.
+Lorsque vous utilisez Absorber l'énergie cinétique, vous pouvez également
+absorber et stocker l'énergie provenant d'attaques effectuées avec de l'énergie
+pure (lumière focalisée, rayonnement, transdimensionnel, psychique, etc.) ou de
+conduits qui dirigent l'énergie, si vous pouvez établir un contact direct. .
+Cette capacité ne change pas le nombre de points d'énergie que vous pouvez
+stocker. Si vous disposez également d'une absorption améliorée de l'énergie
+cinétique, vous pouvez également absorber 2 points de dégâts provenant d'autres
+sources d'énergie.
 
 Facilitateur.
