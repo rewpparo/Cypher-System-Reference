@@ -1,7 +1,7 @@
-Animal Senses and Sensibilities #Ability #SensesAbility #TaskAbility #Mid
+Sens et sensibilités animales #Ability #SensesAbility #Mid #Core
 
-You are trained in listening and spotting things. In addition, most of the time,
-the GM should alert you if you’re about to walk into an ambush or a trap that is
-lower than level 5.
+Vous êtes entraîné à écouter et à repérer les objets. De plus, la plupart du
+temps, le MJ devrait vous alerter si vous êtes sur le point de tomber dans une
+embuscade ou dans un piège inférieur au niveau 5.
 
 Facilitateur.
