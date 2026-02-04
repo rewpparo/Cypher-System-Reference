@@ -1,26 +1,26 @@
-Le Type de personnage est le coeur de votre personnage. Son type vous aide à
+Le Type de personnage est le cœur de votre personnage. Son type vous aide à
 déterminer sa place dans le monde et les relations avec les autres dans la
-campagne. C'est le "nom" dans la phrase "Je suis un/e *nom+adjectif* qui
-*proposition*"
+campagne. C'est le "nom" dans la phrase "Je suis un/e *nom adjectif* qui
+*verbe*"
 
 (Dans certains jeux de rôle, votre type de personnage peut être appelé votre
 classe de personnage.)
 
-Vous pouvez choisir parmi quatre types de personnage: [Guerrier](#guerrier),
-[Adepte](#adepte), [Explorateur](#explorateur), et [Émissaire](#emissaire).
-Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce
-chapitre vous propose, pour chaque type, quelques alternatives de noms qui
-pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que
-des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier
-dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous
-êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage
-est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment
-qu'il s'accorde à la fois au personnage et à la campagne.)
+Vous pouvez choisir parmi quatre types de personnage: **Guerrier**, **Adepte**,
+**Explorateur**, et **Émissaire**. Toutefois, vous pourriez ne pas vouloir
+utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type,
+quelques alternatives de noms qui pourraient être plus adapté à un genre
+particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou
+"Explorateur" ne sonnent pas juste, en particulier dans des campagnes se
+déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire
+comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez
+utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la
+fois au personnage et à la campagne.)
 
-Comme le type est la base sur laquelle votre personnage est bati, il est
+Comme le type est la base sur laquelle votre personnage est bâti, il est
 important de considérer comment le type se tient avec la campagne sélectionnée.
-Pour se faire, les types sont en pratique des archetypes. Un Guerrier, par
-exemple, pourrait être n'importe qui du chevalier en armure étincellante au
+Pour se faire, les types sont en pratique des archétypes. Un Guerrier, par
+exemple, pourrait être n'importe qui du chevalier en armure étincelante au
 policier dans la rue ou au baroudeur cybernétique vétéran de milliers de guerres
 futuristes.
 
