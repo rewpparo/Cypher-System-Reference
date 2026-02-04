@@ -5,4 +5,4 @@ You cause a target within short range to become either very hot or very cold
 each round for up to three rounds, although a new roll is required each round to
 continue to affect the target.
 
-Action to initiate.
+Action à initier.
