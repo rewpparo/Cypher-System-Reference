@@ -268,8 +268,9 @@ TIER 1
 
 TIER 2
 - Lower-tier ability: choose any tier 1 replacement ability, above.
-- [Hémorragie](../Abilities/Hemorrhage.md)
-- [Practiced With All Weapons](Abilities/Practiced%20With%20All%20Weapons.md)
+- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
+- - [Pratique de toutes les
+  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
 - [Coup écrasant](../Abilities/Crushing%20Blow.md)
 
 TIER 3
