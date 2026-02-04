@@ -1,7 +1,7 @@
 Agent Provocateur #Ability #TaskAbility #Mid #Core
 
-Choose one of the following to be trained in: attacking with a weapon of your
-choice, demolitions, or sneaking and lockpicking (if you choose this last
-option, you are trained in both).
+Choisissez l'un des domaines suivants pour vous former : attaquer avec une arme
+de votre choix, démolitions, ou furtivité et crochetage (si vous choisissez
+cette dernière option, vous êtes entraîné aux deux).
 
 Facilitateur.
