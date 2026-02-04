@@ -1,6 +1,6 @@
-Applying Your Knowledge #Ability #SupportAbility #Mid #Core
+Appliquer vos connaissances #Ability #SupportAbility #Mid #Core
 
-When you help another character undertake any action that you’re untrained in,
-you are treated as if you are trained in it.
+Lorsque vous aidez un autre personnage à entreprendre une action pour laquelle
+vous n'êtes pas entraîné, vous êtes traité comme si vous y étiez entraîné.
 
 Action.
