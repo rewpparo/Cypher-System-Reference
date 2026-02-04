@@ -15,4 +15,4 @@ for finding the object is level 6 or below. You can apply Effort to increase the
 maximum level of the thing you’re trying to find (each level of Effort used this
 way increases the maximum level by 1).
 
-Action to initiate.
+Action à initier.
