@@ -13,4 +13,4 @@ minutes above the normal duration), you must apply three levels of Effort. When
 the duration ends, the creature doesn’t remember being controlled or anything it
 did while under your influence.
 
-Action to initiate.
+Action à initier.
