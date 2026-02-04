@@ -1,10 +1,10 @@
 Émissaire #Type #Core
 
-- **Fantasy/Fairy tale:** barde, emissaire, skald, prêtre, avocate
-- **Modern/Horror/Romance:** diplomate, charmeur, espion, spin doctor,
-  manipulateur, ministre, mediateur, avocat
-- **Science fiction:** diplomate, empath, glam, consule, legat
-- **Superhero/Post-Apocalyptic:** charmeur, mesmeriste, puppet master
+- **Fantasy/Conte de fées:** barde, émissaire, skald, prêtre, avocate
+- **Moderne/Horreur/Romance:** diplomate, charmeur, espion, spin doctor,
+  manipulateur, ministre, médiateur, avocat
+- Science fiction: diplomate, empathe, glam, consule, legat
+- Superhero/Post-Apocalyptique: charmeur, mesmeriste, puppet master
 
 Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sortir
 du pétrin ou surmonter des obstacles, et vous incitez les gens à faire ce que
