@@ -412,8 +412,8 @@ offers ideas:
 - Riding
 - Smashing
 - Sneaking
-- Stealth
-- Swimming
+- Furtivité
+- Nager
 - Vehicle driving
 - Woodworking
 
