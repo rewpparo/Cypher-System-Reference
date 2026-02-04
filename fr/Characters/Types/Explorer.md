@@ -1,250 +1,260 @@
-Explorer #Type #Core
+Explorateur #Type #Core
 
-- Fantasy/Fairy tale: Explorer, adventurer, delver, mystery seeker
-- Modern/Horror/Romance: athlete, explorer, adventurer, drifter, detective,
-  scholar, spelunker, trailblazer, investigative reporter
-- Science fiction: Explorer, adventurer, wanderer, planetary specialist,
-  xenobiologist
-- Superhero/Post-Apocalyptic: adventurer, crimefighter
+- **Fantasy/Contes:** Explorateur, aventurier, fouilleur, chercheur de mystère
+- **Moderne/Horreur/Romance:** athlète, explorateur, aventurier, détective,
+  érudit, spéléologue, pionnier, reporter d'investigation
+- **Science fiction:** explorateur, aventurier, spécialiste planétaire,
+  xénobiologiste, pilote
+- **Superhéro/Post-Apocalyptique:** aventurier, justicier
 
-You are a person of action and physical ability, fearlessly facing the unknown.
-You travel to strange, exotic, and dangerous places, and discover new things.
-This means you’re physical but also probably knowledgeable.
+Vous êtes une personne portée sur l'action et les capacités physiques, faisant
+face bravement à l'inconnu. Vous avez voyagé dans des endroits exotiques et
+dangereux et découvert de nouvelles choses. Cela signifie que vous êtes physique
+mais ayant aussi accumulé des connaissances.
 
-Individual Role: Although Explorers can be academics or well studied, they are
-first and foremost interested in action. They face grave dangers and terrible
-obstacles as a routine part of life.
+**Rôle individuel:** Bien que les Explorateurs peuvent être érudits ou on fait
+des études, ils sont principalement interressé par l'action. ils affrontent des
+graves dangers et des tobstacles terribles comme faisant parti de la vie.
 
-Group Role: Explorers sometimes work alone, but far more often they operate in
-teams with other characters. The Explorer frequently leads the way, blazing the
-trail. However, they’re also likely to stop and investigate anything intriguing
-they stumble upon.
+**Rôle en Groupe:** Les Explorateurs travaillent quelque fois seuls mais ils
+opérent souvent en équipe avec d'autres personnages. L'Explorateur montre
+souvent la voie, en suivant la piste. Toutefois, il s'arrêtent pour analyser
+n'importe quoi d'intriguant sur lequel ils ont trébuché.
 
-Societal Role: Not all Explorers are out traipsing through the wilderness or
-poking about an old ruin. Sometimes, an Explorer is a teacher, a scientist, a
-detective, or an investigative reporter. In any event, an Explorer bravely faces
-new challenges and gathers knowledge to share with others.
+**Rôle en Société:** Tous les explorateurs ne sont pas en train de se promener
+dans la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur
+est un enseignant, un scientifique, un détective ou un journaliste
+d'investigation. Quoi qu'il en soit, un explorateur relève courageusement de
+nouveaux défis et rassemble des connaissances à partager avec les autres.
 
-Advanced Explorers: Higher-tier Explorers gain more skills, some combat
-abilities, and a number of abilities that allow them to deal with danger. In
-short, they become more and more well-rounded, able to deal with any challenge.
+**Explorateur Avancé:** Les Explorateurs de rang supérieur ont plus de
+compétences, quelques capacités de combat, et un certain nombre de capacités qui
+leur permet de faire face au danger. En résumé, ils deviennent de plus en plus
+équilibrés, capables de relever n'importe quel défi.
 
-# EXPLORER PLAYER INTRUSIONS
+# # Intrusions de Joueur d'Explorateurs
 
-When playing an Explorer, you can spend 1 XP to use one of the following player
-intrusions, provided the situation is appropriate and the GM agrees.
+Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une
+des intrusions de joueur ci-dessous, à condition que la situation est appropriée
+et que la Meneuse soit d'accord.
 
-Fortuitous Malfunction: A trap or a dangerous device malfunctions before it can
-affect you.
+**Dysfonctionnement Opportun:** Un piège ou un objet dangereux dysfonctionne
+avant qu'il puisse vous affecter.
 
-Serendipitous Landmark: Just when it seems like the path is lost (or you are), a
-trail marker, a landmark, or simply the way the terrain or corridor bends,
-rises, or falls away suggests to you the best path forward, at least from this
-point.
+**Point d'Intérêt Idéal:** Juste au moment où il semble que la piste est perdue
+(ou que vous l'êtes), une marque de sentier, un point d'intérêt, ou simplement
+la façon qu'a le terrain ou le corridor de se courber, monte ou descend, vous
+suggère quel est le meilleur chemin à poursuivre, au moins à partir de ce point.
 
-Weak Strain: The poison or disease turns out not to be as debilitating or deadly
-as it first seemed, and inflicts only half the damage that it would have
-otherwise.
+**Faible Souche:** Le poison ou la maladie s'avère pas aussi affaiblissante ou
+mortelle qu'elle semblait à première vue, et n'inflige que la moitié des
+dommages qu'ils auraient causé sinon.
 
-# EXPLORER STAT POOLS
+# # Réserves pour Explorateur
 
-| **Stat**  | **Réserve initiale** |
-| --------- | -------------------- |
-| Puissance | 10                   |
-| Célérité  | 9                    |
-| Intellect | 9                    |
+| Carac     | Réserve initiale |
+| --------- | ---------------- |
+| Puissance | 10               |
+| Célérité  | 9                |
+| Intellect | 9                |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
 
-# Explorer Background Connection
+# # Relation avec l'histoire passée de l'Explorateur
 
 Votre type vous aide à déterminer la relation que vous avez avec la campagne en
-cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+cours. Jetez un d20 ou choisissez dans la liste ci-dessous un élément pour
 définir un fait spécifique à propos de votre histoire qui fournit un relation
 avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
-| d20 | Historique                                                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |
-| 2   | Your brother is the lead singer in a really popular band.                                                                                  |
-| 3   | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.           |
-| 4   | You were a cop, but you gave it up after encountering corruption on the force.                                                             |
-| 5   | Your parents were missionaries, so you spent much of your young life traveling to exotic places.                                           |
-| 6   | You served in the military with honor.                                                                                                     |
-| 7   | You received assistance from a secretive organization, which paid for your schooling. Now they seem to want a lot more from you.           |
-| 8   | You went to a prestigious university on an athletic scholarship, but you excelled in class as well as on the field.                        |
-| 9   | Your best friend from your youth is now an influential member of the government.                                                           |
-| 10  | You used to be a teacher. Your students remember you fondly.                                                                               |
-| 11  | You worked as a small-time criminal operative until you were caught and served some time in jail, after which you tried to go straight.    |
-| 12  | Your greatest discovery to date was stolen by your arch-rival.                                                                             |
-| 13  | You belong to an exclusive organization of Explorers whose existence is not widely known.                                                  |
-| 14  | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety. |
-| 15  | When you were young, you were addicted to narcotics, and now you are a recovering addict.                                                  |
-| 16  | While exploring a remote location, you saw something strange you’ve never been able to explain.                                            |
-| 17  | You own a small bar or restaurant.                                                                                                         |
-| 18  | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                                        |
-| 19  | Your sister owns a store and gives you a hefty discount.                                                                                   |
-| 20  | Your father is a high-ranking officer in the military with many connections.                                                               |
+| d20 | Historique                                                                                                                                                                               |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Vous étiez un athlète vedette du lycée. Vous êtes toujours en pleine forme, mais c'était les jours de gloire, mec.                                                                       |
+| 2   | Votre frère est le chanteur d'un groupe très populaire.                                                                                                                                  |
+| 3   | Vous avez fait un certain nombre de découvertes au cours de vos explorations, mais toutes les opportunités de les exploiter ne se sont pas encore concrétisées.                          |
+| 4   | Vous étiez flic, mais vous avez abandonné après avoir été confronté à la corruption au sein de la police.                                                                                |
+| 5   | Vos parents étaient missionnaires, vous avez donc passé une grande partie de votre jeune vie à voyager dans des endroits exotiques.                                                      |
+| 6   | Vous avez servi dans l'armée avec honneur.                                                                                                                                               |
+| 7   | Vous avez reçu l'aide d'une organisation secrète qui a financé vos études. Maintenant, ils semblent vouloir beaucoup plus de votre part.                                                 |
+| 8   | Vous avez fréquenté une université prestigieuse grâce à une bourse d'études sportives, mais vous avez excellé en classe ainsi que sur le terrain.                                        |
+| 9   | Votre meilleur ami de jeunesse est désormais un membre influent du gouvernement.                                                                                                         |
+| 10  | Vous étiez enseignant. Vos élèves se souviennent de vous avec tendresse.                                                                                                                 |
+| 11  | Vous avez travaillé comme petit agent criminel jusqu'à ce que vous soyez arrêté et que vous passiez un certain temps en prison, après quoi vous avez essayé d'aller droit au but.        |
+| 12  | Votre plus grande découverte à ce jour a été volée par votre principal rival.                                                                                                            |
+| 13  | Vous appartenez à une organisation exclusive d'explorateurs dont l'existence est peu connue.                                                                                             |
+| 14  | Vous avez été kidnappé alors que vous étiez un petit enfant dans des circonstances mystérieuses, même si vous avez été retrouvé sain et sauf. L'affaire a encore une certaine notoriété. |
+| 15  | Quand vous étiez jeune, vous étiez accro aux stupéfiants, et maintenant vous êtes un toxicomane en convalescence.                                                                        |
+| 16  | En explorant un endroit éloigné, vous avez vu quelque chose d'étrange que vous n'avez jamais pu expliquer.                                                                               |
+| 17  | Vous possédez un petit bar ou un restaurant.                                                                                                                                             |
+| 18  | Vous avez publié un livre sur certains de vos exploits et découvertes, et il a reçu un certain succès.                                                                                   |
+| 19  | Votre sœur possède un magasin et vous offre une remise importante.                                                                                                                       |
+| 20  | Votre père est un officier militaire de haut rang avec de nombreuses relations.                                                                                                          |
 
-# FIRST-TIER EXPLORER
+# # Explorateur de Premier Rang
 
-First-tier Explorers have the following abilities:
-- **Effort:** Votre Effort est de 1.
-- Physical Nature: You have a Might Edge of 1, a Speed Edge of 0, and an
-  Intellect Edge of 0.
-- **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
-- Starting Equipment: Appropriate clothing and a weapon of your choice, plus two
-  expensive items, two moderately priced items, and up to four inexpensive
-  items.
-- Weapons: You can use light and medium weapons without penalty. You have an
-  inability with heavy weapons; your attacks with heavy weapons are hindered.
+Explorateurs de Premier Rang ont les capacités suivantes :
+- Effort : Votre Effort est de 1.
+- **Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede
+  Célérité de 0 et un Avantage d'Intellect de 0.
+- Utilisation de cypher : Vous pouvez porter deux cyphers en même temps.
+- **Equipment au départ:** Des vêtements appropriés et l'arme de votre choix,
+  ainsi que deux objets chers, deux objets modérement chers, et jusqu'à quatre
+  objets peu chers.
+- **Armes :** Vous pouvez utiliser des armes légères et moyennes sans pénalité.
+  Vous avez une inaptitude pour les armes lourdes ; vos attaques avec des armes
+  lourdes sont attténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne
-pouvez pas choisir la même capacité plus d'une fois, à moins queup to four
-inexpensive items sa description dit le contraire. La description complète de
-chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi
-des descriptions pour les préférences et les capacités de focus en un seul grand
-catalogue.
-- [Block](../Abilities/Block.md)
-- [Danger Sense](../Abilities/Danger%20Sense.md)
-- [Decipher](../Abilities/Decipher.md)
-- [Endurance](../Abilities/Endurance.md)
-- [Find the Way](../Abilities/Find%20the%20Way.md)
-- [Fleet of Foot](../Abilities/Fleet%20of%20Foot.md)
+Aptitudes Spéciales : Choisissez quatre aptitudes listées ci-dessous. Vous ne
+pouvez pas choisir la même aptitude plus d'une fois, à moins que sa description
+ne dise le contraire. La description complète de chaque aptitude listée se
+trouve dans le chapitre Aptitudes, qui dispose aussi des descriptions des
+aptitudes de saveur et de focus en un seul grand catalogue.
+- - [Bloquer](../Abilities/Block.md)
+- - [Sens du Danger](../Abilities/Danger%20Sense.md)
+- - [Déchiffrer](../Abilities/Decipher.md)
+- - [Endurance](../Abilities/Endurance.md)
+- - [Trouver le chemin](../Abilities/Find%20The%20Way.md)
+- - [Pied Léger](../Abilities/Fleet%20Of%20Foot.md)
 - [Compétences physiques](../Abilities/Physical%20Skills.md)
-- [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
-- [Muscles of Iron](../Abilities/Muscles%20of%20Iron.md)
+- - [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
+- - [Muscles de fer](../Abilities/Muscles%20Of%20Iron.md)
 - [Contrôler le terrain](../Abilities/Control%20The%20Field.md)
 - [Lancer rapide](../Abilities/Quick%20Throw.md)
-- [Pas besoin d'armes](../Abilities/No%20Need%20For%20Weapons.md)
-- [Practiced With All Weapons](../Abilities/Practiced%20With%20All%20Weapons.md)
-- [Surging Confidence](../Abilities/Surging%20Confidence.md)
+- - [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
+- - [Pratique de toutes les
+  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
+- - [Sursaut de confiance](../Abilities/Surging%20Confidence.md)
 - [Tir d'Opportunité](../Abilities/Overwatch.md)
 
-# SECOND-TIER EXPLORER
+# # Explorateur de Second Rang
 
-Choose four of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Curious](../Abilities/Curious.md)
-- [Danger Instinct](../Abilities/Danger%20Instinct.md)
-- [Enable Others](../Abilities/Enable%20Others.md)
-- [Escape](../Abilities/Escape.md)
-- [Eye for Detail](../Abilities/Eye%20for%20Detail.md)
-- [Foil Danger](../Abilities/Foil%20Danger.md)
-- [Hand to Eye](../Abilities/Hand%20to%20Eye.md)
-- [Investigative Skills](../Abilities/Investigative%20Skills.md)
-- [Quick Recovery](../Abilities/Quick%20Recovery.md)
-- [Range Increase](../Abilities/Range%20Increase.md)
-- [Hémorragie](../Abilities/Hemorrhage.md)
-- [Stand Watch](../Abilities/Stand%20Watch.md)
-- [Travel Skills](../Abilities/Travel%20Skills.md)
-- [Wreck](../Abilities/Wreck.md)
+Choisissez quatre des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- - [Curieux](../Abilities/Curious.md)
+- - [Instinct de Danger](../Abilities/Danger%20Instinct.md)
+- - [Activer les autres](../Abilities/Enable%20Others.md)
+- - [Evasion](../Abilities/Escape.md)
+- - [Oeil pour les détails](../Abilities/Eye%20For%20Detail.md)
+- - [Déjouer le Danger](../Abilities/Foil%20Danger.md)
+- - [Coordination Main-Oeil](../Abilities/Hand%20To%20Eye.md)
+- - [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
+- - [Récupération rapide](../Abilities/Rapid%20Recovery.md)
+- - [Augmentation de la portée](../Abilities/Range%20Increase.md)
+- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
+- - [Rester en Alerte](../Abilities/Stand%20Watch.md)
+- - [Compétences de voyage](../Abilities/Travel%20Skills.md)
+- - [Défoncer](../Abilities/Wreck.md)
 
-# THIRD-TIER EXPLORER
+# # Explorateur de Troisième Rang
 
-Choose three of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
-- [Controlled Fall](../Abilities/Controlled%20Fall.md)
+Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
+- - [Chute contrôlée](../Abilities/Controlled%20Fall.md)
 - [Fureur](../Abilities/Fury.md)
 - [Pulvérisation](../Abilities/Spray.md)
-- [Ignore the Pain](../Abilities/Ignore%20the%20Pain.md)
-- [Obstacle Running](../Abilities/Obstacle%20Running.md)
-- [Resilience](../Abilities/Resilience.md)
-- [Run and Fight](../Abilities/Run%20and%20Fight.md)
+- - [Ignorez la Douleur](../Abilities/Ignore%20The%20Pain.md)
+- - [Course d'obstacles](../Abilities/Obstacle%20Running.md)
+- - [Résilience](../Abilities/Resilience.md)
+- - [Courir et combattre](../Abilities/Run%20And%20Fight.md)
 - [Se Fendre](../Abilities/Lunge.md)
 - [Coup écrasant](../Abilities/Crushing%20Blow.md)
-- [Stone Breaker](../Abilities/Stone%20Breaker.md)
-- [Think Your Way Out](../Abilities/Think%20Your%20Way%20Out.md)
-- [Trapfinder](../Abilities/Trapfinder.md)
-- [Wrest From Chance](../Abilities/Wrest%20From%20Chance.md)
+- - [Briseur de Pierre](../Abilities/Stone%20Breaker.md)
+- - [Pensez à votre sortie](../Abilities/Think%20Your%20Way%20Out.md)
+- - [Trouver les Pièges](../Abilities/Trapfinder.md)
+- - [Extraire du hasard](../Abilities/Wrest%20From%20Chance.md)
 
-# FOURTH-TIER EXPLORER
+# # Explorateur de Quatrième Rang
 
-Choose two of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
+Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
+votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
 - [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
-- [Expert Skill](../Abilities/Expert%20Skill.md)
+- - [Compétence d'expert](../Abilities/Expert%20Skill.md)
 - [Feinte](../Abilities/Feint.md)
-- [Read the Signs](../Abilities/Read%20the%20Signs.md)
-- [Runner](../Abilities/Runner.md)
-- [Subtle Steps](../Abilities/Subtle%20Steps.md)
+- - [Lire les signes](../Abilities/Read%20The%20Signs.md)
+- - [Coureur](../Abilities/Runner.md)
+- - [Pas subtiles](../Abilities/Subtle%20Steps.md)
 - [Tir Précis](../Abilities/Snipe.md)
 
-# FIFTH-TIER EXPLORER
+# # Explorateur de Cinquième Rang
 
-Choose three of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
+Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
 - [Attaque sautée](../Abilities/Jump%20Attack.md)
-- [Free to Move](../Abilities/Free%20to%20Move.md)
-- [Group Friendship](../Abilities/Group%20Friendship.md)
-- [Hard to Kill](../Abilities/Hard%20to%20Kill.md)
+- - [Libre de se déplacer](../Abilities/Free%20To%20Move.md)
+- - [Amitié de groupe](../Abilities/Group%20Friendship.md)
+- - [Difficile à tuer](../Abilities/Hard%20To%20Kill.md)
 - [Maîtrise en Armure](../Abilities/Mastery%20In%20Armor.md)
 - [Tirs en éventail](../Abilities/Arc%20Spray.md)
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
-- [Physically Gifted](../Abilities/Physically%20Gifted.md)
-- [Take Command](../Abilities/Take%20Command.md)
-- [Vigilant](../Abilities/Vigilant.md)
+- - [Physiquement doué](../Abilities/Physically%20Gifted.md)
+- - [Prendre le commandement](../Abilities/Take%20Command.md)
+- - [Vigilant](../Abilities/Vigilant.md)
 
-# SIXTH-TIER EXPLORER
+# # Explorateur de Sixième Rang
 
-Choose three of the abilities listed below (or from a lower tier) to add to your
-repertoire. In addition, you can replace one of your lower-tier abilities with a
-different one from a lower tier.
+Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
+à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
+inférieur par une différente d'un rang inférieur.
 - [Arme et corps](../Abilities/Weapon%20And%20Body.md)
-- [Inspire Coordinated Actions](../Abilities/Inspire%20Coordinated%20Actions.md)
+- - [Inspire des actions
+  coordonnées](../Abilities/Inspire%20Coordinated%20Actions.md)
 - [Parade](../Abilities/Parry.md)
 - [Succès amélioré](../Abilities/Improved%20Success.md)
-- [Negate Danger](../Abilities/Negate%20Danger.md)
-- [Share Defense](../Abilities/Share%20Defense.md)
+- - [Annuler le danger](../Abilities/Negate%20Danger.md)
+- - [Partager la défense](../Abilities/Share%20Defense.md)
 - [Meurtrier](../Abilities/Murderer.md)
-- [Wild Vitality](../Abilities/Wild%20Vitality.md)
+- - [Vitalité sauvage](../Abilities/Wild%20Vitality.md)
 
-# EXPLORER EXAMPLE
+# # Exemple d'Explorateur
 
-Sam decides to create an Explorer character for a science fiction campaign. This
-character will be a hardy soul who explores alien worlds. They put 3 additional
-points into their Might Pool, 2 into their Speed Pool, and 1 into their
-Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10.
-As a first-tier character, their Effort is 1, their Might Edge is 1, and their
-Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so
-far.
+Sam décide de créer un personnage Explorateur pour une campagne de
+science-fiction. Ce personnage sera une âme robuste qui explore des mondes
+extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de
+Puissance, 2 dans leur réserve de Célérité et 1 dans leur réserve d'intelligence
+; leurs réserves de statistiques sont désormais de Puissance 13, Célérité 11 et
+Intellect 10. En tant que personnage de premier rang, leur Effort est de 1, son
+Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intellect sont
+de 0. Son personnage est assez complet jusqu'à présent.
 
-Sam immediately leaps in and starts choosing abilities. They pick Danger Sense
-and Surging Confidence, thinking those abilities will be generally useful. They
-also choose Practiced in Armor, reasoning that the character wears high-tech
-medium armor when exploring. Last, they choose Knowledge Skills and select
-geology and biology to help during interplanetary explorations.
+Sam intervient immédiatement et commence à choisir des capacités. Il choisit
+Sens du Danger et Sursaut de confiance, pensant que ces capacités seront
+généralement utiles. Il choisit également Pratique des armures, estimant que le
+personnage porte une armure moyenne de haute technologie lors de l'exploration.
+Enfin, il choisit les connaissances et les compétences et sélectionnent la
+géologie et la biologie pour les aider lors des explorations interplanétaires.
 
-Sam’s Explorer can bear two cyphers, which in this setting involve
-nanotechnology. The GM decides that one is a nanite injector that grants a +1
-bonus to Might Edge when used, and the other is a device that can create one
-simple handheld object the user wishes.
+L'Explorateur de Sam peut porter deux cyphers, qui dans ce contexte impliquent
+la nanotechnologie. Le MJ décide que l'un est un injecteur de nanite qui accorde
+un bonus de +1 à Might Edge lorsqu'il est utilisé, et l'autre est un appareil
+capable de créer un objet simple, qui peut être porté, définit par le joueur.
 
-Sam’s Explorer is not really geared toward fighting, but sometimes the universe
-is a dangerous place, so they note that they’re carrying a medium blaster as
-well.
+L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univers
+est un endroit dangereux, alors il note qu'il porte également un blaster moyen.
 
-Sam still needs a descriptor and a focus. Looking to the Descriptor chapter,
-they choose Hardy, which increases their Might Pool to 17. They also heal more
-quickly and can operate better when injured. They’re trained in Might defense
-but have an inability with initiative; however, it’s effectively canceled out by
-their Danger Sense (and vice versa). Sam could go back and select something else
-instead of Danger Sense, but they like it and decide to keep it. Overall, the
-descriptor ends up making the character tough but a little slow.
+Sam a encore besoin d'un descripteur et d'un focus. En regardant le chapitre
+Descripteur, il choisit Endurant, ce qui augmente leur réserve de Puissance à
+17. ils guérissent également plus rapidement et peuvent mieux fonctionner
+lorsqu'il est blessé. Il est entraîné à la défense de Puissance mais a une
+incapacité à prendre l'initiative ; cependant, il est effectivement annulé par
+son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et
+sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et
+décide de le garder. Dans l'ensemble, le descripteur finit par rendre le
+personnage dur mais un peu lent.
 
-For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of
-alien civilizations). This gives the character a bunch of additional skills:
-searching, listening, climbing, balancing, and jumping. They’re quite the
-capable Explorer.
+Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas,
+d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un
+tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et
+sauter. C'est un Explorateur tout à fait compétent.
 
-For their character arc, Sam chooses Enterprise. Exploring alien places
-sometimes turns up strange relics, and Sam figures they might be able to set up
-a service to reliably transport these items to responsible third parties, rather
-than allow them to fall into the hands of pirates and rich private collectors.
-For a small fee, of course.
+Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux
+extraterrestres révèle parfois d'étranges reliques, et Sam pense qu'il pourrait
+peut-être mettre en place un service pour transporter de manière fiable ces
+objets vers des tiers responsables, plutôt que de les laisser tomber entre les
+mains de pirates et de riches collectionneurs privés. Pour une somme modique,
+bien sûr.
 
