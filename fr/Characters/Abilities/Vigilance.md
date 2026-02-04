@@ -6,4 +6,4 @@ on Speed defense rolls against melee and ranged attacks, and your melee and
 ranged attacks are hindered. This effect lasts for as long as you wish, but it
 ends if no combat is taking place within range of your senses.
 
-Action to initiate.
+Action à initier.
