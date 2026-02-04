@@ -1,9 +1,10 @@
-Miraculous Health #Ability #CureAbility #Mid #Core
+Soins miraculeux #Abilité #CureAbility #Mid #Core
 
-When you would descend a step on the damage track, you can attempt a Might task
-to resist, with a difficulty equal to the level of the foe or effect that harmed
-you. If successful, you don’t descend the step and you regain 1 point in any
-Pool that is bereft of points. You can’t use this ability again until after your
-next ten-hour rest.
+Lorsque vous descendez un pas sur la voie des dommages, vous pouvez tenter une
+tâche Might de résister, avec une difficulté égale au niveau du brouillard ou de
+l'effet qui vous a blessé. Si vous réussissez, vous ne descendez pas l’étape et
+vous regagnez 1 point dans n’importe quelle piscine qui est en manque de points.
+Vous ne pouvez pas utiliser cette capacité à nouveau jusqu’à votre prochain
+repos de dix heures.
 
 Facilitateur.
