@@ -1,8 +1,10 @@
-Arc Spray (3 Speed points) #Ability #SpecialAttackAbility #High #Core
+Tirs en éventail (3 points de Célérité) #Ability #SpecialAttackAbility #High
+#Core
 
-If a weapon has the ability to fire rapid shots without reloading (usually
-called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon
-at up to three targets (all next to one another) at once. Make a separate attack
-roll against each target. Each attack is hindered.
+Si une arme a la capacité de tirer des coups rapides sans recharger
+(généralement appelée arme à tir rapide, comme une arbalète à manivelle), vous
+pouvez tirer avec votre arme sur jusqu'à trois cibles (toutes à côté de les uns
+les autres) en même temps. Effectuez un jet d'attaque séparé contre chaque
+cible. Chaque attaque est gênée.
 
 Action.
