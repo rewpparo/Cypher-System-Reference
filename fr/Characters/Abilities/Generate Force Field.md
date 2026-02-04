@@ -9,4 +9,4 @@ create a closed cube. The planes conform to the space available. Each additional
 level of Effort you apply increases the level of the barrier by one (to a
 maximum of level 10) or increases the number of hours it remains by one.
 
-Action to initiate.
+Action à initier.
