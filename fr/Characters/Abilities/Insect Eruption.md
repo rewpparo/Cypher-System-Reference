@@ -9,4 +9,4 @@ swarm inflicts 2 points of damage per round. You can also command the swarm to
 move heavy objects through collective effort, eat through wooden walls, and
 perform other actions suitable for a supernatural swarm.
 
-Action to initiate.
+Action à initier.
