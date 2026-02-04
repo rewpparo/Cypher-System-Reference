@@ -1,45 +1,39 @@
+![](Compatible-with-the-Cypher-System-Logo-color-small.png)
+Cypher System Reference is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community at large to use, commercialy or otherwise, according to Monte Cook Games licencing.
+
 # Welcome !
 
-This is a work in progress. All the CSRD should be in, and can be found in the Cypher directory. Genres files still need a lot of work, but the core is pretty good.
+There are two parts to this project
+- Here on github, we make a cleaned up version of the Cypher System Reference Document in markdown. It is ready for a website, and ready for Obsidian.
+- Then there's the weblate project. Weblate is a collaborative translation tool. We use it to translate our version of the CSRD into different languages. This is fed back into GitHub
 
-Gihub page in progress
+# Contributing to the weblate project
 
-# About CSRP
+You can sign up to be a translator by following this link : https://hosted.weblate.org/engage/cypher-system-reference/
 
-![](Compatible-with-the-Cypher-System-Logo-color-small.png)
+Translating in weblate is easy : The project is divided into components (the different markedown files), and each component is divided into strings (paragraphs, sentences). Use weblate to translate strings one at a time. A glossary of common game terms shows on the side while you translate to keep those consistent across a language. Sugestions from google translate comming soon.
 
-The goal of the Cypher System Reference Project is to produce a clean and up to date version of the Cypher System Reference Document that can be used for further projects by the Cypher System community.
+YOU CANNOT USE PUBLISHED TRANSLATIONS FOR THIS. ALL TRANSLATIONS MUST BE YOUR OWN
 
-Cypher System Reference Project is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community to use.
+Only french is being worked on for now. Contact me for more languages (it's possible but may cost me money)
 
-- No other content or sources should be used, other than the CSRD, in the making of this document. 
-- No original content should be added to this project either while making it. 
-- Some information can be inferred from the CSRD only, and it's OK for the document to reflect that. Contributors should just be ready to argue if challenged.
+# Contributing to the github project
 
-Further projects, that could possibly happen within CSOL, and that we want to support include :  
-- Weblate translation project coming soon
-- Reference websites, documents, books
-- Use with Obsidian (https://obsidian.md/) or similar GM tools
-- Integration in VTT websites
-- Fan content standardisation for inclusion in reference sites
+You can help in organising, cleaning and formating the original CSRD here on github. Work of the branch named after the version of the CSRD you're using and make a pull request. No direct submission into main.
+
+Only the latest version of the CSRD will end up in main and get translated. Older versions 
+
+Translations should not be pushed into github, they come from weblate. Only /en and /CSRD should be worked on.
+
+The contents should be only the CSRD, and all the CSRD. No content that is not in the CSRD, no original content. Some information, like tags, can be infered from the CSRD only, those are fine.
+
 # Progress
 
 Work on CSRD 2025-08-22
-- [x] Core (pretty much)
-- [ ] Core linking
-- [ ] Fantasy - Needs organizing
-- [ ] Modern - Needs organizing
-- [ ] Science Fiction - Needs organizing
-- [ ] Superheroes - Needs organizing
-- [ ] Fairytale - Needs organizing
-- [ ] Horror - Needs organizing
-- [ ] Romance - Needs organizing
-- [ ] Post-apocalyptic - Needs organizing
-- [ ] Historical - Needs organizing
-- [ ] Cyberpunk - Needs organizing
-- [ ] Weird West - Needs organizing
-- [ ] Modern Fantasy - Needs organizing
-## Formatting reference
+Core is pretty much done, could use some more linking
+
+
+# Formatting reference
 
 This document uses markdown best practices
 https://www.markdownguide.org/basic-syntax/
@@ -236,13 +230,6 @@ All Cards follow the following principles :
 	- Genre tags
 - Description of the item as a freeform
 
-|Category|GP Value|
-|--|--|
-|Inexpensive|Less than 1 gp|
-|Moderate|1–10 gp|
-|Expensive|100–500 gp|
-|Very expensive|1,000–10,000 gp|
-|Exorbitant|10,000+ gp|
 ### Cypher
 
 - Tagline should be :
@@ -315,8 +302,6 @@ Should follow the following template :
 
 ## Linking conventions
 
-- Links are going to be a mess. main linking will happen once we have a complete file, after the main file is split up.
-- For now, use markdown standard links to headers. Link to # then header name, all lowercase, - instead of space. Special characters removed
+- Use markdown standard links 
 	- [https://blog.markdowntools.com/posts/how-to-link-to-a-header-in-markdown](https://blog.markdowntools.com/posts/markdown-internal-links)
-- How do I make this work in one file and in multiple files ? Let's deal with single file for now, and relink when splitting the full file
  
