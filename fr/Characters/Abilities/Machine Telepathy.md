@@ -7,4 +7,4 @@ you or the target move out of range, the connection is broken. If you have the
 Mind Reading ability, when you apply Effort to Machine Telepathy, you gain a
 free level of Effort.
 
-Action to initiate.
+Action à initier.
