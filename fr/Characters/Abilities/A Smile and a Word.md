@@ -1,7 +1,8 @@
-A Smile and a Word #Ability #MetaAbility #Low #Core
+Un sourire et un mot #Ability #MetaAbility #Low #Core
 
-When you use Effort on any action involving interactions—even those having to do
-with calming animals or communicating with someone or something whose language
-you do not speak—you gain a free level of Effort on the task.
+Lorsque vous utilisez Effort sur toute action impliquant des interactions – même
+ceux qui ont à faire avec calmer les animaux ou communiquer avec quelqu'un ou
+quelque chose dont vous ne parlez pas – vous gagnez un niveau libre d'Effort sur
+la tâche.
 
 Action.
