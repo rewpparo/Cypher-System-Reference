@@ -13,4 +13,4 @@ everything that happened and reacts according to its nature and your
 relationship to it; assuming control might have soured that relationship if it
 was previously a positive one.
 
-Action to initiate.
+Action à initier.
