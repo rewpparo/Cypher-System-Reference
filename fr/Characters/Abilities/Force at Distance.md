@@ -16,4 +16,4 @@ creature four times as massive as you, two levels would affect a creature eight
 times as massive, three levels would affect a creature sixteen times as massive,
 and so on.
 
-Action to initiate.
+Action à initier.
