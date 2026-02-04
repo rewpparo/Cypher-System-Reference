@@ -7,4 +7,4 @@ the next hour. In either case, you choose which NPCs are affected. If anyone in
 the crowd is attacked while you’re trying to speak to them, you lose the crowd’s
 attention.
 
-Action to initiate.
+Action à initier.
