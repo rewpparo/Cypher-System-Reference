@@ -8,4 +8,4 @@ tactically superior position. Whether the target strikes you or fails to do so,
 they come to their senses immediately afterward, after which further tasks
 attempting to goad the target again are hindered.
 
-Action to initiate.
+Action à initier.
