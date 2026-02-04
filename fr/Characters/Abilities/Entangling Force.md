@@ -6,4 +6,4 @@ caught in the force snare cannot move from its position, but it can attack and
 defend normally. The target can also use its action attempting to break free.
 You can increase the level of the force snare by 1 per level of Effort applied.
 
-Action to initiate.
+Action à initier.
