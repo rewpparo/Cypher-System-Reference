@@ -9,4 +9,4 @@ Energy](Improved%20Absorb%20Kinetic%20Energy.md), these creatures can use those
 abilities as well. The creatures, however, cannot release excess energy as a
 blast.
 
-Action to initiate.
+Action à initier.
