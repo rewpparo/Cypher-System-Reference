@@ -1,6 +1,6 @@
-Ambusher #Ability #SpecialAttackAbility #Mid #Core
+Embuscade #Ability #SpecialAttackAbility #Mid #Core
 
-When you attack a creature that has not yet acted during the first round of
-combat, your attack is eased.
+Lorsque vous attaquez une créature qui n'a pas encore agi lors du premier round
+de combat, votre attaque est facilitée.
 
 Facilitateur.
