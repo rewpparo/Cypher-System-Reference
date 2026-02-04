@@ -1,9 +1,11 @@
-Acrobatic Attack (1+ Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Attaque acrobatique (1+ points de Célérité) #Ability #SpecialAttackAbility #Mid
+#Core
 
-You leap into the attack, twisting or flipping through the air. If you roll a
-natural 17 or 18, you can choose to have a minor effect rather than deal extra
-damage. If you apply Effort to the attack, you get a free level of Effort on the
-task. You can’t use this ability if your Speed Effort costs are reduced from
-wearing armor.
+Vous vous lancez dans l'attaque, en vous tournant ou en vous retournant dans les
+airs. Si vous obtenez un 17 ou un 18 naturel, vous pouvez choisir d'avoir un
+effet mineur plutôt que d'infliger des dégâts supplémentaires. Si vous appliquez
+un effort à l'attaque, vous obtenez un niveau d'effort gratuit sur la tâche.
+Vous ne pouvez pas utiliser cette capacité si vos coûts d'effort de Célérité
+sont réduits par le port d'une armure.
 
 Facilitateur.
