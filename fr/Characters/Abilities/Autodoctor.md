@@ -1,7 +1,7 @@
-Autodoctor #Ability #TaskAbility #Low #Core
+Autodocteur #Ability #TaskAbility #Low #Core
 
-You are trained in healing, performing surgical procedures, and withstanding
-pain. You can perform surgeries on yourself, remaining conscious while you do
-so.
+Vous êtes entraîné à la guérison, à la réalisation d'interventions chirurgicales
+et à la résistance à la douleur. Vous pouvez effectuer des opérations
+chirurgicales sur vous-même, en restant conscient pendant que vous le faites.
 
 Facilitateur.
