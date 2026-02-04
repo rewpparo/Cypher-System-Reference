@@ -7,4 +7,4 @@ creature’s movement, and while flying, it must remain within sight of you or
 fall. In terms of overland movement, a flying creature moves about 20 miles (32
 km) per hour and is not affected by terrain.
 
-Action to initiate.
+Action à initier.
