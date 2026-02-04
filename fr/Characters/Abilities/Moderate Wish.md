@@ -25,4 +25,4 @@ the following.
 > the remaining invisibility effect by taking an action to focus on hiding your
 > position. Action to initiate.
 
-Action to initiate.
+Action à initier.
