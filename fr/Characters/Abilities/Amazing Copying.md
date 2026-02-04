@@ -1,9 +1,8 @@
-Amazing Copying #Ability #Core #SuperHeroes
+Copie étonnante #Ability #High #Core #SuperHeroes
 
-You can use [Copy Power](Copy%20Power.md) to copy more powerful abilities. In
-addition to the normal options for using Effort with [Copy
-Power](Copy%20Power.md), if you apply two levels of Effort, the GM chooses a
-high-tier ability that most closely resembles that power (instead of a low-tier
-ability).
+Vous pouvez utiliser Pouvoir de copie pour copier des capacités plus puissantes.
+En plus des options normales d'utilisation de l'Effort avec Pouvoir de Copie, si
+vous appliquez deux niveaux d'Effort, le MJ choisit une capacité de haut niveau
+qui ressemble le plus à ce pouvoir (au lieu d'une capacité de bas niveau).
 
 Facilitateur.
