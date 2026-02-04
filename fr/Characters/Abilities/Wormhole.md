@@ -7,4 +7,4 @@ side opens at a spot you choose anywhere within long range. Any character or
 object moving into one side exits from the other. The door remains open for one
 minute or until you use an action to close it.
 
-Action to initiate.
+Action à initier.
