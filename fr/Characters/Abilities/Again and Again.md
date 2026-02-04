@@ -1,5 +1,6 @@
-Again and Again (8 Speed points) #Ability #MetaAbility #High #Core
+Encore et encore (8 points de Célérité) #Ability #MetaAbility #High #Core
 
-You can take an additional action in a round in which you have already acted.
+Vous pouvez effectuer une action supplémentaire dans un round au cours duquel
+vous avez déjà agi.
 
 Facilitateur.
