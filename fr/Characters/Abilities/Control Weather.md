@@ -15,4 +15,4 @@ each round. If you have this ability from another source, the cost for the
 ability is 7 Intellect points instead of 10. If you already have the Storm Seed
 ability, you can immediately replace it with a new ability of the same tier.
 
-Action to initiate.
+Action à initier.
