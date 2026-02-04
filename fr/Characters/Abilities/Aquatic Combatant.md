@@ -1,6 +1,6 @@
-Aquatic Combatant #Ability #CureAbility #Mid #Core
+Combattant aquatique #Ability #CureAbility #Mid #Core
 
-You ignore penalties for any action (including fighting) in underwater
-environments.
+Vous ignorez les pénalités pour toute action (y compris les combats) dans des
+environnements sous-marins.
 
 Facilitateur.
