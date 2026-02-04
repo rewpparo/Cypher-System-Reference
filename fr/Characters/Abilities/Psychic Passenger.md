@@ -19,4 +19,4 @@ they allow it.
 actual body someplace away from prying eyes and wild beasts, or they may return
 to an unfortunate situation.)
 
-Action to initiate.
+Action à initier.
