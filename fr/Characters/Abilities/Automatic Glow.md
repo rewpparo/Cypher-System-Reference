@@ -1,8 +1,8 @@
-Automatic Glow #Ability #Core #SuperHeroes
+Lueur automatique #Ability #Low #Core #SuperHeroes
 
-Hard light objects you create with your type and focus abilities shed light,
-illuminating everything in immediate range. Whenever you want, your body
-(entirely or just part of it) sheds light, illuminating everything in short
-range.
+Les objets à lumière dure que vous créez avec votre type et vos capacités de
+mise au point projettent de la lumière, illuminant tout à portée immédiate.
+Quand vous le souhaitez, votre corps (en totalité ou en partie) éclaire tout,
+éclairant tout à courte portée.
 
 Facilitateur.
