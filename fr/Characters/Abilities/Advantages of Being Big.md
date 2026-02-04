@@ -1,8 +1,9 @@
-Advantages of Being Big #Ability #TaskAbility #Low #Core
+Avantages d'être grand #Ability #TaskAbility #Low #Core
 
-When you use [Enlarge](Enlarge.md), you’re so big that you can move massive
-objects more easily, climb buildings by using hand- and footholds unavailable to
-regular-sized people, and jump much farther. While you enjoy the effects of
-[Enlarge](Enlarge.md), all climbing, lifting, and jumping tasks are eased.
+Lorsque vous utilisez Agrandir, vous êtes si grand que vous pouvez déplacer des
+objets massifs plus facilement, escalader des bâtiments en utilisant des
+poignées et des pieds inaccessibles aux personnes de taille normale et sauter
+beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les
+tâches d'escalade, de levage et de saut sont facilitées.
 
 Facilitateur.
