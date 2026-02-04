@@ -1,9 +1,7 @@
 Avantages d'être grand #Ability #Low #Core
 
-Lorsque vous utilisez Agrandir, vous êtes si grand que vous pouvez déplacer des
-objets massifs plus facilement, escalader des bâtiments en utilisant des
-poignées et des pieds inaccessibles aux personnes de taille normale et sauter
-beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les
-tâches d'escalade, de levage et de saut sont facilitées.
+Vous avez appris à utiliser votre force et votre précision à proportion de votre
+taille. Vos dégâts ne sont plus divisés par deux quand vous utilisez
+[Rétrécir](Shrink.md), et les tâches d'escalade et de saut sont facilitées.
 
 Facilitateur.
