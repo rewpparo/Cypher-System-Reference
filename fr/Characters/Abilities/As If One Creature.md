@@ -1,12 +1,13 @@
-As If One Creature #Ability #CompanionAbility #High #Core
+Comme s'il n'y a qu'une seule créature #Ability #CompanionAbility #High #Core
 
-When you and your beast (from your [Beast Companion](Beast%20Companion.md)
-ability) are within immediate distance of each other, you can share damage
-inflicted on either of you. For instance, if one of you is struck by a weapon
-for 4 points of damage, divide the damage between the two of you as you see fit.
-Only the Armor and resistances of the target initially damaged come into play.
-So if you have 2 Armor and are struck by a force blast for 4 points of damage,
-your beast can take the 2 points of damage you would suffer, but their Armor
-does not come into play, nor does their immunity to force blasts, if any.
+Lorsque vous et votre bête (grâce à votre capacité Une Bête comme Compagnon)
+êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts
+infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par
+une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous
+deux comme bon vous semble. Seules l'Armure et les résistances de la cible
+initialement endommagée entrent en jeu. Ainsi, si vous avez 2 en Armure et êtes
+frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir
+les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni
+son immunité aux explosions de force, si n'importe lequel.
 
 Facilitateur.
