@@ -8,4 +8,4 @@ normally you can use it only on a willing or helpless creature. If the creature
 takes enough damage to knock it unconscious or kill it, it crumbles into ash,
 dust, or some other inert material.
 
-Action to initiate.
+Action à initier.
