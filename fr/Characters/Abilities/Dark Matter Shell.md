@@ -7,4 +7,4 @@ and gain +1 to your Armor. The dark matter shell works seamlessly with your
 desires, and if you apply a level of Effort to any physical task while the shell
 persists, you can apply an additional free level of Effort to that same task.
 
-Action to initiate.
+Action à initier.
