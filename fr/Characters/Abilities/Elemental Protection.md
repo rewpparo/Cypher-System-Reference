@@ -6,4 +6,4 @@ one type of direct elemental damage (such as fire, lightning, shadow, or thorn)
 for one hour, or until you cast this spell again. Each level of Effort applied
 increases the elemental protection by +2.
 
-Action to initiate.
+Action à initier.
