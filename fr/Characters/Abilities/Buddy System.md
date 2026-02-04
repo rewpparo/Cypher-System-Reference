@@ -6,4 +6,4 @@ interacting with, and protecting your buddy. Also, while you stand next to your
 buddy, both of you have an asset on Speed defense tasks. You can have only one
 buddy at a time.
 
-Action to initiate.
+Action à initier.
