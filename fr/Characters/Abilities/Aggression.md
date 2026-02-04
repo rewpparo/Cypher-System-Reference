@@ -1,9 +1,10 @@
-Aggression (2 Might points) #Ability #SpecialAttackAbility #Low #Core
+Agression (2 points de Puissance) #Ability #SpecialAttackAbility #Low #Core
 
-You focus on making attacks to such an extent that you leave yourself vulnerable
-to your opponents. While this ability is active, you gain an asset on your melee
-attacks, and your Speed defense rolls against melee and ranged attacks are
-hindered. This effect lasts for as long as you wish, but it ends if no combat is
-taking place within range of your senses.
+Vous vous concentrez sur les attaques à un point tel que vous vous rendez
+vulnérable face à vos adversaires. Tant que cette capacité est active, vous
+gagnez un atout sur vos attaques de mêlée, et vos jets de défense de Célérité
+contre les attaques de mêlée et à distance sont gênés. Cet effet dure aussi
+longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à
+portée de vos sens.
 
 Facilitateur.
