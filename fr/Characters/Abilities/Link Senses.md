@@ -5,4 +5,4 @@ time during that duration, you can concentrate to see, hear, and smell what that
 creature is experiencing, instead of using your own senses. If you or the
 creature move out of long range, the connection is broken.
 
-Action to initiate.
+Action à initier.
