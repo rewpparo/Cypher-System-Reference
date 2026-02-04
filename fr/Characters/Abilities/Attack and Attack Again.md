@@ -1,7 +1,7 @@
-Attack and Attack Again #Ability #SpecialAttackAbility #High #Core
+Attaquez et attaquez encore #Ability #SpecialAttackAbility #High #Core
 
-Rather than granting additional damage or a minor or major effect, a natural 17
-or higher on your attack roll allows you the option of immediately making
-another attack.
+Plutôt que d'accorder des dégâts supplémentaires ou un effet mineur ou majeur,
+un 17 naturel ou plus sur votre jet d'attaque vous permet de lancer
+immédiatement une autre attaque.
 
 Facilitateur.
