@@ -1,7 +1,8 @@
-Artifact Tinkerer #Ability #MetaAbility #Low #Core
+Bricoleur d'artefacts #Ability #MetaAbility #Low #Core
 
-If you spend at least one day tinkering with an artifact in your possession, it
-functions at one level higher than normal. This applies to all artifacts in your
-possession, but they retain this bonus only for you.
+Si vous passez au moins une journée à bricoler un artefact en votre possession,
+celui-ci fonctionne à un niveau supérieur à la normale. Cela s'applique à tous
+les artefacts en votre possession, mais ils ne conservent ce bonus que pour
+vous.
 
 Facilitateur.
