@@ -1,10 +1,10 @@
-Absorber l'énergie (7 points d'Intellect) #Ability #SpecialAttackAbility #High
-#Core
+Absorber l'énergie cinétique #Ability #SpecialAttackAbility #High #Core
 
-You absorb a portion of the energy of a physical attack or impact. You negate 1
-point of damage you would have suffered and store that point as energy. Once you
-have absorbed 1 point of energy, you continue to negate 1 point of damage from
-any incoming blow or impact, but the residual energy bleeds off with a flare of
-harmless light (you cannot store more than 1 point at a time).
+Vous absorbez une partie de l'énergie d'une attaque physique ou d'un impact.
+Vous annulez 1 point de dommage que vous auriez subi et stockez ce point sous
+forme d'énergie. Une fois que vous avez absorbé 1 point d'énergie, vous
+continuez à annuler 1 point de dégâts de tout coup ou impact entrant, mais
+l'énergie résiduelle s'évapore avec une lueur de lumière inoffensive (vous ne
+pouvez pas stocker plus de 1 point à la fois).
 
 Facilitateur.
