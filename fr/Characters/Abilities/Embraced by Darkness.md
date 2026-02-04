@@ -13,4 +13,4 @@ normal matter. Likewise, you can’t attack, touch, or otherwise affect anything
 However, attacks and effects that rely on light can affect you, and sudden
 bursts of light can potentially make you lose your next turn.
 
-Action to initiate.
+Action à initier.
