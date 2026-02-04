@@ -9,4 +9,4 @@ anything it was wearing or carrying. If the duplicate disappears because it was
 killed, you take 4 points of damage that ignore Armor, and you lose your next
 action.
 
-Action to initiate.
+Action à initier.
