@@ -1,4 +1,4 @@
-Know Where to Look #Ability #MetaAbility #Mid #Core
+Savoir où regarder #Ability #MetaAbility #Mid #Core
 
 Whenever the GM obtains a result for you on the Useful Stuff table, you get two
 results instead of one. If the GM is using some other method to generate rewards
