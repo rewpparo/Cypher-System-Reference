@@ -1,4 +1,4 @@
-Conjuration (7 points Intellect) #Ability #CompanionAbility #High #Core
+Conjuration (7 points d'Intellect) #Ability #CompanionAbility #High #Core
 
 You produce, as if from thin air, a level 5 creature of a kind you have
 previously encountered. The creature remains for one minute and then returns
