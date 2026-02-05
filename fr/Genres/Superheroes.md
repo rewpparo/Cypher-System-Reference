@@ -12,7 +12,7 @@ following:
 
 And so on.
 
-## Setting
+## Univers
 
 ## Extra Rules
 
@@ -1122,22 +1122,24 @@ attacks like an animal, and perform tasks using hands without being hindered.
 Anyone who sees you clearly in this hybrid form would never mistake you for a
 mere animal.
 
-Action to change or revert.
+Action de modifier ou de revenir en arrière.
 
-Even if your animal shape has multiple attack types (such as claws and bite),
-you can attack only once per round unless you have some other ability that lets
-you make additional attacks on your turn.
+Même si la forme de votre animal a plusieurs types d'attaques (comme les griffes
+et les morsures), vous ne pouvez attaquer qu'une seule fois par tour, à moins
+que vous ne disposiez d'une autre capacité vous permettant d'effectuer des
+attaques supplémentaires pendant votre tour.
 
 A character might be able to take the shape of a creature that is similar to a
 common animal, such as a unicorn instead of a horse or a basilisk instead of a
 lizard, but doing so should require applying at least one level of Effort to the
 change, and the character wouldn’t gain any of the creature’s unusual abilities.
 
-Animal Shape variant: If your character concept is that you always take the same
-animal form instead of being able to choose from multiple kinds of animals,
-double the duration of the Animal Shape ability (to twenty minutes per use). The
-GM may allow characters with this restriction to learn additional animal forms
-by spending 4 XP as a long-term benefit.
+Variante de Forme animale : Si le concept de votre personnage est que vous
+prenez toujours la même forme animale au lieu de pouvoir choisir parmi plusieurs
+types d'animaux, doublez la durée de la capacité Forme animale (à vingt minutes
+par utilisation). Le MJ peut autoriser les personnages soumis à cette
+restriction à apprendre des formes animales supplémentaires en dépensant 4 XP
+comme avantage à long terme.
 
 ANIMAL FORM MINOR ABILITIES TABLE
 
@@ -1145,60 +1147,64 @@ Use the following as examples or suggestions of what a character gains when in
 the shape of an animal. If an animal shape lists two skills, the character
 chooses which one they want each time they take that shape.
 
-| Animal            | Skill Training         | Other Abilities |
-| ----------------- | ---------------------- | --------------- |
-| Ape               | Climbing               | Hands           |
-| Badger            | Climbing               | Scent           |
-| Bat               | Perception             | Flying          |
-| Bear              | Climbing               | Scent           |
-| Bird              | Perception             | Flying          |
-| Boar              | Might defense          | Scent           |
-| Cat               | Climbing or stealth    | Small           |
-| Constrictor snake | Climbing               | Constrict       |
-| Crocodile         | Stealth or swimming    | Constrict       |
-| Deinonychus       | Perception             | Fast            |
-| Dolphin           | Perception or swimming | Fast            |
-| Fish              | Stealth or swimming    | Aquatic         |
-| Frog              | Jumping or stealth     | Aquatic         |
-| Horse             | Perception             | Fast            |
-| Leopard           | Climbing or stealth    | Fast            |
-| Lizard            | Climbing or stealth    | Small           |
-| Octopus           | Stealth                | Aquatic         |
-| Shark             | Swimming               | Aquatic         |
-| Turtle            | Might defense          | Armor           |
-| Venomous snake    | Climbing               | Venom           |
-| Wolf              | Perception             | Scent           |
+| Animal               | Compétence entraînée | Autre capacité |
+| -------------------- | -------------------- | -------------- |
+| Singe                | Climbing             | Mains          |
+| Blaireau             | Climbing             | Scent          |
+| Chauve-Souris        | Perception           | Flying         |
+| Ours                 | Climbing             | Scent          |
+| Oiseaux              | Perception           | Flying         |
+| Sanglier             | Might defense        | Scent          |
+| Chat                 | Climbing or stealth  | Small          |
+| Serpent constricteur | Climbing             | Constrict      |
+| Crocodile            | Stealth or swimming  | Constrict      |
+| Deinonychus          | Perception           | Fast           |
+| Dauphin              | Perception ou Nager  | Fast           |
+| Poisson              | Stealth or swimming  | Aquatic        |
+| Grenouille           | Sauter ou Nager      | Aquatic        |
+| Cheval               | Perception           | Fast           |
+| Léopard              | Climbing or stealth  | Fast           |
+| Lézard               | Climbing or stealth  | Small          |
+| Poulpe               | Furtivité            | Aquatic        |
+| Requin               | Nager                | Aquatic        |
+| Tortue               | Might defense        | Armure         |
+| Serpent venimeux     | Climbing             | Venin          |
+| Loup                 | Perception           | Scent          |
 
 
 
-Aquatic: The animal either breathes water instead of air or is able to breathe
-water in addition to breathing air.
+* **Aquatique:** L'animal respire de l'eau au lieu de l'air ou est capable de
+respirer de l'eau en plus de respirer de l'air.
 
-Armor: The animal has a thick hide or shell, granting +1 to Armor.
+* **Armure:** L'animal a une peau ou une carapace épaisse, accordant +1 à
+l'armure.
 
-Constrict: The animal can grip its opponent fast after making a melee attack
-(usually with a bite or claw), easing attack rolls against that foe on later
-turns until it releases the foe.
+Constriction : L'animal peut saisir rapidement son adversaire après avoir
+effectué une attaque au corps à corps (généralement avec une morsure ou une
+griffe), facilitant ainsi les jets d'attaque contre cet ennemi dans les tours
+suivants jusqu'à ce qu'il le libère.
 
-Fast: The animal can move a long distance on its turn instead of a short
-distance.
+* **Rapide** : L'animal peut se déplacer sur une longue distance pendant son
+tour au lieu d'une courte distance.
 
-Flying: The animal can fly, which (depending on the type of animal) may be up to
-a short or long distance on its turn.
+Voler : L'animal peut voler, ce qui (selon le type d'animal) peut parcourir une
+distance courte ou longue lors de son tour.
 
-Hands: The animal has paws or hands that are nearly as agile as those of a
-human. Unlike with most animal shapes, the animal’s tasks that require hands are
-not hindered (although the GM may decide that some tasks requiring human
-agility, such as playing a flute, are still hindered).
+* **Mains** : L'animal a des pattes ou des mains presque aussi agiles que celles
+d'un humain. Contrairement à la plupart des formes d'animaux, les tâches de
+l'animal qui nécessitent des mains ne sont pas gênées (bien que le MJ puisse
+décider que certaines tâches nécessitant de l'agilité humaine, comme jouer de la
+flûte, sont toujours gênées).
 
-Scent: The animal has a strong sense of smell, gaining an asset on tracking and
-dealing with darkness or blindness.
+Odeur : L'animal a un odorat très performant, acquérant un atout pour le pistage
+et la gestion de l'obscurité ou de la cécité.
 
-Small: The animal is considerably smaller than a human, easing its Speed defense
-tasks but hindering tasks to move heavy things.
+Petit : L'animal est considérablement plus petit qu'un humain, ce qui facilite
+ses tâches de défense de Célérité mais gêne les tâches de déplacement d'objets
+lourds.
 
-Venom: The animal is poisonous (usually through a bite), inflicting 1 additional
-point of damage.
+* **Venin** : L'animal est venimeux (généralement par morsure), lui infligeant 1
+point de dégâts supplémentaire.
 
 
 
@@ -1591,7 +1597,7 @@ Each additional time you use Shrink before your next ten-hour recovery roll, you
 must apply an additional level of Effort (one level of Effort for the second
 use, two levels of Effort for the third use, and so on).
 
-Action to initiate.
+Action pour initier.
 
 The increased Effort cost for repeat uses of Shrink between ten-hour recovery
 rolls only applies to new activations of Shrink, not to multiple size changes
