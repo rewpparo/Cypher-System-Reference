@@ -1,4 +1,4 @@
-Créer Deadly Poison (3+ points Intellect) #Ability #CraftAbility #Low #Core
+Créer un Poison Mortel (3+ points d'Intellect) #Ability #CraftAbility #Low #Core
 
 Vous créez une dose d'un poison de niveau 2 qui inflige soit 5 points de dégâts,
 soit gêne les actions de la créature empoisonnée pendant dix minutes (choisissez
