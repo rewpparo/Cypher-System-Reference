@@ -17,4 +17,4 @@ the following:
 > You can shoot a spacecraft, and degrade one ship system by one step (systems
 > include engines, weapons, and atmosphere).
 
-Enabler.
+Facilitateur.
