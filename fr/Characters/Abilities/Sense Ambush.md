@@ -1,5 +1,5 @@
-Sense Ambush #Ability #SensesAbility #Low #Core
+Sentir l'embuscade #Ability #SensesAbility #Low #Core
 
-You are never surprised by an attack.
+Vous n'êtes jamais surpris par une attaque.
 
-Enabler.
+Facilitateur.
