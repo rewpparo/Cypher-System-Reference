@@ -1,4 +1,4 @@
-Better Living Through Chemistry (4 Intellect points) #Ability #MetaAbility #Mid
+Mieux vivre par la chimie (4 points d'Intellect) #Ability #MetaAbility #Mid
 #Core
 
 You’ve developed drug cocktails specifically designed to work with your own
