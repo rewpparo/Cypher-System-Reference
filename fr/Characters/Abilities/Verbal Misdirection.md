@@ -6,4 +6,4 @@ person for ten minutes. In addition to the normal options for using Effort, you
 can choose to use Effort to affect additional creatures (one per level of
 Effort).
 
-Enabler.
+Facilitateur.
