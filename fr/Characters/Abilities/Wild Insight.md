@@ -10,4 +10,4 @@ magical lore task, and if you succeed, the GM chooses a random cypher that fits
 that category. You can’t use this ability again until after you’ve taken a
 ten-hour recovery action.
 
-Enabler.
+Facilitateur.
