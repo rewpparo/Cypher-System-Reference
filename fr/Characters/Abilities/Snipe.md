@@ -1,7 +1,7 @@
-Snipe (2 Speed points) #Ability #AttackAbility #Mid #Core
+Tir embusqué (2 points de Célérité) #Ability #AttackAbility #Mid #Core
 
-If you spend one action aiming, in the next round you can make a precise ranged
-attack. You have an asset on this attack. If your attack is successful, it
-inflicts 4 additional points of damage.
+Si vous passez une action à viser, au prochain round vous pourrez faire une
+attaque à distance précise. Vous avez un atout sur cette attaque. Si votre
+attaque réussit, elle inflige 4 points de dégâts supplémentaires.
 
 Action.
