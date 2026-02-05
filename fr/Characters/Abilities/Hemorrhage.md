@@ -1,10 +1,11 @@
-Hemorrhage (2+ Might points) #Ability #SpecialAttackAbility #Low #Core
+Hémorragie (2+ points de Puissance) #Ability #SpecialAttackAbility #Low #Core
 
-You make a powerful and precise strike that inflicts additional damage later. On
-your next turn, the target of this attack takes an additional 3 points of damage
-(ignores Armor). The target can prevent this additional damage by making a
-recovery roll, using any ability that heals it, or using its action to attend to
-the injury. In addition to the normal options for using Effort, you can choose
-to use Effort to increase this duration by one round.
+Vous faites une attaque puissante et précise qui inflige des dégâts
+supplémentaires plus tard. Lors de votre prochaine tour, la cible de cette
+attaque prend 3 points de dégâts supplémentaires (qui ignorent l'Armure). La
+cible peut prévenir ces dégâts en faisant un jet de guérison, utiliser une
+aptitude de soin, ou utiliser son action pour soigner la blessure. En plus des
+options normales pour l'usage de l'Effort, vous pouvez utiliser l'effort pour
+augmenter la durée d'un round.
 
 Action.
