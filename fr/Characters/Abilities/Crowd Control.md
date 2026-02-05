@@ -12,4 +12,4 @@ a group of fifteen people, you must apply two levels of Effort. When the Crowd
 Control ability ends, the creatures remember your commands but don’t remember
 being controlled—your commands seemed reasonable at the time.
 
-Action to initiate.
+Action pour initier.
