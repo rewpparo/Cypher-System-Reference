@@ -15,4 +15,4 @@ levels of Effort.
 When the effects of the ability end, the creature remembers following the
 suggestion but can be persuaded to believe that it chose to do so willingly.
 
-Action to initiate.
+Action pour initier.
