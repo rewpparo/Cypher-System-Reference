@@ -1,7 +1,8 @@
-Impressive Display (2 Might points) #Ability #TaskAbility #Low #Core
+Démonstration Impressionnante (2 Points de Puissance) #Ability #TaskAbility #Low
+#Core
 
-You perform a feat of strength, speed, or combat, impressing those nearby. For
-the next minute you gain an asset on all interaction tasks with people who saw
-you use this ability.
+Vous faites une prouesse de force, de vitesse, ou de combat, et impressionnez
+ceux qui sont autour. Pendant la prochaine minute, vous avez un atout sur toutes
+les tâches d'interaction avec ceux qui vous on vu utiliser cette aptitude.
 
 Action.
