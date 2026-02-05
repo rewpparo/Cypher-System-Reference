@@ -1,6 +1,6 @@
-Block (3 Speed points) #Ability #ProtectionAbility #Low #Core
+Bloquer (3 Points de Célérité) #Ability #ProtectionAbility #Low #Core
 
-You automatically block the next melee attack made against you within the next
-minute.
+Vous bloquez automatiquement la prochaine attaque de mêlée faite contre vous
+dans la prochaine minute.
 
-Action to initiate.
+Action pour initier.
