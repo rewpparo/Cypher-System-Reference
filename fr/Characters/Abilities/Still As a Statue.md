@@ -9,4 +9,4 @@ circumstances, you automatically rouse to normal wakefulness and mobility a day
 later. If an ally you trust shakes you hard enough (with a minimum cost of 2
 Might points), you rouse earlier.
 
-Action to initiate.
+Action pour initier.
