@@ -1,6 +1,7 @@
-Reload (1 Speed point) #Ability #MetaAbility #Low #Core
+Recharge (1 point de Célérité) #Ability #MetaAbility #Low #Core
 
-When using a weapon that normally requires an action to reload, such as a heavy
-crossbow, you can reload and fire (or fire and reload) in the same action.
+Quand vous utilisez une arme qui requiert normalement une action pour recharger,
+comme une arbalète lourde, vous pouvez recharger et tirer (ou tirer et
+recharger) dans la même action.
 
-Enabler.
+Facilitateur.
