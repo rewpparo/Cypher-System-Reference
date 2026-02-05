@@ -6,4 +6,4 @@ as you. The projection copies your appearance, movements, and any sounds you
 make for the next ten minutes. Anyone present at the location can see and hear
 you as if you were there. However, you do not perceive through your projection.
 
-Action to initiate.
+Action pour initier.
