@@ -1,8 +1,8 @@
-Stand Watch (2 Intellect points) #Ability #TaskAbility #Low #Core
+Monter la garde (2 points d'Intellect) #Ability #TaskAbility #Low #Core
 
-While standing watch (mostly remaining in place for an extended period of time),
-you unfailingly remain awake and alert for up to eight hours. During this time,
-you are trained in perception tasks as well as stealth tasks to conceal yourself
-from those who might approach.
+Quand vous montez la garde (en restant sur place pendant une longue période),
+vous ne vous assoupissez jamais et restez alerte pendant huit heures maximum.
+Pendant ce temps, vous êtes entrainé dans les tâches de perception et de
+discrétion pour vous camoufler de ceux qui pourraient approcher.
 
-Action to initiate.
+Action pour initier.
