@@ -1,7 +1,8 @@
-Extra Skill #Ability #TaskAbility #Low #Core
+Compétence supplémentaire #Ability #TaskAbility #Low #Core
 
-You are trained in one skill of your choice (other than attacks or defense) in
-which you are not already trained. You can select this ability multiple times.
-Each time you select it, you must choose a different skill.
+Vous êtes entrainé dans une compétence de votre choix (autre qu'en attaque ou en
+défense) pour laquelle vous n'êtes pas déjà entrainé. Vous pouvez choisir cette
+aptitude plusieurs fois. Chaque fois que vous choisissez cette aptitude, vous
+devez choisir une compétence différente.
 
 Facilitateur.
