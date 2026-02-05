@@ -8,4 +8,4 @@ if you were standing next to it, no matter how far away you are). You must touch
 the machine to create the bond, but afterward, there is no range limitation.
 This bond lasts for one week. You can bond with only one machine at a time.
 
-Action to initiate.
+Action pour initier.
