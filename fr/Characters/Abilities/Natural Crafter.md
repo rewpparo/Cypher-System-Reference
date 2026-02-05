@@ -1,7 +1,7 @@
-Natural Crafter #Ability #CraftAbility #MetaAbility #Low #Core
+Artisan né #Ability #CraftAbility #MetaAbility #Low #Core
 
-All commonplace objects or structures you craft are effectively one level higher
-than an average example of that object or structure. For instance, if you craft
-a defensive wall that would normally be level 4, its effective level is 5.
+Tous les objets ou structures normales que vous fabriquez ont un niveau
+supplémentaire que typique de cet objet ou structure. Par exemple, si vous
+fabriquez un mur défensif qui aurait été niveau 4, son niveau sera 5.
 
 Facilitateur.
