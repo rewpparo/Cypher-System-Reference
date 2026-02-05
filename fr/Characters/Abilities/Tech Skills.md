@@ -5,4 +5,4 @@ of the following: crafting, computers, identifying, machines, piloting,
 repairing, or vehicle driving. You can select this ability multiple times. Each
 time you select it, you must choose two different skills.
 
-Enabler.
+Facilitateur.
