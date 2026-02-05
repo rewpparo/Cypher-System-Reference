@@ -8,4 +8,4 @@ you attempt to jump over the hole, you have an asset on the jump. This benefit
 applies to only one roll—if you want to perform the task again with the benefit
 of an asset, you need to study and plan again.
 
-Enabler.
+Facilitateur.
