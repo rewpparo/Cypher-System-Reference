@@ -6,4 +6,4 @@ m) cube becomes permanent. You can permanently end the illusion as an action,
 but others must expend exceptional ingenuity to prevent the illusion from
 regenerating even if it has apparently been dispersed.
 
-Enabler.
+Facilitateur.
