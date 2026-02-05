@@ -1,5 +1,5 @@
-Experienced Defender #ProtectionAbility #Mid #Core
+Défenseur expérimenté #Ability #ProtectionAbility #Mid #Core
 
-When wearing armor, you gain +1 to Armor.
+Quand vous portez une armure, vous gagnez +1 à votre armure.
 
 Facilitateur.
