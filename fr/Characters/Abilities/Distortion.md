@@ -5,4 +5,4 @@ minute. The target rapidly shifts between its normal appearance and a blot of
 darkness. The target has an asset on Speed defense rolls until the effect wears
 off.
 
-Action to initiate.
+Action pour initier.
