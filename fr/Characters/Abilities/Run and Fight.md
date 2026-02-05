@@ -1,6 +1,7 @@
-Run and Fight (4 Might points) #Ability #SpecialAttackAbility #Mid #Core
+Courir en se battant (4 points de Puissance) #Ability #SpecialAttackAbility #Mid
+#Core
 
-You can move a short distance and make a melee attack that inflicts 2 additional
-points of damage.
+Vous pouvez vous déplacer d'une distance courte et faire une attaque de mêlée
+qui inflige 2 points de dégâts en plus.
 
 Action.
