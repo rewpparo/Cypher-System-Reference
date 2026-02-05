@@ -7,4 +7,4 @@ range. They can swarm about and hinder any or all opponents’ tasks. While the
 creatures are in long range, you can speak to them telepathically and perceive
 through their senses.
 
-Action to initiate.
+Action pour initier.
