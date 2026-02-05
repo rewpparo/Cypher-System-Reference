@@ -1,5 +1,4 @@
-Better Living Through Chemistry (4 Intellect points) #Ability #MetaAbility #Mid
-#Core
+Mieux vivre par la chimie (4 points Intellect) #Ability #MetaAbility #Mid #Core
 
 You’ve developed drug cocktails specifically designed to work with your own
 biochemistry. Depending on which one you inject, it makes you smarter, faster,
