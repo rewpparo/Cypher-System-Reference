@@ -6,4 +6,4 @@ damage per round until the flames are extinguished, which a creature can do by
 dousing itself in water, rolling on the ground, or smothering the flames.
 Usually, putting out the flames takes an action.
 
-Action to initiate.
+Action pour initier.
