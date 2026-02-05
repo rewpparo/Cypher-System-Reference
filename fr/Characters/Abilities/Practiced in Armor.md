@@ -1,7 +1,8 @@
-Practiced in Armor #Ability #ProtectionAbility #Low #Core
+Entrainé au port des armures #Ability #ProtectionAbility #Low #Core
 
-You can wear armor for long periods of time without tiring and can compensate
-for slowed reactions from wearing armor. You reduce the Speed cost for wearing
-armor by 1. You start the game with a type of armor of your choice.
+Vous pouvez porter l'armure pendant de longues périodes sans fatigue et peut
+compenser les réactions ralenties de port d'armure. Vous réduisez le coût de la
+vitesse de port d'armure de 1. Vous commencez le jeu avec un type d'armure de
+votre choix.
 
 Facilitateur.
