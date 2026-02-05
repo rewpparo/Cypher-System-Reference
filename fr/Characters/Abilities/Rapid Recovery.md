@@ -7,4 +7,4 @@ recovery roll takes you only ten minutes (your ten-hour rest is unchanged). If
 you make a recovery roll when it isn’t your turn, until the end of your next
 turn all of your tasks are hindered.
 
-Enabler.
+Facilitateur.
