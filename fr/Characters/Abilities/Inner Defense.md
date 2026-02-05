@@ -1,8 +1,9 @@
-Inner Defense #Ability #TaskAbility #Low #Core
+Défense Intérieure #Ability #TaskAbility #Low #Core
 
-Life’s trials have toughened you and made you hard to read. You are trained in
-any task to resist another creature’s attempt to discern your true feelings,
-beliefs, or plans. You are likewise trained in resisting torture, telepathic
-intrusion, and mind control.
+Les épreuves de la vie vous ont durci, et rendu difficile à lire. Vous êtes
+entrainé dans toutes les tâche visant à résister aux tentatives d'une autre
+créature de discerner vos vrais sentiments, croyances, ou plans. Vous êtes
+également entrainé à résister à la torture, à l'intrusion télépathique, et au
+contrôle mental.
 
 Facilitateur.
