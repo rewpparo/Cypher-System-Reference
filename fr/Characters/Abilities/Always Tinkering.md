@@ -1,9 +1,10 @@
-Always Tinkering #Ability #Core
+Toujours à bricoler #Ability #Low #Core
 
-If you have any tools and materials at all, and you are carrying fewer cyphers
-than your limit, you can create a manifest cypher if you have an hour of time to
-spend. The new cypher is random and always 2 levels lower than normal (minimum
-1). It’s also temperamental and fragile. These are called temperamental cyphers.
-If you give one to anyone else to use, it falls apart immediately, useless.
+Si vous disposez d'outils et de matériel et que vous transportez moins de
+cyphers que votre limite, vous pouvez créer un cypher manifeste si vous avez une
+heure à consacrer. Le nouveau cypher est aléatoire et toujours 2 niveaux
+inférieurs à la normale (minimum 1). C'est aussi capricieux et fragile. C'est ce
+qu'on appelle des cyphers capricieux. Si vous en donnez un à quelqu'un d'autre,
+il tombe immédiatement, inutile.
 
-Action to initiate; one hour to complete.
+Action à initier ; une heure pour terminer.
