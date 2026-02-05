@@ -6,4 +6,4 @@ Fleet](Robot%20Fleet.md) increases to level 3. Instead of choosing this option,
 you may instead choose one upgrade from the [Robot Upgrade](Robot%20Upgrade.md)
 ability.
 
-Enabler.
+Facilitateur.
