@@ -1,7 +1,8 @@
-Recruit Deputy #Ability #CompanionAbility #High #Core
+Recruter un Adjoint #Ability #CompanionAbility #High #Core
 
-You gain a level 4 follower. They are not restricted on their modifications.
-Alternatively, you can choose to advance a level 3 follower you already have to
-level 4 and then gain a new level 3 follower.
+Vous gagnez un disciple de niveau 4. Il n'est pas restreint dans ses
+modifications. Alternativement, vous pouvez choisir d'avancer un disciple de
+niveau 3 que vous avez déjà au niveau 4, et gagner un autre disciple de niveau
+3.
 
-Enabler.
+Facilitateur.
