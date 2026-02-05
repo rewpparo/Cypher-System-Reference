@@ -7,4 +7,4 @@ court or other structure where laws are decided or nobility rules, be invited to
 any gala, and get a seat at a private function of any sort. In addition, you are
 trained in persuasion.
 
-Enabler.
+Facilitateur.
