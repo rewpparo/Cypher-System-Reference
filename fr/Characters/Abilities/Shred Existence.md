@@ -3,4 +3,4 @@ Shred Existence #Ability #MetaAbility #High #Core
 When you use Disrupting Touch, Scratch Existence, or Phase Detonation, you
 inflict an additional 5 points of damage that ignores Armor.
 
-Enabler.
+Facilitateur.
