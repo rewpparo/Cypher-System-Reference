@@ -1,6 +1,6 @@
-Combat Prowess #Ability #MetaAbility #Low #Core
+Prouesse de combat #Ability #MetaAbility #Low #Core
 
-You add +1 damage to one type of weapon attack of your choice: melee weapon
-attacks or ranged weapon attacks.
+Ajoutez +1 dégât à un type d'attaque avec une arme de votre choix : attaques
+avec des armes de mêlée ou attaque avec des armes à distance.
 
 Facilitateur.
