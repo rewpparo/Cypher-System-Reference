@@ -1,4 +1,4 @@
-Giant octopus #lvl5 (15) #Creature #Core #Fantasy
+Poulpe géant #lvl5 (15) #Creature #Core #Fantasy
 
 Health: 25
 
