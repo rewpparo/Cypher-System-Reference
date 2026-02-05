@@ -1,4 +1,4 @@
-Unicorn #lvl4 (12) #Creature #Core #Fantasy
+Licorne #lvl4 (12) #Creature #Core #Fantasy
 
 Health: 15
 
