@@ -5,4 +5,4 @@ except the benefit applies to up to three characters you choose. If you choose
 just one character, you become specialized in the tasks described under the
 Devoted Defender ability.
 
-Action to initiate.
+Action pour initier.
