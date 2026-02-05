@@ -5,4 +5,4 @@ range. If you are successful, the target cannot attack you for one minute,
 during which time it follows your verbal commands if it can hear and understand
 you.
 
-Action to initiate.
+Action pour initier.
