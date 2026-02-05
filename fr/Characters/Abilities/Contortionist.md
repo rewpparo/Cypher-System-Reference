@@ -1,4 +1,4 @@
-Contorsionniste (2 points de vitesse) #Ability #MovementAbility #TaskAbility
+Contorsionniste (2 points de Célérité) #Ability #MovementAbility #TaskAbility
 #Low #Core
 
 You can wriggle free from bindings or squeeze through a tight spot. You are
