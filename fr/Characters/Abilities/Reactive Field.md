@@ -6,4 +6,4 @@ your body and provides you with +2 to Armor. In addition, if struck by a melee
 attack, the field creates a backlash that inflicts 4 points of electricity
 damage to the attacker.
 
-Enabler.
+Facilitateur.
