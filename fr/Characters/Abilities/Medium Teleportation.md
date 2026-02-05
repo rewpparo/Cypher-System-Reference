@@ -1,4 +1,4 @@
-Medium Teleportation (5+ Intellect points) #Ability #Core
+Téléportation moyenne (5+ points Intellect) #Ability #Core
 
 You instantly teleport yourself to any location within a long distance that you
 can see. In addition to the normal options for using Effort, you can choose to
