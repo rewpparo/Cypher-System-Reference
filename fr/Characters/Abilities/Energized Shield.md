@@ -1,4 +1,4 @@
-Energized Shield #Ability #MetaAbility #Mid #Core
+Bouclier énergique #Ability #MetaAbility #Mid #Core
 
 Your force shield from your [Force Field Shield](Force%20Field%20Shield.md)
 ability now pulses with dangerous energy whenever you manifest it. Each time you
