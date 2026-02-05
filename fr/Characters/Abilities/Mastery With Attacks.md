@@ -1,11 +1,11 @@
-Mastery With Attacks #Ability #AttackAbility #High #Core
+Maitrise à l'attaque #Ability #AttackAbility #High #Core
 
-Choose one type of attack in which you are trained: light bashing, light bladed,
-light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy
-bladed, or heavy ranged. You are specialized in attacks using that type of
-weapon.
+Choisissez un type d'attaque dans lequel vous êtes entrainé : contondant léger,
+lame légère, distant léger, contondant moyen, lame moyenne, distant moyen,
+contondant lourd, lame lourde, ou distant lourd. Vous êtes spécialisé dans ce
+type d'arme.
 
-(If you aren’t trained in an attack, select Skill With Attacks to become trained
-in that attack.)
+(Si vous n'êtes pas entrainé dans une attaque, choisissez Doué à l'attaque pour
+vous entrainer dans cette attaque.)
 
 Facilitateur.
