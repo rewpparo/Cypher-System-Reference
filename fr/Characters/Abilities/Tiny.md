@@ -11,4 +11,4 @@ more point to your Speed Pool.
 In campaigns where characters can travel to parallel dimensions, using Tiny to
 shrink to one-thousandth of your normal height may be a means of doing so.
 
-Enabler.
+Facilitateur.
