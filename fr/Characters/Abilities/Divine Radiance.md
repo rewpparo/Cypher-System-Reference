@@ -1,4 +1,4 @@
-Divine Radiance (2 Intellect points) #Ability #SpecialAttackAbility #Mid #Core
+Radiance Divine (2 points Intellect) #Ability #SpecialAttackAbility #Mid #Core
 
 Your prayer calls divine radiance from the heavens to punish an unworthy target
 within long range, inflicting 4 points of damage. If the target is a demon,
