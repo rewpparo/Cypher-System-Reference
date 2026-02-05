@@ -1,8 +1,9 @@
-Anecdote (2 Intellect points) #Ability #SupportAbility #Low #Core
+Anecdote (2 points d'Intellect) #Ability #SupportAbility #Low #Core
 
-You can lift the spirits of a group of creatures and help them bond together by
-entertaining them with an uplifting or pointed anecdote. For the next hour,
-those who pay attention to your story are trained in a task you choose that’s
-related to the anecdote, as long as it’s not an attack or defense task.
+Vous pouvez remonter le moral d'un groupe de créatures et les aider à se lier en
+les divertissant avec une anecdote édifiante ou pointue. Pendant l'heure
+suivante, ceux qui prêtent attention à votre histoire sont entraînés à une tâche
+que vous choisissez et qui est liée à l'anecdote, à condition qu'il ne s'agisse
+pas d'une tâche d'attaque ou de défense.
 
-Action to initiate, one minute to complete.
+Action à initier, une minute pour la terminer.
