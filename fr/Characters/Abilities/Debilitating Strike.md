@@ -1,8 +1,9 @@
-Debilitating Strike (4 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Frappe invalidante (4 points de Célérité) #Ability #SpecialAttackAbility #Mid
+#Core
 
-You make an attack to deliver a painful or debilitating strike. The attack is
-hindered. If it hits, the creature takes 2 additional points of damage at the
-end of the next round, and its attacks are hindered until the end of the next
-round.
+Vous faites une attaque en la rendant aussi douloureuse et handicapante que
+possible. Votre attaque est gênée. Si elle touche, la créature prend 2 points de
+dégâts supplémentaires à la fin du prochain round, et ses attaques sont gênées
+jusqu'à la fin du prochain round.
 
 Action.
