@@ -1,4 +1,4 @@
-Intouchable (6 points Intellect) #Ability #ProtectionAbility #High #Core
+Intouchable (6 points d'Intellect) #Ability #ProtectionAbility #High #Core
 
 You change your phase state for the next minute so that you can’t affect or be
 affected by normal matter or energy. Only mental attacks and special
