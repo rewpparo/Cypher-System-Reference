@@ -6,4 +6,4 @@ transmitter. A music player becomes a battery for another device. The effective
 level of the modified device is 1 lower than normal, and the device is rendered
 unusable (for its original purpose) until repaired.
 
-Action to initiate.
+Action pour initier.
