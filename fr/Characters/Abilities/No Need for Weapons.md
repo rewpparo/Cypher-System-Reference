@@ -1,6 +1,6 @@
-No Need for Weapons #Ability #MetaAbility #Low #Core
+Nul besoin d'arme #Ability #MetaAbility #Low #Core
 
-When you make an unarmed attack (such as a punch or kick), it counts as a medium
-weapon instead of a light weapon.
+Quand vous faites une attaque à main nue (comme un coup de poing ou de pied),
+elle compte comme une arme moyenne au lieu d'une arme légère.
 
 Facilitateur.
