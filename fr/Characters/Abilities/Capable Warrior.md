@@ -1,5 +1,5 @@
-Capable Warrior #Ability #MetaAbility #Mid #Core
+Guerrier Compétent #Ability #MetaAbility #Mid #Core
 
-Your attacks deal 1 additional point of damage.
+Vos attaques infligent 1 point de dégât supplémentaire.
 
 Facilitateur.
