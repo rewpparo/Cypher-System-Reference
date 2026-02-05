@@ -1,4 +1,4 @@
-Des Ombres #Ability #MetaAbility #Mid #Core
+Depuis les Ombres #Ability #MetaAbility #Mid #Core
 
 If you successfully attack a creature that was previously unaware of your
 presence, you deal 3 additional points of damage.
