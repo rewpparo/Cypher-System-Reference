@@ -1,6 +1,6 @@
-Momentum #Ability #SpecialAttackAbility #Mid #Core
+Elan #Ability #SpecialAttackAbility #Mid #Core
 
-If you use an action to move, your next attack made using a melee weapon before
-the end of the next round inflicts 2 additional points of damage.
+Si vous utilisez une action pour vous déplacer, votre prochaine attaque de mêlée
+avant la fin du round inflige 2 points de dégâts supplémentaires.
 
-Enabler.
+Facilitateur.
