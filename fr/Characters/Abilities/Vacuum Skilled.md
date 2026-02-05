@@ -5,4 +5,4 @@ ecosystem design, circuit design, spacecraft maintenance and repair, or some
 similar skill related to traveling and colonizing planets, moons, and stations
 located in the solar system.
 
-Enabler.
+Facilitateur.
