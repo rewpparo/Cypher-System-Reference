@@ -1,67 +1,72 @@
-This chapter presents a vast catalog of more than a thousand abilities a
-character can gain from their type, flavor (if any), and focus. They are sorted
-alphabetically by the ability’s name.
+Ce chapitre présente un caste catalogue de plus de mille aptitudes qu'un
+personnage peut gagner de leur type, saveur (si elle existe) et focus. Elles
+sont triées alphabétiquement par nom d'aptitude.
 
-A character’s type, flavor, and focus assign an appropriate tier to each
-ability. However, if you’re creating a brand-new focus or type, we provide a
-couple of additional tools.
+Le type, la saveur et le focus donnent un rang approprié à chaque aptitude.
+Cependant, si vous souhaitez créer un tout nouveau type ou focus, nous
+présentons plusieurs outils supplémentaires.
 
-The first is a power grade for each ability, which tells you about how potent it
-is in relation to other abilities. Abilities appropriate for tiers 1 and 2
-characters are called “low-tier” abilities. Abilities appropriate for tiers 3
-and 4 are called “mid-tier” abilities. Abilities appropriate for tiers 5 and 6
-are called “high-tier” abilities.
+Le premier est un niveau de pouvoir de chaque aptitude, qui définit à quel point
+cette aptitude est puissante par rapport à d'autres aptitudes. Les aptitudes
+appropriées pour les personnages de rang 1 et 2 sont appelées aptitudes de Rang
+Bas. Les aptitudes appropriées pour les rangs 3 et 4 sont appelées aptitudes de
+Rang Moyen. Les aptitudes appropriées pour les rangs 5 et 6 sont appelées
+aptitudes de Rang Haut.
 
-These abilities are further sorted into ability categories based on the kinds of
-things they do—abilities that improve physical attacks are in the attack skill
-category, abilities that assist allies are in the support category, and so on.
+Ces aptitudes sont ensuite catégorisées dans des catégories d'aptitudes basées
+sur ce qu'elles font—les aptitudes qui améliorent les attaques physiques sont
+dans la catégories compétences de d'attaque, les aptitudes qui assistent les
+alliés sont dans la catégorie support, etc.
 
-(Unless otherwise noted, you cannot choose the same ability twice, even if you
-get it from both your type and a flavor.)
+(A moins que ce ne soit noté, vous ne pouvez pas choisir la même aptitude deux
+fois, même si vous pouvez l'obtenir de votre type et de votre saveur.)
 
-# ABILITY CATEGORIES AND RELATIVE POWER
+# CATÉGORIES D'APTITUDES ET POUVOIR RELATIF
 
-Abilities can be divided into several categories based on the kinds of things
-they do—improve your physical attacks, assist allies, provide defense, give you
-a special attack form, and so on. Under each of the following category
-descriptions is a list of abilities that fit that category, sorted into low-,
-medium-, and high-tier abilities.
+Les aptitudes peuvent être divisées en plusieurs catégories selon ce qu'elles
+font—améliorer vos attaques physiques, assister les alliés, donner des défenses,
+fournir une forme d'attaque spéciale, etc. Sous la description de la catégorie
+se trouve une liste d'aptitudes qui appartiennent à cette catégorie, triés par
+aptitude de rang bas, moyen et haut.
 
-The categories are mainly used by GMs when designing new foci for a campaign,
-allowing them to search a short list of abilities instead of trying to find
-something appropriate among the thousand or so abilities in this chapter. For
-example, the GM might have a custom focus in their campaign called “Is Born of
-the Swamp” and want a defensive ability for tier 5, so they can look at the
-high-tier abilities in the protection category and quickly narrow down what
-options are available.
+Ces catégories sont surtout utilisées par les MJ qui veulent construire de
+nouveaux focus pour une campagne, en leur permettant de chercher dans une courte
+liste au lieu de trouver quelque chose d'approprié dans le millier d'aptitudes
+de ce chapitre. Par exemple le MJ peut avoir un focus personnalisé dans leur
+campagne qui s'appelle "Est né dans le marais" et veut une aptitude défensive
+pour le rang 5, donc il peut regarder dans les aptitudes de haut rang de la
+catégorie protection et avoir rapidement une liste des options possibles.
 
-(It may be possible that a character gains the same ability from more than one
-source (such as from their type and their descriptor). Unless the two abilities
-are obviously additive (such as two abilities that each add 3 points to your
-Might Pool, which together would give the character +6 Might points), the
-duplicated ability might be improved in some way, such as having a longer
-duration or greater effect, or automatically providing an asset. Some abilities
-give suggestions on how to do this; otherwise, the player and the GM should work
-out whether and how the ability is improved.)
+(Il est possible qu'un personnage gagne la même aptitude de plus d'une source
+(comme son type et son descripteur). A moins que les deux catégories ne soient
+évidemment additives (comme deux aptitudes qui donnent chacune 3 points à la
+Réserve de Puissance, qui ensemble donnent au personnage +6 points de
+Puissance), l'aptitude dupliquée peut être améliorée d'une manière ou d'une
+autre, par exemple avec une durée plus longue ou un effet plus fort, ou en
+mettant un atout automatique. Certaines aptitudes suggèrent un moyen de le faire
+; sinon, le joueur et le MJ doivent travailler ensemble pour voir comment
+l'aptitude est améliorée.)
 
-The ability categories are not intended to be rigid or comprehensive. Some
-abilities fall into more than one category, and it could be argued that some
-abilities could be included in more categories than are listed here.
+Les catégories d'aptitudes ne sont pas prévues pour être rigides ou exhaustives.
+Certaines aptitudes sont dans plusieurs catégories, et on pourrait argumenter
+que certaines aptitudes pourraient être incluses dans plus de catégories qu'il
+n'est indiqué ici.
 
-These categories have some overlap with the categories in the Focus chapter. For
-example, there is a support category here and a support category in the Focus
-chapter. They aren’t intended to be exact parallels and they don’t mean exactly
-the same thing. That said, if you’re creating a support-centric focus, many of
-the abilities in the support ability category would be appropriate choices.
+Ces catégories ont un recouvrement avec les catégories dans le chapitre des
+Focus. Par exemple, il y a une catégorie support ici et une catégorie support
+dans le chapitre Focus. Ils ne sont pas prévus pour être des parallèles
+parfaits, et ils ne veulent pas dire exactement la même chose. Ceci dit, si vous
+créez un focus axé sur le support, beaucoup d'aptitudes de la catégorie support
+seraient des choix appropriés.
 
-# ATTACK SKILL
+# COMPÉTENCE D'ATTAQUE
 
-Gives you training or specialization in a specific physical attack (like swords
-or unarmed combat), a category of physical attacks (light bladed, heavy bashing,
-and so on), or another physical skill primarily used to inflict harm (such as
-breaking objects).
+Vous donne un Entrainement ou une Spécialisation dans un attaque physique
+spécifique (comme les épées ou le combat sans arme), une catégorie d'attaque
+physique (lame légère, masse lourde, etc), ou une autre compétence physique
+principalement utilisée pour faire mal (comme pour détruire des objets).
 
-**Low Tier:**
+**Rang Bas : **
 - [Heads-Up Display](Abilities/Heads-Up%20Display.md)
 - [Practiced With Guns](Abilities/Practiced%20With%20Guns.md)
 - - [Pratique des armes
@@ -70,7 +75,7 @@ breaking objects).
 - [Quarry](Abilities/Quarry.md)
 - [Unarmed Fighting Style](Abilities/Unarmed%20Fighting%20Style.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Blood Fever](Abilities/Blood%20Fever.md)
 - [Cognizant Offense](Abilities/Cognizant%20Offense.md)
 - [Greater Skill With Defense](Abilities/Greater%20Skill%20With%20Defense.md)
@@ -83,7 +88,7 @@ breaking objects).
 - [Sniper’s Aim](Abilities/Sniper’s%20Aim.md)
 - [Specialized Throwing](Abilities/Specialized%20Throwing.md)
 
-**High Tier:**
+**Rang Haut : **
 - [As Foretold in Prophecy](Abilities/As%20Foretold%20in%20Prophecy.md)
 - [Duel to the Death](Abilities/Duel%20to%20the%20Death.md)
 - [Greater Skill With Attacks](Abilities/Greater%20Skill%20With%20Attacks.md)
@@ -93,14 +98,14 @@ breaking objects).
 - [Succès amélioré](../Abilities/Improved%20Success.md)
 - [Specialized Basher](Abilities/Specialized%20Basher.md)
 
-# COMPANION
+# COMPAGNON
 
-Gives you a follower, modifies a follower, or gives you an additional benefit
-when interacting with or near your follower. This category includes humanoid
-followers, beast companions, and temporary companions like summoned swarms,
-conjured spirits, and so on.
+Vous donne un disciple, modifie le disciple ou vous donner des avantages quand
+vous interagissez ou êtes proches de vos disciples. Cette catégorie inclut les
+disciples humanoïdes, les animaux compagnons, et les compagnons temporaires
+comme les essaims d'insecte, les esprits conjurés, etc.
 
-**Low Tier:**
+**Rang Bas : **
 - - [Suivant de base](../Abilities/Basic%20Follower.md)
 - [Beast Companion](Abilities/Beast%20Companion.md)
 - [Bound Magic Creature](Abilities/Bound%20Magic%20Creature.md)
@@ -115,7 +120,7 @@ conjured spirits, and so on.
 - [Serv-0](Abilities/Serv-0.md)
 - [Spirit Accomplice](Abilities/Spirit%20Accomplice.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Beast Eyes](Abilities/Beast%20Eyes.md)
 - [Call Swarm](Abilities/Call%20Swarm.md)
 - - [Disciple expert](../Abilities/Expert%20Follower.md)
@@ -135,7 +140,7 @@ conjured spirits, and so on.
 - [Time Doppelganger](Abilities/Time%20Doppelganger.md)
 - [Time Loop](Abilities/Time%20Loop.md)
 
-**High Tier:**
+**Rang Haut : **
 - [As If One Creature](Abilities/As%20If%20One%20Creature.md)
 - [Band of Desperados](Abilities/Band%20of%20Desperados.md)
 - [Band of Followers](Abilities/Band%20of%20Followers.md)
@@ -168,7 +173,7 @@ Controls or influences minds in ways outside of what could be done with
 conventional intimidation and persuasion, such as using psychic mind control,
 fear gas, and so on.
 
-**Low Tier:**
+**Rang Bas : **
 - - [Calmer un Etranger](../Abilities/Calm%20Stranger.md)
 - [Charm Machine](Abilities/Charm%20Machine.md)
 - [Cloud Personal Memories](Abilities/Cloud%20Personal%20Memories.md)
@@ -180,7 +185,7 @@ fear gas, and so on.
 - [Soothe the Savage](Abilities/Soothe%20the%20Savage.md)
 - - [Présence terrifiante](../Abilities/Terrifying%20Presence.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Calm](Abilities/Calm.md)
 - [Captivate or Inspire](Abilities/Captivate%20or%20Inspire.md)
 - [Captivate With Starshine](Abilities/Captivate%20With%20Starshine.md)
@@ -194,7 +199,7 @@ fear gas, and so on.
 - [Mind Control](Abilities/Mind%20Control.md)
 - [Psychic Suggestion](Abilities/Psychic%20Suggestion.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Advanced Command](Abilities/Advanced%20Command.md)
 - - [Assumer le contrôle](../Abilities/Assume%20Control.md)
 - [Brainwashing](Abilities/Brainwashing.md)
@@ -215,7 +220,7 @@ limited-use devices (manifest cyphers, artifacts), or independent beings
 (robots, elementals, zombies). Includes blueprints, plans, and effects that aid
 or speed crafting.
 
-**Low Tier:**
+**Rang Bas : **
 - [Create Deadly Poison](Abilities/Create%20Deadly%20Poison.md)
 - [Fortification Builder](Abilities/Fortification%20Builder.md)
 - [Junkmonger](Abilities/Junkmonger.md)
@@ -227,7 +232,7 @@ or speed crafting.
 - [Trapster](Abilities/Trapster.md)
 - [Weapon Crafter](Abilities/Weapon%20Crafter.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Dream Becomes Reality](Abilities/Dream%20Becomes%20Reality.md)
 - [Expert Crafter](Abilities/Expert%20Crafter.md)
 - [Ice Creation](Abilities/Ice%20Creation.md)
@@ -235,7 +240,7 @@ or speed crafting.
 - [Robot Upgrade](Abilities/Robot%20Upgrade.md)
 - [Sculpt Light](Abilities/Sculpt%20Light.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Create](Abilities/Create.md)
 - [Dark Matter Structure](Abilities/Dark%20Matter%20Structure.md)
 - [Improved Sculpt Light](Abilities/Improved%20Sculpt%20Light.md)
@@ -250,7 +255,7 @@ Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or
 otherwise gives immunity to a harmful effect or condition, such as poison,
 disease, mental attacks, moving down on the damage track, or dying.
 
-**Low Tier:**
+**Rang Bas : **
 - [Alleviate](Abilities/Alleviate.md)
 - [Crystalline Body](Abilities/Crystalline%20Body.md)
 - [Destined for Greatness](Abilities/Destined%20for%20Greatness.md)
@@ -275,7 +280,7 @@ disease, mental attacks, moving down on the damage track, or dying.
 - [Water Adaptation](Abilities/Water%20Adaptation.md)
 - [Will of Legend](Abilities/Will%20of%20Legend.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Aquatic Combatant](Abilities/Aquatic%20Combatant.md)
 - [Biomorphic Healing](Abilities/Biomorphic%20Healing.md)
 - [Damage Transference](Abilities/Damage%20Transference.md)
@@ -300,7 +305,7 @@ disease, mental attacks, moving down on the damage track, or dying.
 - [Wilderness Encouragement](Abilities/Wilderness%20Encouragement.md)
 - [Willing Sacrifice](Abilities/Willing%20Sacrifice.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Deep Reserves](Abilities/Deep%20Reserves.md)
 - [Final Defiance](Abilities/Final%20Defiance.md)
 - - [Libre de se déplacer](../Abilities/Free%20To%20Move.md)
@@ -328,7 +333,7 @@ disease, mental attacks, moving down on the damage track, or dying.
 Manipulates the environment or things in the environment, such as with
 telekinesis, weather control, gravity control, illusions, and so on.
 
-**Low Tier:**
+**Rang Bas : **
 - [Create Water](Abilities/Create%20Water.md)
 - [Dreamcraft](Abilities/Dreamcraft.md)
 - [Fetch](Abilities/Fetch.md)
@@ -346,7 +351,7 @@ telekinesis, weather control, gravity control, illusions, and so on.
 - [Telekinesis](Abilities/Telekinesis.md)
 - [Wilderness Explorer](Abilities/Wilderness%20Explorer.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Daydream](Abilities/Daydream.md)
 - [Define Down](Abilities/Define%20Down.md)
 - [Field of Gravity](Abilities/Field%20of%20Gravity.md)
@@ -382,7 +387,7 @@ Gives the ability to learn information about something, whether chosen by the GM
 like Scan, by asking a question and the GM giving the answer, or by learning a
 language.
 
-**Low Tier:**
+**Rang Bas : **
 - - [Babel](../Abilities/Babel.md)
 - [Communication](Abilities/Communication.md)
 - [Community Knowledge](Abilities/Community%20Knowledge.md)
@@ -404,7 +409,7 @@ language.
 - [Speaker for the Dead](Abilities/Speaker%20for%20the%20Dead.md)
 - [Telepathic](Abilities/Telepathic.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Creature Insight](Abilities/Creature%20Insight.md)
 - [Device Insight](Abilities/Device%20Insight.md)
 - [Draw Conclusion](Abilities/Draw%20Conclusion.md)
@@ -420,7 +425,7 @@ language.
 - [Spot Weakness](Abilities/Spot%20Weakness.md)
 - [Wilderness Awareness](Abilities/Wilderness%20Awareness.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Deep Consideration](Abilities/Deep%20Consideration.md)
 - [Drawing on Life’s
   Experiences](Abilities/Drawing%20on%20Life’s%20Experiences.md)
@@ -437,7 +442,7 @@ increasing range or, damage, easing the difficulty, giving you additional
 noncombat actions each turn, rerolling a failed attempt, or treating a number on
 the die as something different than normal.
 
-**Low Tier:**
+**Rang Bas : **
 - [A Smile and a Word](Abilities/A%20Smile%20and%20a%20Word.md)
 - [Arcane Flare](Abilities/Arcane%20Flare.md)
 - [Artifact Tinkerer](Abilities/Artifact%20Tinkerer.md)
@@ -486,7 +491,7 @@ the die as something different than normal.
 - [Weapon Master](Abilities/Weapon%20Master.md)
 - - [Défoncer](../Abilities/Wreck.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Dur comme du Bois](../Abilities/Tough%20As%20Nails.md)
 - [Betrayal](Abilities/Betrayal.md)
 - [Better Living Through
@@ -574,7 +579,7 @@ the die as something different than normal.
 - [Willing Sacrifice](Abilities/Willing%20Sacrifice.md)
 - - [Extraire du hasard](../Abilities/Wrest%20From%20Chance.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Arme et corps](../Abilities/Weapon%20And%20Body.md)
 - [Agile Wit](Abilities/Agile%20Wit.md)
@@ -648,7 +653,7 @@ Increases your movement (such as increasing your basic movement speed from short
 to long) or adds a new type of movement (such as flight, wallcrawling, phasing,
 or teleporting).
 
-**Low Tier:**
+**Rang Bas : **
 - [Bolt Rider](Abilities/Bolt%20Rider.md)
 - [Contortionist](Abilities/Contortionist.md)
 - - [Instinct de Danger](../Abilities/Danger%20Instinct.md)
@@ -659,7 +664,7 @@ or teleporting).
 - [Void Wings](Abilities/Void%20Wings.md)
 - [Walk Through Walls](Abilities/Walk%20Through%20Walls.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Apportation](Abilities/Apportation.md)
 - [Blink of an Eye](Abilities/Blink%20of%20an%20Eye.md)
 - [Bypass Barrier](Abilities/Bypass%20Barrier.md)
@@ -676,7 +681,7 @@ or teleporting).
 - [Wings of Fire](Abilities/Wings%20of%20Fire.md)
 - [Wormhole](Abilities/Wormhole.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Alley Rat](Abilities/Alley%20Rat.md)
 - [Blurring Speed](Abilities/Blurring%20Speed.md)
 - [Chamber of Dreams](Abilities/Chamber%20of%20Dreams.md)
@@ -706,7 +711,7 @@ Gives training or specialization in one or more types of combat defenses (Might,
 Speed, or Intellect), provides or increases Armor, or otherwise helps prevent
 damage.
 
-**Low Tier:**
+**Rang Bas : **
 - [Absorb Kinetic Energy](Abilities/Absorb%20Kinetic%20Energy.md)
 - - [Bloquer](../Abilities/Block.md)
 - [Closed Mind](Abilities/Closed%20Mind.md)
@@ -759,7 +764,7 @@ damage.
 - [Weather the Vicissitudes](Abilities/Weather%20the%20Vicissitudes.md)
 - [Wind Armor](Abilities/Wind%20Armor.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Absorb Pure Energy](Abilities/Absorb%20Pure%20Energy.md)
 - - [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
 - [Blood Fever](Abilities/Blood%20Fever.md)
@@ -808,7 +813,7 @@ damage.
 - [Visée mortelle](../Abilities/Deadly%20Aim.md)
 - [Wraith Cloak](Abilities/Wraith%20Cloak.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Defense Master](Abilities/Defense%20Master.md)
 - [Defensive Augmentation](Abilities/Defensive%20Augmentation.md)
 - [Defensive Field](Abilities/Defensive%20Field.md)
@@ -841,7 +846,7 @@ Enhances your senses (seeing in the dark, seeing underwater or through mist,
 sensing danger, finding optimal places to stand in combat, and so on), but
 doesn’t provide direct answers to questions like an information ability does.
 
-**Low Tier:**
+**Rang Bas : **
 - [Eyes Adjusted](Abilities/Eyes%20Adjusted.md)
 - [Familiarize](Abilities/Familiarize.md)
 - [Find an Opening](Abilities/Find%20an%20Opening.md)
@@ -855,7 +860,7 @@ doesn’t provide direct answers to questions like an information ability does.
 - [Share Senses](Abilities/Share%20Senses.md)
 - [Third Eye](Abilities/Third%20Eye.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Animal Senses and
   Sensibilities](Abilities/Animal%20Senses%20and%20Sensibilities.md)
 - [Awareness](Abilities/Awareness.md)
@@ -873,7 +878,7 @@ doesn’t provide direct answers to questions like an information ability does.
 - - [Trouver les Pièges](../Abilities/Trapfinder.md)
 - [Use Senses of Others](Abilities/Use%20Senses%20of%20Others.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Amplify Sounds](Abilities/Amplify%20Sounds.md)
 - [Battlefield Tactician](Abilities/Battlefield%20Tactician.md)
 - [Dark Explorer](Abilities/Dark%20Explorer.md)
@@ -887,7 +892,7 @@ doesn’t provide direct answers to questions like an information ability does.
 Gives you an indirect social benefit, such as providing a useful contact in a
 city or letting you take advantage of your social status.
 
-**Low Tier:**
+**Rang Bas : **
 - [Connected](Abilities/Connected.md)
 - [Debate](Abilities/Debate.md)
 - - [Attitude de commandement](../Abilities/Demeanor%20Of%20Command.md)
@@ -900,14 +905,14 @@ city or letting you take advantage of your social status.
 - [Underworld Contacts](Abilities/Underworld%20Contacts.md)
 - - [Trahison inattendue](../Abilities/Unexpected%20Betrayal.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Betrayal](Abilities/Betrayal.md)
 - [Flamboyant Boast](Abilities/Flamboyant%20Boast.md)
 - [Informer](Abilities/Informer.md)
 - - [Talent Oratoire](../Abilities/Oratory.md)
 - [Perfect Stranger](Abilities/Perfect%20Stranger.md)
 
-**High Tier:**
+**Rang Haut : **
 - - [Amitié de groupe](../Abilities/Group%20Friendship.md)
 
 # SPECIAL ATTACK
@@ -917,7 +922,7 @@ blast, psychic, and so on). The attack might do damage, have a special effect
 (disarm, hinder, move the target, and so on), or both. This also includes
 abilities like Spray that let you attack multiple targets as your action.
 
-**Low Tier:**
+**Rang Bas : **
 - [Advantage to Disadvantage](Abilities/Advantage%20to%20Disadvantage.md)
 - [Aggression](Abilities/Aggression.md)
 - [Arcane Flare](Abilities/Arcane%20Flare.md)
@@ -967,7 +972,7 @@ abilities like Spray that let you attack multiple targets as your action.
 - [Thunder Beam](Abilities/Thunder%20Beam.md)
 - [Weighty](Abilities/Weighty.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Acrobatic Attack](Abilities/Acrobatic%20Attack.md)
 - [Ambusher](Abilities/Ambusher.md)
 - [Answering Attack](Abilities/Answering%20Attack.md)
@@ -1032,7 +1037,7 @@ abilities like Spray that let you attack multiple targets as your action.
 - [Throw Force Shield](Abilities/Throw%20Force%20Shield.md)
 - [Vigilance](../Abilities/Vigilance.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Absorb Energy](Abilities/Absorb%20Energy.md)
 - [Maîtrise de la défense](../Abilities/Mastery%20With%20Defense.md)
 - [Assassin Strike](Abilities/Assassin%20Strike.md)
@@ -1101,7 +1106,7 @@ abilities like Spray that let you attack multiple targets as your action.
 Gives some sort of benefit to an ally rather than yourself, such as an extra
 action or an asset on their roll.
 
-**Low Tier:**
+**Rang Bas : **
 - [Advice From a Friend](Abilities/Advice%20From%20a%20Friend.md)
 - - [Anecdote](../Abilities/Anecdote.md)
 - [Attack Flourish](Abilities/Attack%20Flourish.md)
@@ -1121,7 +1126,7 @@ action or an asset on their roll.
 - [Sculpt Flesh](Abilities/Sculpt%20Flesh.md)
 - [Teamwork](Abilities/Teamwork.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - - [Accélérer](../Abilities/Up%20To%20Speed.md)
 - [Applying Your Knowledge](Abilities/Applying%20Your%20Knowledge.md)
 - [Buddy System](Abilities/Buddy%20System.md)
@@ -1137,7 +1142,7 @@ action or an asset on their roll.
 - - [Prendre le commandement](../Abilities/Take%20Command.md)
 - [True Guardian](Abilities/True%20Guardian.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Able Assistance](Abilities/Able%20Assistance.md)
 - - [Gestion de bataille](../Abilities/Battle%20Management.md)
 - [Block for Another](Abilities/Block%20for%20Another.md)
@@ -1163,7 +1168,7 @@ action or an asset on their roll.
 Gives training, specialization, or an asset in one or more noncombat skills
 (climbing, healing, computers, initiative, and so on).
 
-**Low Tier:**
+**Rang Bas : **
 - [Advantages of Being Big](Abilities/Advantages%20of%20Being%20Big.md)
 - [Anticipation](Abilities/Anticipation.md)
 - [Assassin Skills](Abilities/Assassin%20Skills.md)
@@ -1280,7 +1285,7 @@ Gives training, specialization, or an asset in one or more noncombat skills
 - [Wound Tender](Abilities/Wound%20Tender.md)
 - [Zero Dark Eyes](Abilities/Zero%20Dark%20Eyes.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Action Processor](Abilities/Action%20Processor.md)
 - [Agent Provocateur](Abilities/Agent%20Provocateur.md)
 - [Animal Senses and
@@ -1330,7 +1335,7 @@ Gives training, specialization, or an asset in one or more noncombat skills
 - [Verbal Misdirection](Abilities/Verbal%20Misdirection.md)
 - [You Studied](Abilities/You%20Studied.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Amplify Sounds](Abilities/Amplify%20Sounds.md)
 - [As Foretold in Prophecy](Abilities/As%20Foretold%20in%20Prophecy.md)
 - [Coordinated Effort](Abilities/Coordinated%20Effort.md)
@@ -1358,7 +1363,7 @@ A significant change that temporarily enhances you, such as growing bigger,
 turning into a werewolf, and so on. Also includes apparent transformations like
 disguises and invisibility.
 
-**Low Tier:**
+**Rang Bas : **
 - [Beast Form](Abilities/Beast%20Form.md)
 - [Bigger](Abilities/Bigger.md)
 - [Controlled Change](Abilities/Controlled%20Change.md)
@@ -1370,7 +1375,7 @@ disguises and invisibility.
 - - [Changement d'Identité](../Abilities/Spin%20Identity.md)
 - [Vanish](Abilities/Vanish.md)
 
-**Mid Tier:**
+**Rang Moyen : **
 - [Bigger Beast Form](Abilities/Bigger%20Beast%20Form.md)
 - - [Se fondre dans le décor](../Abilities/Blend%20In.md)
 - [Evanesce](Abilities/Evanesce.md)
@@ -1380,7 +1385,7 @@ disguises and invisibility.
 - [Invisible Phasing](Abilities/Invisible%20Phasing.md)
 - [Moon Shape](Abilities/Moon%20Shape.md)
 
-**High Tier:**
+**Rang Haut : **
 - [Colossal](Abilities/Colossal.md)
 - [Command Metal](Abilities/Command%20Metal.md)
 - [Disappear](Abilities/Disappear.md)
