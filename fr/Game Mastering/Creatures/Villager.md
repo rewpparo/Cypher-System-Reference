@@ -1,1 +1,1 @@
-Villager #lvl1 (3) #Creature #Core #Fantasy
+Villageois #lvl1 (3) #Creature #Core #Fantasy
