@@ -1,11 +1,12 @@
-Obstacle Running (3 Speed points) #Ability #MovementAbility #Mid #Core
+Course d'obstacles (3 Points de Célérité) #Ability #MovementAbility #Mid #Core
 
-For the next minute, you can ignore obstacles that slow your movement, allowing
-you to travel at normal speed through areas with rubble, fences, tables, and
-similar objects that you would have to climb over or move around. This movement
-might include sliding on a railing, briefly running along a wall, or even
-stepping on a creature to boost yourself over something. If an obstacle would
-normally require a Might or Speed task to overcome, such as swinging on a rope,
-balancing on a rope, or jumping over a hole, you are trained in that task.
+Pendant la prochaine minute, vous ignorez tous les obstacles qui pourraient vous
+ralentir, ce qui vous permet de vous mouvoir à une vitesse normale dans les
+zones avec des débris, des barrières, des tables, ou des objets similaires que
+vous auriez du grimper ou contourner. Ce mouvement peut inclure glissez sur une
+rambarde, courir rapidement le long du mur, ou même marcher sur une créature
+pour vous lancer sur quelque chose. Si un obstacle aurait normalement requis un
+jet de Puissance et de Célérité pour le franchir, comme se balancer au bout
+d'une corde, vous êtes entrainé pour cette tâche.
 
 Facilitateur.
