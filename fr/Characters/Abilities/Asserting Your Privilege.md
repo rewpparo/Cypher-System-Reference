@@ -1,9 +1,10 @@
-Asserting Your Privilege (3 Intellect points) #Ability #SpecialAttackAbility
+Affirmer votre privilège (3 points d'Intellect) #Ability #SpecialAttackAbility
 #High #Core
 
-Acting as only a privileged person can, you verbally harangue a foe who can hear
-and understand you so forcefully that they are unable to take any action,
-including attacks, for one round. Whether you succeed or fail, the next action
-the target takes is hindered.
+Agissant comme seule une personne privilégiée peut le faire, vous haranguez
+verbalement un ennemi qui peut vous entendre et vous comprendre avec une telle
+force qu'il est incapable d'entreprendre la moindre action, y compris
+d'attaquer, pendant un round. Que vous réussissiez ou échouiez, la prochaine
+action entreprise par la cible est entravée.
 
 Action.
