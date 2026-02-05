@@ -1,13 +1,14 @@
-Phased Pocket (2+ Intellect points) #Ability #TransformAbility #Low #Core
+Poche Déphasée (2+ points d'Intellect) #Ability #TransformAbility #Low #Core
 
-You connect yourself for one hour to a small space that is out of phase and
-moves with you. You can access this space as if it were a convenient pocket or
-bag, but nobody else can perceive or access the space unless they have the
-ability to interact with transdimensional areas. The space can hold up to 1
-cubic foot. The space is a part of you, so you can’t use it to carry more
-cyphers than your limit, a detonation cypher activated inside the space harms
-you, and so on. When the connection ends, anything in the space falls out. For
-each 2 additional Intellect points you spend, the pocket lasts an additional
-hour.
+Vous vous connectez pendant une heure à un espace qui est déphasé et se déplace
+avec vous. Vous pouvez accéder à cet espace comme si c'était une poche ou un sac
+pratique, mais personne d'autre ne peut le percevoir ou accéder à cet espace à
+moins d'avoir la capacité d'interagir avec les espaces transdimensionnels. Cet
+espace peut contenir 30 cm cube. Cet espace fait partie de vous, donc vous ne
+pouvez pas l'utiliser pour porter plus de cyphers que votre limite, et un cypher
+de détonation activé à l'intérieur vous atteint, etc. Quand la connexion se
+termine, tout ce que l'espace contenait tombe par terre. Pour chaque 2 points
+d'Intellect supplémentaires que vous dépensez, la poche dure une heure
+supplémentaire.
 
 Facilitateur.
