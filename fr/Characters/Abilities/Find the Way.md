@@ -1,8 +1,8 @@
-Find the Way #Ability #MetaAbility #Low #Core
+Trouver le chemin #Ability #MetaAbility #Low #Core
 
-When you apply Effort to a navigation task because you don’t know the way, are
-lost, are attempting to blaze a new route, need to choose between two or more
-otherwise similar paths to take, or something very similar, you can apply a free
-level of Effort.
+Quand vous mettez de l'Effort dans une tâche de navigation parce que vous ne
+connaissez pas le chemin, êtes perdu, tentez de tracer une nouvelle route, avez
+besoin de choisir entre deux chemins similaires, ou quelque chose d'équivalent,
+vous avec un niveau d'effort gratuit.
 
 Facilitateur.
