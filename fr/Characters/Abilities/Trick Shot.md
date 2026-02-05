@@ -1,7 +1,8 @@
-Trick Shot (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Une pierre, deux coups (2 points de Célérité) #Ability #SpecialAttackAbility
+#Mid #Core
 
-As part of the same action, you make a ranged attack against two targets that
-are within immediate range of each other. Make a separate attack roll against
-each target. The attack rolls are hindered.
+Dans la même action, vous faites une attaque à distance contre deux cibles qui
+sont à portée immédiate l'une de l'autre. Faites un jet séparé pour chaque
+cible. Les jets sont gênés.
 
 Action.
