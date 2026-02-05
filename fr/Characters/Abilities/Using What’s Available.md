@@ -1,4 +1,5 @@
-Using What’s Available (4 Intellect points) #Ability #MetaAbility #High #Core
+Utilisation de ce qui est disponible (4 points Intellect) #Ability #MetaAbility
+#High #Core
 
 If you have the time and the freedom to scrounge for everyday materials in your
 environment, you can fashion a temporary asset that will aid you once to
