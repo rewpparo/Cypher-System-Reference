@@ -1,6 +1,6 @@
-Surging Confidence (1 Might point) #Ability #CureAbility #Low #Core
+Regain de confiance (1 point de Puissance) #Ability #CureAbility #Low #Core
 
-When you use an action to make your first recovery roll of the day, you
-immediately gain another action.
+Quand vous utilisez une action pour faire votre premier jet de guérison de la
+journée, vous gagnez immédiatement une autre action.
 
-Enabler.
+Facilitateur.
