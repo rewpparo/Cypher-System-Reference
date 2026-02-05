@@ -1,11 +1,12 @@
-Familiarize #Ability #SensesAbility #Low #Core
+Familiariser #Ability #SensesAbility #Low #Core
 
-You can familiarize yourself with a new area if you spend at least one hour
-studying a region up to a long distance across that you are able to directly
-access and move about in. Once you’ve familiarized yourself with an area, all
-your tasks related to perception, navigation, salvaging and scavenging, defense,
-and moving about the area gain an asset. Each time you familiarize yourself with
-a new area, you lose focus on a previous area unless you spend 1 XP to retain
-the familiarity permanently.
+Vous vous familiarisez avec une nouvelle zone si vous passer au moins une heure
+à étudier la région jusqu’à une distance longue à laquelle vous pouvez accéder
+et dans laquelle vous pouvez vous déplacer. Une fois familiarisé avec une zone,
+vos tâches liées à la perception, la navigation, la récupération et le
+recyclage, la défense, et vous déplacer dans la zone gagnent un atout. Chaque
+fois que vous vous familiarisez avec une zone, vous perdez la concentration sur
+la zone précédente à moins de dépenser 1 XP pour garder cette familiarité de
+manière permanente.
 
-Action to initiate, one hour to complete.
+Action pour initier, une heure pour terminer.
