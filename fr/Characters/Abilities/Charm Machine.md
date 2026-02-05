@@ -5,4 +5,4 @@ You convince an unintelligent machine to “like” you. A machine that likes yo
 if a foe attempts to detonate a bomb near you controlled by a detonator that
 likes you, there is a 50 percent chance that it won’t explode.
 
-Action to initiate.
+Action pour initier.
