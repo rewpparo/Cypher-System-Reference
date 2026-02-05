@@ -1,4 +1,4 @@
-Divisez votre esprit (7 points Intellect) #Ability #MetaAbility #High #Core
+Divisez votre esprit (7 points d'Intellect) #Ability #MetaAbility #High #Core
 
 You split your consciousness into two parts. For one minute, you can take two
 actions on each of your turns, but only one of them can be to use a special
