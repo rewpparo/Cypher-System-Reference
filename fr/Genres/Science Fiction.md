@@ -1,4 +1,4 @@
-## Setting
+## Univers
 
 Science fiction is an incredibly broad category. It covers UFOs, space opera,
 near-future dystopias, otherworldly epics, hard science fiction, and everything
