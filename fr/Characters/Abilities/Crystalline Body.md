@@ -12,4 +12,4 @@ each day; you do not have a ten-minute recovery roll available. Any ability you
 have that requires a ten-minute recovery roll instead requires a one-hour
 recovery roll.
 
-Enabler.
+Facilitateur.
