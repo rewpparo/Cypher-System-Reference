@@ -6,4 +6,4 @@ is eased by two steps. Once you use Unexpected Betrayal on a target, using your
 abilities or attempting simple persuasion on that target is permanently hindered
 by two steps.
 
-Enabler.
+Facilitateur.
