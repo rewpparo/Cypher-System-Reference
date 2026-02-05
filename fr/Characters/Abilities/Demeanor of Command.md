@@ -1,12 +1,13 @@
-Demeanor of Command (2 Intellect points) #Ability #SocialAbility #Low #Core
+Attitude de commandement (2 points d'Intellect) #Ability #SocialAbility #Low
+#Core
 
-You project confidence, knowledge, and charisma to all who see you for the next
-hour. Your demeanor is such that those who see you automatically understand that
-you are someone important, accomplished, and with authority. When you speak,
-strangers who are not already attacking give you at least a round to have your
-say. If speaking to a group that can understand you, you can attempt to have
-them produce their leader or ask that they take you to their leader. You gain a
-free level of Effort that can be applied to one persuasion task you attempt
-during this period.
+Vous projetez la confiance, la connaissance, et le charisme à tous ceux qui
+peuvent vous voir pendant la prochaine heure. Votre attitude est telle que ceux
+qui vous voient comprennent automatiquement que vous êtes quelqu'un d'important,
+d'accompli, et avec de l'autorité. Quand vous parlez, les étrangers qui ne sont
+pas déjà en train d'attaquer vous donneront un round pour dire ce que vous avez
+à dire. Si vous parlez à un groupe qui peut vous comprendre, vous pouvez parler
+à leur chef ou les faire vous amener à leur chef. Vous avez un niveau d'effort
+gratuit sur une tâche de persuasion pendant cette période.
 
-Action to initiate.
+Action pour initier.
