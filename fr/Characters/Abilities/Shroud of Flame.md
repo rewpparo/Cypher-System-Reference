@@ -6,4 +6,4 @@ damage to anyone who tries to touch you or strike you with a melee attack.
 Flames from another source can still hurt you. While the shroud is active, you
 gain +2 Armor against damage from fire from another source.
 
-Enabler.
+Facilitateur.
