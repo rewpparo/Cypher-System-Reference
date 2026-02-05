@@ -1,8 +1,8 @@
-Feint (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Feinte (2 points de Célérité) #Ability #SpecialAttackAbility #Mid #Core
 
-If you use one action creating a misdirection or diversion, in the next round
-you can take advantage of your opponent’s lowered defenses. Make a melee attack
-roll against that opponent. You gain an asset on this attack. If your attack is
-successful, it inflicts 4 additional points of damage.
+Si vous utilisez une action pour rediriger ou faire diversion, dans le round
+suivant vous tirez avantage des défenses affaiblies de votre adversaire. Faites
+un jet d'attaque contre cet adversaire. Vous avez un atout sur cette attaque. Si
+votre attaque réussit, elle inflige 4 points de dégâts supplémentaires.
 
 Action.
