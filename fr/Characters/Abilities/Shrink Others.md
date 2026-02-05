@@ -6,4 +6,4 @@ affect more targets; each level of Effort affects one additional target. Unless
 these creatures have an ability to change their size, they remain small until
 the one-minute duration of Shrink ends for them.
 
-Enabler.
+Facilitateur.
