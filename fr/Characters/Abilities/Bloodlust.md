@@ -1,7 +1,7 @@
-Bloodlust (3 Might points) #Ability #SpecialAttackAbility #Low #Core
+Soif de sang (3 points de Puissance) #Ability #SpecialAttackAbility #Low #Core
 
-If you take down a foe, you can move a short distance, but only if you move
-toward another foe. You don’t need to spend the points until you know that the
-first foe is down.
+Si vous tombez un ennemi, vous pouvez vous déplacer d'une distance courte, mais
+uniquement pour vous diriger vers un autre ennemi. Vous n'avez pas besoin de
+dépenser les points avant de savoir que le premier ennemi est vaincu.
 
 Facilitateur.
