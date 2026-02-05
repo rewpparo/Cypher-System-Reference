@@ -9,4 +9,4 @@ your desire, you gain an asset on all tasks related to persuasion if that person
 recognizes you or is convinced that you’re a celebrity even if they don’t
 recognize you.
 
-Enabler.
+Facilitateur.
