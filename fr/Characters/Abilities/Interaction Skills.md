@@ -1,4 +1,4 @@
-Interaction Skills #Ability #TaskAbility #Low #Core
+Compétences interaction #Abilité #TaskAbility #Low #Core
 
 You are trained in two skills in which you are not already trained. Choose two
 of the following: deceiving, persuading, public speaking, seeing through
