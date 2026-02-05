@@ -1,4 +1,4 @@
-Band of Desperados #Ability #CompanionAbility #High #Core
+Bande de Desperados #Ability #CompanionAbility #High #Core
 
 Your reputation draws a band of six level 2 desperado NPC followers who are
 completely devoted to you. You and the GM must work out the details of these
