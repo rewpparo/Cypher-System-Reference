@@ -6,4 +6,4 @@ harmless noise similar to the sound of a wave crashing to shore. This ability
 grants you +1 Armor against all attacks and an additional +2 Armor against
 energy attacks.
 
-Enabler.
+Facilitateur.
