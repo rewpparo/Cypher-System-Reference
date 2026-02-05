@@ -1,7 +1,7 @@
-Slice (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Trancher (2 points de Célérité) #Ability #SpecialAttackAbility #Mid #Core
 
-This is a quick attack with a bladed or pointed weapon that is hard to defend
-against. You are trained in this task. If the attack is successful, it deals 1
-less point of damage than normal.
+Vous faites une attaque rapide avec une arme à lama ou à pointe dont il est
+difficile de se défendre. Vous êtes entrainé dans cette tâche. Si vous
+réussissez l'attaque, elle fait 1 point de dégât de moins que la normale.
 
 Action.
