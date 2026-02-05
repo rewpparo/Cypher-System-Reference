@@ -11,4 +11,4 @@ as if no time had passed. In addition to the normal options for using Effort,
 you can choose to use Effort to increase the duration; each level of Effort used
 in this way adds one round to how long you spend outside reality.
 
-Enabler.
+Facilitateur.
