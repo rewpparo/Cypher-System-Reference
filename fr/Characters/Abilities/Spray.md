@@ -1,12 +1,13 @@
-Spray (2 Speed points) #Ability #SpecialAttackAbility #Mid #Core
+Arroser (2 points de Célérité) #Ability #SpecialAttackAbility #Mid #Core
 
-If a weapon has the ability to fire rapid shots without reloading (usually
-called a rapid-fire weapon, such as a crank crossbow or submachine gun), you can
-spray multiple shots around your target to increase the chance of hitting. This
-ability uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has
-less than the number rolled). You are trained in making this attack. If the
-attack is successful, it deals 1 less point of damage than normal. You can also
-use this ability on multiple thrown weapons (stones, shuriken, daggers, and so
-on) if you‘re carrying them on your person or they are all within reach.
+Si une arme a une capacité de tir rapide sans recharger (souvent appelées armes
+à tir rapide, comme une arbalète à manivelle ou un pistolet mitrailleur), vous
+pouvez arroser de plusieurs tirs votre cible pour augmenter vos chances de
+toucher. Cette aptitude utilise 1d6+1 munition (ou toute les munitions chargées
+dans l'arme s'il y en a moins que ce chiffre. Vous êtes entrainés pour cette
+attaque. Si l'attaque réussit, elle fait 1 point de dégâts de moins que normal.
+Vous pouvez utiliser cette aptitude avec plusieurs armes de jet (pierres,
+shuriken, dagues, etc) si vous les portez sur votre personne ou à portée de
+main.
 
 Action.
