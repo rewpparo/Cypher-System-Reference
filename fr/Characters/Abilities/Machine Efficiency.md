@@ -7,4 +7,4 @@ connection, and so on. You increase an object’s level by 2 for one minute, or
 you treat the object as an asset that eases an associated task by two steps for
 one minute (your choice).
 
-Action to initiate.
+Action pour initier.
