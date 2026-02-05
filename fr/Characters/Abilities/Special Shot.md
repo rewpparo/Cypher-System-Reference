@@ -13,4 +13,4 @@ include (but are not limited to) the following:
 > You can shoot a strap holding a backpack, armor, or a similarly strapped-on
 > item so that it falls off.
 
-Enabler.
+Facilitateur.
