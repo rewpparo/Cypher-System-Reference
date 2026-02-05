@@ -8,4 +8,4 @@ again until after you make a ten-hour recovery roll. (Thief’s Luck doesn’t w
 if you roll a natural 1 for an attempted task, unless you also have and use the
 ability Wrest From Chance.)
 
-Enabler.
+Facilitateur.
