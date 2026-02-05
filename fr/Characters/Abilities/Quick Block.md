@@ -2,4 +2,4 @@ Quick Block #Ability #ProtectionAbility #Low #Core
 
 If you use a light or medium weapon, you are trained in Speed defense tasks.
 
-Enabler.
+Facilitateur.
