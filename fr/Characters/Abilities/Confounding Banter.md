@@ -1,7 +1,8 @@
-Confounding Banter (4 Intellect points) #Ability #ProtectionAbility #Mid #Core
+Plaisanteries Déconcertantes (4 points d'Intellect) #Ability #ProtectionAbility
+#Mid #Core
 
-You spew a stream of nonsense to distract a foe within immediate range. On a
-successful Intellect roll, your defense roll against the creature’s next attack
-before the end of the next round is eased.
+Vous crachez un torrent d'absurdités pour distraire votre ennemi à distance
+immédiate. Sur un jet d'Intellect réussi, votre jet de défense contre la
+prochaine attaque de la créature avant la fin du prochain tour est facilité.
 
 Action.
