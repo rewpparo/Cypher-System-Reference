@@ -1,6 +1,6 @@
-Fury (3 Might points) #Ability #MetaAbility #Mid #Core
+Furie (3 points de Puissance) #Ability #MetaAbility #Mid #Core
 
-For the next minute, all melee attacks you make inflict 2 additional points of
-damage.
+Pendant la prochaine minute, vos attaques en mêlée font 2 points de dégâts
+supplémentaires.
 
-Action to initiate.
+Action pour initier.
