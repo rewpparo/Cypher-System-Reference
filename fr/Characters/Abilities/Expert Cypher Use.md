@@ -1,5 +1,5 @@
-Expert Cypher Use #Ability #MetaAbility #Mid #Core
+Expert dans l'utilisation des cypher #Ability #MetaAbility #Mid #Core
 
-You can bear three cyphers at a time.
+Vous pouvez porter trois cyphers à la fois.
 
 Facilitateur.
