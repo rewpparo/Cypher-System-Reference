@@ -1,7 +1,8 @@
-Find an Opening (1 Intellect point) #Ability #SensesAbility #Low #Core
+Trouver une ouverture (1 point d'Intellect) #Ability #SensesAbility #Low #Core
 
-You use trickery to find an opening in your foe’s defenses. If you succeed on a
-Speed roll against one creature within immediate range, your next attack against
-that creature before the end of the next round is eased.
+Vous utilisez la ruse pour ouvrir les défenses de votre ennemi. Si vous
+réussissez un jet de Célérité contre une créature à distance immédiate, votre
+prochaine attaque contre la créature avant la fin du prochain round est
+facilitée.
 
 Action.
