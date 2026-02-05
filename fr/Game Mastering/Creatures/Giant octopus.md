@@ -1,4 +1,4 @@
-Poulpe géant #lvl5 (15) #Créature #Core #Fantasy
+Poulpe géant #lvl5 (15) #Creature #Core #Fantasy
 
 Health: 25
 
