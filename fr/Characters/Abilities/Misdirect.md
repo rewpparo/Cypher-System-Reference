@@ -1,9 +1,10 @@
-Misdirect (3 Speed points) #Ability #SpecialAttackAbility #Low #Core
+Redirection (3 Points de Célérité) #Ability #SpecialAttackAbility #Low #Core
 
-When an opponent misses you, you can redirect their attack to another target (a
-creature or object) of your choosing that’s within immediate range of you. Make
-an unmodified attack roll against the new target (do not use any of your or the
-opponent’s modifiers to the attack roll, but you can apply Effort for accuracy).
-If the attack hits, the target takes damage from your opponent’s attack.
+Quand un ennemi vous manque, vous pouvez rediriger leur attaque vers une autre
+cible (une créature ou un objet) de votre choix à portée immédiate de vous.
+Faites un jet d'attaque sans modificateur contre votre nouvelle cible
+(n'utilisez pas les modificateurs de votre adversaire sur le jet d'attaque, mais
+vous pouvez mettre de l'effort en précision). Si l'attaque touche, la cible
+prend les dégâts de l'attaque de votre adversaire.
 
 Facilitateur.
