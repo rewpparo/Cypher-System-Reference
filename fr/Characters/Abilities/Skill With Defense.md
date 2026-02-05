@@ -1,6 +1,7 @@
-Skill With Defense #Ability #AttackAbility #Mid #Core
+Doué en défense #Ability #AttackAbility #Mid #Core
 
-Choose one type of defense task in which you are not already trained: Might,
-Speed, or Intellect. You are trained in defense tasks of that type.
+Choisissez un type de tâche de défense pour laquelle vous n’êtes pas déjà
+entrainé : Puissance, Célérité ou Intellect. Vous êtes entrainé dans ce type de
+tâche de défense.
 
-Enabler.
+Facilitateur.
