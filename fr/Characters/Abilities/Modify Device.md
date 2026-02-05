@@ -12,4 +12,4 @@ that each cup of coffee made with it is better, modify a car’s engine so that 
 goes faster (or modify its steering so it handles better), and so on. Each use
 of the modified device requires a depletion roll of 1–5 on a d20.
 
-Action pour initier, une heure pour terminer.
+Action to initiate, one hour to complete.

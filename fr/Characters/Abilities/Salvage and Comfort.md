@@ -11,4 +11,4 @@ as well as the possibility of weapons, clothing, technological artifacts,
 survivors, or other usable items. In other contexts, this ability counts as
 training in tasks related to perception.
 
-Action pour initier, une heure pour terminer.
+Action to initiate, one hour to complete.

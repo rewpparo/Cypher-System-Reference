@@ -6,4 +6,4 @@ on them all the same. The effect lasts for one minute and affects all creatures
 you select within short range. All tasks related to resisting persuasion,
 intimidation, and fear are hindered by two steps for affected targets.
 
-Action à initier.
+Action to initiate.

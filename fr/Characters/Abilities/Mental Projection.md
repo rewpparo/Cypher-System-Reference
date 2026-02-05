@@ -33,4 +33,4 @@ PCs normally don’t have to deal with, run into weather psychic phenomena that
 risks severing their connection, and possibly even become lost on a different
 metaphysical plane.)
 
-Action à initier.
+Action to initiate.

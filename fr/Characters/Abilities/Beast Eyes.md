@@ -5,4 +5,4 @@ By linking to the creature from your [[Beast Companion]] ability, you can
 perceive through its senses if it is within 1 mile (1.5 km) of you. This effect
 lasts up to ten minutes.
 
-Action à établir.
+Action to establish.

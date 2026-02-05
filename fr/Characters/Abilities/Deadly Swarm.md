@@ -12,4 +12,4 @@ telepathically and perceive through their senses.
 (Swarms don’t usually have game stats, but if needed, a typical swarm is level
 2. Only attacks that affect a large area affect the swarm.)
 
-Action à initier.
+Action to initiate.

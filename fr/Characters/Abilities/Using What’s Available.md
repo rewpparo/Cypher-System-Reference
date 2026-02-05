@@ -1,5 +1,4 @@
-Faire avec les moyens du bord (4 points d'Intellect) #Ability #MetaAbility #High
-#Core
+Using What’s Available (4 Intellect points) #Ability #MetaAbility #High #Core
 
 If you have the time and the freedom to scrounge for everyday materials in your
 environment, you can fashion a temporary asset that will aid you once to

@@ -6,4 +6,4 @@ for one hour. In addition to the normal options for using Effort, you can choose
 to use Effort to affect more targets; each level of Effort applied affects two
 additional targets. You must touch additional targets to affect them.
 
-Action à initier.
+Action to initiate.

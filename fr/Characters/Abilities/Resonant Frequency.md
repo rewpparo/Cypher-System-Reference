@@ -7,4 +7,4 @@ ramps up exponentially until the object finally shatters from the energy
 buildup. Anything within immediate range of the detonation suffers 5 points of
 damage.
 
-Action à initier.
+Action to initiate.

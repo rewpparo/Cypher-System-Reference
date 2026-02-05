@@ -1,7 +1,7 @@
-Mettre le paquet (7 points d'Intellect) #Ability #MetaAbility #High #Core
+All-Out Con (7 Intellect points) #Ability #MetaAbility #High #Core
 
-Vous y mettez tout. Vous ajoutez trois niveaux d'effort gratuits à la prochaine
-tâche que vous tentez. Vous ne pouvez plus utiliser cette capacité avant d'avoir
-pris une action de récupération de dix heures.
+You put everything into it. You add three free levels of Effort to the next task
+you attempt. You can’t use this ability again until after you’ve taken a
+ten-hour recovery action.
 
 Action.

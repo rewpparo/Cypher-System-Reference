@@ -1,8 +1,6 @@
-Anticipation de l'attaque (4 points d'Intellect) #Ability #ProtectionAbility
-#Mid #Core
+Anticipate Attack (4 Intellect points) #Ability #ProtectionAbility #Mid #Core
 
-Vous pouvez sentir quand et comment les créatures qui vous attaquent
-effectueront leurs attaques. Les jets de défense contre la Célérité sont allégés
-pendant une minute.
+You can sense when and how creatures attacking you will make their attacks.
+Speed defense rolls are eased for one minute.
 
 Action.

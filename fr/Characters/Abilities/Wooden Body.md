@@ -9,4 +9,4 @@ than a creature of flesh, hindering your Speed defense rolls.
 Your wooden body might be smooth like a polished board, rough like tree bark, or
 a mix of both.
 
-Action de modifier ou de revenir en arrière.
+Action to change or revert.

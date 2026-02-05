@@ -1,8 +1,7 @@
-Brouillage de machine (2 points d'Intellect) #Ability #SpecialAttackAbility #Low
-#Core
+Scramble Machine (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core
 
-Vous empêchez une machine à portée courte de fonctionner pendant un round. Ou,
-vous gênez toute action de la machine (ou de quelqu'un qui essaierait d'utiliser
-la machine) pendant une minute.
+You render one machine within short range unable to function for one round.
+Alternatively, you can hinder any action by the machine (or by someone
+attempting to use the machine) for one minute.
 
 Action.

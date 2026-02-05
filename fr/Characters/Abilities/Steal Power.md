@@ -11,4 +11,4 @@ If you want to make it more difficult for someone to take back their stolen
 power, become skilled in the Steal Power ability, or put a power shift in power
 for it.
 
-Facilitateur.
+Enabler.

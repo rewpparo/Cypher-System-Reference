@@ -1,5 +1,4 @@
-Doppelganger Temporel (6+ Points d'Intellect) #Ability #CompanionAbility #High
-#Core
+Time Doppelganger (6+ Intellect points) #Ability #CompanionAbility #High #Core
 
 A perfect copy of you appears within an immediate distance. This doppelganger is
 probably a version of you from another timeline or the past. The doppelganger is

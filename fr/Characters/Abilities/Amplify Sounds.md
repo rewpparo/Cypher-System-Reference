@@ -1,16 +1,14 @@
-Amplifier les sons (2 points de Puissance) #Ability #SensesAbility #High #Core
+Amplify Sounds (2 Might points) #Ability #SensesAbility #TaskAbility #High #Core
 
-Pendant une minute, vous pouvez amplifier les sons lointains ou petits afin de
-pouvoir les entendre clairement, même s'il s'agit d'une conversation ou du bruit
-d'un petit animal se déplaçant dans un terrier souterrain jusqu'à une très
-longue distance. loin. Vous pouvez tenter de percevoir le son même si des
-barrières intercédantes le bloquent ou si le son est très léger, bien que cela
-nécessite quelques cycles de concentration supplémentaires. Discriminer le son
-souhaité dans un environnement bruyant peut également nécessiter quelques cycles
-de concentration supplémentaires lorsque vous explorez de manière audible le
-paysage sonore environnant. Avec suffisamment de temps, vous pourriez identifier
-chaque conversation, chaque créature respirante et chaque appareil créant du
-bruit à portée.
+For one minute, you can amplify distant or small sounds so that you can hear
+them clearly, even if it’s a conversation or the sound of a small animal moving
+through an underground burrow up to a very long distance away. You can attempt
+to perceive the sound even if interceding barriers block it or the sound is very
+slight, though this requires a few additional rounds of concentration. To
+discriminate the sound you wish in a noisy environment might also require a few
+additional rounds of concentration as you audibly explore the surrounding
+soundscape. Given enough time, you could pinpoint every conversation, every
+breathing creature, and every device creating noise within range.
 
-Action à initier, pouvant aller jusqu'à plusieurs tours à réaliser, selon la
-difficulté de la tâche.
+Action to initiate, up to several rounds to complete, depending on the
+difficulty of the task.

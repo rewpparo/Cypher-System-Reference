@@ -1,10 +1,9 @@
-Doué à l'attaque #Ability #AttackAbility #TaskAbility #Mid #Core
+Skill With Attacks #Ability #AttackAbility #TaskAbility #Mid #Core
 
-Choisissez un type d'attaque pour laquelle vous n'êtes pas encore entrainé :
-contondante légère, lame légère, à distance légère, contondante moyenne, lame
-moyenne, à distance moyenne, contondante lourde, lame lourde, ou à distance
-lourde. Vous êtes entrainé dans les attaques avec de type d'arme. vous pouvez
-sélectionner cette aptitude plusieurs fois. Chaque fois que vous le faites, vous
-devez choisir un type d'attaque différent.
+Choose one type of attack in which you are not already trained: light bashing,
+light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy
+bashing, heavy bladed, or heavy ranged. You are trained in attacks using that
+type of weapon. You can select this ability multiple times. Each time you select
+it, you must choose a different type of attack.
 
-Facilitateur.
+Enabler.

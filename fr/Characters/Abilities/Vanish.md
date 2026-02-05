@@ -1,8 +1,8 @@
-Disparition (2 points d'Intellect) #Ability #TransformAbility #Low #Core
+Vanish (2 Intellect points) #Ability #TransformAbility #Low #Core
 
-Vous devenez invisible pendant une courte période. Quand vous êtes invisible,
-vous avez un atout en discrétion et défense de célérité. L'invisibilité se
-termine à la fin de votre tour, ou si vous révélez votre présente ou
-position—attaquer, utiliser une aptitude, déplacer un gros objet, etc.
+You become invisible for a short amount of time. While invisible, you have an
+asset on stealth and Speed defense tasks. The invisibility ends at the end of
+your next turn, or if you do something to reveal your presence or
+position—attacking, using an ability, moving a large object, and so on.
 
 Action.

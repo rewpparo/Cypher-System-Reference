@@ -1,6 +1,6 @@
-Soulager (3 points d'Intellect) #Ability #CureAbility #Low #Core
+Alleviate (3 Intellect points) #Ability #CureAbility #Low #Core
 
-Vous tentez d'annuler ou de guérir une maladie (comme une maladie ou un poison)
-chez une créature.
+You attempt to cancel or cure one malady (such as disease or poison) in one
+creature.
 
 Action.

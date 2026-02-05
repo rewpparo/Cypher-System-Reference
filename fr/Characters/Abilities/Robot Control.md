@@ -10,4 +10,4 @@ normal options for using Effort, you can choose to use Effort to increase the
 maximum level of the mechanized system or robot. Thus, to affect a level 4
 target (two levels above the normal limit), you must apply two levels of Effort.
 
-Action à initier.
+Action to initiate.

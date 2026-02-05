@@ -1,8 +1,8 @@
-Prestidigitation (1 Point d'Intellect) #Ability #EnvironmentAbility #Low #Core
+Hedge Magic (1 Intellect point) #Ability #EnvironmentAbility #Low #Core
 
-Vous pouvez faire des petits tours : changer la couleur ou l'apparence d'un
-petit objet, faire léviter de petits objets, nettoyer une petite zone, réparer
-un objet brisé, préparer (mais pas créer) de la nourriture, etc.
-Prestidigitation ne peut pas faire de mal à une autre créature ou objet.
+You can perform small tricks: temporarily change the color or basic appearance
+of a small object, cause small objects to float through the air, clean a small
+area, mend a broken object, prepare (but not create) food, and so on. You can’t
+use Hedge Magic to harm another creature or object.
 
 Action.

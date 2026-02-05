@@ -1,9 +1,7 @@
-Attaque successive (2 points de Célérité) #Ability #SpecialAttackAbility #Low
-#Core
+Successive Attack (2 Speed points) #Ability #SpecialAttackAbility #Low #Core
 
-Si vous vainquez un adversaire, vous pouvez immédiatement faire une autre
-attaque pendant le même tour contre un autre adversaire à votre portée. La
-seconde attaque fait partie de la même action. Vous pouvez utiliser cette
-aptitude avec les attaques de mêlée ou à distance.
+If you take down a foe, you can immediately make another attack on that same
+turn against a new foe within your reach. The second attack is part of the same
+action. You can use this ability with melee attacks and ranged attacks.
 
-Facilitateur.
+Enabler.

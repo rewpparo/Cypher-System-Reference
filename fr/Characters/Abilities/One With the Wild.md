@@ -6,4 +6,4 @@ knowingly harm you or those you designate. In addition, your Might Edge, Speed
 Edge, and Intellect Edge increase by 1, and if you make any recovery rolls
 during this period, you recover twice as many points.
 
-Action à initier.
+Action to initiate.

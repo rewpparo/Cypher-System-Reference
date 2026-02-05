@@ -13,4 +13,4 @@ In addition to the normal options for using Effort, you can choose to use Effort
 to increase the maximum level of the target. Thus, to command a level 5 beast
 (two levels above the normal limit), you must apply two levels of Effort.
 
-Action à initier.
+Action to initiate.

@@ -10,4 +10,4 @@ This has the following effects:
 > say it. For the next ten minutes, you gain an asset to tasks involving
 > interaction and deception.
 
-Facilitateur.
+Enabler.

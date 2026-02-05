@@ -11,4 +11,4 @@ Alternatively, you can set up a destructive resonance in a physical melee weapon
 for one minute or until you let go of it. All attacks made with the target
 weapon inflict 1 additional point of damage.
 
-Action à initier.
+Action to initiate.

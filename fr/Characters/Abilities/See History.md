@@ -1,4 +1,4 @@
-Voir l'Histoire (4 points d'Intellect) #Ability #InformationAbility #Low #Core
+See History (4 Intellect points) #Ability #InformationAbility #Low #Core
 
 You touch an object, read the subtle echoes of its existence through time, ask
 the GM a question about the object’s past, and get a general answer. The answers

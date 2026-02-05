@@ -7,4 +7,4 @@ within long range; an unwilling target can try to resist. You don’t need to se
 the target, but you must know that it’s within range. Your shared senses last
 ten minutes.
 
-Action à établir.
+Action to establish.

@@ -18,4 +18,4 @@ object to rest for one hour. The effects it can produce include the following.
 > maximum. They remain until you spend them, you lose them to damage, or an hour
 > passes.
 
-Action à initier.
+Action to initiate.

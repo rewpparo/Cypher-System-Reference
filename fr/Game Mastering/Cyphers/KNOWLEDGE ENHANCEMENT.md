@@ -21,6 +21,6 @@ presenting a great opportunity for GM intrusion.)
 | 71–75 | Healing                                                                    |
 | 76–80 | Speed defense                                                              |
 | 81–85 | Intellect defense                                                          |
-| 86–90 | Nager                                                                      |
+| 86–90 | Swimming                                                                   |
 | 91–95 | Riding                                                                     |
 | 96–00 | Sneaking                                                                   |

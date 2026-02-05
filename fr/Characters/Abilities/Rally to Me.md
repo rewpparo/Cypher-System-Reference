@@ -6,4 +6,4 @@ within an immediate distance of you within the next few rounds gain one asset on
 any one attack or defense task within the next hour that you suggest, such as
 “Hold the gate,” “Charge that group of orcs,” or something similar.
 
-Action à initier.
+Action to initiate.

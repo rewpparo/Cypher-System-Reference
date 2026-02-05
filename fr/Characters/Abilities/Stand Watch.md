@@ -5,4 +5,4 @@ you unfailingly remain awake and alert for up to eight hours. During this time,
 you are trained in perception tasks as well as stealth tasks to conceal yourself
 from those who might approach.
 
-Action à initier.
+Action to initiate.

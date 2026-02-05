@@ -8,4 +8,4 @@ combat. The energy inflicts 3 points of damage on the creature touched in
 addition to any damage the weapon itself might do. You cannot have more than one
 energized object on your person at a time.
 
-Action à initier.
+Action to initiate.

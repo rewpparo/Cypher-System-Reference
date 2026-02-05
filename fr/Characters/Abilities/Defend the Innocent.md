@@ -7,4 +7,4 @@ include the Speed defense from your shield, the Armor offered from a force
 field, and so on. In addition, Speed defense rolls made by the innocent creature
 gain an asset. You can protect only one innocent creature at a time.
 
-Action à initier.
+Action to initiate.

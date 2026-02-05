@@ -1,4 +1,4 @@
-Vous pouvez attendre de réagir à l’action d’un autre personnage.
+You can wait to react to another character’s action.
 
 You decide what action will trigger your action, and if the triggering action
 happens, you get to take your action first (unless going first wouldn’t make

@@ -11,4 +11,4 @@ to increase the maximum level of the target. Thus, to affect a level 5 target
 the effect ends, the creature vaguely remembers doing your will, but it’s as
 blurry as a dream.
 
-Action à initier.
+Action to initiate.

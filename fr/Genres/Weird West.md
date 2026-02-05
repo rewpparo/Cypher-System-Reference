@@ -1,4 +1,4 @@
-## Univers
+## Setting
 
 ## Characters
 
@@ -2397,7 +2397,7 @@ Equipment list.
 | Knife              | Light weapon; with guard and hilt; called a “bowie” knife in some settings                                                                    |
 | Dynamite (1 stick) | Level 4; inflicts damage in immediate area; automatic depletion; GM intrusion range 1–3 on a d20 when used in combat or similar circumstances |
 
-| Armure         | Notes                            |
+| Armor          | Notes                            |
 | -------------- | -------------------------------- |
 | Animal hide    | Light armor; tanned and stitched |
 | Leather duster | Light armor                      |
@@ -2455,7 +2455,7 @@ out to short range (instead of just at the limit of immediate range).
 
 | Other Items    | Notes                                                  |
 | -------------- | ------------------------------------------------------ |
-| Cheval         | Trained for riding or carriage hauling                 |
+| Horse          | Trained for riding or carriage hauling                 |
 | Coach/carriage | Requires at least a couple of horses to haul the coach |
 
 #### Exorbitant Items

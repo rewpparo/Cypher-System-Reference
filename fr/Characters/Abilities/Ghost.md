@@ -5,4 +5,4 @@ you can move through solid barriers (but not energy barriers) at a rate of 1
 foot (30 cm) per round, and you can perceive while phased within a barrier or
 object, which allows you to peek through walls.
 
-Action à initier.
+Action to initiate.

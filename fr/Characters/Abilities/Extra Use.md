@@ -1,12 +1,10 @@
-Utilisation Supplémentaire (3 points d'Intellect) #Ability #MetaAbility #Low
-#Core
+Extra Use (3 Intellect points) #Ability #MetaAbility #Low #Core
 
-Vous tentez d'obtenir une utilisation supplémentaire d'un artefact sans
-déclencher un jet de déchargement. La difficulté de la tâche est égale au niveau
-de l'artefact. Si vous avez créé l'artefact, vous gagnez un atout sur la tâche.
-En cas d'échec, le jet de déchargement a lieu normalement. Vous pouvez également
-utiliser un cypher manifeste sans le décharger, mais la tâche est gênée. Un
-échec à obtenir une utilisation supplémentaire d'un cypher manifeste détruit le
-cypher avant qu'il n'ait pu produire l'effet désiré.
+You attempt to gain an extra use from an artifact without triggering a depletion
+roll. The difficulty of the task is equal to the level of the artifact. If you
+crafted the artifact, you gain an asset to the task. On a failure, the depletion
+roll occurs normally. You could also try to use a manifest cypher without
+burning it out, but the task is hindered. A failed attempt to gain an additional
+use from a manifest cypher destroys it before it can produce the desired effect.
 
 Action.

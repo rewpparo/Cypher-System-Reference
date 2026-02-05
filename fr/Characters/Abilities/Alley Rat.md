@@ -1,9 +1,8 @@
-Rat des Allées (6 points d'Intellect) #Ability #MovementAbility #High #Core
+Alley Rat (6 Intellect points) #Ability #MovementAbility #High #Core
 
-Lorsque vous êtes dans une ville, vous trouvez ou créez un raccourci important,
-une entrée secrète ou une voie d'évacuation de secours là où il semblait qu'il
-n'en existait pas. Cela nécessite que vous réussissiez une action Intellect dont
-la difficulté est fixée par le MJ en fonction de la situation. Vous et le MJ
-devriez régler les détails ensemble.
+While in a city, you find or create a significant shortcut, secret entrance, or
+emergency escape route where it looked like none existed. Doing so requires that
+you succeed on an Intellect action whose difficulty is set by the GM based on
+the situation. You and the GM should work out the details.
 
 Action.

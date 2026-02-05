@@ -20,4 +20,4 @@ The increased Effort cost for repeat uses of Shrink between ten-hour recovery
 rolls only applies to new activations of Shrink, not to multiple size changes
 within one use of Shrink enabled by Quick Switch.
 
-Action à initier.
+Action to initiate.

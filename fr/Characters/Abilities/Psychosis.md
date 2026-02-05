@@ -5,4 +5,4 @@ range that can understand you, dealing 6 points of Intellect damage (ignores
 Armor) per round. The psychosis can be dispersed if a target uses an action
 doing nothing but calming and centering itself.
 
-Action à initier.
+Action to initiate.

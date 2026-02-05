@@ -8,4 +8,4 @@ wall.) The plane of the force wall conforms to the space available. While the
 force wall remains in place, you cannot use any of your other abilities that
 require Force Field Shield.
 
-Action à initier.
+Action to initiate.

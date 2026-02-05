@@ -1,6 +1,5 @@
-Comme le prédit la prophétie #Ability #AttackAbility #High #Core
+As Foretold in Prophecy #Ability #AttackAbility #TaskAbility #High #Core
 
-Vous accomplissez quelque chose qui prouve que vous êtes véritablement l'élu. La
-prochaine tâche que vous tenterez est facilitée par trois étapes. Vous ne pouvez
-plus utiliser cette capacité avant d'avoir effectué une action de récupération
-d'une heure ou de dix heures.
+You accomplish something that proves you are truly the chosen one. The next task
+you attempt is eased by three steps. You can’t use this ability again until
+after you’ve taken a one-hour or a ten-hour recovery action. Action.

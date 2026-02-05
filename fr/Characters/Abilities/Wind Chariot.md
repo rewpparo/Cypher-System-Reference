@@ -6,4 +6,4 @@ kph) for up to ten hours. For each level of Effort you apply, you can bring one
 ally of about your size with you through the air or increase the duration of the
 effect by one hour.
 
-Action à initier.
+Action to initiate.

@@ -4,4 +4,4 @@ Choose one character you can see. That character becomes your ward. You are
 trained in all tasks involving finding, healing, interacting with, and
 protecting that character. You can have only one ward at a time.
 
-Action à initier.
+Action to initiate.

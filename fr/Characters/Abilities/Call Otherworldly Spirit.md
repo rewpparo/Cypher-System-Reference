@@ -8,4 +8,4 @@ it can be substantial or insubstantial as it wishes (using an action to change).
 The spirit is not beholden to you, and it does not need to stay near you to
 remain manifest.
 
-Action à initier.
+Action to initiate.

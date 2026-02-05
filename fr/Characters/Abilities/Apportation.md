@@ -1,12 +1,11 @@
-Ramener (4 points d'Intellect) #Ability #MovementAbility #Mid #Core
+Apportation (4 Intellect points) #Ability #MovementAbility #Mid #Core
 
-Vous amenez un objet physique à vous par vos pouvoirs magiques ou psychiques.
-Vous pouvez choisir n'importe quelle pièce d'équipement normal sur la liste
-d'équipement standard, ou (pas plus d'une fois par jour) vous pouvez permettre
-au MJ de déterminer l'objet au hasard. Si vous amenez un objet aléatoire, il a
-10 pour cent de chances d'être un cypher ou un artefact manifeste, 50 pour cent
-de chances d'être une pièce d'équipement standard et 40 pour cent de chances
-d'être un objet sans valeur. Vous ne pouvez pas utiliser cette capacité pour
-prendre un objet détenu par une autre créature.
+You call a physical object to you. You can choose any piece of normal equipment
+on the standard equipment list, or (no more than once per day) you can allow the
+GM to determine the object randomly. If you call a random object, it has a 10
+percent chance of being a manifest cypher or artifact, a 50 percent chance of
+being a piece of standard equipment, and a 40 percent chance of being a bit of
+worthless junk. You can’t use this ability to take an item held by another
+creature.
 
 Action.

@@ -4,4 +4,4 @@ When you use your [Duplicate](Duplicate.md) ability, you can create a superior
 duplicate instead of a normal duplicate. A superior duplicate is a level 3 NPC
 with 15 health.
 
-Facilitateur.
+Enabler.

@@ -1,4 +1,4 @@
-## Univers
+## Setting
 
 The modern setting is easy because it’s just the real world, right? Well, yes
 and no. It’s easy for players to understand the context of a modern setting.

@@ -1,6 +1,6 @@
-Garde #Ability #ProtectionAbility #Low #Core
+Ward #Ability #ProtectionAbility #Low #Core
 
-Vous avez un champ d'énergie autour de vous en permanence qui aide à réfléchir
-des attaques. Vous gagnez +1 en Amure.
+You have a shield of energy around you at all times that helps deflect attacks.
+You gain +1 to Armor.
 
-Facilitateur.
+Enabler.

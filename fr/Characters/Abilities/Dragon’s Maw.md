@@ -8,4 +8,4 @@ the construct persists, you can use it to manipulate large objects, carry heavy
 items in its mouth, or attack foes. If you use it to attack foes, you must use
 your action to directly control the phantom maw for each attack.
 
-Action à initier.
+Action to initiate.

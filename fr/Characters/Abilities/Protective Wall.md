@@ -11,4 +11,4 @@ to the normal options for using Effort, you can choose to use Effort to increase
 the number of foes you can attack with this ability, one additional foe per
 level of Effort.
 
-Facilitateur.
+Enabler.

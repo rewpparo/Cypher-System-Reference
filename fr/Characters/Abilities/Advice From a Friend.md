@@ -1,7 +1,7 @@
-Conseils d'un ami (1 point d'intelligence) #Ability #SupportAbility #Low #Core
+Advice From a Friend (1 Intellect point) #Ability #SupportAbility #Low #Core
 
-Vous connaissez les forces et les faiblesses de votre ami et comment le motiver
-à réussir. Lorsque vous donnez à un allié une suggestion concernant sa prochaine
-action, le personnage est entraîné à cette action pendant un round.
+You know your friend’s strengths and weaknesses, and how to motivate them to
+succeed. When you give an ally a suggestion involving their next action, the
+character is trained in that action for one round.
 
 Action.

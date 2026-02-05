@@ -7,4 +7,4 @@ ribbons. All tasks attempted by creatures in the area are hindered, and leaving
 the area requires a creature’s entire action to move. You can dismiss the dark
 matter early as an action.
 
-Action à initier.
+Action to initiate.

@@ -77,7 +77,7 @@ the attacker to increase the damage. For example, a PC can apply Effort to deal
 3 additional points of damage, and rolling a natural 17 on the attack roll deals
 1 additional point of damage.
 
-## Armure
+## Armor
 
 Pieces of equipment and special abilities protect a character from damage by
 giving them Armor. Each time a character takes damage, subtract their Armor

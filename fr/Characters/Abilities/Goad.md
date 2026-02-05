@@ -1,11 +1,11 @@
-Provocation (1 Point d'Intellect) #Ability #ControlAbility #Low #Core
+Goad (1 Intellect point) #Ability #ControlAbility #Low #Core
 
-Vous tentez de provoquer une cible pour qu'elle ait une réaction belligérante—et
-probablement stupide—qui la fera essayer de réduire la distance entre vous pour
-vous frapper physiquement lors de son prochain tour. La cible fera cette action
-même si ça lui fait quitter une formation ou abandonner un couvert ou une
-position tactiquement avantageuse. Que la cible vous frappe ou échoue à le
-faire, elle revient à ses sens juste après, et la si vous tentez de la provoquer
-à nouveau votre tâche sera gênée.
+You can attempt to goad a target into a belligerent—and probably
+foolish—reaction that requires the target to try to close the distance between
+you and attempt to physically strike you on its next turn. They attempt this
+action even if this would cause them to break formation or to give up cover or a
+tactically superior position. Whether the target strikes you or fails to do so,
+they come to their senses immediately afterward, after which further tasks
+attempting to goad the target again are hindered.
 
-Action à initier.
+Action to initiate.

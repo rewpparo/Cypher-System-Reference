@@ -8,4 +8,4 @@ attempts while within the aura are hindered. The duration of the aura is
 extended by one day per level of Effort applied. The aura is temporarily blocked
 while the object is covered or contained.
 
-Action à initier.
+Action to initiate.

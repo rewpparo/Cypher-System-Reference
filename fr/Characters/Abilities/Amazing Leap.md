@@ -1,11 +1,9 @@
-Saut incroyable (2 points de Puissance) #Ability #Mid #Core
+Amazing Leap (2 Might points) #Ability #Core
 
-Vous sautez dans les airs et atterrissez en toute sécurité à une certaine
-distance. Vous pouvez sauter vers le haut, vers le bas ou vers n'importe quel
-endroit de votre choix à longue portée si vous disposez d'un chemin clair et
-dégagé vers cet endroit. Si vous disposez de trois changements de Puissance ou
-plus, votre portée de saut augmente jusqu'à devenir très longue. Si vous avez
-cinq changements de Puissance ou plus, votre portée de saut augmente à 1 000
-pieds (300 m).
+You leap through the air and land safely some distance away. You can jump up,
+down, or across to anywhere you choose within long range if you have a clear and
+unobstructed path to that location. If you have three or more power shifts in
+strength, your leaping range increases to very long. If you have five or more
+power shifts in strength, your leaping range increases to 1,000 feet (300 m).
 
 Action.

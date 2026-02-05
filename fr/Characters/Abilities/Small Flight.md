@@ -6,4 +6,4 @@ your suit, calling a tiny creature to carry you, or “surfing” air currents. 
 flying, you can move up to a short distance as part of another action or a long
 distance if all you do on your turn is move.
 
-Action à initier.
+Action to initiate.

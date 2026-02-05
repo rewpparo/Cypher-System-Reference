@@ -8,4 +8,4 @@ must remain relatively still while the wing lasts or they will fall. In terms of
 overland movement, you fly at about 20 miles (32 km) per hour and are not
 affected by terrain.
 
-Action à initier.
+Action to initiate.

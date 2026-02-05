@@ -7,4 +7,4 @@ ends. While you are phased, only mental attacks and special transdimensional
 energies, devices, or abilities can affect you, but likewise you can’t attack,
 touch, or otherwise affect anything.
 
-Action à initier.
+Action to initiate.

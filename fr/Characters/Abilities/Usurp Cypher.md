@@ -6,4 +6,4 @@ you continuously. You can choose a cypher when you gain this ability, or you can
 wait and make the choice later. However, once you usurp a cypher’s power, you
 cannot later switch to a different cypher—the usurping ability works only once.
 
-Action à initier.
+Action to initiate.

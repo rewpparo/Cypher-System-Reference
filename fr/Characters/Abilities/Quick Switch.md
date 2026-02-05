@@ -8,4 +8,4 @@ size, make an attack, and then return to your normal size, or you could change
 to your normal size, use your action to move a short distance, and then return
 to small size.
 
-Facilitateur.
+Enabler.

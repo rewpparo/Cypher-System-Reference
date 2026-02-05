@@ -7,4 +7,4 @@ vitality, you gain several benefits for up to one minute: an asset to all your
 Might-based tasks (including attacks and defenses), +2 to your Might Edge and
 Speed Edge, and 2 additional points of damage on all successful melee attacks.
 
-Action à initier.
+Action to initiate.

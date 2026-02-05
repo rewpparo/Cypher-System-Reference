@@ -1,10 +1,9 @@
-Bousculer (2 points d'Intellect) #Ability #SpecialAttackAbility #Low #Core
+Push (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core
 
-Vous poussez télékinétiquement une créature ou un objet à distance immédiate
-dans la direction que vous souhaitez. Vous devez pouvoir voir la cible, elle
-doit être de votre taille ou plus petite, ne doit pas être fixée à quelque
-chose, et doit être à portée courte. La poussée est rapide, et la force est trop
-brute pour être manipulée. Par exemple, vous ne pouvez pas utiliser cette
-compétence pour pousser un levier ou fermer une porte.
+You telekinetically push a creature or object an immediate distance in any
+direction you wish. You must be able to see the target, which must be your size
+or smaller, must not be affixed to anything, and must be within short range. The
+push is quick, and the force is too crude to be manipulated. For example, you
+can’t use this ability to pull a lever or close a door.
 
 Action.

@@ -1,9 +1,8 @@
-Analyse d'animal (4+ points d'Intellect) #Ability #Fantasy #Mid #Core
+Animal Scrying (4+ Intellect points) #Ability #Core #Fantasy
 
-Si vous connaissez l'emplacement général d'un animal qui est amical envers vous
-et à moins de 1,5 km de votre emplacement, vous pouvez ressentir grâce à ses
-sens pendant dix minutes maximum. Si vous n'êtes pas sous forme animale ou si
-vous n'êtes pas sous une forme similaire à cet animal, vous devez appliquer un
-niveau d'Effort pour utiliser cette capacité.
+If you know the general location of an animal that is friendly toward you and
+within 1 mile (1.5 km) of your location, you can sense through its senses for up
+to ten minutes. If you are not in animal form or not in a form similar to that
+animal, you must apply a level of Effort to use this ability.
 
-Action à établir.
+Action to establish.

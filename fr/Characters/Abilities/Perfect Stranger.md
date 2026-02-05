@@ -7,4 +7,4 @@ on). For the next hour (or as long as you keep up the alteration), even
 creatures that know you well don’t recognize you. All tasks related to hiding
 your true identity during this period gain one free level of Effort.
 
-Action à initier.
+Action to initiate.

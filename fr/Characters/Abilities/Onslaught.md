@@ -1,12 +1,11 @@
-Assaut (1 Point d'Intellect) #Ability #SpecialAttackAbility #Low #Core
+Onslaught (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core
 
-Vous attaquez un ennemi en utilisant des énergies qui peuvent atteindre soit
-leur forme physique soit leur esprit. Dans tous les cas, vous devez être capable
-de voir votre cible. Si l'attaque est physique, vous émettez un rayon de force
-qui inflige 4 points de dégâts. Si l'attaque est mentale, vous concentrez votre
-énergie mentale pour détruire les pensées d'une autre créature à courte portée.
-Ceci inflige 2 points de dégâts d'Intellect (qui ignore l'armure). Certaines
-créatures sans esprit (comme les robots) peuvent être immunisés à l'attaque
-mentale).
+You attack a foe using energies that assail either their physical form or their
+mind. In either case, you must be able to see your target. If the attack is
+physical, you emit a short-range ray of force that inflicts 4 points of damage.
+If the attack is mental, you focus your mental energy to blast the thought
+processes of another creature within short range. This mindslice inflicts 2
+points of Intellect damage (ignores Armor). Some creatures without minds (such
+as robots) might be immune to your mindslice.
 
 Action.

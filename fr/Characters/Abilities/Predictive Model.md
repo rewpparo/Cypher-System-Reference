@@ -1,4 +1,4 @@
-Modèle prédictif (2+ points d'Intellect) #Ability #InformationAbility #Low #Core
+Predictive Model (2+ Intellect points) #Ability #InformationAbility #Low #Core
 
 If you’ve used [[Predictive Equation]] on a creature, object, or location within
 the last few days, you can learn one random fact about the subject that is

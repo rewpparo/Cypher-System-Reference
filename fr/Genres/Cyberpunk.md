@@ -3738,9 +3738,9 @@ the same ability more than once unless its description says otherwise.
 
 ##### Second-Tier Hotshot
 
-Choisissez quatre des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
-à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
-inférieur par une différente d'un rang inférieur.
+Choose four of the abilities listed below (or from a lower tier) to add to your
+repertoire. In addition, you can replace one of your lower-tier abilities with a
+different one from a lower tier.
 - Armored Chrome
 - Bonus Cypher App
 - Curious
@@ -4016,8 +4016,8 @@ Stat Pool Starting Value
 
 First-tier Techs have the following abilities:
 - Effort: Your Effort is 1.
-- Génie : Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance de 0
-  et un Avantage de Célérité de 0.
+- **Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance
+  de 0 et un Avantage de Célérité de 0.
 - Expert Cypher Use: You can bear three cyphers at a time.
 - Starting Equipment: Appropriate clothing, a communicator implant, and $5,200.
 - Weapons: You are practiced with light weapons, light firearms, and medium
@@ -5771,7 +5771,7 @@ rounds dislodging the bullet fragments.
 
 
 
-Armure
+Armor
 
 
 
@@ -8978,8 +8978,8 @@ skill.
 | 81–84 | Piloting                                        |
 | 85–88 | Ranged attacks (choose light, medium, or heavy) |
 | 89–92 | Repairing                                       |
-| 93–96 | Furtivité                                       |
-| 97–00 | Nager                                           |
+| 93–96 | Stealth                                         |
+| 97–00 | Swimming                                        |
 
 If the chip is removed from the user, it is destroyed, and the user loses the
 skill training from it. (Rumor has it that doing so also risks causing brain

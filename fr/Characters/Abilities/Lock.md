@@ -6,4 +6,4 @@ an object or creature is physically holding the target object open, you must
 also succeed on an Intellect-based attack. For each level of Effort you apply,
 the quality of the magical lock increases by one level.
 
-Action à initier.
+Action to initiate.

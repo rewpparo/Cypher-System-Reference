@@ -6,4 +6,4 @@ powerful energy source), you automatically fill your Siphon Pool to its safe
 limit. You can’t refill your Siphon Pool this way again until after your next
 ten-hour recovery roll.
 
-Facilitateur.
+Enabler.

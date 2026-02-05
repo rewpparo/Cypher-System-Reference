@@ -7,4 +7,4 @@ yourself.) The difficulty of the task is equal to 3 plus the number of days the
 target has been dead. (If the body has been perfectly preserved in stasis or
 through some other non-damaging preservation mechanism, no time limit applies.)
 
-Facilitateur.
+Enabler.

@@ -1,9 +1,8 @@
-Conscience (3 points d'Intellect) #Ability #SensesAbility #Mid #Core
+Awareness (3 Intellect points) #Ability #SensesAbility #Mid #Core
 
-Vous devenez hyper-conscient de votre environnement afin de mieux localiser
-votre cible. Pendant dix minutes, vous êtes conscient de tous les êtres vivants
-à longue portée (y compris leur position générale), et en vous concentrant (une
-autre action), vous pouvez tenter de connaître la santé générale et le niveau de
-Puissance de chacun d'entre eux.
+You become hyperaware of your surroundings in order to better locate your
+target. For ten minutes, you are aware of all living things within long range
+(including their general position), and by concentrating (another action), you
+can attempt to learn the general health and power level of any one of them.
 
 Action.

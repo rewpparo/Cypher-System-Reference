@@ -6,4 +6,4 @@ hours. At this speed, most dangerous encounters or regions of rough terrain are
 ignored, though the GM may declare exceptions. Outright barriers still present a
 problem.
 
-Action à initier.
+Action to initiate.

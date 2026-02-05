@@ -2,4 +2,4 @@ Divine Knowledge #Ability #TaskAbility #Low #Core
 
 You are trained in all tasks related to knowledge of godly beings.
 
-Facilitateur.
+Enabler.

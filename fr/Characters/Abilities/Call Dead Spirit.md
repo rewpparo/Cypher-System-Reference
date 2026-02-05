@@ -12,4 +12,4 @@ the ability to become insubstantial as an action for up to a minute at a time.
 The raised spirit is not beholden to you, and it does not need to stay near you
 to remain manifest.
 
-Action à initier.
+Action to initiate.

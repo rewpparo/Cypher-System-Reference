@@ -2512,7 +2512,7 @@ need to cross‑reference to make sure you’re not missing anything.
 | Other Items | Notes                                                                              |
 | ----------- | ---------------------------------------------------------------------------------- |
 | Vehicle     | Car, truck, van, boat, or prop two-seater plane (internal combustion engine or EV) |
-| Cheval      | Trained for riding (typically found with a few days of feed)                       |
+| Horse       | Trained for riding (typically found with a few days of feed)                       |
 
 
 ### ADDITIONAL POST-APOCALYPTIC EQUIPMENT

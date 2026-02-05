@@ -7,4 +7,4 @@ line, formation, or swarm attack. This effect lasts for up to a minute or until
 all the affected foes spend a round assessing and resetting themselves to regain
 their normal advantage.
 
-Action à initier.
+Action to initiate.

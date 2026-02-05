@@ -10,4 +10,4 @@ options for using Effort, you can choose to use Effort to protect more targets;
 each level of Effort used in this way affects up to two additional targets. You
 must touch additional targets to protect them.
 
-Action à initier.
+Action to initiate.

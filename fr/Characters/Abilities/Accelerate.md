@@ -1,11 +1,10 @@
-Accélérer (4+ points d'Intellect) #Ability #SupportAbility #Mid #Core
+Accelerate (4+ Intellect points) #Ability #SupportAbility #Mid #Core
 
-Votre parole atteint l'esprit d'un personnage qui peut vous comprendre dans une
-portée immédiate, ce qui l'accélère en lui donnant un atout pour les tâches
-d'initiative ainsi que les jets de Défense pour les dix prochaines minutes. En
-plus des options normales d'utilisation de l'Effort, vous pouvez utiliser de
-l'Effort pour affecter plus d'une cible ; chaque niveau d'Effort affecte une
-cible supplémentaire. Vous pouvez parler à des cibles supplémentaires pour les
-accélérer, à raison d'une cible par round.
+Your words imbue the spirit of a character within immediate range who is able to
+understand you, accelerating them so they gain an asset on initiative tasks and
+Speed defense rolls for ten minutes. In addition to the normal options for using
+Effort, you can choose to use Effort to affect more targets; each level of
+Effort affects one additional target. You must speak to additional targets to
+accelerate them, one target per round.
 
-Action par cible à initier.
+Action per target to initiate.

@@ -1,4 +1,4 @@
-Déplacer le métal (1 point d'Intellect) #Ability #EnvironmentAbility #Low #Core
+Move Metal (1 Intellect point) #Ability #EnvironmentAbility #Low #Core
 
 You can exert force on metal objects within short range for one round. Once
 activated, your power has an effective Might Pool of 10, a Might Edge of 1, and

@@ -9,4 +9,4 @@ would normally make. If you do so and you get a minor effect, the creature
 attacking you takes 1 point of damage. If you get a major effect, the creature
 attacking you takes 4 points of damage.
 
-Action à initier.
+Action to initiate.

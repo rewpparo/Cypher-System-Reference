@@ -8,4 +8,4 @@ and rubble. Each round, creatures in the area take either 3 points of damage due
 to the general shaking, or 6 points of damage if in or adjacent to a structure
 or terrain feature shedding debris.
 
-Action à initier.
+Action to initiate.

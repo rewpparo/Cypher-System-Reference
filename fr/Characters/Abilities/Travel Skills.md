@@ -5,4 +5,4 @@ of the following: navigation, riding, running, piloting, or vehicle driving. You
 can select this ability multiple times. Each time you select it, you must choose
 two different skills.
 
-Facilitateur.
+Enabler.

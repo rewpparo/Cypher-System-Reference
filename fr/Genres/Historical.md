@@ -3,7 +3,7 @@ and interesting. However, setting it in ancient Greece or feudal Japan, for
 example, probably makes it more like fantasy without all the orcs and magic
 (although a game set in feudal Japan with orcs and magic could be fascinating).
 
-## Univers
+## Setting
 
 ### Creating a historical adventure
 

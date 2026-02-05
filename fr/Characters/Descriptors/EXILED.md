@@ -1,4 +1,4 @@
-Exilé #Descriptor #Core
+Exiled #Descriptor #Core
 
 You have walked a long and lonely road, leaving your home and your life behind.
 You might have committed a heinous crime, something so awful that your people

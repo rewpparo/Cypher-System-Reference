@@ -7,4 +7,4 @@ you also have the [Mind Reading](Mind%20Reading.md) special ability from another
 source, you can use this ability at long range, and you don’t need to be able to
 see the target (but you do have to know that the target is within range).
 
-Action à initier.
+Action to initiate.

@@ -1,4 +1,4 @@
-Téléportation courte (4+ points d'Intellect) #Ability #Core
+Short Teleportation (4+ Intellect points) #Ability #Core
 
 You instantly teleport to any location within a short distance that you can see.
 

@@ -13,4 +13,4 @@ Effort, you can choose to use Effort to increase the level of the cypher you
 create; each level of Effort increases the level of the cypher and the
 difficulty of the Intellect task to create it.
 
-Action pour initier, une heure pour terminer.
+Action to initiate, one hour to complete.

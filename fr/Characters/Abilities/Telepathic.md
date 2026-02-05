@@ -1,4 +1,4 @@
-Télépathe (1+ points d'Intellect) #Ability #InformationAbility #Low #Core
+Telepathic (1+ Intellect points) #Ability #InformationAbility #Low #Core
 
 You can speak telepathically with others who are within short range.
 Communication is two-way, but the other party must be willing and able to

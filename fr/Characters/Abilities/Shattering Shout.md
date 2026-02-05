@@ -12,4 +12,4 @@ Effort to increase the damage rather than ease the task, you deal 2 additional
 points of damage per level of Effort (instead of 3 points); targets in the area
 take 1 point of damage even if you fail the attack roll.
 
-Action à initier.
+Action to initiate.
