@@ -1,7 +1,8 @@
-Crushing Blow (2 Might points) #Ability #MetaAbility #Low #Core
+Écraser (2 Points de Puissance) #Ability #MetaAbility #Low #Core
 
-When you use a bashing or bladed weapon in both hands and apply Effort on the
-attack, you get a free level of Effort on the damage. (If fighting unarmed, this
-attack is made with both fists or both feet together.)
+Quand vous utilisez une arme contondante ou une lame dans chacune de vos mains
+et mettez de l'Effort dans l'attaque, vous avez un niveau d'Effort gratuit en
+dégâts. (Si le combat est à main nues, cette attaque est faite avec les deux
+mains ou les deux pieds ensemble)
 
 Action.
