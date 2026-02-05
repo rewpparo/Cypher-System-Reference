@@ -10,4 +10,4 @@ Energy](Absorb%20Pure%20Energy.md) or [Improved Absorb Kinetic
 Energy](Improved%20Absorb%20Kinetic%20Energy.md), those abilities are also
 duplicated in your target when you use Energize Creature.
 
-Action to initiate.
+Action pour initier.
