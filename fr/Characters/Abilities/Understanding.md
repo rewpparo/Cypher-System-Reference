@@ -1,6 +1,6 @@
-Understanding (1 Intellect point) #Ability #TaskAbility #Low #Core
+Compréhension (1 Point d'Intellect) #Ability #TaskAbility #Low #Core
 
-You observe or study a creature or object. Your next interaction with that
-creature or object gains one asset.
+Vous observez ou étudiez une créature ou un objet. Votre prochaine interaction
+avec cette créature ou objet gagne un atout.
 
 Action.
