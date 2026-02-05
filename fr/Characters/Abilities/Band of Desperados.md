@@ -1,8 +1,8 @@
 Bande de Desperados #Ability #CompanionAbility #High #Core
 
-Your reputation draws a band of six level 2 desperado NPC followers who are
-completely devoted to you. You and the GM must work out the details of these
-followers. If a follower dies, you gain a new one after at least two weeks and
-proper recruitment.
+Votre réputation attire une bande de six Disciples NPC desperado de niveau 2 qui
+vous sont totalement dévoués. Vous et le MJ devez travailler les détails de ces
+disciples. Si un Disciple meurt, vous en gagnez un nouveau après deux semaines
+et un recrutement dans les formes.
 
 Facilitateur.
