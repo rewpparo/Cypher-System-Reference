@@ -7,4 +7,4 @@ all attacks made against you by affected targets within earshot are hindered
 until one or more of them successfully inflicts damage on you or one of your
 allies, at which time their fear abates.
 
-Enabler.
+Facilitateur.
