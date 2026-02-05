@@ -63,11 +63,11 @@ use out of a depleted cypher or artifact.
 
 # ADEPT STAT POOLS
 
-| Stat      | Réserve de Départ |
-| --------- | ----------------- |
-| Puissance | 7                 |
-| Célérité  | 9                 |
-| Intellect | 12                |
+| Carac     | Réserve initiale |
+| --------- | ---------------- |
+| Puissance | 7                |
+| Célérité  | 9                |
+| Intellect | 12               |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
@@ -75,7 +75,7 @@ Réserves.
 # Adept Background Connection
 
 Votre type vous aide à déterminer la relation que vous avez avec la campagne en
-cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour
+cours. Jetez un d20 ou choisissez dans la liste ci-dessous un élément pour
 définir un fait spécifique à propos de votre histoire qui fournit un relation
 avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
@@ -105,9 +105,9 @@ avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 # FIRST-TIER ADEPT
 
 First-tier Adepts have the following abilities:
-- **Effort:** Votre Effort est de 1.
-- **Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance
-  de 0 et un Avantage de Célérité de 0.
+- Effort : Votre Effort est de 1.
+- Génie : Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance de 0
+  et un Avantage de Célérité de 0.
 - Expert Cypher Use: You can bear three cyphers at a time.
 - Starting Equipment: Appropriate clothing, plus two expensive items, two
   moderately priced items, and up to four inexpensive items of your choice.
@@ -121,7 +121,7 @@ description for each listed ability can be found in Abilities, which also has
 descriptions for flavor and focus abilities in a single vast catalog. (Adept
 abilities require at least one free hand unless the GM says otherwise.)
 - [Distortion](../Abilities/Distortion.md)
-- [Erase Memories](../Abilities/Erase%20Memories.md)
+- - [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
 - [Far Step](../Abilities/Far%20Step.md)
 - [Hedge Magic](../Abilities/Hedge%20Magic.md)
 - [Magic Training](../Abilities/Magic%20Training.md)
@@ -140,7 +140,7 @@ different one from a lower tier.
 - [Adaptation](../Abilities/Adaptation.md)
 - [Cutting Light](../Abilities/Cutting%20Light.md)
 - [Hover](../Abilities/Hover.md)
-- [Mind Reading](../Abilities/Mind%20Reading.md)
+- - [Lecture mentale](../Abilities/Mind%20Reading.md)
 - [Retrieve Memories](../Abilities/Retrieve%20Memories.md)
 - [Reveal](../Abilities/Reveal.md)
 - [Stasis](../Abilities/Stasis.md)
@@ -150,7 +150,7 @@ different one from a lower tier.
 Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Adroit Cypher Use](../Abilities/Adroit%20Cypher%20Use.md)
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Countermeasures](../Abilities/Countermeasures.md)
 - [Energy Protection](../Abilities/Energy%20Protection.md)
 - [Fire and Ice](../Abilities/Fire%20and%20Ice.md)
@@ -170,7 +170,7 @@ different one from a lower tier.
 - [Mind Control](../Abilities/Mind%20Control.md)
 - [Projection](../Abilities/Projection.md)
 - [Rapid Processing](../Abilities/Rapid%20Processing.md)
-- [Regeneration](../Abilities/Regeneration.md)
+- - [Régénérer](../Abilities/Regenerate.md)
 - [Reshape](../Abilities/Reshape.md)
 - [Wormhole](../Abilities/Wormhole.md)
 
@@ -184,10 +184,10 @@ different one from a lower tier.
 - [Conjuration](../Abilities/Conjuration.md)
 - [Create](../Abilities/Create.md)
 - [Dust to Dust](../Abilities/Dust%20to%20Dust.md)
-- [Knowing the Unknown](../Abilities/Knowing%20the%20Unknown.md)
+- - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
 - [Master Cypher Use](../Abilities/Master%20Cypher%20Use.md)
 - [Teleportation](../Abilities/Teleportation.md)
-- [True Senses](../Abilities/True%20Senses.md)
+- - [Véritables sens](../Abilities/True%20Senses.md)
 
 # SIXTH-TIER ADEPT
 
