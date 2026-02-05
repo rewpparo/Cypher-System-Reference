@@ -1,6 +1,6 @@
-Finishing Blow (5 Might points) #Ability #SpecialAttackAbility #High #Core
+Coup de grâce (5 points de Puissance) #Ability #SpecialAttackAbility #High #Core
 
-If your foe is prone, stunned, or somehow helpless or incapacitated when you
-strike, you inflict 7 additional points of damage on a successful hit.
+Si votre ennemi est à terre, étourdi, ou incapable de se défendez quand vous
+frappez, vous infligez 7 points de dégâts supplémentaire si vous touchez.
 
-Enabler.
+Facilitateur.
