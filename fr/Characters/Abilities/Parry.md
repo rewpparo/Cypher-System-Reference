@@ -1,6 +1,7 @@
-Parry (5 Speed points) #Ability #ProtectionAbility #High #Core
+Parade (5 points de Célérité) #Ability #ProtectionAbility #High #Core
 
-You can deflect incoming attacks quickly. When you activate this ability, for
-the next ten rounds you ease all Speed defense rolls.
+Vous pouvez dévier les attaques qui vous ciblent rapidement. Quand vous activez
+cette aptitude, pendant les 10 prochains rounds, vous facilitez vos jets de
+défense de Célérité.
 
 Facilitateur.
