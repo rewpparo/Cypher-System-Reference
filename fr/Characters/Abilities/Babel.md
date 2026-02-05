@@ -1,8 +1,9 @@
-Babel #Ability #InformationAbility #Low #Core
+babel #Ability #InformationAbility #Low #Core
 
-After hearing a language spoken for a few minutes, you can speak it and make
-yourself understood. If you continue to use the language to interact with native
-speakers, your skills improve rapidly, to the point where you might be mistaken
-for a native speaker after just a few hours of speaking the new language.
+Après avoir entendu un langage pendant quelques minutes, vous pouvez le parler
+et vous faire comprendre. Si vous continuez à utiliser le langage pour interagir
+avec des locuteurs natifs, vous compétences s'améliorent rapidement, au point
+que vous pourriez être pris pour un locuteur natif après juste quelques heures à
+parler ce nouveau langage.
 
 Facilitateur.
