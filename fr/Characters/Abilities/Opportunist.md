@@ -1,7 +1,6 @@
-Opportunist #Ability #SpecialAttackAbility #Low #Core
+Opportunisme #Ability #SpecialAttackAbility #Low #Core
 
-You have an asset on any attack roll you make against a creature that has
-already been attacked at some point during the round and is within immediate
-range.
+Vous avez un atout pour les jets d'attaque que vous faites contre une créature
+qui a déjà été attaquée à un moment ce round et qui est à portée immédiate.
 
-Enabler.
+Facilitateur.
