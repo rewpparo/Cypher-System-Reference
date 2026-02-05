@@ -1,4 +1,4 @@
-Vigilance (2 Intellect points) #Ability #ProtectionAbility #Mid #Core
+Vigilance (2 points Intellect) #Ability #ProtectionAbility #Mid #Core
 
 You take a cautious approach to combat, focusing more on protecting yourself
 than on hurting your opponents. While this ability is active, you gain an asset
