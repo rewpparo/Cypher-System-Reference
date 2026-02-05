@@ -11,4 +11,4 @@ addition to the normal options for using Effort, you can choose to use Effort to
 increase the maximum level of the target by one for each level of Effort
 applied.
 
-Action to initiate.
+Action pour initier.
