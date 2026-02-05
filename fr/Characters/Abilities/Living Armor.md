@@ -1,4 +1,4 @@
-Armure vivante (4 points Intellect) #Ability #CompanionAbility #Mid #Core
+Armure vivante (4 points d'Intellect) #Ability #CompanionAbility #Mid #Core
 
 If you’re in a location where it’s possible for your creatures from Influence
 Swarm to come, you call a swarm around you for one hour. They crawl over your
