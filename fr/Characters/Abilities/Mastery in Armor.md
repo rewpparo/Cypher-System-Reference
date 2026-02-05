@@ -1,6 +1,6 @@
-Mastery in Armor #Ability #ProtectionAbility #High #Core
+Maitrise des armures #Ability #ProtectionAbility #High #Core
 
-The cost reduction from your Practiced in Armor ability improves. You now reduce
-the Speed Effort cost for wearing armor to 0.
+La réduction de cout de votre aptitude Entrainé au port des armures s'améliore.
+Vous réduisez le cout en effort de célérité du port de l'armure à 0.
 
 Facilitateur.
