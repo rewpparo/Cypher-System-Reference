@@ -9,4 +9,4 @@ the last 24 hours. It ends if you leave, but it resumes if you return to your
 allies’ company within 24 hours. If you leave for more than 24 hours, you must
 spend another 24 hours together to reactivate the benefit.
 
-Enabler.
+Facilitateur.
