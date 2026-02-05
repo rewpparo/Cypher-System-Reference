@@ -7,4 +7,4 @@ wearing or carrying. Your stats, as well as the stats of your items, do not
 change. You remain in this form for up to a day or until you use an action to
 resume your normal appearance.
 
-Action to initiate.
+Action pour initier.
