@@ -1,9 +1,10 @@
-Vigilance (2 Intellect points) #Ability #ProtectionAbility #Mid #Core
+Vigilance (2 points d'Intellect) #Ability #ProtectionAbility #Mid #Core
 
-You take a cautious approach to combat, focusing more on protecting yourself
-than on hurting your opponents. While this ability is active, you gain an asset
-on Speed defense rolls against melee and ranged attacks, and your melee and
-ranged attacks are hindered. This effect lasts for as long as you wish, but it
-ends if no combat is taking place within range of your senses.
+Vous avez une approche prudente du combat, et vous concentrez plus sur votre
+protection que sur le fait de blesser vos adversaires. Quand cette aptitude est
+active, vous avez un atout sur vos jets de défense de célérité contre les
+attaques en mêlée ou à distance, et vos attaques en mêlée et à distance sont
+gênées. Cet effet dure autant que vous le souhaitez, mais il se termine si aucun
+combat n'a lieu à portée de vos sens.
 
-Action to initiate.
+Action pour initier.
