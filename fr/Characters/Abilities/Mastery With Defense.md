@@ -1,8 +1,8 @@
-Mastery With Defense #Ability #ProtectionAbility #High #Core
+Maitrise en défense #Ability #ProtectionAbility #High #Core
 
-Choose one type of defense task in which you are trained: Might, Speed, or
-Intellect. You are specialized in defense tasks of that type. You can select
-this ability up to three times. Each time you select it, you must choose a
-different type of defense task.
+Choisissez un type de tâche de défense dans laquelle vous êtes entrainé :
+Puissance, Célérité, ou Intellect. Vous êtes spécialisé dans ce type de défense.
+Vous pouvez choisir cette aptitude jusqu'à trois fois. Chaque fois, vous devez
+choisir un type de tâche de défense différent.
 
 Facilitateur.
