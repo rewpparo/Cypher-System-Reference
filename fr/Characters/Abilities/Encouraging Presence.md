@@ -1,5 +1,6 @@
-Encouraging Presence (2 Intellect points) #Ability #SupportAbility #Low #Core
+Encourager la présence (2 points Intellect) #Ability #SupportAbility #Low #Core
 
-For one minute, allies within short range gain an asset on defense rolls.
+Pendant une minute, les alliés de courte portée gagnent un atout sur les
+rouleaux de défense.
 
 Action.
