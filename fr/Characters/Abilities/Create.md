@@ -1,4 +1,4 @@
-Créer (7 points Intellect) #Ability #CraftAbility #High #Core
+Créer (7 points d'Intellect) #Ability #CraftAbility #High #Core
 
 You create something from nothing. You can create any item you choose that would
 ordinarily have a difficulty of 5 or lower (using the crafting rules). Once
