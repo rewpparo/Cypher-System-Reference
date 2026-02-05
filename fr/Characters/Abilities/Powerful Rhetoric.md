@@ -1,14 +1,15 @@
-Powerful Rhetoric (1 Intellect point) #Ability #SocialAbility #TaskAbility #Low
-#Core
+Rhétorique puissance (1 Point d'Intellect) #Ability #SocialAbility #TaskAbility
+#Low #Core
 
-After engaging a creature in conversation for at least a minute, you can attempt
-to influence how that creature is perceived, promoting it as a friend,
-dismissing it as a fool, or denouncing it as an enemy. Your words are so well
-chosen that even you and it are affected, because your conviction and its doubt
-are paramount. The accuracy of your assessment isn’t important as long as you
-keep up the rhetoric. From then on (or until you change your rhetoric or the
-creature offers a convincing defense to those who’ve heard your label), the
-friend’s social interactions gain an asset, the fool’s social interactions are
-hindered, or the enemy’s defenses are hindered.
+Après avoir engagé une conversation avec une créature pendant au moins une
+minute, vous pouvez tenter d'influencer comment la créature est perçue, en la
+promouvant comme ami, la traitant d'idiot, ou en la dénonçant comme ennemi. Vos
+mots sont tellement bien choisis que même vous et elle êtes affectés, car votre
+conviction et ses doutes sont primordiaux. La précision de votre évaluation
+n'est pas importante tant que vous gardez la rhétorique. A partir de maintenant
+(ou jusqu'à ce que vous changiez de rhétorique ou que la créature offre une
+défense convaincante à ceux qui ont entendu votre déclaration), les interactions
+sociales des amis ont un atout, les interactions sociales de l'idiot sont
+gênées, ou la défense des ennemis est gênée.
 
-Action to initiate, one minute to complete.
+Action à initier, une minute pour la terminer.
