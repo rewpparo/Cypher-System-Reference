@@ -9,4 +9,4 @@ asset for one attack you make on your turn. If the robot is destroyed, you can
 repair the original with a few days’ worth of tinkering, or build a new one with
 a week’s worth of half-time labor.
 
-Enabler.
+Facilitateur.
