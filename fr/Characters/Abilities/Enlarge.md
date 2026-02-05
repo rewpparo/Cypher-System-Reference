@@ -16,4 +16,4 @@ additional level of Effort. Thus, the second time you use Enlarge, you must
 apply one level of Effort; the third time you use Enlarge, two levels of Effort;
 and so on.
 
-Action to initiate.
+Action pour initier.
