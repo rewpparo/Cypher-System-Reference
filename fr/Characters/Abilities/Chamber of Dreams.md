@@ -1,4 +1,4 @@
-Chambre des rêves (8 points Intellect) #Ability #MovementAbility #High #Core
+Chambre des rêves (8 points d'Intellect) #Ability #MovementAbility #High #Core
 
 You and your allies can step into a chamber of dreams, decorated as you wish,
 that contains a number of doors. The doors correspond with other locations that
