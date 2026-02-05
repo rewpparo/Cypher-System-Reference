@@ -5,4 +5,4 @@ Whenever you use Effort to attempt navigation, perception, or initiative tasks
 in an area that you’ve only rarely or never visited before, you can apply an
 additional free level of Effort.
 
-Enabler.
+Facilitateur.
