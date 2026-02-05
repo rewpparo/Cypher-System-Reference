@@ -1,4 +1,5 @@
-Télépathie machine (3 points Intellect) #Abilité #InformationAbility #Mid #Core
+Télépathie avec les machines (3 points d'Intellect) #Ability #InformationAbility
+#Mid #Core
 
 You can read the surface thoughts of a machine within short range, even if the
 machine doesn’t want you to. You must be able to see the machine. Once you have
