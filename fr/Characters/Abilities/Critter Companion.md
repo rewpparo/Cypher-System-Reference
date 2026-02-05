@@ -1,13 +1,13 @@
-Critter Companion #Ability #CompanionAbility #Low #Core
+Créature compagnon #Ability #CompanionAbility #Low #Core
 
-A level 1 creature accompanies you and follows your instructions. This creature
-is no larger than a large cat (about 20 pounds, or 9 kg) and is normally some
-sort of domesticated species. You and the GM must work out the details of your
-creature, and you’ll probably make rolls for it in combat or when it takes
-actions. The critter companion acts on your turn. As a level 1 creature, it has
-a target number of 3 and 3 health, and it inflicts 1 point of damage. Its
-movement is based on its creature type (avian, swimmer, and so on). If your
-critter companion dies, you can search an urban or wild environment for 1d6 days
-to find a new one.
+Un animal de niveau 1 vous accompagne et suit vos instructions. Cet animal n'est
+pas plus grand qu'un chat (environ 9kg) et est normalement une sorte d'espèce
+domestiquée. Vous le MJ devez travailler les détails de l'animal, et vous ferez
+probablement les jets à sa place en combat ou quand il fait des actions.
+L'animal compagnon agit pendant votre tour. En tant que créature niveau 1, elle
+a un seuil de réussite de 3 et 3 points de vie, et inflige 1 point de dégât. Son
+mouvement est celui de son type de créature (aviaire, nageur, etc). Si votre
+Animal compagnon meurt, vous pouvez fouiller une zone urbaine ou sauvage pendant
+1d6 jours pour en trouver un nouveau.
 
 Facilitateur.
