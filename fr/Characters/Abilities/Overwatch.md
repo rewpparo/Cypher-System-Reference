@@ -1,10 +1,12 @@
-Overwatch (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core
+Surveillance (1 point d'Intellect) #Ability #SpecialAttackAbility #Low #Core
 
-You use a ranged weapon to target a limited area (such as a doorway, a hallway,
-or the eastern side of the clearing) and make an attack against the next viable
-target to enter that area. This works like a wait action, but you also negate
-any benefit the target would have from cover, position, surprise, range,
-illumination, or visibility. Further, you inflict 1 additional point of damage
-with the attack. You can remain on overwatch as long as you wish, within reason.
+Vous utilisez une arme à distance pour cibler une zone limitée (comme une porte,
+un couloir, ou le coté est de la clairière et faites une attaque contre la
+prochaine cible viable qui entre dans cette zone. Ceci marche comme une action
+d'attente, mais vous annulez également tout avantage que la cible aurait d'une
+couverture, de la position, de la surprise, de la portée, de la lumière, ou de
+la visibilité. De plus vous infligez 1 point de dégât supplémentaire avec
+l'attaque. Vous pouvez rester en surveillance autant que vous le souhaitez, dans
+la limite du raisonnable.
 
 Action.
