@@ -1,6 +1,6 @@
-Hard Target #Ability #ProtectionAbility #High #Core
+Dur à viser #Ability #ProtectionAbility #High #Core
 
-If you move a short distance or farther on your turn, all Speed defense rolls
-are eased.
+Si vous vous déplacez d'une distance courte ou plus dans votre tour, vos jets de
+défense de Célérité sont facilités.
 
 Facilitateur.
