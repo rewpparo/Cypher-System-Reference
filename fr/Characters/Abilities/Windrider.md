@@ -5,4 +5,4 @@ of up to a long distance each round. For each level of Effort you apply, you can
 carry one ally of about your size with you through the air or increase the
 duration of the effect by one minute.
 
-Action to initiate.
+Action pour initier.
