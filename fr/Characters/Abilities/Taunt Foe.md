@@ -8,4 +8,4 @@ Intellect action as part of the attack. If that Intellect action is successful,
 the foe attacks you. Your defenses against that attack are hindered by one step,
 instead of being hindered by two steps as normal when drawing an attack.
 
-Enabler.
+Facilitateur.
