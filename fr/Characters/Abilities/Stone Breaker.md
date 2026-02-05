@@ -1,6 +1,6 @@
-Stone Breaker #Ability #MetaAbility #Mid #Core
+Casseur de Pierre #Ability #MetaAbility #Mid #Core
 
-Your attacks against objects inflict 4 additional points of damage when you use
-a melee weapon that you wield in two hands.
+Vos attaques contre les objets infligent 4 points de dégâts supplémentaire quand
+vous utilisez une arme de mêlée que vous tenez à deux mains.
 
-Enabler.
+Facilitateur.
