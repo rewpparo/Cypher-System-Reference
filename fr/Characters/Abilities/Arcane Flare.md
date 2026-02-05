@@ -1,9 +1,9 @@
-Arcane Flare (1 Intellect point) #Ability #MetaAbility #SpecialAttackAbility
-#Low #Core
+Tir Arcanique (1 point d'Intellect) #Ability #SpecialAttackAbility #Low #Core
 
-You enhance the damage of another attack spell with an extra charge of energy so
-that it deals 1 additional point of damage. Alternatively, you attack a target
-within long range by projecting a flare of raw magic that inflicts 4 points of
-damage.
+Vous améliorez les dégâts d'un autre sort d'attaque avec une charge d'énergie
+supplémentaire afin qu'il inflige 1 point de dégâts supplémentaire.
+Alternativement, vous attaquez une cible à longue portée en projetant un tir de
+magie brute qui inflige 4 points de dégâts. d'amélioration ; action pour une
+attaque à longue portée.
 
-Enabler for enhancement; action for long-range attack.
+Facilitateur pour l'amélioration ; action pour une attaque à longue portée.
