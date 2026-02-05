@@ -1,7 +1,7 @@
-Lunge (2 Might points) #Ability #MetaAbility #Mid #Core
+Fente en Avant (2 points de Puissance) #Ability #MetaAbility #Mid #Core
 
-This ability requires you to extend yourself for a powerful stab or smash. The
-awkward lunge hinders the attack roll. If your attack is successful, it inflicts
-4 additional points of damage.
+Cette aptitude demande que vous vous tendiez vers l'avant pour faire un puissant
+coup d'estoc ou un grand coup. L'avancée gêne le jet d'attaque. Si votre attaque
+réussit, elle inflige 4 points de dégâts supplémentaires.
 
 Action.
