@@ -1,4 +1,5 @@
-Contortionist (2 Speed points) #Ability #MovementAbility #TaskAbility #Low #Core
+Contorsionniste (2 points de vitesse) #Ability #MovementAbility #TaskAbility
+#Low #Core
 
 You can wriggle free from bindings or squeeze through a tight spot. You are
 trained in escaping. When you use an action to escape or move through a tight
