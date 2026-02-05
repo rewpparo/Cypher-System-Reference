@@ -12,4 +12,4 @@ duration), you must apply three levels of Effort. When the duration ends, the
 creature doesn’t remember being controlled or anything it did while under your
 command.
 
-Action to initiate.
+Action pour initier.
