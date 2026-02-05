@@ -1,7 +1,7 @@
-Magic Training #Ability #TaskAbility #Low #Core
+Entrainé à la magie #Ability #TaskAbility #Low #Core
 
-You are trained in the basics of magic (including the operation of magic
-artifacts and cyphers) and can attempt to understand and identify its
-properties.
+Vous êtes entrainé dans les bases de la magie (y compris l’utilisation
+d'artefacts magiques de cyphers) et pouvez tentez de comprendre et identifier
+ses propriétés.
 
 Facilitateur.
