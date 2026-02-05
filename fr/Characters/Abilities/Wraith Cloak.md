@@ -6,4 +6,4 @@ damage to anyone who tries to touch you or strike you with a melee attack. While
 the wraith cloak is active, all tasks to evade the perceptions of others are
 eased.
 
-Enabler.
+Facilitateur.
