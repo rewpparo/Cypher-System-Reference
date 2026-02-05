@@ -1,8 +1,8 @@
 Flex Skill #Ability #TaskAbility #Mid #Core
 
-At the beginning of each day, choose one task (other than attacks or defense) on
-which you will concentrate. For the rest of that day, you’re trained in that
-task. You can’t use this ability with a skill in which you’re already trained to
-become specialized.
+Au début de chaque journée, choisissez une tâche (autre que attaque ou défense)
+sur laquelle vous concentrer. Pour le reste de la journée, vous êtes entrainé
+dans cette tâche. Vous ne pouvez pas utiliser cette aptitude dans une compétence
+pour laquelle vous êtes déjà entrainé pour devenir spécialisé.
 
 Facilitateur.
