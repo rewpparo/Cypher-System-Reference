@@ -1,6 +1,6 @@
-Deadly Aim (3 Speed points) #Ability #MetaAbility #Mid #Core
+Visée mortelle (3 points de Célérité) #Ability #MetaAbility #Mid #Core
 
-For the next minute, all ranged attacks you make inflict 2 additional points of
-damage.
+Pendant la prochaine minute, toutes les attaques à distance infligent 2 points
+de dégâts supplémentaires.
 
-Action to initiate.
+Action pour initier.
