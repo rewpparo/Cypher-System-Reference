@@ -19,7 +19,7 @@ action is attempted. Roll a d100 to determine the action.
 | 61–68 | Jumping           |
 | 69–76 | Climbing          |
 | 77–84 | Running           |
-| 85–92 | Swimming          |
+| 85–92 | Nager             |
 | 93–94 | Sneaking          |
 | 95–96 | Balancing         |
 | 97–98 | Perceiving        |
