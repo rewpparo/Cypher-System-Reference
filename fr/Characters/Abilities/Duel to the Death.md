@@ -7,4 +7,4 @@ target, you inflict +5 damage, or +7 damage if the creature is engaging someone
 else instead of you. You can duel only one creature at a time. A duel lasts up
 to one minute, or until you break it off.
 
-Action to initiate.
+Action pour initier.
