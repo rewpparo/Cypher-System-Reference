@@ -1,5 +1,5 @@
-Balance #Ability #TaskAbility #Low #Core
+Equilibre #Ability #TaskAbility #Low #Core
 
-You are trained in balancing.
+Vous êtes entraîné à l'équilibre.
 
 Facilitateur.
