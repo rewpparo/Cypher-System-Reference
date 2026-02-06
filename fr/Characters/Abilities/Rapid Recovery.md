@@ -1,10 +1,10 @@
-Rapid Recovery #Ability #CureAbility #High #Core
+Récupération rapide #Ability #CureAbility #High #Core
 
-You can make most recovery rolls faster than normal. You can make your
-one-action recovery roll as part of another action or when it isn’t your turn,
-your ten-minute recovery roll takes you only one action, and your one-hour
-recovery roll takes you only ten minutes (your ten-hour rest is unchanged). If
-you make a recovery roll when it isn’t your turn, until the end of your next
-turn all of your tasks are hindered.
+Vous faites vos jets de guérison plus vite que la normale. Vous pouvez faire
+votre jet de guérison d'une action dans le cadre d'une autre action ou quand ce
+n'est pas votre tour, votre jet de dix minutes vous prend une action, et votre
+jet d'une heure prend dix minutes (votre jet de dix heures est inchangé). Si
+vous faites votre jet de guérison quand ce n'est pas votre tour, jusqu'à la fin
+de votre prochain tour toutes vos tâches sont entravées.
 
 Facilitateur.
