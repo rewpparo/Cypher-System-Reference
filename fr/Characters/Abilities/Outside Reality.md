@@ -1,14 +1,16 @@
-Outside Reality (6+ Intellect points) #Ability #TransformAbility #High #Core
+Hors de la réalité (6+ points d'Intellect) #Ability #TransformAbility #High
+#Core
 
-You exist outside of everything until the start of your next turn. To you, a few
-seconds pass while you are alone in a cool void. To everyone else, you seem to
-vanish for a few seconds and reappear in the same place. While in this unreal
-state, you can use abilities or objects on yourself, but you can’t perceive,
-interact with, or affect the rest of the world, and vice versa. Time-based
-effects already on you (like a poison that inflicts damage every round) are
-paused while you exist outside reality, but when this ability ends they resume
-as if no time had passed. In addition to the normal options for using Effort,
-you can choose to use Effort to increase the duration; each level of Effort used
-in this way adds one round to how long you spend outside reality.
+Vous existez hors de tout jusqu'au début de votre prochain tour. Pour vous,
+quelques secondes passent seul dans le vide froid. Pour le reste du monde, vous
+disparaissez pendant quelques secondes et réapparaissez au même endroit. Pendant
+que vous êtes dans cet état, vous pouvez utiliser des aptitudes ou des objets
+sur vous même, mais vous ne pouvez pas percevoir ou interagir avec, ou affecter
+le reste du monde, et vice versa. Les effets basés sur le temps que vous avez
+sur vous sont en pause pendant que vous êtes hors de la réalité, mais quand
+cette aptitude se termine ils reprennent comme au moment où vous êtes partis. En
+plus des options normales pour l'usage de l'Effort,vous pouvez choisir
+d'utiliser l'Effort pour augmenter la durée ; chaque niveau d'Effort utilisé de
+cette manière ajoute un round au temps que vous passez hors de la réalité.
 
 Facilitateur.
