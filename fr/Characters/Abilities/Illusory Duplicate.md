@@ -1,10 +1,11 @@
-Illusory Duplicate (2 Intellect points) #Ability #TransformAbility #Low #Core
+Double Illusoire (2 points d'Intellect) #Ability #TransformAbility #Low #Core
 
-You create a single image of yourself within immediate range. The image looks
-like you as you are now (including how you are dressed). The image can move (for
-example, you could make it walk or attack), but it can’t move more than an
-immediate distance from where you created it. The illusion includes sound and
-smell. It lasts for ten minutes and changes as you direct (no concentration is
-needed). If you move beyond short range of the illusion, it vanishes.
+Vous créez une image unique de vous à portée immédiate. L'image vous ressemble
+comme vous êtes maintenant (y compris vos vêtements). L'image peut bouger (par
+exemple vous pouvez la faire marcher ou attaquer), mais elle ne peut pas bouger
+plus loin que la distance immédiate de l'endroit où vous l'avez créée.
+L'illusion comprend le son et l'odeur. Elle dire 10 minutes et peut changer
+comme vous le souhaitez (aucune concentration n'est nécessaire). Si vous vous
+déplacez plus loin qu'une distance courte de l'image, elle disparait.
 
-Action to create.
+Action pour créer.
