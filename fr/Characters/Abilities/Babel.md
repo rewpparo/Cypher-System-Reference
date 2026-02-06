@@ -1,4 +1,4 @@
-babel #Ability #InformationAbility #Low #Core
+Babel #Ability #InformationAbility #Low #Core
 
 Après avoir entendu un langage pendant quelques minutes, vous pouvez le parler
 et vous faire comprendre. Si vous continuez à utiliser le langage pour interagir
