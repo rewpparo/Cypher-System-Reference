@@ -6,6 +6,6 @@ vous frapper physiquement lors de son prochain tour. La cible fera cette action
 même si ça lui fait quitter une formation ou abandonner un couvert ou une
 position tactiquement avantageuse. Que la cible vous frappe ou échoue à le
 faire, elle revient à ses sens juste après, et la si vous tentez de la provoquer
-à nouveau votre tâche sera gênée.
+à nouveau votre tâche sera entravée.
 
 Action pour initier.
