@@ -5,4 +5,4 @@ up to one hour. Once created, the disguise requires no concentration. For each
 additional Intellect point you spend, you can disguise one other creature. All
 disguised creatures must stay within sight of you or lose their disguise.
 
-Action to create.
+Action pour créer.
