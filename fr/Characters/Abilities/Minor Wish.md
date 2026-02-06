@@ -1,8 +1,9 @@
 Minor Wish #Ability #MetaAbility #ProtectionAbility #TaskAbility #Mid #Core
 
-At your request, the magic ally from your Bound Magic Creature ability can use
-its action to cast a minor spell on you. Afterward, it must retreat to its bound
-object to rest for one hour. The effects it can produce include the following.
+At your request, the magic ally from your [Bound Magic
+Creature](Bound%20Magic%20Creature.md) ability can use its action to cast a
+minor spell on you. Afterward, it must retreat to its bound object to rest for
+one hour. The effects it can produce include the following.
 
 > Golden Anger. A golden light touches your eyes. For the next several minutes,
 > if you attack a target, you inflict 2 additional points of damage.
