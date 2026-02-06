@@ -1,7 +1,8 @@
-Erase Memories (3 Intellect points) #Ability #SpecialAttackAbility #Low #Core
+Effacer la mémoire (3 points d'Intellect) #Ability #SpecialAttackAbility #Low
+#Core
 
-You reach into the mind of a creature within immediate range and make an
-Intellect roll. On a success, you erase up to the last five minutes of its
-memory.
+Vous entrez dans l'esprit d'une créature à portée immédiate et faites un jet
+d'Intellect. Si vous réussissez, vous effacez les cinq dernières minutes de sa
+mémoire.
 
 Action.
