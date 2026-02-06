@@ -1,15 +1,16 @@
-Bypass Barrier (6+ Intellect points) #Ability #MovementAbility #Mid #Core
+Contourner la barrière (6+ points d'Intellect) #Ability #MovementAbility #Mid
+#Core
 
-You get past a door, force field, or other barrier up to 3 feet (1 m) thick that
-is blocking your way. Depending on the barrier, this might involve finding a
-weak spot you can push through, pressing the right button by luck, just breaking
-through, or even weirder explanations like touching a thin place between
-dimensions or an unexpected interaction with your equipment. The difficulty of
-the task is the level of the barrier. This ability allows you alone to pass
-through, not anyone else, and the way through closes at the end of your turn
-(which might mean you’re trapped on the far side). You have an asset in any
-attempts to get through it again. In addition to the normal options for using
-Effort, you can choose to use Effort to increase the maximum thickness of the
-barrier, each level adding 3 feet (1 m).
+Vous passez une porte, un champ de force, ou autre barrière jusqu'à 1m
+d'épaisseur qui vous bloque le chemin. Selon la barrière, ça pourrait impliquer
+de trouver un point faible où pousser, appuyer sur le bon bouton par chance, la
+casser, ou d'autres explications plus bizarres comme passer par un espace fin
+entre les dimensions ou une interaction inattendue avec votre équipement. La
+difficulté de la tâche est le niveau de la barrière. Cette aptitude permet à
+vous seul de passer, personne d'autre, et le chemin se ferme à la fin de votre
+tour (ce qui veut dire que vous êtes coincé de l'autre coté). Vous avez un atout
+pour tenter de repasser. En plus des options normales pour l'usage de l'Effort,
+vous pouvez utiliser de l'Effort pour augmenter l'épaisseur maximale de la
+barrière, chaque niveau d'effort ajoute 1m.
 
 Action.
