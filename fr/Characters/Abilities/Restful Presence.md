@@ -1,6 +1,6 @@
-Restful Presence #Ability #CureAbility #Low #Core
+Présence apaisante #Ability #CureAbility #Low #Core
 
-Creatures who make a recovery roll within short range of you add +1 to their
-roll.
+Les créatures qui font un jet de guérison à portée courte de vous gagnent +1 à
+leur jet.
 
 Facilitateur.
