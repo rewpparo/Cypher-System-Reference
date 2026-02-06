@@ -1,8 +1,9 @@
-Eye for Detail (2 Intellect points) #Ability #InformationAbility #Low #Core
+L’œil pour les détails (2 points d'Intellect) #Ability #InformationAbility #Low
+#Core
 
-When you spend five minutes or so thoroughly exploring an area no larger than a
-short distance in diameter, you can ask the GM one question about the area. The
-GM must answer you truthfully. You cannot use this more than one time per area
-per 24 hours.
+Si vous passez cinq minutes environ à explorer en détail une zone d'un diamètre
+maximum d'une distance courte, vous pouvez poser une question au MJ sur cette
+zone. Le MJ doit vous répondre sincèrement. Vous ne pouvez pas utiliser cette
+aptitude plus d'une fois par zone par 24 heures.
 
-Action to initiate, five minutes to complete.
+Action pour initier, cinq minutes pour terminer.
