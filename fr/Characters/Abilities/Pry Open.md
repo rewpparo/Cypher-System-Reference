@@ -1,9 +1,10 @@
-Pry Open (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core
+Forcer (4 points d'Intellect) #Ability #SpecialAttackAbility #Mid #Core
 
-You tear apart the defenses of a creature within long range. Any energy-based
-defenses it has (such as a force field or a Ward ability) are negated for 1d6 +
-1 rounds. If the creature has no energy defenses, its Armor is reduced by 2 for
-one minute. If it has no energy-based defenses or Armor, attacks against it are
-eased for one minute.
+Vous forcez les défenses d'une créature à longue portée. Toute défense à base
+d'énergie qu'elle pourrait avoir (comme un champ de force ou l'aptitude Garde)
+est annulée pendant 1d6 + 1 rounds. Si la créature n'a pas de défense d'énergie,
+son Armure est réduite de 2 pendant une minute. Si elle n'a pas de défense basée
+sur l'énergie ni d'Amure, les attaque contre elle sont facilitées pendant une
+minute.
 
 Action.
