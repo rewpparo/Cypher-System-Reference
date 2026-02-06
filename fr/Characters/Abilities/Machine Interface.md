@@ -1,6 +1,6 @@
-Machine Interface (2 Intellect points) #Ability #TaskAbility #Low #Core
+Interface Machine (2 points d'Intellect) #Ability #TaskAbility #Low #Core
 
-For one minute you gain an asset on tasks to discern the level, function, and
-activation of technological devices that you touch.
+Pendant une minute, vous avez un atout sur les tâches pour discerner le niveau,
+la fonction, et l'activation des objets technologiques que vous touchez.
 
 Facilitateur.
