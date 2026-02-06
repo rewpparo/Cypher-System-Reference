@@ -1,7 +1,7 @@
-Far Step (2 Intellect points) #Ability #MovementAbility #Low #Core
+Saut en longueur (2 points d'Intellect) #Ability #MovementAbility #Low #Core
 
-You leap through the air and land some distance away. You can jump up, down, or
-across to anywhere you choose within long range if you have a clear and
-unobstructed path to that location. You land safely.
+Vous sautez en l'air et atterrissez plus loin. Vous pouvez sauter vers le haut,
+vers le bas, ou à travers tout à portée longue si vous avez un chemin visible et
+sans obstruction vers cet endroit. Vous atterrissez sans problème.
 
 Action.
