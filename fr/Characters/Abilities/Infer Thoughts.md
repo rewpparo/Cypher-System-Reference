@@ -7,4 +7,4 @@ thinking—through its body language, its speech, and what it does and doesn’t
 say—you can continue to infer the target’s surface thoughts for up to one minute
 as long as you can still see and hear the target.
 
-Action to prepare; action to initiate.
+Action pour préparer, action pour initier.
