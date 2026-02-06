@@ -1,11 +1,11 @@
 Heads-Up Display (2+ Intellect points) #Ability #AttackAbility #TaskAbility
 #SensesAbility #Low #Core
 
-Your Powered Armor ability comes with systems that help you make sense of,
-analyze, and use your weapons in your environment. When you trigger this
-ability, you gain an asset on one attack roll as the suit perfectly outlines
-foes and steadies your aim, regardless of whether you’re making a melee or
-ranged attack.
+Your [Powered Armor](Powered%20Armor.md) ability comes with systems that help
+you make sense of, analyze, and use your weapons in your environment. When you
+trigger this ability, you gain an asset on one attack roll as the suit perfectly
+outlines foes and steadies your aim, regardless of whether you’re making a melee
+or ranged attack.
 
 Alternatively, you can use the heads-up display to magnify your vision,
 increasing your vision range to 5 miles (8 km) for two rounds. If you apply one
