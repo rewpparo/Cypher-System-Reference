@@ -1,5 +1,6 @@
-Band of Followers #Ability #CompanionAbility #High #Core
+Bande de suivants #Ability #CompanionAbility #High #Core
 
-You gain four level 3 followers. They are not restricted on their modifications.
+Vous gagnez quatre suiveurs de niveau 3. Ils ne sont pas limités sur leurs
+modifications.
 
 Facilitateur.
