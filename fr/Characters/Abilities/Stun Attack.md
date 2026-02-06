@@ -1,11 +1,13 @@
-Stun Attack (6 Speed points) #Ability #SpecialAttackAbility #High #Core
+Attaque étourdissante (6 points de Célérité) #Ability #SpecialAttackAbility
+#High #Core
 
-You attempt a difficulty 5 Speed task to stun a creature as part of your melee
-or ranged attack. If you succeed, your attack inflicts its normal damage and
-stuns the creature for one round, causing it to lose its next turn. If you fail,
-you still make your normal attack roll, but you don’t stun the opponent if you
-hit. If you also have this ability from another source (such as having it as a
-type ability and a focus ability), using this costs you only 3 points instead of
-6 points.
+Vous tentez une tâche de difficulté 5 pour étourdir une créature avec votre
+attaque à distance ou de mêlée. Si vous réussissez, votre attaque inflige ses
+dégâts normaux et étourdit la créature pendant un round, ce qui lui fait perdre
+son prochain tour. Si vous échouez, vous pouvez toujours faire votre attaque
+normale, mais vous n'étourdissez pas votre adversaire si vous touchez. Si vous
+avez cette aptitude d'une autre source (par exemple une aptitude de type et une
+aptitude de focus), utiliser cette aptitude vous coûte 3 points au lieu de 6
+points.
 
 Action.
