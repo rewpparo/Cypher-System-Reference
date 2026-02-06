@@ -1,6 +1,6 @@
-Stimulate (6 Intellect points) #Ability #SupportFocus #High #Core
+Stimuler (6 points d'Intellect) #Ability #SupportFocus #High #Core
 
-Your words encourage a target you touch who can understand you. The next action
-it takes is eased by three steps.
+Vos mots encouragent une cible que vous touchez et qui peut vous comprendre. Sa
+prochaine action est facilitée de trois niveaux.
 
 Action.
