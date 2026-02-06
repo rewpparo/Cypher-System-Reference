@@ -1,6 +1,6 @@
-Tool Mastery #Ability #TaskAbility #Low #Core
+Maitrise des outils #Ability #TaskAbility #Low #Core
 
-When you have an asset from using a tool, the time required to perform the task
-is cut in half (minimum one round).
+Quand vous avez un atout grâce à l'utilisation d'un outil, le temps de la tâche
+est divisé par deux (minimum un round).
 
 Facilitateur.
