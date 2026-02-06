@@ -1,13 +1,14 @@
-Teach Trick (5+ Intellect points) #Ability #SupportFocus #High #Core
+Enseigner une Astuce (5+ points d'Intellect) #Ability #SupportFocus #High #Core
 
-You spend an hour instructing someone on how to perform a type ability that you
-know. The ability must be no higher than fourth tier. For one hour after you
-teach them, the student can perform that ability as if it were natural for them.
-They must pay the Might, Speed, or Intellect cost (if any) to use that ability.
-The student must be able to understand your instructions. In addition to the
-normal options for using Effort, you can choose to use Effort to increase how
-long the student can use the ability or to teach additional students at the same
-time; each level of Effort used in this way increases the duration by one hour
-or the number of students by one. One hour to initiate.
+Vous passez une heure à apprendre à quelqu'un comment utiliser une aptitude de
+type que vous connaissez. Cette aptitude ne peut pas être au dessus du rang 4.
+Pendant une heure après l'avoir enseignée, l'élève peut utiliser cette aptitude
+comme si c'était naturel pour eux. Ils doivent payer les couts en Puissance,
+Célérité, ou Intellect (s'il y en a) pour utiliser cette aptitude. L'élève doit
+être capable de comprendre vos instructions. En plus des options normales pour
+l'usage de l'Effort, vous pouvez utiliser l'Effort pour augmenter la durée
+pendant laquelle l'élève peut utiliser l'aptitude, ou pour enseigner des élèves
+supplémentaires ; chaque niveau d'Effort utilisé de cette manière augmente la
+durée d'une heure et le nombre d'élèves de 1. Une heure pour initier.
 
-Action; hour to complete.
+Action ; une heure pour terminer.
