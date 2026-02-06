@@ -1122,7 +1122,7 @@ attacks like an animal, and perform tasks using hands without being hindered.
 Anyone who sees you clearly in this hybrid form would never mistake you for a
 mere animal.
 
-Action de modifier ou de revenir en arrière.
+Action pour modifier ou annuler.
 
 Même si la forme de votre animal a plusieurs types d'attaques (comme les griffes
 et les morsures), vous ne pouvez attaquer qu'une seule fois par tour, à moins
@@ -1192,7 +1192,7 @@ distance courte ou longue lors de son tour.
 
 * **Mains** : L'animal a des pattes ou des mains presque aussi agiles que celles
 d'un humain. Contrairement à la plupart des formes d'animaux, les tâches de
-l'animal qui nécessitent des mains ne sont pas gênées (bien que le MJ puisse
+l'animal qui nécessitent des mains ne sont pas entravées (bien que le MJ puisse
 décider que certaines tâches nécessitant de l'agilité humaine, comme jouer de la
 flûte, sont toujours gênées).
 
@@ -1200,8 +1200,8 @@ Odeur : L'animal a un odorat très performant, acquérant un atout pour le pista
 et la gestion de l'obscurité ou de la cécité.
 
 Petit : L'animal est considérablement plus petit qu'un humain, ce qui facilite
-ses tâches de défense de Célérité mais gêne les tâches de déplacement d'objets
-lourds.
+ses tâches de défense de Célérité mais entrave les tâches de déplacement
+d'objets lourds.
 
 * **Venin** : L'animal est venimeux (généralement par morsure), lui infligeant 1
 point de dégâts supplémentaire.
