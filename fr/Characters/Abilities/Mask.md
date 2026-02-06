@@ -1,10 +1,11 @@
-Mask (5 Intellect points) #Ability #TransformAbility #High #Core
+Masque (5 points d'Intellect) #Ability #TransformAbility #High #Core
 
-You transform your body to become someone else. You can change any physical
-characteristic you wish, including coloration, height, weight, gender, and
-distinguishing markings. You can also change the appearance of whatever you are
-wearing or carrying. Your stats, as well as the stats of your items, do not
-change. You remain in this form for up to a day or until you use an action to
-resume your normal appearance.
+Vous transformez votre corps pour devenir quelqu'un d'autre. Vous pouvez changer
+les caractéristiques que vous souhaitez, y compris la coloration, la hauteur, le
+poids, le genre, et les marques distinctives. Vous pouvez aussi changer
+l'apparence de ce que vous portez. Vos caractéristiques, y compris les
+caractéristiques de votre équipement, ne changent pas. Vous restez dans cette
+forme pendant un jour, ou jusqu'à ce que vous utilisiez une action pour
+reprendre votre apparence normale.
 
 Action pour initier.
