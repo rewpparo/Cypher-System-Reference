@@ -1,9 +1,10 @@
 Contorsionniste (2 points de Célérité) #Ability #MovementAbility #TaskAbility
 #Low #Core
 
-You can wriggle free from bindings or squeeze through a tight spot. You are
-trained in escaping. When you use an action to escape or move through a tight
-area, you can immediately use another action. You may use this action only to
-move.
+Vous pouvez gigoter pour vous libérer de liens, ou vous glisser dans un coin
+étroit. Vous êtes entrainé en évasion. Vous pouvez utiliser une action pour vous
+échapper quand vous êtes dans un coin étroit, et pouvez immédiatement utiliser
+une autre action. Vous pouvez utiliser cette action uniquement pour vous
+déplacer.
 
 Facilitateur.
