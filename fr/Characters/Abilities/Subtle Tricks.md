@@ -1,15 +1,14 @@
-Subtle Tricks #Ability #MetaAbility #High #Core
+Astuces subtiles #Ability #MetaAbility #High #Core
 
-You can use your skills and special abilities in ways that don’t look like
-you’re doing anything. If the skill or ability would normally require an obvious
-movement, phrase, or other action by you, it instead seems to happen on its own.
-Instead of using your tools to pick a lock, the lock clicks open as you stand
-near it. Instead of manipulating a computer screen, the information you want
-appears on the screen when you look at it. Instead of bluffing your way past
-some guards, they step aside as you approach and let you through. This ability
-usually only works up to an immediate distance. You still must spend points and
-make rolls to use your skills and abilities with Subtle Tricks. Using a skill or
-ability in a subtle way hinders the task. This ability can’t be used to conceal
-your attack or defense rolls.
+Vous pouvez utiliser votre compétences et aptitudes spéciales de telle manière
+que vous donner l'impression de ne rien faire. Si la compétence ou l'aptitude
+requiert normalement un mouvement évident, une phrase, ou autre action de votre
+part, à la place elle a l'air de se déclencher toute seule. Au lieu d'utiliser
+vos outils pour crocheter une serrure, le verrou s'ouvre tout seul quand vous
+êtes à coté. Cette aptitude ne marche normalement qu'à distance immédiate. Vous
+devez toujours dépenser des points et faire vos jets pour vos compétences et
+aptitudes avec Astuces subtiles. Utiliser une compétence ou une aptitude d'une
+manière subtile entrave votre tâche. Cette aptitude ne peut pas camoufler des
+attaques ou des défenses.
 
 Facilitateur.
