@@ -97,7 +97,8 @@ Les Émissaires de premier rang ont les capacités suivantes :
   et un Avantage de Célérité de 0.
 - Utilisation de cypher : Vous pouvez porter deux cyphers en même temps.
 - Armes : Vous pouvez utiliser des armes légères sans pénalité. Vous êtes inapte
-  avec les armes moyennes et lourdes ; vos attaques avec ces armes sont gênées.
+  avec les armes moyennes et lourdes ; vos attaques avec ces armes sont
+  entravées.
 - Équipement de Départ : Vêtements appropriés et une arme légère de votre choix,
   ainsi que deux objets très cher, deux objets moyennement cher, et au plus
   quatre objets peu chers.
