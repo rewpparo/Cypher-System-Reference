@@ -1,10 +1,12 @@
-Improvise (3 Intellect points) #Ability #TaskAbility #Mid #Core
+Improvisation (3 points d'Intellect) #Ability #TaskAbility #Mid #Core
 
-When you perform a task in which you are not trained, you can improvise to gain
-an asset on the task. The asset might be a tool you cobble together, a sudden
-insight into overcoming a problem, or a rush of dumb luck.
+Quand vous faites une tâche pour laquelle vous n'êtes pas entrainé, vous pouvez
+improviser pour obtenir un atout sur la tâche. Cet atout peut être un outil que
+vous bricolez, ou une compréhension soudaine du problème, ou juste un coup de
+bol.
 
-(Improvise can be used on a task a character has an inability in, but instead of
-gaining an asset, the character just loses the inability penalty.)
+(Improvisation peut être utilisé sur une tâche pour laquelle le personnage a une
+inaptitude, mais au lieu de gagner un atout, le personnage perd juste la
+pénalité de son inaptitude.)
 
 Facilitateur.
