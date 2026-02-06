@@ -1,8 +1,9 @@
-Controlled Fall #Ability #MovementAbility #Mid #Core
+Chute Contrôlée #Ability #MovementAbility #Mid #Core
 
-When you fall while you are able to use actions and within reach of a vertical
-surface, you can attempt to slow your fall. Make a Speed roll with a difficulty
-of 1 for every 20 feet (6 m) you fall. On a success, you take half damage from
-the fall. If you reduce the difficulty to 0, you take no damage.
+Si vous tombez, que vous êtes capable d'agir, et à portée d'une surface
+verticale, vous pouvez tenter de ralentir votre chute. Faites un jet de célérité
+de difficulté 1 par 6m de chute. Si vous réussissez, vous ne prenez que la
+moitié des dégâts de chute. Si vous réduisez la difficulté à 0, vous ne prenez
+aucun dégâts.
 
 Facilitateur.
