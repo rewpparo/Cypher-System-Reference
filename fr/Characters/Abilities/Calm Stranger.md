@@ -1,10 +1,10 @@
-Calm Stranger (2+ Intellect points) #Ability #ControlAbility #Low #Core
+Calmer l'étranger (2+ points d'Intellect) #Ability #ControlAbility #Low #Core
 
-You can cause one intelligent creature to remain calm as you speak. The creature
-doesn’t need to speak your language, but it must be able to see you. It remains
-calm as long as you focus all your attention on it and it is not attacked or
-otherwise threatened. In addition to the normal options for using Effort, you
-can choose to use Effort to calm additional creatures allied with your initial
-target, one additional creature per level of Effort applied.
+Vous calmez une créature intelligente en lui parlant. La créature n'a pas à
+parler votre langue, mais doit pouvoir vous voir. Elle reste calme tant que vous
+vous concentrez toute votre attention sur elle et n'attaquera pas si elle n'est
+pas menacée. En plus des options normales pour l'usage de l'Effort, vous pouvez
+utiliser votre Effort pour calmer des créatures en plus de votre cible initiale,
+une créature supplémentaire par niveau d'Effort mis.
 
 Action.
