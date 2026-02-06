@@ -1,9 +1,10 @@
-Blurring Speed (7 Speed points) #Ability #MetaAbility #MovementAbility #High
-#Core
+A la Vitesse de la Lumière (7 points de Célérité) #Ability #MetaAbility
+#MovementAbility #High #Core
 
-You move so quickly that until your next turn, you look like a blur. While you
-are blurred, if you apply Effort to a melee attack task or Speed defense task,
-you get a free level of Effort on that task; you can move a short distance as
-part of another action or a long distance as your entire action.
+Vous vous déplacez si rapidement que jusqu'à votre prochain tour, vous
+apparaissez flou. Quand vous êtes flou, si vous mettez de l'Effort sur une
+attaque de mêlée ou une défense de Célérité, vous avez un niveau d'Effort
+gratuit ; vous pouvez vous déplacer d'une distance courte dans le cadre d'une
+autre action, ou d'une distance longue en utilisant toute votre action.
 
 Facilitateur.
