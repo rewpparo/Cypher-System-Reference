@@ -1,7 +1,8 @@
-Decipher (1 Intellect point) #Ability #InformationAbility #Low #Core
+Déchiffrer (1 point d'Intellect) #Ability #InformationAbility #Low #Core
 
-If you spend one minute examining a piece of writing or code in a language you
-do not understand, you can make an Intellect roll of difficulty 3 (or higher,
-based on the complexity of the language or code) to get the gist of the message.
+Si vous passez une minute à examiner un écrit ou un code dans un langage que
+vous ne comprenez pas, vous pouvez faire un jet d'Intellect de difficulté 4 (ou
+plus selon la complexité du langage ou du code) pour comprendre l'essentiel du
+message.
 
 Action pour initier.
