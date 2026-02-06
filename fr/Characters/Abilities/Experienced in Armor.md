@@ -1,6 +1,6 @@
 Expérimenté dans les Armures #Ability #MetaAbility #ProtectionAbility #Mid #Core
 
-La réduction de cout de votre aptitude Entrainé au port des Armures s'améliore.
-Vous réduisez maintenant la pénalité de Célérité de 2.
+The cost reduction from your [Practiced in Armor](Practiced%20in%20Armor.md)
+ability improves. You now reduce the Speed cost by 2.
 
 Facilitateur.
