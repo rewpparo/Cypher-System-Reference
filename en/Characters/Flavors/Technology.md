@@ -7,47 +7,47 @@ Some of the less computer-oriented abilities might be appropriate for a steampun
 
 # FIRST-TIER TECHNOLOGY ABILITIES
 
-- Datajack
-- Hacker
-- Machine Interface
-- Scramble Machine
-- Tech Skills
-- Tinker
+- [Datajack](../Abilities/Datajack.md)
+- [Hacker](../../Game%20Mastering/NPCs/Hacker.md)
+- [Machine Interface](../Abilities/Machine%20Interface.md)
+- [Scramble Machine](../Abilities/Scramble%20Machine.md)
+- [Tech Skills](../Abilities/Tech%20Skills.md)
+- [Tinker](../Abilities/Tinker.md)
 
 # SECOND-TIER TECHNOLOGY ABILITIES
 
-- Distant Interface
-- Machine Efficiency
-- Overload Machine
-- Serv-0
-- Serv-0 Defender
-- Serv-0 Repair
-- Tool Mastery
+- [Distant Interface](../Abilities/Distant%20Interface.md)
+- [Machine Efficiency](../Abilities/Machine%20Efficiency.md)
+- [Overload Machine](../Abilities/Overload%20Machine.md)
+- [Serv-0](../Abilities/Serv-0.md)
+- [Serv-0 Defender](../Abilities/Serv-0%20Defender.md)
+- [Serv-0 Repair](../Abilities/Serv-0%20Repair.md)
+- [Tool Mastery](../Abilities/Tool%20Mastery.md)
 
 # THIRD-TIER TECHNOLOGY ABILITIES
 
-- Mechanical Telepathy
-- Serv-0 Scanner
-- Ship Footing
-- Shipspeak
-- Spray
+- [Mechanical Telepathy](../Abilities/Mechanical%20Telepathy.md)
+- [Serv-0 Scanner](../Abilities/Serv-0%20Scanner.md)
+- [Ship Footing](../Abilities/Ship%20Footing.md)
+- [Shipspeak](../Abilities/Shipspeak.md)
+- [Spray](../Abilities/Spray.md)
 
 # FOURTH-TIER TECHNOLOGY ABILITIES
 
-- Machine Bond
-- Robot Fighter
-- Serv-0 Aim
-- Serv-0 Brawler
-- Serv-0 Spy
+- [Machine Bond](../Abilities/Machine%20Bond.md)
+- [Robot Fighter](../Abilities/Robot%20Fighter.md)
+- [Serv-0 Aim](../Abilities/Serv-0%20Aim.md)
+- [Serv-0 Brawler](../Abilities/Serv-0%20Brawler.md)
+- [Serv-0 Spy](../Abilities/Serv-0%20Spy.md)
 
 # FIFTH-TIER TECHNOLOGY ABILITIES
 
-- Control Machine
-- Jury-Rig
-- Machine Companion
+- [Control Machine](../Abilities/Control%20Machine.md)
+- [Jury-Rig](../Abilities/Jury-Rig.md)
+- [Machine Companion](../Abilities/Machine%20Companion.md)
 
 # SIXTH-TIER TECHNOLOGY ABILITIES
 
-- Information Gathering
-- Master Machine
+- [Information Gathering](../Abilities/Information%20Gathering.md)
+- [Master Machine](../Abilities/Master%20Machine.md)
 

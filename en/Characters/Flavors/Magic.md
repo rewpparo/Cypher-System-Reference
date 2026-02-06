@@ -6,48 +6,48 @@ An Explorer flavored with magic might be a wizard-hunter, and a Speaker with mag
 
 # FIRST-TIER MAGIC ABILITIES
 
-- Blessing of the Gods
-- Closed Mind
-- Entangling Force
-- Hedge Magic
-- Magic Training
-- Mental Link
-- Premonition
+- [Blessing of the Gods](../Abilities/Blessing%20of%20the%20Gods.md)
+- [Closed Mind](../Abilities/Closed%20Mind.md)
+- [Entangling Force](../Abilities/Entangling%20Force.md)
+- [Hedge Magic](../Abilities/Hedge%20Magic.md)
+- [Magic Training](../Abilities/Magic%20Training.md)
+- [Mental Link](../Abilities/Mental%20Link.md)
+- [Premonition](../Abilities/Premonition.md)
 
 # SECOND-TIER MAGIC ABILITIES
 
-- Concussive Blast
-- Fetch
-- Force Field
-- Lock
-- Repair Flesh
+- [Concussive Blast](../Abilities/Concussive%20Blast.md)
+- [Fetch](../Abilities/Fetch.md)
+- [FORCE FIELD](../../Game%20Mastering/Cyphers/FORCE%20FIELD.md)
+- [Lock](../Abilities/Lock.md)
+- [Repair Flesh](../Abilities/Repair%20Flesh.md)
 
 # THIRD-TIER MAGIC ABILITIES
 
-- Distance Viewing
-- Fire Bloom
-- Fling
-- Force at Distance
-- Summon Giant Spider
+- [Distance Viewing](../Abilities/Distance%20Viewing.md)
+- [Fire Bloom](../Abilities/Fire%20Bloom.md)
+- [Fling](../Abilities/Fling.md)
+- [Force at Distance](../Abilities/Force%20at%20Distance.md)
+- [Summon Giant Spider](../Abilities/Summon%20Giant%20Spider.md)
 
 # FOURTH-TIER MAGIC ABILITIES
 
-- Elemental Protection
-- Ignition
-- Pry Open
+- [Elemental Protection](../Abilities/Elemental%20Protection.md)
+- [Ignition](../Abilities/Ignition.md)
+- [Pry Open](../Abilities/Pry%20Open.md)
 
 # FIFTH-TIER MAGIC ABILITIES
 
-- Create
-- Divine Intervention
-- Dragon’s Maw
-- Fast Travel
-- True Senses
+- [Create](../Abilities/Create.md)
+- [Divine Intervention](../Abilities/Divine%20Intervention.md)
+- [Dragon’s Maw](../Abilities/Dragon’s%20Maw.md)
+- [Fast Travel](../Abilities/Fast%20Travel.md)
+- [True Senses](../Abilities/True%20Senses.md)
 
 # SIXTH-TIER MAGIC ABILITIES
 
-- Relocate
-- Summon Demon
-- Traverse the Worlds
-- Word of Death
+- [Relocate](../Abilities/Relocate.md)
+- [Summon Demon](../Abilities/Summon%20Demon.md)
+- [Traverse the Worlds](../Abilities/Traverse%20the%20Worlds.md)
+- [Word of Death](../Abilities/Word%20of%20Death.md)
 
