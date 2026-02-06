@@ -5,4 +5,4 @@ m) in size, shaped as you wish. The wall is a level 7 barrier. Anyone within
 immediate distance of the wall automatically takes 10 points of damage. The wall
 lasts for one hour.
 
-Action to create.
+Action pour créer.
