@@ -1,6 +1,6 @@
 Versatile Mind #Ability #ProtectionAbility #Mid #Core
 
-When you make a Speed defense roll, you can use your Intellect in place of your
-Speed.
+Quand vous faites un jet de défense de Célérité, vous pouvez utiliser votre
+Intellect à la place de votre Célérité.
 
 Facilitateur.
