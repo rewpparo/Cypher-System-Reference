@@ -1,14 +1,16 @@
-Memory Becomes Action (4+ Intellect points) #Ability #Core
+La Mémoire devient l'Action (4+ points d'Intellect) #Ability #Core
 
-You can duplicate a one-action character ability, performing it as if it were
-natural for you. You must have seen the ability used within the past week, it
-must be third tier or lower, and it must be an ability with a point cost. In
-addition to the point cost of Memory Becomes Action, you must pay the Might,
-Speed, or Intellect cost of the ability you are copying. For example, if you
-want to copy a friend’s [Lunge](Lunge.md) attack (which normally costs 2 Might
-points), you’d pay 4 Intellect points to activate Memory Becomes Action and 2
-Might points to use Lunge. In addition to the normal options for using Effort,
-you can choose to use Effort to copy an ability you saw longer than one week
-ago; each level of Effort used in this way extends the time period by one week.
+Vous pouvez dupliquer l'action d'un autre personnage, et la refaire comme si
+elle était naturelle pour vous. Vous devez avoir vu cette aptitude dans la
+dernière semaine, elle doit être de Rang 3 ou moins, et ce doit être une
+aptitude avec un cout en points. En plus du coup en point de La mémoire devient
+l'Action, vous devez payer le cout en Puissance, Célérité, ou Intellect de
+l'aptitude que vous copiez. Par exemple, si vous copier l'attaque [Fente En
+avant](Lunge.md) (qui coute normalement 2 points de Puissance), vous paierez 4
+points d'Intellect pour activer La Mémoire devient l'Action et 2 points de
+Puissance pour utiliser Fente en avant. En plus des options normales pour
+l'usage de l'Effort, vous pouvez utiliser l'Effort pour copier une aptitude qu
+vous avez vu il y a plus d'une semaine ; chaque niveau d'effort utilisé de cette
+manière étend la période d'une semaine.
 
 Facilitateur.
