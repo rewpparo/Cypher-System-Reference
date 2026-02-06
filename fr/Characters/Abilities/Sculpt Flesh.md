@@ -1,7 +1,7 @@
-Sculpt Flesh (2 Intellect points) #Ability #SupportAbility #Low #Core
+Sculpter la chair (2 points d'Intellect) #Ability #SupportAbility #Low #Core
 
-You cause a willing creature’s fingers to lengthen into claws and their teeth to
-grow into fangs. The effect lasts for ten minutes. The damage dealt by the
-target’s unarmed strikes increases to 4 points.
+Vous transformez les doigts d'une créature consentante en griffes, et ses dents
+en crocs. L'effet dure dix minutes. Les dégâts infligés par les attaques sans
+arme de la cible augmentent à 4 points.
 
 Action.
