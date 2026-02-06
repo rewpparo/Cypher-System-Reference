@@ -1,10 +1,10 @@
 Moderate Wish #Ability #MetaAbility #ProtectionAbility #TransformAbility #High
 #Core
 
-At your request, the magic ally from your Bound Magic Creature ability can spend
-its action casting a moderate spell on you. Afterward, it must retreat to its
-bound object to rest for at least one hour. The effects it can produce include
-the following.
+At your request, the magic ally from your [Bound Magic
+Creature](Bound%20Magic%20Creature.md) ability can spend its action casting a
+moderate spell on you. Afterward, it must retreat to its bound object to rest
+for at least one hour. The effects it can produce include the following.
 
 > Golden Armor. You gain +3 to Armor for one hour from a translucent sheen of
 > golden light.

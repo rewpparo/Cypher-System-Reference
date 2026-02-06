@@ -1,7 +1,8 @@
 Ice Storm #Ability #SpecialAttackAbility #High #Core
 
-You attempt an additional Intellect task as part of your Cold Burst attack, and
-if successful, you blind foes for up to one minute with a layer of freezing ice.
-All tasks of blinded creatures are hindered by two steps.
+You attempt an additional Intellect task as part of your [Cold
+Burst](Cold%20Burst.md) attack, and if successful, you blind foes for up to one
+minute with a layer of freezing ice. All tasks of blinded creatures are hindered
+by two steps.
 
 Facilitateur.

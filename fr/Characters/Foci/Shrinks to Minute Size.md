@@ -3,14 +3,16 @@ Shrinks to Minute Size #Focus #Core #SuperHeroes
 You can shrink down to the size of a bug and, with enough experience, even
 smaller.
 
-- Tier 1: Shrink
-- Tier 1: Beneath Notice
-- Tier 2: Smaller
-- Tier 2: Advantages of Being Small
-- Tier 3: Enlarge or Quick Switch
-- Tier 4: Small Flight
-- Tier 5: Shrink Others
-- Tier 6: Bigger or Tiny
+- Tier 1: [Shrink](../Abilities/Shrink.md)
+- Tier 1: [Beneath Notice](../Abilities/Beneath%20Notice.md)
+- Tier 2: [Smaller](../Abilities/Smaller.md)
+- Tier 2: [Advantages of Being
+  Small](../Abilities/Advantages%20of%20Being%20Small.md)
+- Tier 3: [Enlarge](../Abilities/Enlarge.md) or [Quick
+  Switch](../Abilities/Quick%20Switch.md)
+- Tier 4: [Small Flight](../Abilities/Small%20Flight.md)
+- Tier 5: [Shrink Others](../Abilities/Shrink%20Others.md)
+- Tier 6: [Bigger](../Abilities/Bigger.md) or [Tiny](../Abilities/Tiny.md)
 
 GM Intrusions: A creature thinks the small character is potential food. The
 small character gets trapped in a tiny space or under a falling object.
