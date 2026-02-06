@@ -1,9 +1,9 @@
-Mental Link (1+ Intellect point) #Ability #SensesAbility #Low #Core
+Lien mental (1+ point d'Intellect) #Ability #SensesAbility #Low #Core
 
-You open a pathway to another creature’s mind via a light touch, which allows
-you to transmit thoughts and images to each other. The mental link remains
-regardless of distance and lasts for one hour. In addition to the normal options
-for using Effort, you can choose to use Effort to extend the duration by one
-hour for each level of Effort applied.
+Vous ouvrez un chemin vers l'esprit d'une créature par un léger toucher, ce qui
+vous permet de transmettre des pensées et des images l'un à l'autre. Le lien
+mental reste effectif quel que soit la distance et dure une heure. En plus des
+options normales pour l'usage de l'Effort, vous pouvez choisir d'utiliser
+l'Effort pour augmenter la durée d'une heure pour chaque niveau d'effort mis.
 
 Action pour initier.
