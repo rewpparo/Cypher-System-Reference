@@ -32,7 +32,9 @@ The contents should be only the CSRD, and all the CSRD. No content that is not i
 # Progress
 
 Work on CSRD 2025-08-22
-Core is pretty much done, could use some more linking
+
+Core is pretty much done, Genres still a lot to do
+
 French translation : ![French Translation](https://hosted.weblate.org/widget/cypher-system-reference/-/fr/svg-badge.svg)
 
 
