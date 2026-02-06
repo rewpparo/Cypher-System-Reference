@@ -1,6 +1,6 @@
 Masterful Armor Modification #Ability #CompanionAbility #MetaAbility #MovementAbility #ProtectionAbility #High #Core 
 
-Choose one of the following modifications to make to the Powered Armor from your Powered Armor ability. If you choose to make a different modification later, you can do so, but you must spend 2 XP each time and substitute the updated modification for the previous modification.
+Choose one of the following modifications to make to the Powered Armor from your [Powered Armor](Powered%20Armor.md) ability. If you choose to make a different modification later, you can do so, but you must spend 2 XP each time and substitute the updated modification for the previous modification.
 
 Cypher Pod. The power armor provides an insulated pod in which you can carry one additional manifest cypher beyond what your cypher limit normally allows. Enabler.
 

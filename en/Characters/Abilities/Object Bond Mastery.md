@@ -1,6 +1,6 @@
 Object Bond Mastery (7 Intellect points) #Ability #CompanionAbility #High #Core 
 
-When you manifest the magic ally from your Bound Magic Creature ability, it is now a level 7 creature. It can remain manifest for only three minutes, after which it must return to its object and rest for three days before you can manifest it again.
+When you manifest the magic ally from your [Bound Magic Creature](Bound%20Magic%20Creature.md) ability, it is now a level 7 creature. It can remain manifest for only three minutes, after which it must return to its object and rest for three days before you can manifest it again.
 
 The magic ally can make its own magic touch attacks (when it does, you roll for it). If it uses its pulse attack from Improved Object Bond, instead of deactivating items, it can take control of one item within short range for one minute, if applicable.
 

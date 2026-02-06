@@ -1,5 +1,5 @@
 Roaming Third Eye (3 Intellect points) #Ability #MetaAbility #Mid #Core 
 
-When you use your Third Eye ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position. 
+When you use your [Third Eye](Third%20Eye.md) ability, you can place the sensor anywhere within long range. In addition, until that ability ends, you can use an action to move the sensor anywhere within short range of its starting position. 
 
 Enabler.

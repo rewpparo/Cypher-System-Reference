@@ -1,5 +1,5 @@
 Defending Weapon #Ability #Core #Fantasy 
 
-When using your enchanted weapon, you are trained in Speed defense tasks. 
+When using your [Enchanted Weapon](Enchanted%20Weapon.md), you are trained in Speed defense tasks. 
 
 Enabler.
