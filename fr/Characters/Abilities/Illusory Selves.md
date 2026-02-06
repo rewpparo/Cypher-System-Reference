@@ -5,4 +5,4 @@ duplicates last for one minute. You mentally direct their actions, and the
 duplicates aren’t mirror images—each one can do different things. If struck
 violently, they either disappear permanently or freeze motionless (your choice).
 
-Action to create.
+Action pour créer.
