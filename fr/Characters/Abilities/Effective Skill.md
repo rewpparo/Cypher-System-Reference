@@ -1,9 +1,10 @@
-Effective Skill #Ability #MetaAbility #High #Core
+Compétence Effective #Ability #MetaAbility #High #Core
 
-Choose one noncombat skill when you gain this ability. You get a minor effect
-with that skill when you roll a natural 14 or higher (the d20 shows “14” or
-more). You get a major effect with that skill when you roll a natural 19 or
-higher (the d20 shows “19” or higher). You can select this ability more than
-once. Each time you select it, you must choose a different noncombat skill.
+Choisissez une compétence hors combat quand vous gagnez cette aptitude. Vous
+avez un effet mineur avec cette compétence quand vous faites un 14 ou plus (le
+d20 fait 14 ou plus). Vous avez un effet majeur avec cette compétence quand vous
+faites un 19 ou plus (le d20 fait 19 ou plus). Vous pouvez choisir cette
+aptitude plus d'une fois. Chaque vois que vous la choisissez, vous devez choisir
+une compétence hors combat différente.
 
 Facilitateur.
