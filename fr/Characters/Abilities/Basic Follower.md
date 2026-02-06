@@ -1,10 +1,10 @@
-Basic Follower #Ability #CompanionAbility #Low #Core
+Disciple basique #Ability #CompanionAbility #Low #Core
 
-You gain a level 2 follower. One of their modifications must be persuasion. You
-can take this ability multiple times, each time gaining another level 2
-follower.
+Vous obtenez un disciple de niveau 2. Une de ses modifications doit être
+persuasion. Vous pouvez prendre cette aptitude plusieurs fois, en gagnant à
+chaque fois un autre disciple de niveau 2.
 
-(When you use Basic Follower, the GM may require that you actually look for a
-suitable follower.)
+(Quand vous utilisez Disciple basique, le MJ peut vous demander de faire une
+recherche pour trouver un disciple qui convient.)
 
 Facilitateur.
