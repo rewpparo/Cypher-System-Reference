@@ -9,7 +9,7 @@ forme, vos statistiques restent les mêmes que votre forme normale, mais vous
 pouvez vous déplacer et attaquer en fonction de la forme de votre animal (les
 attaques de la plupart des animaux de cette taille sont des armes moyennes, que
 vous pouvez utiliser sans pénalité). Les tâches nécessitant des mains (comme
-utiliser des poignées de porte ou appuyer sur des boutons) sont gênées
+utiliser des poignées de porte ou appuyer sur des boutons) sont entravées
 lorsqu'ils sont sous forme animale. Vous ne pouvez pas parler mais pouvez
 toujours utiliser des capacités qui ne dépendent pas de la parole humaine. Vous
 gagnez deux capacités mineures associées à la créature que vous devenez (voir le
@@ -26,7 +26,7 @@ forme hybride est comme votre forme normale mais avec des caractéristiques
 animales, même si cet animal est beaucoup plus petit que vous (comme une
 chauve-souris ou un rat). Dans cette forme hybride, vous pouvez parler, utiliser
 toutes vos capacités, effectuer des attaques comme un animal et effectuer des
-tâches en utilisant vos mains sans être gêné. Quiconque vous voit clairement
+tâches en utilisant vos mains sans être entravé. Quiconque vous voit clairement
 sous cette forme hybride ne vous prendra jamais pour un simple animal.
 
 "Similaire" est un terme vague. Les lions ressemblent aux tigres et aux
@@ -89,15 +89,15 @@ prend cette forme.
   une distance courte ou longue lors de son tour.
 - * **Mains** : L'animal a des pattes ou des mains presque aussi agiles que
   celles d'un humain. Contrairement à la plupart des formes d'animaux, les
-  tâches de l'animal qui nécessitent des mains ne sont pas gênées (bien que le
-  MJ puisse décider que certaines tâches nécessitant de l'agilité humaine, comme
-  jouer de la flûte, sont toujours gênées).
+  tâches de l'animal qui nécessitent des mains ne sont pas entravées (bien que
+  le MJ puisse décider que certaines tâches nécessitant de l'agilité humaine,
+  comme jouer de la flûte, sont toujours gênées).
 - Odeur : L'animal a un odorat très performant, acquérant un atout pour le
   pistage et la gestion de l'obscurité ou de la cécité.
 - Petit : L'animal est considérablement plus petit qu'un humain, ce qui facilite
-  ses tâches de défense de Célérité mais gêne les tâches de déplacement d'objets
-  lourds.
+  ses tâches de défense de Célérité mais entrave les tâches de déplacement
+  d'objets lourds.
 - * **Venin** : L'animal est venimeux (généralement par morsure), lui infligeant
   1 point de dégâts supplémentaire.
 
-Action de modifier ou de revenir en arrière.
+Action pour modifier ou annuler.
