@@ -1,15 +1,16 @@
-Crowd Control (6+ Intellect points) #Ability #ControlAbility #Mid #Core
+Contrôle de foule (6+ points d'Intellect) #Ability #ControlAbility #Mid #Core
 
-You control the actions of up to five creatures in short range. This effect
-lasts for one minute. All targets must be level 2 or lower. Your control is
-limited to simple verbal commands like “Stop,” “Run away,” “Follow that guard,”
-“Look over there,” or “Get out of my way.” All affected creatures respond to the
-command unless you specifically command them otherwise. In addition to the
-normal options for using Effort, you can choose to use Effort to increase the
-maximum level of the targets or affect an additional five people. Thus, to
-control a group that has a level 4 target (two levels above the normal limit) or
-a group of fifteen people, you must apply two levels of Effort. When the Crowd
-Control ability ends, the creatures remember your commands but don’t remember
-being controlled—your commands seemed reasonable at the time.
+Vous contrôlez les actions de 5 personnes maximum à potée courte. Cet effet dure
+une minute. Toutes les cibles doivent être niveau 2 ou moins. Votre contrôle est
+limité à de simples commandes verbales comme "stop", "fuyez", "suivez ce garde",
+"regardez par là", ou "sortez de mon chemin". Toutes les créatures affectées
+répondent à votre ordre à moins que vous ne leur ayez spécifiquement ordonné de
+ne pas le faire. En plus des options normales pour l'usage de l'Effort, vous
+pouvez utiliser l'effort pour augmenter le niveau maximum des cibles ou affecter
+plus de 5 cibles. Donc, pour contrôler un groupe qui a une cible de niveau 4
+(deux niveau au dessus de la limite normale), vous devez mettre deux niveaux
+d'effort. Quand l'effet se termine, la créature se rappelle votre ordre mais ne
+se rappelle pas avoir été contrôlé—votre ordre semblait juste tout à fait
+raisonnable sur le moment.
 
 Action pour initier.
