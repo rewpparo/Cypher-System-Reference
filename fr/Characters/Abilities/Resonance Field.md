@@ -1,12 +1,12 @@
-Resonance Field (1 Intellect point) #Ability #ProtectionAbility
+Champ de Résonance (1 point d'Intellect) #Ability #ProtectionAbility
 #SpecialAttackAbility #Low #Core
 
-Faint lines in a color you choose form a tracery over your entire body and emit
-faint light. The effect lasts for one minute. Whenever a creature within
-immediate range makes an attack against you, the pattern energizes to block the
-attack. You can make an Intellect defense roll in place of the defense roll you
-would normally make. If you do so and you get a minor effect, the creature
-attacking you takes 1 point of damage. If you get a major effect, the creature
-attacking you takes 4 points of damage.
+De fines lignes d'une couleur de cotre choix forment un motif sur tout votre
+corps et émettent une faible lueur. L'effet dure une minute. Quand une créature
+à portée immédiate vous attaque, le motif s'énergise pour bloquer l'attaque.
+Vous pouvez faire un jet de défense d'Intellect à la place du jet de défense que
+vous auriez normalement fait. Si vous le faites et que vous avez un effet
+mineur, la créature qui vous attaque subit 1 point de dégâts. Si vous avez un
+effet majeur, la créature qui vous attaque subit 4 points de dégâts.
 
 Action pour initier.
