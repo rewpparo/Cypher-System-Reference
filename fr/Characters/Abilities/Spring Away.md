@@ -1,6 +1,7 @@
-Spring Away (5 Speed points) #Ability #SpecialAttackAbility #High #Core
+Pirouette (5 points de Célérité) #Ability #SpecialAttackAbility #High #Core
 
-Whenever you succeed on a Speed defense roll, you can immediately move up to a
-short distance. You cannot use this ability more than once in a given round.
+Quand vous réussissez un jet de défense de Célérité, vous vous déplacez
+immédiatement d'une distance courte. Vous ne pouvez pas utiliser cette aptitude
+plus d'une fois pendant un round.
 
 Facilitateur.
