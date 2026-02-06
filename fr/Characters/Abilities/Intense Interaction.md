@@ -1,6 +1,6 @@
-Intense Interaction (3 Intellect points) #Ability #TaskAbility #Mid #Core
+Interaction Intense (3 points d'Intellect) #Ability #TaskAbility #Mid #Core
 
-You gain an asset on intimidating, persuading, and influencing people for ten
-minutes.
+Vous gagnez un atout pour intimider, persuader et influencer les gens pendant
+dix minutes.
 
 Action.
