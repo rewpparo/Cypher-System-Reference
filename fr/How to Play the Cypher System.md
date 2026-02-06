@@ -28,8 +28,8 @@ niveau** (ou juste **diminuer la difficulté**, ce qui suppose d'un niveau).
 S'ils sont spécialisés en escalade, ils changent une ascension de difficulté 6
 en une ascension de difficulté 4. Ceci s'appelle **diminuer la difficulté de
 deux niveaux**. Diminuer la difficulté d'une tâche s'appelle aussi **faciliter
-une tâche**. Certaines situations augmentent, ou **gênent**, la difficulté d'une
-tâche. Si une tâche est gênée, sa difficulté augmente d'un niveau.
+une tâche**. Certaines situations augmentent, ou **entravent**, la difficulté
+d'une tâche. Si une tâche est entravée, sa difficulté augmente d'un niveau.
 
 Une compétence est une catégorie de connaissance, une capacité, ou activité liée
 à une tâche, comme l'escalade, la géographie ou la persuasion. Un personnage qui
