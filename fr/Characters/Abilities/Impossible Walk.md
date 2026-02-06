@@ -1,12 +1,13 @@
-Impossible Walk (5+ Speed points) #Ability #MovementAbility #High #Core
+Marche impossible (5+ points de Célérité) #Ability #MovementAbility #High #Core
 
-You can walk (or crawl or run) on steep inclines and horizontal surfaces (such
-as walls and cliffs) for the next minute as if they were flat ground. When using
-this ability, “down” for you is either the surface you are walking on or the
-normal orientation of gravity (your choice). If you apply one level of Effort,
-you can also walk on the ceiling or on a liquid or semi-liquid surface such as
-water, mud, quicksand, or even lava (although touching a dangerous surface like
-lava still harms you). If you apply two levels of Effort, you can also walk on
-air as if it were solid ground.
+Vous pouvez marcher (ou ramper ou courir) sur des pans très inclinés ou des
+surfaces verticales (comme des murs ou des falaises) pendant les prochaines
+minutes, comme si c'était le sol. Quand vous utilisez cette aptitude, le "bas"
+pour vous est soit la surface sur laquelle vous marchez, soit la direction de la
+gravité (votre choix). Si vous mettez un niveau d'Effort, vous pouvez également
+marcher sur le plafond une surface semi-liquide comme l'eau, la boue, les sables
+mouvants, et même la lave (même si toucher une surface dangereuse comme la lave
+vous fait toujours du mal). Si vous mettez deux niveau d'Effort, vous pouvez
+marcher dans les airs comme si c'était le sol.
 
 Facilitateur.
