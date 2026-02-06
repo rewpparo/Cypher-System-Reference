@@ -1,9 +1,9 @@
-Gambler #Ability #MetaAbility #High #Core
+Parieur #Ability #MetaAbility #High #Core
 
-Each day, choose two different numbers from 2 to 16. One number is your lucky
-number, and the other is your unlucky number. Whenever you make a roll that day
-and get a number matching your lucky number, your next task is eased. Whenever
-you make a roll that day and get a number matching your unlucky number, your
-next task is hindered.
+Chaque jour, choisissez deux nombres différents entre 2 et 16. L'un est votre
+nombre chanceux, l'autre votre nombre malchanceux. A chaque fois que vous faites
+un jet ce jour et obtenez votre nombre chanceux, votre prochaine tâche est
+facilitée. A chaque fois que vous faites un jet ce jour et obtenez votre nombre
+malchanceux, votre prochaine tâche est entravée.
 
 Facilitateur.
