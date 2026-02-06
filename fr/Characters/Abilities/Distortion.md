@@ -1,8 +1,8 @@
-Distortion (2 Intellect points) #Ability #ProtectionAbility #Low #Core
+Distorsion (2 points d'Intellect) #Ability #ProtectionAbility #Low #Core
 
-You modify how a willing creature within short range reflects light for one
-minute. The target rapidly shifts between its normal appearance and a blot of
-darkness. The target has an asset on Speed defense rolls until the effect wears
-off.
+Vous modifiez la manière dont une créature consentante à courte portée réfléchit
+la lumière pendant une minute. La cible oscille rapidement entre son apparence
+normale et une tâche d'obscurité. La cible a un atout sur ses jets de défense de
+Célérité jusqu'à ce que l'effet se termine.
 
 Action pour initier.
