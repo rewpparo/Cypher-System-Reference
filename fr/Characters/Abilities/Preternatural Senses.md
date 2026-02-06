@@ -1,6 +1,6 @@
-Preternatural Senses #Ability #CureAbility #TaskAbility #Mid #Core
+Sens Surnaturels #Ability #CureAbility #TaskAbility #Mid #Core
 
-While you are conscious and able to use an action, you cannot be surprised. In
-addition, you are trained in initiative actions.
+Quand vous êtes conscient et pouvez faire une action, vous ne pouvez pas être
+surpris. De plus, vous êtes entrainé dans les actions d'Initiative.
 
 Facilitateur.
