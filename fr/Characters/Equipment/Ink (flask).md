@@ -1,0 +1,1 @@
+Flask of Ink #Item #Moderate #Core #Fantasy 10gp
