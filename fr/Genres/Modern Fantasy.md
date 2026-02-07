@@ -1,6 +1,6 @@
 ## Univers
 
-## Characters
+## Personnages
 
 ### DESCRIPTORS
 
