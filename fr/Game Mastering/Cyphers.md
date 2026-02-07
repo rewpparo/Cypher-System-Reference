@@ -386,173 +386,173 @@ suggestions include the following.
 
 # MANIFEST CYPHER TABLE
 
-|       |                              |
-| ----- | ---------------------------- |
-| 01–03 | Adhesion                     |
-| 04–05 | Antivenom                    |
-| 06–09 | Armor reinforcer             |
-| 10–11 | Attractor                    |
-| 12–13 | Blackout                     |
-| 14–15 | Catholicon                   |
-| 16–17 | Curse bringer                |
-| 18–19 | Death bringer                |
-| 20–22 | Density                      |
-| 23–26 | Detonation                   |
-| 27–29 | Detonation (flash)           |
-| 30–31 | Detonation (massive)         |
-| 32–34 | Detonation (pressure)        |
-| 35–36 | Detonation (sonic)           |
-| 37–38 | Detonation (spawn)           |
-| 39–41 | Detonation (web)             |
-| 42–44 | Equipment cache              |
-| 45–46 | Fireproofing                 |
-| 47–49 | Friction reducer             |
-| 50–52 | Gas bomb                     |
-| 53–55 | Hunter/seeker                |
-| 56–57 | Infiltrator                  |
-| 58–60 | Information sensor           |
-| 61–63 | Metal death                  |
-| 64–65 | Nullification ray            |
-| 66–68 | Poison (emotion)             |
-| 69–70 | Poison (mind disrupting)     |
-| 71–73 | Radiation spike              |
-| 74–76 | Remote viewer                |
-| 77–79 | Shocker                      |
-| 80–82 | Sleep inducer                |
-| 83–85 | Sniper module                |
-| 86–88 | Solvent                      |
-| 89–90 | Spy                          |
-| 91–92 | Tracer                       |
-| 93–94 | Uninterruptible power source |
-| 95–96 | Warmth                       |
-| 97–98 | Water adapter                |
-| 99–00 | X-ray viewer                 |
+|       |                                                                             |
+| ----- | --------------------------------------------------------------------------- |
+| 01–03 | [ADHESION](Cyphers/ADHESION.md)                                             |
+| 04–05 | [ANTIVENOM](Cyphers/ANTIVENOM.md)                                           |
+| 06–09 | [ARMOR REINFORCER](Cyphers/ARMOR%20REINFORCER.md)                           |
+| 10–11 | [ATTRACTOR](Cyphers/ATTRACTOR.md)                                           |
+| 12–13 | [BLACKOUT](Cyphers/BLACKOUT.md)                                             |
+| 14–15 | [CATHOLICON](Cyphers/CATHOLICON.md)                                         |
+| 16–17 | [CURSE BRINGER](Cyphers/CURSE%20BRINGER.md)                                 |
+| 18–19 | [DEATH BRINGER](Cyphers/DEATH%20BRINGER.md)                                 |
+| 20–22 | [DENSITY](Cyphers/DENSITY.md)                                               |
+| 23–26 | [DETONATION](Cyphers/DETONATION.md)                                         |
+| 27–29 | [DETONATION (FLASH)](Cyphers/DETONATION%20(FLASH).md)                       |
+| 30–31 | [DETONATION (MASSIVE)](Cyphers/DETONATION%20(MASSIVE).md)                   |
+| 32–34 | [DETONATION (PRESSURE)](Cyphers/DETONATION%20(PRESSURE).md)                 |
+| 35–36 | [DETONATION (SONIC)](Cyphers/DETONATION%20(SONIC).md)                       |
+| 37–38 | [DETONATION (SPAWN)](Cyphers/DETONATION%20(SPAWN).md)                       |
+| 39–41 | [DETONATION (WEB)](Cyphers/DETONATION%20(WEB).md)                           |
+| 42–44 | [EQUIPMENT CACHE](Cyphers/EQUIPMENT%20CACHE.md)                             |
+| 45–46 | [FIREPROOFING](Cyphers/FIREPROOFING.md)                                     |
+| 47–49 | [FRICTION REDUCER](Cyphers/FRICTION%20REDUCER.md)                           |
+| 50–52 | [GAS BOMB](Cyphers/GAS%20BOMB.md)                                           |
+| 53–55 | [HUNTER/SEEKER](Cyphers/HUNTERSEEKER.md)                                    |
+| 56–57 | [INFILTRATOR](Cyphers/INFILTRATOR.md)                                       |
+| 58–60 | [INFORMATION SENSOR](Cyphers/INFORMATION%20SENSOR.md)                       |
+| 61–63 | [METAL DEATH](Cyphers/METAL%20DEATH.md)                                     |
+| 64–65 | [NULLIFICATION RAY](Cyphers/NULLIFICATION%20RAY.md)                         |
+| 66–68 | [POISON (EMOTION)](Cyphers/POISON%20(EMOTION).md)                           |
+| 69–70 | [POISON (MIND DISRUPTING)](Cyphers/POISON%20(MIND%20DISRUPTING).md)         |
+| 71–73 | [RADIATION SPIKE](Cyphers/RADIATION%20SPIKE.md)                             |
+| 74–76 | [REMOTE VIEWER](Cyphers/REMOTE%20VIEWER.md)                                 |
+| 77–79 | [SHOCKER](Cyphers/SHOCKER.md)                                               |
+| 80–82 | [SLEEP INDUCER](Cyphers/SLEEP%20INDUCER.md)                                 |
+| 83–85 | [SNIPER MODULE](Cyphers/SNIPER%20MODULE.md)                                 |
+| 86–88 | [SOLVENT](Cyphers/SOLVENT.md)                                               |
+| 89–90 | [SPY](Cyphers/SPY.md)                                                       |
+| 91–92 | [TRACER](Cyphers/TRACER.md)                                                 |
+| 93–94 | [UNINTERRUPTIBLE POWER SOURCE](Cyphers/UNINTERRUPTIBLE%20POWER%20SOURCE.md) |
+| 95–96 | [WARMTH](Cyphers/WARMTH.md)                                                 |
+| 97–98 | [WATER ADAPTER](Cyphers/WATER%20ADAPTER.md)                                 |
+| 99–00 | [X-RAY VIEWER](Cyphers/X-RAY%20VIEWER.md)                                   |
 
 # FANTASTIC CYPHER TABLE
 
-|       |                                |
-| ----- | ------------------------------ |
-| 01    | Age taker                      |
-| 02    | Banishing                      |
-| 03–04 | Blinking                       |
-| 05    | Chemical factory               |
-| 06    | Comprehension                  |
-| 07–08 | Condition remover              |
-| 09    | Controlled blinking            |
-| 10    | Detonation (creature)          |
-| 11    | Detonation (desiccating)       |
-| 12    | Detonation (gravity)           |
-| 13    | Detonation (gravity inversion) |
-| 14    | Detonation (matter disruption) |
-| 15    | Detonation (singularity)       |
-| 16    | Disguise module                |
-| 17    | Disrupting                     |
-| 18    | Farsight                       |
-| 19    | Flame-retardant wall           |
-| 20    | Force cube                     |
-| 21–22 | Force field                    |
-| 23    | Force screen projector         |
-| 24    | Force shield projector         |
-| 25    | Frigid wall                    |
-| 26–27 | Gravity nullifier              |
-| 28    | Gravity-nullifying application |
-| 29–30 | Heat attack                    |
-| 31    | Image projector                |
-| 32    | Inferno wall                   |
-| 33–34 | Instant servant                |
-| 35    | Instant shelter                |
-| 36    | Lightning wall                 |
-| 37–38 | Machine control                |
-| 39    | Magnetic attack drill          |
-| 40    | Magnetic master                |
-| 41    | Magnetic shield                |
-| 42    | Manipulation beam              |
-| 43    | Matter transference ray        |
-| 44    | Memory switch                  |
-| 45    | Mental scrambler               |
-| 46    | Mind meld                      |
-| 47    | Mind-restricting wall          |
-| 48–49 | Monoblade                      |
-| 50    | Monohorn                       |
-| 51    | Null field                     |
-| 52–53 | Personal environment field     |
-| 54–55 | Phase changer                  |
-| 56    | Phase disruptor                |
-| 57    | Poison (explosive)             |
-| 58    | Poison (mind controlling)      |
-| 59    | Psychic communique             |
-| 60    | Ray emitter                    |
-| 61    | Ray emitter (command)          |
-| 62    | Ray emitter (fear)             |
-| 63    | Ray emitter (friend slaying)   |
-| 64    | Ray emitter (mind disrupting)  |
-| 65    | Ray emitter (numbing)          |
-| 66    | Ray emitter (paralysis)        |
-| 67    | Reality spike                  |
-| 68    | Repair unit                    |
-| 69    | Repeater                       |
-| 70–71 | Retaliation                    |
-| 72    | Sheen                          |
-| 73–74 | Shock attack                   |
-| 75    | Slave maker                    |
-| 76    | Sonic hole                     |
-| 77–78 | Sound dampener                 |
-| 79    | Spatial warp                   |
-| 80    | Stasis keeper                  |
-| 81    | Subdual field                  |
-| 82–83 | Telepathy                      |
-| 84    | Teleporter (bounder)           |
-| 85    | Teleporter (interstellar)      |
-| 86    | Teleporter (planetary)         |
-| 87    | Teleporter (traveler)          |
-| 88    | Temporal viewer                |
-| 89    | Time dilation (defensive)      |
-| 90    | Time dilation (offensive)      |
-| 91    | Trick embedder                 |
-| 92    | Vanisher                       |
-| 93–94 | Visage changer                 |
-| 95    | Visual displacement device     |
-| 96    | Vocal translator               |
-| 97–98 | Weapon enhancement             |
-| 99    | Wings                          |
-| 00    | Zero point field               |
+|       |                                                                                 |
+| ----- | ------------------------------------------------------------------------------- |
+| 01    | [AGE TAKER](Cyphers/AGE%20TAKER.md)                                             |
+| 02    | [BANISHING](Cyphers/BANISHING.md)                                               |
+| 03–04 | [BLINKING](Cyphers/BLINKING.md)                                                 |
+| 05    | [CHEMICAL FACTORY](Cyphers/CHEMICAL%20FACTORY.md)                               |
+| 06    | [COMPREHENSION](Cyphers/COMPREHENSION.md)                                       |
+| 07–08 | [CONDITION REMOVER](Cyphers/CONDITION%20REMOVER.md)                             |
+| 09    | [CONTROLLED BLINKING](Cyphers/CONTROLLED%20BLINKING.md)                         |
+| 10    | [DETONATION (CREATURE)](Cyphers/DETONATION%20(CREATURE).md)                     |
+| 11    | [DETONATION (DESICCATING)](Cyphers/DETONATION%20(DESICCATING).md)               |
+| 12    | [DETONATION (GRAVITY)](Cyphers/DETONATION%20(GRAVITY).md)                       |
+| 13    | [DETONATION (GRAVITY INVERSION)](Cyphers/DETONATION%20(GRAVITY%20INVERSION).md) |
+| 14    | [DETONATION (MATTER DISRUPTION)](Cyphers/DETONATION%20(MATTER%20DISRUPTION).md) |
+| 15    | [DETONATION (SINGULARITY)](Cyphers/DETONATION%20(SINGULARITY).md)               |
+| 16    | [DISGUISE MODULE](Cyphers/DISGUISE%20MODULE.md)                                 |
+| 17    | [DISRUPTING](Cyphers/DISRUPTING.md)                                             |
+| 18    | [FARSIGHT](Cyphers/FARSIGHT.md)                                                 |
+| 19    | [FLAME-RETARDANT WALL](Cyphers/FLAME-RETARDANT%20WALL.md)                       |
+| 20    | [FORCE CUBE](Cyphers/FORCE%20CUBE.md)                                           |
+| 21–22 | [FORCE FIELD](Cyphers/FORCE%20FIELD.md)                                         |
+| 23    | [FORCE SCREEN PROJECTOR](Cyphers/FORCE%20SCREEN%20PROJECTOR.md)                 |
+| 24    | [FORCE SHIELD PROJECTOR](Cyphers/FORCE%20SHIELD%20PROJECTOR.md)                 |
+| 25    | [FRIGID WALL](Cyphers/FRIGID%20WALL.md)                                         |
+| 26–27 | [GRAVITY NULLIFIER](Cyphers/GRAVITY%20NULLIFIER.md)                             |
+| 28    | [GRAVITY-NULLIFYING APPLICATION](Cyphers/GRAVITY-NULLIFYING%20APPLICATION.md)   |
+| 29–30 | [HEAT ATTACK](Cyphers/HEAT%20ATTACK.md)                                         |
+| 31    | [IMAGE PROJECTOR](Cyphers/IMAGE%20PROJECTOR.md)                                 |
+| 32    | [INFERNO WALL](Cyphers/INFERNO%20WALL.md)                                       |
+| 33–34 | [INSTANT SERVANT](Cyphers/INSTANT%20SERVANT.md)                                 |
+| 35    | [INSTANT SHELTER](Cyphers/INSTANT%20SHELTER.md)                                 |
+| 36    | [LIGHTNING WALL](Cyphers/LIGHTNING%20WALL.md)                                   |
+| 37–38 | [MACHINE CONTROL](Cyphers/MACHINE%20CONTROL.md)                                 |
+| 39    | [MAGNETIC ATTACK DRILL](Cyphers/MAGNETIC%20ATTACK%20DRILL.md)                   |
+| 40    | [MAGNETIC MASTER](Cyphers/MAGNETIC%20MASTER.md)                                 |
+| 41    | [MAGNETIC SHIELD](Cyphers/MAGNETIC%20SHIELD.md)                                 |
+| 42    | [MANIPULATION BEAM](Cyphers/MANIPULATION%20BEAM.md)                             |
+| 43    | [MATTER TRANSFERENCE RAY](Cyphers/MATTER%20TRANSFERENCE%20RAY.md)               |
+| 44    | [MEMORY SWITCH](Cyphers/MEMORY%20SWITCH.md)                                     |
+| 45    | [MENTAL SCRAMBLER](Cyphers/MENTAL%20SCRAMBLER.md)                               |
+| 46    | [MIND MELD](Cyphers/MIND%20MELD.md)                                             |
+| 47    | [MIND-RESTRICTING WALL](Cyphers/MIND-RESTRICTING%20WALL.md)                     |
+| 48–49 | [MONOBLADE](Cyphers/MONOBLADE.md)                                               |
+| 50    | [MONOHORN](Cyphers/MONOHORN.md)                                                 |
+| 51    | [NULL FIELD](Cyphers/NULL%20FIELD.md)                                           |
+| 52–53 | [PERSONAL ENVIRONMENT FIELD](Cyphers/PERSONAL%20ENVIRONMENT%20FIELD.md)         |
+| 54–55 | [PHASE CHANGER](Cyphers/PHASE%20CHANGER.md)                                     |
+| 56    | [PHASE DISRUPTOR](Cyphers/PHASE%20DISRUPTOR.md)                                 |
+| 57    | [POISON (EXPLOSIVE)](Cyphers/POISON%20(EXPLOSIVE).md)                           |
+| 58    | [POISON (MIND CONTROLLING)](Cyphers/POISON%20(MIND%20CONTROLLING).md)           |
+| 59    | [PSYCHIC COMMUNIQUE](Cyphers/PSYCHIC%20COMMUNIQUE.md)                           |
+| 60    | [RAY EMITTER](Cyphers/RAY%20EMITTER.md)                                         |
+| 61    | [RAY EMITTER (COMMAND)](Cyphers/RAY%20EMITTER%20(COMMAND).md)                   |
+| 62    | [RAY EMITTER (FEAR)](Cyphers/RAY%20EMITTER%20(FEAR).md)                         |
+| 63    | [RAY EMITTER (FRIEND SLAYING)](Cyphers/RAY%20EMITTER%20(FRIEND%20SLAYING).md)   |
+| 64    | [RAY EMITTER (MIND DISRUPTING)](Cyphers/RAY%20EMITTER%20(MIND%20DISRUPTING).md) |
+| 65    | [RAY EMITTER (NUMBING)](Cyphers/RAY%20EMITTER%20(NUMBING).md)                   |
+| 66    | [RAY EMITTER (PARALYSIS)](Cyphers/RAY%20EMITTER%20(PARALYSIS).md)               |
+| 67    | [REALITY SPIKE](Cyphers/REALITY%20SPIKE.md)                                     |
+| 68    | [REPAIR UNIT](Cyphers/REPAIR%20UNIT.md)                                         |
+| 69    | [REPEATER](Cyphers/REPEATER.md)                                                 |
+| 70–71 | [RETALIATION](Cyphers/RETALIATION.md)                                           |
+| 72    | [SHEEN](Cyphers/SHEEN.md)                                                       |
+| 73–74 | [SHOCK ATTACK](Cyphers/SHOCK%20ATTACK.md)                                       |
+| 75    | [SLAVE MAKER](Cyphers/SLAVE%20MAKER.md)                                         |
+| 76    | [SONIC HOLE](Cyphers/SONIC%20HOLE.md)                                           |
+| 77–78 | [SOUND DAMPENER](Cyphers/SOUND%20DAMPENER.md)                                   |
+| 79    | [SPATIAL WARP](Cyphers/SPATIAL%20WARP.md)                                       |
+| 80    | [STASIS KEEPER](Cyphers/STASIS%20KEEPER.md)                                     |
+| 81    | [SUBDUAL FIELD](Cyphers/SUBDUAL%20FIELD.md)                                     |
+| 82–83 | [TELEPATHY](Cyphers/TELEPATHY.md)                                               |
+| 84    | [TELEPORTER (BOUNDER)](Cyphers/TELEPORTER%20(BOUNDER).md)                       |
+| 85    | [TELEPORTER (INTERSTELLAR)](Cyphers/TELEPORTER%20(INTERSTELLAR).md)             |
+| 86    | [TELEPORTER (PLANETARY)](Cyphers/TELEPORTER%20(PLANETARY).md)                   |
+| 87    | [TELEPORTER (TRAVELER)](Cyphers/TELEPORTER%20(TRAVELER).md)                     |
+| 88    | [TEMPORAL VIEWER](Cyphers/TEMPORAL%20VIEWER.md)                                 |
+| 89    | [TIME DILATION (DEFENSIVE)](Cyphers/TIME%20DILATION%20(DEFENSIVE).md)           |
+| 90    | [TIME DILATION (OFFENSIVE)](Cyphers/TIME%20DILATION%20(OFFENSIVE).md)           |
+| 91    | [TRICK EMBEDDER](Cyphers/TRICK%20EMBEDDER.md)                                   |
+| 92    | [VANISHER](Cyphers/VANISHER.md)                                                 |
+| 93–94 | [VISAGE CHANGER](Cyphers/VISAGE%20CHANGER.md)                                   |
+| 95    | [VISUAL DISPLACEMENT DEVICE](Cyphers/VISUAL%20DISPLACEMENT%20DEVICE.md)         |
+| 96    | [VOCAL TRANSLATOR](Cyphers/VOCAL%20TRANSLATOR.md)                               |
+| 97–98 | [WEAPON ENHANCEMENT](Cyphers/WEAPON%20ENHANCEMENT.md)                           |
+| 99    | [WINGS](Cyphers/WINGS.md)                                                       |
+| 00    | [ZERO POINT FIELD](Cyphers/ZERO%20POINT%20FIELD.md)                             |
 
 # SUBTLE CYPHER TABLE
 
-|       |                             |
-| ----- | --------------------------- |
-| 01–04 | Analeptic                   |
-| 05–07 | Best tool                   |
-| 08–10 | Burst of speed              |
-| 11–13 | Contingent activator        |
-| 14–17 | Curative                    |
-| 18–20 | Darksight                   |
-| 21–23 | Disarm                      |
-| 24–26 | Eagleseye                   |
-| 27–29 | Effect resistance           |
-| 30–32 | Effort enhancer (combat)    |
-| 33–35 | Effort enhancer (noncombat) |
-| 36–39 | Enduring shield             |
-| 40–42 | Intellect booster           |
-| 43–45 | Intelligence enhancement    |
-| 46–48 | Knowledge enhancement       |
-| 49–51 | Meditation aid              |
-| 52–54 | Mind stabilizer             |
-| 55–57 | Motion sensor               |
-| 58–60 | Nutrition and hydration     |
-| 61–63 | Perfect memory              |
-| 64–66 | Perfection                  |
-| 67–69 | Reflex enhancer             |
-| 70–73 | Rejuvenator                 |
-| 74–76 | Remembering                 |
-| 77–79 | Repel                       |
-| 80–82 | Secret                      |
-| 83–85 | Skill boost                 |
-| 86–88 | Speed boost                 |
-| 89–91 | Stim                        |
-| 92–94 | Strength boost              |
-| 95–97 | Strength enhancer           |
-| 98–00 | Tissue regeneration         |
+|       |                                                                           |
+| ----- | ------------------------------------------------------------------------- |
+| 01–04 | [ANALEPTIC](Cyphers/ANALEPTIC.md)                                         |
+| 05–07 | [BEST TOOL](Cyphers/BEST%20TOOL.md)                                       |
+| 08–10 | [BURST OF SPEED](Cyphers/BURST%20OF%20SPEED.md)                           |
+| 11–13 | [CONTINGENT ACTIVATOR](Cyphers/CONTINGENT%20ACTIVATOR.md)                 |
+| 14–17 | [CURATIVE](Cyphers/CURATIVE.md)                                           |
+| 18–20 | [DARKSIGHT](Cyphers/DARKSIGHT.md)                                         |
+| 21–23 | [DISARM](Cyphers/DISARM.md)                                               |
+| 24–26 | [EAGLESEYE](Cyphers/EAGLESEYE.md)                                         |
+| 27–29 | [EFFECT RESISTANCE](Cyphers/EFFECT%20RESISTANCE.md)                       |
+| 30–32 | [EFFORT ENHANCER (COMBAT)](Cyphers/EFFORT%20ENHANCER%20(COMBAT).md)       |
+| 33–35 | [EFFORT ENHANCER (NONCOMBAT)](Cyphers/EFFORT%20ENHANCER%20(NONCOMBAT).md) |
+| 36–39 | [ENDURING SHIELD](Cyphers/ENDURING%20SHIELD.md)                           |
+| 40–42 | [INTELLECT BOOSTER](Cyphers/INTELLECT%20BOOSTER.md)                       |
+| 43–45 | [INTELLIGENCE ENHANCEMENT](Cyphers/INTELLIGENCE%20ENHANCEMENT.md)         |
+| 46–48 | [KNOWLEDGE ENHANCEMENT](Cyphers/KNOWLEDGE%20ENHANCEMENT.md)               |
+| 49–51 | [MEDITATION AID](Cyphers/MEDITATION%20AID.md)                             |
+| 52–54 | [MIND STABILIZER](Cyphers/MIND%20STABILIZER.md)                           |
+| 55–57 | [MOTION SENSOR](Cyphers/MOTION%20SENSOR.md)                               |
+| 58–60 | [NUTRITION AND HYDRATION](Cyphers/NUTRITION%20AND%20HYDRATION.md)         |
+| 61–63 | [PERFECT MEMORY](Cyphers/PERFECT%20MEMORY.md)                             |
+| 64–66 | [PERFECTION](Cyphers/PERFECTION.md)                                       |
+| 67–69 | [REFLEX ENHANCER](Cyphers/REFLEX%20ENHANCER.md)                           |
+| 70–73 | [REJUVENATOR](Cyphers/REJUVENATOR.md)                                     |
+| 74–76 | [REMEMBERING](Cyphers/REMEMBERING.md)                                     |
+| 77–79 | [REPEL](Cyphers/REPEL.md)                                                 |
+| 80–82 | [SECRET](Cyphers/SECRET.md)                                               |
+| 83–85 | [SKILL BOOST](Cyphers/SKILL%20BOOST.md)                                   |
+| 86–88 | [SPEED BOOST](Cyphers/SPEED%20BOOST.md)                                   |
+| 89–91 | [STIM](Cyphers/STIM.md)                                                   |
+| 92–94 | [STRENGTH BOOST](Cyphers/STRENGTH%20BOOST.md)                             |
+| 95–97 | [STRENGTH ENHANCER](Cyphers/STRENGTH%20ENHANCER.md)                       |
+| 98–00 | [TISSUE REGENERATION](Cyphers/TISSUE%20REGENERATION.md)                   |
 
 # A LISTING OF VARIOUS CYPHERS
 
