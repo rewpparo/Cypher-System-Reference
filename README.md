@@ -1,14 +1,14 @@
 ![](Compatible-with-the-Cypher-System-Logo-color-small.png)
 
-Cypher System Reference is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community at large to use, commercialy or otherwise, according to Monte Cook Games licencing.
+Cypher System Reference is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community at large to use, commercialy or otherwise, under CSOL.
 
 # Welcome !
 
-The goal of this project is to produce a version of the Cypher System Reference Document that is cleaned up with separate files for abilities, types, flavor, descriptors, foci, cyphers, creatures and so on, with consistent formating, and is many languages.
+The goal of this project is to produce a version of the Cypher System Reference Document that is cleaned up with separate files for abilities, types, flavor, descriptors, foci, cyphers, creatures and so on, with consistent formating, and in many languages.
 
 # Progress
 
-- Working on CSRD 2025-08-22 (probably the last CSRD until Cypher2)
+- Working off CSRD 2025-08-22 (probably the last CSRD until Cypher2)
 - Core is pretty much done, Genres still a lot to do
 - French translation : ![French Translation](https://hosted.weblate.org/widget/cypher-system-reference/-/fr/svg-badge.svg)
 
@@ -21,13 +21,13 @@ The goal of this project is to produce a version of the Cypher System Reference 
 # Rules for contributing
 
 - Contributions to the repository should only include work on root, /en and /CSRD. All pull request containing work elsewhere will be rejected.
-- Contributions should only use the CSRD and information, such as tags, that can be direcly infered from the CSRD. No original content, no content that is not in the CSRD.
+- Contributions should only use the CSRD and information, such as tags, that can be direcly infered from the CSRD. No content from outside CSRD should be used, even if original.
 - Follow the formating guide below
 - All contributions to translations should be made via weblate. Weblate has authority on any material in the repository that is not the root, /en and /CSRD.
-- Translations should NOT include any translation from a local publisher. Reusing common game terms in the weblate glossary is fine, but all translations should be your own.
+- Translations should NOT include any translation from a local publisher. Reusing common game terms found in the weblate glossary is fine, but all translations should be your own.
 
 - To contribute to the formating of the CSRD, clone the repository, work off the branch of the CSRD version used, and make a pull request.
-- To contirbute to translation, [apply for translating](https://hosted.weblate.org/engage/cypher-system-reference/). Find a weblate tutorial in your language [here](https://docs.weblate.org/en/latest/user/translating.html)
+- To contribute to translations, [apply for translating](https://hosted.weblate.org/engage/cypher-system-reference/). Find a weblate tutorial in your language [here](https://docs.weblate.org/en/latest/user/translating.html)
 
 # Formatting reference
 
