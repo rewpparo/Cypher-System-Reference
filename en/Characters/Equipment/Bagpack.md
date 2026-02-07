@@ -1,0 +1,1 @@
+Bagpack #Item #Container #Moderate #Core #Fantasy 2gp #Modern #ScienceFiction
