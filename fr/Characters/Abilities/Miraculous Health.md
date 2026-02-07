@@ -1,4 +1,4 @@
-Soins miraculeux #Abilité #CureAbility #Mid #Core
+Soins miraculeux #Ability #CureAbility #Mid #Core
 
 Lorsque vous descendez un pas sur la voie des dommages, vous pouvez tenter une
 tâche Might de résister, avec une difficulté égale au niveau du brouillard ou de
