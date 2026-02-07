@@ -27,7 +27,11 @@ The goal of this project is to produce a version of the Cypher System Reference 
 - Translations should NOT include any translation from a local publisher. Reusing common game terms found in the weblate glossary is fine, but all translations should be your own.
 
 - To contribute to the formating of the CSRD, clone the repository, work off the branch of the CSRD version used, and make a pull request.
-- To contribute to translations, [apply for translating](https://hosted.weblate.org/engage/cypher-system-reference/). Find a weblate tutorial in your language [here](https://docs.weblate.org/en/latest/user/translating.html)
+
+- To contribute to translations, [apply for translating](https://hosted.weblate.org/engage/cypher-system-reference/).
+- Find a weblate tutorial in your language [here](https://docs.weblate.org/en/latest/user/translating.html)
+- To get started, take a look at types, descriptors and foci, translating them and their abilities. Then maybe take a look a sentence or two from the large rules files ?
+- To start a new language, talk to me first. Expect to start with the glossary of game terms to make work easier
 
 # Formatting reference
 
