@@ -53,7 +53,7 @@ be considered a cold-forged weapon for harming fey creatures. Thus, most bullets
 and other modern items wouldn’t be treated as cold iron by this definition, but
 some would fit the bill.
 
-## Characters
+## Personnages
 
 ### FORM VS. FUNCTION
 
