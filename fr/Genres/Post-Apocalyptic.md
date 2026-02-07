@@ -11,7 +11,7 @@ strike, the long-awaited robot uprising, a powerful solar flare that burns out
 the world’s power grids and communications, or even something as prosaic as a
 global disease pandemic.
 
-## Characters
+## Personnages
 
 ### SUGGESTED TYPES FOR A POST-APOCALYPTIC GAME
 
