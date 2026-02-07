@@ -32,7 +32,7 @@
 	- [Romance](Genres/Romance.md)
 	- [Post-Apocalyptic](Genres/Post-Apocalyptic.md)
 	- [Historical](Genres/Historical.md)
-	- [Cyberpunk](Genres/Cyberpunk.md)
+	- [Cyberpunk](Genres/Cyberpunk/Cyberpunk.md)
 	- [Weird West](Genres/Weird%20West.md)
 	- [Modern Fantasy](Genres/Modern%20Fantasy.md)
 - Game Mastering
