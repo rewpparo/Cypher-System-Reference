@@ -14,7 +14,7 @@ when you pull the fire alarm on the thirty-fifth floor of a major hotel in a
 large city? How fast do the authorities arrive? In truth, the facts aren’t as
 important as the story you’re creating, but some verisimilitude is nice.
 
-## Characters
+## Personnages
 
 ### Types
 
