@@ -32,7 +32,7 @@ d'autres genres (ou pour s'ajuster à différents concepts de personnage).
 Au final, des options plus fondamentales de personnalisation sont fournies à la
 fin de ce chapitre.
 
-# PLAYER INTRUSION
+# INTRUSION DE JOUEUR
 
 Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans
 la campagne, rendant les choses plus facile pour le PJ. De manière conceptuelle,
