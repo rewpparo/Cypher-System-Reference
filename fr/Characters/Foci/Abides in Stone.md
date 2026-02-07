@@ -12,7 +12,7 @@ humanoid.
 - Tier 4: [Deep Reserves](../Abilities/Deep%20Reserves.md)
 - Tier 5: [Specialized Basher](../Abilities/Specialized%20Basher.md)
 - Tier 5: [Still As a Statue](../Abilities/Still%20As%20a%20Statue.md)
-- Tier 6: [Ultra Enhancement](../Abilities/Ultra%20Enhancement.md) or [Mind
+- Tier 6 : [Ultra Enhancement](../Abilities/Ultra%20Enhancement.md) or [Mind
   Surge](../Abilities/Mind%20Surge.md)
 
 GM Intrusions: Creatures of stone sometimes forget their own strength or weight.
