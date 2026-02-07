@@ -1,0 +1,1 @@
+Bottle Of Wine #Item #Food #Moderate #Core #Fantasy 10gp

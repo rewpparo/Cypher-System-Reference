@@ -1,0 +1,1 @@
+Hourglass #Item #Moderate #Core #Fantasy 25gp

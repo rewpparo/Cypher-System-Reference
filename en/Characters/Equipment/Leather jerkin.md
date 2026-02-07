@@ -1,0 +1,3 @@
+Leather jerkin #Item #ArmorLight #Moderate #Core #Fantasy 10gp
+
+Armor made of hardened pieces of leather (usually boiled or treated with chemicals) that mainly covers your torso. It’s stiffer than leather used for clothing, but still flexible enough that you can bend and twist in it. Some jerkins are reinforced with metal studs (and may be called “studded leather”), and brigandine improves upon that concept.
