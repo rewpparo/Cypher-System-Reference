@@ -1,0 +1,5 @@
+Peasant’s outfit #Item #Clothing #Inexpensive #Core #Fantasy 1sp
+
+Very simple clothing for free people of low social status. Includes a kerchief
+or cap, shirt or blouse, trousers or skirt, and heavy cloth shoes or foot
+wrappings.
