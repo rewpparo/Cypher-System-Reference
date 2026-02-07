@@ -1,0 +1,7 @@
+Elven chainmail #Item #ArmorMedium #Exorbitant #Core #Fantasy 8000gp
+
+A high-quality suit of chainmail crafted by a skilled elf, providing good
+protection and excellent mobility. Elven chainmail is medium armor (2 Armor) but
+is no more encumbering than a typical outfit of normal clothing (it has no Speed
+Effort cost). Not all elf-crafted chainmail counts as this type of armor (only
+exceptionally skilled elven smiths know how to make it).
