@@ -1,6 +1,6 @@
 ## Univers
 
-## Characters
+## Personnages
 
 ### Suggested Types for a Weird West Game
 
