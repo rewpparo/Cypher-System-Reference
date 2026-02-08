@@ -1,4 +1,4 @@
-Foul Aura (5+ Intellect points) #Ability #SpecialAttackAbility #High #Core
+Aura fétide (5+ points d'Intellect) #Ability #SpecialAttackAbility #High #Core
 
 Your words, gestures, and touch invest an object no larger than yourself with an
 aura of doom, fear, and doubt for one day. Creatures that can hear and
