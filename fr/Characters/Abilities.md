@@ -909,7 +909,7 @@ city or letting you take advantage of your social status.
 - [Betrayal](Abilities/Betrayal.md)
 - [Flamboyant Boast](Abilities/Flamboyant%20Boast.md)
 - [Informer](Abilities/Informer.md)
-- - [Talent Oratoire](../Abilities/Oratory.md)
+- [Éloquence](Abilities/Oratory.md)
 - [Perfect Stranger](Abilities/Perfect%20Stranger.md)
 
 **Rang Haut : **
