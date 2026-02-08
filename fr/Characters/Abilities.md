@@ -769,7 +769,7 @@ damage.
 - [Anticipation de l'attaque](Abilities/Anticipate%20Attack.md)
 - [Blood Fever](Abilities/Blood%20Fever.md)
 - [Cloak of Opportunity](Abilities/Cloak%20of%20Opportunity.md)
-- - [Moqueries confondantes](../Abilities/Confounding%20Banter.md)
+- [Moqueries Déconcertantes](Abilities/Confounding%20Banter.md)
 - [Confuse Enemy](Abilities/Confuse%20Enemy.md)
 - [Counter Danger](Abilities/Counter%20Danger.md)
 - [Countermeasures](Abilities/Countermeasures.md)
