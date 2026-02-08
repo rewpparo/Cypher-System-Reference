@@ -1,4 +1,4 @@
-Psychosis (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core
+Psychose (4 points d'Intellect) #Ability #SpecialAttackAbility #Mid #Core
 
 Your words inflict a destructive psychosis in the mind of a target within long
 range that can understand you, dealing 6 points of Intellect damage (ignores
