@@ -188,7 +188,7 @@ inférieur par une différente d'un rang inférieur.
 - [Discipline de Vigilance](../Abilities/Discipline%20of%20Watchfulness.md)
 - [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
 - [Fuite](../Abilities/Flee.md)
-- - [Aura fétide](../Abilities/Foul%20Aura.md)
+- [Aura Fétide](../Abilities/Foul%20Aura.md)
 - - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
 - - [Régénérer](../Abilities/Regenerate.md)
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
