@@ -1,8 +1,9 @@
-Cutting Light (2 Intellect points) #Ability #SpecialAttackAbility #Low #Core
+Lumière tranchante (2 points d'Intellect) #Ability #SpecialAttackAbility #Low
+#Core
 
-You emit a thin beam of energized light from your hand. This inflicts 5 points
-of damage to a single foe in immediate range. The beam is even more effective
-against immobile, nonliving targets, slicing up to 1 foot (30 cm) of any
-material that is level 6 or lower. The material can be up to 1 foot thick.
+Vous émettez un fin rayon de lumière énergisée depuis votre main. Il inflige 5
+points de dégâts à une cible unique à portée immédiate. Le rayon est encore plus
+efficace sur des cibles inertes, et découpe 30cm de n'importe quel matériau de
+niveau 6 ou moins. Le matériau peut avoir une épaisseur de 30cm.
 
 Action.
