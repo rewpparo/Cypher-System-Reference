@@ -569,7 +569,7 @@ the die as something different than normal.
 - [Speed Burst](Abilities/Speed%20Burst.md)
 - - [Briseur de Pierre](../Abilities/Stone%20Breaker.md)
 - [Store Energy](Abilities/Store%20Energy.md)
-- - [Elaborer une stratégie](../Abilities/Strategize.md)
+- [Élaborer une stratégie](Abilities/Strategize.md)
 - - [Pensez à votre sortie](../Abilities/Think%20Your%20Way%20Out.md)
 - [Tower of Will](Abilities/Tower%20of%20Will.md)
 - [Trust to Luck](Abilities/Trust%20to%20Luck.md)
