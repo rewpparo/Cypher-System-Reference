@@ -1,6 +1,6 @@
-Practiced With Medium Weapons #Ability #AttackAbility #Low #Core
+Exercé avec les Armes Moyennes #Ability #AttackAbility #Low #Core
 
-You can use light and medium weapons without penalty. If you wield a heavy
-weapon, attacks with it are hindered.
+Vous pouvez utiliser les armes légères et moyennes sans pénalité. Si vous
+utilisez une arme lourde, vos attaques sont entravées.
 
 Facilitateur.
