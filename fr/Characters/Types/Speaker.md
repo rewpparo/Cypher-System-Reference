@@ -156,7 +156,7 @@ inférieur par une différente d'un rang inférieur.
 - [Esprit Perspicace](../Abilities/Discerning%20Mind.md)
 - [Expert dans l'utilisation des cypher](../Abilities/Expert%20Cypher%20Use.md)
 - [Disciple expert](../Abilities/Expert%20Follower.md)
-- - [Grande Déception](../Abilities/Grand%20Deception.md)
+- [Grande Imposture](../Abilities/Grand%20Deception.md)
 - - [Mené par l'enquête](../Abilities/Lead%20By%20Inquiry.md)
 - - [Lecture mentale](../Abilities/Mind%20Reading.md)
 - - [Talent Oratoire](../Abilities/Oratory.md)
