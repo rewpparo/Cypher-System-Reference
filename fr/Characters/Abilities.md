@@ -210,7 +210,7 @@ fear gas, and so on.
 - - [Fuir](../Abilities/Flee.md)
 - [Psychic Passenger](Abilities/Psychic%20Passenger.md)
 - [Show Them the Way](Abilities/Show%20Them%20the%20Way.md)
-- - [Suggestion](../Abilities/Suggestion.md)
+- [Suggestion](Abilities/Suggestion.md)
 - - [Mot de commandement](../Abilities/Word%20Of%20Command.md)
 
 # CRAFT
