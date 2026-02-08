@@ -170,7 +170,7 @@ different one from a lower tier.
 - [Mind Control](../Abilities/Mind%20Control.md)
 - [Projection](../Abilities/Projection.md)
 - [Rapid Processing](../Abilities/Rapid%20Processing.md)
-- - [Régénérer](../Abilities/Regenerate.md)
+- [Régénération](../Abilities/Regeneration.md)
 - [Reshape](../Abilities/Reshape.md)
 - [Wormhole](../Abilities/Wormhole.md)
 
