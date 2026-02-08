@@ -7,4 +7,4 @@ location is warded). The sensor lasts for one hour. Once it is created, you can
 concentrate to see, hear, and smell through the sensor. It doesn’t grant you
 sensory capabilities beyond the norm.
 
-Action to create; action to check.
+Action pour activer, action pour vérifier.
