@@ -140,7 +140,7 @@ different one from a lower tier.
 - [Adaptation](../Abilities/Adaptation.md)
 - [Cutting Light](../Abilities/Cutting%20Light.md)
 - [Hover](../Abilities/Hover.md)
-- - [Lecture mentale](../Abilities/Mind%20Reading.md)
+- [Lire les Pensées](../Abilities/Mind%20Reading.md)
 - [Retrieve Memories](../Abilities/Retrieve%20Memories.md)
 - [Reveal](../Abilities/Reveal.md)
 - [Stasis](../Abilities/Stasis.md)
