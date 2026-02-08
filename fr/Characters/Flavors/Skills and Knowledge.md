@@ -39,7 +39,7 @@ Speaker with this flavor might be a teacher.
 
 - [Exercé avec les Armes
   Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
-- [Read the Signs](../Abilities/Read%20the%20Signs.md)
+- [Lire les signes](../Abilities/Read%20the%20Signs.md)
 
 # SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
