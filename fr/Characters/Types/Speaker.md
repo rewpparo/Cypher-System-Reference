@@ -175,7 +175,7 @@ inférieur par une différente d'un rang inférieur.
 - - [Compétences Accrues](../Abilities/Heightened%20Skills.md)
 - [Psychose](../Abilities/Psychosis.md)
 - [Lire les signes](../Abilities/Read%20the%20Signs.md)
-- - [Stimuler l'effort](../Abilities/Spur%20Effort.md)
+- [Stimuler l'Effort](../Abilities/Spur%20Effort.md)
 - - [Elaborer une stratégie](../Abilities/Strategize.md)
 - - [Suggestion](../Abilities/Suggestion.md)
 
