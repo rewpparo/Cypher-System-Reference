@@ -162,7 +162,7 @@ inférieur par une différente d'un rang inférieur.
 - [Éloquence](../Abilities/Oratory.md)
 - [Parfait Inconnu](../Abilities/Perfect%20Stranger.md)
 - [Vif d'esprit](../Abilities/Quick%20Wits.md)
-- - [Dire les Choses](../Abilities/Telling.md)
+- [Dire les Choses](../Abilities/Telling.md)
 
 # # Emissaire de Quatrième Rang
 
