@@ -1,4 +1,4 @@
-Assumer le contrôle (6+ points d'Intellect) #Ability #ControlAbility #High #Core
+Prendre le contrôle (6+ points d'Intellect) #Ability #ControlAbility #High #Core
 
 Vous contrôlez les actions d'une autre créature avec laquelle vous avez interagi
 ou étudié pendant au moins un tour. Cet effet dure dix minutes. La cible doit
