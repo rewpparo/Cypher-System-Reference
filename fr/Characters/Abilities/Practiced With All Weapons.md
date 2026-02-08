@@ -1,6 +1,6 @@
-Exercé avec toutes les armes #Ability #AttackAbility #Mid #Core
+Exercé avec Toutes les Armes #Ability #AttackAbility #Mid #Core
 
-You become practiced with light, medium, and heavy weapons and suffer no penalty
-when using any kind of weapon.
+Vous devenez exercé avec les armes légères, moyennes et lourdes, et n'avez pas
+de pénalité quand vous utilisez une arme d'un type quelconque.
 
 Facilitateur.
