@@ -48,7 +48,7 @@ abilities with those given here tailors the character in desirable ways.
 - [Divine Intervention](../Abilities/Divine%20Intervention.md)
 - [Dragon’s Maw](../Abilities/Dragon’s%20Maw.md)
 - [Fast Travel](../Abilities/Fast%20Travel.md)
-- [True Senses](../Abilities/True%20Senses.md)
+- [Sens Véritables](../Abilities/True%20Senses.md)
 
 # SIXTH-TIER MAGIC ABILITIES
 
