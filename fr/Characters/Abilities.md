@@ -201,7 +201,7 @@ fear gas, and so on.
 
 **Rang Haut : **
 - [Advanced Command](Abilities/Advanced%20Command.md)
-- - [Assumer le contrôle](../Abilities/Assume%20Control.md)
+- [Prendre le contrôle](Abilities/Assume%20Control.md)
 - [Brainwashing](Abilities/Brainwashing.md)
 - [Change the Paradigm](Abilities/Change%20the%20Paradigm.md)
 - [Control Machine](Abilities/Control%20Machine.md)
@@ -1155,7 +1155,7 @@ action or an asset on their roll.
 - - [Succès inspirant](../Abilities/Inspiring%20Success.md)
 - [Regenerate Other](Abilities/Regenerate%20Other.md)
 - - [Partager la défense](../Abilities/Share%20Defense.md)
-- - [Stimuler](../Abilities/Stimulate.md)
+- [Stimuler](Abilities/Stimulate.md)
 - [Teach Trick](Abilities/Teach%20Trick.md)
 - [Transcend the Script](Abilities/Transcend%20the%20Script.md)
 - [True Defender](Abilities/True%20Defender.md)
