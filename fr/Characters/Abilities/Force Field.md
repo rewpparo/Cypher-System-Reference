@@ -1,6 +1,6 @@
-Force Field (3 Intellect points) #Ability #SupportAbility #Low #Core
+Champ de Force (3 points d'Intellect) #Ability #SupportAbility #Low #Core
 
-You create an invisible energy barrier around a creature or object you choose
-within short range. The force field moves with the creature or object and lasts
-for ten minutes. If the target is a creature, they gain +1 to Armor; if the
-target is an object, attacks against it are hindered.
+Vous créez une barrière d'énergie invisible autour d'une créature ou objet de
+votre choix à distance courte. Le champ de force se déplace avec la créature ou
+l'objet et dure 10 minutes. Si la cible est une créature, elle gagne +1 Armure ;
+si la cible est un objet, les attaque contre lui sont entravées.
