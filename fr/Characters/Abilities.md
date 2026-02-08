@@ -1083,7 +1083,7 @@ abilities like Spray that let you attack multiple targets as your action.
 - [Punish All the Guilty](Abilities/Punish%20All%20the%20Guilty.md)
 - [Resonant Quake](Abilities/Resonant%20Quake.md)
 - [Return to Sender](Abilities/Return%20to%20Sender.md)
-- - [Brise Esprit](../Abilities/Shatter%20Mind.md)
+- [Brise Esprit](Abilities/Shatter%20Mind.md)
 - [Special Shot](Abilities/Special%20Shot.md)
 - [Vrille](Abilities/Spin%20Attack.md)
 - [Spring Away](Abilities/Spring%20Away.md)
