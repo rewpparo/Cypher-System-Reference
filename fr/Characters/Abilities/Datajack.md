@@ -1,6 +1,7 @@
-Datajack (1 Intellect point) #Ability #TaskAbility #Low #Core
+Datajack (1point d'Intellect) #Ability #TaskAbility #Low #Core
 
-With computer access, you jack in instantly and learn a bit more about something
-you can see. You get an asset on a task involving that person or object.
+Si vous avez accès à un ordinateur, vous vous branchez dessus et en apprenez un
+peu plus sur quelque chose que vous voyez. Vous avez un atout sur une tâche
+impliquant cette personne ou objet.
 
 Action.
