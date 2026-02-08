@@ -32,7 +32,7 @@ Speaker with this flavor might be a teacher.
 # FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
 - [Multiple Skills](../Abilities/Multiple%20Skills.md)
-- [Quick Wits](../Abilities/Quick%20Wits.md)
+- [Vif d'esprit](../Abilities/Quick%20Wits.md)
 - [Task Specialization](../Abilities/Task%20Specialization.md)
 
 # FIFTH-TIER SKILLS AND KNOWLEDGE ABILITIES
