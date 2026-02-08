@@ -7,4 +7,4 @@ avez tous un niveau d'effort gratuit à utiliser sur une tâche dans le cadre de
 l'exécution du plan dans les 24 prochaines heures. Le plan d'action doit être
 concret et exécutable pour bénéficier de cet avantage.
 
-Action to initiate, ten minutes to complete.
+Action pour initier, dix minutes pour terminer.
