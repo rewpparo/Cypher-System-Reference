@@ -172,7 +172,7 @@ inférieur par une différente d'un rang inférieur.
 - [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
 - [Moqueries Déconcertantes](../Abilities/Confounding%20Banter.md)
 - [Feinte](../Abilities/Feint.md)
-- - [Compétences accrues](../Abilities/Heightened%20Skills.md)
+- - [Compétences Accrues](../Abilities/Heightened%20Skills.md)
 - - [Psychose](../Abilities/Psychosis.md)
 - - [Lire les signes](../Abilities/Read%20The%20Signs.md)
 - - [Stimuler l'effort](../Abilities/Spur%20Effort.md)
