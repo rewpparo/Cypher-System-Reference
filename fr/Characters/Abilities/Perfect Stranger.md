@@ -1,4 +1,4 @@
-Perfect Stranger (3 Intellect points) #Ability #MetaAbility #SocialAbility #Mid
+Parfait Inconnu (3points d'Intellect) #Ability #MetaAbility #SocialAbility #Mid
 #Core
 
 You alter your posture and way of speaking and make a small but real alteration
