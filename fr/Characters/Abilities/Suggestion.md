@@ -12,7 +12,7 @@ d'utiliser l'Effort pour améliorer le niveau maximum de la cible affecté. Donc
 pour affecter une cible de niveau 5 (trois niveaux au dessus de la limite), vous
 devez mettre trois niveaux d'Effort.
 
-When the effects of the ability end, the creature remembers following the
-suggestion but can be persuaded to believe that it chose to do so willingly.
+Quand les effets de l'aptitude se terminent, la créature se souvient avoir suivi
+une suggestion mais peut être persuadée qu'elle a choisi de la suivre librement.
 
 Action pour initier.
