@@ -1,4 +1,4 @@
-Heightened Skills #Ability #TaskAbility #Mid #Core
+Compétences Accrues #Ability #TaskAbility #Mid #Core
 
 You are trained in two tasks of your choosing (other than attacks or defense).
 If you choose a task you’re already trained in, you instead become specialized
