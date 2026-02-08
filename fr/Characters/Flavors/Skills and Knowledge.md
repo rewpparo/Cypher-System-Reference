@@ -14,7 +14,7 @@ Speaker with this flavor might be a teacher.
 
 - [Interaction Skills](../Abilities/Interaction%20Skills.md)
 - [Investigative Skills](../Abilities/Investigative%20Skills.md)
-- [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
+- [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
 - [Compétences Physiques](../Abilities/Physical%20Skills.md)
 - [Travel Skills](../Abilities/Travel%20Skills.md)
 
