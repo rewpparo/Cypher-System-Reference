@@ -28,9 +28,9 @@ Special Abilities: Choose four of the abilities listed below. You can’t choose
 the same ability more than once unless its description says otherwise.
 - [Anecdote](../../../Characters/Abilities/Anecdote.md)
 - [Datajack](../../../Characters/Abilities/Datajack.md)
-- [Demeanor of
-  Command](../../../Characters/Abilities/Demeanor%20of%20Command.md)
-- [Enthrall](../../../Characters/Abilities/Enthrall.md)
+- [Attitude de
+  commandement](../../../Characters/Abilities/Demeanor%20of%20Command.md)
+- [Envoûtement](../../../Characters/Abilities/Enthrall.md)
 - [Erase Memories](../../../Characters/Abilities/Erase%20Memories.md) (Counts as
   a hack)
 - [Fast Talk](../../../Characters/Abilities/Fast%20Talk.md)
