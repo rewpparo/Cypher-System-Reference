@@ -1,4 +1,4 @@
-Shatter Mind (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core
+Brise Esprit (7+ points d'Intellect) #Ability #SpecialAttackAbility #High #Core
 
 Your words reverberate destructively in the brain of an intelligent level 1
 target within short range that can hear and understand you. They destroy tissue,
