@@ -1,12 +1,12 @@
-Word of Command (6 Intellect points + level 6 cypher) #Ability #ControlAbility
-#High #Core
+Mot de commandement] (6 points d'Intellect + cypher de niveau 6) #Ability
+#ControlAbility #High #Core
 
-You utter a word so powerful that to fully invest it, you sacrifice a cypher in
-your possession that is level 6 or higher. You issue the word to one creature
-within long range that you can see. The affected target must obey the command
-for several hours before it is free to act as it wishes. Targets that are
-attacked while under the effect of the command can defend themselves. Typical
-commands include “retreat,” “calm,” “come,” and “stay.” The GM decides how the
-target acts once a command is given.
+Vous proférez un mot si puissant que pour l'investir complètement vous sacrifiez
+un cypher en votre possession de niveau 6 ou plus. Vous prononcez ce mot pour
+une créature à longue portée que vous voyez. La cible doit obéir à votre
+commandement pendant plusieurs heures avant d'être libre d'agir comme il lui
+plait. Les cibles qui sont attaquées sous Mot de Commandement peuvent se
+défendre. Les commandes typiques incluent "Fuis", "Calme", "Viens", et "Reste".
+Le MJ décide comment la cible agit une fois le commandement donné.
 
 Action.
