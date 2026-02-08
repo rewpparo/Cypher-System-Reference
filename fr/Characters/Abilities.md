@@ -1299,7 +1299,7 @@ Gives training, specialization, or an asset in one or more noncombat skills
 - [Flex Skill](Abilities/Flex%20Skill.md)
 - [Ghost](Abilities/Ghost.md)
 - [Hard to See](Abilities/Hard%20to%20See.md)
-- - [Compétences accrues](../Abilities/Heightened%20Skills.md)
+- - [Compétences Accrues](Abilities/Heightened%20Skills.md)
 - [Improvise](Abilities/Improvise.md)
 - [Increasing Determination](Abilities/Increasing%20Determination.md)
 - [Intelligent Interface](Abilities/Intelligent%20Interface.md)
