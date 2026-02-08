@@ -1,0 +1,27 @@
+A typical cyberpunk setting has hologram technology—projectors that create 3D
+sculptures out of light, typically used for advertisements, signs, and
+impressive art displays. Holograms obviously don’t look real; they’re
+translucent images that overlay whatever is behind them, and show up best when
+the ambient light level is low enough that the hologram appears much brighter
+than its surroundings, such as when it’s heavily overcast or at night. The
+hologram device is basically a cluster of tiny image projectors that work
+together in 3D space to create a semi-realistic image; obscuring or blocking one
+or more of the projectors degrades and disrupts the image, often with hideous
+results.
+
+A hologram projector in a typical apartment is used in conjunction with a
+television to augment the flat screen image with 3D elements, or as part of a
+communication device (holophone) to allow the user to talk to a 3D image of the
+other person on the line instead of a flat video call.
+
+Optical cyberware can produce hologram-like images by directly sending data into
+the cybernetic implant. However, these technically aren’t actual holograms
+because they’re not emitting light. Likewise, a translucent image of a hologram
+on a computer screen isn’t an actual hologram. However, in common jargon both of
+these are called holograms.
+
+Holograms have no physical substance; objects and creatures pass right through
+them, and a person doing so doesn’t feel any sensation except the flickering
+lights on their eyes. Theoretically, long exposure to a large, bright hologram
+might cause some discomfort, much like standing next to a powerful lamp can feel
+warm.
