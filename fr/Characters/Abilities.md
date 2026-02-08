@@ -1327,7 +1327,7 @@ Gives training, specialization, or an asset in one or more noncombat skills
 - - [Pas subtiles](../Abilities/Subtle%20Steps.md)
 - [Targeting Eye](Abilities/Targeting%20Eye.md)
 - [Task Specialization](Abilities/Task%20Specialization.md)
-- - [Dire les Choses](../Abilities/Telling.md)
+- [Dire les Choses](Abilities/Telling.md)
 - [Temporal Acceleration](Abilities/Temporal%20Acceleration.md)
 - [Trained Basher](Abilities/Trained%20Basher.md)
 - [Trained Gunner](Abilities/Trained%20Gunner.md)
