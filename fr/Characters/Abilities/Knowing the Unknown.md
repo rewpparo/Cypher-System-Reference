@@ -1,4 +1,4 @@
-Knowing the Unknown (6 Intellect points) #Ability #InformationAbility #High
+Connaitre l'Inconnu (6 points d'Intellect) #Ability #InformationAbility #High
 #Core
 
 By accessing the resources appropriate to your character, you can ask the GM one
