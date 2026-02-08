@@ -1,4 +1,4 @@
-Mind Reading (2 Intellect points) #Ability #InformationAbility #Low #Core
+Lire les pensées (2 points d'Intellect) #Ability #InformationAbility #Low #Core
 
 You can read the surface thoughts of a creature within short range, even if the
 target doesn’t want you to. You must be able to see your target. Once you have
