@@ -111,7 +111,7 @@ ne dise le contraire. La description complète de chaque aptitude listée se
 trouve dans le chapitre Aptitudes, qui dispose aussi des descriptions des
 aptitudes de saveur et de focus en un seul grand catalogue.
 - - [Bloquer](../Abilities/Block.md)
-- - [Sens du Danger](../Abilities/Danger%20Sense.md)
+- [Sens du Danger](../Abilities/Danger%20Sense.md)
 - - [Déchiffrer](../Abilities/Decipher.md)
 - - [Endurance](../Abilities/Endurance.md)
 - - [Trouver le chemin](../Abilities/Find%20The%20Way.md)
@@ -122,8 +122,8 @@ aptitudes de saveur et de focus en un seul grand catalogue.
 - [Nul besoin d'arme](../Abilities/No%20Need%20for%20Weapons.md)
 - [Compétences Physiques](../Abilities/Physical%20Skills.md)
 - [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
-- - [Pratique de toutes les
-  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
+- [Exercé avec Toutes les
+  Armes](../Abilities/Practiced%20With%20All%20Weapons.md)
 - - [Sursaut de confiance](../Abilities/Surging%20Confidence.md)
 - [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
