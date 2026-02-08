@@ -207,7 +207,7 @@ fear gas, and so on.
 - [Control Machine](Abilities/Control%20Machine.md)
 - [Control the Savage](Abilities/Control%20the%20Savage.md)
 - [Defuse Situation](Abilities/Defuse%20Situation.md)
-- - [Fuir](../Abilities/Flee.md)
+- [Fuite](Abilities/Flee.md)
 - [Psychic Passenger](Abilities/Psychic%20Passenger.md)
 - [Show Them the Way](Abilities/Show%20Them%20the%20Way.md)
 - [Suggestion](Abilities/Suggestion.md)
