@@ -187,7 +187,7 @@ inférieur par une différente d'un rang inférieur.
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
 - [Discipline de Vigilance](../Abilities/Discipline%20of%20Watchfulness.md)
 - [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
-- - [Fuir](../Abilities/Flee.md)
+- [Fuite](../Abilities/Flee.md)
 - - [Aura fétide](../Abilities/Foul%20Aura.md)
 - - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
 - - [Régénérer](../Abilities/Regenerate.md)
