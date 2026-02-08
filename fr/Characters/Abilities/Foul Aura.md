@@ -1,11 +1,11 @@
 Aura fétide (5+ points d'Intellect) #Ability #SpecialAttackAbility #High #Core
 
-Your words, gestures, and touch invest an object no larger than yourself with an
-aura of doom, fear, and doubt for one day. Creatures that can hear and
-understand you feel an urge to move at least a short distance away from the
-object. If a creature does not move away, all tasks, attacks, and defenses it
-attempts while within the aura are hindered. The duration of the aura is
-extended by one day per level of Effort applied. The aura is temporarily blocked
-while the object is covered or contained.
+Vos mots, vos gestes, et votre touché donnent à un objet pas plus grand que vous
+une aura de malédiction, peut et doute pendant un jour. Les créatures qui
+peuvent vous entendre et vous comprendre ont envie de rester au moins à distance
+courte de l'objet. Si une créature ne le fait pas, toutes ses tâches, attaques,
+et défense tentées depuis l'aura sont entravées. La durée de cette aura est
+étendue d'un jour par niveau d'Effort mis. L'aura est temporairement bloquée si
+l'objet est recouvert.
 
 Action pour initier.
