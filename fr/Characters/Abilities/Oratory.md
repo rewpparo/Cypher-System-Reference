@@ -1,4 +1,4 @@
-Oratory (4 Intellect points) #Ability #SocialAbility #Mid #Core
+Éloquence (4 points d'Intellect) #Ability #SocialAbility #Mid #Core
 
 When speaking with a group of intelligent creatures that can understand you and
 aren’t hostile, you convince them to take one reasonable action in the next
