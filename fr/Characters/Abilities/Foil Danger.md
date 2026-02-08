@@ -1,4 +1,4 @@
-Foil Danger (2 Intellect points) #Ability #CureAbility #Low #Core
+Déjouer le Danger (2 points d'Intellect) #Ability #CureAbility #Low #Core
 
 You negate one source of potential danger related to one creature or object that
 you are aware of within immediate distance for one round. This could be a weapon
