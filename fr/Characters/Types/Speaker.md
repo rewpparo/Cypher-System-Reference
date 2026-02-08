@@ -161,7 +161,7 @@ inférieur par une différente d'un rang inférieur.
 - [Lire les Pensées](../Abilities/Mind%20Reading.md)
 - [Éloquence](../Abilities/Oratory.md)
 - [Parfait Inconnu](../Abilities/Perfect%20Stranger.md)
-- - [Vif d'esprit](../Abilities/Quick%20Wits.md)
+- [Vif d'esprit](../Abilities/Quick%20Wits.md)
 - - [Dire les Choses](../Abilities/Telling.md)
 
 # # Emissaire de Quatrième Rang
