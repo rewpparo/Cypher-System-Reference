@@ -1,6 +1,6 @@
-Magnificent Moment #Ability #TaskAbility #High #Core
+Formidable Moment #Ability #TaskAbility #High #Core
 
-If you make an attack or attempt a task with the immediate action you gain by
-using Seize the Moment, the attack or task is eased.
+Si vous faites une attaque ou tentez une tâche avec l'action immédiate que vous
+accorde Saisir l'Instant, votre attaque ou la tâche est facilitée.
 
 Facilitateur.
