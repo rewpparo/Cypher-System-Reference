@@ -1,7 +1,7 @@
-Swipe (1 Speed point) #Ability #SpecialAttackAbility #Low #Core
+Balayage (1 point de Célérité) #Ability #SpecialAttackAbility #Low #Core
 
-This is a quick, agile melee attack. Your attack inflicts 1 less point of damage
-than normal but dazes your target for one round, during which time all tasks it
-performs are hindered.
+C'est une attaque rapide et agile de mêlée. Votre attaque inflige 1 point de
+dégât de moins que la normale, mais hébète votre cible pendant un round, pendant
+lequel toutes les tâches qu'elle tente sont entravées.
 
 Action.
