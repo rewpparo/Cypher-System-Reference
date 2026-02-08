@@ -185,7 +185,7 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
-- - [Discipline de vigilance](../Abilities/Discipline%20Of%20Watchfulness.md)
+- [Discipline de Vigilance](../Abilities/Discipline%20of%20Watchfulness.md)
 - [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
 - - [Fuir](../Abilities/Flee.md)
 - - [Aura fétide](../Abilities/Foul%20Aura.md)
