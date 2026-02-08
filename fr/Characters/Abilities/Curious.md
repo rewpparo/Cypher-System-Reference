@@ -1,8 +1,8 @@
-Curious #Ability #MetaAbility #Low #Core
+Curieux #Ability #MetaAbility #Low #Core
 
-You’re always curious about your surroundings, even on a subconscious level.
-Whenever you use Effort to attempt navigation, perception, or initiative tasks
-in an area that you’ve only rarely or never visited before, you can apply an
-additional free level of Effort.
+Vous avez toujours été curieux de votre environnement, même à un niveau
+inconscient. Quand vous mettez de l'effort sur une tâche de navigation,
+perception, ou initiative dans une zone que vous n'avez jamais ou rarement
+visité, vous avez un niveau d'Effort gratuit.
 
 Facilitateur.
