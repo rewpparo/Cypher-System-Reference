@@ -1,5 +1,5 @@
-Master Cypher Use #Ability #MetaAbility #High #Core
+Maitre dans l'Utilisation des Cyphers #Ability #MetaAbility #High #Core
 
-You can bear five cyphers at a time.
+Vous pouvez porter cinq cyphers en même temps.
 
 Facilitateur.
