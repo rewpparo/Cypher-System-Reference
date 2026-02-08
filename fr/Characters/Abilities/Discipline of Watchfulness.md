@@ -1,5 +1,4 @@
-Discipline of Watchfulness (7 Intellect points) #Ability #MetaAbility #High
-#Core
+Disciple de Vigilance (7 points d'Intellect) #Ability #MetaAbility #High #Core
 
 You keep your allies on their toes with occasional questions, jokes, and even
 mock drills for those who care to join in. After spending 24 hours with you,
