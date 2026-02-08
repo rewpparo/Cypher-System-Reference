@@ -174,7 +174,7 @@ inférieur par une différente d'un rang inférieur.
 - [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
 - - [Compétence d'expert](../Abilities/Expert%20Skill.md)
 - [Effets Accrus](../Abilities/Increased%20Effects.md)
-- - [Lire les signes](../Abilities/Read%20The%20Signs.md)
+- [Lire les signes](../Abilities/Read%20the%20Signs.md)
 - - [Coureur](../Abilities/Runner.md)
 - - [Pas subtiles](../Abilities/Subtle%20Steps.md)
 - [Increvable](../Abilities/Tough%20As%20Nails.md)
