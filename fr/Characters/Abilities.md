@@ -557,7 +557,7 @@ the die as something different than normal.
 - [Precise Cut](Abilities/Precise%20Cut.md)
 - [Punish the Guilty](Abilities/Punish%20the%20Guilty.md)
 - [Push Off and Throw](Abilities/Push%20Off%20and%20Throw.md)
-- - [Vif d'esprit](../Abilities/Quick%20Wits.md)
+- [Vif d'esprit](Abilities/Quick%20Wits.md)
 - [Rapid Processing](Abilities/Rapid%20Processing.md)
 - [Resilient Ice Armor](Abilities/Resilient%20Ice%20Armor.md)
 - [Roaming Third Eye](Abilities/Roaming%20Third%20Eye.md)
