@@ -1,6 +1,7 @@
-Spur Effort (5 Intellect points) #Ability #SupportAbility #Mid #Core
+Stimuler l'Effort (5points d'Intellect) #Ability #SupportAbility #Mid #Core
 
-You select an ally within immediate range. If that character applies Effort to a
-task on their next turn, they can apply a free level of Effort on that task.
+Choisissez un allié à portée immédiate. Si ce personnage met un niveau d'Effort
+à sa tâche pendant son prochain tour, il a un niveau d'Effort gratuit pour cette
+tâche.
 
 Facilitateur.
