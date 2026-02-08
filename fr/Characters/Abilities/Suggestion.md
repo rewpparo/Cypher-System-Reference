@@ -1,16 +1,16 @@
 Suggestion (5+ points d'Intellect) #Ability #ControlAbility #High #Core
 
-You suggest an action to a creature within immediate range. If the action is
-something that the target might normally do anyway, it follows your suggestion.
-If the suggestion is something that is outside of the target’s nature or express
-duty (such as asking a guard to let an intruder pass), the suggestion fails. The
-creature must be level 2 or lower. The effect of your suggestion lasts for up to
-a minute.
+Vous suggérez une action à une créature à portée immédiate. Si cette action est
+quelque chose que la cible pourrait normalement faire de toutes façons, elle
+suit la suggestion. Si la suggestion est quelque chose qui n'est pas cohérent
+avec la personnalité ou les obligations de la créature (comme demander à un
+garde de laisser passer un intrus), la suggestion échoue. La créature doit être
+niveau 2 ou moins. L'effet de la suggestion peut durer jusqu'à une minute.
 
-In addition to the normal options for using Effort, you can choose to use Effort
-to increase the maximum level of the target you can affect by 1. Thus, to affect
-a level 5 target (three levels above the normal limit), you must apply three
-levels of Effort.
+En plus des options normales pour l'usage de l'Effort,vous pouvez choisir
+d'utiliser l'Effort pour améliorer le niveau maximum de la cible affecté. Donc,
+pour affecter une cible de niveau 5 (trois niveaux au dessus de la limite), vous
+devez mettre trois niveaux d'Effort.
 
 When the effects of the ability end, the creature remembers following the
 suggestion but can be persuaded to believe that it chose to do so willingly.
