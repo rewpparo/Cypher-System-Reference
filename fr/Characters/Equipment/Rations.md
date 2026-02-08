@@ -1,0 +1,1 @@
+Rations (1 day) #Item #Food #Inexpensive #Core #Fantasy 5sp

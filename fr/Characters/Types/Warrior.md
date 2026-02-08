@@ -96,7 +96,7 @@ objets.
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les
 Réserves.
 
-# # Guerrier de Premier Rang
+# Guerrier de Premier Rang
 
 Les Guerriers de Premier Rang ont les capacités suivantes :
 - Effort : Votre Effort est de 1.
@@ -115,76 +115,76 @@ pouvez pas choisir la même aptitude plus d'une fois, à moins que sa descriptio
 ne dise le contraire. La description complète de chaque aptitude listée se
 trouve dans le chapitre Aptitudes, qui dispose aussi des descriptions des
 aptitudes de saveur et de focus en un seul grand catalogue.
-- [Avantage de Stat Amélioré](../Abilities/Improved%20Edge.md)
-- [Choc](../Abilities/Bash.md)
-- [Claque](../Abilities/Swipe.md)
-- [Compétences physiques](../Abilities/Physical%20Skills.md)
-- [Contrôler le terrain](../Abilities/Control%20The%20Field.md)
-- [Entraîné sans armure](../Abilities/Trained%20Without%20Armor.md)
-- [Lancer rapide](../Abilities/Quick%20Throw.md)
-- - [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
-- [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
-- [Prouesses au combat](../Abilities/Combat%20Prowess.md)
-- [Tir d'Opportunité](../Abilities/Overwatch.md)
+- [Claque](../Abilities/Bash.md)
+- [Prouesse de combat](../Abilities/Combat%20Prowess.md)
+- [Contrôle du Champ](../Abilities/Control%20the%20Field.md)
+- [Avantage Amélioré](../Abilities/Improved%20Edge.md)
+- [Nul besoin d'arme](../Abilities/No%20Need%20for%20Weapons.md)
+- [Surveillance](../Abilities/Overwatch.md)
+- [Compétences Physiques](../Abilities/Physical%20Skills.md)
+- [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
+- [Lancé Rapide](../Abilities/Quick%20Throw.md)
+- [Balayage](../Abilities/Swipe.md)
+- [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
-# # Guerrier de Second Rang
+# Guerrier de Second Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
+- [Écraser](../Abilities/Crushing%20Blow.md)
+- [Hémorragie](../Abilities/Hemorrhage.md)
+- [Recharge](../Abilities/Reload.md)
+- [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
+- [Doué en défense](../Abilities/Skill%20With%20Defense.md)
 - [Attaque successive](../Abilities/Successive%20Attack.md)
-- [Compétence avec les attaques](../Abilities/Skill%20With%20Attacks.md)
-- [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
-- [Coup écrasant](../Abilities/Crushing%20Blow.md)
-- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
-- [Recharger](../Abilities/Reload.md)
 
-# # Guerrier de Troisième Rang
+# Guerrier de Troisième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- [Découpe](../Abilities/Slice.md)
-- [Expérimenté en armure](../Abilities/Experienced%20In%20Armor.md)
-- [Fureur](../Abilities/Fury.md)
-- [Pulvérisation](../Abilities/Spray.md)
-- [Réaction](../Abilities/Reaction.md)
-- [Résistance énergétique](../Abilities/Energy%20Resistance.md)
-- [Saisissez l'instant](../Abilities/Seize%20The%20Moment.md)
-- [Se Fendre](../Abilities/Lunge.md)
-- [Tir Double](../Abilities/Trick%20Shot.md)
-- [Utilisation experte des cyphers](../Abilities/Expert%20Cypher%20Use.md)
-- [Vigilance](../Abilities/Vigilance.md)
 - [Visée mortelle](../Abilities/Deadly%20Aim.md)
+- [Résistance aux énergies](../Abilities/Energy%20Resistance.md)
+- [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
+- [Expert dans l'utilisation des cypher](../Abilities/Expert%20Cypher%20Use.md)
+- [Furie](../Abilities/Fury.md)
+- [Fente en Avant](../Abilities/Lunge.md)
+- [Réaction](../Abilities/Reaction.md)
+- [Saisir l'instant](../Abilities/Seize%20the%20Moment.md)
+- [Trancher](../Abilities/Slice.md)
+- [Arroser ](../Abilities/Spray.md)
+- [Une pierre, deux coups](../Abilities/Trick%20Shot.md)
+- [Vigilance](../Abilities/Vigilance.md)
 
-# # Guerrier de Quatrième Rang
+# Guerrier de Quatrième Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- [Dur comme du Bois](../Abilities/Tough%20As%20Nails.md)
-- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
-- [Effets accrus](../Abilities/Increased%20Effects.md)
 - [Effort incroyable](../Abilities/Amazing%20Effort.md)
+- [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
+- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
 - [Feinte](../Abilities/Feint.md)
-- [Guerrier Capable](../Abilities/Capable%20Warrior.md)
-- [Momentum](../Abilities/Momentum.md)
-- [Percer les Défenses](../Abilities/Pry%20Open.md)
-- [Tir Précis](../Abilities/Snipe.md)
+- [Effets Accrus](../Abilities/Increased%20Effects.md)
+- [Élan](../Abilities/Momentum.md)
+- [Forcer](../Abilities/Pry%20Open.md)
+- [Tir embusqué](../Abilities/Snipe.md)
+- [Increvable](../Abilities/Tough%20As%20Nails.md)
 
-# # Guerrier de Cinquième Rang
+# Guerrier de Cinquième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- [Attaque sautée](../Abilities/Jump%20Attack.md)
-- [Maîtrise de la défense](../Abilities/Mastery%20With%20Defense.md)
-- [Maîtrise des attaques](../Abilities/Mastery%20With%20Attacks.md)
-- [Maîtrise en Armure](../Abilities/Mastery%20In%20Armor.md)
-- [Parade](../Abilities/Parry.md)
-- [Succès amélioré](../Abilities/Improved%20Success.md)
-- [Tirs en éventail](../Abilities/Arc%20Spray.md)
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
+- [Tirs en éventail](../Abilities/Arc%20Spray.md)
+- [Succès Amélioré](../Abilities/Improved%20Success.md)
+- [Attaque sautée](../Abilities/Jump%20Attack.md)
+- [Maitrise des armures](../Abilities/Mastery%20in%20Armor.md)
+- [Maitrise à l'attaque](../Abilities/Mastery%20With%20Attacks.md)
+- [Maitrise en défense](../Abilities/Mastery%20With%20Defense.md)
+- [Parade](../Abilities/Parry.md)
 
 (Souvennez-vous qu'aux rangs supérieurs, vous pouvez choisir des capacités
 spéciales des rangs inférieurs. C'est quelque fois la meillere façon d'avoir
@@ -192,19 +192,19 @@ exactement le personnage que vous souhaitez. C'est particulièrement vrai pour
 les capacités qui confèrent des compétences, que vous pouvez séletionner
 plusieurs fois.)
 
-# # Guerrier de Sixième Rang
+# Guerrier de Sixième Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- [Arme et corps](../Abilities/Weapon%20And%20Body.md)
-- [Attaque Tournoyante](../Abilities/Spin%20Attack.md)
-- [Coup final](../Abilities/Finishing%20Blow.md)
-- [Encore et encore](../Abilities/Again%20And%20Again.md)
+- [Encore et Encore](../Abilities/Again%20and%20Again.md)
+- [Coup de grâce](../Abilities/Finishing%20Blow.md)
+- [Formidable Moment](../Abilities/Magnificent%20Moment.md)
 - [Meurtrier](../Abilities/Murderer.md)
-- [Moment magnifique](../Abilities/Magnificent%20Moment.md)
+- [Vrille](../Abilities/Spin%20Attack.md)
+- [Corps et Arme](../Abilities/Weapon%20and%20Body.md)
 
-# # Exemple de Guerrier
+# Exemple de Guerrier
 
 Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide
 que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points

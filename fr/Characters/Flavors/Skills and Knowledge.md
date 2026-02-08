@@ -15,14 +15,14 @@ Speaker with this flavor might be a teacher.
 - [Interaction Skills](../Abilities/Interaction%20Skills.md)
 - [Investigative Skills](../Abilities/Investigative%20Skills.md)
 - [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
-- [Physical Skills](../Abilities/Physical%20Skills.md)
+- [Compétences Physiques](../Abilities/Physical%20Skills.md)
 - [Travel Skills](../Abilities/Travel%20Skills.md)
 
 # SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES
 
 - [Extra Skill](../Abilities/Extra%20Skill.md)
 - [Tool Mastery](../Abilities/Tool%20Mastery.md)
-- [Understanding](../Abilities/Understanding.md)
+- [Compréhension](../Abilities/Understanding.md)
 
 # THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES
 
@@ -37,12 +37,12 @@ Speaker with this flavor might be a teacher.
 
 # FIFTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
-- [Practiced With Medium
-  Weapons](../Abilities/Practiced%20With%20Medium%20Weapons.md)
+- [Exercé avec les Armes
+  Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
 - [Read the Signs](../Abilities/Read%20the%20Signs.md)
 
 # SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
+- [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
+- [Doué en défense](../Abilities/Skill%20With%20Defense.md)
 

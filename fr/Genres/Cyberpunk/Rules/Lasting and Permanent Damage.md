@@ -1,0 +1,33 @@
+A typical cyberpunk game is packed with over-the-top violence and extreme
+injuries—it’s common for foes to be dismembered, stabbed through the heart, or
+burned to a crisp. The prevalence of cybernetics in the setting adds two
+interesting twists to the campaign: the GM can inflict bloodless over-the-top
+violence on PCs by targeting their cybernetics, and extreme organic injuries can
+be corrected or overcome with the right technological implant. Both of these
+aspects are represented by the lasting damage and permanent damage rules.
+
+For example, a character hit by an omega bat might get lasting damage in the
+form of a shattered arm bone. In a cyberpunk setting, the character might get
+patched up at a hospital and decide to wait for the bone to heal “the old
+fashioned way,” or the injury might be what convinces them to head to a chopper
+and get their arm replaced with a gorilla arm cybernetic. Likewise, one good
+whack with an omega bat might bend or break a character’s cybernetic arm,
+inflicting lasting damage that takes a while for the implant’s self-repair mode
+to fix (or the character could just have a brand-new arm installed, either of
+the same type or an upgrade).
+
+The permanent damage option describes “extraordinary technology” repairing or
+replacing lost body parts; cyberware is that technology. If a street punk with a
+monowire chops off a character’s leg, just buy a new cybernetic leg. If an
+assassin stabs a character through the heart, there are multiple cybernetic
+hearts on the market that work as well as or better than the original organic
+one. Getting burned by a flamethrower or falling into a vat of acid is easily
+remedied by a comprehensive skin cybernetic, and the character has the option of
+realistic plastiflesh or something more artificial-looking (such as
+dermachrome). Even decapitation can be fixed with a full-body prosthesis (a
+FuBo) if the character’s brain is unharmed and the severed head can be brought
+to a hospital or chopper in time.
+
+In other words, if your group is okay with gore, feel free to use the lasting
+damage and permanent damage rules to inflict extreme injuries upon PCs’ flesh
+and chrome (especially as they get GM intrusion XP for them).

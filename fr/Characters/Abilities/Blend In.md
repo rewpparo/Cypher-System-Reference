@@ -1,10 +1,13 @@
-Blend In (4 Intellect points) #Ability #TransformAbility #Mid #Core
+Se fondre dans le décor (4 points d'Intellect) #Ability #TransformAbility #Mid
+#Core
 
-When you blend in, creatures still see you, but they attach no importance to
-your presence for about a minute. While blending in, you are specialized in
-stealth and Speed defense tasks. This effect ends if you do something to reveal
-your presence or position—attacking, using an ability, moving a large object,
-and so on. If this occurs, you can regain the remaining period of effect by
-taking an action to focus on seeming innocuous and as if you belong.
+Quand vous vous fondez dans le décor, les créatures peuvent vous voir, mais
+n'attachent aucune importance à votre présence pendant environ une minute. Quand
+vous vous fondez dans le décor, vous êtes spécialisé en discrétion et dans les
+tâches de défense de célérité. Cet effet se termine si vous faites quelque chose
+pour révéler votre présence ou position—attaquer, utilisez une aptitude,
+déplacer un gros objet, etc. Dans ce cas, vous pouvez regagner le reste de
+l'effet si vous prenez une action pour vous concentrer sur quelque chose qui n'a
+pas d'importance comme si vous étiez chez vous.
 
-Action to initiate or reinitiate.
+Action pour initier ou ré-initier.

@@ -31,7 +31,7 @@ the streets at night.
 - [Inner Defense](../Abilities/Inner%20Defense.md)
 - [Misdirect](../Abilities/Misdirect.md)
 - [Run and Fight](../Abilities/Run%20and%20Fight.md)
-- [Seize the Moment](../Abilities/Seize%20the%20Moment.md)
+- [Saisir l'instant](../Abilities/Seize%20the%20Moment.md)
 
 # FOURTH-TIER STEALTH ABILITIES
 

@@ -1,0 +1,1 @@
+Inn stay (per night) #Item #Inexpensive #Core #Fantasy 1-8cp

@@ -1,10 +1,10 @@
-Inspiring Ease #Ability #SupportAbility #Low #Core
+Légèreté Inspirante #Ability #SupportAbility #Low #Core
 
-Through stories, songs, art, or other forms of entertainment, you inspire your
-friends. After spending 24 hours with you, once per day each of your friends can
-ease a task. This benefit is ongoing while you remain in the friend’s company.
-It ends if you leave, but it resumes if you return to the friend’s company
-within 24 hours. If you leave the friend’s company for more than 24 hours, you
-must spend another 24 hours together to reactivate the benefit.
+Avec des histoires, des chansons, de l'art, ou autre formes de divertissement,
+vous inspirez vos amis. Après avoir passé 24h avec vous, une fois par jour
+chacun de vos amis peut faciliter une tâche. Ce gain se poursuit tant que vous
+restez en leur compagnie. Il se termine si vous parlez, mais il reprend si vous
+revenez avant 24 heures. Si vous les quittez pendant plus de 24 heures, vous
+devez passer à nouveau 24 heures ensemble pour réactiver le gain.
 
 Facilitateur.

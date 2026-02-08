@@ -481,7 +481,7 @@ time and the “helpers” taking care of the rest.
 
 
 
-## Characters
+## Personnages
 
 ### SUGGESTED TYPES FOR A SUPERHERO GAME
 

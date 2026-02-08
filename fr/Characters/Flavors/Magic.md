@@ -40,7 +40,7 @@ abilities with those given here tailors the character in desirable ways.
 
 - [Elemental Protection](../Abilities/Elemental%20Protection.md)
 - [Ignition](../Abilities/Ignition.md)
-- [Pry Open](../Abilities/Pry%20Open.md)
+- [Forcer](../Abilities/Pry%20Open.md)
 
 # FIFTH-TIER MAGIC ABILITIES
 

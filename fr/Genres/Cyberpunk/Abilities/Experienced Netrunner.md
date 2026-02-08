@@ -1,0 +1,10 @@
+Experienced Netrunner (3 Intellect points) #Ability #Cyberpunk
+
+The more you practice netrunning, the more proficient you become. To flaunt your
+experience, roll a d6 when completing a netrunning task you have succeeded at
+previously. On an even result, the task you’re attempting is eased by two steps.
+On a roll of 1, the task is hindered.
+
+Enabler.
+
+

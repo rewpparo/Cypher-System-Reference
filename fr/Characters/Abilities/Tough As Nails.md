@@ -1,11 +1,12 @@
-Tough As Nails #Ability #CureAbility #Mid #Core
+Increvable #Ability #CureAbility #Mid #Core
 
-When you are impaired or debilitated on the damage track, Might-based tasks and
-defense rolls you attempt are eased. If you also have Ignore the Pain, make a
-difficulty 1 Might defense roll when you reach 0 points in all three of your
-Pools to immediately regain 1 Might point and avoid dying. Each time you attempt
-to save yourself with this ability before your next ten-hour recovery roll, the
-task is hindered. (A character can’t apply Effort or other abilities to any task
-accomplished using Tough As Nails.)
+Quand vous êtes affaibli ou neutralisé sur le curseur de dégâts, les actions et
+les jets de défense de Puissance que vous tentez sont facilités. Si vous avez
+également Ignorer la Douleur, faites un jet de défense de Puissance de
+difficulté 1 quand vous atteignez 0 dans vos trois réserves pour regagner
+immédiatement 1 point de Puissance et éviter de mourir. Chaque fois que vous
+tentez de vous sauver avec cette aptitude entre deux jets de guérison de 10
+heures, la tâche est entravée. (Un personnage ne peut pas mettre d'effort ou
+utiliser d'autres aptitudes dans le cadre de Increvable.)
 
 Facilitateur.

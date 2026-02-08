@@ -263,15 +263,15 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or
 something similar appropriate to the genre.
 
 TIER 1
-- [Choc](../Abilities/Bash.md)
+- [Prouesse de combat](Abilities/Combat%20Prowess.md)
 - [Enhanced Potential](Abilities/Enhanced%20Potential.md)
 
 TIER 2
 - Lower-tier ability: choose any tier 1 replacement ability, above.
-- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
+- [Doué en défense](Abilities/Skill%20With%20Defense.md)
 - - [Pratique de toutes les
   armes](../Abilities/Practiced%20With%20All%20Weapons.md)
-- [Coup écrasant](../Abilities/Crushing%20Blow.md)
+- [Doué à l'attaque](Abilities/Skill%20With%20Attacks.md)
 
 TIER 3
 - Lower-tier ability: choose any tier 1 or 2 replacement ability, above.

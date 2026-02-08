@@ -1,8 +1,8 @@
-Inspire Aggression (2 Intellect points) #Ability #SupportAbility #TaskAbility
-#Low #Core
+Inspirer l'agression (2 points d'Intellect) #Ability #SupportAbility
+#TaskAbility #Low #Core
 
-Your words twist the mind of a character within short range who is able to
-understand you, unlocking their more primitive instincts. As a result, they gain
-an asset on their Might-based attack rolls for one minute.
+Vos mots atteignent l'esprit d'un personnage à courte portée qui est capable de
+vous comprendre, débloquant ses instincts primitifs. En conséquence, il gagne un
+atout sur ses jets d'attaque de Puissance pendant une minute.
 
 Action pour initier.

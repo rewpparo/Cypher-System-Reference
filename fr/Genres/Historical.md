@@ -82,7 +82,7 @@ historical game, here are some possible ideas: prehistory, classical antiquity,
 ancient Egypt, the American revolution, ancient China, World War II, Edo Period
 Japan, Medieval Europe, and the American Old West.
 
-## Characters
+## Personnages
 
 SUGGESTED TYPES FOR A HISTORICAL GAME
 

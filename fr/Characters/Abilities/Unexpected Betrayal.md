@@ -1,9 +1,9 @@
-Unexpected Betrayal #Ability #SocialAbility #Low #Core
+Trahison Inattendue #Ability #SocialAbility #Low #Core
 
-Within a round or two of successfully using Enthrall, Fast Talk, or a similar
-ability on a target within short range, the first attack you make on that target
-is eased by two steps. Once you use Unexpected Betrayal on a target, using your
-abilities or attempting simple persuasion on that target is permanently hindered
-by two steps.
+Pendant un route deux d'utilisation avec succès de Envoutement, Éloquent, ou une
+aptitude similaire sur une cible à courte portée, la première attaque que vous
+faites sur la cible est facilitée de deux niveaux. Une fois que vous utilisez
+Trahison Inattendue sur une cible, utilisez vos aptitudes ou tenter une
+persuasion simple seront entravées de deux niveaux.
 
 Facilitateur.

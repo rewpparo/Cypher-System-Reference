@@ -1,7 +1,8 @@
-Control the Field (1 Might point) #Ability #SpecialAttackAbility #Low #Core
+Contrôle du champ (1 Point de Puissance) #Ability #SpecialAttackAbility #Low
+#Core
 
-This melee attack inflicts 1 less point of damage than normal, and regardless of
-whether you hit the target, you maneuver it into a position you desire within
-immediate range.
+Cette attaque de mêlée inflige 1 points de moins de dégâts que la normale, et
+que vous touchiez la cible ou pas, vous manœuvrez vers la position que vous
+souhaitez à portée immédiate.
 
 Action.

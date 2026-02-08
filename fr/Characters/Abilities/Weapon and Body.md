@@ -1,10 +1,11 @@
-Weapon and Body (5 Speed points) #Ability #Core
+Corps et Arme (5 points de Célérité) #Ability #Core
 
-After making a melee weapon or ranged weapon attack, you follow up with a punch
-or kick as an additional attack, all as part of the same action in one round.
-The two attacks can be directed at different foes. Make a separate attack roll
-for each attack. You remain limited by the amount of Effort you can apply on one
-action. Anything that modifies your attack or damage applies to both attacks,
-unless it is tied specifically to your weapon.
+Après avoir faite une attaque avec une arme de mêlée ou à distance, vous
+continuez avec un coup de pied ou un coup de poing comme attaque supplémentaire,
+dans le cadre de la même action dans un seul round. Les deux attaques peuvent
+avoir deux cibles différentes. Faites des jets séparés pour les deux attaques.
+Vous restez limité par le nombre d'effort que vous pouvez mettre en une action.
+Tout ce qui modifie votre attaque ou vos dégâts s'appliquent aux deux attaques,
+à moins que ce soit lié à l'une des armes.
 
 Action.

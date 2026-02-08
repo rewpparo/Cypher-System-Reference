@@ -1,7 +1,8 @@
-Murderer (8+ Speed points) #Ability #SpecialAttackAbility #High #Core
+Meurtrier (8+ points de Célérité) #Ability #SpecialAttackAbility #High #Core
 
-With a swift and sudden attack, you strike a foe in a vital spot. If the target
-is level 4 or lower, it is killed outright. For each additional level of Effort
-you apply, you can increase the level of the target by 1.
+Avec une attaque rapide et soudaine, vous frapper un ennemi dans un point vital.
+Si la cible est niveau 4 ou moins, elle meurt sur le coup. Pour chaque niveau
+d'effort supplémentaire que vous mettez, vous pouvez augmenter le niveau de la
+cible de 1.
 
 Action.

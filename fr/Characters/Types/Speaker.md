@@ -114,48 +114,48 @@ ces capacités peuvent être remplacées par quelque chose de la Préférence
 Furtivité, ou alors le MJ peut les modifier légèrement afin qu'elles soient
 basées sur des talents ou des intuitions extraordinaires plutôt que sur du
 surnaturel.)
-- - [Anecdote](../Abilities/Anecdote.md)
-- - [Babel](../Abilities/Babel.md)
-- - [Attitude de commandement](../Abilities/Demeanor%20Of%20Command.md)
-- - [Encouragement](../Abilities/Encouragement.md)
-- - [Envoûtement](../Abilities/Enthrall.md)
-- - [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
-- - [Embrouiller](../Abilities/Fast%20Talk.md)
-- - [Inspire l'Agression](../Abilities/Inspire%20Aggression.md)
-- - [Encouragement](../Abilities/Encouragement.md)
-- - [Pratique des armes
-  moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
-- - [Changement d'Identité](../Abilities/Spin%20Identity.md)
-- - [Présence terrifiante](../Abilities/Terrifying%20Presence.md)
-- - [Compréhension](../Abilities/Understanding.md)
+- [Anecdote](../Abilities/Anecdote.md)
+- [Babel](../Abilities/Babel.md)
+- [Attitude de commandement](../Abilities/Demeanor%20of%20Command.md)
+- [Encouragement](../Abilities/Encouragement.md)
+- [Envoûtement](../Abilities/Enthrall.md)
+- [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
+- [Éloquent](../Abilities/Fast%20Talk.md)
+- [Inspirer l'agression](../Abilities/Inspire%20Aggression.md)
+- [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
+- [Exercé avec les Armes
+  Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
+- [Manipulation de l'Identité](../Abilities/Spin%20Identity.md)
+- [Présence terrifiante](../Abilities/Terrifying%20Presence.md)
+- [Compréhension](../Abilities/Understanding.md)
 
-# Emissaire de Second Rang
+# Émissaire de Second Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Suivant de base](../Abilities/Basic%20Follower.md)
-- - [Calmer un Etranger](../Abilities/Calm%20Stranger.md)
-- - [Démotiver](../Abilities/Disincentivize.md)
-- - [Recueillir des renseignements](../Abilities/Gather%20Intelligence.md)
-- - [Transmettre un idéal](../Abilities/Impart%20Ideal.md)
-- - [Facilité Inspirante](../Abilities/Inspiring%20Ease.md)
-- - [Encouragement](../Abilities/Encouragement.md)
-- - [Pratique des armures](../Abilities/Practiced%20In%20Armor.md)
-- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
-- - [Récupération Rapide d'un autre](../Abilities/Speedy%20Recovery.md)
-- - [Trahison inattendue](../Abilities/Unexpected%20Betrayal.md)
+- [Disciple Basique](../Abilities/Basic%20Follower.md)
+- [Calmer l'Étranger](../Abilities/Calm%20Stranger.md)
+- [Démotiver](../Abilities/Disincentivize.md)
+- [Recueillir des renseignements](../Abilities/Gather%20Intelligence.md)
+- [Transmettre un idéal](../Abilities/Impart%20Ideal.md)
+- [Légèreté Inspirante](../Abilities/Inspiring%20Ease.md)
+- [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
+- [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
+- [Doué en défense](../Abilities/Skill%20With%20Defense.md)
+- [Rétablissement Rapide](../Abilities/Speedy%20Recovery.md)
+- [Trahison Inattendue](../Abilities/Unexpected%20Betrayal.md)
 
-# # Emissaire de Troisième Rang
+# Émissaire de Troisième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Accélérer](../Abilities/Up%20To%20Speed.md)
-- - [Se fondre dans le décor](../Abilities/Blend%20In.md)
-- - [Esprit perspicace](../Abilities/Discerning%20Mind.md)
-- [Pulvérisation](../Abilities/Spray.md)
-- - [Disciple expert](../Abilities/Expert%20Follower.md)
+- [Accélérer](../Abilities/Accelerate.md)
+- [Se fondre dans le décor](../Abilities/Blend%20In.md)
+- [Esprit Perspicace](../Abilities/Discerning%20Mind.md)
+- [Expert dans l'utilisation des cypher](../Abilities/Expert%20Cypher%20Use.md)
+- [Disciple expert](../Abilities/Expert%20Follower.md)
 - - [Grande Déception](../Abilities/Grand%20Deception.md)
 - - [Mené par l'enquête](../Abilities/Lead%20By%20Inquiry.md)
 - - [Lecture mentale](../Abilities/Mind%20Reading.md)
@@ -171,7 +171,7 @@ votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - - [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
 - - [Moqueries confondantes](../Abilities/Confounding%20Banter.md)
-- [Effort incroyable](../Abilities/Amazing%20Effort.md)
+- [Feinte](../Abilities/Feint.md)
 - - [Compétences accrues](../Abilities/Heightened%20Skills.md)
 - - [Psychose](../Abilities/Psychosis.md)
 - - [Lire les signes](../Abilities/Read%20The%20Signs.md)
@@ -184,14 +184,14 @@ inférieur par une différente d'un rang inférieur.
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- [Attaque sautée](../Abilities/Jump%20Attack.md)
+- [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
 - - [Discipline de vigilance](../Abilities/Discipline%20Of%20Watchfulness.md)
-- [Fureur](../Abilities/Fury.md)
+- [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
 - - [Fuir](../Abilities/Flee.md)
 - - [Aura fétide](../Abilities/Foul%20Aura.md)
 - - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
 - - [Régénérer](../Abilities/Regenerate.md)
-- [Coup écrasant](../Abilities/Crushing%20Blow.md)
+- [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
 - - [Stimuler](../Abilities/Stimulate.md)
 
 # # Emissaire de Sixième Rang

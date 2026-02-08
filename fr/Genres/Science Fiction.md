@@ -1078,7 +1078,7 @@ universe (Type IV) and even the multiverse (Type V).
 
 
 
-## Characters
+## Personnages
 
 ### SUGGESTED TYPES FOR A SCIENCE FICTION GAME
 

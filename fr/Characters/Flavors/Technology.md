@@ -35,7 +35,7 @@ abilities that don’t involve starships or ultratech.
 - [Serv-0 Scanner](../Abilities/Serv-0%20Scanner.md)
 - [Ship Footing](../Abilities/Ship%20Footing.md)
 - [Shipspeak](../Abilities/Shipspeak.md)
-- [Spray](../Abilities/Spray.md)
+- [Arroser ](../Abilities/Spray.md)
 
 # FOURTH-TIER TECHNOLOGY ABILITIES
 

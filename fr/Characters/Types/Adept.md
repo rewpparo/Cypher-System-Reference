@@ -121,7 +121,7 @@ description for each listed ability can be found in Abilities, which also has
 descriptions for flavor and focus abilities in a single vast catalog. (Adept
 abilities require at least one free hand unless the GM says otherwise.)
 - [Distortion](../Abilities/Distortion.md)
-- - [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
+- [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
 - [Far Step](../Abilities/Far%20Step.md)
 - [Hedge Magic](../Abilities/Hedge%20Magic.md)
 - [Magic Training](../Abilities/Magic%20Training.md)
@@ -150,7 +150,7 @@ different one from a lower tier.
 Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Attaque sautée](../Abilities/Jump%20Attack.md)
+- [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
 - [Countermeasures](../Abilities/Countermeasures.md)
 - [Energy Protection](../Abilities/Energy%20Protection.md)
 - [Fire and Ice](../Abilities/Fire%20and%20Ice.md)

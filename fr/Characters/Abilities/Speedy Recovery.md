@@ -1,8 +1,7 @@
-Speedy Recovery (3 Intellect points) #Ability #CureAbility #Low #Core
+Rétablissement Rapide (3 points d'Intellect) #Ability #CureAbility #Low #Core
 
-Your words enhance the normal regenerative ability of a character within short
-range who is able to understand you. When they make a recovery roll, they must
-spend only half the normal amount of time required to do so (minimum one
-action).
+Vous mots améliorent la capacité régénérative d'un autre personnage à portée
+courte qui peuvent vous comprendre. Quand il fait un jet de Guérison, ils
+passent deux fois moins de temps que requis normalement (minimum une action).
 
 Action.

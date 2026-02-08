@@ -1,0 +1,7 @@
+Dwarven breastplate #Item #ArmorMedium #VeryExpensive #Core #Fantasy 8000gp
+
+A high-quality breastplate crafted by a skilled dwarf, providing good protection
+and great mobility. Dwarven breastplate is medium armor (2 Armor) but encumbers
+the wearer as if it were light armor (it has a Speed Effort cost of 1). Not all
+dwarf-crafted breastplates count as this type of armor (only exceptionally
+skilled dwarven smiths know how to make it).

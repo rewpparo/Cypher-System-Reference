@@ -1,8 +1,9 @@
-Fast Talk (1 Intellect point) #Ability #ControlAbility #Low #Core
+Éloquent (1 point d'Intellect) #Ability #ControlAbility #Low #Core
 
-When speaking with an intelligent creature who can understand you and isn’t
-hostile, you convince that creature to take one reasonable action in the next
-round. A reasonable action must be agreed upon by the GM; it should not put the
-creature or its allies in obvious danger or be wildly out of character.
+Quand vous parlez à une créature intelligente qui vous comprend et n'est pas
+hostile, vous convainquez cette créature de faire une action raisonnable dans le
+prochain round. Le MJ doit confirmer que l'action est raisonnable ; elle ne
+devrait pas mettre la créature ou ses alliés dans un danger évident ou aller
+contre leur personnalité.
 
 Action.

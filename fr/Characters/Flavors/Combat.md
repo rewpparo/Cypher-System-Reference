@@ -8,40 +8,40 @@ fiction setting could be a veteran of a thousand psychic wars.
 # FIRST-TIER COMBAT ABILITIES
 
 - [Danger Sense](../Abilities/Danger%20Sense.md)
-- [Practiced in Armor](../Abilities/Practiced%20in%20Armor.md)
-- [Practiced With Medium
-  Weapons](../Abilities/Practiced%20With%20Medium%20Weapons.md)
+- [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
+- [Exercé avec les Armes
+  Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
 
 # SECOND-TIER COMBAT ABILITIES
 
 - [Bloodlust](../Abilities/Bloodlust.md)
-- [Combat Prowess](../Abilities/Combat%20Prowess.md)
-- [Trained Without Armor](../Abilities/Trained%20Without%20Armor.md)
+- [Prouesse de combat](../Abilities/Combat%20Prowess.md)
+- [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
 # THIRD-TIER COMBAT ABILITIES
 
 - [Practiced With All Weapons](../Abilities/Practiced%20With%20All%20Weapons.md)
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
-- [Successive Attack](../Abilities/Successive%20Attack.md)
+- [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
+- [Doué en défense](../Abilities/Skill%20With%20Defense.md)
+- [Attaque successive](../Abilities/Successive%20Attack.md)
 
 # FOURTH-TIER COMBAT ABILITIES
 
-- [Capable Warrior](../Abilities/Capable%20Warrior.md)
-- [Deadly Aim](../Abilities/Deadly%20Aim.md)
-- [Fury](../Abilities/Fury.md)
+- [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
+- [Visée mortelle](../Abilities/Deadly%20Aim.md)
+- [Furie](../Abilities/Fury.md)
 - [Misdirect](../Abilities/Misdirect.md)
-- [Spray](../Abilities/Spray.md)
+- [Arroser ](../Abilities/Spray.md)
 
 # FIFTH-TIER COMBAT ABILITIES
 
-- [Experienced Defender](../Abilities/Experienced%20Defender.md)
+- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
 - [Hard Target](../Abilities/Hard%20Target.md)
-- [Parry](../Abilities/Parry.md)
+- [Parade](../Abilities/Parry.md)
 
 # SIXTH-TIER COMBAT ABILITIES
 
 - [Greater Skill With Attacks](../Abilities/Greater%20Skill%20With%20Attacks.md)
-- [Mastery in Armor](../Abilities/Mastery%20in%20Armor.md)
-- [Mastery With Defense](../Abilities/Mastery%20With%20Defense.md)
+- [Maitrise des armures](../Abilities/Mastery%20in%20Armor.md)
+- [Maitrise en défense](../Abilities/Mastery%20With%20Defense.md)
 

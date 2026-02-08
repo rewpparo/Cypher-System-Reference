@@ -1,7 +1,8 @@
-Reaction #Ability #SpecialAttackAbility #Mid #Core
+Réaction #Ability #SpecialAttackAbility #Mid #Core
 
-If a creature you attacked on your last turn with a melee attack uses its action
-to move out of immediate range, you gain an action to attack the creature as a
-parting blow, even if you have already taken a turn in the round.
+Si une créature que vous avez attaqué lors de votre dernier tour avec une arme
+de mêlée utilise son action pour sortir de la portée immédiate, vous gagnez une
+action pour attaquer la créature en cadeau de départ, même si vous avez déjà agi
+ce tour.
 
 Facilitateur.
