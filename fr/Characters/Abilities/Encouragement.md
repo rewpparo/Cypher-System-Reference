@@ -1,4 +1,4 @@
-Encouragement (1 Intellect point) #Ability #Core
+Encouragement (1 point d'Intellect) #Ability #Core
 
 While you maintain this ability through ongoing inspiring oration, your allies
 within short range ease one of the following task types (your choice): defense
