@@ -1,56 +1,56 @@
 Explorateur #Type #Core
 
-- **Fantasy/Contes:** Explorateur, aventurier, fouilleur, chercheur de mystère
-- **Moderne/Horreur/Romance:** athlète, explorateur, aventurier, détective,
-  érudit, spéléologue, pionnier, reporter d'investigation
-- **Science fiction:** explorateur, aventurier, spécialiste planétaire,
+- Fantasy/Contes : Explorateur, aventurier, fouilleur, chercheur de mystère
+- Moderne/Horreur/Romance : athlète, explorateur, aventurier, détective, érudit,
+  spéléologue, pionnier, reporter d'investigation
+- Science fiction : explorateur, aventurier, spécialiste planétaire,
   xénobiologiste, pilote
-- **Superhéro/Post-Apocalyptique:** aventurier, justicier
+- Superhéros/Post-Apocalyptique : aventurier, justicier
 
 Vous êtes une personne portée sur l'action et les capacités physiques, faisant
 face bravement à l'inconnu. Vous avez voyagé dans des endroits exotiques et
 dangereux et découvert de nouvelles choses. Cela signifie que vous êtes physique
 mais ayant aussi accumulé des connaissances.
 
-**Rôle individuel:** Bien que les Explorateurs peuvent être érudits ou on fait
-des études, ils sont principalement interressé par l'action. ils affrontent des
-graves dangers et des tobstacles terribles comme faisant parti de la vie.
+Rôle individuel : Bien que les Explorateurs peuvent être érudits ou on fait des
+études, ils sont principalement intéressé par l'action. ils affrontent des
+graves dangers et des obstacles terribles comme faisant parti de la vie.
 
-**Rôle en Groupe:** Les Explorateurs travaillent quelque fois seuls mais ils
-opérent souvent en équipe avec d'autres personnages. L'Explorateur montre
+Rôle en Groupe : Les Explorateurs travaillent quelque fois seuls mais ils
+opèrent souvent en équipe avec d'autres personnages. L'Explorateur montre
 souvent la voie, en suivant la piste. Toutefois, il s'arrêtent pour analyser
 n'importe quoi d'intriguant sur lequel ils ont trébuché.
 
-**Rôle en Société:** Tous les explorateurs ne sont pas en train de se promener
-dans la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur
-est un enseignant, un scientifique, un détective ou un journaliste
-d'investigation. Quoi qu'il en soit, un explorateur relève courageusement de
-nouveaux défis et rassemble des connaissances à partager avec les autres.
+Rôle en Société : Tous les explorateurs ne sont pas en train de se promener dans
+la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur est un
+enseignant, un scientifique, un détective ou un journaliste d'investigation.
+Quoi qu'il en soit, un explorateur relève courageusement de nouveaux défis et
+rassemble des connaissances à partager avec les autres.
 
-**Explorateur Avancé:** Les Explorateurs de rang supérieur ont plus de
-compétences, quelques capacités de combat, et un certain nombre de capacités qui
-leur permet de faire face au danger. En résumé, ils deviennent de plus en plus
-équilibrés, capables de relever n'importe quel défi.
+Explorateur Avancé : Les Explorateurs de rang supérieur ont plus de compétences,
+quelques capacités de combat, et un certain nombre de capacités qui leur permet
+de faire face au danger. En résumé, ils deviennent de plus en plus équilibrés,
+capables de relever n'importe quel défi.
 
-# # Intrusions de Joueur d'Explorateurs
+# Intrusions de Joueur d'Explorateurs
 
 Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une
 des intrusions de joueur ci-dessous, à condition que la situation est appropriée
 et que la Meneuse soit d'accord.
 
-**Dysfonctionnement Opportun:** Un piège ou un objet dangereux dysfonctionne
-avant qu'il puisse vous affecter.
+Dysfonctionnement Opportun : Un piège ou un objet dangereux dysfonctionne avant
+qu'il puisse vous affecter.
 
-**Point d'Intérêt Idéal:** Juste au moment où il semble que la piste est perdue
-(ou que vous l'êtes), une marque de sentier, un point d'intérêt, ou simplement
-la façon qu'a le terrain ou le corridor de se courber, monte ou descend, vous
+Point d'Intérêt Idéal : Juste au moment où il semble que la piste est perdue (ou
+que vous l'êtes), une marque de sentier, un point d'intérêt, ou simplement la
+façon qu'a le terrain ou le corridor de se courber, monte ou descend, vous
 suggère quel est le meilleur chemin à poursuivre, au moins à partir de ce point.
 
-**Faible Souche:** Le poison ou la maladie s'avère pas aussi affaiblissante ou
+Faible Souche : Le poison ou la maladie s'avère pas aussi affaiblissante ou
 mortelle qu'elle semblait à première vue, et n'inflige que la moitié des
 dommages qu'ils auraient causé sinon.
 
-# # Réserves pour Explorateur
+# Réserves pour Explorateur
 
 | Carac     | Réserve initiale |
 | --------- | ---------------- |
@@ -91,53 +91,53 @@ avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 | 19  | Votre sœur possède un magasin et vous offre une remise importante.                                                                                                                       |
 | 20  | Votre père est un officier militaire de haut rang avec de nombreuses relations.                                                                                                          |
 
-# # Explorateur de Premier Rang
+# Explorateur de Premier Rang
 
 Explorateurs de Premier Rang ont les capacités suivantes :
 - Effort : Votre Effort est de 1.
-- **Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede
+- Naturel Physique : Vous avez un Avantage de Puissance de 1, un Avantage de
   Célérité de 0 et un Avantage d'Intellect de 0.
 - Utilisation de cypher : Vous pouvez porter deux cyphers en même temps.
-- **Equipment au départ:** Des vêtements appropriés et l'arme de votre choix,
-  ainsi que deux objets chers, deux objets modérement chers, et jusqu'à quatre
+- Équipement au départ : Des vêtements appropriés et l'arme de votre choix,
+  ainsi que deux objets chers, deux objets modérément chers, et jusqu'à quatre
   objets peu chers.
-- **Armes :** Vous pouvez utiliser des armes légères et moyennes sans pénalité.
-  Vous avez une inaptitude pour les armes lourdes ; vos attaques avec des armes
-  lourdes sont attténuées.
+- Armes : Vous pouvez utiliser des armes légères et moyennes sans pénalité. Vous
+  avez une inaptitude pour les armes lourdes ; vos attaques avec des armes
+  lourdes sont entravées.
 
 Aptitudes Spéciales : Choisissez quatre aptitudes listées ci-dessous. Vous ne
 pouvez pas choisir la même aptitude plus d'une fois, à moins que sa description
 ne dise le contraire. La description complète de chaque aptitude listée se
 trouve dans le chapitre Aptitudes, qui dispose aussi des descriptions des
 aptitudes de saveur et de focus en un seul grand catalogue.
-- - [Bloquer](../Abilities/Block.md)
+- [Bloquer](../Abilities/Block.md)
 - [Sens du Danger](../Abilities/Danger%20Sense.md)
-- - [Déchiffrer](../Abilities/Decipher.md)
-- - [Endurance](../Abilities/Endurance.md)
-- - [Trouver le chemin](../Abilities/Find%20The%20Way.md)
-- - [Pied Léger](../Abilities/Fleet%20Of%20Foot.md)
+- [Déchiffrer](../Abilities/Decipher.md)
+- [Endurance](../Abilities/Endurance.md)
+- [Trouver le chemin](../Abilities/Find%20the%20Way.md)
+- [Pied Léger](../Abilities/Fleet%20of%20Foot.md)
 - [Avantage Amélioré](../Abilities/Improved%20Edge.md)
-- - [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
-- - [Muscles de fer](../Abilities/Muscles%20Of%20Iron.md)
+- [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
+- [Muscles de fer](../Abilities/Muscles%20of%20Iron.md)
 - [Nul besoin d'arme](../Abilities/No%20Need%20for%20Weapons.md)
 - [Compétences Physiques](../Abilities/Physical%20Skills.md)
 - [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
 - [Exercé avec Toutes les
   Armes](../Abilities/Practiced%20With%20All%20Weapons.md)
-- - [Sursaut de confiance](../Abilities/Surging%20Confidence.md)
+- [Regain de confiance](../Abilities/Surging%20Confidence.md)
 - [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
-# # Explorateur de Second Rang
+# Explorateur de Second Rang
 
 Choisissez quatre des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Curieux](../Abilities/Curious.md)
-- - [Instinct de Danger](../Abilities/Danger%20Instinct.md)
-- - [Activer les autres](../Abilities/Enable%20Others.md)
-- - [Evasion](../Abilities/Escape.md)
-- - [Oeil pour les détails](../Abilities/Eye%20For%20Detail.md)
-- - [Déjouer le Danger](../Abilities/Foil%20Danger.md)
+- [Curieux](../Abilities/Curious.md)
+- [Instinct de Danger](../Abilities/Danger%20Instinct.md)
+- [Aider son Prochain](../Abilities/Enable%20Others.md)
+- [Évasion](../Abilities/Escape.md)
+- [L’œil pour les Détails](../Abilities/Eye%20for%20Detail.md)
+- [Déjouer le Danger](../Abilities/Foil%20Danger.md)
 - - [Coordination Main-Oeil](../Abilities/Hand%20To%20Eye.md)
 - - [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
 - - [Récupération rapide](../Abilities/Rapid%20Recovery.md)
