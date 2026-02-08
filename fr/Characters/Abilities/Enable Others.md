@@ -1,6 +1,6 @@
-Enable Others #Ability #SupportAbility #Low #Core
+Aider son Prochain #Ability #SupportAbility #Low #Core
 
-You can use the helping rules to provide a benefit to another character
-attempting a physical task. Unlike the normal helping rules, this doesn’t
-require you to use your action helping the other character with the task. This
-requires no action on your part. Enabler.
+Vous pouvez utiliser les règles d'aide pour assister un autre personnage qui
+tente une tâche physique. Contrairement aux règles normales d'aide, vous n'avez
+pas besoin d'utiliser votre action pour aider un autre personnage avec cette
+tâche. Aucune action de votre part n'est requise. Facilitateur.
