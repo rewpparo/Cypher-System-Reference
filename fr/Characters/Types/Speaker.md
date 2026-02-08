@@ -192,14 +192,14 @@ inférieur par une différente d'un rang inférieur.
 - [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
 - [Régénération](../Abilities/Regeneration.md)
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
-- - [Stimuler](../Abilities/Stimulate.md)
+- [Stimuler](../Abilities/Stimulate.md)
 
-# # Emissaire de Sixième Rang
+# Emissaire de Sixième Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Assumer le contrôle](../Abilities/Assume%20Control.md)
+- [Prendre le contrôle](../Abilities/Assume%20Control.md)
 - - [Gestion de bataille](../Abilities/Battle%20Management.md)
 - - [Contrôle des foules](../Abilities/Crowd%20Control.md)
 - - [Succès inspirant](../Abilities/Inspiring%20Success.md)
