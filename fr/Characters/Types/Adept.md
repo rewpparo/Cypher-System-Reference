@@ -184,7 +184,7 @@ different one from a lower tier.
 - [Conjuration](../Abilities/Conjuration.md)
 - [Create](../Abilities/Create.md)
 - [Dust to Dust](../Abilities/Dust%20to%20Dust.md)
-- - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
+- [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
 - [Master Cypher Use](../Abilities/Master%20Cypher%20Use.md)
 - [Teleportation](../Abilities/Teleportation.md)
 - - [Véritables sens](../Abilities/True%20Senses.md)
