@@ -430,7 +430,7 @@ language.
 - [Drawing on Life’s
   Experiences](Abilities/Drawing%20on%20Life’s%20Experiences.md)
 - [Information Gathering](Abilities/Information%20Gathering.md)
-- - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
+- [Connaître l'inconnu](Abilities/Knowing%20the%20Unknown.md)
 - [Mind of a Leader](Abilities/Mind%20of%20a%20Leader.md)
 - [Lire les signes](Abilities/Read%20the%20Signs.md)
 - [Telepathic Network](Abilities/Telepathic%20Network.md)
