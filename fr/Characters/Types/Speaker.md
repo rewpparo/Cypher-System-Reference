@@ -164,13 +164,13 @@ inférieur par une différente d'un rang inférieur.
 - [Vif d'esprit](../Abilities/Quick%20Wits.md)
 - [Dire les Choses](../Abilities/Telling.md)
 
-# # Emissaire de Quatrième Rang
+# Emissaire de Quatrième Rang
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
-- - [Moqueries confondantes](../Abilities/Confounding%20Banter.md)
+- [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
+- [Moqueries Déconcertantes](../Abilities/Confounding%20Banter.md)
 - [Feinte](../Abilities/Feint.md)
 - - [Compétences accrues](../Abilities/Heightened%20Skills.md)
 - - [Psychose](../Abilities/Psychosis.md)
