@@ -158,7 +158,7 @@ inférieur par une différente d'un rang inférieur.
 - [Disciple expert](../Abilities/Expert%20Follower.md)
 - [Grande Imposture](../Abilities/Grand%20Deception.md)
 - [Mener par l'action](../Abilities/Lead%20by%20Inquiry.md)
-- - [Lecture mentale](../Abilities/Mind%20Reading.md)
+- [Lire les Pensées](../Abilities/Mind%20Reading.md)
 - - [Talent Oratoire](../Abilities/Oratory.md)
 - - [Parfait Inconnu](../Abilities/Perfect%20Stranger.md)
 - - [Vif d'esprit](../Abilities/Quick%20Wits.md)
