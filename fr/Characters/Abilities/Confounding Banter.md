@@ -1,5 +1,5 @@
-Plaisanteries Déconcertantes (4 points d'Intellect) #Ability #ProtectionAbility
-#Mid #Core
+Moqueries Déconcertantes (4 points d'Intellect) #Ability #ProtectionAbility #Mid
+#Core
 
 Vous crachez un torrent d'absurdités pour distraire votre ennemi à distance
 immédiate. Sur un jet d'Intellect réussi, votre jet de défense contre la
