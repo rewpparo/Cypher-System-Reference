@@ -176,7 +176,7 @@ inférieur par une différente d'un rang inférieur.
 - [Psychose](../Abilities/Psychosis.md)
 - [Lire les signes](../Abilities/Read%20the%20Signs.md)
 - [Stimuler l'Effort](../Abilities/Spur%20Effort.md)
-- - [Elaborer une stratégie](../Abilities/Strategize.md)
+- [Élaborer une stratégie](../Abilities/Strategize.md)
 - - [Suggestion](../Abilities/Suggestion.md)
 
 # # Emissaire de Cinquième Rang
