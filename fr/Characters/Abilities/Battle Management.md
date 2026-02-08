@@ -1,6 +1,6 @@
 Gestion de bataille (4 points d'Intellect) #Ability #SupportAbility #High #Core
 
-As long as you use your action each round giving orders or advice, attack and
-defense actions taken by your allies within short range are eased.
+Tant que vous utilisez votre action chaque tour pour donner des ordre et
+conseils, les attaques et défenses de vos amis à portée courte sont facilitées.
 
 Action.
