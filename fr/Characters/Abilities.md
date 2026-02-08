@@ -396,7 +396,7 @@ language.
 - - [Oeil pour les détails](../Abilities/Eye%20For%20Detail.md)
 - [Recueillir des renseignements](Abilities/Gather%20Intelligence.md)
 - [Lab Analysis](Abilities/Lab%20Analysis.md)
-- - [Lecture mentale](../Abilities/Mind%20Reading.md)
+- [Lire les Pensées](Abilities/Mind%20Reading.md)
 - [Monster Lore](Abilities/Monster%20Lore.md)
 - [Network Tap](Abilities/Network%20Tap.md)
 - [Predictive Model](Abilities/Predictive%20Model.md)
