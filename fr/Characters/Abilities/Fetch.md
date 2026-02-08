@@ -1,8 +1,8 @@
-Fetch (3 Intellect points) #Ability #EnvironmentAbility #Low #Core
+Ramasse (3 points d'Intellect) #Ability #EnvironmentAbility #Low #Core
 
-You cause an object to disappear and reappear in your hands or somewhere else
-nearby. Choose one object that can fit inside a 5-foot (2 m) cube and that you
-can see within long range. The object vanishes and appears in your hands or in
-an open space anywhere you choose within immediate range.
+Vous faites disparaitre un objet et le faites réapparaitre dans vos mains ou un
+autre endroit proche. Choisissez un objet qui peut tenir dans un cube de 2m de
+coté et que vous pouvez voir à distance longue. L'objet disparait et réapparait
+dans vos mains ou dans un espace libre de votre choix à portée immédiate.
 
 Action.
