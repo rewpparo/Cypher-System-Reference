@@ -194,7 +194,7 @@ fear gas, and so on.
 - [Command Spirit](Abilities/Command%20Spirit.md)
 - - [Contrôle des foules](../Abilities/Crowd%20Control.md)
 - [Daydream](Abilities/Daydream.md)
-- - [Grande Déception](../Abilities/Grand%20Deception.md)
+- [Grande Imposture](Abilities/Grand%20Deception.md)
 - [Interruption](Abilities/Interruption.md)
 - [Mind Control](Abilities/Mind%20Control.md)
 - [Psychic Suggestion](Abilities/Psychic%20Suggestion.md)
