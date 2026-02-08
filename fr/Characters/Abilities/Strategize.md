@@ -1,4 +1,4 @@
-Strategize (6 Intellect points) #Ability #MetaAbility #Mid #Core
+Élaborer une stratégie (6 points d'Intellect) #Ability #MetaAbility #Mid #Core
 
 Having an action plan in place before facing a challenge improves the odds of
 success, even if that plan is eventually changed or discarded once it’s put into
