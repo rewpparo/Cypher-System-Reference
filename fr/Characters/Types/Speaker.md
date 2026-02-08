@@ -157,7 +157,7 @@ inférieur par une différente d'un rang inférieur.
 - [Expert dans l'utilisation des cypher](../Abilities/Expert%20Cypher%20Use.md)
 - [Disciple expert](../Abilities/Expert%20Follower.md)
 - [Grande Imposture](../Abilities/Grand%20Deception.md)
-- - [Mené par l'enquête](../Abilities/Lead%20By%20Inquiry.md)
+- [Mener par l'action](../Abilities/Lead%20by%20Inquiry.md)
 - - [Lecture mentale](../Abilities/Mind%20Reading.md)
 - - [Talent Oratoire](../Abilities/Oratory.md)
 - - [Parfait Inconnu](../Abilities/Perfect%20Stranger.md)
