@@ -7,7 +7,7 @@ fiction setting could be a veteran of a thousand psychic wars.
 
 # FIRST-TIER COMBAT ABILITIES
 
-- [Danger Sense](../Abilities/Danger%20Sense.md)
+- [Sens du Danger](../Abilities/Danger%20Sense.md)
 - [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
 - [Exercé avec les Armes
   Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
@@ -20,7 +20,8 @@ fiction setting could be a veteran of a thousand psychic wars.
 
 # THIRD-TIER COMBAT ABILITIES
 
-- [Practiced With All Weapons](../Abilities/Practiced%20With%20All%20Weapons.md)
+- [Exercé avec Toutes les
+  Armes](../Abilities/Practiced%20With%20All%20Weapons.md)
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
 - [Doué en défense](../Abilities/Skill%20With%20Defense.md)
 - [Attaque successive](../Abilities/Successive%20Attack.md)
