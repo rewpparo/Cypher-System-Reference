@@ -8,4 +8,4 @@ presence or position—attacking, using an ability, moving a large object, and s
 on. If this occurs, you can regain the remaining invisibility effect by taking
 an action to focus on hiding your position.
 
-Action to initiate or reinitiate.
+Action pour initier ou ré-initier.
