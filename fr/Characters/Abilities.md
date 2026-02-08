@@ -1135,7 +1135,7 @@ action or an asset on their roll.
 - [Dual Wards](Abilities/Dual%20Wards.md)
 - [Elemental Protection](Abilities/Elemental%20Protection.md)
 - [In Harm’s Way](Abilities/In%20Harm’s%20Way.md)
-- - [Mené par l'enquête](../Abilities/Lead%20By%20Inquiry.md)
+- [Mener par l'action](Abilities/Lead%20by%20Inquiry.md)
 - [Pay It Forward](Abilities/Pay%20It%20Forward.md)
 - [Play to the Crowd](Abilities/Play%20to%20the%20Crowd.md)
 - - [Stimuler l'effort](../Abilities/Spur%20Effort.md)
