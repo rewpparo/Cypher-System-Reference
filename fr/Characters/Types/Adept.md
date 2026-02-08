@@ -187,7 +187,7 @@ different one from a lower tier.
 - [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
 - [Master Cypher Use](../Abilities/Master%20Cypher%20Use.md)
 - [Teleportation](../Abilities/Teleportation.md)
-- - [Véritables sens](../Abilities/True%20Senses.md)
+- [Sens Véritables](../Abilities/True%20Senses.md)
 
 # SIXTH-TIER ADEPT
 
