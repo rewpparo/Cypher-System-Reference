@@ -1,8 +1,8 @@
-Hover (2 Intellect points) #Ability #MovementAbility #Low #Core
+Planer (2 points d'Intellect) #Ability #MovementAbility #Low #Core
 
-You float slowly into the air. If you concentrate, you can control your movement
-to remain motionless in the air or float up to a short distance as your action;
-otherwise, you drift with the wind or with any momentum you have gained. This
-effect lasts for up to ten minutes.
+Vous volez lentement dans les airs. Si vous vous concentrez, vous pouvez
+contrôler votre mouvement pour rester immobile dans l'air ou voler sur une
+distance courte pendant votre action ; sinon, vous dérivez avec le vent ou sur
+votre élan. L'effet dure jusqu'à 10 minutes.
 
 Action pour initier.
