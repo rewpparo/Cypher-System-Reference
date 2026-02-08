@@ -1138,7 +1138,7 @@ action or an asset on their roll.
 - [Mener par l'action](Abilities/Lead%20by%20Inquiry.md)
 - [Pay It Forward](Abilities/Pay%20It%20Forward.md)
 - [Play to the Crowd](Abilities/Play%20to%20the%20Crowd.md)
-- - [Stimuler l'effort](../Abilities/Spur%20Effort.md)
+- [Stimuler l'Effort](Abilities/Spur%20Effort.md)
 - - [Prendre le commandement](../Abilities/Take%20Command.md)
 - [True Guardian](Abilities/True%20Guardian.md)
 
