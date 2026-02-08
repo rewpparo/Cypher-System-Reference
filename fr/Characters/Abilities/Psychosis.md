@@ -1,8 +1,8 @@
 Psychose (4 points d'Intellect) #Ability #SpecialAttackAbility #Mid #Core
 
-Your words inflict a destructive psychosis in the mind of a target within long
-range that can understand you, dealing 6 points of Intellect damage (ignores
-Armor) per round. The psychosis can be dispersed if a target uses an action
-doing nothing but calming and centering itself.
+Vos mots infligent une psychose destructrice à l'esprit d'une cible à portée
+longue qui peut vous comprendre, infligeant 6 points de dégâts d'Intellect (qui
+ignorent l'armure) par round. La Psychose peut être dissipée si la cible utilise
+une action pour ne rien faire d'autre que se calmer et se recentrer.
 
 Action pour initier.
