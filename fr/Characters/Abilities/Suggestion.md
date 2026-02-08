@@ -1,4 +1,4 @@
-Suggestion (5+ Intellect points) #Ability #ControlAbility #High #Core
+Suggestion (5+ points d'Intellect) #Ability #ControlAbility #High #Core
 
 You suggest an action to a creature within immediate range. If the action is
 something that the target might normally do anyway, it follows your suggestion.
