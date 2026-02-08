@@ -593,7 +593,7 @@ the die as something different than normal.
 - [Damn the Guilty](Abilities/Damn%20the%20Guilty.md)
 - [Deep Reserves](Abilities/Deep%20Reserves.md)
 - [Disarming Attack](Abilities/Disarming%20Attack.md)
-- - [Discipline de vigilance](../Abilities/Discipline%20Of%20Watchfulness.md)
+- [Discipline de Vigilance](Abilities/Discipline%20of%20Watchfulness.md)
 - [Divide Your Mind](Abilities/Divide%20Your%20Mind.md)
 - [Dual Distraction](Abilities/Dual%20Distraction.md)
 - [Duel to the Death](Abilities/Duel%20to%20the%20Death.md)
