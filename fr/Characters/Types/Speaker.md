@@ -177,9 +177,9 @@ inférieur par une différente d'un rang inférieur.
 - [Lire les signes](../Abilities/Read%20the%20Signs.md)
 - [Stimuler l'Effort](../Abilities/Spur%20Effort.md)
 - [Élaborer une stratégie](../Abilities/Strategize.md)
-- - [Suggestion](../Abilities/Suggestion.md)
+- [Suggestion](../Abilities/Suggestion.md)
 
-# # Emissaire de Cinquième Rang
+# Émissaire de Cinquième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
