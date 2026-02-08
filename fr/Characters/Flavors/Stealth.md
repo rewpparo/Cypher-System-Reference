@@ -9,7 +9,7 @@ the streets at night.
 
 # FIRST-TIER STEALTH ABILITIES
 
-- [Danger Sense](../Abilities/Danger%20Sense.md)
+- [Sens du Danger](../Abilities/Danger%20Sense.md)
 - [Goad](../Abilities/Goad.md)
 - [Legerdemain](../Abilities/Legerdemain.md)
 - [Opportunist](../Abilities/Opportunist.md)
