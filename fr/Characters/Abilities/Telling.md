@@ -1,7 +1,7 @@
-Telling (2 Intellect points) #Ability #TaskAbility #Mid #Core
+Dire les choses (2 points d'Intellect) #Ability #TaskAbility #Mid #Core
 
-This ability provides an asset to any tasks for attempting to deceive, persuade,
-or intimidate. Each use lasts up to a minute; a new use (to switch tasks)
-replaces the previous use.
+Cette aptitude vous donne un atout pour toutes les tâches de déception,
+persuasion, ou intimidation. Chaque usage dure une minute ; chaque nouvel usage
+(pour changer de tâche) remplace le précédent.
 
 Action pour initier.
