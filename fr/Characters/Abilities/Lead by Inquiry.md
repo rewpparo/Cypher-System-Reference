@@ -1,11 +1,11 @@
-Lead by Inquiry #Ability #SupportAbility #Mid #Core
+Mener par l'action #Ability #SupportAbility #Mid #Core
 
-You keep your allies on their toes with occasional questions, jokes, and even
-mock drills for those who care to join in. After spending 24 hours with you,
-your allies are treated as if trained in tasks related to perception. This
-benefit is ongoing while you remain in your allies’ company. It ends if you
-leave, but it resumes if you return to the allies’ company within 24 hours. If
-you leave the allies’ company for more than 24 hours, you must spend another 24
-hours together to reactivate the benefit.
+Vous maintenez la vigilance de vos alliés avec des questions occasionnelles, des
+blagues, et même des exercices pour les intéressés. Après avoir passé 24 heures
+avec vous, vos alliés sont entrainés dans les tâches de perception. Cet avantage
+dure tant que vous restez en compagnie de vos alliés. Il s'arrête si vous
+partez, mais reprend si vous revenez avec vos alliés dans les 24 heures. Si vous
+quittez vos alliés plus de 24 heures, vous devez passer 24 heures avec eux pour
+réactiver cet avantage.
 
 Facilitateur.
