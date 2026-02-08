@@ -161,7 +161,7 @@ comme les essaims d'insecte, les esprits conjurés, etc.
 - [Masterful Armor Modification](Abilities/Masterful%20Armor%20Modification.md)
 - [Multiplicity](Abilities/Multiplicity.md)
 - [Object Bond Mastery](Abilities/Object%20Bond%20Mastery.md)
-- - [Recruter un adjoint](../Abilities/Recruit%20Deputy.md)
+- [Recruter un adjoint](Abilities/Recruit%20Deputy.md)
 - [Robot Fleet](Abilities/Robot%20Fleet.md)
 - [Summon Demon](Abilities/Summon%20Demon.md)
 - [Time Doppelganger](Abilities/Time%20Doppelganger.md)
@@ -192,7 +192,7 @@ fear gas, and so on.
 - [Command](Abilities/Command.md)
 - [Command Machine](Abilities/Command%20Machine.md)
 - [Command Spirit](Abilities/Command%20Spirit.md)
-- - [Contrôle des foules](../Abilities/Crowd%20Control.md)
+- [Contrôle des foules](Abilities/Crowd%20Control.md)
 - [Daydream](Abilities/Daydream.md)
 - [Grande Imposture](Abilities/Grand%20Deception.md)
 - [Interruption](Abilities/Interruption.md)
@@ -1144,7 +1144,7 @@ action or an asset on their roll.
 
 **Rang Haut : **
 - [Able Assistance](Abilities/Able%20Assistance.md)
-- - [Gestion de bataille](../Abilities/Battle%20Management.md)
+- [Gestion de bataille](Abilities/Battle%20Management.md)
 - [Block for Another](Abilities/Block%20for%20Another.md)
 - [Energize Creature](Abilities/Energize%20Creature.md)
 - [Energize Crowd](Abilities/Energize%20Crowd.md)
@@ -1152,7 +1152,7 @@ action or an asset on their roll.
 - [Inspiration](Abilities/Inspiration.md)
 - - [Inspire des actions
   coordonnées](../Abilities/Inspire%20Coordinated%20Actions.md)
-- - [Succès inspirant](../Abilities/Inspiring%20Success.md)
+- [Succès Inspirant](Abilities/Inspiring%20Success.md)
 - [Regenerate Other](Abilities/Regenerate%20Other.md)
 - - [Partager la défense](../Abilities/Share%20Defense.md)
 - [Stimuler](Abilities/Stimulate.md)
