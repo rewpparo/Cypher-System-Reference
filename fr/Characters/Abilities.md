@@ -766,7 +766,7 @@ damage.
 
 **Rang Moyen : **
 - [Absorb Pure Energy](Abilities/Absorb%20Pure%20Energy.md)
-- - [Anticipation de l'attaque](../Abilities/Anticipate%20Attack.md)
+- [Anticipation de l'attaque](Abilities/Anticipate%20Attack.md)
 - [Blood Fever](Abilities/Blood%20Fever.md)
 - [Cloak of Opportunity](Abilities/Cloak%20of%20Opportunity.md)
 - - [Moqueries confondantes](../Abilities/Confounding%20Banter.md)
