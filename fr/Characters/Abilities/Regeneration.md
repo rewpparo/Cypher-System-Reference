@@ -1,10 +1,10 @@
 Régénération (6 points d'Intellect) #Ability #CureAbility #Mid #Core
 
-You restore points to a target’s Might or Speed Pool in one of two ways: either
-the chosen Pool regains up to 6 points, or it is restored to a total value of
-12. You make this decision when you initiate this ability. Points are
-regenerated at a rate of 1 point each round. You must remain within immediate
-range of the target the whole time, either touching them or conversing with
-them. In no case can this raise a Pool higher than its maximum.
+Vous restaurez des points de Puissance ou d'Intellect d'une cible de l'une de
+ces deux façons : soit vous choisissez une Réserve qui regagne 6 points, soit sa
+valeur total devient 12. Vous décidez quand vous initiez l'aptitude. Les points
+sont régénérés 1 par round. Vous devez rester à portée immédiate de la cible
+pendant toute la durée, soit en les touchant soit en leur parlant. En aucune
+façon il n'est possible de remonter une réserve au delà de son maximum.
 
 Action.
