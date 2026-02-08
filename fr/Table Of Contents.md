@@ -33,7 +33,7 @@
     - [Romance](Genres/Romance.md)
     - [Post-Apocalypse](Genres/Post-Apocalyptic.md)
     - [Historique](Genres/Historical.md)
-    - [Cyberpunk](Genres/Cyberpunk.md)
+    - [Cyberpunk](Genres/Cyberpunk/Cyberpunk.md)
     - [Ouest Étrange](Genres/Weird%20West.md)
     - [Fantasy Moderne](Genres/Modern%20Fantasy.md)
 - Maitriser le Jeu
