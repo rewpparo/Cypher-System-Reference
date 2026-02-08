@@ -190,7 +190,7 @@ inférieur par une différente d'un rang inférieur.
 - [Fuite](../Abilities/Flee.md)
 - [Aura Fétide](../Abilities/Foul%20Aura.md)
 - [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
-- - [Régénérer](../Abilities/Regenerate.md)
+- [Régénération](../Abilities/Regeneration.md)
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
 - - [Stimuler](../Abilities/Stimulate.md)
 
