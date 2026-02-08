@@ -200,10 +200,10 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - [Prendre le contrôle](../Abilities/Assume%20Control.md)
-- - [Gestion de bataille](../Abilities/Battle%20Management.md)
-- - [Contrôle des foules](../Abilities/Crowd%20Control.md)
-- - [Succès inspirant](../Abilities/Inspiring%20Success.md)
-- - [Recruter un adjoint](../Abilities/Recruit%20Deputy.md)
+- [Gestion de bataille](../Abilities/Battle%20Management.md)
+- [Contrôle des foules](../Abilities/Crowd%20Control.md)
+- [Succès Inspirant](../Abilities/Inspiring%20Success.md)
+- [Recruter un adjoint](../Abilities/Recruit%20Deputy.md)
 - - [Brise Esprit](../Abilities/Shatter%20Mind.md)
 - - [Véritables sens](../Abilities/True%20Senses.md)
 - - [Mot de commandement](../Abilities/Word%20Of%20Command.md)
