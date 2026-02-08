@@ -1,7 +1,8 @@
-Discerning Mind #Ability #ProtectionAbility #Mid #Core
+Esprit Perspicace #Ability #ProtectionAbility #Mid #Core
 
-You have +3 Armor against damaging attacks and damaging effects that target your
-mind and Intellect. Defense rolls you make against attacks that attempt to
-confuse, persuade, frighten, or otherwise influence you are eased.
+Vous avez +3 armure contre les attaques et les effets infligeant des dégâts à
+votre esprit ou votre Intellect. Les jets de défense que vous faites contre des
+attaques qui cherchent à vous perturber, vous persuader, vous effrayer ou vous
+influencer sont facilités.
 
 Facilitateur.
