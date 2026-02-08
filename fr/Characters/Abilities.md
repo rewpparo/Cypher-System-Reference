@@ -1069,7 +1069,7 @@ abilities like Spray that let you attack multiple targets as your action.
 - [Explosive Release](Abilities/Explosive%20Release.md)
 - [Coup de grâce](Abilities/Finishing%20Blow.md)
 - [Fire Tendrils](Abilities/Fire%20Tendrils.md)
-- - [Aura fétide](../Abilities/Foul%20Aura.md)
+- [Aura Fétide](Abilities/Foul%20Aura.md)
 - [Ice Storm](Abilities/Ice%20Storm.md)
 - [Iron Punch](Abilities/Iron%20Punch.md)
 - [Attaque sautée](Abilities/Jump%20Attack.md)
