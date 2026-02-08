@@ -79,8 +79,7 @@ principalement utilisée pour faire mal (comme pour détruire des objets).
 - [Blood Fever](Abilities/Blood%20Fever.md)
 - [Cognizant Offense](Abilities/Cognizant%20Offense.md)
 - [Greater Skill With Defense](Abilities/Greater%20Skill%20With%20Defense.md)
-- - [Pratique de toutes les
-  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
+- [Exercé avec Toutes les Armes](Abilities/Practiced%20With%20All%20Weapons.md)
 - [Robot Fighter](Abilities/Robot%20Fighter.md)
 - [Serv-0 Aim](Abilities/Serv-0%20Aim.md)
 - [Serv-0 Brawler](Abilities/Serv-0%20Brawler.md)
@@ -211,7 +210,7 @@ fear gas, and so on.
 - [Psychic Passenger](Abilities/Psychic%20Passenger.md)
 - [Show Them the Way](Abilities/Show%20Them%20the%20Way.md)
 - [Suggestion](Abilities/Suggestion.md)
-- - [Mot de commandement](../Abilities/Word%20Of%20Command.md)
+- [Mot de commandement](Abilities/Word%20of%20Command.md)
 
 # CRAFT
 
@@ -885,7 +884,7 @@ doesn’t provide direct answers to questions like an information ability does.
 - [Infer Thoughts](Abilities/Infer%20Thoughts.md)
 - [Master Machine](Abilities/Master%20Machine.md)
 - [See Through Time](Abilities/See%20Through%20Time.md)
-- - [Véritables sens](../Abilities/True%20Senses.md)
+- [Sens Véritables](Abilities/True%20Senses.md)
 
 # SOCIAL
 
@@ -1185,7 +1184,7 @@ Gives training, specialization, or an asset in one or more noncombat skills
 - [Contortionist](Abilities/Contortionist.md)
 - [Courageous](Abilities/Courageous.md)
 - [Crafter](Abilities/Crafter.md)
-- - [Sens du Danger](../Abilities/Danger%20Sense.md)
+- [Sens du Danger](Abilities/Danger%20Sense.md)
 - [Datajack](Abilities/Datajack.md)
 - [Debate](Abilities/Debate.md)
 - [Deep Water Guide](Abilities/Deep%20Water%20Guide.md)
