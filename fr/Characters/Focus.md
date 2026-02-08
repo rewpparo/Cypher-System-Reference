@@ -269,8 +269,7 @@ TIER 1
 TIER 2
 - Lower-tier ability: choose any tier 1 replacement ability, above.
 - [Doué en défense](Abilities/Skill%20With%20Defense.md)
-- - [Pratique de toutes les
-  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
+- [Exercé avec Toutes les Armes](Abilities/Practiced%20With%20All%20Weapons.md)
 - [Doué à l'attaque](Abilities/Skill%20With%20Attacks.md)
 
 TIER 3
