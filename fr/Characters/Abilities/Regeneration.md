@@ -1,4 +1,4 @@
-Regeneration (6 Intellect points) #Ability #CureAbility #Mid #Core
+Régénération (6 points d'Intellect) #Ability #CureAbility #Mid #Core
 
 You restore points to a target’s Might or Speed Pool in one of two ways: either
 the chosen Pool regains up to 6 points, or it is restored to a total value of
