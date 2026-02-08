@@ -432,7 +432,7 @@ language.
 - [Information Gathering](Abilities/Information%20Gathering.md)
 - - [Connaître l'inconnu](../Abilities/Knowing%20The%20Unknown.md)
 - [Mind of a Leader](Abilities/Mind%20of%20a%20Leader.md)
-- - [Lire les signes](../Abilities/Read%20The%20Signs.md)
+- [Lire les signes](Abilities/Read%20the%20Signs.md)
 - [Telepathic Network](Abilities/Telepathic%20Network.md)
 
 # META
@@ -1018,7 +1018,7 @@ abilities like Spray that let you attack multiple targets as your action.
 - [Power Strike](Abilities/Power%20Strike.md)
 - [Forcer](Abilities/Pry%20Open.md)
 - [Psychic Burst](Abilities/Psychic%20Burst.md)
-- - [Psychose](../Abilities/Psychosis.md)
+- [Psychose](Abilities/Psychosis.md)
 - [Push Off and Throw](Abilities/Push%20Off%20and%20Throw.md)
 - [Quick Strike](Abilities/Quick%20Strike.md)
 - [Rapid Attack](Abilities/Rapid%20Attack.md)
