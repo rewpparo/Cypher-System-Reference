@@ -296,7 +296,7 @@ disease, mental attacks, moving down on the damage track, or dying.
 - [One With the Wild](Abilities/One%20With%20the%20Wild.md)
 - [Poison Resistance](Abilities/Poison%20Resistance.md)
 - [Preternatural Senses](Abilities/Preternatural%20Senses.md)
-- - [Régénérer](../Abilities/Regenerate.md)
+- [Régénération](Abilities/Regeneration.md)
 - [Store Energy](Abilities/Store%20Energy.md)
 - [Thinking Ahead](Abilities/Thinking%20Ahead.md)
 - [Increvable](Abilities/Tough%20As%20Nails.md)
