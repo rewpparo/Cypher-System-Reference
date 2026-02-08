@@ -8,7 +8,7 @@ choisir d'utiliser l'Effort pour augmenter le niveau maximum de la cible. Donc
 pour Briser l'Esprit d'une créature de niveau 5 (4 niveaux au dessus de la
 limite), vous devez mettre quatre niveaux d'Effort.
 
-(The vegetative state created by Shatter Mind can be healed by advanced magic or
-science, or by a condition remover cypher that cures psychosis.)
+(L'état végétatif de Brise Esprit peut être soigné par de la magie avancée ou
+par la science, ou par un cypher permettant de soigner la psychose.)
 
 Action.
