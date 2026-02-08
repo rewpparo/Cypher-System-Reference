@@ -205,8 +205,8 @@ inférieur par une différente d'un rang inférieur.
 - [Succès Inspirant](../Abilities/Inspiring%20Success.md)
 - [Recruter un adjoint](../Abilities/Recruit%20Deputy.md)
 - [Brise Esprit](../Abilities/Shatter%20Mind.md)
-- - [Véritables sens](../Abilities/True%20Senses.md)
-- - [Mot de commandement](../Abilities/Word%20Of%20Command.md)
+- [Sens Véritables](../Abilities/True%20Senses.md)
+- [Mot de commandement](../Abilities/Word%20of%20Command.md)
 
 # EXEMPLE D’ÉMISSAIRE
 
