@@ -1,11 +1,12 @@
-Bouncing Shield #Ability #SpecialAttackAbility #High #Core
+Bouclier rebondissant #Ability #SpecialAttackAbility #High #Core
 
-When you use [Throw Force Shield](Throw%20Force%20Shield.md), instead of
-dissipating after one attack (whether it hits or misses), it will attack up to
-two additional targets within short range. Effort or other modifiers applied to
-the first attack affect all other targets as well. Whether you hit all, some, or
-none of your targets, the shield dissipates and then reforms in your grasp. (If
-you choose Bouncing Shield and have previously taken the Throw Force Shield
-ability, you have the option to exchange that ability for Healing Pulse.)
+Lorsque vous utilisez Lancer un bouclier de force, au lieu de se dissiper après
+une attaque (qu'elle touche ou rate), il attaquera jusqu'à deux cibles
+supplémentaires à courte portée. L'effort ou d'autres modificateurs appliqués à
+la première attaque affectent également toutes les autres cibles. Que vous
+touchiez toutes, certaines ou aucune de vos cibles, le bouclier se dissipe puis
+se reforme à votre portée. (Si vous choisissez Bouclier rebondissant et que vous
+avez déjà utilisé la capacité Lancer un bouclier de force, vous avez la
+possibilité d'échanger cette capacité contre Pulsation de Guérison.)
 
 Facilitateur.
