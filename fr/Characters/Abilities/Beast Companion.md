@@ -1,17 +1,18 @@
-Beast Companion #Ability #CompanionAbility #Low #Core
+Une Bête comme Compagnon #Ability #CompanionAbility #Low #Core
 
-A level 2 creature of your size or smaller accompanies you and follows your
-instructions. You and the GM must work out the details of your creature, and
-you’ll probably make rolls for it in combat or when it takes actions. The beast
-companion acts on your turn. As a level 2 creature, it has a target number of 6
-and 6 health and it inflicts 2 points of damage. Its movement is based on its
-creature type (avian, swimmer, and so on). If your beast companion dies, you can
-hunt in the wild for 1d6 days to find a new one.
+Une créature de niveau 2 de votre taille ou moins vous accompagne et suit vos
+instructions. Vous et la Meneuse devez définir les détails de votre créature, et
+vous ferez probablement des jets pour elle en combat ou lorsqu'elle entreprend
+des actions. Le compagnon bête agit à votre tour. En tant que créature de niveau
+2, elle a un nombre cible de 6 et 6 points de vie et elle inflige 2 points de
+dégâts. Son mouvement est basé sur son type de créature (aviaire, nageur, etc.).
+Si votre compagnon bête meurt, vous pouvez chasser dans la nature pendant 1d6
+jours pour en trouver un nouveau.
 
-(A creature’s level determines its target number, health, and damage, unless
-otherwise stated. So a level 2 beast companion has a target number of 6 and a
-health of 6, and it inflicts 2 points of damage. A level 4 beast companion has a
-target number of 12 and a health of 12, and it inflicts 4 points of damage. And
-so on.)
+(Le niveau d'une créature détermine son nombre cible, sa santé et dommages, sauf
+indication contraire. Ainsi un compagnon bête de niveau 2 a un nombre cible de 6
+et une santé de 6, et il inflige 2 points de dégâts. Un compagnon bête de niveau
+4 a un nombre cible de 12 et une santé de 12, et il inflige 4 points de dégâts.
+Et ainsi de suite.)
 
 Facilitateur.
