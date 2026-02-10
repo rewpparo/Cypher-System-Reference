@@ -1,10 +1,10 @@
-Break the Line (4 Intellect points) #Ability #SensesAbility #Mid #Core
+Briser la ligne (4 points d'Intellect) #Ability #SensesAbility #Mid #Core
 
-You have an eye for group discipline and hierarchy, even among your foes. If a
-group of foes is gaining any kind of benefit from working together, you can
-attempt to disrupt that benefit by pointing out the weak spot in the enemy’s
-line, formation, or swarm attack. This effect lasts for up to a minute or until
-all the affected foes spend a round assessing and resetting themselves to regain
-their normal advantage.
+Vous avez le sens de la discipline de groupe et de la hiérarchie, même parmi vos
+ennemis. Si un groupe d'ennemis tire un quelconque avantage de sa collaboration,
+vous pouvez tenter de perturber cet avantage en soulignant le point faible de la
+ligne, de la formation ou de l'attaque en masse de l'ennemi. Cet effet dure
+jusqu'à une minute ou jusqu'à ce que tous les ennemis affectés passent un tour à
+s'évaluer et à se réinitialiser pour retrouver leur avantage normal.
 
 Action pour initier.
