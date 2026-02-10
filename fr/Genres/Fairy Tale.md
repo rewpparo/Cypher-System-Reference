@@ -71,7 +71,7 @@ addition to your Cypher System stats—being small, for example, does not
 inherently mean you’re stealthy—you’ll want to choose your stats to emphasize
 the bit of your character that you want to play.
 
-### SKILLS
+### COMPÉTENCES
 
 As described in the Cypher System Rulebook, there is no definitive list of
 skills. Characters can choose to become skilled in anything they like (with the
