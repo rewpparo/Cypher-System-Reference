@@ -214,7 +214,7 @@ Major Effect Suggestions: The NPC ally gains an immediate extra action.
 
 The following are examples and not meant to provide a complete list of all
 possible foci in this category.
-- [Builds Robots](Foci/Builds%20Robots.md)
+- [Construit des Robots](Foci/Builds%20Robots.md)
 - [Consorts With the Dead](Foci/Consorts%20With%20the%20Dead.md)
 - [Controls Beasts](Foci/Controls%20Beasts.md)
 - [Exists in Two Places at Once](Foci/Exists%20in%20Two%20Places%20at%20Once.md)
@@ -317,7 +317,7 @@ count against daily recovery rolls.
 
 The following are examples and not meant to provide a complete list of all
 possible foci in this category.
-- [Doesn’t Do Much](Foci/Doesn’t%20Do%20Much.md)
+- [Ne Fait Ne Fait Pas Grand-Chose](Foci/Doesn’t%20Do%20Much.md)
 - [Interprets the Law](Foci/Interprets%20the%20Law.md)
 - [Learns Quickly](Foci/Learns%20Quickly.md)
 - [Works for a Living](Foci/Works%20for%20a%20Living.md)
@@ -501,10 +501,10 @@ The following are examples and not meant to provide a complete list of all
 possible foci in this category.
 - [Awakens Dreams](Foci/Awakens%20Dreams.md)
 - [Blazes With Radiance](Foci/Blazes%20With%20Radiance.md)
-- [Calculates the Incalculable](Foci/Calculates%20the%20Incalculable.md)
+- [Calcule l"Incalculable](Foci/Calculates%20the%20Incalculable.md)
 - [Controls Gravity](Foci/Controls%20Gravity.md)
 - [Crafts Illusions](Foci/Crafts%20Illusions.md)
-- [Crafts Unique Objects](Foci/Crafts%20Unique%20Objects.md)
+- [Façonne des Objets Uniques](Foci/Crafts%20Unique%20Objects.md)
 - [Employs Magnetism](Foci/Employs%20Magnetism.md)
 - [Focuses Mind Over Matter](Foci/Focuses%20Mind%20Over%20Matter.md)
 
@@ -593,7 +593,7 @@ the next round.
 
 The following are examples and not meant to provide a complete list of all
 possible foci in this category.
-- [Explores Dark Places](Foci/Explores%20Dark%20Places.md)
+- [Explore des Endroits Sombres](Foci/Explores%20Dark%20Places.md)
 - [Infiltrates](Foci/Infiltrates.md)
 - [Operates Undercover](Foci/Operates%20Undercover.md)
 - [Pilots Starcraft](Foci/Pilots%20Starcraft.md)
@@ -953,8 +953,8 @@ provided by the focus as part of your turn.
 
 The following are examples and not meant to provide a complete list of all
 possible foci in this category.
-- [Battles Robots](Foci/Battles%20Robots.md)
-- [Fights Dirty](Foci/Fights%20Dirty.md)
+- [Combat les Robots](Foci/Battles%20Robots.md)
+- [Se Bat Sans Respecter de Règle](Foci/Fights%20Dirty.md)
 - [Fights With Panache](Foci/Fights%20With%20Panache.md)
 - [Hunts](Foci/Hunts.md)
 - [Is Licensed to Carry](Foci/Is%20Licensed%20to%20Carry.md)
@@ -1060,7 +1060,7 @@ Major Effect Suggestions: You can take an extra action in aid of an ally.
 The following are examples and not meant to provide a complete list of all
 possible foci in this category.
 - [Defends the Weak](Foci/Defends%20the%20Weak.md)
-- [Entertains](Foci/Entertains.md)
+- [Divertit](Foci/Entertains.md)
 - [Helps Their Friends](Foci/Helps%20Their%20Friends.md)
 - [Metes Out Justice](Foci/Metes%20Out%20Justice.md)
 - [Shepherds the Community](Foci/Shepherds%20the%20Community.md)
@@ -1150,8 +1150,8 @@ The following are examples and not meant to provide a complete list of all
 possible foci in this category.
 - [Abides in Stone](Foci/Abides%20in%20Stone.md)
 - [Brandishes an Exotic Shield](Foci/Brandishes%20an%20Exotic%20Shield.md)
-- [Defends the Gate](Foci/Defends%20the%20Gate.md)
-- [Fuses Flesh and Steel](Foci/Fuses%20Flesh%20and%20Steel.md)
+- [Garde le Passage](Foci/Defends%20the%20Gate.md)
+- [Fusionne la Chair et l'Acier](Foci/Fuses%20Flesh%20and%20Steel.md)
 - [Grows to Towering Heights](Foci/Grows%20to%20Towering%20Heights.md)
 - [Howls at the Moon](Foci/Howls%20at%20the%20Moon.md)
 - [Lives in the Wilderness](Foci/Lives%20in%20the%20Wilderness.md)
