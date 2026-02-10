@@ -1,9 +1,10 @@
-Better Surprise Attack #Ability #SpecialAttackAbility #Mid #Core
+Attaque Surprise Améliorée #Ability #SpecialAttackAbility #Mid #Core
 
-If attacking from a hidden vantage, with surprise, or before an opponent has
-acted, you get an asset on the attack (if you have Surprise Attack, this is in
-addition to the asset from that ability). On a successful hit with this surprise
-attack, you inflict 2 additional points of damage (for a total of 4 additional
-points of damage if you have Surprise Attack).
+Si vous attaquez depuis un point de vue caché, avec surprise ou avant qu'un
+adversaire n'ait agi, vous obtenez un atout lors de l'attaque (si vous avez une
+attaque surprise, cela s'ajoute à l'atout de cette capacité). En cas de réussite
+de cette attaque surprise, vous infligez 2 points de dégâts supplémentaires
+(pour un total de 4 points de dégâts supplémentaires si vous avez Attaque
+Surprise).
 
 Facilitateur.
