@@ -1,9 +1,11 @@
-Bolts of Power (5+ Intellect points) #Ability #SpecialAttackAbility #Mid #Core
+Eclairs de Puissance (5+ points d'Intellect) #Ability #SpecialAttackAbility #Mid
+#Core
 
-You blast a fan of lightning out to short range in an arc that is approximately
-50 feet (15 m) wide at the end. This discharge inflicts 4 points of damage. If
-you apply Effort to increase the damage rather than to ease the task, you deal 2
-additional points of damage per level of Effort (instead of 3 points); targets
-in the area take 1 point of damage even if you fail the attack roll.
+Vous faites exploser un éventail d'éclairs à courte portée dans un arc d'environ
+50 pieds (15 m) de large à l'extrémité. Cette décharge inflige 4 points de
+dégâts. Si vous appliquez Effort pour augmenter les dégâts plutôt que pour
+faciliter la tâche, vous infligez 2 points de dégâts supplémentaires par niveau
+d'Effort (au lieu de 3 points) ; les cibles dans la zone subissent 1 point de
+dégâts même si vous échouez au jet d'attaque.
 
 Action.
