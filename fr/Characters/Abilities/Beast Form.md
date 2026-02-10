@@ -1,14 +1,15 @@
-Beast Form #Ability #TransformAbility #Mid #Core
+Forme de bête #Ability #TransformAbility #Mid #Core
 
-On five consecutive nights each month, you change into a monstrous beast for up
-to one hour each night. In this new form, you gain +8 to your Might Pool, +1 to
-your Might Edge, +2 to your Speed Pool, and +1 to your Speed Edge. While in
-beast form, you can’t spend Intellect points for any reason other than to try to
-change to your normal form before the one-hour duration is over (a difficulty 2
-task). In addition, you attack any and every living creature within short range.
-After you revert to your normal form, you take a –1 penalty to all rolls for one
-hour. If you did not kill and eat at least one substantial creature while in
-beast form, the penalty increases to –2 and affects all your rolls for the next
-24 hours.
+Cinq nuits consécutives chaque mois, vous vous transformez en bête monstrueuse
+pendant une heure maximum chaque nuit. Dans cette nouvelle forme, vous gagnez +8
+à votre Réserve de Puissance, +1 à votre Avantage de Puissance, +2 à votre
+Réserve de Célérité et +1 à votre Avantage de Célérité. Sous forme de bête, vous
+ne pouvez pas dépenser de points d'Intellect pour une raison autre que d'essayer
+de reprendre votre forme normale avant la fin de la durée d'une heure (une tâche
+de difficulté 2). De plus, vous attaquez toute créature vivante à courte portée.
+Après être revenu à votre forme normale, vous subissez une pénalité de -1 à tous
+les jets pendant une heure. Si vous n'avez pas tué et mangé au moins une
+créature substantielle alors que vous étiez sous forme de bête, la pénalité
+passe à -2 et affecte tous vos jets pendant les prochaines 24 heures.
 
-Action to change back.
+Action de revenir en arrière.
