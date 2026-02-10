@@ -1,14 +1,15 @@
-Break Their Mind (7+ Intellect points) #Ability #SpecialAttackAbility #High
-#Core
+Briser leur esprit (7+ points d'intelligence) #Ability #SpecialAttackAbility
+#High #Core
 
-Using your clever words and knowledge of others, and given a couple of rounds of
-conversation to gain a few specific pieces of context regarding your target, you
-can utter a sentence designed to cause your target immediate psychological
-distress. If the target can hear and understand you, it suffers 6 points of
-Intellect damage (ignores Armor) and forgets the last day of its life, which
-might mean it forgets you and how it came to be where it currently is. In
-addition to the normal options for using Effort, you can choose to use Effort to
-attempt to break the mind of one additional target who can hear and understand
-you.
+En utilisant vos mots intelligents et votre connaissance des autres, et en vous
+donnant quelques tours de conversation pour obtenir quelques éléments de
+contexte spécifiques concernant votre cible, vous pouvez prononcer une phrase
+conçue pour provoquer immédiatement votre cible. la détresse psychologique. Si
+la cible peut vous entendre et vous comprendre, elle subit 6 points de dégâts
+d'Intellect (ignore l'armure) et oublie le dernier jour de sa vie, ce qui
+pourrait signifier qu'elle vous oublie et comment elle en est arrivée là où elle
+se trouve actuellement. En plus des options normales d'utilisation de l'Effort,
+vous pouvez choisir d'utiliser l'Effort pour tenter de briser l'esprit d'une
+cible supplémentaire qui peut vous entendre et vous comprendre.
 
-Action to initiate, action to complete.
+Action pour initier, action pour terminer.
