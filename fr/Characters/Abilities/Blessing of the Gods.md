@@ -1,44 +1,51 @@
-Blessing of the Gods #Ability #Core #FairyTale
+Bénédiction des Dieux #Ability #Core #FairyTale
 
-As a servant of the gods, you can call up blessings in their name. This blessing
-depends on the god’s general demeanor and area of influence. Choose two of the
-abilities described below.
-- Authority/Law/Peace (3 Intellect points). You prevent a foe that can hear and
-  understand you from attacking anyone or anything for one round. Action.
-- Benevolence/Righteousness/Spirit (2+ Intellect points). One level 1 demon,
-  spirit, or similar creature within short range is destroyed or banished. In
-  addition to the normal options for using Effort, you can choose to use Effort
-  to increase the maximum level of the target. Thus, to destroy or banish a
-  level 5 target (four levels above the normal limit), you must apply four
-  levels of Effort. Action.
-- Death/Darkness (2 Intellect points). A target you choose within short range
-  withers, suffering 3 points of damage. Action.
-- Desire/Love/Health (3 Intellect points). With a touch, you restore 1d6 points
-  to one stat Pool of any creature, including yourself. This ability is a
-  difficulty 2 Intellect task. Each time you attempt to heal the same creature,
-  the task is hindered by an additional step. The difficulty returns to 2 after
-  that creature rests for ten hours. Action.
-- Earth/Stone. You are trained in climbing, stonecraft, and spelunking. Enabler.
-- Knowledge/Wisdom (3 Intellect points). Choose up to three creatures
-  (potentially including yourself). For one minute, a particular type of task
-  (but not an attack roll or defense roll) is eased for those creatures, but
-  only while they remain within immediate range of you. Action.
-- Nature/Animals/Plants. You are trained in botany and handling natural animals.
-  Enabler.
-- Protection/Silence (3 Intellect points). You create a quiet bubble of
-  protection around you to an immediate radius for one minute. The bubble moves
-  with you. All defense rolls for you and all creatures you designate within the
-  bubble are eased, and no noise, regardless of its origin, sounds louder than a
-  normal speaking voice. Action to initiate.
-- Sky/Air (2 Intellect points). A creature you touch is immune to airborne
-  toxins or contaminants for ten minutes. Action.
-- Sun/Light/Fire (2 Intellect points). You cause one creature or object within
-  short range to catch fire, inflicting 1 point of ambient damage each round
-  until the fire is extinguished (requiring an action). Action.
-- Trickery/Greed/Commerce. You are trained in detecting the deceptions of other
-  creatures. Enabler.
-- War (1 Intellect point). A target you choose within short range (potentially
-  yourself) deals 2 additional points of damage with its next successful weapon
-  attack. Action.
-- Water/Sea (2 Intellect points). A target you touch can breathe water for ten
+En tant que serviteur des dieux, vous pouvez invoquer des bénédictions en leur
+nom. Cette bénédiction dépend du comportement général du dieu et de sa zone
+d'influence. Choisissez deux des capacités décrites ci-dessous.
+- Autorité/Loi/Paix (3 points d'Intellect). Vous empêchez un ennemi capable de
+  vous entendre et de vous comprendre d'attaquer qui que ce soit ou quoi que ce
+  soit pendant un round. Action.
+- Bienveillance/Justice/Esprit (2+ points d'Intellect). Un démon, un esprit ou
+  une créature similaire de niveau 1 à courte portée est détruit ou banni. En
+  plus des options normales d'utilisation de l'Effort, vous pouvez choisir
+  d'utiliser l'Effort pour augmenter le niveau maximum de la cible. Ainsi, pour
+  détruire ou bannir une cible de niveau 5 (quatre niveaux au-dessus de la
+  limite normale), vous devez appliquer quatre niveaux d'Effort. Action.
+- Mort/Ténèbres (2 points d'Intellect). Une cible que vous choisissez à courte
+  portée se flétrit et subit 3 points de dégâts. Action.
+- Désir/Amour/Santé (3 points d'Intellect). D'un simple contact, vous restaurez
+  1d6 points à une réserve de statistiques de n'importe quelle créature, y
+  compris vous-même. Cette capacité est une tâche de difficulté Intellect 2.
+  Chaque fois que vous tentez de soigner la même créature, la tâche est gênée
+  par une étape supplémentaire. La difficulté revient à 2 après que cette
+  créature se repose pendant dix heures. Action.
+- Terre/Pierre. Vous êtes entraîné à l'escalade, à la fabrication de pierres et
+  à la spéléologie. Facilitateur.
+- Connaissance/Sagesse (3 points d'Intellect). Choisissez jusqu'à trois
+  créatures (y compris potentiellement vous-même). Pendant une minute, un type
+  particulier de tâche (mais pas un jet d'attaque ou de défense) est facilité
+  pour ces créatures, mais uniquement tant qu'elles restent à portée immédiate
+  de vous. Action.
+- Nature/Animaux/Plantes. Vous êtes entraîné à la botanique et à la manipulation
+  des animaux naturels. Facilitateur.
+- Protection/Silence (3 points d'Intellect). Vous créez une bulle de protection
+  silencieuse autour de vous dans un rayon immédiat pendant une minute. La bulle
+  bouge avec vous. Tous les jets de défense pour vous et pour toutes les
+  créatures que vous désignez dans la bulle sont facilités, et aucun bruit,
+  quelle que soit son origine, n'est plus fort qu'une voix normale. Action pour
+  initier.
+- Ciel/Air (2 points d'Intellect). Une créature que vous touchez est immunisée
+  contre les toxines ou les contaminants en suspension dans l'air pendant dix
   minutes. Action.
+- Soleil/Lumière/Feu (2 points d'Intellect). Vous faites prendre feu à une
+  créature ou à un objet à courte portée, infligeant 1 point de dégâts ambiants
+  à chaque tour jusqu'à ce que le feu soit éteint (nécessitant une action).
+  Action.
+- Supercherie/Cupidité/Commerce. Vous êtes entraîné à détecter les tromperies
+  d'autres créatures. Facilitateur.
+- Guerre (1 point d'Intellect). Une cible que vous choisissez à courte portée
+  (potentiellement vous-même) inflige 2 points de dégâts supplémentaires lors de
+  sa prochaine attaque d'arme réussie. Action.
+- Eau/Mer (2 points d'Intellect). Une cible que vous touchez peut respirer de
+  l'eau pendant dix minutes. Action.
