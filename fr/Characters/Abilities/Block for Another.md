@@ -1,8 +1,9 @@
-Block for Another #Ability #SupportAbility #High #Core
+Bloquer pour un autre #Ability #SupportAbility #High #Core
 
-If you use a light or medium weapon, you can block attacks made against an ally
-near you. Choose one creature within immediate range. You provide an asset to
-that creature’s Speed defense tasks. You can’t use Quick Block while using Block
-for Another.
+Si vous utilisez une arme légère ou moyenne, vous pouvez bloquer les attaques
+lancées contre un allié proche de vous. Choisissez une créature à portée
+immédiate. Vous fournissez un atout aux tâches de défense de Célérité de cette
+créature. Vous ne pouvez pas utiliser Quick Bloquer lorsque vous utilisez
+Bloquer for Another.
 
 Facilitateur.
