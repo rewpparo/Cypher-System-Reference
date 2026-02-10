@@ -1251,12 +1251,13 @@ For example, it can make the illusion of a brick wall feel like brick, the
 illusion of a person smell like perfume and able to open a door, and the
 illusion of a fireplace hot to the touch.
 
-The physical reality provided to your illusion is a level 1 effect with 3
-health. If the illusion is used to make attacks, it inflicts only 1 point of
-damage (whether this is regular damage like an illusory punch or kick, or
-ambient damage like a falling brick wall or a fireplace’s flames). You can
-increase the level of the created effect by applying levels of Effort to this
-ability, each level of Effort increasing the effect’s level by 1.
+La réalité physique fournie à votre illusion est un effet de niveau 1 avec 3
+points de vie. Si l'illusion est utilisée pour réaliser des attaques, elle
+n'inflige qu'1 point de dégâts (qu'il s'agisse de dégâts normaux comme un coup
+de poing ou de pied illusoire, ou de dégâts ambiants comme la chute d'un mur de
+briques ou les flammes d'une cheminée). Vous pouvez augmenter le niveau de
+l'effet créé en appliquant des niveaux d'Effort à cette capacité, chaque niveau
+d'Effort augmentant le niveau de l'effet de 1.
 
 You can activate this ability as part of the action to create an illusion (using
 whatever ability it is that you use to create illusions, such as Minor
