@@ -1,6 +1,6 @@
-Beneath Notice #Ability #Core #SuperHeroes
+Sans être remarqué #Ability #Core #SuperHeroes
 
-Your decreased size makes it difficult to find you. While [Shrink](Shrink.md) is
-active on you, all stealth tasks you attempt are eased.
+Votre taille réduite rend difficile votre recherche. Pendant que Rétrécir est
+actif sur vous, toutes les tâches furtives que vous tentez sont facilitées.
 
 Facilitateur.
