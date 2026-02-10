@@ -6,7 +6,7 @@ a typical session, a player might earn 2 to 4 XP, and between sessions, perhaps
 another 2 XP (on average). The exact amounts depend on the events of the
 session.
 
-# GM INTRUSION
+# INTRUSION DE LA MENEUSE
 
 At any time, the GM can introduce an unexpected complication for a character.
 When they intrude in this way, they must give that character 2 XP. That player,
