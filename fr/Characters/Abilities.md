@@ -1162,7 +1162,7 @@ action or an asset on their roll.
 - [Will of a Leader](Abilities/Will%20of%20a%20Leader.md)
 - [Work the Friendship](Abilities/Work%20the%20Friendship.md)
 
-# TASK
+# TÂCHE
 
 Gives training, specialization, or an asset in one or more noncombat skills
 (climbing, healing, computers, initiative, and so on).
