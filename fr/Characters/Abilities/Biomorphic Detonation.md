@@ -1,12 +1,13 @@
-Biomorphic Detonation (7+ Might points) #Ability #SpecialAttackAbility #High
+Détonation Biomorphique (7+ Might points) #Ability #SpecialAttackAbility #High
 #Core
 
-You radiate a pulse of biomorphic energy up to a short distance away, but you
-tune it to disrupt life in an area an immediate distance across. All within the
-detonation take 5 points of damage that ignores Armor (unless it is Armor
-provided by a force field effect). If you apply additional Effort to increase
-the damage, you deal 2 additional points of damage per level of Effort (instead
-of 3 points); targets in the area take 1 point of damage even if you fail the
-attack roll.
+Vous rayonnez une impulsion d'énergie biomorphique jusqu'à une courte distance,
+mais vous la réglez pour perturber la vie dans une zone à une distance
+immédiate. Tous ceux qui se trouvent dans la détonation subissent 5 points de
+dégâts qui ignorent l'armure (sauf s'il s'agit d'une armure fournie par un effet
+de champ de force). Si vous appliquez un Effort supplémentaire pour augmenter
+les dégâts, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort
+(au lieu de 3 points) ; les cibles dans la zone subissent 1 point de dégâts même
+si vous échouez au jet d'attaque.
 
 Action.
