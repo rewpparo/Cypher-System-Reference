@@ -1,19 +1,23 @@
-# Appropriate Cyberpunk Foci
+# Foci appropriés pour le Cyberpunk
 
-The following foci from the Cypher System Rulebook are all appropriate for a
-cyberpunk setting and can be used as is.
-- [Battles Robots](../../Characters/Foci/Battles%20Robots.md)
-- [Builds Robots](../../Characters/Foci/Builds%20Robots.md)
-- [Calculates the
-  Incalculable](../../Characters/Foci/Calculates%20the%20Incalculable.md)
-- [Crafts Unique Objects](../../Characters/Foci/Crafts%20Unique%20Objects.md)
-- [Defends the Gate](../../Characters/Foci/Defends%20the%20Gate.md)
-- [Doesn’t Do Much](../../Characters/Foci/Doesn’t%20Do%20Much.md)
-- [Drives Like A Maniac](../../Characters/Foci/Drives%20Like%20A%20Maniac.md)
-- [Entertains](../../Characters/Foci/Entertains.md)
-- [Explores Dark Places](../../Characters/Foci/Explores%20Dark%20Places.md)
-- [Fights Dirty](../../Characters/Foci/Fights%20Dirty.md)
-- [Fuses Flesh and Steel](../../Characters/Foci/Fuses%20Flesh%20and%20Steel.md)
+Les foci du Cypher System Rulebook qui suivent sont tous appropriés pour un
+cadre de jeu Cyberpunk et peuvent être utilisés tels quels.
+- [Combat les Robots](../../Characters/Foci/Battles%20Robots.md)
+- [Construit des Robots](../../Characters/Foci/Builds%20Robots.md)
+- [Calcule
+  l"Incalculable](../../Characters/Foci/Calculates%20the%20Incalculable.md)
+- [Façonne des Objets
+  Uniques](../../Characters/Foci/Crafts%20Unique%20Objects.md)
+- [Garde le Passage](../../Characters/Foci/Defends%20the%20Gate.md)
+- [Ne Fait Ne Fait Pas
+  Grand-Chose](../../Characters/Foci/Doesn’t%20Do%20Much.md)
+- [Conduit comme un Dingue](../../Characters/Foci/Drives%20Like%20A%20Maniac.md)
+- [Divertit](../../Characters/Foci/Entertains.md)
+- [Explore des Endroits
+  Sombres](../../Characters/Foci/Explores%20Dark%20Places.md)
+- [Se Bat Sans Respecter de Règle](../../Characters/Foci/Fights%20Dirty.md)
+- [Fusionne la Chair et
+  l'Acier](../../Characters/Foci/Fuses%20Flesh%20and%20Steel.md)
 - [Fuses Mind and
   Machine](../../Characters/Foci/Fuses%20Mind%20and%20Machine.md)
 - [Helps Their Friends](../../Characters/Foci/Helps%20Their%20Friends.md)
