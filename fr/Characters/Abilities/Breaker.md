@@ -1,13 +1,14 @@
-Breaker #Ability #TaskAbility #Low #Core
+Casseur #Ability #TaskAbility #Low #Core
 
-You are trained in tasks related to damaging objects with the goal of breaking,
-piercing, or demolishing them. It is a Might action to damage an object, and on
-a success, the object moves one step down the object damage track. If the Might
-roll exceeds the difficulty by two steps, the object instead moves two steps
-down the object damage track. If the Might roll exceeds the difficulty by four
-steps, the object moves three steps down the object damage track and is
-immediately destroyed. Brittle material reduces the effective level of the
-object, while hard material like wood or stone adds 1 to the effective level or
-2 for very hard objects like those made of metal.
+Vous êtes entraîné aux tâches liées à l'endommagement d'objets dans le but de
+les casser, de les percer ou de les démolir. C'est une action de Puissance pour
+endommager un objet, et en cas de succès, l'objet descend d'un cran sur la piste
+de dégâts de l'objet. Si le jet de Puissance dépasse la difficulté de deux
+crans, l'objet se déplace de deux crans vers le bas de la piste de dégâts de
+l'objet. Si le jet de Puissance dépasse la difficulté de quatre niveaux, l'objet
+descend de trois niveaux sur la piste de dégâts de l'objet et est immédiatement
+détruit. Un matériau fragile réduit le niveau effectif de l'objet, tandis qu'un
+matériau dur comme le bois ou la pierre ajoute 1 au niveau effectif ou 2 pour
+les objets très durs comme ceux en métal.
 
 Facilitateur.
