@@ -370,7 +370,7 @@ types, and foci might be available for players. The GM will decide what’s
 available in their particular game and whether anything is modified, and they’ll
 let the players know.)
 
-# SKILLS
+# COMPÉTENCES
 
 Sometimes your character gains training in a specific skill or task. For
 example, your focus might mean that you’re trained in sneaking, in climbing and
