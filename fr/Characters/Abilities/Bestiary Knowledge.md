@@ -1,6 +1,7 @@
-Bestiary Knowledge #Ability #TaskAbility #Low #Core
+Connaissance du bestiaire #Ability #TaskAbility #Low #Core
 
-You are trained in the lore of flesh-eating, nonhumanoid creatures—recognizing
-them, knowing their weaknesses, and knowing their habits and behaviors.
+Vous êtes entraîné à l'histoire des créatures carnivores non humanoïdes : vous
+savez les reconnaître, connaître leurs faiblesses et connaître leurs habitudes
+et leurs comportements.
 
 Facilitateur.
