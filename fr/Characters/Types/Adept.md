@@ -120,17 +120,17 @@ the same ability more than once unless its description says otherwise. The full
 description for each listed ability can be found in Abilities, which also has
 descriptions for flavor and focus abilities in a single vast catalog. (Adept
 abilities require at least one free hand unless the GM says otherwise.)
-- [Distortion](../Abilities/Distortion.md)
+- [Distorsion](../Abilities/Distortion.md)
 - [Effacer les souvenirs](../Abilities/Erase%20Memories.md)
-- [Far Step](../Abilities/Far%20Step.md)
-- [Hedge Magic](../Abilities/Hedge%20Magic.md)
-- [Magic Training](../Abilities/Magic%20Training.md)
-- [Onslaught](../Abilities/Onslaught.md)
-- [Push](../Abilities/Push.md)
+- [Grand Pas](../Abilities/Far%20Step.md)
+- [Magie Prosaïque](../Abilities/Hedge%20Magic.md)
+- [Formation magique](../Abilities/Magic%20Training.md)
+- [Assaut Magique](../Abilities/Onslaught.md)
+- [Poussée](../Abilities/Push.md)
 - [Resonance Field](../Abilities/Resonance%20Field.md)
 - [Scan](../Abilities/Scan.md)
-- [Shatter](../Abilities/Shatter.md)
-- [Ward](../Abilities/Ward.md)
+- [Briser](../Abilities/Shatter.md)
+- [Protection](../Abilities/Ward.md)
 
 # SECOND-TIER ADEPT
 
@@ -138,12 +138,12 @@ Choose one of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
 - [Adaptation](../Abilities/Adaptation.md)
-- [Cutting Light](../Abilities/Cutting%20Light.md)
-- [Hover](../Abilities/Hover.md)
+- [Lumière coupante](../Abilities/Cutting%20Light.md)
+- [Survol](../Abilities/Hover.md)
 - [Lire les Pensées](../Abilities/Mind%20Reading.md)
-- [Retrieve Memories](../Abilities/Retrieve%20Memories.md)
+- [Récupérer des souvenirs](../Abilities/Retrieve%20Memories.md)
 - [Reveal](../Abilities/Reveal.md)
-- [Stasis](../Abilities/Stasis.md)
+- [Stase](../Abilities/Stasis.md)
 
 # THIRD-TIER ADEPT
 
@@ -151,42 +151,43 @@ Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
-- [Countermeasures](../Abilities/Countermeasures.md)
-- [Energy Protection](../Abilities/Energy%20Protection.md)
-- [Fire and Ice](../Abilities/Fire%20and%20Ice.md)
+- [Contre-mesures](../Abilities/Countermeasures.md)
+- [Protection énergétique](../Abilities/Energy%20Protection.md)
+- [Feu et Glace](../Abilities/Fire%20and%20Ice.md)
 - [Force Field Barrier](../Abilities/Force%20Field%20Barrier.md)
-- [Sensor](../Abilities/Sensor.md)
-- [Targeting Eye](../Abilities/Targeting%20Eye.md)
+- [Capteur](../Abilities/Sensor.md)
+- [Oeil pour Cibler](../Abilities/Targeting%20Eye.md)
 
 # FOURTH-TIER ADEPT
 
 Choose one of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Death Touch](../Abilities/Death%20Touch.md)
-- [Exile](../Abilities/Exile.md)
-- [Invisibility](../Abilities/Invisibility.md)
+- [Toucher Mortel](../Abilities/Death%20Touch.md)
+- [Exil](../Abilities/Exile.md)
+- [Invisibilité](../Abilities/Invisibility.md)
 - [Matter Cloud](../Abilities/Matter%20Cloud.md)
-- [Mind Control](../Abilities/Mind%20Control.md)
+- [Contrôle mental](../Abilities/Mind%20Control.md)
 - [Projection](../Abilities/Projection.md)
 - [Rapid Processing](../Abilities/Rapid%20Processing.md)
 - [Régénération](../Abilities/Regeneration.md)
-- [Reshape](../Abilities/Reshape.md)
-- [Wormhole](../Abilities/Wormhole.md)
+- [Remodeler](../Abilities/Reshape.md)
+- [Trou de ver](../Abilities/Wormhole.md)
 
 # FIFTH-TIER ADEPT
 
 Choose two of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Absorb Energy](../Abilities/Absorb%20Energy.md)
+- [Absorber l'énergie](../Abilities/Absorb%20Energy.md)
 - [Concussion](../Abilities/Concussion.md)
 - [Conjuration](../Abilities/Conjuration.md)
-- [Create](../Abilities/Create.md)
-- [Dust to Dust](../Abilities/Dust%20to%20Dust.md)
+- [Créer](../Abilities/Create.md)
+- [Poussière Retourne à la Poussière](../Abilities/Dust%20to%20Dust.md)
 - [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
-- [Master Cypher Use](../Abilities/Master%20Cypher%20Use.md)
-- [Teleportation](../Abilities/Teleportation.md)
+- [Maîtrise dans l' Utilisation des
+  Cyphers](../Abilities/Master%20Cypher%20Use.md)
+- [Téléportation](../Abilities/Teleportation.md)
 - [Sens Véritables](../Abilities/True%20Senses.md)
 
 # SIXTH-TIER ADEPT
@@ -194,11 +195,11 @@ different one from a lower tier.
 Choose one of the abilities listed below (or from a lower tier) to add to your
 repertoire. In addition, you can replace one of your lower-tier abilities with a
 different one from a lower tier.
-- [Control Weather](../Abilities/Control%20Weather.md)
-- [Earthquake](../Abilities/Earthquake.md)
-- [Move Mountains](../Abilities/Move%20Mountains.md)
-- [Traverse the Worlds](../Abilities/Traverse%20the%20Worlds.md)
-- [Usurp Cypher](../Abilities/Usurp%20Cypher.md)
+- [Contrôle de la météo](../Abilities/Control%20Weather.md)
+- [Tremblement de terre](../Abilities/Earthquake.md)
+- [Déplacer des montagnes](../Abilities/Move%20Mountains.md)
+- [Traversez les mondes](../Abilities/Traverse%20the%20Worlds.md)
+- [Usurpation de Cypher](../Abilities/Usurp%20Cypher.md)
 
 # ADEPT EXAMPLE
 
