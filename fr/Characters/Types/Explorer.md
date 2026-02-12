@@ -138,33 +138,33 @@ inférieur par une différente d'un rang inférieur.
 - [Évasion](../Abilities/Escape.md)
 - [L’œil pour les Détails](../Abilities/Eye%20for%20Detail.md)
 - [Déjouer le Danger](../Abilities/Foil%20Danger.md)
-- - [Coordination Main-Oeil](../Abilities/Hand%20To%20Eye.md)
-- - [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
-- - [Récupération rapide](../Abilities/Rapid%20Recovery.md)
-- - [Augmentation de la portée](../Abilities/Range%20Increase.md)
+- [Coordination Main-Oeil](../Abilities/Hand%20to%20Eye.md)
+- [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
+- [Récupération rapide](../Abilities/Quick%20Recovery.md)
+- [Augmentation de la portée](../Abilities/Range%20Increase.md)
 - [Doué en défense](../Abilities/Skill%20With%20Defense.md)
-- - [Rester en Alerte](../Abilities/Stand%20Watch.md)
-- - [Compétences de voyage](../Abilities/Travel%20Skills.md)
-- - [Défoncer](../Abilities/Wreck.md)
+- [Rester en Alerte](../Abilities/Stand%20Watch.md)
+- [Compétences de voyage](../Abilities/Travel%20Skills.md)
+- [Défoncer](../Abilities/Wreck.md)
 
 # # Explorateur de Troisième Rang
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
-- - [Chute contrôlée](../Abilities/Controlled%20Fall.md)
+- [Chute contrôlée](../Abilities/Controlled%20Fall.md)
 - [Expérimenté dans les Armures](../Abilities/Experienced%20in%20Armor.md)
 - [Expert dans l'utilisation des cypher](../Abilities/Expert%20Cypher%20Use.md)
-- - [Ignorez la Douleur](../Abilities/Ignore%20The%20Pain.md)
-- - [Course d'obstacles](../Abilities/Obstacle%20Running.md)
-- - [Résilience](../Abilities/Resilience.md)
-- - [Courir et combattre](../Abilities/Run%20And%20Fight.md)
+- [Ignorez la Douleur](../Abilities/Ignore%20the%20Pain.md)
+- [Course d'obstacles](../Abilities/Obstacle%20Running.md)
+- [Résilience](../Abilities/Resilience.md)
+- [Courir et combattre](../Abilities/Run%20and%20Fight.md)
 - [Saisir l'instant](../Abilities/Seize%20the%20Moment.md)
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
-- - [Briseur de Pierre](../Abilities/Stone%20Breaker.md)
-- - [Pensez à votre sortie](../Abilities/Think%20Your%20Way%20Out.md)
-- - [Trouver les Pièges](../Abilities/Trapfinder.md)
-- - [Extraire du hasard](../Abilities/Wrest%20From%20Chance.md)
+- [Briseur de Pierre](../Abilities/Stone%20Breaker.md)
+- [Pensez à votre sortie](../Abilities/Think%20Your%20Way%20Out.md)
+- [Trouver les Pièges](../Abilities/Trapfinder.md)
+- [Extraire du hasard](../Abilities/Wrest%20From%20Chance.md)
 
 # # Explorateur de Quatrième Rang
 
@@ -172,11 +172,11 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
-- - [Compétence d'expert](../Abilities/Expert%20Skill.md)
+- [Compétence d'expert](../Abilities/Expert%20Skill.md)
 - [Effets Accrus](../Abilities/Increased%20Effects.md)
 - [Lire les signes](../Abilities/Read%20the%20Signs.md)
-- - [Coureur](../Abilities/Runner.md)
-- - [Pas subtiles](../Abilities/Subtle%20Steps.md)
+- [Coureur](../Abilities/Runner.md)
+- [Pas subtiles](../Abilities/Subtle%20Steps.md)
 - [Increvable](../Abilities/Tough%20As%20Nails.md)
 
 # # Explorateur de Cinquième Rang
@@ -185,15 +185,15 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - [Utilisation adroite des cyphers](../Abilities/Adroit%20Cypher%20Use.md)
-- - [Libre de se déplacer](../Abilities/Free%20To%20Move.md)
-- - [Amitié de groupe](../Abilities/Group%20Friendship.md)
+- [Libre de se déplacer](../Abilities/Free%20to%20Move.md)
+- [Amitié de groupe](../Abilities/Group%20Friendship.md)
 - - [Difficile à tuer](../Abilities/Hard%20To%20Kill.md)
 - [Attaque sautée](../Abilities/Jump%20Attack.md)
 - [Maitrise en défense](../Abilities/Mastery%20With%20Defense.md)
 - [Parade](../Abilities/Parry.md)
-- - [Physiquement doué](../Abilities/Physically%20Gifted.md)
-- - [Prendre le commandement](../Abilities/Take%20Command.md)
-- - [Vigilant](../Abilities/Vigilant.md)
+- [Physiquement doué](../Abilities/Physically%20Gifted.md)
+- [Prendre le commandement](../Abilities/Take%20Command.md)
+- [Vigilant](../Abilities/Vigilant.md)
 
 # # Explorateur de Sixième Rang
 
@@ -201,14 +201,14 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang
 inférieur par une différente d'un rang inférieur.
 - [Encore et Encore](../Abilities/Again%20and%20Again.md)
-- - [Inspire des actions
+- [Inspire des actions
   coordonnées](../Abilities/Inspire%20Coordinated%20Actions.md)
 - [Maitrise des armures](../Abilities/Mastery%20in%20Armor.md)
 - [Maitrise à l'attaque](../Abilities/Mastery%20With%20Attacks.md)
-- - [Annuler le danger](../Abilities/Negate%20Danger.md)
-- - [Partager la défense](../Abilities/Share%20Defense.md)
+- [Annuler le danger](../Abilities/Negate%20Danger.md)
+- [Partager la défense](../Abilities/Share%20Defense.md)
 - [Vrille](../Abilities/Spin%20Attack.md)
-- - [Vitalité sauvage](../Abilities/Wild%20Vitality.md)
+- [Vitalité sauvage](../Abilities/Wild%20Vitality.md)
 
 # # Exemple d'Explorateur
 
