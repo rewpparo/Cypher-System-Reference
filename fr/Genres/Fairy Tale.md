@@ -1063,7 +1063,7 @@ situation.
 | 10  | An item in the character’s hand or bag starts to replicate itself over and over.                                                                                         |
 
 
-### PLAYER INTRUSIONS
+### Intrusions de joueur
 
 A player intrusion occurs when a player chooses to alter something in the story,
 making things easier for a player character. It’s kind of a reverse GM
@@ -3483,7 +3483,7 @@ fire” or similar item. Come up with your own or roll a quirk on the table belo
 | 10  | Causes flowers to grow wherever it is stored or set down.                                                               |
 
 
-## Creatures
+## Les Créatures
 
 ### Basic CREATURES AND NPCs FOR A FAIRY TALE GAME
 
