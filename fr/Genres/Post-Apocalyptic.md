@@ -3399,7 +3399,7 @@ roll.
 Depletion: 1 in 1d20 (check after each day of use)
 
 
-## Creatures
+## Les Créatures
 
 Basic CREATURES AND NPCs FOR A POST-APOCALYPTIC GAME
 - Crazy loner: level 3, deception and attacks as level 5
