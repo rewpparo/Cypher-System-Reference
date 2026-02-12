@@ -1850,7 +1850,7 @@ is level 4 or higher). If used directly against a werewolf instead of being
 applied to a living creature, it hinders all the werewolf’s actions and stops it
 from regenerating for several minutes.
 
-### Creatures
+### Les Créatures
 
 #### HORROR CREATURES AND NPCs BY LEVEL AND GENRE
 
