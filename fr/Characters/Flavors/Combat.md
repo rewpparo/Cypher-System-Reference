@@ -14,7 +14,7 @@ fiction setting could be a veteran of a thousand psychic wars.
 
 # SECOND-TIER COMBAT ABILITIES
 
-- [Bloodlust](../Abilities/Bloodlust.md)
+- [Soif de sang](../Abilities/Bloodlust.md)
 - [Prouesse de combat](../Abilities/Combat%20Prowess.md)
 - [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
@@ -31,18 +31,19 @@ fiction setting could be a veteran of a thousand psychic wars.
 - [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
 - [Visée mortelle](../Abilities/Deadly%20Aim.md)
 - [Furie](../Abilities/Fury.md)
-- [Misdirect](../Abilities/Misdirect.md)
+- [Détournement](../Abilities/Misdirect.md)
 - [Arroser ](../Abilities/Spray.md)
 
 # FIFTH-TIER COMBAT ABILITIES
 
 - [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
-- [Hard Target](../Abilities/Hard%20Target.md)
+- [Cible difficile](../Abilities/Hard%20Target.md)
 - [Parade](../Abilities/Parry.md)
 
 # SIXTH-TIER COMBAT ABILITIES
 
-- [Greater Skill With Attacks](../Abilities/Greater%20Skill%20With%20Attacks.md)
+- [Compétence en Attaque
+  Supérieure](../Abilities/Greater%20Skill%20With%20Attacks.md)
 - [Maitrise des armures](../Abilities/Mastery%20in%20Armor.md)
 - [Maitrise en défense](../Abilities/Mastery%20With%20Defense.md)
 
