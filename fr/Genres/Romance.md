@@ -144,7 +144,7 @@ improved, and decreased just as it can with a romantic relationship.
 | 9     | A friendship for the ages.                                                          |
 | 10    | A bond that transcends time and space.                                              |
 
-### Creatures
+### Les Créatures
 
 Basic CREATURES AND NPCs FOR A ROMANCE GAME
 - Distrustful relative: level 2
