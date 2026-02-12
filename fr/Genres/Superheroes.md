@@ -1933,7 +1933,7 @@ twenty-four hours if not used.
 
 Depletion: 1–3 in 1d10
 
-## Creatures
+## Les Créatures
 
 ### Basic CREATURES AND NPCs FOR A SUPERHERO GAME
 
