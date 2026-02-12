@@ -12,28 +12,28 @@ Speaker with this flavor might be a teacher.
 
 # FIRST-TIER SKILLS AND KNOWLEDGE ABILITIES
 
-- [Interaction Skills](../Abilities/Interaction%20Skills.md)
-- [Investigative Skills](../Abilities/Investigative%20Skills.md)
+- [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
+- [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
 - [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
 - [Compétences Physiques](../Abilities/Physical%20Skills.md)
-- [Travel Skills](../Abilities/Travel%20Skills.md)
+- [Compétences de voyage](../Abilities/Travel%20Skills.md)
 
 # SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES
 
-- [Extra Skill](../Abilities/Extra%20Skill.md)
-- [Tool Mastery](../Abilities/Tool%20Mastery.md)
+- [Compétence supplémentaire](../Abilities/Extra%20Skill.md)
+- [Maîtrise des outils](../Abilities/Tool%20Mastery.md)
 - [Compréhension](../Abilities/Understanding.md)
 
 # THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES
 
-- [Flex Skill](../Abilities/Flex%20Skill.md)
-- [Improvise](../Abilities/Improvise.md)
+- [Compétences en Gage](../Abilities/Flex%20Skill.md)
+- [Improviser](../Abilities/Improvise.md)
 
 # FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
-- [Multiple Skills](../Abilities/Multiple%20Skills.md)
+- [Compétences multiples](../Abilities/Multiple%20Skills.md)
 - [Vif d'esprit](../Abilities/Quick%20Wits.md)
-- [Task Specialization](../Abilities/Task%20Specialization.md)
+- [Spécialisation de tâche](../Abilities/Task%20Specialization.md)
 
 # FIFTH-TIER SKILLS AND KNOWLEDGE ABILITIES
 
