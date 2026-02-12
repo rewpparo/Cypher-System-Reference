@@ -280,7 +280,7 @@ AGE 14 TO 17
 - Youthful: –2 to your Might Pool.
 - Inability: Tasks involving knowledge are hindered.
 
-## Creatures
+## Les Créatures
 
 #### Businessperson
 
