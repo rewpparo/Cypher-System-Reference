@@ -3690,7 +3690,7 @@ mollify the entity granting the item self‑awareness.
 
 
 
-## Creatures
+## Les Créatures
 
 ### CREATURES AND NPCs OF THE WEIRD WEST
 
