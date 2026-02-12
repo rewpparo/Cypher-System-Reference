@@ -5405,7 +5405,7 @@ Depletion: 1 in 1d20
 
 
 
-## Creatures
+## Les Créatures
 
 ### Basic CREATURES AND NPCs FOR A SCIENCE FICTION GAME
 
