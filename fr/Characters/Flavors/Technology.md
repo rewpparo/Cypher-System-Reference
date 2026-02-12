@@ -14,45 +14,45 @@ abilities that don’t involve starships or ultratech.
 
 - [Datajack](../Abilities/Datajack.md)
 - [Hacker](../../Game%20Mastering/NPCs/Hacker.md)
-- [Machine Interface](../Abilities/Machine%20Interface.md)
-- [Scramble Machine](../Abilities/Scramble%20Machine.md)
-- [Tech Skills](../Abilities/Tech%20Skills.md)
-- [Tinker](../Abilities/Tinker.md)
+- [Interface Machine](../Abilities/Machine%20Interface.md)
+- [Brouiller une Machine](../Abilities/Scramble%20Machine.md)
+- [Compétences techniques](../Abilities/Tech%20Skills.md)
+- [Bricoleur](../Abilities/Tinker.md)
 
 # SECOND-TIER TECHNOLOGY ABILITIES
 
-- [Distant Interface](../Abilities/Distant%20Interface.md)
+- [Interface distante](../Abilities/Distant%20Interface.md)
 - [Machine Efficiency](../Abilities/Machine%20Efficiency.md)
-- [Overload Machine](../Abilities/Overload%20Machine.md)
+- [Surcharge de Machine](../Abilities/Overload%20Machine.md)
 - [Serv-0](../Abilities/Serv-0.md)
-- [Serv-0 Defender](../Abilities/Serv-0%20Defender.md)
-- [Serv-0 Repair](../Abilities/Serv-0%20Repair.md)
-- [Tool Mastery](../Abilities/Tool%20Mastery.md)
+- [Serv-0 Defenseur](../Abilities/Serv-0%20Defender.md)
+- [Serv-0 Réparateur](../Abilities/Serv-0%20Repair.md)
+- [Maîtrise des outils](../Abilities/Tool%20Mastery.md)
 
 # THIRD-TIER TECHNOLOGY ABILITIES
 
-- [Mechanical Telepathy](../Abilities/Mechanical%20Telepathy.md)
+- [Télépathie mécanique](../Abilities/Mechanical%20Telepathy.md)
 - [Serv-0 Scanner](../Abilities/Serv-0%20Scanner.md)
-- [Ship Footing](../Abilities/Ship%20Footing.md)
-- [Shipspeak](../Abilities/Shipspeak.md)
+- [A l'Aise à Bord](../Abilities/Ship%20Footing.md)
+- [Ordonner au Vaisseau](../Abilities/Shipspeak.md)
 - [Arroser ](../Abilities/Spray.md)
 
 # FOURTH-TIER TECHNOLOGY ABILITIES
 
-- [Machine Bond](../Abilities/Machine%20Bond.md)
+- [Liaison machine](../Abilities/Machine%20Bond.md)
 - [Robot Fighter](../Abilities/Robot%20Fighter.md)
 - [Serv-0 Aim](../Abilities/Serv-0%20Aim.md)
 - [Serv-0 Brawler](../Abilities/Serv-0%20Brawler.md)
-- [Serv-0 Spy](../Abilities/Serv-0%20Spy.md)
+- [Serv-0 Espion](../Abilities/Serv-0%20Spy.md)
 
 # FIFTH-TIER TECHNOLOGY ABILITIES
 
-- [Control Machine](../Abilities/Control%20Machine.md)
-- [Jury-Rig](../Abilities/Jury-Rig.md)
-- [Machine Companion](../Abilities/Machine%20Companion.md)
+- [Contrôle de Machine](../Abilities/Control%20Machine.md)
+- [Comme McGyver](../Abilities/Jury-Rig.md)
+- [Compagnon machine](../Abilities/Machine%20Companion.md)
 
 # SIXTH-TIER TECHNOLOGY ABILITIES
 
-- [Information Gathering](../Abilities/Information%20Gathering.md)
+- [Collecte d'informations](../Abilities/Information%20Gathering.md)
 - [Master Machine](../Abilities/Master%20Machine.md)
 
