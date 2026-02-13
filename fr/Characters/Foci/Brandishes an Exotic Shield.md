@@ -1,17 +1,17 @@
-Brandishes an Exotic Shield #Focus #TankFocus #Core
+Brandit un Bouclier Exotique #Focus #TankFocus #Core
 
-You deploy an amazing shield of pure force that provides protection and some
-offensive options.
+Vous déployez un incroyable bouclier de force pure qui offre une protection et
+des options offensives.
 
-- Tier 1: [Force Field Shield](../Abilities/Force%20Field%20Shield.md)
-- Tier 1: [Force Bash](../Abilities/Force%20Bash.md)
-- Tier 2: [Enveloping Shield](../Abilities/Enveloping%20Shield.md)
-- Tier 3: [Healing Pulse](../Abilities/Healing%20Pulse.md) or [Throw Force
-  Shield](../Abilities/Throw%20Force%20Shield.md)
-- Tier 4: [Energized Shield](../Abilities/Energized%20Shield.md)
-- Tier 5: [Force Wall](../Abilities/Force%20Wall.md)
-- Tier 6: [Bouncing Shield](../Abilities/Bouncing%20Shield.md) or [Shield
-  Burst](../Abilities/Shield%20Burst.md)
+- Rang 1 : [Bouclier de Champ de Force](../Abilities/Force%20Field%20Shield.md)
+- Rang 1 : [Frappe de Force](../Abilities/Force%20Bash.md)
+- Rang 2 : [Bouclier enveloppant](../Abilities/Enveloping%20Shield.md)
+- Rang 3 : [Pulsation de Guérison](../Abilities/Healing%20Pulse.md) ou [Lancer
+  un bouclier de force](../Abilities/Throw%20Force%20Shield.md)
+- Rang 4 : [Bouclier énergisé](../Abilities/Energized%20Shield.md)
+- Rang 5 : [Mur de Force](../Abilities/Force%20Wall.md)
+- Rang 6 : [Bouclier rebondissant](../Abilities/Bouncing%20Shield.md) ou
+  [Bouclier Explosif](../Abilities/Shield%20Burst.md)
 
-GM Intrusions: The shield is temporarily lost. A foe temporarily ends up with
-the shield.
+Intrusions de la Meneuse : Le bouclier est temporairement perdu. Un ennemi se
+retrouve temporairement avec le bouclier.
