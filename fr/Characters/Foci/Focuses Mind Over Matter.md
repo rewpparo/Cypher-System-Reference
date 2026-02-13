@@ -1,16 +1,17 @@
-Focuses Mind Over Matter #Focus #EnvironmentFocus #Core
+Concentre l'Esprit sur la Matière #Focus #EnvironmentFocus #Core
 
-You can telekinetically move objects with your mind without physically touching
-them.
+Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les
+toucher physiquement.
 
-- Tier 1: [Divert Attacks](../Abilities/Divert%20Attacks.md)
-- Tier 2: [Telekinesis](../Abilities/Telekinesis.md)
-- Tier 3: [Cloak of Opportunity](../Abilities/Cloak%20of%20Opportunity.md) or
-  [Enhance Strength](../Abilities/Enhance%20Strength.md)
-- Tier 4: [Apportation](../Abilities/Apportation.md)
-- Tier 5: [Psychokinetic Attack](../Abilities/Psychokinetic%20Attack.md)
-- Tier 6: [Improved Apportation](../Abilities/Improved%20Apportation.md) or
-  [Reshape](../Abilities/Reshape.md)
+- Rang 1 : [Détourner les attaques](../Abilities/Divert%20Attacks.md)
+- Rang 2 : [Télékinésie](../Abilities/Telekinesis.md)
+- Rang 3 : [Manteau d'opportunité](../Abilities/Cloak%20of%20Opportunity.md) ou
+  [Améliorer la force](../Abilities/Enhance%20Strength.md)
+- Rang 4 : [Ramener](../Abilities/Apportation.md)
+- Rang 5 : [Attaque psychokinétique](../Abilities/Psychokinetic%20Attack.md)
+- Rang 6 : [Ramener amélioré](../Abilities/Improved%20Apportation.md) ou
+  [Remodeler](../Abilities/Reshape.md)
 
-GM Intrusions: One mental slip, and moving objects drop or fragile objects
-break. Sometimes the wrong item moves, falls, or breaks.
+Intrusions de la Meneuse : Une pensée qui dérape et les objets en mouvement
+tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge,
+tombe ou se casse.
