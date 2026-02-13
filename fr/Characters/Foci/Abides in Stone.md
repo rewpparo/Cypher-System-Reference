@@ -1,19 +1,20 @@
-Abides in Stone #Focus #TankFocus #Core
+Demeure dans la pierre #Focus #TankFocus #Core
 
-Your flesh is made of hard mineral, making you a hulking, difficult-to-harm
-humanoid.
+Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
+imposant et difficile à blesser.
 
-- Tier 1: [Golem Body](../Abilities/Golem%20Body.md)
-- Tier 1: [Golem Healing](../Abilities/Golem%20Healing.md)
-- Tier 2: [Golem Grip](../Abilities/Golem%20Grip.md)
-- Tier 3: [Trained Basher](../Abilities/Trained%20Basher.md)
-- Tier 3: [Golem Stomp](../Abilities/Golem%20Stomp.md) or
-  [Weaponization](../Abilities/Weaponization.md)
-- Tier 4: [Deep Reserves](../Abilities/Deep%20Reserves.md)
-- Tier 5: [Specialized Basher](../Abilities/Specialized%20Basher.md)
-- Tier 5: [Still As a Statue](../Abilities/Still%20As%20a%20Statue.md)
-- Tier 6 : [Ultra Enhancement](../Abilities/Ultra%20Enhancement.md) or [Mind
-  Surge](../Abilities/Mind%20Surge.md)
+- Rang 1 : [Corps de Golem](../Abilities/Golem%20Body.md)
+- Rang 1 : [Guérison du Golem](../Abilities/Golem%20Healing.md)
+- Rang 2 : [Prise de Golem](../Abilities/Golem%20Grip.md)
+- Rang 3 : [Cogneur Entraîné](../Abilities/Trained%20Basher.md)
+- Rang 3 : [Piétinement de Golem]{1] ou
+  [Armement](../Abilities/Weaponization.md)
+- Rang 4 : [Réserves Partagées](../Abilities/Deep%20Reserves.md)
+- Rang 5 : [Cogneur Spécialisé](../Abilities/Specialized%20Basher.md)
+- Rang 5 : [Immobile comme une statue](../Abilities/Still%20As%20a%20Statue.md)
+- Rang 6 : [Ultra amélioration](../Abilities/Ultra%20Enhancement.md) ou [Sursaut
+  mental](../Abilities/Mind%20Surge.md)
 
-GM Intrusions: Creatures of stone sometimes forget their own strength or weight.
-A walking statue can terrify common folk.
+Intrusions de la Meneuse : Les créatures de pierre oublient parfois leur propre
+force ou leur propre poids. Une statue ambulante peut terrifier les gens
+ordinaires.
