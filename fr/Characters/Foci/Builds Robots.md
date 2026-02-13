@@ -1,21 +1,21 @@
-Builds Robots #Focus #AllyFocus #Core
+Construit des Robots #Focus #AllyFocus #Core
 
-Your robotic creations do as they are commanded.
+Vos créations robotiques font ce qu'on leur commande.
 
-(The word “robot” is used in this focus, though the robot you create might look
-very different from one created by someone else, depending on the genre.
-Steampunk robots, organic robots, or even magical golems are all feasible
-“robots.”)
+(Le mot « robot » est utilisé dans ce Focus, bien que le robot que vous créez
+puisse être très différent de celui créé par quelqu'un d'autre, selon le genre.
+Les robots Steampunk, les robots organiques ou même les golems magiques sont
+tous des « robots » réalisables.)
 
-- Tier 1: [Robot Assistant](../Abilities/Robot%20Assistant.md)
-- Tier 1: [Robot Builder](../Abilities/Robot%20Builder.md)
-- Tier 2: [Robot Control](../Abilities/Robot%20Control.md)
-- Tier 3: [Expert Follower](../Abilities/Expert%20Follower.md) or [Skill With
-  Defense](../Abilities/Skill%20With%20Defense.md)
-- Tier 4: [Robot Upgrade](../Abilities/Robot%20Upgrade.md)
-- Tier 5: [Robot Fleet](../Abilities/Robot%20Fleet.md)
-- Tier 6: [Robot Evolution](../Abilities/Robot%20Evolution.md) or [Robot
-  Upgrade](../Abilities/Robot%20Upgrade.md)
+- Rang 1 : [Assistant Robot](../Abilities/Robot%20Assistant.md)
+- Rang 1 : [Constructeur de robots](../Abilities/Robot%20Builder.md)
+- Rang 2 : [Contrôle du robot](../Abilities/Robot%20Control.md)
+- Rang 3 : [Disciple expert](../Abilities/Expert%20Follower.md) ou [Compétence
+  en Défense](../Abilities/Skill%20With%20Defense.md)
+- Rang 4 : [Mise à niveau du robot](../Abilities/Robot%20Upgrade.md)
+- Rang 5 : [Flotte de robots](../Abilities/Robot%20Fleet.md)
+- Rang 6 : [Evolution du robot](../Abilities/Robot%20Evolution.md) ou [Mise à
+  niveau du robot](../Abilities/Robot%20Upgrade.md)
 
-GM Intrusions: The robot is hacked, gains a mind of its own, or unexpectedly
-detonates.
+Intrusions de la Meneuse : Le robot est piraté, acquiert son propre esprit ou
+explose de manière inattendue.
