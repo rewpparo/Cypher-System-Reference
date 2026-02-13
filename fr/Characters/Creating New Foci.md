@@ -1,464 +1,521 @@
-This section provides everything you need to create your own foci.
+Cette section fournit tout ce dont vous avez besoin pour créer vos propres Foci.
 
-Every focus has an overarching style, whether that’s exploration, energy
-manipulation, or simply dealing a lot of damage in combat. These broad
-classifications are called focus categories.
+Chaque Focus a un thème principal, qu'il s'agisse d'exploration, de manipulation
+d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes
+classifications sont appelées catégories de Focus.
 
-Each focus category has an overarching theme, followed by selection guidelines
-that describe how to choose abilities for each tier from the Abilities chapter,
-from tier 1 to tier 6.
+Chaque catégorie de Focus a un thème principal, suivi de directives de sélection
+qui décrivent comment choisir les capacités pour chaque rang du chapitre
+Capacités, du rang 1 au rang 6.
 
-The newly created focus should be named in the form of a verb, like Controls
-Beasts or Abides in Stone. For instance, a fire-using focus created by following
-the guidelines in the energy manipulation focus category might be called Bears a
-Halo of Fire (one of the sample foci in this chapter). Alternatively, a new
-fire-using focus should get an all-new name like Stokes the Flames of the
-Apocalypse or Lights Fires With a Thought.
+Le Focus nouvellement créée doit être nommée sous la forme d'un verbe, comme
+Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, un Focus
+utilisant le feu créée en suivant les directives de la catégorie des Focus de
+manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des
+exemples de Focus de ce chapitre). Alternativement, un nouveau Focus utilisant
+le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de
+l'Apocalypse ou Allumer les feux avec une pensée.
 
-# CHOOSING ABILITIES BY RELATIVE POWER
+# Choisir une Capacité en fonction de la Puissance Relative
 
-The ability selection guidelines invite you to choose an ability from one of
-three ranges: low tier, mid tier, and high tier. These ranges correspond with
-the power “grades” given for every ability. These abilities are further sorted
-into ability categories based on the kinds of things they do—abilities that
-improve physical attacks are in the attack skill category, abilities that assist
-allies are in the support category, and so on. Look for the grades and
-categories in the Ability Categories and Relative Power section of the Abilities
-chapter.
+Les indications de sélection des capacités vous invitent à choisir une capacité
+parmi l'une des trois gammes : Rang bas, Rang moyen et Rang élevé. Ces plages
+correspondent aux «grades» de puissance donnés pour chaque capacité. Ces
+capacités sont ensuite classées en catégories de capacités en fonction du type
+de choses qu'ils font : les capacités qui améliorent les attaques physiques sont
+dans la catégorie des compétences d'attaque, les capacités qui aident les alliés
+sont dans la catégorie de soutien, et ainsi de suite. Recherchez les notes et
+les catégories dans la section Catégories de capacités et puissance relative du
+chapitre Capacités.
 
-Low-tier abilities are best suited for focus options at tiers 1 and 2. Mid-tier
-abilities are best suited for focus options at tiers 3 and 4. High-tier
-abilities are best suited for focus options at tiers 5 and 6.
+Les capacités de rang bas sont mieux adaptées aux options de Focus aux rangs 1
+et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de
+Focus aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux
+options de Focus aux rangs 5 et 6.
 
-That said, sometimes you’ll find it appropriate to assign a low-tier ability at
-tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but
-don’t rule it out. It might be the only way to get all the abilities you want
-for the focus you’re building. Higher-tier abilities usually cost more Pool
-points to use. So if a mid-tier ability is made available at tier 1 or 2, or a
-high-tier ability is made available at tier 3 or 4, the higher cost will be a
-balancing factor.
+Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang
+au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2.
+Faites-le avec parcimonie, mais ne l'excluez pas. C'est peut-être le seul moyen
+d'obtenir toutes les capacités souhaitées pour le Focus que vous développez. Les
+capacités de rang supérieur coûtent généralement plus de points de réserve à
+utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou
+2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût
+plus élevé sera un facteur d'équilibrage.
 
-# BALANCING ABILITIES
+# Équilibrer les Capacités
 
-The guidelines within each category go a long way toward ensuring that the focus
-you build will be balanced. Sometimes it might be appropriate to grant a
-low-power ability along with a regular ability at a given tier, depending on the
-needs of the focus. A “low-power ability” is deliberately open for GM
-interpretation, but generally speaking, should be no more potent than a low-tier
-ability (that is, an ability that is normally available at tier 1 or 2).
+Les indications au sein de chaque catégorie contribuent grandement à garantir
+que le Focus que vous développez sera équilibrée. Parfois, il peut être
+approprié d'accorder une capacité de faible puissance avec une capacité normale
+à un rang donné, en fonction des besoins du focus. Une "capacité de faible
+puissance" est délibérément ouverte à l'interprétation du MJ, mais d'une manière
+générale, elle ne devrait pas être plus puissante qu'une capacité de bas rang
+(c'est-à-dire une capacité qui est normalement disponible au rang 1 ou 2).
 
-For instance, someone who uses cold might be able to create small snow
-sculptures in addition to emitting a cold ray. Someone who uses electricity
-might be able to charge a depleted artifact or have an asset for dealing with
-electrical systems. And so on.
+Par exemple, quelqu'un qui utilise le froid pourrait être capable de créer de
+petites sculptures de neige en plus d'émettre un rayon froid. Quelqu'un qui
+utilise de l'électricité pourrait être en mesure de recharger un artefact épuisé
+ou disposer d'un atout pour gérer les systèmes électriques. Et ainsi de suite.
 
-Often, the focus guidelines note this as a possibility. However, you have great
-leeway in deciding if a focus needs an additional ability, even if the
-guidelines for that tier don’t indicate one. If you do add an ability, or there
-is a\
-higher-power ability at a tier that normally shouldn’t have it, it might mean
-that the choice given at the next tier, or the previous tier, isn’t quite as
-good. Balancing a focus is a bit of an art. Resist the urge to overpower the
-focus, but don’t underpower it, either.
+Souvent, les indications de Focus mentionnent cela comme une possibilité.
+Cependant, vous disposez d'une grande latitude pour décider si un Focus
+nécessite une capacité supplémentaire, même si les indications de ce rang n'en
+indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de
+puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela
+peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est
+pas aussi bon. Équilibrer un Focus est un peu un art. Résistez à l'envie de
+donner trop de puissance à le Focus, mais ne la sous-estimez pas non plus.
 
-# ABILITY GUIDELINES ARE NOT PERSCRIPTIVE
+# Les Indications de Capacité ne sont pas Prescriptives
 
-Each focus category provides a guideline for what kind of ability you should
-select at every tier. But don’t regard the guidelines as something that you
-can’t vary. They’re not prescriptive; they’re just a place to start. You might
-want to vary the kind of ability at a particular tier that isn’t indicated in
-the guidelines. As long as the chosen ability falls within the expected power
-curve for that tier, it’s fine. The guideline isn’t meant to be a straitjacket.
+Chaque catégorie de Focus fournit une ligne directrice sur le type de capacité
+que vous devez sélectionner à chaque rang. Mais ne considérez pas les
+indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont
+pas prescriptives ; elles ne sont qu'un point de départ. Vous souhaiterez
+peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué
+dans les indications. Tant que la capacité choisie se situe dans la courbe de
+puissance attendue pour ce Rang, tout va bien. L'indication' n'est pas censée
+être une camisole de force.
 
-For example, if you’re building a cold-using focus for a game set in a fantasy
-genre, you may decide that an ability that calls up a demon is a better choice
-at a particular tier than an ability that does damage in an area, which is what
-the tier 5 guideline for energy manipulation calls for. Making the change is
-probably especially valid if you call your new focus something like Channels the
-Ninth Circle.
+Par exemple, si vous construisez un Focus d'utilisation du froid pour un jeu se
+déroulant dans un genre fantastique, vous pouvez décider qu'une capacité qui
+invoque un démon est un meilleur choix à un rang particulier qu'une capacité qui
+inflige des dégâts dans une zone, ce que demande l'indication Rang 5 pour la
+manipulation de l'énergie. Faire le changement est probablement particulièrement
+valable si vous appelez votre nouveau focus quelque chose comme Cannalise le
+Neuvième Cercle.
 
-# ABILITY SWAP
+# Échange de Capacité
 
-If you’re creating a focus and you think it should provide a suite of abilities
-at first tier that would mechanically overload it, you have the option to add
-one as a “swap” ability. Doing so is as easy as allowing a character to swap out
-one of their type abilities for an indicated low-tier focus ability. The ability
-is gained instead of one of the abilities normally granted by the character’s
-type.
+Si vous créez un Focus et que vous pensez qu'elle devrait fournir une suite de
+capacités au premier rang qui la surchargeraient mécaniquement, vous avez la
+possibilité d'en ajouter une en tant que capacité « d'échange ». Pour ce faire,
+il suffit de permettre à un personnage d'échanger l'une de ses capacités de type
+contre une capacité de Focus de moindre rang. La capacité est acquise à la place
+d'une des capacités normalement accordées par le type du personnage.
 
-# CONCEPT AND CATEGORY
+# Concept et Catégorie
 
-Choosing to create a focus that uses a particular concept—say, creating
-illusions—doesn’t lock you into creating a focus within a particular category—in
-this case, environment manipulation. A focus can be constructed in a variety of
-ways using a particular energy, tool, or concept, each ultimately leading to a
-focus that provides different results. It all depends on your ends. In this
-case, creating illusions might be used to sway others, which argues for a focus
-built using the influence category guidelines.
+Choisir de créer un Focus qui utilise un concept particulier --- par exemple,
+créer des illusions --- ne vous oblige pas à créer un Focus dans une catégorie
+particulière --- dans ce cas, la manipulation de l'environnement. Un Focus peut
+être construite de différentes manières en utilisant une énergie, un outil ou un
+concept particulier, chacun conduisant finalement à un Focus qui fournit des
+résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création
+d'illusions pourrait être utilisée pour influencer les autres, ce qui plaide en
+faveur d'un Focus basée sur les indications de la catégorie d'influence.
 
-In the same way, if a focus grants a character the ability to call some kind of
-force or energy, that doesn’t mean the focus should automatically be built using
-the energy manipulation category guidelines (though of course it *could,* if
-attacking and protecting yourself with that energy is the point). But a focus
-could be built that grants abilities to call energy or force that is primarily
-focused on durability, suggesting a tank combat focus (someone who can take a
-lot of punishment in a fight); or blasting away with a main concern for
-maximizing damage, thus suggesting a striker combat focus; or creating a
-follower composed of that energy or force, suggesting an ally use focus (that
-is, someone who uses helping creatures, NPCs, or even duplicate versions of
-themselves to give them a leg up).
+De la même manière, si un Focus accorde à un personnage la possibilité
+d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Focus
+doit automatiquement être construite en utilisant les indications de la
+catégorie de manipulation d'énergie (même si bien sûr cela serait possible si
+attaquer et vous protéger avec cette énergie est le but). Mais un Focus pourrait
+être construite pour accorder des capacités de création d'énergie ou de force
+principalement axées sur la résistance, cela suggère une orientation vers le
+combat défensif (quelqu'un qui peut encaisser beaucoup de dégâts dans un combat)
+; ou des capacités se concentrant sur tirer avec le souci principal de maximiser
+les dégâts, suggérant ainsi un Focus de catégorie combat offensif ; ou alors
+vous créez un suivant composé de cette énergie ou force, suggérant ainsi un
+Focus de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des
+créatures aidantes, des PNJs, ou même qui duplique des versions d'eux-mêmes pour
+vous donner un coup de pouce).
 
-Here’s another example: the focus Controls Gravity could conceivably be an
-environment manipulation focus or an energy manipulation focus. It depends on
-whether the focus is more concerned with crushing and holding things in place
-(environment manipulation) or on blasting things and protecting yourself with
-gravity (energy manipulation).
+Voici un autre exemple : le focus Contrôle la Gravité pourrait éventuellement
+être un focus de catégorie manipulation de l'environnement ou de catégorie
+manipulation d'énergie. Cela dépend si l'accent est davantage mis sur
+l'écrasement et le maintien des objets en place (manipulation de
+l'environnement) ou sur le fait de faire exploser des objets et de se protéger
+grâce à la gravité (manipulation d'énergie).
 
-The same malleability of concept holds true in other realms. For instance, if
-someone is able to call up and mold raw earth, they might use it to transform
-themselves into a being of stone (tank combat), to batter foes (striker combat),
-or to create walls, barricades, and shields to protect their allies (support).
+La même souplesse du concept s'applique à d'autres domaines. Par exemple, si
+quelqu'un est capable d'invoquer et de modeler de la terre brute, il peut
+l'utiliser pour se transformer en un être de pierre (combat défensif), pour
+battre des ennemis (combat offensif), ou pour créer des murs, des barricades et
+des boucliers pour protéger leurs alliés (soutien).
 
-If you’re looking for an ability and can’t seem to find the right one in the
-vast catalog in the Abilities chapter, consider reskinning one to make it seem
-new (and to accomplish what you need). Reskinning means that you use the
-underlying mechanics of an ability as written but change the flavor in some
-fashion. For instance, maybe you’re creating a new earth-moving focus but can’t
-find enough earth-related abilities to meet your need. It’s easy enough to
-change up other abilities so they use earth instead of fire, cold, or magnetism.
-For instance, Wings of Fire might become Wings of Earth, Ice Armor could become
-Earth Armor, and so on. These alterations change nothing except the type of
-damage and any knock-on effects (for instance, Wings of Earth might generate
-clouds of dust in their wake).
+Si vous recherchez une capacité et que vous n'arrivez pas à trouver celle qui
+vous convient dans le vaste catalogue du chapitre Capacités, envisagez d'en
+modifier une afin d'en créer une nouvelle (et pour accomplir ce dont vous avez
+besoin). Cette modification consiste à utiliser les mécanismes sous-jacents
+d'une capacité tels qu'ils sont écrits, mais que vous en modifiez les effets
+visibles d'une manière ou d'une autre. Par exemple, vous êtes peut-être en train
+de créer un nouvel objectif de déplacement de terre, mais vous ne parvenez pas à
+trouver suffisamment de capacités liées à la terre pour répondre à vos besoins.
+Il est assez facile de modifier d'autres capacités pour qu'ils utilisent la
+terre au lieu du feu, du froid ou du magnétisme. Par exemple, Ailes de Feu
+pourrait devenir Ailes de Terre, Armure de Glace pourrait devenir Armure de
+Terre, et ainsi de suite. Ces altérations ne changent rien sauf le type de
+dégâts et les éventuelles répercussions (par exemple, Ailes de Terre pourrait
+générer des nuages de poussière dans leur sillage).
 
-# ABILITIES THAT REFERENCE OTHER ABILITIES
+# Des Capacités qui font référence à d'autres Capacités
 
-Some abilities in the Abilities chapter reference other abilities. If you select
-an ability for your focus or type that refers to or modifies a lower-tier
-ability, also include that lower-tier ability in your type or focus as a
-selection a PC can make at a lower tier.
+Certaines capacités du chapitre Capacités font référence à d'autres capacités.
+Si,pour votre Focus ou votre type, vous sélectionnez une capacité qui fait
+référence ou modifie une capacité de rang inférieur, incluez également cette
+capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un
+PJ peut faire à un rang inférieur.
 
-# CREATING BRAND-NEW ABILITIES
+# Création d'une toute nouvelle Capacité
 
-You can go further than reskinning and create one or more brand-new abilities.
-When doing this, try to find something as close as possible to the effect you
-want, then use it as a template. In any case, deciding how much an ability
-should cost when it comes to a character’s Pool is one of the most important
-aspects of getting an ability right.
+Vous pouvez aller plus loin que la modification superficielle et créer une ou
+plusieurs nouvelles capacités. Ce faisant, essayez de trouver quelque chose
+d'aussi proche que possible de l'effet souhaité, puis utilisez-le comme modèle.
+Dans tous les cas, décider du coût d'une capacité en ce qui concerne la réserve
+d'un personnage est l'un des aspects les plus importants pour obtenir une bonne
+capacité.
 
-You may notice that higher-tier abilities are more expensive. This is partly
-because they do more, but it’s also because higher-tier characters have more
-Edge than lower-tier characters, which means they pay fewer points from their
-relevant Pools. A third-tier character with 3 Edge in a relevant Pool pays no
-cost for abilities that cost 3 or fewer points. That’s great for lower-tier
-abilities, but you’ll usually want a character to think a little bit about how
-often to use their most powerful abilities. That means they should cost at least
-1 point more than the Edge the character is likely to have at that tier. (Often,
-a character will have an Edge in their relevant Pool equal to their tier.)
+Vous avez pu remarqué que les capacités de haut-rang sont les plus coûteuses.
+C'est en parti parce qu'elles permettent plus de choses, mais aussi parce que
+les personnages de haut-rang ont plus d'Avantage que les personnages de rang
+inférieur, ce qui signifie qu'ils dépensent moins de points dans leurs Réserves.
+Un personnage de troisième rang avec un Avantage de 3 dans la Réserve appropriée
+ne dépensera aucun point pour une capacité qui coûte 3 points ou moins. C'est
+parfait pour les capacités de rang inférieur, mais vous devez plutôt vouloir
+qu'un personnage réfléchisse un petit peu avant d'utiliser leurs capacités les
+plus puissantes. Cela veut dire que les capacités devraient coûter au moins 1
+point de plus que l'Avantage que le personnage est supposé avoir à ce rang.
+(Souvent un personnage aura un Avantage dans les Réserve principale égal à son
+rang.)
 
-As a good rule of thumb, a typical ability should cost points equal to its tier.
+Une bonne règle pratique est qu'une capacité typique devrait coûter autant de
+point que son rang.
 
-# CHOOSE GM INTRUSIONS
+# Choisir des intrusions de MJ
 
-Think about the kinds of things that might surprise, alarm, or go
-catastrophically wrong for someone with the new focus being created, and assign
-it as a GM intrusion for that focus. Of course, this often is done on the fly
-during the game. But giving the topic some thought while the focus is being
-constructed and the ideas are fresh in your head is likely to yield some
-particularly devilish options.
+Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la
+catastrophe pour quelqu'un avec le Focus qui vient d'être créée, et assignez les
+en tant qu'intrusion de MJ pour ce Focus. En général c'est souvent fait de
+manière improvisée en cours de partie. Mais en leur accordant un peu de
+réflexion pendant l'élaboration du focus, quand les idées sont toutes fraîches
+dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
 
-# FOCUS CATEGORIES
+# Catégories de Focus
 
-- Ally use
+- Utilisation d'Alliés
 
 - Basic
 
-- Energy manipulation
+- Manipulation d'énergie
 
-- Environment manipulation
+- Manipulation de l'Environnement
 
 - Exploration
 
 - Influence
 
-- Irregular
+- Irrégulier
 
-- Movement expertise
+- Expertise des Mouvements
 
-- Striker combat
+- Combat Offensif
 
-- Support
+- Soutien
 
-- Tank combat
+- Combat défensif
 
-## ALLY USE
+## UTILISATION DES ALLIES
 
-Foci that prioritize providing NPC followers to the character are ally use foci.
-The followers give aid to the PC in a variety of ways, but at base they usually
-provide an asset to the character’s actions.
+Les Focus qui donne la priorité à fournir des suivants PNJ à un personnage sont
+des Focus d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de
+façon très variée, mais surtout ils donnent un Atout pour les actions du
+personnage.
 
-Multiple potential themes exist within the ally use category, from abilities
-that allow a character to summon or craft allies to those that allow them to
-attract allies through fame, magic, or essential authority or charisma.
+Il y a plusieurs thèmes potentiels dans la catégorie Utilisation d'Alliés,
+depuis les capacités qui permettent au personnage d'invoquer ou de fabriquer des
+alliés, à celles qui leur donne la possibilité d'attirer des suivants par la
+célébrité, la magie, l'autorité ou le charisme.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary for the character to keep an ally.
-For instance, someone with a focus that uses super-science to create robot
-allies would require tools to build and repair those allies. Some foci in this
-category don’t require anything to gain or retain their benefits.
+Équipement Supplémentaire : N'importe quel objet qui peut être nécessaire au
+personnage pour conserver un allié. Par exemple, quelqu'un avec un Focus qui
+utilise de la super-science pour créer des alliés robots pourrait avoir besoin
+d'outils pour construire et réparer ces alliés. Certaines Focus dans cette
+catégorie n'ont besoin de rien pour acquérir ou conserver leurs bénéfices.
 
-Minor Effect Suggestions: The NPC ally’s tasks are eased on its next turn.
+Suggestions d'Effet Mineurs : Les tâches de l'allié PNJ sont facilitées à son
+prochain tour.
 
-Major Effect Suggestions: The NPC ally gains an immediate extra action.
+Suggestions d'Effets Majeurs : L'allié PNJ gagne une action supplémentaire
+immédiatement.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Construit des Robots](Foci/Builds%20Robots.md)
-- [Consorts With the Dead](Foci/Consorts%20With%20the%20Dead.md)
-- [Controls Beasts](Foci/Controls%20Beasts.md)
-- [Exists in Two Places at Once](Foci/Exists%20in%20Two%20Places%20at%20Once.md)
-- [Leads](Foci/Leads.md)
-- [Masters the Swarm](Foci/Masters%20the%20Swarm.md)
-- [Shepherds Spirits](Foci/Shepherds%20Spirits.md)
+- [S'Associe avec les Morts](Foci/Consorts%20With%20the%20Dead.md)
+- [Contrôle les Bêtes Sauvages](Foci/Controls%20Beasts.md)
+- [Existe en Deux Endroits en Même
+  Temps](Foci/Exists%20in%20Two%20Places%20at%20Once.md)
+- [Dirige](Foci/Leads.md)
+- [Maîtrise l'Essaim](Foci/Masters%20the%20Swarm.md)
+- [Guide les Esprits](Foci/Shepherds%20Spirits.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that grants a level 2 NPC follower to the
-character, or gives a similar benefit provided by an NPC. Alternatively, lay the
-groundwork for gaining such NPC allies at higher tiers by choosing an ability
-that gives the character influence over others.
+Rang 1 : Choisissez une capacité de rang inférieur qui donne un PNJ de niveau 2
+au personnage, ou qui donne un bénéfice similaire fournit par un PNJ. Vous
+pouvez également fournir les bases pour gagner de tels alliés PNJ à des rangs
+plus élevés en choisissant une capacité qui donne au personnage une influence
+sur les autres.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-focus. Often, this is an ability that grants skill training in a related area of
-knowledge or a related skill. For instance, training in a skill related to the
-kind of NPC follower the character gains would be appropriate.
+Parfois, une capacité supplémentaire de rang inférieur est appropriée, en
+fonction du focus. Il s'agit souvent d'une capacité qui confère un entrainement
+dans une compétence dans un domaine de connaissances ou une compétence connexe.
+Par exemple, un entrainement dans une compétence liée au type d'allié PNJ que le
+personnage gagne serait appropriée.
 
-Tier 2: Choose a low-tier ability that grants influence over similar kinds of
-NPCs as the follower gained at the previous tier. If no follower was gained at
-the previous tier, this ability should provide that benefit now.
+Rang 2 : Choisissez une capacité de rang inférieur qui confère une influence sur
+des types de PNJ similaires à ceux obtenus par l'allié au rang précédent. Si
+aucun allié n'a été gagné au Rang précédent, cette capacité devrait offrir cet
+avantage maintenant.
 
-Sometimes a secondary ability might be appropriate in addition to the ability
-provided above, perhaps a low-power ability that grants 2 or 3 points to a Pool.
+Parfois, une capacité secondaire peut être appropriée en plus de la capacité
+fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou
+3 points à une Réserve.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should be a mid-tier ability that improves the NPC follower
-previously provided (usually from level 2 to level 3) or grants an additional
-follower.
+Une option devrait être une capacité de rang intermédiaire qui améliore l'allié
+PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un
+allié supplémentaire.
 
-The other option should be something that benefits the character—perhaps an
-offensive or defensive ability, or something that broadens their influence over
-their followers (or potential followers).
+L'autre option devrait être quelque chose qui profite au personnage ---
+peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son
+influence sur ses alliés (ou alliés potentiels).
 
-Tier 4: Choose a mid-tier ability that gives the character an offensive or
-defensive capability if they haven’t previously gained one, preferably within
-the theme of the focus. For instance, if the character gains followers because
-of their charisma, this ability might let them command foes for brief periods.
-If the character gains followers by building or calling them, this ability might
-let them affect entities of the same type that are not already their followers.
+Rang 4 : Choisissez une capacité de rang intermédiaire qui donne au personnage
+une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de
+préférence dans le thème du focus. Par exemple, si le personnage gagne des
+alliés en raison de son charisme, cette capacité peut lui permettre de commander
+ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les
+construisant ou en les appelant, cette capacité peut lui permettre d'affecter
+des entités du même type qui ne sont pas déjà ses alliés.
 
-Alternatively, this ability might further improve a previously gained follower
-from level 3 to level 4, or grant an additional follower.
+Ou alors, cette capacité pourrait améliorer davantage un allié précédemment
+gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
 
-Tier 5: Choose an ability that improves the character by providing a defense, an
-improved stat Pool, or another kind of protection.
+Rang 5 : Choisissez une capacité qui améliore le personnage en lui fournissant
+une défense, une Réserve améliorée de statistiques ou un autre type de
+protection.
 
-Alternatively, this ability could open a new front in influencing and calling
-NPC allies related to the focus’s theme. For instance, someone who keeps beast
-allies might gain an ability to call a horde of lesser beasts. Someone who
-builds robots might gain an ability to build several lesser robot helpers. And
-so on.
+Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour
+influencer et appeler des alliés PNJ liés au thème du focus. Par exemple,
+quelqu'un qui garde des bêtes alliées pourrait acquérir la capacité d'invoquer
+une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait
+acquérir la capacité de construire plusieurs robots assistants de moindre
+importance. Et ainsi de suite.
 
-Finally, this ability might improve a previously gained follower to level 5.
+Enfin, cette capacité pourrait améliorer un allié précédemment gagné au niveau
+5.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One of the abilities should improve a previously gained follower to level 5, if
-that wasn’t already provided at tier 5. If that’s the case, this ability might
-be provided *in addition* to two other related abilities.
+L'une des capacités devrait améliorer un allié précédemment acquis au niveau 5,
+si cela n'était pas déjà fourni au rang 5. Si tel est le cas, cette capacité
+pourrait être fournie *en plus* de deux autres capacités associées.
 
-Another high-tier option could provide a handful of level 3 followers to the
-character.
+L'autre option de rang supérieur devrait fournir au personnage une poignée
+d'alliés de niveau 3.
 
-The last high-tier ability could open a new front in influencing and calling NPC
-allies related to the focus’s theme. For instance, someone who gains followers
-through high charisma and training might gain an ability to learn otherwise
-impossible-to-glean information.
+La dernière capacité de rang supérieur pourrait être une nouvelle possibilité
+pour influencer et appeler des alliés PNJ liés au thème du focus. Par exemple,
+quelqu'un qui gagne des alliés grâce à un charisme et un entrainement pourrait
+acquérir la capacité d'apprendre des informations autrement impossibles à
+glaner.
 
 ## BASIC
 
-Foci that rely mostly on providing skill training, assets to tasks, and bumps to
-stat Pools and Edge in order to improve a character fall within the basic
-category. An overarching theme is also included, as with most of the other
-categories, that makes sense of the various basic abilities provided.
+Les Foci qui reposent principalement sur la fourniture d'un entrainement à des
+compétences, d'atouts pour les tâches et d'améliorations des Réserves de
+statistiques et des Avantages afin d'améliorer un personnage entrent dans la
+catégorie Basic. Un thème général est également inclus, comme pour la plupart
+des autres catégories, qui donne un sens aux différentes capacités de base
+fournies.
 
-In addition, because the benefits provided by such foci are mostly
-straightforward (usually with a few exceptions), most basic foci would also be
-appropriate for non-fantastic campaigns where magic, super-science, or psychic
-abilities normally don’t come into play. That said, just because the abilities
-granted by basic foci are straightforward doesn’t mean they are not potent when
-combined with the abilities granted by type, descriptor, cyphers, and other
-character aspects.
+De plus, comme les avantages apportés par de tels Foci sont pour la plupart
+simples (généralement à quelques exceptions près), la plupart des Foci Basic
+seraient également appropriés pour des campagnes non fantastiques où la magie,
+la superscience ou les capacités psychiques n'entrent normalement pas en jeu.
+Cela dit, ce n'est pas parce que les capacités accordées par les Foci Basic sont
+simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les
+capacités accordées par le type, le descripteur, les cyphers et d'autres aspects
+du personnage.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary to fulfill the overarching theme of
-the focus. For instance, a focus called Would Rather Be Reading should grant a
-handful of books to the character. A focus called Works for a Living should
-provide a set of tools.
+Équipement Supplémentaire : N'importe quel objet nécessaire pour accomplir le
+thème général du focus. Par exemple, un Focus appelée Préfèrerait Lire devrait
+fournir quelques livres au personnage. Un Focus appélée Construit et Répare
+devrait fournir un ensemble d'outils.
 
-Minor Effect Suggestions: Next action is eased.
+Suggestions d'Effet Mineur : La prochaine action est facilitée.
 
-Major Effect Suggestions: Make a free, no-action recovery roll that doesn’t
-count against daily recovery rolls.
+Suggestions d'Effet Majeur : Faites un jet de Récupération gratuit, qui ne prend
+pas une action et qui ne compte pas dans le total des jets de récupération de la
+journée.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Ne Fait Ne Fait Pas Grand-Chose](Foci/Doesn’t%20Do%20Much.md)
-- [Interprets the Law](Foci/Interprets%20the%20Law.md)
-- [Learns Quickly](Foci/Learns%20Quickly.md)
-- [Works for a Living](Foci/Works%20for%20a%20Living.md)
-- [Would Rather Be Reading](Foci/Would%20Rather%20Be%20Reading.md)
+- [Interprète la Loi](Foci/Interprets%20the%20Law.md)
+- [Apprend Rapidement](Foci/Learns%20Quickly.md)
+- [Construit et Répare](Foci/Works%20for%20a%20Living.md)
+- [Préfèrerait Lire](Foci/Would%20Rather%20Be%20Reading.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose an ability that grants training or an asset to skills associated
-with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
+Rang1 : Choisissez une Capacité qui donne un entrainement ou un atout aux
+compétences associées au thème du focus, ou qui donne 5 ou 6 points à une
+Réserve particulière.
 
-Alternatively, choose an ability that grants only 2 or 3 points to a particular
-Pool and an ability that provides training or an asset to just one task.
+Autrement, choisissez une Capacité qui donne seulement 2 ou 3 points à une
+Réserve spécifique et une Capacité qui donne un entrainement ou un atout dans
+seulement une tâche.
 
-Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
+Rang 2 : Choisissez n'importe quelle sorte de Capacité qui n'a pas été
+sélectionnée au rang 1.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should be a non-fantastic ability that improves the character’s
-abilities within the focus’s theme. For instance, if the theme involves paying
-attention in some fashion, an information-gathering ability might be
-appropriate.
+Une option pourrait être une Capacité non-fantastique qui améliore les capacités
+du personnage dans le thème du focus. Par exemple, si le thème implique de faire
+attention d'une certaine manière, une capacité de récupération d'information
+serait appropriée.
 
-The other option should be something that either improves the character’s Edge
-in an appropriate stat or provides the character with some kind of defense.
+L'autre option peut être de, soit améliorer l'Avantage du personnage dans une
+statistique, soit fournir au personnage une forme de défense.
 
-Tier 4: Choose another ability that grants additional training or an asset to
-skills associated with the focus’s theme, or that grants 5 or 6 points to a
-particular Pool best suited to the focus. Or choose two abilities that provide
-only 2 or 3 points plus another tier 4 ability that improves a single task or
-skill.
+Rang 4 : Choisissez une autre Capacité qui donne un entrainement supplémentaire
+ou un atout à des compétences associées avec le thème du focus, ou qui donne 5
+ou 6 points à la Réserve la plus appropriée pour le Focus, ou choisissez deux
+Capacités qui fournissent seulement 2 ou 3 points en plus d'une autre capacité
+de rang 4 qui améliore une seule tâche ou compétence.
 
-Alternatively, provide a branch-out ability suggested at tier 5.
+Une alternative peut être de fournir une Capacité qui dévie un peu du thème du
+focus, comme suggéré au rang 5 ci-après.
 
-Finally, if the focus has yet to grant some kind of defense, a defensive ability
-could be provided here.
+Au final, si la motivation n'a pas encore fournie une forme de protection, une
+Capacité défensive peut être inscrite au rang 4.
 
-Tier 5: Choose an ability that allows the character to branch out
-slightly—perhaps one like Expert Skill that allows them to automatically succeed
-on a task they’re trained in.
+Rang 5 : Choisissez une Capacité qui permet au personnage de dévier
+légèrement---peut-être comme la Capacité Compétence d'expert qui lui donne un
+succès automatique ans une tâche pour laquelle il est entrainé.
 
-Alternatively, if a nonstandard benefit was provided at tier 4, provide the
-benefits suggested at tier 4 here.
+Ou alors, si un bénéfice non-standard a été fourni au rang4, accordez les
+bénéfices suggérés au rang 4 ici.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One option should be an ability that provides another 5 or 6 points to a
-particular Pool best suited to the focus, or that the character can divide up as
-they wish. Alternatively, training in offense or defense would also be
-appropriate.
+Une option peut être une Capacité qui donné à nouveau 5 ou 6 points à la Réserve
+la plus appropriée pour le Focus, ou bien que le joueur peut répartir comme il
+le souhaite. Ou alors, un entraînement dans une compétence offensive, ou bien
+défensive, conviendrait.
 
-The other tier 6 option should give the character a brand-new ability within
-their theme, but not one that strays into the realm of the fantastic. For
-instance, an ability that allows a character to take two actions instead of one
-would be reasonable. Granting additional training, assets, or Edge would also be
-fine.
+L'autre option du rang 6 peut être de donner au personnage une Capacité toute
+nouvelle dans le thème, mais par contre, en-dehors du champs du fantastique. Par
+exemple, une Capacité qiu permet au personnage de faire deux actions au lieu
+d'une seule est raisonnable. Donner un nouvel entrainement , un nouvel atout ou
+un Avantage fera l'affaire.
 
-## ENERGY MANIPULATION
+## MANIPULATION D’ÉNERGIE
 
-Energy manipulation foci offer abilities that can call fire, electricity, force,
-magnetism, or nonstandard forms of energy such as cold, stone, or something
-stranger like “void” or “shadow.” These abilities usually give a character a way
-to achieve something of a balance between attacking enemies and granting
-themselves or allies additional protection. The focus usually also offers
-abilities that provide other ways to use specific energy for things like
-transportation, creating large concentrations of energy that can affect multiple
-targets, or creating a temporary object or barrier of energy.
+Un Focus de Manipulation d'énergie offre des Capacités pour invoquer le feu,
+l'électricité, la force, le magnétisme ou des formes d'énergies non-standard
+comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre.
+Ces Capacités donne d’habitude au personnage une manière d'atteindre quelque
+chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses
+alliés une protection supplémentaire. Le Focus donne aussi habituellement des
+Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour
+des choses comme le transport, créer une grande concentration d'énergie qui
+affecte plusieurs cibles, ou créer un objet temporairement ou une barrière
+d'énergie.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: One or more pieces of equipment immune to the energy
-manipulated, which might be a set of clothes. Alternatively, something related
-to the energy being generated. Some foci in this category don’t require
-additional equipment.
+Équipement Supplémentaire : Une ou plusieurs pièces d'équipement immunisées
+contre l'énergie manipulée, cela peut être un ensemble de vêtements. Ou alors,
+quelque chose qui est lié à l'énergie générée. Certains Foci dans cette
+catégorie ne requierent pas d'équipement supplémentaire.
 
-Energy Abilities: If a character type grants special abilities that normally use
-some other kind of energy, they now produce the kind used by this focus. For
-example, if a character uses this focus to manipulate electricity, their force
-blasts become blasts of electricity. These alterations change nothing except the
-type of damage and any knock-on effects (for instance, electricity might
-temporarily short out electronic systems).
+Capacités énergétiques : Si le Type de personnage fournit des Capacités
+spéciales qui normalement utilisent une autre forme d'énergie, ces capacités
+produisent alors la sorte d'énergie du focus. Par exemple, si un personnage
+utilise cette Focus pour manipuler l'électricité, les éclairs de force
+deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le
+type de dommage et tout effet secondaire (par exemple, l'électricité peut
+provoquer des courts-circuits dans les systèmes électroniques).
 
-Minor Effect Suggestions: The target or something near the target is hindered
-because of residual energy.
+Suggestions d'Effet Mineur : La cible ou quelque chose près de la cible est
+entravée à cause de l'énergie résiduelle.
 
-Major Effect Suggestions: An important item on the target’s person is destroyed.
+Suggestions d'Effet Majeur : Un objet important porté par la cible est détruit.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
-- [Absorbs Energy](Foci/Absorbs%20Energy.md)
-- [Bears a Halo of Fire](Foci/Bears%20a%20Halo%20of%20Fire.md)
-- [Dances With Dark Matter](Foci/Dances%20With%20Dark%20Matter.md)
-- [Rides the Lightning](Foci/Rides%20the%20Lightning.md)
-- [Thunders](Foci/Thunders.md)
-- [Wears a Sheen of Ice](Foci/Wears%20a%20Sheen%20of%20Ice.md)
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
+- [Absorbe l'Energie](Foci/Absorbs%20Energy.md)
+- [Se Revêt d'un Halo de Feu](Foci/Bears%20a%20Halo%20of%20Fire.md)
+- [Manipule la Matière Noire](Foci/Dances%20With%20Dark%20Matter.md)
+- [Façonne la Foudre](Foci/Rides%20the%20Lightning.md)
+- [Fait Résonner le Tonnerre](Foci/Thunders.md)
+- [Porte un Eclat de Glace](Foci/Wears%20a%20Sheen%20of%20Ice.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that either inflicts damage or provides
-protection using the appropriate energy type in some fashion.
+Rang 1 : Choisissez une Capacité de rang inférieur qui soit inflige des
+dommages, soit fournit une protection, par l'utilisation de l'énergie d'une
+manière ou d'une autre.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-energy type. For instance, a focus that manipulates cold might grant an ability
-to create snow sculptures. A focus that manipulates electricity might grant an
-ability to charge a depleted artifact or have an asset for dealing with
-electrical systems. A focus that absorbs energy might grant an ability to
-release it as a basic attack. And so on.
+Quelque fois, une capacité supplémentaire de moindre puissance est appropriée en
+fonction du type d'énergie. Par exemple, un Focus qui contrôle le froid peut
+accorder une Capacité pour créer des sculptures de neige. Un Focus qui contrôle
+l'électricité pour fournir une Capacité pour charger un artifact épuisé, ou
+avoir un atout pour manipuler des systèmes électriques. Un Focus qui absorbe
+l'énergie peut donner une Capacité pour la libérer en tant qu'attaque de base.
+Et ainsi de suite.
 
-Tier 2: Choose whichever kind of ability wasn’t chosen at tier 1.
+Rang 2 : Choisissez n'importe quelle sorte de Capacité qui n'a pas été
+sélectionnée au rang 1.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should be an ability that inflicts damage using the appropriate
-energy type (and possibly a related effect).
+Une option peut être une Capacité qui inflige des dommages par l'utilisation du
+type d'énergie sélectionnée (avec peut-être un effet secondaire).
 
-The other should grant enhanced movement by use of the appropriate energy type,
-give additional protection provided by the preferred energy, or use the energy
-in a completely new way, such as by draining the energy from a machine (if using
-electricity), entombing a victim in a layer of ice (if using cold), creating
-perfect silence (if using sound), creating a dazzling blast of illumination (if
-using light), and so on.
+L'autre option peut accorder, par l'utilisation du type d'énergie, un mouvement
+amélioré, une protection supplémentaire, ou quelque chose de complètement
+nouveau, comme de drainer l'énergie d'une machine (si elle utilise de
+l'électricité), d'enfermer une victime dans des couches de glace (si elle
+utilise le froid), de créer un silence parfait (si elle utilise le son), de
+créer un flash de lumière éblouissant (si elle utilise de la lumière), etc.
 
-Tier 4: Choose whichever kind of ability wasn’t chosen at tier 3.
+Rang 4 : Choisissez n'importe quelle genre de Capacité qui n'a pas été choisie
+au rang 3.
 
-Tier 5: Choose a high-tier ability that inflicts damage (and possibly a related
-effect) that can affect more than one target using the appropriate energy type,
-or an ability that uses the energy in some fashion not previously used, as
-described in tiers 3 and 6.
+Rang 5 : Choisissez une Capacité de rang supérieur (avec si possible un effet
+secondaire) qui affecte plus d'une cible en utilisant l'énergie sélectionnée, ou
+une Capacité qui utilise l'énergie d'une façon qui n'a pas été précédemment
+décrite, comme indiqué aux rangs 3 et 6.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One of the high-tier abilities should use the preferred energy to inflict a lot
-of damage to a single target or to several.
+Une de ces Capacités de rang supérieur devrait utiliser l'énergie choisie pour
+infliger beaucoup de dommages à une ou plusieurs cibles.
 
-The other option should use the appropriate energy type to accomplish a task not
-previously provided by lower-tier abilities, such as fashioning a fiery follower
-(if using fire), teleporting a great distance as a blast of lightning (if using
-electricity), creating solid objects out of the energy, and so on.
+L'autre option devrait utiliser l'énergie sélectionnée pour accomplir une tâche
+qui n'est pas proposée par une capacité de rang inférieur. Par exemple, façonner
+un suivant enflammé (si c'est le feu), se téléporter sur une grande distance en
+tant qu'éclair (si c'est l'électricité), créer un objet solide à partir de
+l'énergie, etc.
 
 ## ENVIRONMENT MANIPULATION
 
@@ -476,333 +533,367 @@ likely to have abilities that hold a target in place, use gravity to throw heavy
 objects as an attack, or lower gravity in a particular area or even on a
 particular object.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary to manipulate the surrounding
-environment. For instance, someone with a focus that grants the ability to craft
-objects would require basic tools. Some foci in this category don’t require
-anything to gain or retain their benefits.
+Équipement Supplémentaire : Tout objet nécessaire pour manipuler l'environnement
+autour du personnage. Par exemple, une personne avec un Focus qui donne une
+Capacité de fabrication d'objets pourrait nécessiter des outils. Certains Foci
+dans cette catégorie ne nécessitent rien de particulier pour acquérir ou
+conserver leurs bénéfices.
 
-Environment Manipulation Abilities: Foci themes that involve imagery or visible
-energies can affect the look of your type abilities. Such alterations, if any,
-do nothing but change the appearance of effects. If gravity is manipulated,
-perhaps a telltale bluish glow permeates all ability uses, including type
-abilities. If illusion is generated, perhaps flamboyant visual and auditory
-qualities accompany type abilities, such as the appearance of a tentacled beast
-holding a target in place when Stasis is used. And so on.
+Capacités de Manipulation de l'environnement : Les thèmes des Foci qui implique
+des énergies visibles ou non peuvent avoir un impact sur l'apparence des
+Capacités de votre type. De telles changements, s'il y en a, ne font rien
+d'autre que changer l'apparence des effets. Si la gravité est manipulée,
+peut-être qu'une pâle lueur bleutée apparait à chaque utilisation des Capacités,
+même les Capacités du Type. Si une illusion est générée, peut-être que des
+effets visuels et auditifs impressionnants accompagnent ce genre de Capacités,
+comme l'apparence d'un tentacule bestial qui enserre la cible quand la Capacité
+Stase est utilisée.
 
-Minor Effect Suggestions: The target gets turned around, and its next attack is
-hindered.
+Suggestions d'Effet Mineur : La cible pivote et sa prochaine attaque est
+atténuée.
 
-Major Effect Suggestions: The character is refreshed and recovers 4 points to
-one Pool.
+Suggestions d'Effet Majeur : Le personnage est régénéré et récupère 4 points
+dans une Réserve.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
-- [Awakens Dreams](Foci/Awakens%20Dreams.md)
-- [Blazes With Radiance](Foci/Blazes%20With%20Radiance.md)
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
+- [Réveille les rêves](Foci/Awakens%20Dreams.md)
+- [Illumine avec Eclat](Foci/Blazes%20With%20Radiance.md)
 - [Calcule l"Incalculable](Foci/Calculates%20the%20Incalculable.md)
-- [Controls Gravity](Foci/Controls%20Gravity.md)
-- [Crafts Illusions](Foci/Crafts%20Illusions.md)
+- [Contrôle la Gravité](Foci/Controls%20Gravity.md)
+- [Façonne des Illusions](Foci/Crafts%20Illusions.md)
 - [Façonne des Objets Uniques](Foci/Crafts%20Unique%20Objects.md)
-- [Employs Magnetism](Foci/Employs%20Magnetism.md)
-- [Focuses Mind Over Matter](Foci/Focuses%20Mind%20Over%20Matter.md)
+- [Contrôle le Magnétisme](Foci/Employs%20Magnetism.md)
+- [Concentre l'Esprit sur la Matière](Foci/Focuses%20Mind%20Over%20Matter.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that grants a basic use of an ability that
-alters the environment (or predicts it) using the focus’s theme. For instance, a
-gravity-affecting focus might provide an ability that makes a target lighter or
-heavier. An\
-illusion-crafting focus might grant an ability that allows the creation of an
-image. An object-making focus might grant a basic proficiency in creating a
-particular kind of object. A predictive focus might calculate outcomes and
-provide the character with the benefits of that foreknowledge. And so on.
+Rang 1 : Choisissez une Capacité de rang inférieur qui confère une utilisation
+de base d'une Capacité qui modifie l'environnement en utilisant le thème du
+focus. Par exemple, un Focus qui affecte la gravité peut fournir une Capacité
+qui peut rendre une cible plus légère ou plus lourde. Un Focus de création
+d'illusion peut fournir une Capacité qui permet la création d'une image. Un
+Focus de fabrication d'objet peut fournir une compétence de base pour la
+création d'un type particulier d'objet. Un Focus de prédiction, peut calculer
+des probabilités de résultats et fournir au personnage des bénéfices liés à ces
+informations.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-focus. Often, this is an ability that grants skill training in a related area of
-knowledge.
+Quelque fois, une Capacité supplémentaire de faible puissance, dépendant du
+focus. Souvent, c'est une Capacité qui donne un entrainement dans une compétence
+dans une catégorie de connaissance.
 
-Tier 2: Choose a low-tier ability that provides a new defensive or offensive
-capability related to the focus’s theme.
+Rang 2 : Choisissez une Capacité de rang inférieur qui confère un moyen offensif
+ou défensif lié au thème du focus.
 
-Alternatively, this ability might provide an additional or brand-new capability
-to manipulate the environment related to the focus’s theme.
+Ou alors, cette Capacité peut fournir un moyen supplémentaire ou tout nouveau
+pour manipuler l'environnement lié au thème du focus.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should be a mid-tier ability related to the focus’s theme that
-provides an additional environment manipulation capacity or further improves the
-basic environment manipulation ability previously granted. This ability isn’t
-directly offensive or defensive, but provides either an all-new ability related
-to the basic ability, or one that increases the strength, range, or some other
-extension of the previously unlocked basic ability.
+Une des options devrait être une Capacité de rang intermédiaire lié au thème du
+focus qui fournit une Capacité de manipulation de l'environnement
+supplémentaire, ou qui améliore une Capacité de manipulation de l'environnement
+qui a été choisie précédemment. Cette Capacité n'est pas directement offensive
+ou défensive, mais fournit soit une toute nouvelle Capacité liée à la Capacité
+de base, soit une Capacité qui augmente la puissance, la portée, ou une autre
+extension d'une Capacité précédemment choisie.
 
-The other mid-tier option should provide an offensive or defensive ability
-related to the specific form of movement the focus provides, if possible.
+L'autre option de rang intermédiaire devrait fournir une Capacité offensive ou
+défensive liée à la forme spécifique du mouvement que le Focus permet.
 
-Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use
-of the ability, whichever one wasn’t chosen as an option in the previous tier.
+Rang 4 : Choisissez une Capacité de rang intermédiaire dont l'usage est soit
+offensive soit défensive, dans tous les cas il ne faut pas que ce soit une
+option déjà proposée à un rang précédent.
 
-Tier 5: Choose a high-tier penultimate use of the environment-manipulation
-ability. For instance, if the focus-granted manipulation is illusory, this
-ability might haunt a target with terrifying images. If the focus is gravity
-based, it might unlock flight. If magnetic, it might allow the user to reshape
-metal. If the focus grants telekinetic powers, this ability could allow a
-character to hurl massive objects at foes. And so on.
+Rang 5 : Choisissez une Capacité de rang supérieur de manipulation de
+l'environnement. Par exemple, si le Focus de manipulation est sur l'illusion,
+cette Capacité pourrait hanter une cible avec des images terrifiantes. Si le
+Focus est basée sur la gravité, elle pourrait débloquer le vol. Si c'est
+magnétique, la Capacité peut permettre au personnage de changer la forme du
+métal. Si ce sont des pouvoirs télékinétiques, la Capacité pourrait autoriser le
+personnage à balancer des objets volumineux sur des cibles.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One of the abilities should provide either an offensive or a defensive ability,
-opposite the ability provided at tier 4 (though high tier rather than mid tier).
+Une des Capacités devrait fournir un moyen soit offensif, soit défensif, à
+l'opposé de la Capacité proposée au rang 4 (bien que cette fois de rang
+supérieur plutôt que de rang intermédiaire).
 
-The other option should be something that further explores the use of the basic
-environment manipulation capability. If the tier 5 choice was the penultimate
-ability, this might be an even better ultimate ability related to the kind of
-manipulation offered, or a different way of using that ability to unlock an
-as-yet-unexplored facet of the ability.
+L'autre option devrait être quelqu chose qui explorer un peu plus loin l'usage
+de la manipulation de l'environnement. Cette Capacité devrait être plus
+puissante que celle de rang 5, ou une autre façon d'utiliser cette Capacité pour
+débloquer une facette non encore explorée.
 
 ## EXPLORATION
 
-Foci that allow a character to gather information, survive in unfamiliar
-environments, and find their way to new locations or track down particular
-creatures and foes are exploration foci. Surviving in unfamiliar environments
-requires a reasonable selection of defensive options; however, abilities that
-allow a character to find and learn are prioritized.
+Les Foci qui permettent à un personnage de récupérer des informations, de
+survivre dans des environnements non-familiers, et de trouver leur chemin vers
+de nouveaux emplacements ou de traquer des créatures particulières ou des
+adversaires, sont des Foci d'exploration. Survivre dans des environnements
+non-familiers requiert une sélection raisonnable d'options défensives ;
+toutefois, les Capacités qui permettent à un personnage de trouver et
+d'apprendre sont à donner en priorité.
 
-Exploration foci rely on a variety of methods, though training and expertise are
-the mainstays. Some methods require specific tools (such as a vehicle) to grant
-the benefits provided, while others might rely on the supernatural or\
-super-science to learn new things and explore strange places from afar.
+Les Foci d'exploration sont basées sur une variété de méthodes, bien que les
+piliers sont l'entrainement et l'expertise. Certaines méthodes requièrent des
+outils spécifiques (comme un véhicule) pour accorder les bénéfices fournis,
+tandis que d'autres pourraient se baser sur le surnaturel ou la superscience
+pour apprendre de nouvelles choses et explorer de nouveaux endroits étranges et
+lointains.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary to explore. For instance, starting
-maps and/or\
-a compass would be basic equipment, while someone who uses psychic abilities
-might require a mirror or crystal sphere to gaze into. Equipment might also
-include access to a vehicle required for exploration, as previously noted.
+Équipement Supplémentaire : Tout objet nécessaire à l'exploration. Par exemple,
+des cartes et/ou un compas pourraient faire partie du matériel de base, tandis
+qu'un personnage qui utilise des pouvoirs psychiques pourrait avoir besoin d'un
+miroir ou d'une sphère de cristal pour regarder dedans. L'équipement pourrait
+aussi inclure l'accès à un véhicule nécessaire pour l'exploration.
 
-Minor Effect Suggestions: You have an asset on any action that involves using
-your senses, such as perceiving or attacking, until the end of the next round.
+Suggestions d'Effet Mineur : Vous avez un Atout pour n'importe quelle action qui
+implique vos sens, pour percevoir ou pour attaquer, jusqu'à la fin du prochain
+round.
 
-Major Effect Suggestions: Your Intellect Edge increases by 1 until the end of
-the next round.
+Suggestions d'Effet Majeur : Votre Avantage d'Intellect augmente de 1 jusqu'à la
+fun du prochain round.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Explore des Endroits Sombres](Foci/Explores%20Dark%20Places.md)
-- [Infiltrates](Foci/Infiltrates.md)
-- [Operates Undercover](Foci/Operates%20Undercover.md)
-- [Pilots Starcraft](Foci/Pilots%20Starcraft.md)
-- [Sees Beyond](Foci/Sees%20Beyond.md)
-- [Separates Mind From Body](Foci/Separates%20Mind%20From%20Body.md)
+- [Se Cache dans les Ombres](Foci/Infiltrates.md)
+- [Opère sous Couverture](Foci/Operates%20Undercover.md)
+- [Pilote un Vaisseau Spatial](Foci/Pilots%20Starcraft.md)
+- [Voit Au-Delà](Foci/Sees%20Beyond.md)
+- [Peut Séparer son Esprit de son Corps](Foci/Separates%20Mind%20From%20Body.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that grants the character basic exploratory,
-survival, or information-gathering capabilities within the focus’s theme.
+Rang 1 : Choisissez une Capacité de rang inférieur qui permet au personnage des
+moyens pour de l'exploration de base, de la survie ou pour de la récupération
+d'information, dans le thème du focus.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-focus. Often, this is an ability that grants skill training in a related area of
-knowledge or a related skill (though this may already be covered in the main
-ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the
-Might Pool.
+Quelque fois, en fonction du focus, une Capacité de rang inférieur
+supplémentaire est appropriée. Souvent, c'est une Capacité qui donne un
+entrainement dans une compétence dans un type de connaissance associée ou une
+compétence associée (bien que cela puisse être couvert par la Capacité
+principale). D'une autre manière, elle pourrait donner un simple bonus de 2 ou 3
+points à la Réserve de Puissance.
 
-Tier 2: Choose another low-tier ability that grants an additional capability
-related to exploration, survival, or information gathering.
+Rang :] Choisissez une autre Capacité de rang inférieur qui donne un moyen
+supplémentaire lié à l'exploration, la survie ou la récupération d'information.
 
-For instance, a focus dedicated to surviving savage conditions might offer an
-ability (or two) that makes it easier to avoid natural hazards, poisons,
-difficult terrain, and so on. A focus dedicated to exploration of a particular
-area might grant abilities to gain access to that area, or a capability that
-others normally lack (like the ability to see in the dark).
+Par exemple, un Focus dédiée à survivre dans des conditions sauvages pourrait
+donner une capacité (ou deux) qui rend plus facile à éviter les catastrophes
+naturelles, les poisons, les terrains difficiles, et ainsi de suite. Un Focus
+dédiée à l'exploration d'un endroit en particulier pourrait donner des moyens
+pour avoir accès à cet endroit, ou un moyen que les autres n'ont pas
+habituellement (comme un moyen de voir dans le noir).
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should further improve the basic exploration ability granted, or give
-a new exploratory, survival, or information-gathering ability.
+Une des options devrait améliorer un peu plus le moyen d'exploration de base
+déjà acquis, ou alors qui devrait donner un nouveau moyen d'exploration, de
+survie ou de récupération d'information.
 
-The other option should be something that benefits the character, either an
-offensive or defensive ability (especially if this focus hasn’t already granted
-that) or something that further broadens the character’s ability to explore in
-the focus’s chosen realm.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de
+manière offensive, soit de manière défensive (en particulier si le Focus ne l'a
+pas déjà accordée) ou quelque chose qui étend un peu plus le moyen pour le
+personnage pour explorer dans le thème du focus.
 
-Tier 4: Choose a mid-tier offensive or defensive ability (whichever wasn’t
-offered at tier 3) that benefits the character. Alternatively, if offensive and
-defensive abilities are already well represented, choose a different mid-tier
-ability that broadens the character’s ability to explore, survive, or gather
-information.
+Rang 4 : Choisissez une capacité de rang intermédiaire offensive ou défensive
+(quoique ce soit qui n'ait pas été proposé au rang 3) qui bénéficie au
+personnage. Ou alors, si les moyens offensifs et défensif sont déjà bien
+représentés, choisissez une Capacité de rang intermédiaire différente qui étend
+la capacité du personnage à explorer, survivre ou récupérer des informations.
 
-Tier 5: Choose a high-tier ability that alleviates some of the penalties for
-exploring, surviving, or gathering information in a normally inhospitable place.
+Rang 5 : Choisissez une capacité de rang supérieur qui atténue certaines
+pénalités pour l'exploration, la survie ou la récupération d'information dans un
+endroit normalement inhospitaliers.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One option should further improve the basic exploration-themed ability
-previously granted, or give a brand-new exploratory, survival, or
-information-gathering ability.
+Une des options devrait améliorer encore plus le moyen d'exploration de base
+déjà accordé, ou elle devrait donner un tout nouveau moyen d'exploration, de
+survie ou de récupération d'information.
 
-The other option should be something that benefits the character, either an
-offensive or defensive ability, or yet another ability that further broadens
-their capacity to explore in the focus’s chosen realm.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de
+manière offensive, soit de manière défensive, ou encore un tout moyen qui étend
+encore plus sa possibilité d'explorer dans le thème du focus.
 
 ## INFLUENCE
 
-Foci that prioritize authority and influence—whether that’s to make people or
-machines do as commanded, to help others, or to rise to some other prestigious
-and significant position—fall within the influence category.
+Un Focus qui donne la priorité sur l'autorité et l'influence (que ce soit pour
+commander des personnes ou des machines), pour aider les autres, ou pour
+atteindre un autre position prestigieuse et importante, est un Focus
+d'Influence.
 
-These foci grant influence through training and persuasion, by direct mental
-manipulation, by using fame to get people’s attention and influence their
-actions, or simply by knowing and learning things that affect later decisions.
-In this sense, the concept of influence is broad.
+Ces Foci donne de l'influence au travers de l'entrainement et la persuasion, par
+une manipulation mentale directe, par l'utilisation de la célébrité pour attirer
+l'attention des personnes et influencer leurs actions, ou simplement en
+connaissant et en apprenant des choses pour peut affecter les décisions
+ultérieures. Ainsi le concept d'influence est assez large.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary to achieve the influence suggested
-should be granted as additional equipment. Some influence foci don’t require
-anything to gain or retain their benefits.
+Équipement Supplémentaire : Toute objet nécessaire pour permettre l'influence
+suggérée devrait être accordé en tant qu'équipement supplémentaire. Certains
+Foci d'influence ne nécessite rien de spécial pour obtenir ou conserver leurs
+bénéfices.
 
-Minor Effect Suggestions: The range or duration of the influencing ability is
-doubled.
+Suggestions d'Effet Mineur : La portée ou la durée de la Capacité d'influence
+est doublée.
 
-Major Effect Suggestions: An ally or indicated target can take an additional
-action.
+Suggestions d'Effet Majeur : Un allié ou une cible indirecte peut effectuer une
+action supplémentaire.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
-- [Commands Mental Powers](Foci/Commands%20Mental%20Powers.md)
-- [Conducts Weird Science](Foci/Conducts%20Weird%20Science.md)
-- [Fuses Mind and Machine](Foci/Fuses%20Mind%20and%20Machine.md)
-- [Is Idolized by Millions](Foci/Is%20Idolized%20by%20Millions.md)
-- [Solves Mysteries](Foci/Solves%20Mysteries.md)
-- [Talks to Machines](Foci/Talks%20to%20Machines.md)
-- [Works the System](Foci/Works%20the%20System.md)
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
+- [Commande aux pouvoirs Mentaux](Foci/Commands%20Mental%20Powers.md)
+- [Poursuit des Sciences Etranges](Foci/Conducts%20Weird%20Science.md)
+- [Fusionne l'Esprit et la Machine](Foci/Fuses%20Mind%20and%20Machine.md)
+- [Est Idolatré par Millions](Foci/Is%20Idolized%20by%20Millions.md)
+- [Résout des Mystères](Foci/Solves%20Mysteries.md)
+- [Parle aux Machines](Foci/Talks%20to%20Machines.md)
+- [Contourne le Système](Foci/Works%20the%20System.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that allows the character to learn something
-significant enough that they can choose a smart course of action (or use that
-knowledge to persuade or intimidate). How the character learns the information
-varies by the specifics of the focus. One character might do experiments to
-learn answers, another might open a telepathic link with others to trade
-information secretly and quickly, and still another might simply be trained in
-interaction tasks.
+Rang 1 : Choisissez une Capacité de rang inférieur qui permet au personnage
+d'apprendre quelque chose assez significatif pour qu'il puisse choisir une
+meilleure suite d'actions (ou d'utiliser cette connaissance pour persuader ou
+intimider). Comment le personnage apprend l'information varie selon les
+spécificités du focus. Un personnage pourrait avoir besoin de faire des
+expériences pour obtenir des réponses, un autre pourrait ouvrir un lien
+télépathique avec d'autres pour échanger de l'information secrètement et
+rapidement, tandis qu'un autre pourrait simplement avoir été formé dans les
+tâches d'interactions.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-focus. Often, this is an ability that grants skill training in a related area of
-knowledge.
+Quelque fois, une Capacité supplémentaire de faible puissance, dépendant du
+focus. Souvent, c'est une Capacité qui donne un entrainement dans une compétence
+dans une catégorie de connaissance.
 
-Tier 2: Choose a low-tier ability that improves the character’s ability to apply
-influence. This might open an additional front on the focus’s basic theme or
-simply further enhance the basic ability already provided. For instance, this
-tier 2 ability could ease influence-related tasks by a few steps, allow a
-telepath to read the minds of others who have secrets they’d otherwise not
-reveal, or grant influence over physical objects (either to improve them or to
-learn more about them). And so on.
+Rang 2 : Choisissez une Capacité de rang inférieur qui améliore le moyen par
+lequel le personnage peut exercer son influence. Cela pourrait ouvrir de
+nouvelles possibilités pour le thème du focus, ou bien simplement augmenter le
+moyen de base déjà fourni. Par exemple, cette Capacité de rang 2 peut faciliter
+un peu plus les tâches liées à l'influence, comme en autorisant un télépathe à
+lire l'esprit de personnes qui ont des secrets qu'ils ne dévoileraient pas
+autrement, ou en donnant de l'influence sur des objets physiques (soit en les
+améliorant, soit en en apprenant plus sur eux).
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should provide an offensive or defensive capability related to the
-focus’s specific kind of influence, if possible. For instance, an inventor might
-create a serum that gives them increased abilities (which could be used for
-offense or defense), a telepath might have some method of blasting foes with
-mental energy, and someone with only the basic skills of debate and influence
-through fame might have to rely on weapon training or their entourage.
+Une des options devrait fournir un moyen offensif ou défensif dans le cadre
+spécifique de type d'influence du focus. Par exemple, un inventeur peut créer un
+sérum qui lui donne une capacité améliorée (qui pourrait être utilisée pour
+l'attaque ou la défense), un télépathe peut avoir une méthode pour blesser des
+adversaires avec de l'énergie mentale, et une personne avec seulement les
+compétences de base dans les débats et l'influence au travers de la célébrité
+pourrait avoir besoin d'entrainement aux armes ou bien de son entourage.
 
-The other mid-tier option should provide an additional ability to influence in
-the theme of the focus, or further improve the basic influence ability
-previously granted. This option isn’t directly offensive or defensive, but
-provides either an all-new ability related to the basic ability, or increases
-the strength, range, or some other extension of the previously unlocked basic
-ability. For instance, a telepath might have a psychic suggestion ability.
+L'autre option de rang intermédiaire devrait fournir une Capacité supplémentaire
+pour influencer, toujours dans le thème du focus, ou améliorer un peu plus la
+Capacité de base d'influence déjà choisie. Cette option n'est pas directement
+offensive ou défensive, mais fournit soit une toute nouvelle Capacité liée à la
+Capacité de base, ou améliore la force, la portée ou débloque une extension de
+la Capacité déjà retenue. Par exemple, un Télépathe pourrait avoir une Capacité
+de suggestion psychique.
 
-Tier 4: Choose a mid-tier ability that is either an offensive or a defensive use
-of the influence ability, whichever one wasn’t chosen as an option in the
-previous tier.
+Rang 4 : Choisissez une capacité de rang intermédiaire qui est une utilisation,
+soit offensive soit défensive, de la Capacité d'influence, en tout cas une qui
+n'ait pas été sélectionnée au rang précédent.
 
-Alternatively, this ability could grant an additional capability related to the
-kind of influence the focus provides.
+Ou alors, cette Capacité peut permettre un nouveau moyen lié au genre
+d'influence donné par le Focus.
 
-Tier 5: Choose a high-tier penultimate use of the specific influence ability
-granted at lower tiers.
+Rang 5 : Choisissez une avant-dernière Capacité de rang supérieur qui utilise la
+Capacité d'influence spécifique donnée aux rangs inférieurs.
 
-Alternatively, choose an ability not previously gained at a lower tier, one that
-opens a new front on the particular influence capability. For instance, if the
-focus-granted influence is telepathic, the tier 5 ability might allow a
-character to see into the future to gain assets for dealing with enemies (and
-allies).
+Ou alors, choisissez une Capacité qui n'a pas été sélectionnée à un rang
+précédent, qui ouvre une nouvelle possibilité de moyen d'influence. Par exemple,
+si l'influence sur laquelle se base le Focus est télépathique, la Capacité de
+rang 5 pourrait autoriser le personnage à voir dans le future pour obtenir des
+atouts pour s'occuper des adversaires (et des alliés).
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One of the options should provide either an offensive or a defensive ability,
-opposite the ability provided at tier 4 (though high tier rather than mid tier).
+Une des options devrait fournir un moyen soit offensif, soit défensif, à
+l'opposé du moyen fourni au rang 4 (bien que ce soit de rang supérieur au lieu
+de rang intermédiaire).
 
-The other option should be something that further explores the use of the basic
-influence ability provided by the focus. If the tier 5 choice was the
-penultimate ability, this might be an even better ultimate ability related to
-the kind of influence used, or a different way of using that ability to unlock
-an as-yet-unexplored facet of the ability.
+L'autre option devrait être quelque chose qui explore un peut plus l'usage de
+l'influence de base permise par le Focus. Si le choix du rang 5 était offensif
+ou défensif, cela pourrait être une Capacité encore meilleure liée au genre
+d'influence exercé, ou une manière différente d'utiliser cette Capacité pour
+débloquer une facette encore inconnue de la Capacité.
 
-## IRREGULAR
+## IRRÉGULIER
 
-Most foci have a basic theme, a “character story” that logically leads to a
-series of related abilities. However, certain foci themes are so wide that they
-don’t fit into any other category except an irregular one of their own.
+La plupart des foci ont un thème principal, un "histoire pour le personnage" qui
+implique logiquement une série de capacités associées. Toutefois, certains
+thèmes de foci sont si vagues qu'ils ne correspondent à aucune catégorie, à part
+une catégorie irrégulière spécifique.
 
-Irregular foci provide a basket of disparate abilities. Usually that’s because
-the overarching theme is one that demands variability and access to several
-different kinds of abilities. Often, these foci are found in genres that suggest
-additional rule tweaks to leverage their use even further, such as power shifts
-in the superhero genre and spellcasting in the fantasy genre. However, other
-irregular foci are possible.
+Les foci irréguliers offrent un ensemble de capacités disparates. Cela est
+généralement dû au fait que le thème global exige de la variabilité et l'accès à
+plusieurs types de capacités différents. Souvent, ces foci se retrouvent dans
+des genres qui suggèrent des ajustements de règles supplémentaires pour
+exploiter encore davantage leur utilisation, comme les changements de puissance
+dans le genre des super-héros ou la magie dans le genre de la fantasy.
+Cependant, d'autres foci irréguliers sont possibles.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
-Additional Equipment: Any object necessary to the focus’s theme. For instance, a
-superhero-themed focus might grant a superhero costume.
+Équipement Supplémentaire : Tout objet nécessaire au thème du focus. Par
+exemple, un focus sur un thème de super-héro peut fournir un costume de
+super-héro.
 
-Minor Effect Suggestions: The target is also dazed for one round, during which
-time all of its tasks are hindered.
+Suggestions d'Effet Mineur : La cible est aussi étourdie pendant un round,
+durant lequel toutes ses tâches sont entravées.
 
-Major Effect Suggestions: The target is stunned and loses its next turn.
+Suggestions d'Effet Majeur : La cible est sonnée et perd son prochain tour.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
-- [Channels Divine Blessings](Foci/Channels%20Divine%20Blessings.md)
-- [Descends From Nobility](Foci/Descends%20From%20Nobility.md)
-- [Emerged From the Obelisk](Foci/Emerged%20From%20the%20Obelisk.md)
-- [Flies Faster Than a Bullet](Foci/Flies%20Faster%20Than%20a%20Bullet.md)
-- [Masters Spells](Foci/Masters%20Spells.md)
-- [Speaks for the Land](Foci/Speaks%20for%20the%20Land.md)
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
+- [Canalise les Bénédictions Divines](Foci/Channels%20Divine%20Blessings.md)
+- [A des Ascendants Nobles](Foci/Descends%20From%20Nobility.md)
+- [Est sorti de l'Obélisque](Foci/Emerged%20From%20the%20Obelisk.md)
+- [Vole Plus Vite qu'une Balle](Foci/Flies%20Faster%20Than%20a%20Bullet.md)
+- [Maîtrise les Sortilèges](Foci/Masters%20Spells.md)
+- [Parle au Nom de la Terre](Foci/Speaks%20for%20the%20Land.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-Tier 1: Choose a low-tier ability that grants one of the benefits the focus
-theme promises, one that a first-tier character should have.
+Rang 1 : Choisissez une capacité de rang inférieur qui donne un des bénéfices
+promis par le thème du focus et qu'un personnage de rang 1 devrait avoir.
 
-Sometimes an additional low-power ability is appropriate, depending on the
-focus. Often, this is an ability that grants skill training in a related area of
-knowledge or a related skill. Alternatively, it might offer a simple bonus of 2
-or 3 points to a Pool.
+Quelque fois, pour certain focus, une capacité supplémentaire de faible
+puissance est appropriée. Souvent c'est une capacité qui confère un entrainement
+dans une compétence dans un domaine de connaissance associé au focus, ou une
+autre compétence qui peut être associée au focus. D'une autre manière, le focus
+peut accorder un simple bonus de 2 ou 3 points à une Réserve.
 
-Tier 2: Choose a low-tier ability that grants one of the benefits the focus
-theme promises, one that’s presumably not immediately related to the one
-provided at tier 1. That said, if a defense wasn’t provided at tier 1, tier 2 is
-a good place to add it.
+Rang 2 : Choisissez une capacité de rang inférieur qui donne un des bénéfices
+promis par le thème du focus, et qui n'est pas liée directement à la capacité
+fournie au rang 1. Ceci dit, si une défense n'a pas été donnée au rang 1, le
+rang 2 est un bon endroit pour la placer.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
-One option should provide one of the benefits the focus theme promises, one that
-may not be immediately related to those provided at earlier tiers.
+Une option devrait fournir un des bénéfices promis par le thème du focus, une
+qui ne serait pas liée à ceux fournit aux rangs précédents.
 
 The other option should include a method of attack if none has previously been
 granted. Alternatively, if the lower-tier abilities don’t quite get the
@@ -817,8 +908,8 @@ Tier 5: Choose a high-tier ability that grants one of the benefits the focus
 theme promises, one that may not be immediately related to those provided at
 earlier tiers.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
 One option should grant one of the benefits the focus theme promises, one that
 may not be immediately related to those provided at earlier tiers. However, this
@@ -845,7 +936,8 @@ benefit. Other foci in this category might fall within the theme by granting a
 character the ability to become immaterial, to change their form into something
 like water or air, or to instantly move via teleportation.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
 Additional Equipment: Any object necessary to achieve great speeds, change
 state, or otherwise gain the benefit of the focus should be granted as
@@ -857,8 +949,8 @@ hindered.
 
 Major Effect Suggestions: The target is stunned and loses their next action.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Exists Partially Out of Phase](Foci/Exists%20Partially%20Out%20of%20Phase.md)
 - [Moves Like a Cat](Foci/Moves%20Like%20a%20Cat.md)
 - [Moves Like the Wind](Foci/Moves%20Like%20the%20Wind.md)
@@ -868,7 +960,7 @@ possible foci in this category.
 - [Travels Through Time](Foci/Travels%20Through%20Time.md)
 - [Works the Back Alleys](Foci/Works%20the%20Back%20Alleys.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 Tier 1: Choose a low-tier ability that grants the basic benefit of the specific
 movement style, whether that’s enhanced speed, agility, immateriality, and so
@@ -888,8 +980,8 @@ Alternatively, this ability might provide some additional capability related to
 the form of movement that grants useful information to the character that would
 normally be inaccessible to someone without the focus.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
 One option should provide an additional movement capacity or further improve the
 basic movement capacity, related to the focus’s theme. This isn’t directly
@@ -913,11 +1005,12 @@ action. And so on.
 Alternatively, unlock an as-yet-unexplored related ability that could derive
 from the basic movement power provided by the focus.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One of the options should provide either an offensive or a defensive ability,
-opposite the ability provided at tier 4 (though high tier rather than mid tier).
+Une des options devrait fournir un moyen soit offensif, soit défensif, à
+l'opposé du moyen fourni au rang 4 (bien que ce soit de rang supérieur au lieu
+de rang intermédiaire).
 
 The other option should be something that further explores the use of the basic\
 movement ability. If the tier 5 choice was the penultimate ability, this might
@@ -938,7 +1031,8 @@ of enemy, or something much broader, such as adopting a particularly vicious or
 unsporting style. A striker combatant might use fire, force, or magnetism as
 their preferred method of spiking damage.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
 Additional Equipment: The weapon, tool, or other special item or substance (if
 any) required to engage in the particular style of combat. For instance, a dose
@@ -951,8 +1045,8 @@ dazed for one round, hindering all of its tasks.
 Major Effect Suggestions: Make an immediate additional attack using an attack
 provided by the focus as part of your turn.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Combat les Robots](Foci/Battles%20Robots.md)
 - [Se Bat Sans Respecter de Règle](Foci/Fights%20Dirty.md)
 - [Fights With Panache](Foci/Fights%20With%20Panache.md)
@@ -968,7 +1062,7 @@ possible foci in this category.
 - [Throws With Deadly Accuracy](Foci/Throws%20With%20Deadly%20Accuracy.md)
 - [Wields Two Weapons at Once](Foci/Wields%20Two%20Weapons%20at%20Once.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 Tier 1: Choose a low-tier ability that inflicts additional damage when a
 character attacks using the focus’s particular fighting style, energy, or
@@ -998,8 +1092,8 @@ Sometimes an additional low-power ability is appropriate at tier 2. If so,
 choose whichever\
 low-power ability wasn’t gained at tier 1.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
 One option should inflict additional damage when using the focus’s fighting
 style, energy, or attitude, or when used against a chosen enemy. That could be
@@ -1020,8 +1114,8 @@ focused on fighting a particular kind of foe, this ability might give the
 character a chance to completely neutralize, destroy, blind, or kill a singular
 target of up to level 3 (or higher, if the focus is on a singular foe).
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
 One of the options should use the focus paradigm to inflict an exceptional
 amount of damage.
@@ -1045,7 +1139,8 @@ Support foci rely on a variety of methods to provide their help, including
 martial training used in defense, supernatural or sci-fi means of providing
 healing, or simply easing the cares of others through entertainment.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
 Additional Equipment: Any object necessary to provide support. For instance,
 someone with a focus that uses entertainment to help others would require an
@@ -1057,8 +1152,8 @@ at any point before the end of the next round.
 
 Major Effect Suggestions: You can take an extra action in aid of an ally.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Defends the Weak](Foci/Defends%20the%20Weak.md)
 - [Divertit](Foci/Entertains.md)
 - [Helps Their Friends](Foci/Helps%20Their%20Friends.md)
@@ -1067,7 +1162,7 @@ possible foci in this category.
 - [Siphons Power](Foci/Siphons%20Power.md)
 - [Works Miracles](Foci/Works%20Miracles.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 Tier 1: Choose a low-tier ability that provides some form of defense, aid or
 entertainment, benefit to recovery or healing, or protection. That defense or
@@ -1087,8 +1182,8 @@ another. If the previous tier specifically provided aid to another, this tier 2
 ability could defend the focus taker or provide an offensive capability
 grounded, if possible, in the focus’s theme.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
 One option should work within the focus’s theme to aid, heal, protect, or
 otherwise help another.
@@ -1109,8 +1204,8 @@ provides some form of defense, aid or entertainment, benefit to recovery or
 healing, or protection to another. For example, a tier 5 ability might grant an
 ally an additional free action or allow them to repeat a failed action.
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
 One of the options should provide an ultimate method of helping another in the
 theme of the focus.
@@ -1135,7 +1230,8 @@ might turn a character’s skin to stone, reinforce their body with metal, turn
 them into a monstrous being, make them so big it becomes harder to hurt them,
 and so on.
 
-Connection: Choose four relevant connections from the Focus Connections list.
+Connexion : Choisissez quatre connexions pertinentes dans la liste des
+Connections de Focus.
 
 Additional Equipment: Any object necessary to maintain a physical transformation
 (such as a tool for repair if partly robotic, a shield or other defensive tool
@@ -1146,8 +1242,8 @@ Minor Effect Suggestions: +2 to Armor for a few rounds.
 
 Major Effect Suggestions: Regain 2 points to Might Pool.
 
-The following are examples and not meant to provide a complete list of all
-possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de
+toutes les Focus possibles pour cette catégorie.
 - [Abides in Stone](Foci/Abides%20in%20Stone.md)
 - [Brandishes an Exotic Shield](Foci/Brandishes%20an%20Exotic%20Shield.md)
 - [Garde le Passage](Foci/Defends%20the%20Gate.md)
@@ -1159,7 +1255,7 @@ possible foci in this category.
 - [Never Says Die](Foci/Never%20Says%20Die.md)
 - [Stands Like a Bastion](Foci/Stands%20Like%20a%20Bastion.md)
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 Tier 1: Choose a low-tier ability that provides defense within the focus’s
 theme. If the theme is simply intense training or the use of a defensive tool,
@@ -1185,8 +1281,8 @@ might mean gaining better control of the transformation, unlocking a robotic
 interface, or otherwise more fully unlocking that form. This ability is not
 necessarily defensive, though it could be.
 
-Tier 3: Choose two mid-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 3 : Choisissez deux capacités de rang intermédiaire. Donnez-les tous les
+deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 
 One option should provide an additional form of protection in keeping with the
 focus’s theme, such as more defensive capabilities unlocked from a
@@ -1215,8 +1311,8 @@ additional related ability, whether offensive, defensive, or something related
 to exploration or interaction (such as flight if the form is winged,
 intimidation if the form is fearsome, and so on).
 
-Tier 6: Choose two high-tier abilities. Give both of them as options for the
-focus; a PC will choose one or the other.
+Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
+comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
 One option should use the focus paradigm to increase the defense, protection, or
 ability to shrug off damage.
