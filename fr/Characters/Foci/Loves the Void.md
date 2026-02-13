@@ -7,7 +7,8 @@ forever and always, you are at peace.
   Travel](../Abilities/Have%20Spacesuit,%20Will%20Travel.md)
 - Tier 1: [Vacuum Skilled](../Abilities/Vacuum%20Skilled.md)
 - Tier 1: [Microgravity Adept](../Abilities/Microgravity%20Adept.md)
-- Tier 2: [Enhanced Speed Edge](../Abilities/Enhanced%20Speed%20Edge.md)
+- Rang 2 : [Avantage de Célérité
+  Amélioré](../Abilities/Enhanced%20Speed%20Edge.md)
 - Tier 2: [Enhanced Physique](../Abilities/Enhanced%20Physique.md)
 - Tier 3: [Space Fighting](../Abilities/Space%20Fighting.md) or [Fusion
   Armor](../Abilities/Fusion%20Armor.md)
