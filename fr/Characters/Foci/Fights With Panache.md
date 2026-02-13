@@ -1,16 +1,18 @@
-Fights With Panache #Focus #StrikerFocus #Core
+Combat avec Panache #Focus #StrikerFocus #Core
 
-You’re a swashbuckling daredevil who fights with flamboyant style that’s
-entertaining to watch.
+Vous êtes un casse-cou audacieux qui se bat avec un style flamboyant et amusant
+à regarder.
 
-- Tier 1: [Attack Flourish](../Abilities/Attack%20Flourish.md)
-- Tier 2: [Quick Block](../Abilities/Quick%20Block.md)
-- Tier 3: [Acrobatic Attack](../Abilities/Acrobatic%20Attack.md) or [Flamboyant
-  Boast](../Abilities/Flamboyant%20Boast.md)
-- Tier 4: [Block for Another](../Abilities/Block%20for%20Another.md)
-- Tier 4: [Fast Kill](../Abilities/Fast%20Kill.md)
-- Tier 5: [Using the Environment](../Abilities/Using%20the%20Environment.md)
-- Tier 6: [Agile Wit](../Abilities/Agile%20Wit.md) or [Return to
-  Sender](../Abilities/Return%20to%20Sender.md)
+- Rang 1 : [Attaque avec style](../Abilities/Attack%20Flourish.md)
+- Rang 2 : [Blocage rapide](../Abilities/Quick%20Block.md)
+- Rang 3 : [Attaque acrobatique](../Abilities/Acrobatic%20Attack.md) ou
+  [Vantardise flamboyante](../Abilities/Flamboyant%20Boast.md)
+- Rang 4 : [Bloquer pour un autre](../Abilities/Block%20for%20Another.md)
+- Rang 4 : [Meurtre Rapide](../Abilities/Fast%20Kill.md)
+- Rang 5 : [Utilisation de
+  l'environnement](../Abilities/Using%20the%20Environment.md)
+- Rang 6 : [Esprit Agile](../Abilities/Agile%20Wit.md) u [Retour à
+  l'expéditeur](../Abilities/Return%20to%20Sender.md)
 
-GM Intrusions: The display comes off looking silly, clumsy, or unattractive.
+Intrusions de la Meneuse : La démonstration semble ridicule, maladroite ou peu
+spectaculaire.
