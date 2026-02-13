@@ -1,18 +1,20 @@
-Fights Dirty #Focus #StrikerFocus #Core
+Se Bat Sans Respecter de Règle #Focus #StrikerFocus #Core
 
-You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
+Vous ferez n'importe quoi pour gagner un combat : mordre, gratter, donner un
+coup de pied, tromper et pire encore.
 
-- Tier 1: [Tracker](../Abilities/Tracker.md)
-- Tier 1: [Stalker](../Abilities/Stalker.md)
-- Tier 2: [Sneak](../Abilities/Sneak.md)
-- Tier 2: [Quarry](../Abilities/Quarry.md)
-- Tier 3: [Betrayal](../Abilities/Betrayal.md) or [Surprise
-  Attack](../Abilities/Surprise%20Attack.md)
-- Tier 4: [Mind Games](../Abilities/Mind%20Games.md)
-- Tier 4: [Capable Warrior](../Abilities/Capable%20Warrior.md)
-- Tier 5: [Using the Environment](../Abilities/Using%20the%20Environment.md)
-- Tier 6: [Twisting the Knife](../Abilities/Twisting%20the%20Knife.md) or
-  [Murderer](../Abilities/Murderer.md)
+- Rang 1 : [Pisteur](../Abilities/Tracker.md)
+- Rang 1 : [Traqueur](../Abilities/Stalker.md)
+- Rang 2 : [Furtif](../Abilities/Sneak.md)
+- Rang 2 : [Proie](../Abilities/Quarry.md)
+- Rang 3 : [Trahison](../Abilities/Betrayal.md) ou [Attaque
+  surprise](../Abilities/Surprise%20Attack.md)
+- Rang 4 : [Jeux d'esprit](../Abilities/Mind%20Games.md)
+- Rang 4 : [Guerrier Capable](../Abilities/Capable%20Warrior.md)
+- Rang 5 : [Utilisation de
+  l'environnement](../Abilities/Using%20the%20Environment.md)
+- Rang 6 : [Torsion du couteau](../Abilities/Twisting%20the%20Knife.md) ou
+  [Meurtrier](../Abilities/Murderer.md)
 
-GM Intrusions: People look poorly upon those who cheat or fight without honor.
-Sometimes a dirty trick backfires.
+Intrusions de la Meneuse : Les gens voient mal ceux qui trichent ou se battent
+sans honneur. Parfois, un sale tour se retourne contre vous.
