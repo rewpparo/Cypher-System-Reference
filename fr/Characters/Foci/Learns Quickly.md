@@ -2,7 +2,7 @@ Learns Quickly #Focus #BasicFocus #Core
 
 You deal with bad situations as they arise, learning new lessons each time.
 
-- Tier 1: [Enhanced Intellect](../Abilities/Enhanced%20Intellect.md)
+- Rang 1 : [Intellect amélioré](../Abilities/Enhanced%20Intellect.md)
 - Tier 1: [There’s Your Problem](../Abilities/There’s%20Your%20Problem.md)
 - Tier 2: [Quick Study](../Abilities/Quick%20Study.md)
 - Tier 3: [Hard to Distract](../Abilities/Hard%20to%20Distract.md)
