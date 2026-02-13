@@ -3,7 +3,7 @@ Soars on Amazing Wings #Focus #Core #SuperHeroes
 Many superheroes can fly, and some even have wings. You can use your wings for
 movement, attacks, and defense.
 
-- Tier 1: [Hover](../Abilities/Hover.md)
+- Rang 1 : [Survol](../Abilities/Hover.md)
 - Tier 1: [Flight Exertion](../Abilities/Flight%20Exertion.md)
 - Tier 2: [Wing Weapons](../Abilities/Wing%20Weapons.md)
 - Tier 3: [Acrobatic Attack](../Abilities/Acrobatic%20Attack.md) or [Flying
