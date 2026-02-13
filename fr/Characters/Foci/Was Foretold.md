@@ -3,7 +3,7 @@ Was Foretold #Focus #Core
 You are the “chosen one,” and prophecy, prediction, prognostication, or some
 other method of determination expects great things of you one day.
 
-- Tier 1: [Interaction Skills](../Abilities/Interaction%20Skills.md)
+- Rang 1 : [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
 - Tier 1: [Knowing](../Abilities/Knowing.md)
 - Tier 2: [Destined for Greatness](../Abilities/Destined%20for%20Greatness.md)
 - Tier 3: [Overcome All Obstacles](../Abilities/Overcome%20All%20Obstacles.md)
