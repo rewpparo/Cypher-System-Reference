@@ -450,7 +450,7 @@ suggestions include the following.
 | 18    | [FARSIGHT](Cyphers/FARSIGHT.md)                                                 |
 | 19    | [FLAME-RETARDANT WALL](Cyphers/FLAME-RETARDANT%20WALL.md)                       |
 | 20    | [FORCE CUBE](Cyphers/FORCE%20CUBE.md)                                           |
-| 21–22 | [FORCE FIELD](Cyphers/FORCE%20FIELD.md)                                         |
+| 21–22 | [Champ de force](Cyphers/FORCE%20FIELD.md)                                      |
 | 23    | [FORCE SCREEN PROJECTOR](Cyphers/FORCE%20SCREEN%20PROJECTOR.md)                 |
 | 24    | [FORCE SHIELD PROJECTOR](Cyphers/FORCE%20SHIELD%20PROJECTOR.md)                 |
 | 25    | [FRIGID WALL](Cyphers/FRIGID%20WALL.md)                                         |
