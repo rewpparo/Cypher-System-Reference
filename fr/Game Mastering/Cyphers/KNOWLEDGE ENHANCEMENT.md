@@ -18,7 +18,7 @@ presenting a great opportunity for GM intrusion.)
 | 41–50 | Repairing (sometimes specific to one device)                               |
 | 51–60 | Crafting (usually specific to one thing)                                   |
 | 61–70 | Persuasion                                                                 |
-| 71–75 | Healing                                                                    |
+| 71–75 | Soigner                                                                    |
 | 76–80 | Speed defense                                                              |
 | 81–85 | Intellect defense                                                          |
 | 86–90 | Nager                                                                      |
