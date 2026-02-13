@@ -9,7 +9,7 @@ or you actually would kill someone just for looking at you.
 - Tier 2: [Surprise Attack](../Abilities/Surprise%20Attack.md)
 - Tier 3: [Outlaw Reputation](../Abilities/Outlaw%20Reputation.md) or
   [Successive Attack](../Abilities/Successive%20Attack.md)
-- Tier 4: [Fast Kill](../Abilities/Fast%20Kill.md)
+- Rang 4 : [Meurtre Rapide](../Abilities/Fast%20Kill.md)
 - Tier 5: [Band of Desperados](../Abilities/Band%20of%20Desperados.md)
 - Tier 6: [Not Dead Yet](../Abilities/Not%20Dead%20Yet.md) or [Lethal
   Damage](../Abilities/Lethal%20Damage.md)
