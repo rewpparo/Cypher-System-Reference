@@ -3,8 +3,8 @@ Takes Animal Shape #Focus #Core #SuperHeroes #Fantasy
 You can transform yourself into an animal.
 
 - Tier 1: [Animal Shape](../Abilities/Animal%20Shape.md)
-- Tier 2: [Communication](../Abilities/Communication.md)
-- Tier 2: [Soothe the Savage](../Abilities/Soothe%20the%20Savage.md)
+- Rang 2 : [Communication](../Abilities/Communication.md)
+- Rang 2 : [Apaiser la Bête Sauvage](../Abilities/Soothe%20the%20Savage.md)
 - Tier 3: [Bigger Animal Shape](../Abilities/Bigger%20Animal%20Shape.md) or
   [Greater Beast Form](../Abilities/Greater%20Beast%20Form.md)
 - Tier 4: [Animal Scrying](../Abilities/Animal%20Scrying.md)
