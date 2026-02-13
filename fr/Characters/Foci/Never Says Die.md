@@ -9,7 +9,7 @@ You never quit, can shrug off a beating, and always come back for more.
   Reserves](../Abilities/Hidden%20Reserves.md)
 - Tier 4: [Increasing Determination](../Abilities/Increasing%20Determination.md)
   or [Outlast the Foe](../Abilities/Outlast%20the%20Foe.md)
-- Tier 5: [Not Dead Yet](../Abilities/Not%20Dead%20Yet.md)
+- Rang 5 : [Pas encore mort](../Abilities/Not%20Dead%20Yet.md)
 - Tier 6: [Final Defiance](../Abilities/Final%20Defiance.md) or [Ignore
   Affliction](../Abilities/Ignore%20Affliction.md)
 
