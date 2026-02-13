@@ -681,7 +681,7 @@ choose.
 | 42-43 | Flight               | Power shift in flight                          |
 | 44    | Force field          | Force field master                             |
 | 45    | Growing              | Giant hero                                     |
-| 46-47 | Healing              | Power shift in healing                         |
+| 46-47 | Soigner              | Power shift in healing                         |
 | 48    | Human shapechanger   | Shapechanger                                   |
 | 49    | Illusion             | Illusionist                                    |
 | 50-51 | Intelligence         | Power shift in intelligence                    |
