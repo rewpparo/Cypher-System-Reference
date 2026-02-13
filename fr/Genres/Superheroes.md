@@ -908,40 +908,41 @@ superhero campaigns. The foci introduced here are as follows:
 
 #### COPIES SUPERPOWERS
 
-You can copy others’ skills, abilities, and superpowers.
+Vous pouvez copier les compétences, les capacités et les super pouvoirs des
+autres.
 
 Tier 1: Flex Skill Tier 1: Flex Skill Tier 2: Copy Power Tier 3: Steal Power or
 Wildcard Powers Tier 4: Improved Copying Tier 5: Power Memory Tier 6: Amazing
 Copying or Multiple
 
-Copying GM Intrusions: A copied power ends unexpectedly or goes out of control.
-A copied power doesn’t bring secondary powers with it (like gaining superspeed
-without protection from air friction, or not being immune to the heat from your
-own fire bolts).
+Intrusions de la Meneuse : Un pouvoir copié se termine de manière inattendue ou
+devient incontrôlable. Un pouvoir copié n'apporte pas de pouvoirs secondaires
+(comme gagner une super vitesse sans protection contre la friction de l'air, ou
+ne pas être immunisé contre la chaleur de vos propres éclairs de feu).
 
 #### HAS A THOUSAND FACES
 
-You can change your appearance to look like anyone else.
+Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre.
 
 Tier 1: Face Morph Tier 1: Interaction Skills Tier 2: Body Morph Tier 2: War
 Flesh Tier 3: Disguise Other or Resilience Tier 4: Ageless Tier 4: Think Your
 Way Out Tier 5: Memory Becomes Action Tier 6: Divide Your Mind or Infer Thoughts
 
-GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character
-is someone they know very well.
+Intrusions de la Meneuse : Une partie du déguisement glisse. Un PNJ pense que le
+personnage déguisé est quelqu'un qu'il connaît très bien.
 
 #### IGNORES PHYSICAL DISTANCE
 
-You can teleport from one place to another by briefly passing through a parallel
-dimension.
+Vous pouvez vous téléporter d'un endroit à un autre en traversant brièvement une
+dimension parallèle.
 
 Tier 1: Dimensional Squeeze Tier 2: Opportunist Tier 3: Defensive Blinking or
 Teleportation Burst Tier 4: Short Teleportation Tier 5: Medium Teleportation
 Tier 6: Teleportation or Teleportive Wound
 
-GM Intrusions: A teleport goes awry, landing the character in a dangerous place.
-Inertia (such as from falling) continues through the teleport, injuring the
-character.
+Intrusions de la Meneuse : Une téléportation tourne mal et le personnage se
+retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant
+la téléportation, blessant le personnage.
 
 #### SCULPTS HARD LIGHT
 
