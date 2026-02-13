@@ -10,7 +10,7 @@ their dreary lives.
 - Tier 2: [Resist Tricks](../Abilities/Resist%20Tricks.md)
 - Tier 3: [Sniper’s Aim](../Abilities/Sniper’s%20Aim.md) or [Enhanced Speed
   Edge](../Abilities/Enhanced%20Speed%20Edge.md)
-- Tier 4: [Mind Games](../Abilities/Mind%20Games.md)
+- Rang 4 : [Jeux d'esprit](../Abilities/Mind%20Games.md)
 - Tier 4: [Enhanced Intellect](../Abilities/Enhanced%20Intellect.md)
 - Tier 5: [Gamer’s Fortitude](../Abilities/Gamer’s%20Fortitude.md)
 - Tier 6: [Mind Surge](../Abilities/Mind%20Surge.md) or [Gaming
