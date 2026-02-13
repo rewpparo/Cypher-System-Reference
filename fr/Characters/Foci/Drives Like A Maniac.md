@@ -1,22 +1,23 @@
-Drives Like A Maniac #Focus #Core
+Conduit comme un Dingue #Focus #Core
 
-Whether balancing on two wheels, jumping another vehicle, or driving head-on
-toward an oncoming enemy car, you don’t think about the risks when you’re behind
-the wheel.
+Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicule
+ou de conduire de front vers une voiture ennemie venant en sens inverse, vous ne
+pensez pas aux risques lorsque vous êtes au volant.
 
-(Someone who Drives Like a Maniac needs access to a vehicle.)
+(Quelqu'un qui Conduit comme un Dingue doit avoir accès à un véhicule.)
 
-- Tier 1: [Driver](../Abilities/Driver.md)
-- Tier 1: [Driving on the Edge](../Abilities/Driving%20on%20the%20Edge.md)
-- Tier 2: [Car Surfer](../Abilities/Car%20Surfer.md)
-- Tier 2: [Stare Them Down](../Abilities/Stare%20Them%20Down.md)
-- Tier 3: [Expert Driver](../Abilities/Expert%20Driver.md) or [Enhanced Speed
-  Edge](../Abilities/Enhanced%20Speed%20Edge.md)
-- Tier 4: [Sharp-Eyed](../Abilities/Sharp-Eyed.md)
-- Tier 4: [Enhanced Speed](../Abilities/Enhanced%20Speed.md)
-- Tier 5: [Something in the Road](../Abilities/Something%20in%20the%20Road.md)
-- Tier 6: [Trick Driver](../Abilities/Trick%20Driver.md) or [Lethal
-  Damage](../Abilities/Lethal%20Damage.md)
+- Rang 1 : [Chauffeur](../Abilities/Driver.md)
+- Rang 1 : [Conduite Dangereuse](../Abilities/Driving%20on%20the%20Edge.md)
+- Rang 2 : [Surfeur de voiture](../Abilities/Car%20Surfer.md)
+- Rang 2 : [Regarde les en Face](../Abilities/Stare%20Them%20Down.md)
+- Rang 3 : [Chauffeur expert](../Abilities/Expert%20Driver.md) ou [Avantage de
+  Célérité Amélioré](../Abilities/Enhanced%20Speed%20Edge.md)
+- Rang 4 : [Oeil perçant](../Abilities/Sharp-Eyed.md)
+- Rang 4 : [Célérité améliorée](../Abilities/Enhanced%20Speed.md)
+- Rang 5 : [Quelque chose sur la
+  route](../Abilities/Something%20in%20the%20Road.md)
+- Rang 6 : [As du Volant](../Abilities/Trick%20Driver.md) ou [Dégâts
+  mortels](../Abilities/Lethal%20Damage.md)
 
-GM Intrusions: The engine develops a knock. The bridge on the road ahead is out.
-The windshield shatters. Someone unexpectedly runs in front of the vehicle.
+Intrusions de la Meneuse : Le moteur a des à-coup. Le pont sur la route est
+levé. Le pare-brise se brise. Quelqu'un court inopinément devant le véhicule.
