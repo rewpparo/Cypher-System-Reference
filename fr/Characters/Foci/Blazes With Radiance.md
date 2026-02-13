@@ -1,17 +1,17 @@
-Blazes With Radiance #Focus #EnvironmentFocus #Core
+Illumine avec Eclat #Focus #EnvironmentFocus #Core
 
-You can create light, sculpt it, bend it away from you, or gather it to use as a
-weapon.
+Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la
+rassembler pour l'utiliser comme une arme.
 
-- Tier 1: [Enlightened](../Abilities/Enlightened.md)
-- Tier 1: [Illuminating Touch](../Abilities/Illuminating%20Touch.md)
-- Tier 2: [Dazzling Sunburst](../Abilities/Dazzling%20Sunburst.md)
-- Tier 3: [Burning Light](../Abilities/Burning%20Light.md) or [Skill With
-  Defense](../Abilities/Skill%20With%20Defense.md)
-- Tier 4: [[Sunlight]]
-- Tier 5: [Disappear](../Abilities/Disappear.md)
-- Tier 6: [Living Light](../Abilities/Living%20Light.md) or [Defensive
-  Field](../Abilities/Defensive%20Field.md)
+- Rang 1 : [Eclairé](../Abilities/Enlightened.md)
+- Rang 1 : [Toucher lumineux](../Abilities/Illuminating%20Touch.md)
+- Rang 2 : [Couleurs Eblouissantes](../Abilities/Dazzling%20Sunburst.md)
+- Rang 3 : [Lumière brûlante](../Abilities/Burning%20Light.md) ou [Compétence en
+  Défense Supérieure](../Abilities/Skill%20With%20Defense.md)
+- Rang 4 : [Lumière du soleil]{1}
+- Rang 5 : [Disparaître](../Abilities/Disappear.md)
+- Rang 6 : [Lumière vivante](../Abilities/Living%20Light.md) ou [Champ
+  défensif](../Abilities/Defensive%20Field.md)
 
-GM Intrusions: Allies are accidentally dazzled or blinded. Bright flashes draw
-guards.
+Intrusions de la Meneuse : Les alliés sont accidentellement éblouis ou aveuglés.
+Des éclairs lumineux attirent les gardes.
