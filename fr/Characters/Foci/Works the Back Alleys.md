@@ -2,7 +2,7 @@ Works the Back Alleys #Focus #MovementFocus #Core
 
 You make your way unseen, stealing from the wealthy to achieve your ends.
 
-- Tier 1: [Stealth Skills](../Abilities/Stealth%20Skills.md)
+- Rang 1 : [Compétences furtives](../Abilities/Stealth%20Skills.md)
 - Tier 2: [Underworld Contacts](../Abilities/Underworld%20Contacts.md)
 - Tier 3: [Pull a Fast One](../Abilities/Pull%20a%20Fast%20One.md) or [Guild
   Training](../Abilities/Guild%20Training.md)
