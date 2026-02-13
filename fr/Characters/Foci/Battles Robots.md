@@ -1,17 +1,19 @@
-Battles Robots #Focus #StrikerFocus #Core
+Combat les Robots #Focus #StrikerFocus #Core
 
-You excel in battling robots, automatons, and machine entities.
+Vous excellez dans la lutte contre les robots, les automates et les entités
+machines.
 
-- Tier 1: [Machine Vulnerabilities](../Abilities/Machine%20Vulnerabilities.md)
-- Tier 1: [Tech Skills](../Abilities/Tech%20Skills.md)
-- Tier 2: [Defense Against Robots](../Abilities/Defense%20Against%20Robots.md)
-- Tier 2: [Machine Hunting](../Abilities/Machine%20Hunting.md)
-- Tier 3: [Disable Mechanisms](../Abilities/Disable%20Mechanisms.md) or
-  [Surprise Attack](../Abilities/Surprise%20Attack.md)
-- Tier 4: [Robot Fighter](../Abilities/Robot%20Fighter.md)
-- Tier 5: [Drain Power](../Abilities/Drain%20Power.md)
-- Tier 6: [Deactivate Mechanisms](../Abilities/Deactivate%20Mechanisms.md) or
-  [Lethal Damage](../Abilities/Lethal%20Damage.md)
+- Rang 1 : [Compétences techniques](../Abilities/Machine%20Vulnerabilities.md)
+- Rang 1 : [Vulnérabilités des machines](../Abilities/Tech%20Skills.md)
+- Rang 2 : [Défense contre les
+  robots](../Abilities/Defense%20Against%20Robots.md)
+- Rang 2 : [Chasse aux machines](../Abilities/Machine%20Hunting.md)
+- Rang 3 : [Mécanismes de désactivation](../Abilities/Disable%20Mechanisms.md)
+  ou [Attaque surprise](../Abilities/Surprise%20Attack.md)
+- Rang 4 : [Combattant de Robot](../Abilities/Robot%20Fighter.md)
+- Rang 5 : [Drain de Puissance](../Abilities/Drain%20Power.md)
+- Rang 6 : [Désactiver les mécanismes](../Abilities/Deactivate%20Mechanisms.md)
+  ou [Dégâts mortels](../Abilities/Lethal%20Damage.md)
 
-GM Intrusions: The robot explodes upon defeat. Other robots come after the
-character for revenge.
+Intrusions de la Meneuse : Le robot explose lors de sa défaite. D'autres robots
+s'en prennent au personnage pour se venger.
