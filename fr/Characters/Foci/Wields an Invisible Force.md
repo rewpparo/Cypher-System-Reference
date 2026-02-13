@@ -7,7 +7,7 @@ You bend light and manipulate beams of force for offense and defense.
 - Tier 2: [Sharp Senses](../Abilities/Sharp%20Senses.md)
 - Tier 3: [Force Field Barrier](../Abilities/Force%20Field%20Barrier.md) or
   [Multi-Vanish](../Abilities/Multi-Vanish.md)
-- Tier 4: [Invisibility](../Abilities/Invisibility.md)
+- Rang 4 : [Invisibilité](../Abilities/Invisibility.md)
 - Tier 5: [Defensive Field](../Abilities/Defensive%20Field.md)
 - Tier 6: [Concussion](../Abilities/Concussion.md) or [Generate Force
   Field](../Abilities/Generate%20Force%20Field.md)
