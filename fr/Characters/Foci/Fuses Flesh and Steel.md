@@ -1,15 +1,15 @@
-Fuses Flesh and Steel #Focus #TankFocus #Core
+Fusionne la Chair et l'Acier #Focus #TankFocus #Core
 
-Your body is part machine.
+Votre corps est en partie une machine.
 
-- Tier 1: [Enhanced Body](../Abilities/Enhanced%20Body.md)
-- Tier 2: [Interface](../Abilities/Interface.md)
-- Tier 3: [Sensing Package](../Abilities/Sensing%20Package.md) or
-  [Weaponization](../Abilities/Weaponization.md)
-- Tier 4: [Fusion](../Abilities/Fusion.md)
-- Tier 5: [Deep Reserves](../Abilities/Deep%20Reserves.md)
-- Tier 6: [Mind Surge](../Abilities/Mind%20Surge.md) or [Ultra
-  Enhancement](../Abilities/Ultra%20Enhancement.md)
+- Rang 1 : [Corps amélioré](../Abilities/Enhanced%20Body.md)
+- Rang 2 : [Interface](../Abilities/Interface.md)
+- Rang 3 : [Ensemble de détection](../Abilities/Sensing%20Package.md) ou
+  [Armement](../Abilities/Weaponization.md)
+- Rang 4 : [Fusion](../Abilities/Fusion.md)
+- Rang 5 : [Réserves Partagées](../Abilities/Deep%20Reserves.md)
+- Rang 6 : [Sursaut mental](../Abilities/Mind%20Surge.md) ou [Ultra
+  amélioration](../Abilities/Ultra%20Enhancement.md)
 
-GM Intrusions: People in most societies are afraid of someone who is revealed to
-have mechanical parts.
+Intrusions de la Meneuse : Dans la plupart des sociétés, les gens ont peur de
+quelqu'un qui possède des pièces mécaniques.
