@@ -1,414 +1,459 @@
-This section explains how to create characters to play in a Cypher System game.
-This involves a series of decisions that will shape your character, so the more
-you understand what kind of character you want to play, the easier character
-creation will be. The process involves understanding the values of three game
-statistics and choosing three aspects that determine your character’s
-capabilities.
+Ce chapitre vous détaille comment créer des personnages pour jouer à une partie
+de jeux de rôle basée sur le Cypher System. Cela nécessite un ensemble de
+décisions qui vont donner corps à votre personnage, de façon à ce que plus vous
+comprenez le type de personnage vous avez envie de jouer et plus la création du
+personnage sera simple. Le processus implique de bien comprendre les principes
+des trois statistiques (Puissance, Célérité et Intellect) et de choisir trois
+aspects (Réserve, Avantage et Effort) qui vont déterminer les possibilités de
+votre personnage.
 
-# CHARACTER STATS
+# LES CARACTÉRISTIQUES DU PERSONNAGE
 
-Every player character has three defining characteristics, which are typically
-called “statistics” or “stats.” These stats are Might, Speed, and Intellect.
-They are broad categories that cover many different but related aspects of a
-character.
+Chaque personnage joueur a trois caractéristiques bien définies qui sont
+appelées "statistiques" ou "stats". Ces caractéristiques sont Puissance,
+Célérité et Intellect. Ce sont des catégories assez larges qui couvrent des
+aspects différents d'un personnage.
 
-## MIGHT
+## PUISSANCE
 
-Might defines how strong and durable your character is. The concepts of
-strength, endurance, constitution, hardiness, and physical prowess are all
-folded into this one stat. Might isn’t relative to size; instead, it’s an
-absolute measurement. An elephant has more Might than the mightiest tiger, which
-has more Might than the mightiest rat, which has more Might than the mightiest
-spider.
+La puissance définit à quel point votre personnage est fort et résistant. Les
+concepts de force, endurance, constitution, résistance et les prouesses
+physiques sont englobées dans cette stat. La Puissance n'est pas relative à la
+taille ; c'est plutôt une mesure absolue. Un éléphant a plus de Puissance que le
+plus puissant des tigres, qui a plus de Puissance que le plus puissant des rats,
+qui a plus de Puissance que la plus puissante des araignées.
 
-Might governs actions from forcing doors open to walking for days without food
-to resisting disease. It’s also the primary means of determining how much damage
-your character can sustain in a dangerous situation. Physical characters, tough
-characters, and characters interested in fighting should focus on Might.
+La Puissance gouverne les actions comme de force une porte ou de marcher pendant
+des jours sans manger ou de résister à une maladie. C'est aussi le moyen
+principal pour déterminer combien de dommages votre personnage peut supporter
+dans une situation dangereuse. Les personnages physiques, endurants ou plutôt
+orientés dans le combat devraient se concentrer sur la Puissance.
 
-(Might could be thought of as Might/Health because it governs how strong you are
-and how much physical punishment you can take.)
+(La Puissance peut être pensée comme Puissance/Santé car elle contrôle à quel
+point vous être fort et à quel niveau de chocs physiques vous pouvez supporter.)
 
-## SPEED
+## CÉLÉRITÉ
 
-Speed describes how fast and physically coordinated your character is. The stat
-embodies quickness, movement, dexterity, and reflexes. Speed governs such
-divergent actions as dodging attacks, sneaking around quietly, and throwing a
-ball accurately. It helps determine whether you can move farther on your turn.
-Nimble, fast, or sneaky characters will want good Speed stats, as will those
-interested in ranged combat.
+La Célérité décrit à quel point votre personnage est rapide et bien coordonné.
+La caractéristique inclut l'agilité, la vitesse, le mouvement, la dextérité et
+les réflexes. La Célérité contrôle les actions telles qu'éviter les attaques, se
+dissimuler et s'infiltrer, lancer une balle avec précision. Cette
+caractéristique permet de déterminer si vous pouvez vous déplacer rapidement
+dans votre tour. Les personnages agiles, rapides, ou les as de la dissimulation,
+tout comme ceux qui souhaitent exceller en tir à distance, devraient avoir une
+bonne Célérité.
 
-(Speed could be thought of as Speed/Agility because it governs your overall
-swiftness and reflexes.)
+(La Célérité peut être pensée comme de la Vitesse ou de l'Agilité car elle
+contrôle votre célérité et vos réflexes.)
 
 ## INTELLECT
 
-This stat determines how smart, knowledgeable, and likable your character is. It
-includes intelligence, wisdom, charisma, education, reasoning, wit, willpower,
-and charm. Intellect governs solving puzzles, remembering facts, telling
-convincing lies, and using mental powers. Characters interested in communicating
-effectively, being learned scholars, or wielding supernatural powers should
-stress their Intellect stat.
+Cette caractéristique détermine à quel point votre personnage peut être malin,
+éduqué et apprécié. Cela inclut l'intelligence, la sagesse, le charisme,
+l'éducation, le raisonnement, l'esprit, la volonté et le charme. L'intelligence
+contrôle la résolution d'énigmes, se souvenir de faits, énoncer des mensonges
+convaincants, et utiliser des pouvoirs mentaux. Les personnages intéressés dans
+la communication, dans l'érudition, ou dans le contrôle de pouvoirs surnaturels
+devraient avoir une bonne caractéristique d'Intellect.
 
-(Intellect could be thought of as Intellect/Personality because it governs both
-intelligence and charisma.)
+(L'Intellect peut être pensée comme de l'intelligence ou de la Personnalité car
+elle contrôle à la fois l'intelligence et le charisme.)
 
-# POOL, EDGE, AND EFFORT
+# RÉSERVE, AVANTAGE, ET EFFORT
 
-Each of the three stats has two components: Pool and Edge. Your Pool represents
-your raw, innate ability, and your Edge represents knowing how to use what you
-have. A third element ties into this concept: Effort. When your character really
-needs to accomplish a task, you apply Effort.
+Chacune des trois caractéristiques a deux composantes : la Réserve et
+l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre
+Avantage représente à quel point vous savez utiliser ce que vous avez. Un
+troisième composant est lié à ce concept : l'Effort. Quand votre personnage a
+vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
 
-(Your stat Pools, as well as your Effort and Edge, are determined by the
-character type, descriptor, and focus that you choose. Within those guidelines,
-however, you have a lot of flexibility in how you develop your character.)
+(Vos réserve de caractéristique, tout comme votre Effort et Avantage, sont
+déterminés par le type de votre personnage, son descripteur et son focus. A
+partir de ces indications, vous avez toutefois beaucoup de flexibilité pour
+développer votre personnage.)
 
-## POOL
+## RÉSERVE
 
-Your Pool is the most basic measurement of a stat. Comparing the Pools of two
-creatures will give you a general sense of which creature is superior in that
-stat. For example, a character who has a Might Pool of 16 is stronger (in a
-basic sense) than a character who has a Might Pool of 12. Most characters start
-with a Pool of 9 to 12 in most stats—that’s the average range.
+Votre Réserve est la mesure de base d'une caractéristique. Comparer les Réserves
+de deux créatures vous donnera un bon aperçu de quelle créature est supérieure
+dans cette caractéristique. Par exemple, un personnage qui a une Réserve de
+Puissance de 16 est plus costaud qu'un personnage qui a une Réserve de Puissance
+de 12. La plupart des personnages commencent avec une Réserve entre 9 et 12 dans
+la plupart des caractéristiques—c'est la fourchette moyenne.
 
-When your character is injured, sickened, or attacked, you temporarily lose
-points from one of your stat Pools. The nature of the attack determines which
-Pool loses points. For example, physical damage from a sword reduces your Might
-Pool, a poison that makes you clumsy reduces your Speed Pool, and a psionic
-blast reduces your Intellect Pool. You can also spend points from one of your
-stat Pools to decrease a task’s difficulty (see Effort, below). You can rest to
-recover lost points from a stat Pool, and some special abilities or cyphers
-might allow you to recover lost points quickly.
+Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement
+des points de l'une de vos Réserve de caractéristique. La nature de l'attaque
+détermine Réserve perd des points. Par exemple, un dommage physique par une épée
+réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit
+votre Réserve de Célérité, et une attaque psionique réduit votre Réserve
+d'Intellect . Vous pouvez aussi dépenser des points de l'une de vos Réserve pour
+diminuer la difficulté d'une tâche (voir Effort ci-dessous). Vous pouvez vous
+reposer pour récupérer des points perdus dans une des réserves de
+caractéristique et certaines capacités spéciales ou cyphers peuvent vous
+permettre de récupérer des points perdus rapidement.
 
-## EDGE
+## AVANTAGE
 
-Although your Pool is the basic measurement of a stat, your Edge is also
-important. When something requires you to spend points from a stat Pool, your
-Edge for that stat reduces the cost. It also reduces the cost of applying Effort
-to a roll.
+Bien que votre Réserve est la mesure de base d'une caractéristique, votre
+Avantage est aussi important. Quand quelque chose vous demande de dépenser des
+points d'une de vos Réserves, votre Avantage associé à la caractéristique réduit
+ce coût. Cela réduit aussi le coût pour appliquer de l'Effort à un jet de dé.
 
-For example, let’s say you have a mental blast ability, and activating it costs
-1 point from your Intellect Pool. Subtract your Intellect Edge from the
-activation cost, and the result is how many points you must spend to use the
-mental blast. If using your Edge reduces the cost to 0, you can use the ability
-for free.
+Par exemple, disons que vous la capacité d'attaque mentale et que son activation
+coûte 1 point de votre Réserve d'Intellect. Soustrayez votre Avantage
+d'Intellect du coût d'activation et le résultat représente le nombre de points
+que vous devez dépenser pour utiliser d'attaque mentale. Si l'utilisation de
+votre Avantage réduit le coût à zéro, vous pouvez utiliser la capacité
+gratuitement.
 
-Your Edge can be different for each stat. For example, you could have a Might
-Edge of 1, a Speed Edge of 1, and an Intellect Edge of 0. You’ll always have an
-Edge of at least 1 in one stat. Your Edge for a stat reduces the cost of
-spending points from that stat Pool, but not from other Pools. Your Might Edge
-reduces the cost of spending points from your Might Pool, but it doesn’t affect
-your Speed Pool or Intellect Pool. Once a stat’s Edge reaches 3, you can apply
-one level of Effort for free.
+Votre Avantage peut être différent pour chaque caractéristique. Par exemple,
+vous pourriez avoir un Avantage de Puissance de 1, un Avantage de Célérité de 1,
+et un Avantage d'Intellect de 0. Vous aurez toujours un avantage d'au moins 1
+dans une des caractéristiques. Votre Avantage dans une caractéristique réduit le
+coût de la dépense de points dans cette Réserve, mais pas des autres Réserves.
+Votre Avantage de Puissance réduit les coûts dépensés dans votre Réserve de
+Puissance, mais cela n'affecte pas votre Réserve de Célérité ou d'Intellect. Une
+fois que l'Avantage pour une caractéristique atteint 3, vous pouvez appliquer un
+niveau d'Effort gratuitement.
 
-A character who has a low Might Pool but a high Might Edge has the potential to
-perform Might actions consistently better than a character who has a Might Edge
-of 0. The high Edge will let them reduce the cost of spending points from the
-Pool, which means they’ll have more points available to spend on applying
-Effort.
+Un personnage qui a une Réserve de Puissance faible mais un fort Avantage de
+Puissance a le potentiel d'accomplir des actions de Puissance de manière plus
+régulière qu'un personnage qui a une Réserve de Puissance de 0. Un Avantage
+élevé permet de réduire le coût des dépenses de points de la Réserve associée,
+ce qui implique qu'il y a plus de points disponibles pour appliquer de l'Effort.
 
 ## EFFORT
 
-When your character really needs to accomplish a task, you can apply Effort. For
-a beginning character, applying Effort requires spending 3 points from the stat
-Pool appropriate to the action. Thus, if your character tries to dodge an attack
-(a Speed roll) and wants to increase the chance for success, you can apply
-Effort by spending 3 points from your Speed Pool. Effort eases the task by one
-step. This is called applying one level of Effort.
+Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez
+appliquer de l'Effort. Pour un personnage débutant, appliquer de l'Effort
+nécessite de dépenser 3 points de la Réserve de la caractéristique appropriée
+pour l'action. Ainsi, si votre personnage essaie d'éviter une attaque (un jet de
+Célérité) et veut augmenter ses chances de succès, vous pouvez appliquer de
+l'Effort en dépensant 3 points de votre Réserve de Célérité. L'Effort facilite
+une tâche d'un cran. On appelle cela appliquer un niveau d'Effort.
 
-You don’t have to apply Effort if you don’t want to. If you choose to apply
-Effort to a task, you must do it before you attempt the roll—you can’t roll
-first and then decide to apply Effort if you rolled poorly.
+Vous n'êtes pas obligé d'appliquer de l'Effort si vous ne voulez pas. Si vous
+choisissez d'appliquer de l'Effort pour une tâche, vous devez le faire avant de
+jeter le dé—vous ne pouvez pas jeter le dé et décider d'appliquer de l'Effort si
+votre jet de dé n'est pas bon.
 
-Applying more Effort can lower a task’s difficulty further: each additional
-level of Effort eases the task by another step. Applying one level of Effort
-eases the task by one step, applying two levels eases the task by two steps, and
-so on. However, each level of Effort after the first costs only 2 points from
-the stat Pool instead of 3. So applying two levels of Effort costs 5 points (3
-for the first level plus 2 for the second level), applying three levels costs 7
-points (3 plus 2 plus 2), and so on.
+Appliquer de l'Effort peut diminuer la difficulté d'une tâche encore plus :
+chaque niveau d'Effort facilite la tâche d'un cran supplémentaire. Appliquer un
+niveau d'Effort facilite la tâche d'un cran, appliquer deux niveaux facilite la
+tâche de deux crans, et ainsi de suite. Toutefois, chaque niveau d'Effort après
+le premier ne coûte que 2 points de la Réserve de Caractéristique au lieu de 3.
+Ainsi, appliquer deux niveaux d'Effort coûte 5 points (3 pour le premier niveau
+plus 2 pour le second niveau), appliquer trois niveaux coûte 7 points (3 plus 2
+plus 2), et ainsi de suite.
 
-Every character has an Effort score, which indicates the maximum number of
-levels of Effort that can be applied to a roll. A beginning (first-tier)
-character has an Effort of 1, meaning you can apply only one level of Effort to
-a roll. A more experienced character has a higher Effort score and can apply
-more levels of Effort to a roll. For example, a character who has an Effort of 3
-can apply up to three levels of Effort to reduce a task’s difficulty.
+Chaque personnage a un score d'Effort, qui indique le nombre de niveau d'Effort
+maximum qui peut appliquer sur un jet de dé. Un personnage débutant (premier
+rang) a un Effort de 1, ce qui signifie que vous ne pouvez qu'un seul niveau
+d'Effort à un jet de dé. Un personnage plus expérimenté a un score d'Effort plus
+grand et peut appliquer plus de niveaux d'Effort à un jet de dé. Par exemple, un
+personnage qui a un score d'Effort de 3 peut appliquer jusqu'à 3 niveaux
+d'Effort pour réduire la difficulté d'une tâche.
 
-When you apply Effort, subtract your relevant Edge from the total cost of
-applying Effort. For example, let’s say you need to make a Speed roll. To
-increase your chance for success, you decide to apply one level of Effort, which
-will ease the task. Normally, that would cost 3 points from your Speed Pool.
-However, you have a Speed Edge of 2, so you subtract that from the cost. Thus,
-applying Effort to the roll costs only 1 point from your Speed Pool.
+Quand vous appliquez de l'Effort, soustrayez votre Avantage associé au total du
+coût. Par exemple, disons que vous avez besoin de faire un jet de Célérité. Pour
+augmenter votre chance de succès, vous décidez d'appliquer un niveau d'Effort,
+ce qui va faciliter la tâche. Normalement, cela vous coûterait 3 points de votre
+Réserve de Célérité. Toutefois vous avez un Avantage de Célérité de 2, que vous
+soustrayez au coût de l'Effort. Ainsi, l'application de l'Effort pour le jet de
+dé ne coûte qu'un point de votre Réserve de Célérité.
 
-What if you applied two levels of Effort to the Speed roll instead of just one?
-That would ease the task by two steps. Normally, it would cost 5 points from
-your Speed Pool, but after subtracting your Speed Edge of 2, it costs only 3
-points.
+Que se passe-t-il si vous appliquez deux niveaux d'Effort à un jet de Célérité
+au lieu d'un seul ? Cela faciliterait la tâche de deux crans. Normalement, cela
+couterait 5 point de votre Réserve de Célérité, mais après soustraction de votre
+Avantage de Célérité de 2, cela ne coute finalement que 3 points.
 
-Once a stat’s Edge reaches 3, you can apply one level of Effort for free. For
-example, if you have a Speed Edge of 3 and you apply one level of Effort to a
-Speed roll, it costs you 0 points from your Speed Pool. (Normally, applying one
-level of Effort would cost 3 points, but you subtract your Speed Edge from that
-cost, reducing it to 0.)
+Une fois que l'Avantage d'une caractéristique atteint 3, vous pouvez appliquer
+un niveau d'Effort gratuitement. Par exemple, si cous avez un Avantage de
+Célérité de 3 et que vous souhaitez appliquer un niveau d'Effort à un jet de
+Célérité, cela vous coute 0 point de votre Réserve de Célérité. (En situation
+normale, appliquer un niveau d'Effort vous coute 3 points, mais comme vous
+soustrayez votre Avantage de Célérité, cela le réduit à 0.)
 
-Skills and other advantages also ease a task, and you can use them in
-conjunction with Effort. In addition, your character might have special
-abilities or equipment that allow you to apply Effort to accomplish a special
-effect, such as knocking down a foe with an attack or affecting multiple targets
-with a power that normally affects only one.
+Les compétences et autres avantages permettent aussi de faciliter une tâche, et
+vous pouvez les utiliser en conjonction de l'Effort. De plus, votre personnage
+peut avoir des capacités spéciales ou de l'équipement qui vous permet
+d'appliquer de l'Effort pour accomplir un effet spécial, tel que mettre un
+adversaire à terre ou affecter plusieurs cibles avec un pouvoir qui n'en affecte
+qu'un seul normalement.
 
-(When applying Effort to melee attacks, you have the option of spending points
-from either your Might Pool or your Speed Pool. When making ranged attacks, you
-may spend points only from your Speed Pool. This reflects that with melee you
-sometimes use brute force and sometimes use finesse, but with ranged attacks,
-it’s always about careful targeting.)
+(Quand vous appliquez de l'Effort pour des attaques de mêlée, vous avez l'option
+de dépenser des points de soit votre Réserve de Puissance, soit de votre Réserve
+de Célérité. Quand vous faites une attaque à distance, vous ne pouvez dépenser
+que des points de votre Réserve de Célérité. Cela reflète que dans une mêlée
+vous pour quelques fois utiliser la force brute et d'autres fois la rapidité,
+mais pour les attaques à distance c'est toujours une attaque réalisée en visant
+soigneusement.)
 
-## EFFORT AND DAMAGE
+## EFFORT ET DOMMAGES
 
-Instead of applying Effort to ease your attack, you can apply Effort to increase
-the amount of damage you inflict with an attack. For each level of Effort you
-apply in this way, you inflict 3 additional points of damage. This works for any
-kind of attack that inflicts damage, whether a sword, a crossbow, a mind blast,
-or something else.
+Au lieu d'appliquer de l'Effort pour faciliter votre attaque, vous pouvez
+appliquer de l'Effort pour augmenter les dommages infligés par l'attaque. Pour
+chaque niveau d'Effort que vous appliquez ainsi, vous infligez 3 points de
+dommages supplémentaires. Cela fonctionne pour tout type d'attaque qui inflige
+des dommages, que ce soit une épée, une arbalète, une attaque psi, ou autre.
 
-When using Effort to increase the damage of an area attack, such as the
-explosion created by an Adept’s Concussion ability, you inflict 2 additional
-points of damage instead of 3 points. However, the additional points are dealt
-to all targets in the area. Further, even if one or more of the targets resist
-the attack, they still take 1 point of damage.
+Quand vous utilisez de l'Effort pour augmenter des dommages d'attaque de zone,
+comme par l'explosion créée par la Capacité d'Adepte Concussion, vous infligez 2
+points de dommages supplémentaires au lieu de 3 points. Toutefois, ces points
+supplémentaires sont infligés à toutes les cibles de la zone. De plus, même si
+une des cibles résiste à l'attaque, elle subit quand même 1 point de dommage.
 
-## MULTIPLE USES OF EFFORT AND EDGE
+## UTILISATION MULTIPLE DE L'EFFORT ET DE L'AVANTAGE
 
-If your Effort is 2 or higher, you can apply Effort to multiple aspects of a
-single action. For example, if you make an attack, you can apply Effort to your
-attack roll and apply Effort to increase the damage.
+Si votre Effort est de 2 ou plus, vous pouvez appliquer de l'Effort à plusieurs
+aspects d'une simple action. Par exemple, si vous faites une attaque, vous
+pouvez appliquer de l'Effort à votre jet d'attaque et appliquer de l'Effort pour
+augmenter les dommages.
 
-The total amount of Effort you apply can’t be higher than your Effort score. For
-example, if your Effort is 2, you can apply up to two levels of Effort. You
-could apply one level to an attack roll and one level to its damage, two levels
-to the attack and no levels to the damage, or no levels to the attack and two
-levels to the damage.
+La somme totale de l'Effort que vous appliquez ne peut pas être supérieure à
+votre score d'Effort. Par exemple, si votre effort est de 2, vous pouvez
+appliquer jusqu'à 2 niveaux d'Effort. Vous pourriez appliquer un niveau d'Effort
+au jet d'attaque et un niveau d'Effort pour les dommages, deux niveaux d'Effort
+pour l'attaque et aucun Effort pour les dommages, ou aucun Effort pour l'attaque
+et deux niveaux pour les dommages.
 
-You can use Edge for a particular stat only once per action. For example, if you
-apply Effort to a Might attack roll and to your damage, you can use your Might
-Edge to reduce the cost of one of those uses of Effort, not both. If you spend 1
-Intellect point to activate your mind blast and one level of Effort to ease the
-attack roll, you can use your Intellect Edge to reduce the cost of one of those
-things, not both.
+Vous pouvez utiliser l'Avantage pour une caractéristique particulière uniquement
+une fois par action. Par exemple, si vous appliquez, sur la caractéristique de
+Puissance, de l'Effort pour le jet d'attaque et pour les dommages, vous pouvez
+utiliser votre Avantage de Puissance pour réduire le coût d'un des usage de
+l'Effort (jet d'attaque ou dommages), mais pas les deux. Si vous dépensez un
+point d'Intellect pour activer votre attaque psi et un niveau d'Effort pour
+faciliter le jet d'attaque, vous pouvez utiliser votre Avantage d'Intellect pour
+réduire l'un des deux (activation ou attaque), mais pas les deux.
 
-## STAT EXAMPLES
+## EXEMPLES DE L'UTILISATION DES CARACTÉRISTIQUES
 
-A beginning character is fighting a giant rat. The PC stabs their spear at the
-rat, which is a level 2 creature and thus has a target number of 6. The
-character stands atop a boulder and strikes downward at the beast, and the GM
-rules that this helpful tactic is an asset that eases the attack by one step (to
-difficulty 1). That lowers the target number to 3. Attacking with a spear is a
-Might action; the character has a Might Pool of 11 and a Might Edge of 0. Before
-making the roll, they decide to apply a level of Effort to ease the attack. That
-costs 3 points from their Might Pool, reducing the Pool to 8. But the points are
-well spent. Applying the Effort lowers the difficulty from 1 to 0, so no roll is
-needed—the attack automatically succeeds.
+Un personnage débutant est en train de combattre un rat géant. Avec sa lance, le
+PJ essaie de transpercer le rat, qui est une créature de niveau 2 et qui a donc
+un nombre seuil de 6. Le personnage se tient sur un rocher et frappe vers le bas
+sur la bête, et la Meneuse décide que cette tactique est un atout qui facilité
+d'un cran (vers une difficulté de 1 au lieu de 2 initialement). Cela diminue le
+nombre seuil à 3. Attaquer avec une lance est une action de Puissance ; le
+personnage a une Réserve de Puissance de 11 et un avantage de Puissance de 0.
+Avant de faire le jet de dé, le PJ décide d'appliquer un niveau d'Effort pour
+faciliter l'attaque. Cela coûte 3 points de sa Réserve de Puissance, la
+réduisant à 8. Mais les points sont bien dépensés. Appliquer l'Effort diminue la
+difficulté de 1 à 0, et ainsi aucun jet de dé n'est nécessaire---l'attaque
+réussit automatiquement.
 
-Another character is attempting to convince a guard to let them into a private
-office to speak to an influential noble. The GM rules that this is an Intellect
-action. The character is third tier and has an Effort of 3, an Intellect Pool of
-13, and an Intellect Edge of 1. Before making the roll, they must decide whether
-to apply Effort. They can choose to apply one, two, or three levels of Effort,
-or apply none at all. This action is important to them, so they decide to apply
-two levels of Effort, easing the task by two steps. Thanks to their Intellect
-Edge, applying the Effort costs only 4 points from their Intellect Pool (3
-points for the first level of Effort plus 2 points for the second level minus 1
-point for their Edge). Spending those points reduces their Intellect Pool to 9.
-The GM decides that convincing the guard is a difficulty 3 (demanding) task with
-a target number of 9; applying two levels of Effort reduces the difficulty to 1
-(simple) and the target number to 3. The player rolls a d20 and gets an 8.
-Because this result is at least equal to the target number of the task, they
-succeed. However, if they had not applied some Effort, they would have failed
-because their roll (8) would have been less than the task’s original target
-number (9).
+Un autre personnage essaie de convaincre un garde de le laisser entrer dans un
+bureau pour parler avec un noble influent. La Meneuse décide que c'est une
+action d'Intellect. Le personnage est de rang 3 et a un Effort de 3, une Réserve
+d'Intellect de 13 et un Avantage d'Intellect de 1. Avant de jeter le dé, il
+décide si il applique de l'Effort. Il peut choisir d'appliquer un, deux, ou
+trois niveaux d'Effort, ou de ne pas en appliquer du tout. Cette action est
+importante pour lui, et il décide donc d'appliquer deux niveaux d'Effort,
+facilitant la tâche de deux crans. Grâce à son Avantage d'Intellect, appliquer
+l'Effort ne coûte que 4 points de sa Réserve d'Intellect (3 points pour le
+premier niveau d'Effort, plus 2 points pour le second niveau moins 1 point de
+l'Avantage). Dépenser ces points réduit la Réserve d'Intellect à 9. La Meneuse
+décide que convaincre le garde est une tâche de difficulté 3 (Exigeant) avec un
+nombre seuil de 9 ; appliquer deux niveaux d'Effort permet de réduire la
+difficulté à 1 (simple) et un nombre cible de 3. Le Joueur lance un d20 et
+obtient un 8. Comme ce résultat est supérieur ou égal au nombre seuil de la
+tâche, le personnage réussit. Toutefois, si le PJ n'avait pas appliquer
+d'Effort, il aurait échoué car le résultat du dé (8) aurait été inférieur au
+nombre seuil initial (9) de la tâche.
 
-# CHARACTER TIERS
+# RANGS DE PERSONNAGE
 
-Every character starts the game at the first tier. Tier is a measurement of
-power, toughness, and ability. Characters can advance up to the sixth tier. As
-your character advances to higher tiers, you gain more abilities, increase your
-Effort, and can improve a stat’s Edge or increase a stat. Generally speaking,
-even first-tier characters are already quite capable. It’s safe to assume that
-they’ve already got some experience under their belt. This is not a “zero to
-hero” progression, but rather an instance of competent people refining and
-honing their capabilities and knowledge. Advancing to higher tiers is not really
-the goal of Cypher System characters, but rather a representation of how
-characters progress in a story.
+Chaque personnage commence le jeu au premier rang. Le rang est une mesure du
+pouvoir, de résistance et de capacité. Les personnages peuvent avancer jusqu'au
+rang six. Alors que votre personnage passe au rang supérieur, il gagne de
+nouvelles capacités, augmente son Effort et peut améliorer un Avantage de
+caractéristique ou augmenter une caractéristique. En général, même un personnage
+de rang 1 est déjà assez compétent. Il est facile d'imaginer qu'il a déjà vécu
+pas mal d'expériences. Ce n'est pas une progression "de zéro à héro", mais
+plutôt une personne compétente qui affine et polit ses capacités et ses
+connaissances. Progresser vers un rang supérieur n'est pas vraiment l'objectif
+des personnages du Cypher System, mais plutôt une représentation de comment les
+personnages progressent dans l'histoire.
 
-To progress to the next tier, characters earn experience points (XP) by pursuing
-character arcs, going on adventures, and discovering new things—the system is
-about both discovery and exploration, as well as achieving personal goals.
-Experience points have many uses, and one use is to purchase character benefits.
-After your character purchases four character benefits, they advance to the next
-tier. Each benefit costs 4 XP, and you can purchase them in any order, but you
-must purchase one of each kind of benefit (and then advance to the next tier)
-before you can purchase the same benefit again. The four character benefits are
-as follows.
-- Increasing Capabilities: You gain 4 points to add to your stat Pools. You can
-  allocate the points among the Pools however you wish.
-- Moving Toward Perfection: You add 1 to your Might Edge, your Speed Edge, or
-  your Intellect Edge (your choice).
-- Extra Effort: Your Effort score increases by 1.
-- Skills: You become trained in one skill of your choice, other than attacks or
-  defense. As described in Rules of the Game, a character trained in a skill
-  treats the difficulty of a related task as one step lower than normal. The
-  skill you choose for this benefit can be anything you wish, such as climbing,
-  jumping, persuading, or sneaking. You can also choose to be knowledgeable in a
-  certain area of lore, such as history or geology. You can even choose a skill
-  based on your character’s special abilities. For example, if your character
-  can make an Intellect roll to blast an enemy with mental force, you can become
-  trained in using that ability, easing the task of using it. If you choose a
-  skill that you are already trained in, you become specialized in that skill,
-  easing related tasks by two steps instead of one.
+Pour avancer au rang suivant, les personnages gagne des points d'expérience (XP)
+en poursuivant les arcs de personnage, allant en aventure et en découvrant de
+nouvelles choses---le système est vraiment basé sur la découverte et
+l'exploration, tout autant que l'accomplissement d'objectifs personnels. Les
+points d'expérience ont plusieurs usages, dont un est d'acquérir des bénéfices
+au personnage. Une fois que votre personnage a acquis quatre bénéfices de
+personnage, il avance au rang suivant. Chaque bénéfice coûte 4 XP, et vous
+pouvez les acquérir ans n'importe quel ordre, mais vous devez acquérir un de
+chaque type de bénéfice (et ainsi avancer vers le rang suivant) avant de pouvoir
+acquérir le même bénéfice à nouveau. Les quatre bénéfices sont les suivants.
+- Augmenter vos Possibilités : Vous gagnez 4 points à ajouter à vos Réserves de
+  caractéristique. Vous pouvez allouer ces points parmi les Réserves comme vous
+  l'entendez.
+- Avancer vers la Perfection : Vous ajoutez 1 à votre Avantage, votre Avantage
+  de Célérité ou à votre Avantage d'Intellect (à vous de choisir).
+- Extra Effort : Votre score d' Effort augmente de 1.
+- Compétences : Vous devenez entraîné dans une compétence de votre choix, autre
+  que pour l'attaque ou la défense. Comme décrit dans le Chapitre Règles du Jeu,
+  un personnage entraîné dans une compétence traite la difficulté d'une tâche
+  avec un cran de moins que la normale. La compétence que vous choisissez pour
+  ce bénéfice peut être ce que vous voulez, comme escalade, saut, persuasion, ou
+  dissimulation. Vous pouvez aussi choisir d'avoir plus de savoir dans un type
+  de connaissance, telle que l'histoire ou la géologie. Vous pouvez même choisir
+  une compétence basée sur des capacités spéciales de votre personnage. Par
+  exemple, si votre personnage peut faire un jet d'Intellect pour attaquer un
+  ennemi avec sa force mentale, vous pouvez devenir entraîné à utiliser cette
+  capacité, facilitant la tâche de son utilisation. Si vous choisissez une
+  compétence pour laquelle vous êtes déjà entraîné, vous devenez spécialisé dans
+  cette compétence, facilitant les tâches de deux crans au lieu d'un seul.
 
-(Skills are a broad category of things your character can learn and accomplish.
-For a list of sample skills, see below.)
+(Les compétences sont une catégorie un peu floue des choses que votre personnage
+peut apprendre et accomplir. Vous pouvez consulter des exemples de compétences
+ci-après.)
 
-- Other Options: Players can also spend 4 XP to purchase other special options
-  in lieu of gaining a new skill. Selecting any of these options counts as the
-  skill benefit necessary to advance to the next tier. The special options are
-  as follows:
-    - Reduce the cost for wearing armor. This option lowers the Speed cost for
-      wearing armor by 1.
-    - Add 2 to your recovery rolls.
-    - Select a new type-based ability from your tier or a lower tier.
+- Autres Options : Les joueurs peuvent aussi dépenser 4 XP pour acheter d'autres
+  options spéciales à la place d'acquérir une nouvelle compétence. Sélectionner
+  une de ces options compte comme un bénéfice de compétence pour avancer vers le
+  rang suivant. Les options spéciales sont les suivantes :
+    - Réduire le coût de porter une armure. Cette option diminue le coût de
+      Célérité pour porter une armure de 1.
+    - Ajouter 2 à votre jets de récupération.
+    - Sélectionner une nouvelle capacité de votre type de votre rang ou d'un
+      rang inférieur.
 
-# CHARACTER DESCRIPTOR, TYPE, AND FOCUS
+# DESCRIPTEUR DE PERSONNAGE, TYPE ET FOCUS
 
-To create your character, you build a simple statement that describes them. The
-statement takes this form: “I am a \[fill in an adjective here\] \[fill in a
-noun here\] who \[fill in a verb here\].”
+Pour créer votre personnage, vous élaborez une phrase simple qui le décrit.
+Cette phrase, ou proposition, prend la forme suivante :
 
-Thus: “I am an *adjective* *noun* who *verbs*.” For example, you might say, “I
-am a Rugged Warrior who Controls Beasts” or “I am a Charming Explorer who
-Focuses Mind Over Matter.”
+Ainsi : "Je suis un *adjectif* *nom* qui *verbe-complément*". Par exemple, vous
+pourriez énoncer, "Je suis un Robuste Guerrier qui Contrôle les Bêtes Sauvages"
+ou "Je suis un Séduisant Explorateur qui Concentre l'Esprit sur la Matière".
 
-In this sentence, the adjective is called your descriptor.
+Dans cette phrase, l'adjectif est appelé votre descripteur.
 
-The noun is your character type.
+Le nom est le type de votre personnage.
 
-The verb is called your focus.
+Le groupe verbal est appelé votre focus.
 
-Even though character type is in the middle of the sentence, that’s where we’ll
-start this discussion. (Just as in a sentence, the noun provides the
-foundation.)
+Même si le type du personnage est au milieu de la phrase, c'est par lui que nous
+commencerons cette discussion. (Comme dans une phrase dont le sujet fourni la
+fondation.)
 
-Your character type is the core of your character. In some roleplaying games, it
-might be called your character class. Your type helps determine your character’s
-place in the world and relationship with other people in the setting. It’s the
-noun of the sentence “I am an *adjective* *noun* who *verbs*.”
+Le type de votre personnage est son essence. Dans certains jeux de rôle il peut
+être appelé classe de personnage. Votre type aide à déterminer la place de
+personnage dans le monde et la relation avec les autres dans la campagne. C'est
+le nom dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal*".
 
-You can choose from four character types: Warriors, Adepts, Explorers, and
-Speakers.
+Vous pouvez choisir parmi quatre types de personnage : Guerriers, Adeptes,
+Explorateurs, Émissaires.
 
-Your descriptor defines your character—it colors everything you do. Your
-descriptor places your character in the situation (the first adventure, which
-starts the campaign) and helps provide motivation. It’s the adjective of the
-sentence “I am an *adjective* *noun* who *verbs*.”
+Votre descripteur définit votre personnage---il donne une coloration à tout ce
+qu'il fait. Votre descripteur met votre personnage en situation (la première
+aventure qui démarre la campagne) et aide à fournir une motivation. C'est
+l'adjectif dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal**".
 
-Unless your GM says otherwise, you can choose from any of the character
-descriptors.
+A moins que la Meneuse ne dise le contraire, vous pouvez choisir n'importe quel
+descripteur de personnage.
 
-Focus is what your character does best. Focus gives your character specificity
-and provides interesting new abilities that might come in handy. Your focus also
-helps you understand how you relate with the other player characters in your
-group. It’s the verb of the sentence “I am an *adjective* *noun* who *verbs*.”
+Le Focus est ce que votre personnage fait de mieux. Le Focus fournit la
+spécificité de votre personnage et donne de nouvelles capacités qui pourraient
+s'avérer utiles. Votre Focus vous aide aussi à comprendre comment vous associer
+avec d'autres PJ de votre groupe. C'est le groupe verbal dans la phrase "Je suis
+un *adjectif* *nom* qui *groupe verbal*".
 
-There are many character foci. The ones you choose from will probably depend on
-the setting and genre of your game.
+Il y a plusieurs focus de personnage. Celui que vous choisirez dépend
+probablement de la campagne et du genre de la partie.
 
-(You can use the Flavors chapter to slightly modify character types to customize
-them for different genres.)
+(Vous pouvez utiliser le chapitre Préférences pour modifier légèrement les types
+de personnage pour les personnaliser pour différents genres.)
 
-# SPECIAL ABILITIES
+# CAPACITÉS SPÉCIALES
 
-Character types and foci grant PCs special abilities at each new tier. Using
-these abilities usually costs points from your stat Pools; the cost is listed in
-parentheses after the ability name. Your Edge in the appropriate stat can reduce
-the cost of the ability, but remember that you can apply Edge only once per
-action. For example, let’s say an Adept with an Intellect Edge of 2 wants to use
-their Onslaught ability to create a bolt of force, which costs 1 Intellect
-point. They also want to increase the damage from the attack by using a level of
-Effort, which costs 3 Intellect points. The total cost for their action is 2
-points from their Intellect Pool (1 point for the bolt of force, plus 3 points
-for using Effort, minus 2 points from their Edge).
+Les types et focus des personnages donnent aux PJs des capacités spéciales à
+chaque nouveau rang. L'utilisation de ces capacités coûte en général des points
+de vos Réserves de caractéristique ; ce coût est indiqué entre parenthèses après
+le nom de la capacité. Votre Avantage dans la caractéristique associée peut
+réduire ce coût de la capacité, mais souvenez-vous que vous ne pouvez appliquer
+l'Avantage qu'une fois par action. Par exemple, disons qu'un Adepte avec un
+Avantage d'Intellect de 2 souhaite utiliser sa capacité d'Assaut Magique pour
+créer un éclair de force, ce qui coûte 1 point d'Intellect. Il voudrait aussi
+augmenter les dommages de l'attaque en utilisant un niveau d'Effort, ce qui
+coûte 3 points d'Intellect. Le coût total de l'action est de 2 points de Réserve
+d'Intellect (1 point pour l'éclair de force, plus 3 points pour utiliser
+l'Effort, moins 2 points de l'Avantage).
 
-Sometimes the point cost for an ability has a + sign after the number. For
-example, the cost might be given as “2+ Intellect points.” That means you can
-spend more points or more levels of Effort to improve the ability further, as
-explained in the ability description.
+Dans certains cas, le coût pour une capacité a un signe + après le nombre. Par
+exemple, le coût peut être donné comme "2+ Points d'Intellect". Cela signifie
+que vous pouvez dépenser plus de points ou plus de niveaux d'Effort pour
+améliorer la capacité, tel que détaillé dans la description de la capacité.
 
-Many special abilities grant a character the option to perform an action that
-they couldn’t normally do, such as projecting rays of cold or attacking multiple
-foes at once. Using one of these abilities is an action unto itself, and the end
-of the ability’s description says “Action” to remind you. It also might provide
-more information about when or how you perform the action.
+Plusieurs capacités spéciales confèrent au personnage l'option d'accomplir une
+action qu'il ne pourrait pas faire normalement, telle que projeter des éclairs
+de givre ou attaquer plusieurs adversaires à la fois. Utiliser une de ces
+capacités est une action à part entière, et à la fin de la description il est
+indiqué "Action" pour vous le rappeler. Cette description peut aussi vous
+fournir plus d'information sur quand et comment vous pouvez accomplir cette
+action
 
-Some special abilities allow you to perform a familiar action—one that you can
-already do—in a different way. For example, an ability might let you wear heavy
-armor, reduce the difficulty of Speed defense rolls, or add 2 points of fire
-damage to your weapon damage. These abilities are called enablers. Using one of
-these abilities is not considered an action. Enablers either function constantly
-(such as being able to wear heavy armor, which isn’t an action) or happen as
-part of another action (such as adding fire damage to your weapon damage, which
-happens as part of your attack action). If a special ability is an enabler, the
-end of the ability’s description says “Enabler” to remind you.
+Certaines capacités spéciales vous permettent d'accomplir une action
+familière---une action que vous pourriez déjà faire---sous une forme différente.
+Par exemple, une capacité peut vous laisser porter une armure lourde, réduire la
+difficulté d'un jet de défense de Célérité, ou ajouter 2 points aux dommages de
+feu aux dommages de votre arme. Ces capacités sont de la catégorie des
+Facilitateurs. Utiliser l'une de ces capacités n'est pas considéré comme une
+action. Les facilitateurs fonctionnent, soit de manière constante (comme de
+porter une armure lourde, qui n'est pas une action), soit se produisent au cours
+d'une autre action (telle que ajouter des dommages de feu aux dommages de votre
+arme, qui va se produire pendant votre action d'attaque). Si une capacité
+spéciale est un facilitateur, il est indiqué "Facilitateur" à la fin de sa
+description.
 
-Some abilities specify a duration, but you can always end one of your own
-abilities anytime you wish.
+Certaines capacités spécifient une durée, mais vous pouvez interrompre l'une de
+vos propre capacité quand vous le souhaitez.
 
-(Because the Cypher System covers so many genres, not all of the descriptors,
-types, and foci might be available for players. The GM will decide what’s
-available in their particular game and whether anything is modified, and they’ll
-let the players know.)
+(Comme le Cypher System couvre plusieurs genres, tous les descripteurs, types et
+focus peuvent ne pas être disponibles pour les joueurs. La Meneuse décidera ce
+qui l'est dans le cadre qu'elle a défini et si quoique ce soit est modifié elle
+le fera savoir aux joueurs.)
 
 # COMPÉTENCES
 
-Sometimes your character gains training in a specific skill or task. For
-example, your focus might mean that you’re trained in sneaking, in climbing and
-jumping, or in social interactions. Other times, your character can choose a
-skill to become trained in, and you can pick a skill that relates to any task
-you think you might face.
+Quelque fois votre personnage va acquérir un entrainement dans une compétence ou
+une tâche spécifique. Par exemple, votre focus peut signifier que vous avez été
+entrainé dans la dissimulation, dans l'escalade et le saut, ou dans les
+interactions sociales. A d'autres moments, votre personnage pourra choisir une
+compétence pour en devenir entraîné, et vous pourrez sélectionner une compétence
+qui s'associe à toute tâche à laquelle vous pensez que vous aurez à accomplir.
 
-The Cypher System has no definitive list of skills. However, the following list
-offers ideas:
-- Astronomy
-- Balancing
-- Biology
-- Botany
-- Carrying
-- Climbing
-- Computers
-- Deceiving
-- Disguise
-- Escaping
-- Geography
-- Geology
-- Healing
-- History
-- Identifying
+Le Cypher System n'a pas de liste définitive de compétences. Toutefois, la liste
+ci-après donne des idées :
+- Astronomie
+- Équilibriste
+- Biologie
+- Botanique
+- Porter
+- Escalade
+- Ordinateurs
+- Tromper
+- Déguisement
+- S'échapper
+- Géographie
+- Géologie
+- Soigner
+- Histoire
+- Identifier
 - Initiative
 - Intimidation
-- Jumping
-- Leatherworking
-- Lockpicking
-- Machinery
-- Metalworking
+- Sauter
+- Travail du cuir
+- Crochetage
+- Machiniste
+- Travail du métal
 - Perception
 - Persuasion
-- Philosophy
-- Physics
-- Pickpocketing
-- Piloting
-- Repairing
+- Philosophie
+- Physique
+- Pickpocket
+- Piloter
+- Réparer
 - Riding
 - Smashing
 - Sneaking
