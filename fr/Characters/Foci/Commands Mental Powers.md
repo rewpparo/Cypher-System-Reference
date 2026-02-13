@@ -1,15 +1,18 @@
-Commands Mental Powers #Focus #InfluenceFocus #Core
+Commande aux pouvoirs Mentaux #Focus #InfluenceFocus #Core
 
-You have honed the power of your mind to perform amazing psychic deeds.
+Vous avez perfectionné le pouvoir de votre esprit pour accomplir des actes
+psychiques incroyables.
 
-- Tier 1: [Telepathic](../Abilities/Telepathic.md)
-- Tier 2: [Mind Reading](../Abilities/Mind%20Reading.md)
-- Tier 3: [Psychic Burst](../Abilities/Psychic%20Burst.md) or [Psychic
-  Suggestion](../Abilities/Psychic%20Suggestion.md)
-- Tier 4: [Use Senses of Others](../Abilities/Use%20Senses%20of%20Others.md)
-- Tier 5: [Precognition](../Abilities/Precognition.md)
-- Tier 6: [Mind Control](../Abilities/Mind%20Control.md) or [Telepathic
-  Network](../Abilities/Telepathic%20Network.md)
+- Rang 1 : [Télépathique](../Abilities/Telepathic.md)
+- Rang 2 : [Lecture mentale](../Abilities/Mind%20Reading.md)
+- Rang 3 : [Projection Psychique](../Abilities/Psychic%20Burst.md) ou
+  [Suggestion Psychique](../Abilities/Psychic%20Suggestion.md)
+- Rang 4 : [Utiliser les sens des
+  autres](../Abilities/Use%20Senses%20of%20Others.md)
+- Rang 5 : [Précognition](../Abilities/Precognition.md)
+- Rang 6 : [Contrôle mental](../Abilities/Mind%20Control.md) ou [Réseau
+  télépathique](../Abilities/Telepathic%20Network.md)
 
-GM Intrusions: Something glimpsed in the target’s mind is horrifying. A feedback
-loop allows the target to read the character’s mind.
+Intrusions de la Meneuse : Quelque chose aperçu dans l'esprit de la cible est
+horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées
+du personnage.
