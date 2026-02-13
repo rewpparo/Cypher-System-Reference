@@ -8,7 +8,8 @@ air, and punch through doors.
 - Tier 2: [Feat of Strength](../Abilities/Feat%20of%20Strength.md)
 - Tier 3: [Iron Fist](../Abilities/Iron%20Fist.md) or
   [Throw](../Abilities/Throw.md)
-- Tier 4: [Greater Enhanced Might](../Abilities/Greater%20Enhanced%20Might.md)
+- Rang 4 : [Puissance améliorée
+  supérieure](../Abilities/Greater%20Enhanced%20Might.md)
 - Tier 5: [Brute Strike](../Abilities/Brute%20Strike.md)
 - Tier 6: [Greater Enhanced Might](../Abilities/Greater%20Enhanced%20Might.md)
   or [Jump Attack](../Abilities/Jump%20Attack.md)
