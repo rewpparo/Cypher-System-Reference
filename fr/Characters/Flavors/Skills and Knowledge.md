@@ -1,16 +1,17 @@
-Skills and Knowledge #Flavor #Core
+Compétences et Savoir #Flavor #Core
 
-This flavor is for characters in roles that call for more knowledge and more
-real-world application of talent. It’s less flashy and dramatic than
-supernatural powers or the ability to hack apart multiple foes, but sometimes
-expertise or\
-know-how is the real solution to a problem.
+Cette Préférence est destinée aux personnages occupant des rôles qui nécessitent
+plus de connaissances et une plus grande application des talents dans le monde
+réel. C'est moins tape-à-l'œil et dramatique que les pouvoirs surnaturels ou la
+capacité de diviser plusieurs ennemis, mais parfois l'expertise ou le
+savoir-faire est la véritable solution à un problème.
 
-A Warrior flavored with skills and knowledge might be a military engineer. An
-Explorer flavored with skills and knowledge could be a field scientist. A
-Speaker with this flavor might be a teacher.
+Un guerrier doté de compétences et de connaissances pourrait être un ingénieur
+militaire. Un explorateur doté de compétences et de connaissances pourrait être
+un scientifique de terrain. Un orateur avec cette Préférence pourrait être un
+enseignant.
 
-# FIRST-TIER SKILLS AND KNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Premier Rang
 
 - [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
 - [Compétences d'enquête](../Abilities/Investigative%20Skills.md)
@@ -18,30 +19,30 @@ Speaker with this flavor might be a teacher.
 - [Compétences Physiques](../Abilities/Physical%20Skills.md)
 - [Compétences de voyage](../Abilities/Travel%20Skills.md)
 
-# SECOND-TIER SKILLS AND KNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Second Rang
 
 - [Compétence supplémentaire](../Abilities/Extra%20Skill.md)
 - [Maîtrise des outils](../Abilities/Tool%20Mastery.md)
 - [Compréhension](../Abilities/Understanding.md)
 
-# THIRD-TIER SKILLS ANDKNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Troisième Rang
 
 - [Compétences en Gage](../Abilities/Flex%20Skill.md)
 - [Improviser](../Abilities/Improvise.md)
 
-# FOURTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Quatrième Rang
 
 - [Compétences multiples](../Abilities/Multiple%20Skills.md)
 - [Vif d'esprit](../Abilities/Quick%20Wits.md)
 - [Spécialisation de tâche](../Abilities/Task%20Specialization.md)
 
-# FIFTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Cinquième Rang
 
 - [Exercé avec les Armes
   Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
 - [Lire les signes](../Abilities/Read%20the%20Signs.md)
 
-# SIXTH-TIER SKILLS AND KNOWLEDGE ABILITIES
+# Capacités de Compétences et de Savoir de Sixième Rang
 
 - [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
 - [Doué en défense](../Abilities/Skill%20With%20Defense.md)
