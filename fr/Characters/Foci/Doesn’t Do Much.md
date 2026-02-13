@@ -1,19 +1,20 @@
-Doesn’t Do Much #Focus #BasicFocus #Core
+Ne Fait pas Grand Chose #Focus #BasicFocus #Core
 
-You’re a slacker, but you know a little about a lot of things.
+Vous êtes un fainéant, mais vous en savez un peu sur beaucoup de choses.
 
-- Tier 1: [Life Lessons](../Abilities/Life%20Lessons.md)
-- Tier 2: [Totally Chill](../Abilities/Totally%20Chill.md)
-- Tier 3: [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md) or
-  [Improvise](../Abilities/Improvise.md)
-- Tier 4: [Life Lessons](../Abilities/Life%20Lessons.md)
-- Tier 4: [Greater Skill With
-  Defense](../Abilities/Greater%20Skill%20With%20Defense.md)
-- Tier 5: [Greater Enhanced
-  Potential](../Abilities/Greater%20Enhanced%20Potential.md)
-- Tier 6: [Drawing on Life’s
-  Experiences](../Abilities/Drawing%20on%20Life’s%20Experiences.md) or [Quick
-  Wits](../Abilities/Quick%20Wits.md)
+- Rang 1 : [Leçons de vie](../Abilities/Life%20Lessons.md)
+- Rang 2 : [Totalement Chill](../Abilities/Totally%20Chill.md)
+- Rang 3 : [Compétence avec les
+  attaques](../Abilities/Skill%20With%20Attacks.md) ou
+  [Improviser](../Abilities/Improvise.md)
+- Rang 4 : [Leçons de vie](../Abilities/Life%20Lessons.md)
+- Rang 4 : [Compétence en Défense
+  Supérieure](../Abilities/Greater%20Skill%20With%20Defense.md)
+- Rang 5 : [Potentiel amélioré plus
+  important](../Abilities/Greater%20Enhanced%20Potential.md)
+- Rang 6 : [S'appuyer sur les expériences de la
+  vie](../Abilities/Drawing%20on%20Life’s%20Experiences.md) ou [Vif
+  d'esprit](../Abilities/Quick%20Wits.md)
 
-GM Intrusions: New situations are confounding and stressful. Past actions (or
-inactions) come back to haunt the character.
+Intrusions de la Meneuse : Les nouvelles situations sont déroutantes et
+stressantes. Les actions (ou inactions) passées reviennent hanter le personnage.
