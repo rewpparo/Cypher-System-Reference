@@ -2,7 +2,7 @@ Touches the Sky #Focus #Core #SuperHeroes
 
 You can summon storms or break them apart.
 
-- Tier 1: [Hover](../Abilities/Hover.md)
+- Rang 1 : [Survol](../Abilities/Hover.md)
 - Tier 2: [Wind Armor](../Abilities/Wind%20Armor.md)
 - Tier 3: [Bolts of Power](../Abilities/Bolts%20of%20Power.md) or [Storm
   Seed](../Abilities/Storm%20Seed.md)
