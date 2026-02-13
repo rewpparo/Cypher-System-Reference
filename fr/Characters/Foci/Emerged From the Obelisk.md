@@ -1,16 +1,16 @@
-Emerged From the Obelisk #Focus #IrregularFocus #Core
+Est sorti de l'Obélisque #Focus #IrregularFocus #Core
 
-Your body, hard as crystal, gives you a suite of unique abilities, gained after
-an interaction with a floating crystalline obelisk.
+Votre corps, dur comme du cristal, vous confère une suite de capacités uniques,
+acquises après une interaction avec un obélisque cristallin flottant.
 
-- Tier 1: [Crystalline Body](../Abilities/Crystalline%20Body.md)
-- Tier 2: [Hover](../Abilities/Hover.md)
-- Tier 3: [Inhabit Crystal](../Abilities/Inhabit%20Crystal.md) or
-  [Immovable](../Abilities/Immovable.md)
-- Tier 4: [Crystal Lens](../Abilities/Crystal%20Lens.md)
-- Tier 5: [Resonant Frequency](../Abilities/Resonant%20Frequency.md)
-- Tier 6: [Resonant Quake](../Abilities/Resonant%20Quake.md) or [Return to the
-  Obelisk](../Abilities/Return%20to%20the%20Obelisk.md)
+- Rang 1 : [Corps de Cristal](../Abilities/Crystalline%20Body.md)
+- Rang 2 : [Survol](../Abilities/Hover.md)
+- Rang 3 : [Habiter le cristal](../Abilities/Inhabit%20Crystal.md) ou
+  [Immobile](../Abilities/Immovable.md)
+- Rang 4 : [Lentille Cristalline](../Abilities/Crystal%20Lens.md)
+- Rang 5 : [Fréquence de résonance](../Abilities/Resonant%20Frequency.md)
+- Rang 6 : [Tremblement de résonance](../Abilities/Resonant%20Quake.md) ou
+  [Retour à l'Obélisque](../Abilities/Return%20to%20the%20Obelisk.md)
 
-GM Intrusions: Cyphers and artifacts react unexpectedly in the character’s
-hands.
+Intrusions de la Meneuse : Les cyphers et les artefacts réagissent de manière
+inattendue entre les mains du personnage.
