@@ -1,18 +1,19 @@
-Has a Thousand Faces #Focus #Core #SuperHeroes
+A un Millier de Visages #Focus #Core #SuperHeroes
 
-You can change your appearance to look like anyone else.
+Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre.
 
-- Tier 1: [Face Morph](../Abilities/Face%20Morph.md)
-- Tier 1: [Interaction Skills](../Abilities/Interaction%20Skills.md)
-- Tier 2: [Body Morph](../Abilities/Body%20Morph.md)
-- Tier 2: [War Flesh](../Abilities/War%20Flesh.md)
-- Tier 3: [Disguise Other](../Abilities/Disguise%20Other.md) or
-  [Resilience](../Abilities/Resilience.md)
-- Tier 4: [Ageless](../Abilities/Ageless.md)
-- Tier 4: [Think Your Way Out](../Abilities/Think%20Your%20Way%20Out.md)
-- Tier 5: [Memory Becomes Action](../Abilities/Memory%20Becomes%20Action.md)
-- Tier 6: [Divide Your Mind](../Abilities/Divide%20Your%20Mind.md) or [Infer
-  Thoughts](../Abilities/Infer%20Thoughts.md)
+- Rang 1 : [Changement de Visage](../Abilities/Face%20Morph.md)
+- Rang 1 : [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
+- Rang 2 : [Altération corporelle](../Abilities/Body%20Morph.md)
+- Rang 2 : [Chair de guerre](../Abilities/War%20Flesh.md)
+- Rang 3 : [Déguiser un autre](../Abilities/Disguise%20Other.md) ou
+  [Résilience](../Abilities/Resilience.md)
+- Rang 4 : [Sans âge](../Abilities/Ageless.md)
+- Rang 4 : [Pensez à votre sortie](../Abilities/Think%20Your%20Way%20Out.md)
+- Rang 5 : [La mémoire devient une
+  action](../Abilities/Memory%20Becomes%20Action.md)
+- Rang 6 : [Divisez votre esprit](../Abilities/Divide%20Your%20Mind.md) ou
+  [Déduire des pensées](../Abilities/Infer%20Thoughts.md)
 
-GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character
-is someone they know very well.
+Intrusions de la Meneuse : Une partie du déguisement glisse. Un PNJ pense que le
+personnage déguisé est quelqu'un qu'il connaît très bien.
