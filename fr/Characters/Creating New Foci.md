@@ -895,34 +895,35 @@ deux comme options pour le Focus ; le PJ choisira l'un ou l'autre.
 Une option devrait fournir un des bénéfices promis par le thème du focus, une
 qui ne serait pas liée à ceux fournit aux rangs précédents.
 
-The other option should include a method of attack if none has previously been
-granted. Alternatively, if the lower-tier abilities don’t quite get the
-character where they need to be, this option might further increase a capability
-unlocked at a lower tier.
+L'autre option devrait inclure une méthode d'attaque si aucune n'a été déjà
+accordée. D'une autre manière, si les capacités de rang inférieur ne fournit pas
+exactement ce qu'il faut au personnage à ce stade, cette option peut augmenter
+un peu plus une capacité débloquée à un rang inférieur.
 
-Tier 4: Choose a mid-tier ability that grants one of the benefits the focus
-theme promises, one that may not be immediately related to those provided at
-earlier tiers.
+Rang 4 : Choisissez une capacité de rang intermédiaire qui fournit un des
+bénéfices promis par le thème du focus, et qui n'est pas liée aux capacités
+fournies précédemment.
 
-Tier 5: Choose a high-tier ability that grants one of the benefits the focus
-theme promises, one that may not be immediately related to those provided at
-earlier tiers.
+Rang 5 : Choisissez une capacité de rang supérieur qui fournit un des bénéfices
+promis par le thème du focus, et qui n'est pas liée aux capacités fournies aux
+rangs précédents.
 
 Rang 6 : Choisissez deux capacités de rang supérieur. Donnez-les tous les deux
 comme options pour le Focus; le PJ choisira l'un ou l'autre.
 
-One option should grant one of the benefits the focus theme promises, one that
-may not be immediately related to those provided at earlier tiers. However, this
-ability might also provide an ultimate version of a lower-tier ability if a
-mid-tier or low-tier option wasn’t quite sufficient.
+Une option devrait fournir un des bénéfices promis par le thème du focus, une
+qui ne serait pas liée à ceux fournit aux rangs précédents. Toutefois, cette
+capacité pourrait aussi fournir un version supérieure d'une capacité de rang
+inférieur si une option de rang intermédiaire ou de rang inférieur n'était pas
+suffisante.
 
-The other option should provide an alternate method to round out the character
-in a way that doesn’t replicate the first tier 6 option. For instance, if the
-first option provided some kind of attack, this one might be an interaction,
-information-gathering, or healing ability, depending on the focus’s overarching
-theme.
+L'autre option devrait offrir une méthode alternative pour compléter le
+personnage d'une manière qui ne reproduit pas la première option de Rang 6. Par
+exemple, si la première option fournissait une sorte d'attaque, celle-ci
+pourrait être une interaction, une collecte d'informations ou une capacité de
+guérison, en fonction du thème général du focus.
 
-## MOVEMENT EXPERTISE
+## EXPERTISE DES MOUVEMENTS
 
 Foci that prioritize novel forms of movement—in order to excel in combat, escape
 situations most others can’t, move with stealth for purposes of theft or escape,
