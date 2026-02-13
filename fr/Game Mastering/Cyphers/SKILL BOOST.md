@@ -16,12 +16,12 @@ action is attempted. Roll a d100 to determine the action.
 | 31–40 | Speed defense     |
 | 41–50 | Might defense     |
 | 51–60 | Intellect defense |
-| 61–68 | Jumping           |
-| 69–76 | Climbing          |
+| 61–68 | Sauter            |
+| 69–76 | Escalade          |
 | 77–84 | Running           |
 | 85–92 | Nager             |
 | 93–94 | Sneaking          |
-| 95–96 | Balancing         |
+| 95–96 | Équilibriste      |
 | 97–98 | Perceiving        |
-| 99    | Carrying          |
-| 00    | Escaping          |
+| 99    | Porter            |
+| 00    | S'échapper        |
