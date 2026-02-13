@@ -10,7 +10,7 @@ You’re a crack starship pilot.
 - Tier 3: [Ship Footing](../Abilities/Ship%20Footing.md) or [Machine
   Companion](../Abilities/Machine%20Companion.md)
 - Tier 4: [Sensor Array](../Abilities/Sensor%20Array.md)
-- Tier 4: [Enhanced Speed](../Abilities/Enhanced%20Speed.md)
+- Rang 4 : [Célérité améliorée](../Abilities/Enhanced%20Speed.md)
 - Tier 5: [Like the Back of Your
   Hand](../Abilities/Like%20the%20Back%20of%20Your%20Hand.md)
 - Tier 6: [Incomparable Pilot](../Abilities/Incomparable%20Pilot.md)
