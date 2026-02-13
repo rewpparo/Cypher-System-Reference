@@ -1,18 +1,19 @@
-Hunts #Focus #StrikerFocus #Core
+Chasse #Focus #StrikerFocus #Core
 
-You are a stalking hunter who excels at bringing down your selected quarry.
+Vous êtes un chasseur traquant qui excelle à abattre la proie que vous avez
+choisie.
 
-- Tier 1: [Attack Flourish](../Abilities/Attack%20Flourish.md)
-- Tier 1: [Tracker](../Abilities/Tracker.md)
-- Tier 2: [Quarry](../Abilities/Quarry.md)
-- Tier 2: [Sneak](../Abilities/Sneak.md)
-- Tier 3: [Horde Fighting](../Abilities/Horde%20Fighting.md) or [Sprint and
-  Grab](../Abilities/Sprint%20and%20Grab.md)
-- Tier 4: [Surprise Attack](../Abilities/Surprise%20Attack.md)
-- Tier 5: [Hunter’s Drive](../Abilities/Hunter’s%20Drive.md)
-- Tier 6: [Greater Skill With
-  Attacks](../Abilities/Greater%20Skill%20With%20Attacks.md) or [Multiple
-  Quarry](../Abilities/Multiple%20Quarry.md)
+- Rang 1 : [Attaque avec style](../Abilities/Attack%20Flourish.md)
+- Rang 1 : [Pisteur](../Abilities/Tracker.md)
+- Rang 2 : [Proie](../Abilities/Quarry.md)
+- Rang 2 : [Furtif](../Abilities/Sneak.md)
+- Rang 3 : [Combats de Horde](../Abilities/Horde%20Fighting.md) ou [Court et
+  Attrape](../Abilities/Sprint%20and%20Grab.md)
+- Rang 4 : [Attaque surprise](../Abilities/Surprise%20Attack.md)
+- Rang 5 : [Volonté du Chasseur](../Abilities/Hunter’s%20Drive.md)
+- Rang 6 : [Compétence en Attaque
+  Supérieure](../Abilities/Greater%20Skill%20With%20Attacks.md) ou [Multiples
+  Proies](../Abilities/Multiple%20Quarry.md)
 
-GM Intrusions: The quarry notices the character. The quarry isn’t as vulnerable
-as it seemed.
+Intrusions de la Meneuse : La Proie remarque le personnage. La carrière n'est
+pas aussi vulnérable qu'il y paraît.
