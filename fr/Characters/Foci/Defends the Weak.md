@@ -1,17 +1,17 @@
-Defends the Weak #Focus #SupportFocus #Core
+Défend les Faibles #Focus #SupportFocus #Core
 
-You stand up for the helpless, the weak, and the unprotected.
+Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
 
-- Tier 1: [Courageous](../Abilities/Courageous.md)
-- Tier 1: [Warding Shield](../Abilities/Warding%20Shield.md)
-- Tier 2: [Devoted Defender](../Abilities/Devoted%20Defender.md)
-- Tier 2: [Insight](../Abilities/Insight.md)
-- Tier 3: [Dual Wards](../Abilities/Dual%20Wards.md) or [True
-  Guardian](../Abilities/True%20Guardian.md)
-- Tier 4: [Combat Challenge](../Abilities/Combat%20Challenge.md)
-- Tier 5: [Willing Sacrifice](../Abilities/Willing%20Sacrifice.md)
-- Tier 6: [Resuscitate](../Abilities/Resuscitate.md) or [True
-  Defender](../Abilities/True%20Defender.md)
+- Rang 1 : [Courageux](../Abilities/Courageous.md)
+- Rang 1 : [Bouclier de protection](../Abilities/Warding%20Shield.md)
+- Rang 2 : [Véritable défenseur](../Abilities/Devoted%20Defender.md)
+- Rang 2 : [Perspicacité](../Abilities/Insight.md)
+- Rang 3 : [Double protection](../Abilities/Dual%20Wards.md) ou [Véritable
+  Gardien](../Abilities/True%20Guardian.md)
+- Rang 4 : [Défi de combat](../Abilities/Combat%20Challenge.md)
+- Rang 5 : [Sacrifice volontaire](../Abilities/Willing%20Sacrifice.md)
+- Rang 6 : [Réanimer]{ 1} ou [Véritable
+  défenseur](../Abilities/True%20Defender.md)
 
-GM Intrusions: A character focused on protecting others may periodically leave
-themselves vulnerable to attacks.
+Intrusions de la Meneuse : Un personnage soucieux de protéger les autres peut
+périodiquement se rendre vulnérable aux attaques.
