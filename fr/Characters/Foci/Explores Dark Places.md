@@ -1,16 +1,18 @@
-Explores Dark Places #Focus #ExplorationFocus #Core
+Explore des Endroits Sombres #Focus #ExplorationFocus #Core
 
-You’re the archetypal treasure hunter, scavenger, and finder of lost things.
+Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur
+d'objets perdus.
 
-- Tier 1: [Superb Explorer](../Abilities/Superb%20Explorer.md)
-- Tier 2: [Superb Infiltrator](../Abilities/Superb%20Infiltrator.md)
-- Tier 2: [Eyes Adjusted](../Abilities/Eyes%20Adjusted.md)
-- Tier 3: [Nightstrike](../Abilities/Nightstrike.md) or [Slippery
-  Customer](../Abilities/Slippery%20Customer.md)
-- Tier 4: [Hard-Won Resilience](../Abilities/Hard-Won%20Resilience.md)
-- Tier 5: [Dark Explorer](../Abilities/Dark%20Explorer.md)
-- Tier 6: [Blinding Attack](../Abilities/Blinding%20Attack.md) or [Embraced by
-  Darkness](../Abilities/Embraced%20by%20Darkness.md)
+- Rang 1 : [Explorateur Confirmé](../Abilities/Superb%20Explorer.md)
+- Rang 2 : [Infiltrateur Confirmé](../Abilities/Superb%20Infiltrator.md)
+- Rang 2 : [Yeux ajustés](../Abilities/Eyes%20Adjusted.md)
+- Rang 3 : [Frappe nocturne](../Abilities/Nightstrike.md) ou [Client
+  Fuyant](../Abilities/Slippery%20Customer.md)
+- Rang 4 : [Résilience durement gagnée](../Abilities/Hard-Won%20Resilience.md)
+- Rang 5 : [Explorateur des ténèbres](../Abilities/Dark%20Explorer.md)
+- Rang 6 : [Attaque aveuglante](../Abilities/Blinding%20Attack.md) ou [Fusionne
+  avec les Ténèbres](../Abilities/Embraced%20by%20Darkness.md)
 
-GM Intrusions: Possessions fall out of pockets or bags in the dark; maps get
-lost; information gained fails to include an important detail.
+Intrusions de la Meneuse : Les biens tombent des poches ou des sacs dans le noir
+; les cartes se perdent ; les informations obtenues n'incluent pas un détail
+important.
