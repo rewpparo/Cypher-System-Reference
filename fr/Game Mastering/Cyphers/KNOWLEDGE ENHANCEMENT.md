@@ -22,5 +22,5 @@ presenting a great opportunity for GM intrusion.)
 | 76–80 | Speed defense                                                              |
 | 81–85 | Intellect defense                                                          |
 | 86–90 | Nager                                                                      |
-| 91–95 | Riding                                                                     |
-| 96–00 | Sneaking                                                                   |
+| 91–95 | Chevaucher                                                                 |
+| 96–00 | S'infiltrer                                                                |
