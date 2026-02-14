@@ -123,7 +123,7 @@ comme les essaims d'insecte, les esprits conjurés, etc.
 
 **Rang Intermédiaire : **
 - [Yeux de bête](Abilities/Beast%20Eyes.md)
-- [Appeller un essaim](Abilities/Call%20Swarm.md)
+- [Appeler un essaim](Abilities/Call%20Swarm.md)
 - [Disciple expert](Abilities/Expert%20Follower.md)
 - [Compagnon explorateur](Abilities/Fellow%20Explorer.md)
 - [Main ardente du destin](Abilities/Fiery%20Hand%20of%20Doom.md)
