@@ -1,22 +1,23 @@
-Loves the Void #Focus #Core
+Aime le Vide #Focus #Core
 
-When it’s just you, your spacesuit, and the panorama of stars wheeling out
-forever and always, you are at peace.
+Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles
+qui défilent pour toujours et à jamais, vous êtes en paix.
 
-- Type Swap Option: [Have Spacesuit, Will
-  Travel](../Abilities/Have%20Spacesuit,%20Will%20Travel.md)
-- Tier 1: [Vacuum Skilled](../Abilities/Vacuum%20Skilled.md)
-- Tier 1: [Microgravity Adept](../Abilities/Microgravity%20Adept.md)
+- Option d'échange de type : Ayez une Combinaison Spatiale, Vous Voyagerez
+- Rang 1 : [Compétences sous Vide Spatial](../Abilities/Vacuum%20Skilled.md)
+- Rang 1 : [Adepte de la microgravité](../Abilities/Microgravity%20Adept.md)
 - Rang 2 : [Avantage de Célérité
   Amélioré](../Abilities/Enhanced%20Speed%20Edge.md)
-- Tier 2: [Enhanced Physique](../Abilities/Enhanced%20Physique.md)
-- Tier 3: [Space Fighting](../Abilities/Space%20Fighting.md) or [Fusion
-  Armor](../Abilities/Fusion%20Armor.md)
-- Tier 4: [Silent As Space](../Abilities/Silent%20As%20Space.md)
-- Tier 4: [Push Off and Throw](../Abilities/Push%20Off%20and%20Throw.md)
-- Tier 5: [Microgravity Avoidance](../Abilities/Microgravity%20Avoidance.md)
-- Tier 6: [Weightless Shot](../Abilities/Weightless%20Shot.md) or [Reactive
-  Field](../Abilities/Reactive%20Field.md)
+- Rang 2 : [Physique amélioré](../Abilities/Enhanced%20Physique.md)
+- Rang 3 : [Combat spatial](../Abilities/Space%20Fighting.md) ou [Armure
+  Corporelle](../Abilities/Fusion%20Armor.md)
+- Rang 4 : [Silencieux comme l'espace](../Abilities/Silent%20As%20Space.md)
+- Rang 4 : [Sauter en Microgravité](../Abilities/Push%20Off%20and%20Throw.md)
+- Rang 5 : [Evitement par
+  microgravité](../Abilities/Microgravity%20Avoidance.md)
+- Rang 6 : [Tir en apesanteur](../Abilities/Weightless%20Shot.md) ou [Champ
+  réactif](../Abilities/Reactive%20Field.md)
 
-GM Intrusions: Spacesuits develop glitches. Air refill cartridges sometimes
-misreport capacity. Micrometeorites are common in space.
+Intrusions de la Meneuse : Les combinaisons spatiales développent des problèmes.
+Les cartouches de recharge d'air indiquent parfois mal leur capacité. Les
+micrométéorites sont courantes dans l'espace.
