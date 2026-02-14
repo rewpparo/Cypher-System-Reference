@@ -1,20 +1,20 @@
-Is Licensed to Carry #Focus #StrikerFocus #Core
+A le Droit de Porter une Arme à Feu #Focus #StrikerFocus #Core
 
-You carry a gun and you know how to use it in a fight.
+Vous portez une arme à feu et vous savez comment l'utiliser lors d'un combat.
 
-(Although Is Licensed to Carry is designed with modern firearms in mind, it
-could apply to flintlock weapons, futuristic laser blasters, or other ranged
-weapons.)
+(Bien que A le Droit de Porter une Arme à Feu soit conçu pour les armes à feu
+modernes, il pourrait s'appliquer aux armes à silex, aux blasters laser
+futuristes ou à d'autres armes à distance.)
 
-- Tier 1: [Gunner](../Abilities/Gunner.md)
-- Tier 1: [Practiced With Guns](../Abilities/Practiced%20With%20Guns.md)
-- Tier 2: [Careful Shot](../Abilities/Careful%20Shot.md)
-- Tier 3: [Trained Gunner](../Abilities/Trained%20Gunner.md) or [Damage
-  Dealer](../Abilities/Damage%20Dealer.md)
-- Tier 4: [Snap Shot](../Abilities/Snap%20Shot.md)
-- Tier 5: [Arc Spray](../Abilities/Arc%20Spray.md)
-- Tier 6: [Special Shot](../Abilities/Special%20Shot.md) or [Lethal
-  Damage](../Abilities/Lethal%20Damage.md)
+- Rang 1 : [Tireur](../Abilities/Gunner.md)
+- Rang 1 : [Pratique des armes à feu](../Abilities/Practiced%20With%20Guns.md)
+- Rang 2 : [Tir prudent](../Abilities/Careful%20Shot.md)
+- Rang 3 : [Tireur entraîné](../Abilities/Trained%20Gunner.md) ou [Augmente les
+  dommages](../Abilities/Damage%20Dealer.md)
+- Rang 4 : [Tir Rapide](../Abilities/Snap%20Shot.md)
+- Rang 5 : [Tirs en éventail](../Abilities/Arc%20Spray.md)
+- Rang 6 : [Tir Spécial](../Abilities/Special%20Shot.md) ou [Dégâts
+  mortels](../Abilities/Special%20Shot.md)
 
-GM Intrusions: Misfire or jam! The attack fails and the action is lost, plus an
-additional action is needed to fix the problem.
+Intrusions de la Meneuse : Ratés ou confiture ! L'attaque échoue et l'action est
+perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
