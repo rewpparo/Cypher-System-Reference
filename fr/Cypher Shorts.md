@@ -77,7 +77,7 @@ following abilities:
 - Trained in two of the following: climbing, jumping, running, swimming
 - Add +2 to recovery rolls
 
-### Sneaking
+### S'infiltrer
 
 This character might be called a Thief, a Scout, a Street Rat, or a Slacker
 (just to name a few), depending on the situation. Choose two of the following
