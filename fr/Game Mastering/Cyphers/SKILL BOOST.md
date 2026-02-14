@@ -20,7 +20,7 @@ action is attempted. Roll a d100 to determine the action.
 | 69–76 | Escalade          |
 | 77–84 | Running           |
 | 85–92 | Nager             |
-| 93–94 | Sneaking          |
+| 93–94 | S'infiltrer       |
 | 95–96 | Équilibriste      |
 | 97–98 | Perceiving        |
 | 99    | Porter            |
