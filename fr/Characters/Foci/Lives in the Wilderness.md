@@ -1,19 +1,21 @@
-Lives in the Wilderness #Focus #TankFocus #Core
+Vit dans la Nature Sauvage #Focus #TankFocus #Core
 
-You can survive in badlands where others perish.
+Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
 
-- Tier 1: [Wilderness Life](../Abilities/Wilderness%20Life.md)
-- Tier 1: [Enhanced Might](../Abilities/Enhanced%20Might.md)
-- Tier 2: [Living Off the Land](../Abilities/Living%20Off%20the%20Land.md)
-- Tier 2: [Wilderness Explorer](../Abilities/Wilderness%20Explorer.md)
-- Tier 3: [Animal Senses and
-  Sensibilities](../Abilities/Animal%20Senses%20and%20Sensibilities.md) or
-  [Wilderness Encouragement](../Abilities/Wilderness%20Encouragement.md)
-- Tier 4: [Wilderness Awareness](../Abilities/Wilderness%20Awareness.md)
-- Tier 5: [The Wild Is on Your
-  Side](../Abilities/The%20Wild%20Is%20on%20Your%20Side.md)
-- Tier 6: [One With the Wild](../Abilities/One%20With%20the%20Wild.md) or [Wild
-  Camouflage](../Abilities/Wild%20Camouflage.md)
+- Rang 1 : [Vie en pleine nature](../Abilities/Wilderness%20Life.md)
+- Rang 1 : [Puissance Améliorée](../Abilities/Enhanced%20Might.md)
+- Rang 2 : [Vivre de la terre](../Abilities/Living%20Off%20the%20Land.md)
+- Rang 2 : [Explorateur de la Nature](../Abilities/Wilderness%20Explorer.md)
+- Rang 3 : [Sens et sensibilités
+  animales](../Abilities/Animal%20Senses%20and%20Sensibilities.md) ou
+  [Encouragement de la Nature](../Abilities/Wilderness%20Encouragement.md)
+- Rang 4 : [Sensibilisation à la nature
+  sauvage](../Abilities/Wilderness%20Awareness.md)
+- Rang 5 : [La nature est de votre
+  côté](../Abilities/The%20Wild%20Is%20on%20Your%20Side.md)
+- Rang 6 : [Faire Corps avec la Nature](../Abilities/One%20With%20the%20Wild.md)
+  ou [Camouflage sauvage](../Abilities/Wild%20Camouflage.md)
 
-GM Intrusions: People in cities and towns sometimes disparage those who look
-(and smell) like they live in the wilds, as if they were ignorant or barbaric.
+Intrusions de la Meneuse : Les habitants des villes et des villages dénigrent
+parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature,
+comme s'ils étaient ignorants ou barbares.
