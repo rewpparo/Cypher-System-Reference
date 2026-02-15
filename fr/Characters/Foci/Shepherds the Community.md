@@ -1,18 +1,20 @@
-Shepherds the Community #Focus #SupportFocus #Core
+Guide la Communauté #Focus #SupportFocus #Core
 
-You keep the place where you live safe from all danger.
+Vous gardez le lieu où vous vivez à l'abri de tout danger.
 
-- Tier 1: [Community Knowledge](../Abilities/Community%20Knowledge.md)
-- Tier 1: [Community Activist](../Abilities/Community%20Activist.md)
-- Tier 2: [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
-- Tier 3: [Shepherd’s Fury](../Abilities/Shepherd’s%20Fury.md) or [Skill With
-  Defense](../Abilities/Skill%20With%20Defense.md)
-- Tier 4: [Greater Enhanced
-  Potential](../Abilities/Greater%20Enhanced%20Potential.md)
+- Rang 1 : [Connaissance de la
+  communauté](../Abilities/Community%20Knowledge.md)
+- Rang 1 : [Activiste communautaire](../Abilities/Community%20Activist.md)
+- Rang 2 : [Compétence avec les
+  attaques](../Abilities/Skill%20With%20Attacks.md)
+- Rang 3 :[Fureur du berger](../Abilities/Skill%20With%20Defense.md) ou
+  [Compétence en Défense](../Abilities/Skill%20With%20Defense.md)
+- Rang 4 : [Potentiel amélioré plus
+  important](../Abilities/Greater%20Enhanced%20Potential.md)
 - Rang 5 : [Esquive](../Abilities/Evasion.md)
-- Tier 6: [Greater Skill With
-  Attacks](../Abilities/Greater%20Skill%20With%20Attacks.md) or [Protective
-  Wall](../Abilities/Protective%20Wall.md)
+- Rang 6 : [Compétence en Attaque
+  Supérieure](../Abilities/Greater%20Skill%20With%20Attacks.md) ou [Mur de
+  protection](../Abilities/Protective%20Wall.md)
 
-GM Intrusions: People in the community misunderstand the character’s motives.
-Rivals try to oust the character.
+Intrusions de la Meneuse : Les membres de la communauté comprennent mal les
+motivations du personnage. Les rivaux tentent d'évincer le personnage.
