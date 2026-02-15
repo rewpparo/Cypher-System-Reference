@@ -946,104 +946,110 @@ la téléportation, blessant le personnage.
 
 #### SCULPTS HARD LIGHT
 
-You create physical objects out of hard light that you can use for offense and
-defense.
+Vous créez des objets physiques à partir d’une lumière solide que vous pouvez
+utiliser à des fins offensives et défensives.
 
 Tier 1: Automatic Glow Tier 1: Temporary Light Tier 2: Entangling Force Tier 3:
 Harder Light or Sculpt Light Tier 4: Greater Enhanced Intellect Tier 5: Improved
 Sculpt Light Tier 6: Defensive Field or Flight
 
-GM Intrusions: A hard light object disappears early. A hard light object cannot
-affect a certain creature or color.
+Intrusions de la Meneuse : Un objet à lumière solide disparaît prématurément. Un
+objet à lumière solide ne peut pas affecter une certaine créature ou couleur.
 
 #### SHRINKS TO MINUTE SIZE
 
-You can shrink down to the size of a bug and, with enough experience, even
-smaller.
+Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience,
+encore plus petit.
 
 Tier 1: Shrink Tier 1: Beneath Notice Tier 2: Smaller Tier 2: Advantages of
 Being Small Tier 3: Enlarge or Quick Switch Tier 4: Small Flight Tier 5: Shrink
 Others Tier 6: Bigger or Tiny
 
-GM Intrusions: A creature thinks the small character is potential food. The
-small character gets trapped in a tiny space or under a falling object.
+Intrusions de la Meneuse : Une créature pense que le petit personnage est de la
+nourriture potentielle. Le petit personnage se retrouve coincé dans un espace
+minuscule ou sous un objet qui tombe.
 
-A character who Shrinks to Minute Size who chooses to learn abilities like
-Enlarge will never be quite as big as one who Grows to Towering Heights, but
-they can enjoy the advantages of being big or small as needed.
+Un personnage qui Se Réduit à une Taille Infime et qui choisit d'apprendre des
+capacités comme Agrandir ne sera jamais aussi grand que celui qui Grandit
+Jusqu'au Ciel, mais il peut profiter des Avantages d'être grand ou petit selon
+ses besoins.
 
 #### SOARS ON AMAZING WINGS
 
-Many superheroes can fly, and some even have wings. You can use your wings for
-movement, attacks, and defense.
+De nombreux super-héros peuvent voler et certains ont même des ailes. Vous
+pouvez utiliser vos ailes pour vous déplacer, attaquer et vous défendre.
 
 Tier 1: Hover Tier 1: Flight Exertion Tier 2: Wing Weapons Tier 3: Acrobatic
 Attack or Flying Companion Tier 4: Hard to Hit Tier 5: Up to Speed Tier 6: Hard
 Target or Defense Master
 
-GM Intrusions: A wing gets hurt or restrained, causing the character to fall.
-Flying high makes the character an obvious target for an unexpected foe.
+Intrusions de la Meneuse : Une aile est blessée ou retenue, provoquant la chute
+du personnage. Voler haut fait du personnage une cible évidente pour un ennemi
+inattendu.
 
 #### STRETCHES
 
-Your body is elastic and rubbery, able to stretch to great lengths and compress
-when struck.
+Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grandes
+longueurs et de se comprimer lorsqu’il est frappé.
 
 Tier 1: Contortionist Tier 1: Far Step Tier 2: Elastic Grip Tier 2: Safe Fall
 Tier 3: Bypass Barrier or Misdirect Tier 4: Resilience Tier 5: Free to Move Tier
 6:Break the Ranks or Not Dead Yet
 
-GM Intrusions: An attack or effect interferes with the character’s elasticity. A
-stretched limb becomes overstressed and weak.
+Intrusions de la Meneuse : Une attaque ou un effet perturbe l'élasticité du
+personnage. Un membre étiré devient trop sollicité et faible.
 
 #### TAKES ANIMAL SHAPE
 
-You can transform yourself into an animal.
+Vous pouvez vous transformer en animal.
 
 Tier 1: Animal Shape Tier 2: Communication Tier 2: Soothe the Savage Tier 3:
 Bigger Animal Shape or Greater Beast Form Tier 4: Animal Scrying Tier 5: Hard to
 Kill Tier 6: Blurring Speed or Lend Animal Shape
 
-GM Intrusions: The character unexpectedly changes form. An NPC is frightened by
-or aggressive toward the shapeshifter. The transformation takes longer than
-expected.
+Intrusions de la Meneuse:** Le personnage change de forme de manière inattendue.
+Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation
+prend plus de temps que prévu.
 
-Greater Beast Form applies to using Animal Shape.
+Forme de bête Supérieure s'applique en utilisant Forme animale.
 
 #### TOUCHES THE SKY
 
-You can summon storms or break them apart.
+Vous pouvez invoquer des tempêtes ou les briser.
 
 Tier 1: Hover Tier 2: Wind Armor Tier 3: Bolts of Power or Storm Seed Tier 4:
 Windrider Tier 5: Cold Burst Tier 6: Control Weather or Wind Chariot
 
-GM Intrusions: An ally is accidentally struck by a fork of lightning. An
-unexpected grounding effect inflicts damage. The weather is seeded by a much
-smaller effect, and a storm grows out of control.
+Intrusions de la Meneuse : Un allié est accidentellement frappé par une
+fourchette de foudre. Un effet d'échouement inattendu inflige des dégâts. Le
+temps est influencé par un effet beaucoup plus faible et une tempête devient
+incontrôlable.
 
 #### WIELDS AN ENCHANTED WEAPON
 
-You have a weapon with strange abilities, and your knowledge of its powers has
-allowed you to create a unique style of combat with it.
+Vous possédez une arme aux capacités étranges, et votre connaissance de ses
+pouvoirs vous a permis de créer avec elle un style de combat unique.
 
 Tier 1: Enchanted Weapon Tier 1: Innate Power Tier 1: Charge Weapon Tier 2:
 Power Crash Tier 3: Rapid Attack or Throw Enchanted Weapon Tier 4: Defending
 Weapon Tier 5: Enchanted Movement Tier 6: Deadly Strike or Spin Attack
 
-GM Intrusions: A weapon breaks or is dropped. The character loses their
-connection to the weapon until they use an action to reestablish the attunement.
-The weapon’s energy discharges in an unexpected way.
+Intrusions de la Meneuse : Une arme se brise ou tombe. Le personnage perd sa
+connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir
+l'harmonisation. L'énergie de l'arme se décharge de manière inattendue.
 
 #### WIELDS INVISIBLE FORCE
 
-You bend light and manipulate beams of force for offense and defense.
+Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et la
+défense.
 
 Tier 1: Vanish Tier 2: Entangling Force Tier 2: Sharp Senses Tier 3: Force Field
 Barrier or Multi-Vanish Tier 4: Invisibility Tier 5: Defensive Field Tier 6:
 Concussion or Generate Force Field
 
-GM Intrusions: Invisibility partially fades, revealing the character’s presence.
-A force field is pierced by an unusual or unexpected attack.
+Intrusions de la Meneuse : L'invisibilité s'estompe partiellement, révélant la
+présence du personnage. Un champ de force est transpercé par une attaque
+inhabituelle ou inattendue.
 
 ### NEW ABILITIES
 
