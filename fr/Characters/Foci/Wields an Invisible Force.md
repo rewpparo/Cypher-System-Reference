@@ -1,16 +1,18 @@
-Wields an Invisible Force #Focus #Core #SuperHeroes
+Contrôle une Force Invisible #Focus #Core #SuperHeroes
 
-You bend light and manipulate beams of force for offense and defense.
+Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et la
+défense.
 
-- Tier 1: [Vanish](../Abilities/Vanish.md)
-- Tier 2: [Entangling Force](../Abilities/Entangling%20Force.md)
-- Tier 2: [Sharp Senses](../Abilities/Sharp%20Senses.md)
-- Tier 3: [Force Field Barrier](../Abilities/Force%20Field%20Barrier.md) or
-  [Multi-Vanish](../Abilities/Multi-Vanish.md)
+- Rang 1 : [Disparaître](../Abilities/Vanish.md)
+- Rang 2 : [Force enchevêtrante](../Abilities/Entangling%20Force.md)
+- Rang 2 : [Sens aiguisés](../Abilities/Sharp%20Senses.md)
+- Rang 3 : [Barrière de champ de force](../Abilities/Force%20Field%20Barrier.md)
+  ou [Invisibilité Multiple](../Abilities/Multi-Vanish.md)
 - Rang 4 : [Invisibilité](../Abilities/Invisibility.md)
-- Tier 5: [Defensive Field](../Abilities/Defensive%20Field.md)
-- Tier 6: [Concussion](../Abilities/Concussion.md) or [Generate Force
-  Field](../Abilities/Generate%20Force%20Field.md)
+- Rang 5 : [Champ défensif](../Abilities/Defensive%20Field.md)
+- Rang 6 : [Concussion](../Abilities/Concussion.md) ou [Générer un champ de
+  force](../Abilities/Generate%20Force%20Field.md)
 
-GM Intrusions: Invisibility partially fades, revealing the character’s presence.
-A force field is pierced by an unusual or unexpected attack.
+Intrusions de la Meneuse : L'invisibilité s'estompe partiellement, révélant la
+présence du personnage. Un champ de force est transpercé par une attaque
+inhabituelle ou inattendue.
