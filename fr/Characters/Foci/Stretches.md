@@ -1,18 +1,18 @@
-Stretches #Focus #Core #SuperHeroes
+S'Etire #Focus #Core #SuperHeroes
 
-Your body is elastic and rubbery, able to stretch to great lengths and compress
-when struck.
+Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grandes
+longueurs et de se comprimer lorsqu’il est frappé.
 
-- Tier 1: [Contortionist](../Abilities/Contortionist.md)
-- Tier 1: [Far Step](../Abilities/Far%20Step.md)
-- Tier 2: [Elastic Grip](../Abilities/Elastic%20Grip.md)
-- Tier 2: [Safe Fall](../Abilities/Safe%20Fall.md)
-- Tier 3: [Bypass Barrier](../Abilities/Bypass%20Barrier.md) or
-  [Misdirect](../Abilities/Misdirect.md)
-- Tier 4: [Resilience](../Abilities/Resilience.md)
-- Tier 5: [Free to Move](../Abilities/Free%20to%20Move.md)
-- Tier 6: [Break the Ranks](../Abilities/Break%20the%20Ranks.md) or [Not Dead
-  Yet](../Abilities/Not%20Dead%20Yet.md)
+- Rang 1 : [Contorsionniste](../Abilities/Contortionist.md)
+- Rang 1 : [Grand Pas](../Abilities/Far%20Step.md)
+- Rang 2 : [Poignée élastique](../Abilities/Elastic%20Grip.md)
+- Rang 2 : [Chute en toute sécurité](../Abilities/Safe%20Fall.md)
+- Rang 3 : [Contourner la barrière](../Abilities/Bypass%20Barrier.md) ou
+  [Détournement](../Abilities/Misdirect.md)
+- Rang 4 : [Résilience](../Abilities/Resilience.md)
+- Rang 5 : [Libre de se déplacer](../Abilities/Free%20to%20Move.md)
+- Rang 6 : [Briser les rangs](../Abilities/Break%20the%20Ranks.md) ou [Pas
+  encore mort](../Abilities/Not%20Dead%20Yet.md)
 
-GM Intrusions: An attack or effect interferes with the character’s elasticity. A
-stretched limb becomes overstressed and weak.
+Intrusions de la Meneuse : Une attaque ou un effet perturbe l'élasticité du
+personnage. Un membre étiré devient trop sollicité et faible.
