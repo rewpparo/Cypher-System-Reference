@@ -1,21 +1,23 @@
-Sailed Beneath the Jolly Roger #Focus #Core
+A Navigué sous Pavillon Pirate #Focus #Core
 
-You sailed with a crew of dread pirates, but you’ve decided to end your days as
-a pirate and join some other cause. The question is, will your past let you go
-so easily?
+Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé
+de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question
+est : votre passé vous laissera-t-il partir si facilement ?
 
-- Tier 1: [Ignore the Pain](../Abilities/Ignore%20the%20Pain.md)
-- Tier 1: [Sailor](../Abilities/Sailor.md)
-- Tier 2: [Taking Advantage](../Abilities/Taking%20Advantage.md)
-- Tier 2: [Fearsome Reputation](../Abilities/Fearsome%20Reputation.md)
-- Tier 3: [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md) or [Skill
-  With Defense](../Abilities/Skill%20With%20Defense.md)
-- Tier 4: [Sea Legs](../Abilities/Sea%20Legs.md)
-- Tier 4: [Movement Skills](../Abilities/Movement%20Skills.md)
-- Tier 5: [Lost in the Chaos](../Abilities/Lost%20in%20the%20Chaos.md)
-- Tier 6: [Duel to the Death](../Abilities/Duel%20to%20the%20Death.md) or
-  [Successive Attack](../Abilities/Successive%20Attack.md)
+- Rang 1 : [Ignorez la Douleur](../Abilities/Ignore%20the%20Pain.md)
+- Rang 1 : [Marin](../Abilities/Sailor.md)
+- Rang 2 : [Prendre l'avantage](../Abilities/Taking%20Advantage.md)
+- Rang 2 : [Réputation redoutable](../Abilities/Fearsome%20Reputation.md)
+- Rang 3 : [Compétence avec les
+  attaques](../Abilities/Skill%20With%20Attacks.md) ou [Compétence en
+  Défense](../Abilities/Skill%20With%20Defense.md)
+- Rang 4 : [Le pied marin](../Abilities/Sea%20Legs.md)
+- Rang 4 : [Habiletés motrices](../Abilities/Movement%20Skills.md)
+- Rang 5 : [Perdu dans le chaos](../Abilities/Lost%20in%20the%20Chaos.md)
+- Rang 6 : [Duel à mort](../Abilities/Duel%20to%20the%20Death.md) ou [Attaque
+  successive](../Abilities/Successive%20Attack.md)
 
-GM Intrusions: The dangers of the high seas are many, including severe storms
-and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks
-down former sailing mates to find hidden treasure.
+Intrusions de la Meneuse : Les dangers de la haute mer sont nombreux, notamment
+les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois
+grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour
+trouver un trésor caché.
