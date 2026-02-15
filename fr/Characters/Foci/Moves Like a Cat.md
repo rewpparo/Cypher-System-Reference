@@ -1,20 +1,23 @@
-Moves Like a Cat #Focus #MovementFocus #Core
+Bouge comme un Chat #Focus #MovementFocus #Core
 
-Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to
-be where danger is.
+Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et ne
+semblez jamais être là où se trouve le danger.
 
-- Tier 1: [Greater Enhanced Speed](../Abilities/Greater%20Enhanced%20Speed.md)
-- Tier 1: [Balance](../Abilities/Balance.md)
-- Tier 2: [Movement Skills](../Abilities/Movement%20Skills.md)
-- Tier 2: [Safe Fall](../Abilities/Safe%20Fall.md)
-- Tier 3: [Hard to Hit](../Abilities/Hard%20to%20Hit.md)
-- Tier 3: [Enhanced Speed Edge](../Abilities/Enhanced%20Speed%20Edge.md) or
-  [Greater Enhanced Speed](../Abilities/Greater%20Enhanced%20Speed.md)
-- Tier 4: [Quick Strike](../Abilities/Quick%20Strike.md)
-- Tier 5: [Slippery](../Abilities/Slippery.md)
-- Tier 6: [Perfect Speed Burst](../Abilities/Perfect%20Speed%20Burst.md) or
-  [Greater Enhanced Speed](../Abilities/Greater%20Enhanced%20Speed.md)
+- Rang 1 : [Célérité améliorée
+  supérieure](../Abilities/Greater%20Enhanced%20Speed.md)
+- Rang 1 : [Equilibre](../Abilities/Balance.md)
+- Rang 2 : [Habiletés motrices](../Abilities/Movement%20Skills.md)
+- Rang 2 : [Chute en toute sécurité](../Abilities/Safe%20Fall.md)
+- Rang 3 : [Difficile à toucher](../Abilities/Hard%20to%20Hit.md)
+- Rang 3 : [Avantage de Célérité
+  Amélioré](../Abilities/Enhanced%20Speed%20Edge.md) ou [Célérité améliorée
+  supérieure]{ 2}
+- Rang 4 : [Frappe rapide](../Abilities/Quick%20Strike.md)
+- Rang 5 : [Glissant](../Abilities/Slippery.md)
+- Rang 6 : [Sursaut de Célérité
+  Parfait](../Abilities/Perfect%20Speed%20Burst.md) ou [Célérité améliorée
+  supérieure](../Abilities/Greater%20Enhanced%20Speed.md)
 
-GM Intrusions: Even a cat can be clumsy. A jump isn’t quite as easy as it looks.
-An escape move is so overzealous that it sends the character right into harm’s
-way.
+Intrusions de la Meneuse : Même un chat peut être maladroit. Un saut n'est pas
+aussi facile qu'il y paraît. Un mouvement d'évasion est tellement excessif qu'il
+met le personnage en danger.
