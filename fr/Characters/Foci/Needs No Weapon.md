@@ -1,21 +1,23 @@
-Needs No Weapon #Focus #StrikerFocus #Core
+N'a pas Besoin d'Arme #Focus #StrikerFocus #Core
 
-Powerful punches, kicks, elbows, knees, and full body movements are all the
-weapons you need.
+Des coups de poing, de pied, de coude, des genoux et des mouvements complets du
+corps sont toutes les armes dont vous avez besoin.
 
-- Tier 1: [Fists of Fury](../Abilities/Fists%20of%20Fury.md)
-- Tier 1: [Flesh of Stone](../Abilities/Flesh%20of%20Stone.md)
-- Tier 2: [Advantage to
-  Disadvantage](../Abilities/Advantage%20to%20Disadvantage.md)
-- Tier 2: [Unarmed Fighting Style](../Abilities/Unarmed%20Fighting%20Style.md)
-- Tier 3: [Moving Like Water](../Abilities/Moving%20Like%20Water.md) or [Greater
-  Enhanced Potential](../Abilities/Greater%20Enhanced%20Potential.md)
-- Tier 4: [Divert Attacks](../Abilities/Divert%20Attacks.md)
-- Tier 5: [Stun Attack](../Abilities/Stun%20Attack.md)
-- Tier 6: [Master of Unarmed Fighting
-  Style](../Abilities/Master%20of%20Unarmed%20Fighting%20Style.md) or [Lethal
-  Damage](../Abilities/Lethal%20Damage.md)
+- Rang 1 : [Poings de fureur](../Abilities/Fists%20of%20Fury.md)
+- Rang 1 : [Chair de Pierre](../Abilities/Flesh%20of%20Stone.md)
+- Rang 2 : [Avantage par
+  Désavantage](../Abilities/Advantage%20to%20Disadvantage.md)
+- Rang 2 : [Style de combat à mains
+  nues](../Abilities/Unarmed%20Fighting%20Style.md)
+- Rang 3 : [Se déplacer comme l'eau](../Abilities/Moving%20Like%20Water.md) ou
+  [Potentiel amélioré plus
+  important](../Abilities/Greater%20Enhanced%20Potential.md)
+- Rang 4 : [Détourner les attaques](../Abilities/Divert%20Attacks.md)
+- Rang 5 : [Attaque Etourdissante](../Abilities/Stun%20Attack.md)
+- Rang 6 : [Maître du style de combat à mains
+  nues](../Abilities/Master%20of%20Unarmed%20Fighting%20Style.md) ou [Dégâts
+  mortels](../Abilities/Lethal%20Damage.md)
 
-GM Intrusions: Striking certain foes hurts you as much as it hurts them.
-Opponents with weapons have greater reach. Complicated martial arts moves can
-knock you off balance.
+Intrusions de la Meneuse : Frapper certains ennemis vous fait autant de mal qu'à
+eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts
+martiaux compliqués peuvent vous faire perdre l'équilibre.
