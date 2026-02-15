@@ -1,16 +1,18 @@
-Works Miracles #Focus #SupportFocus #Core
+Fait des Miracles #Focus #SupportFocus #Core
 
-You can heal others with a touch, alter time to help others, and are generally
-beloved by everyone.
+Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider
+les autres et êtes généralement aimé de tous.
 
-- Tier 1: [Healing Touch](../Abilities/Healing%20Touch.md)
-- Tier 2: [Alleviate](../Abilities/Alleviate.md)
-- Tier 3: [Font of Healing](../Abilities/Font%20of%20Healing.md) or [Miraculous
-  Health](../Abilities/Miraculous%20Health.md)
-- Tier 4: [Inspire Action](../Abilities/Inspire%20Action.md)
-- Tier 5: [Undo](../Abilities/Undo.md)
-- Tier 6: [Greater Healing Touch](../Abilities/Greater%20Healing%20Touch.md) or
-  [Restore Life](../Abilities/Restore%20Life.md)
+- Rang 1 : [Main Guérisseuse](../Abilities/Healing%20Touch.md)
+- Rang 2 : [Soulager](../Abilities/Alleviate.md)
+- Rang 3 : [Source de guérison](../Abilities/Font%20of%20Healing.md) ou [Santé
+  miraculeuse](../Abilities/Miraculous%20Health.md)
+- Rang 4 : [Inspirer l'action](../Abilities/Inspire%20Action.md)
+- Rang 5 : [Annuler](../Abilities/Undo.md)
+- Rang 6 : [Main Guérisseuse
+  Supérieure](../Abilities/Greater%20Healing%20Touch.md) ou [Restaurer la
+  vie](../Abilities/Restore%20Life.md)
 
-GM Intrusions: Attempts to heal might cause harm instead. A community or
-individual needs a healer so desperately that they hold one against their will.
+Intrusions de la Meneuse : Les tentatives de guérison pourraient plutôt causer
+du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur
+qu'il en a un contre son gré.
