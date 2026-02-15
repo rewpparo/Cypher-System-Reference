@@ -1,15 +1,15 @@
-Wears a Sheen of Ice #Focus #EnergyFocus #Core
+Porte un Eclat de Glace #Focus #EnergyFocus #Core
 
-You command the wintery power of cold and ice.
+Vous maîtrisez la puissance hivernale du froid et de la glace.
 
-- Tier 1: [Ice Armor](../Abilities/Ice%20Armor.md)
-- Tier 2: [Frost Touch](../Abilities/Frost%20Touch.md)
-- Tier 3: [Freezing Touch](../Abilities/Freezing%20Touch.md) or [Ice
-  Creation](../Abilities/Ice%20Creation.md)
-- Tier 4: [Resilient Ice Armor](../Abilities/Resilient%20Ice%20Armor.md)
-- Tier 5: [Cold Burst](../Abilities/Cold%20Burst.md)
-- Tier 6: [Ice Storm](../Abilities/Ice%20Storm.md) or [Winter
-  Gauntlets](../Abilities/Winter%20Gauntlets.md)
+- Rang 1 : [Armure de Glace](../Abilities/Ice%20Armor.md)
+- Rang 2 : [Toucher Glacial](../Abilities/Frost%20Touch.md)
+- Rang 3 : [Toucher de Froid Paralysant](../Abilities/Freezing%20Touch.md) ou
+  [Création de Glace](../Abilities/Ice%20Creation.md)
+- Rang 4 : [Armure de glace résiliente](../Abilities/Resilient%20Ice%20Armor.md)
+- Rang 5 : [Explosion de froid](../Abilities/Cold%20Burst.md)
+- Rang 6 : [Tempête de Glace](../Abilities/Ice%20Storm.md) ou [Gantelets
+  d'hiver](../Abilities/Winter%20Gauntlets.md)
 
-GM Intrusions: Ice makes surfaces slippery. Extreme cold causes objects to crack
-and break.
+Intrusions de la Meneuse : La glace rend les surfaces glissantes. Un froid
+extrême provoque la fissuration et la rupture des objets.
