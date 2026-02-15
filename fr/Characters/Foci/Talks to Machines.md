@@ -1,18 +1,20 @@
-Talks to Machines #Focus #InfluenceFocus #Core
+Parle aux Machines #Focus #InfluenceFocus #Core
 
-You use your organic brain like a computer, interfacing “wirelessly” with any
-electronic device. You can control and influence them in ways that others can’t.
+Vous utilisez votre cerveau organique comme un ordinateur, en interface « sans
+fil » avec n’importe quel appareil électronique. Vous pouvez les contrôler et
+les influencer d’une manière que d’autres ne peuvent pas.
 
-- Tier 1: [Machine Affinity](../Abilities/Machine%20Affinity.md)
-- Tier 1: [Distant Interface](../Abilities/Distant%20Interface.md)
-- Tier 2: [Coaxing Power](../Abilities/Coaxing%20Power.md)
-- Tier 2: [Charm Machine](../Abilities/Charm%20Machine.md)
-- Tier 3: [Intelligent Interface](../Abilities/Intelligent%20Interface.md) or
-  [Command Machine](../Abilities/Command%20Machine.md)
-- Tier 4: [Machine Companion](../Abilities/Machine%20Companion.md)
+- Rang 1 : [Affinité machine](../Abilities/Machine%20Affinity.md)
+- Rang 1 : [Interface distante](../Abilities/Distant%20Interface.md)
+- Rang 2 : [Puissance d'attraction](../Abilities/Coaxing%20Power.md)
+- Rang 2 : [Charmer une Machine](../Abilities/Charm%20Machine.md)
+- Rang 3 : [Interface intelligente](../Abilities/Intelligent%20Interface.md) ou
+  [Commander une Machine](../Abilities/Command%20Machine.md)
+- Rang 4 : [Compagnon machine](../Abilities/Machine%20Companion.md)
 - Rang 4 : [Combattant de Robot](../Abilities/Robot%20Fighter.md)
-- Tier 5: [Information Gathering](../Abilities/Information%20Gathering.md)
-- Tier 6: [Control Machine](../Abilities/Control%20Machine.md) or [Improved
-  Machine Companion](../Abilities/Improved%20Machine%20Companion.md)
+- Rang 5 : [Collecte d'informations](../Abilities/Information%20Gathering.md)
+- Rang 6 : [Contrôle de Machine](../Abilities/Control%20Machine.md) ou
+  [Compagnon Machine Amélioré](../Abilities/Improved%20Machine%20Companion.md)
 
-GM Intrusions: The machine malfunctions or acts unpredictably.
+Intrusions de la Meneuse : La machine fonctionne mal ou agit de manière
+imprévisible.
