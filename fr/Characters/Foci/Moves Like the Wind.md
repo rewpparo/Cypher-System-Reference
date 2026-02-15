@@ -1,16 +1,19 @@
-Moves Like the Wind #Focus #MovementFocus #Core
+Va Comme le Vent #Focus #MovementFocus #Core
 
-You can move so fast that you become a blur.
+Vous pouvez vous déplacer si vite que vous devenez flou.
 
-- Tier 1: [Greater Enhanced Speed](../Abilities/Greater%20Enhanced%20Speed.md)
-- Tier 1: [Fleet of Foot](../Abilities/Fleet%20of%20Foot.md)
-- Tier 2: [Hard to Hit](../Abilities/Hard%20to%20Hit.md)
-- Tier 3: [Speed Burst](../Abilities/Speed%20Burst.md) or [Greater Enhanced
-  Speed](../Abilities/Greater%20Enhanced%20Speed.md)
+- Rang 1 : [Célérité améliorée
+  supérieure](../Abilities/Greater%20Enhanced%20Speed.md)
+- Rang 1 : [Pied Léger](../Abilities/Fleet%20of%20Foot.md)
+- Rang 2 : [Difficile à toucher](../Abilities/Hard%20to%20Hit.md)
+- Rang 3 : [Sursaut de Célérité](../Abilities/Speed%20Burst.md) ou [Célérité
+  améliorée supérieure](../Abilities/Greater%20Enhanced%20Speed.md)
 - Rang 4 : [En un Clin d'oeil](../Abilities/Blink%20of%20an%20Eye.md)
-- Tier 5: [Hard to See](../Abilities/Hard%20to%20See.md)
-- Tier 6: [Perfect Speed Burst](../Abilities/Perfect%20Speed%20Burst.md) or
-  [Incredible Running Speed](../Abilities/Incredible%20Running%20Speed.md)
+- Rang 5 : [Difficile à voir](../Abilities/Hard%20to%20See.md)
+- Rang 6 : [Sursaut de Célérité
+  Parfait](../Abilities/Perfect%20Speed%20Burst.md) ou [Vitesse de course
+  incroyable](../Abilities/Incredible%20Running%20Speed.md)
 
-GM Intrusions: Surfaces can be slick or offer hidden obstacles. The movement of
-other creatures can be unpredictable, and the character might run into them.
+Intrusions de la Meneuse : Les surfaces peuvent être glissantes ou présenter des
+obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le
+personnage peut les rencontrer.
