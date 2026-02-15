@@ -3,7 +3,7 @@ Hurle à la Lune #Focus #TankFocus #Core
 Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 avec des problèmes de contrôle.
 
-- Rang 1 : [Forme animale](../Abilities/Beast%20Form.md)
+- Rang 1 : [Forme de bête](../Abilities/Beast%20Form.md)
 - Rang 2 : [Contrôle du Changement de
   Forme](../Abilities/Controlled%20Change.md)
 - Rang 3 : [Forme de bête Supérieure](../Abilities/Bigger%20Beast%20Form.md) ou
