@@ -1,14 +1,16 @@
-Sees Beyond #Focus #ExplorationFocus #Core
+Voit Au-Delà #Focus #ExplorationFocus #Core
 
-You have a psychic sense that allows you to see what others cannot.
+Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
+pas voir.
 
-- Tier 1: [See the Unseen](../Abilities/See%20the%20Unseen.md)
-- Tier 2: [See Through Matter](../Abilities/See%20Through%20Matter.md)
-- Tier 3: [Find the Hidden](../Abilities/Find%20the%20Hidden.md) or
-  [Sensor](../Abilities/Sensor.md)
-- Tier 4: [Remote Viewing](../Abilities/Remote%20Viewing.md)
-- Tier 5: [See Through Time](../Abilities/See%20Through%20Time.md)
-- Tier 6: [Mental Projection](../Abilities/Mental%20Projection.md) or [Total
-  Awareness](../Abilities/Total%20Awareness.md)
+- Rang 1 : [Voir l'invisible](../Abilities/See%20the%20Unseen.md)
+- Rang 2 : [Voir à travers la matière](../Abilities/See%20Through%20Matter.md)
+- Rang 3 : [Trouver ce qui est caché](../Abilities/Find%20the%20Hidden.md) ou
+  [Capteur](../Abilities/Sensor.md)
+- Rang 4 : [Visualisation à distance](../Abilities/Remote%20Viewing.md)
+- Rang 5 : [Voir à travers le temps](../Abilities/See%20Through%20Time.md)
+- Rang 6 : [Projection mentale](../Abilities/Mental%20Projection.md) ou
+  [Conscience totale](../Abilities/Total%20Awareness.md)
 
-GM Intrusions: Some secrets are too terrible to know.
+Intrusions de la Meneuse : Certains secrets sont trop terribles pour être
+connus.
