@@ -1,19 +1,24 @@
-Would Rather Be Reading #Focus #BasicFocus #Core
+Préfèrerait Lire #Focus #BasicFocus #Core
 
-Books are your friends. What’s more important than knowledge? Nothing.
+Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ?
+Rien.
 
-- Tier 1: [Knowledge Is Power](../Abilities/Knowledge%20Is%20Power.md)
-- Tier 2: [Greater Enhanced
-  Intellect](../Abilities/Greater%20Enhanced%20Intellect.md)
-- Tier 3: [Applying Your Knowledge](../Abilities/Applying%20Your%20Knowledge.md)
-  or [Flex Skill](../Abilities/Flex%20Skill.md)
-- Tier 4: [Knowledge Is Power](../Abilities/Knowledge%20Is%20Power.md)
-- Tier 4: [Knowing the Unknown](../Abilities/Knowing%20the%20Unknown.md)
+- Rang 1 : [La connaissance, c'est le
+  pouvoir](../Abilities/Knowledge%20Is%20Power.md)
+- Rang 2 : [Intellect Amélioré
+  Supérieur](../Abilities/Greater%20Enhanced%20Intellect.md)
+- Rang 3 : [Appliquer vos
+  connaissances](../Abilities/Applying%20Your%20Knowledge.md) ou [Compétences en
+  Gage](../Abilities/Flex%20Skill.md)
+- Rang 4 : [La connaissance, c'est le
+  pouvoir](../Abilities/Knowledge%20Is%20Power.md)
+- Rang 4 : [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md)
 - Rang 5 : [Intellect Amélioré
   Supérieur](../Abilities/Greater%20Enhanced%20Intellect.md)
-- Tier 6: [Knowledge Is Power](../Abilities/Knowledge%20Is%20Power.md)
-- Tier 6: [Tower of Intellect](../Abilities/Tower%20of%20Intellect.md) or [Read
-  the Signs](../Abilities/Read%20the%20Signs.md)
+- Rang 6 : [La connaissance, c'est le
+  pouvoir](../Abilities/Knowledge%20Is%20Power.md)
+- Rang 6 : [Tour de l'Intellect](../Abilities/Tower%20of%20Intellect.md) ou
+  [Lire les signes](../Abilities/Read%20the%20Signs.md)
 
-GM Intrusions: Books burn, get wet, or get lost. Computers break or lose power.
-Glasses break.
+Intrusions de la Meneuse : Les livres brûlent, sont mouillés ou se perdent. Les
+ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
