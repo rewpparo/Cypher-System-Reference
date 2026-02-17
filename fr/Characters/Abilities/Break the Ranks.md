@@ -1,9 +1,11 @@
-Break the Ranks (6 Speed points) #Ability #SpecialAttackAbility #High #Core
+Briser les rangs (6 points de Célérité) #Ability #SpecialAttackAbility #High
+#Core
 
-You move up to a short distance and attack up to four different foes as a single
-action as long as they are all along your path. Any modifiers that apply to one
-attack apply to all the attacks you make. If you have another special ability
-that allows you to move and take an action, when you use Break the Ranks, you
-gain an asset to attacking these foes.
+Vous vous déplacez sur une courte distance et attaquez jusqu'à quatre ennemis
+différents en une seule action tant qu'ils se trouvent tout au long de votre
+chemin. Tous les modificateurs qui s'appliquent à une attaque s'appliquent à
+toutes les attaques que vous effectuez. Si vous disposez d'une autre capacité
+spéciale qui vous permet de vous déplacer et d'effectuer une action, lorsque
+vous utilisez Briser les rangs, vous gagnez un atout pour attaquer ces ennemis.
 
 Action.
