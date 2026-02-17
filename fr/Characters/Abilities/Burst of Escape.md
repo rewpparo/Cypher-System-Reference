@@ -1,6 +1,7 @@
-Burst of Escape (5 Speed points) #Ability #MetaAbility #High #Core
+Bouquet d'évasion (5 points de Célérité) #Ability #MetaAbility #High #Core
 
-You can take two separate actions this round, as long as one of them is to hide
-or to move in a direction that is not toward a foe.
+Vous pouvez effectuer deux actions distinctes ce tour-ci, à condition que l'une
+d'elles consiste à vous cacher ou à vous déplacer dans une direction qui n'est
+pas vers un ennemi.
 
 Facilitateur.
