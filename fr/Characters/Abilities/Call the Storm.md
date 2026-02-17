@@ -1,11 +1,13 @@
-Call the Storm (7+ Intellect points) #Ability #SpecialAttackAbility #High #Core
+Appeler la tempête (7+ points d'Intellect) #Ability #SpecialAttackAbility #High
+#Core
 
-If you are outside or in a location that has a ceiling at least 300 feet (90 m)
-above the floor, you summon a boiling layer of lightning-lit, rumbling clouds up
-to 1,500 feet (460 m) in diameter for ten minutes. During daylight hours,
-natural illumination beneath the storm is reduced to dim light. While the storm
-rages, you can use an action to send a lightning bolt from the cloud to attack a
-target you can see directly, inflicting 4 points of damage (you can spend Effort
-normally on each individual lightning bolt attack).
+Si vous êtes à l'extérieur ou dans un endroit dont le plafond est à au moins 90
+m au-dessus du sol, vous invoquez une couche bouillante de nuages grondants et
+éclairés par des éclairs jusqu'à 1 500 pieds. (460 m) de diamètre pendant dix
+minutes. Pendant la journée, l'éclairage naturel sous la tempête est réduit à
+une lumière tamisée. Pendant que la tempête fait rage, vous pouvez utiliser une
+action pour envoyer un éclair depuis le nuage pour attaquer une cible que vous
+pouvez voir directement, lui infligeant 4 points de dégâts (vous pouvez dépenser
+de l'Effort normalement sur chaque attaque d'éclair individuelle).
 
-Three actions to initiate; action to call down a lightning strike.
+Trois actions à initier ; action pour déclencher un coup de foudre.
