@@ -1,19 +1,20 @@
-Uses Wild Magic #Focus #Core #Fantasy
+Utilise la Magie Sauvage #Focus #Core #Fantasy
 
-A spellcaster who learns a variety of spells instead of focusing on just one
-kind of magic.
+Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
+un seul type de magie.
 
-- Tier 1: [Magical Repertoire](../Abilities/Magical%20Repertoire.md)
-- Tier 1: [Cypher Casting](../Abilities/Cypher%20Casting.md)
-- Tier 2: [Expanded Repertoire](../Abilities/Expanded%20Repertoire.md)
-- Tier 3: [Cypher Surge](../Abilities/Cypher%20Surge.md) or [Faster Wild
-  Magic](../Abilities/Faster%20Wild%20Magic.md)
-- Tier 4: [Expanded Repertoire](../Abilities/Expanded%20Repertoire.md)
-- Tier 5: [Magical Training](../Abilities/Magical%20Training.md)
-- Tier 6: [Maximize Cypher](../Abilities/Maximize%20Cypher.md) or [Wild
-  Insight](../Abilities/Wild%20Insight.md)
+- Rang 1 : [Répertoire magique](../Abilities/Magical%20Repertoire.md)
+- Rang 1 : [Lancement de Cypher](../Abilities/Cypher%20Casting.md)
+- Rang 2 : [Répertoire étendu](../Abilities/Expanded%20Repertoire.md)
+- Rang 3 : [Sursaut de Cypher](../Abilities/Cypher%20Surge.md) ou [Magie Sauvage
+  plus rapide](../Abilities/Faster%20Wild%20Magic.md)
+- Rang 4 : [Répertoire étendu](../Abilities/Expanded%20Repertoire.md)
+- Rang 5 : [Entraînement magique](../Abilities/Magical%20Training.md)
+- Rang 6 : [Maximiser le Cypher](../Abilities/Maximize%20Cypher.md) ou [Instinct
+  de Magie Sauvage](../Abilities/Wild%20Insight.md)
 
-GM Intrusions: A spell performserratically or rebounds upon the caster.Something
-interferes with preparingspells. Spellcasting attracts the attentionof a
-powerful creature or potential rival.The cypher spell being cast is replacedwith
-that of a random cypher.
+Intrusions de la Meneuse : Un sort s'exécute de manière erratique ou rebondit
+sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le
+lancement de sorts attire l'attention d'une créature puissante ou d'un rival
+potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre
+aléatoire.

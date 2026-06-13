@@ -1,16 +1,18 @@
-Walks the Wild Woods #Focus #Core #Fantasy
+Marche dans Les Forêts Primaires #Focus #Core #Fantasy
 
-An adherent of nature magic who draws on the power and strength of trees.
+Un adepte de la magie de la nature qui s'appuie sur le pouvoir et la force des
+arbres.
 
-- Tier 1: [Wilderness Life](../Abilities/Wilderness%20Life.md)
-- Tier 1: [Patient Recovery](../Abilities/Patient%20Recovery.md)
-- Tier 2: [Wooden Body](../Abilities/Wooden%20Body.md)
-- Tier 3: [Tree Companion](../Abilities/Tree%20Companion.md) or [Wilderness
-  Awareness](../Abilities/Wilderness%20Awareness.md)
-- Tier 4: [Tree Travel](../Abilities/Tree%20Travel.md)
-- Tier 5: [Great Tree](../Abilities/Great%20Tree.md)
-- Tier 6: [Dreadwood](../Abilities/Dreadwood.md) or [Restorative
-  Bloom](../Abilities/Restorative%20Bloom.md)
+- Rang 1 : [Vie en pleine nature](../Abilities/Wilderness%20Life.md)
+- Rang 1 : [Récupération du patient](../Abilities/Patient%20Recovery.md)
+- Rang 2 : [Corps en bois](../Abilities/Wooden%20Body.md)
+- Rang 3 : [Compagnon Arbre](../Abilities/Tree%20Companion.md) ou
+  [Sensibilisation à la nature sauvage](../Abilities/Wilderness%20Awareness.md)
+- Rang 4 : [Voyage dans les arbres](../Abilities/Tree%20Travel.md)
+- Rang 5 : [Grand arbre](../Abilities/Great%20Tree.md)
+- Rang 6 : [Forêt Terrifiante](../Abilities/Dreadwood.md) ou [Floraison
+  réparatrice](../Abilities/Restorative%20Bloom.md)
 
-GM Intrusions: A wooden charactercatches fire. A wild swing from a treebranch
-hits or trips an ally. Some treeshave evil hearts and hate all walkingthings.
+Intrusions de la Meneuse : Un personnage ou une créature en bois prend feu. Un
+coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains
+arbres ont un mauvais cœur et détestent toutes les choses qui marchent.

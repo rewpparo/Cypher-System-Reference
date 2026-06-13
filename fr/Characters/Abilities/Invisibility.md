@@ -8,4 +8,4 @@ taking an action to hide your position. If you have another ability that also
 confers invisibility, using either one allows you to remain invisible for twice
 as long as the duration specified.
 
-Action to initiate or reinitiate.
+Action pour initier ou ré-initier.

@@ -1,16 +1,18 @@
-Masters Spells #Focus #IrregularFocus #Core
+Maîtrise les Sortilèges #Focus #IrregularFocus #Core
 
-By specializing in spellcasting and keeping a spellbook, you can quickly cast
-spells of arcing lightning, rolling fire, creeping shadow, and summoning.
+En vous spécialisant dans le lancement de sortilèges et en tenant un livre de
+sorts, vous pouvez rapidement lancer des sorts d'arc de foudre, de feu roulant,
+d'ombre rampante et d'invocation.
 
-- Tier 1: [Arcane Flare](../Abilities/Arcane%20Flare.md)
-- Tier 2: [Ray of Confusion](../Abilities/Ray%20of%20Confusion.md)
-- Tier 3: [Fire Bloom](../Abilities/Fire%20Bloom.md) or [Summon Giant
-  Spider](../Abilities/Summon%20Giant%20Spider.md)
-- Tier 4: [Soul Interrogation](../Abilities/Soul%20Interrogation.md)
-- Tier 5: [Granite Wall](../Abilities/Granite%20Wall.md)
-- Tier 6: [Summon Demon](../Abilities/Summon%20Demon.md) or [Word of
-  Death](../Abilities/Word%20of%20Death.md)
+- Rang 1 : [Tir Arcanique](../Abilities/Arcane%20Flare.md)
+- Rang 2 : [Rayon de confusion](../Abilities/Ray%20of%20Confusion.md)
+- Rang 3 : [Cube de flammes](../Abilities/Fire%20Bloom.md) ou [Invoquer une
+  araignée géante](../Abilities/Summon%20Giant%20Spider.md)
+- Rang 4 : [Interrogation de l'âme](../Abilities/Soul%20Interrogation.md)
+- Rang 5 : [Mur de Granit](../Abilities/Granite%20Wall.md)
+- Rang 6 : [Invoquer un démon](../Abilities/Summon%20Demon.md) ou [Mot de
+  mort](../Abilities/Word%20of%20Death.md)
 
-GM Intrusions: The spell goes wrong. The summoned creature turns on the caster.
-A rival spellcaster is drawn to the magic use.
+Intrusions de la Meneuse : Le sort tourne mal. La créature invoquée se retourne
+contre le lanceur. Un lanceur de sorts rival est attiré par l'utilisation de la
+magie.

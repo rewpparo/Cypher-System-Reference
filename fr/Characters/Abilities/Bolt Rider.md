@@ -1,7 +1,7 @@
-Bolt Rider (4 Intellect points) #Ability #MovementAbility #Low #Core
+Comme l'éclair (4 points d'Intellect) #Ability #MovementAbility #Low #Core
 
-You can move a long distance from one location to another almost
-instantaneously, carried by a bolt of lightning. You must be able to see the new
-location, and there must be no intervening barriers.
+Vous pouvez vous déplacer sur une longue distance d'un endroit à un autre
+presque instantanément, porté par un éclair. Vous devez être en mesure de voir
+le nouvel emplacement et il ne doit y avoir aucune barrière intermédiaire.
 
 Action.

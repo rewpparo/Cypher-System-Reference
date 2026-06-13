@@ -1,19 +1,21 @@
-Fuses Mind and Machine #Focus #InfluenceFocus #Core
+Fusionne l'Esprit et la Machine #Focus #InfluenceFocus #Core
 
-Electronic aids implanted in your brain make you a mental powerhouse.
+Les aides électroniques implantées dans votre cerveau font de vous une
+surpuissance cérébrale.
 
-- Tier 1: [Enhanced Intellect](../Abilities/Enhanced%20Intellect.md)
-- Tier 1: [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
-- Tier 2: [Network Tap](../Abilities/Network%20Tap.md)
-- Tier 3: [Action Processor](../Abilities/Action%20Processor.md) or [Machine
-  Telepathy](../Abilities/Machine%20Telepathy.md)
-- Tier 4: [Greater Enhanced
-  Intellect](../Abilities/Greater%20Enhanced%20Intellect.md)
-- Tier 4: [Knowledge Skills](../Abilities/Knowledge%20Skills.md)
-- Tier 5: [See the Future](../Abilities/See%20the%20Future.md)
-- Tier 6: [Machine Enhancement](../Abilities/Machine%20Enhancement.md) or [Mind
-  Surge](../Abilities/Mind%20Surge.md)
+- Rang 1 : [Intellect amélioré](../Abilities/Enhanced%20Intellect.md)
+- Rang 1 : [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
+- Rang 2 : [Une information dans le réseau](../Abilities/Network%20Tap.md)
+- Rang 3 : [Processeur d'action](../Abilities/Action%20Processor.md) ou
+  [Télépathie machine](../Abilities/Machine%20Telepathy.md)
+- Rang 4 : [Intellect Amélioré
+  Supérieur](../Abilities/Greater%20Enhanced%20Intellect.md)
+- Rang 4 : [Compétences en Connaissances](../Abilities/Knowledge%20Skills.md)
+- Rang 5 : [Voir l'avenir](../Abilities/See%20the%20Future.md)
+- Rang 6 : [Amélioration de la machine](../Abilities/Machine%20Enhancement.md)
+  ou [Sursaut mental](../Abilities/Mind%20Surge.md)
 
-GM Intrusions: Machines malfunction and shut down. Powerful machine
-intelligences can take control of lesser thinking machines. Some people don’t
-trust a person who isn’t fully organic.
+Intrusions de la Meneuse : Les machines fonctionnent mal et s'arrêtent. De
+puissantes intelligences artificielles peuvent prendre le contrôle de machines
+moins pensantes. Certaines personnes ne font pas confiance à une personne qui
+n'est pas entièrement biologique.

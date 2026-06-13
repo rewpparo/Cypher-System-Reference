@@ -1,9 +1,11 @@
-Reveal (2+ Intellect points) #Ability #SensesAbility #SupportAbility #Low #Core
+Révéler (2+ points d'Intellect) #Ability #SensesAbility #SupportAbility #Low
+#Core
 
-You adjust a creature’s eyesight so that it can see normally in areas of dim
-light and darkness. You can affect one willing creature within immediate range
-for one hour. In addition to the normal options for using Effort, you can choose
-to use Effort to affect more targets; each level of Effort applied affects two
-additional targets. You must touch additional targets to affect them.
+Vous ajustez la vue d'une créature pour qu'elle puisse voir normalement dans les
+zones faiblement illuminées et sombres. Vous pouvez affecter une créature
+consentante à portée immédiate pendant une heure. En plus des options normales
+pour l'usage de l'Effort, vous pouvez choisir d'utiliser l'Effort pour affecter
+plus de cibles ; chaque niveau d'Effort affecte deux cibles supplémentaires.
+Vous devez toucher les cibles supplémentaires pour les affecter.
 
 Action pour initier.

@@ -1,19 +1,21 @@
-Metes Out Justice #Focus #SupportFocus #StrikerFocus #Core
+Rend la Justice #Focus #SupportFocus #StrikerFocus #Core
 
-You right wrongs, protect the innocent, and punish the guilty.
+Vous redressez les torts, protégez les innocents et punissez les coupables.
 
-- Tier 1: [Make Judgment](../Abilities/Make%20Judgment.md)
-- Tier 1: [Designation](../Abilities/Designation.md)
-- Tier 2: [Defend the Innocent](../Abilities/Defend%20the%20Innocent.md)
-- Tier 2: [Improved Designation](../Abilities/Improved%20Designation.md)
-- Tier 3: [Defend All the
-  Innocent](../Abilities/Defend%20All%20the%20Innocent.md) or [Punish the
-  Guilty](../Abilities/Punish%20the%20Guilty.md)
-- Tier 4: [Find the Guilty](../Abilities/Find%20the%20Guilty.md)
-- Tier 4: [Greater Designation](../Abilities/Greater%20Designation.md)
-- Tier 5: [Punish All the Guilty](../Abilities/Punish%20All%20the%20Guilty.md)
-- Tier 6: [Damn the Guilty](../Abilities/Damn%20the%20Guilty.md) or [Inspire the
-  Innocent](../Abilities/Inspire%20the%20Innocent.md)
+- Rang 1 : [Porter un jugement](../Abilities/Make%20Judgment.md)
+- Rang 1 : [Désignation](../Abilities/Designation.md)
+- Rang 2 : [Défendre les innocents](../Abilities/Defend%20the%20Innocent.md)
+- Rang 2 : [Désignation Améliorée](../Abilities/Improved%20Designation.md)
+- Rang 3 : [Défendre tous les
+  innocents](../Abilities/Defend%20All%20the%20Innocent.md) ou [Punir le
+  coupable](../Abilities/Punish%20the%20Guilty.md)
+- Rang 4 : [Trouver le coupable](../Abilities/Find%20the%20Guilty.md)
+- Rang 4 : [Désignation supérieure](../Abilities/Greater%20Designation.md)
+- Rang 5 : [Punir tous les
+  coupables](../Abilities/Punish%20All%20the%20Guilty.md)
+- Rang 6 : [Au diable les coupables](../Abilities/Damn%20the%20Guilty.md) ou
+  [Inspirez les innocents](../Abilities/Inspire%20the%20Innocent.md)
 
-GM Intrusions: Guilt or innocence can be complicated. Some people resent the
-presumption of a self-appointed judge. Passing judgment makes enemies.
+Intrusions de la Meneuse : La culpabilité ou l'innocence peuvent être
+compliquées. Certaines personnes sont mécontentes de la présomption d'un juge
+autoproclamé. Porter un jugement fait des ennemis.

@@ -1,42 +1,37 @@
 ![](Compatible-with-the-Cypher-System-Logo-color-small.png)
 
-Cypher System Reference is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community at large to use, commercialy or otherwise, according to Monte Cook Games licencing.
+Cypher System Reference is compatible with the Cypher System in accordance with the [Cypher System Open Licence ](https://csol.montecookgames.com) (CSOL). All works using CSRP should conform to this licence. We do not add any more requirements, our work is for the community at large to use, commercialy or otherwise, under CSOL.
 
-[Table Of Contents](en/Table%20Of%20Contents.md)
 # Welcome !
 
-There are two parts to this project
-- Here on github, we make a cleaned up version of the Cypher System Reference Document in markdown. It is ready for a website, and ready for Obsidian.
-- Then there's the weblate project. Weblate is a collaborative translation tool. We use it to translate our version of the CSRD into different languages. This is fed back into GitHub
-
-# Contributing to the weblate project
-
-You can sign up to be a translator by following this link : https://hosted.weblate.org/engage/cypher-system-reference/
-
-Translating in weblate is easy : The project is divided into components (the different markedown files), and each component is divided into strings (paragraphs, sentences). Use weblate to translate strings one at a time. A glossary of common game terms shows on the side while you translate to keep those consistent across a language. Sugestions from google translate comming soon.
-
-YOU CANNOT USE PUBLISHED TRANSLATIONS FOR THIS. ALL TRANSLATIONS MUST BE YOUR OWN
-
-Only french is being worked on for now. Contact me for more languages (it's possible but may cost me money)
-
-# Contributing to the github project
-
-You can help in organising, cleaning and formating the original CSRD here on github. Work of the branch named after the version of the CSRD you're using and make a pull request. No direct submission into main.
-
-Only the latest version of the CSRD will end up in main and get translated. Older versions 
-
-Translations should not be pushed into github, they come from weblate. Only /en and /CSRD should be worked on.
-
-The contents should be only the CSRD, and all the CSRD. No content that is not in the CSRD, no original content. Some information, like tags, can be infered from the CSRD only, those are fine.
+The goal of this project is to produce a version of the Cypher System Reference Document that is cleaned up with separate files for abilities, types, flavor, descriptors, foci, cyphers, creatures and so on, with consistent formating, and in many languages.
 
 # Progress
 
-Work on CSRD 2025-08-22
+- Working off CSRD 2025-08-22 (probably the last CSRD until Cypher2)
+- Core is pretty much done, Genres still a lot to do
+- French translation : ![French Translation](https://hosted.weblate.org/widget/cypher-system-reference/-/fr/svg-badge.svg)
 
-Core is pretty much done, Genres still a lot to do
+# Workflow
 
-French translation : ![French Translation](https://hosted.weblate.org/widget/cypher-system-reference/-/fr/svg-badge.svg)
+- First, versions of the CSRD in markdown files but no formating and put into /CSRD. A diff is produced to compare to the previous and next versions.
+- The github repository has a branch for each version of the Cypher System. That's where the formating of the original Cypher System, in english only, takes place.
+- The lastest version of the CSRD is merged into main, where a [weblate project](https://hosted.weblate.org/cypher-system-reference/) pulls materials in english to be translated. It then pushes translations into the weblate branch that is merged back into main.
 
+# Rules for contributing
+
+- Contributions to the repository should only include work on root, /en and /CSRD. All pull request containing work elsewhere will be rejected.
+- Contributions should only use the CSRD and information, such as tags, that can be direcly infered from the CSRD. No content from outside CSRD should be used, even if original.
+- Follow the formating guide below
+- All contributions to translations should be made via weblate. Weblate has authority on any material in the repository that is not the root, /en and /CSRD.
+- Translations should NOT include any translation from a local publisher. Reusing common game terms found in the weblate glossary is fine, but all translations should be your own.
+
+- To contribute to the formating of the CSRD, clone the repository, work off the branch of the CSRD version used, and make a pull request.
+
+- To contribute to translations, [apply for translating](https://hosted.weblate.org/engage/cypher-system-reference/).
+- Find a weblate tutorial in your language [here](https://docs.weblate.org/en/latest/user/translating.html)
+- To get started, take a look at types, descriptors and foci, translating them and their abilities. Then maybe take a look a sentence or two from the large rules files ?
+- To start a new language, talk to me first. Expect to start with the glossary of game terms to make work easier
 
 # Formatting reference
 
@@ -49,11 +44,11 @@ https://www.markdownguide.org/basic-syntax/
 - Never use in a header a character that would not be a filename.
 	 - https://stackoverflow.com/questions/1976007/what-characters-are-forbidden-in-windows-and-linux-directory-names
 
-## Cards
+# Cards
 
 Cards are categories of brief descriptions that follow, or could follow, the same formatting, are present in great numbers, and could take advantage of automatic processing.
 
-Card types are defined below, and the most precise and consistent formatting should be applied for this content.
+Card types are defined below, and the most precise and consistent formating should be applied for this content.
 
 All Cards follow the following principles :  
 - Cards are contained in their own headings
@@ -68,8 +63,8 @@ All Cards follow the following principles :
 	- Tags should never be guessed or imported from outside the document. It should be explicit somewhere in the document that this tag applies. 
 	- Tags however can be infered from the document. If a type is explicitly endorsed by a genre, all abilities of that types should be implicitly endorsed for the genre
 	- The first tag should be the card type tag. Each type below defines its tag
-	- #Obsolete can be used after type tag to mark the card as removed from newer versions of the game.
-	- Following tags should include categories of the type of cards.
+	- #Obsolete can be used after type tag to mark the card as removed from newer versions of the game. Never remove a card
+	- Following tags should include categories of the type of cards. They are defined below in different card types
 	- Then Tags should include Genre tags.
 		- If the card is defined in the core rules (as opposed to a module or genre), the #Core tag should be on the tag line. 
 		- If any genre explicitly endorses or defines that card, a tag with the name of the genre should be applied. A genre endorsement could be implicit, as in an ability in a type or focus that is recommanded should be tagged for that genre.
@@ -93,7 +88,7 @@ All Cards follow the following principles :
 	- A numbered list is a series of consecutive lines that start with number dot space "1. ", with number increasing each line.
 	- The card ends with one free line, the one closing the last block
 
-### Abilities
+## Abilities
 
 - Tagline should be
 	- Ability Name(s)
@@ -125,7 +120,7 @@ All Cards follow the following principles :
 - If abilities are defined in abilities, either make the 
 - Last paragraph should only contain usage : "Enabler" or "Action" sentence.
 
-### Type
+## Type
 
 - Tagline should be :
 	- Type name(s)
@@ -153,7 +148,7 @@ All Cards follow the following principles :
 	- Then an indented abilites list to choose from
 - An optional "TYPE Example" freeform block
 
-### Flavor
+## Flavor
 
 - Tagline should be :
 	- Flavor name(s)
@@ -164,7 +159,7 @@ All Cards follow the following principles :
 	- First line is "X TIER FLAVOR ABILITIES", with X being first for first tier, etc.. ; FLAVOR being the name of the flavor.
 	- Following lines are a bullet point list containing only abilities available for tier
 
-### Descriptor
+## Descriptor
 
 - Tagline should be :
 	- Descriptor name(s) 
@@ -178,7 +173,7 @@ All Cards follow the following principles :
 	- Starts with the text "Initial Link to the Starting Adventure: From the following list of options, choose how you became involved in the first adventure."
 	- Followed by with a numbered list of options (usually 4). 
 
-### Focus
+## Focus
 
 - The name of a focus should not include the "who"
 - Tagline should be :
@@ -204,7 +199,7 @@ All Cards follow the following principles :
 	- All referenced abilities should have a card, but at least the ones that are used for multiple focuses, types, and/or other places
 - GM intrusion freeform block
 
-### Skill
+## Skill
 
 - Tagline should be
 	- Skill Name(s)
@@ -212,20 +207,27 @@ All Cards follow the following principles :
 - Description as a freeform block
 - Rules block that references relevant rules for that skill (Climbing skill, climbing rules)
 
-### Item
+## Item
 
 - Tagline should be :
 	- Item Name(s)
 	- #Item
 	- Item Type if applicable
-		- #WeaponLight 
-		- #WeaponMedium 
-		- #WeaponHeavy 
+		- #Ammo 
+		- #Animal 
 		- #ArmorLight 
 		- #ArmorMedium 
 		- #ArmorHeavy 
+		- #Clothing 
+		- #Consumable - Items used a number of times then consumed
+		- #Container - Bags and backpacks
+		- #Food 
+		- #Tool - Items that usually grant an asset or allow action, no limited uses
+		- #Pack - Set of multiple other items
 		- #Shield 
-		- #Ammo
+		- #WeaponLight 
+		- #WeaponMedium 
+		- #WeaponHeavy 
 	- Price tag : 
 		- #Inexpensive 
 		- #Moderate 
@@ -235,7 +237,7 @@ All Cards follow the following principles :
 	- Genre tags
 - Description of the item as a freeform
 
-### Cypher
+## Cypher
 
 - Tagline should be :
 	- Cypher Name(s)
@@ -249,7 +251,7 @@ All Cards follow the following principles :
 - Optional Form block : "Form : " Then a description of the forms it can take
 - Effect block : "Effect : " Then a freeform description of the effect when activated
 
-### Artefact
+## Artefact
 
 - Tagline should be :
 	- Artifact name(s)
@@ -260,7 +262,7 @@ All Cards follow the following principles :
 - Effect block : "Effect : " Then a freeform description of the effect when activated
 - Depletion block : "Depletion :" Then the depletion roll, or "--" for none
 
-### NPC or Creature
+## NPC or Creature
 
 - Tagline should be :
 	- Creature name(s)
@@ -280,7 +282,7 @@ All Cards follow the following principles :
 - Optional "Use : " then freeform text
 - Optional "GM intrusion: " then freeform text
 
-## Other (freeform)
+# Other (freeform)
 
 - Rules
 - Explainations
@@ -290,7 +292,7 @@ All Cards follow the following principles :
 
 Should be in headings separate from the cards. The rationale is to be able to automatically cut along headings and get consistent files.
 
-## Genre modules
+# Genre modules
 
 Should follow the following template :
 > # Genre
@@ -305,7 +307,7 @@ Should follow the following template :
 > ## Artifacts
 > ## Creatures
 
-## Linking conventions
+# Linking conventions
 
 - Use markdown standard links 
 	- [https://blog.markdowntools.com/posts/how-to-link-to-a-header-in-markdown](https://blog.markdowntools.com/posts/markdown-internal-links)

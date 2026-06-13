@@ -1,19 +1,20 @@
-Calculates the Incalculable #Focus #EnvironmentFocus #Core
+Calcule l'Incalculable #Focus #EnvironmentFocus #Core
 
-Awesome mathematical ability allows you to model the world in real time, giving
-you an edge over everyone.
+Des capacités mathématiques impressionnantes vous permettent de modéliser le
+monde en temps réel, vous donnant ainsi un avantage sur tout le monde.
 
-- Tier 1: [Predictive Equation](../Abilities/Predictive%20Equation.md)
-- Tier 1: [Higher Mathematics](../Abilities/Higher%20Mathematics.md)
-- Tier 2: [Predictive Model](../Abilities/Predictive%20Model.md)
-- Tier 3: [Subconscious Defense](../Abilities/Subconscious%20Defense.md) or
-  [Enhanced Intellect](../Abilities/Enhanced%20Intellect.md)
-- Tier 4: [Cognizant Offense](../Abilities/Cognizant%20Offense.md)
-- Tier 5: [Greater Enhanced
-  Intellect](../Abilities/Greater%20Enhanced%20Intellect.md)
-- Tier 5: [Further Mathematics](../Abilities/Further%20Mathematics.md)
-- Tier 6: [Knowing the Unknown](../Abilities/Knowing%20the%20Unknown.md) or
-  [Greater Enhanced Intellect](../Abilities/Greater%20Enhanced%20Intellect.md)
+- Rang 1 : [Equation prédictive](../Abilities/Predictive%20Equation.md)
+- Rang 1 : [Mathématiques supérieures](../Abilities/Higher%20Mathematics.md)
+- Rang 2 : [Modèle prédictif](../Abilities/Predictive%20Model.md)
+- Rang 3 : [Défense subconsciente](../Abilities/Subconscious%20Defense.md) ou
+  [Intellect amélioré](../Abilities/Enhanced%20Intellect.md)
+- Rang 4 : [Diagramme de combat](../Abilities/Cognizant%20Offense.md)
+- Rang 5 : [Intellect Amélioré
+  Supérieur](../Abilities/Greater%20Enhanced%20Intellect.md)
+- Rang 5 : [Mathématiques
+  Complémentaires](../Abilities/Further%20Mathematics.md)
+- Rang 6 : [Connaître l'inconnu](../Abilities/Knowing%20the%20Unknown.md) ou
+  [Intellect Amélioré Supérieur](../Abilities/Greater%20Enhanced%20Intellect.md)
 
-GM Intrusions: Too many predicted results threaten to overwhelm and stun the
-character. A result points to imminent disaster.
+Intrusions de la Meneuse : Trop de résultats prédits menacent de submerger et
+d'étourdir le personnage. Un résultat indique un désastre imminent.

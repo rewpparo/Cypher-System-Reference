@@ -1,17 +1,19 @@
-Defends the Gate #Focus #TankFocus #Core
+Garde le Passage #Focus #TankFocus #Core
 
-Everyone wants you on their side when it comes to a fight because nothing gets
-by you.
+Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un combat, car
+rien ne vous échappe.
 
-- Tier 1: [Fortified Position](../Abilities/Fortified%20Position.md)
-- Tier 1: [Rally to Me](../Abilities/Rally%20to%20Me.md)
-- Tier 2: [Mind for Might](../Abilities/Mind%20for%20Might.md)
-- Tier 3: [Fortification Builder](../Abilities/Fortification%20Builder.md) or
-  [Divert Attacks](../Abilities/Divert%20Attacks.md)
-- Tier 4: [Greater Enhanced Might](../Abilities/Greater%20Enhanced%20Might.md)
-- Tier 5: [Reinforcing Field](../Abilities/Reinforcing%20Field.md)
-- Tier 6: [Generate Force Field](../Abilities/Generate%20Force%20Field.md) or
-  [Stun Attack](../Abilities/Stun%20Attack.md)
+- Rang 1 : [Position fortifiée](../Abilities/Fortified%20Position.md)
+- Rang 1 : [Ralliez-vous à moi](../Abilities/Rally%20to%20Me.md)
+- Rang 2 : [Esprit de Puissance](../Abilities/Mind%20for%20Might.md)
+- Rang 3 : [Constructeur de
+  fortifications](../Abilities/Fortification%20Builder.md) ou [Détourner les
+  attaques](../Abilities/Divert%20Attacks.md)
+- Rang 4 : [Puissance améliorée
+  supérieure](../Abilities/Greater%20Enhanced%20Might.md)
+- Rang 5 : [Champ de renforcement](../Abilities/Reinforcing%20Field.md)
+- Rang 6 : [Générer un champ de force](../Abilities/Generate%20Force%20Field.md)
+  ou [Attaque Etourdissante](../Abilities/Stun%20Attack.md)
 
-GM Intrusions: A strategically important structure collapses. The enemy attacks
-from an unexpected direction.
+Intrusions de la Meneuse : Une structure d'importance stratégique s'effondre.
+L'ennemi attaque depuis une direction inattendue.

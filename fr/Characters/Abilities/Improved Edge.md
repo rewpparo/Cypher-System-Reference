@@ -1,5 +1,5 @@
-Improved Edge #Ability #MetaAbility #Mid #Core
+Avantage Amélioré #Ability #MetaAbility #Mid #Core
 
-Choose one of your Edge stats that is 0. It increases to 1.
+Choisissez l'un de vos Avantages qui est à 0. Il augmente à 1.
 
 Facilitateur.

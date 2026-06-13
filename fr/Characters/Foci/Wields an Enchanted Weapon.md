@@ -1,19 +1,19 @@
-Wields an Enchanted Weapon #Focus #Core #SuperHeroes #Fantasy
+Porte une Arme Enchantée #Focus #Core #SuperHeroes #Fantasy
 
-You have a weapon with strange abilities, and your knowledge of its powers has
-allowed you to create a unique style of combat with it.
+Vous possédez une arme aux capacités étranges, et votre connaissance de ses
+pouvoirs vous a permis de créer avec elle un style de combat unique.
 
-- Tier 1: [Enchanted Weapon](../Abilities/Enchanted%20Weapon.md)
-- Tier 1: [Innate Power](../Abilities/Innate%20Power.md)
-- Tier 1: [Charge Weapon](../Abilities/Charge%20Weapon.md)
-- Tier 2: [Power Crash](../Abilities/Power%20Crash.md)
-- Tier 3: [Rapid Attack](../Abilities/Rapid%20Attack.md) or [Throw Enchanted
-  Weapon](../Abilities/Throw%20Enchanted%20Weapon.md)
-- Tier 4: [Defending Weapon](../Abilities/Defending%20Weapon.md)
-- Tier 5: [Enchanted Movement](../Abilities/Enchanted%20Movement.md)
-- Tier 6: [Deadly Strike](../Abilities/Deadly%20Strike.md) or [Spin
-  Attack](../Abilities/Spin%20Attack.md)
+- Rang 1 : [Arme enchantée](../Abilities/Enchanted%20Weapon.md)
+- Rang 1 : [Pouvoir inné](../Abilities/Innate%20Power.md)
+- Rang 1 : [Arme Electrique](../Abilities/Charge%20Weapon.md)
+- Rang 2 : [Frappe Explosive](../Abilities/Power%20Crash.md)
+- Rang 3 : [Attaque rapide](../Abilities/Rapid%20Attack.md) ou [Lancer une arme
+  enchantée](../Abilities/Throw%20Enchanted%20Weapon.md)
+- Rang 4 : [Arme de défense](../Abilities/Defending%20Weapon.md)
+- Rang 5 : [Mouvement enchanté](../Abilities/Enchanted%20Movement.md)
+- Rang 6 : [Frappe mortelle](../Abilities/Deadly%20Strike.md) ou [Attaque
+  Tournoyante](../Abilities/Spin%20Attack.md)
 
-GM Intrusions: A weapon breaks or is dropped. The character loses their
-connection to the weapon until they use an action to reestablish the attunement.
-The weapon’s energy discharges in an unexpected way.
+Intrusions de la Meneuse : Une arme se brise ou tombe. Le personnage perd sa
+connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir
+l'harmonisation. L'énergie de l'arme se décharge de manière inattendue.

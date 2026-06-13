@@ -1,0 +1,1 @@
+Mirror #Item #Moderate #Core #Fantasy 2gp

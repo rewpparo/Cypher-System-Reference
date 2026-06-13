@@ -1,4 +1,4 @@
-L’œil pour les détails (2 points d'Intellect) #Ability #InformationAbility #Low
+L’œil pour les Détails (2 points d'Intellect) #Ability #InformationAbility #Low
 #Core
 
 Si vous passez cinq minutes environ à explorer en détail une zone d'un diamètre

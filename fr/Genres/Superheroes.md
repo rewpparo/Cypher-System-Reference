@@ -481,7 +481,7 @@ time and the “helpers” taking care of the rest.
 
 
 
-## Characters
+## Personnages
 
 ### SUGGESTED TYPES FOR A SUPERHERO GAME
 
@@ -681,7 +681,7 @@ choose.
 | 42-43 | Flight               | Power shift in flight                          |
 | 44    | Force field          | Force field master                             |
 | 45    | Growing              | Giant hero                                     |
-| 46-47 | Healing              | Power shift in healing                         |
+| 46-47 | Soigner              | Power shift in healing                         |
 | 48    | Human shapechanger   | Shapechanger                                   |
 | 49    | Illusion             | Illusionist                                    |
 | 50-51 | Intelligence         | Power shift in intelligence                    |
@@ -908,141 +908,148 @@ superhero campaigns. The foci introduced here are as follows:
 
 #### COPIES SUPERPOWERS
 
-You can copy others’ skills, abilities, and superpowers.
+Vous pouvez copier les compétences, les capacités et les super pouvoirs des
+autres.
 
 Tier 1: Flex Skill Tier 1: Flex Skill Tier 2: Copy Power Tier 3: Steal Power or
 Wildcard Powers Tier 4: Improved Copying Tier 5: Power Memory Tier 6: Amazing
 Copying or Multiple
 
-Copying GM Intrusions: A copied power ends unexpectedly or goes out of control.
-A copied power doesn’t bring secondary powers with it (like gaining superspeed
-without protection from air friction, or not being immune to the heat from your
-own fire bolts).
+Intrusions de la Meneuse : Un pouvoir copié se termine de manière inattendue ou
+devient incontrôlable. Un pouvoir copié n'apporte pas de pouvoirs secondaires
+(comme gagner une super vitesse sans protection contre la friction de l'air, ou
+ne pas être immunisé contre la chaleur de vos propres éclairs de feu).
 
 #### HAS A THOUSAND FACES
 
-You can change your appearance to look like anyone else.
+Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre.
 
 Tier 1: Face Morph Tier 1: Interaction Skills Tier 2: Body Morph Tier 2: War
 Flesh Tier 3: Disguise Other or Resilience Tier 4: Ageless Tier 4: Think Your
 Way Out Tier 5: Memory Becomes Action Tier 6: Divide Your Mind or Infer Thoughts
 
-GM Intrusions: Part of the disguise slips. An NPC thinks the disguised character
-is someone they know very well.
+Intrusions de la Meneuse : Une partie du déguisement glisse. Un PNJ pense que le
+personnage déguisé est quelqu'un qu'il connaît très bien.
 
 #### IGNORES PHYSICAL DISTANCE
 
-You can teleport from one place to another by briefly passing through a parallel
-dimension.
+Vous pouvez vous téléporter d'un endroit à un autre en traversant brièvement une
+dimension parallèle.
 
 Tier 1: Dimensional Squeeze Tier 2: Opportunist Tier 3: Defensive Blinking or
 Teleportation Burst Tier 4: Short Teleportation Tier 5: Medium Teleportation
 Tier 6: Teleportation or Teleportive Wound
 
-GM Intrusions: A teleport goes awry, landing the character in a dangerous place.
-Inertia (such as from falling) continues through the teleport, injuring the
-character.
+Intrusions de la Meneuse : Une téléportation tourne mal et le personnage se
+retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant
+la téléportation, blessant le personnage.
 
 #### SCULPTS HARD LIGHT
 
-You create physical objects out of hard light that you can use for offense and
-defense.
+Vous créez des objets physiques à partir d’une lumière solide que vous pouvez
+utiliser à des fins offensives et défensives.
 
 Tier 1: Automatic Glow Tier 1: Temporary Light Tier 2: Entangling Force Tier 3:
 Harder Light or Sculpt Light Tier 4: Greater Enhanced Intellect Tier 5: Improved
 Sculpt Light Tier 6: Defensive Field or Flight
 
-GM Intrusions: A hard light object disappears early. A hard light object cannot
-affect a certain creature or color.
+Intrusions de la Meneuse : Un objet à lumière solide disparaît prématurément. Un
+objet à lumière solide ne peut pas affecter une certaine créature ou couleur.
 
 #### SHRINKS TO MINUTE SIZE
 
-You can shrink down to the size of a bug and, with enough experience, even
-smaller.
+Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience,
+encore plus petit.
 
 Tier 1: Shrink Tier 1: Beneath Notice Tier 2: Smaller Tier 2: Advantages of
 Being Small Tier 3: Enlarge or Quick Switch Tier 4: Small Flight Tier 5: Shrink
 Others Tier 6: Bigger or Tiny
 
-GM Intrusions: A creature thinks the small character is potential food. The
-small character gets trapped in a tiny space or under a falling object.
+Intrusions de la Meneuse : Une créature pense que le petit personnage est de la
+nourriture potentielle. Le petit personnage se retrouve coincé dans un espace
+minuscule ou sous un objet qui tombe.
 
-A character who Shrinks to Minute Size who chooses to learn abilities like
-Enlarge will never be quite as big as one who Grows to Towering Heights, but
-they can enjoy the advantages of being big or small as needed.
+Un personnage qui Se Réduit à une Taille Infime et qui choisit d'apprendre des
+capacités comme Agrandir ne sera jamais aussi grand que celui qui Grandit
+Jusqu'au Ciel, mais il peut profiter des Avantages d'être grand ou petit selon
+ses besoins.
 
 #### SOARS ON AMAZING WINGS
 
-Many superheroes can fly, and some even have wings. You can use your wings for
-movement, attacks, and defense.
+De nombreux super-héros peuvent voler et certains ont même des ailes. Vous
+pouvez utiliser vos ailes pour vous déplacer, attaquer et vous défendre.
 
 Tier 1: Hover Tier 1: Flight Exertion Tier 2: Wing Weapons Tier 3: Acrobatic
 Attack or Flying Companion Tier 4: Hard to Hit Tier 5: Up to Speed Tier 6: Hard
 Target or Defense Master
 
-GM Intrusions: A wing gets hurt or restrained, causing the character to fall.
-Flying high makes the character an obvious target for an unexpected foe.
+Intrusions de la Meneuse : Une aile est blessée ou retenue, provoquant la chute
+du personnage. Voler haut fait du personnage une cible évidente pour un ennemi
+inattendu.
 
 #### STRETCHES
 
-Your body is elastic and rubbery, able to stretch to great lengths and compress
-when struck.
+Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grandes
+longueurs et de se comprimer lorsqu’il est frappé.
 
 Tier 1: Contortionist Tier 1: Far Step Tier 2: Elastic Grip Tier 2: Safe Fall
 Tier 3: Bypass Barrier or Misdirect Tier 4: Resilience Tier 5: Free to Move Tier
 6:Break the Ranks or Not Dead Yet
 
-GM Intrusions: An attack or effect interferes with the character’s elasticity. A
-stretched limb becomes overstressed and weak.
+Intrusions de la Meneuse : Une attaque ou un effet perturbe l'élasticité du
+personnage. Un membre étiré devient trop sollicité et faible.
 
 #### TAKES ANIMAL SHAPE
 
-You can transform yourself into an animal.
+Vous pouvez vous transformer en animal.
 
 Tier 1: Animal Shape Tier 2: Communication Tier 2: Soothe the Savage Tier 3:
 Bigger Animal Shape or Greater Beast Form Tier 4: Animal Scrying Tier 5: Hard to
 Kill Tier 6: Blurring Speed or Lend Animal Shape
 
-GM Intrusions: The character unexpectedly changes form. An NPC is frightened by
-or aggressive toward the shapeshifter. The transformation takes longer than
-expected.
+Intrusions de la Meneuse:** Le personnage change de forme de manière inattendue.
+Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation
+prend plus de temps que prévu.
 
-Greater Beast Form applies to using Animal Shape.
+Forme de bête Supérieure s'applique en utilisant Forme animale.
 
 #### TOUCHES THE SKY
 
-You can summon storms or break them apart.
+Vous pouvez invoquer des tempêtes ou les briser.
 
 Tier 1: Hover Tier 2: Wind Armor Tier 3: Bolts of Power or Storm Seed Tier 4:
 Windrider Tier 5: Cold Burst Tier 6: Control Weather or Wind Chariot
 
-GM Intrusions: An ally is accidentally struck by a fork of lightning. An
-unexpected grounding effect inflicts damage. The weather is seeded by a much
-smaller effect, and a storm grows out of control.
+Intrusions de la Meneuse : Un allié est accidentellement frappé par une
+fourchette de foudre. Un effet d'échouement inattendu inflige des dégâts. Le
+temps est influencé par un effet beaucoup plus faible et une tempête devient
+incontrôlable.
 
 #### WIELDS AN ENCHANTED WEAPON
 
-You have a weapon with strange abilities, and your knowledge of its powers has
-allowed you to create a unique style of combat with it.
+Vous possédez une arme aux capacités étranges, et votre connaissance de ses
+pouvoirs vous a permis de créer avec elle un style de combat unique.
 
 Tier 1: Enchanted Weapon Tier 1: Innate Power Tier 1: Charge Weapon Tier 2:
 Power Crash Tier 3: Rapid Attack or Throw Enchanted Weapon Tier 4: Defending
 Weapon Tier 5: Enchanted Movement Tier 6: Deadly Strike or Spin Attack
 
-GM Intrusions: A weapon breaks or is dropped. The character loses their
-connection to the weapon until they use an action to reestablish the attunement.
-The weapon’s energy discharges in an unexpected way.
+Intrusions de la Meneuse : Une arme se brise ou tombe. Le personnage perd sa
+connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir
+l'harmonisation. L'énergie de l'arme se décharge de manière inattendue.
 
 #### WIELDS INVISIBLE FORCE
 
-You bend light and manipulate beams of force for offense and defense.
+Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et la
+défense.
 
 Tier 1: Vanish Tier 2: Entangling Force Tier 2: Sharp Senses Tier 3: Force Field
 Barrier or Multi-Vanish Tier 4: Invisibility Tier 5: Defensive Field Tier 6:
 Concussion or Generate Force Field
 
-GM Intrusions: Invisibility partially fades, revealing the character’s presence.
-A force field is pierced by an unusual or unexpected attack.
+Intrusions de la Meneuse : L'invisibilité s'estompe partiellement, révélant la
+présence du personnage. Un champ de force est transpercé par une attaque
+inhabituelle ou inattendue.
 
 ### NEW ABILITIES
 
@@ -1251,12 +1258,13 @@ For example, it can make the illusion of a brick wall feel like brick, the
 illusion of a person smell like perfume and able to open a door, and the
 illusion of a fireplace hot to the touch.
 
-The physical reality provided to your illusion is a level 1 effect with 3
-health. If the illusion is used to make attacks, it inflicts only 1 point of
-damage (whether this is regular damage like an illusory punch or kick, or
-ambient damage like a falling brick wall or a fireplace’s flames). You can
-increase the level of the created effect by applying levels of Effort to this
-ability, each level of Effort increasing the effect’s level by 1.
+La réalité physique fournie à votre illusion est un effet de niveau 1 avec 3
+points de vie. Si l'illusion est utilisée pour réaliser des attaques, elle
+n'inflige qu'1 point de dégâts (qu'il s'agisse de dégâts normaux comme un coup
+de poing ou de pied illusoire, ou de dégâts ambiants comme la chute d'un mur de
+briques ou les flammes d'une cheminée). Vous pouvez augmenter le niveau de
+l'effet créé en appliquant des niveaux d'Effort à cette capacité, chaque niveau
+d'Effort augmentant le niveau de l'effet de 1.
 
 You can activate this ability as part of the action to create an illusion (using
 whatever ability it is that you use to create illusions, such as Minor
@@ -1932,7 +1940,7 @@ twenty-four hours if not used.
 
 Depletion: 1–3 in 1d10
 
-## Creatures
+## Les Créatures
 
 ### Basic CREATURES AND NPCs FOR A SUPERHERO GAME
 

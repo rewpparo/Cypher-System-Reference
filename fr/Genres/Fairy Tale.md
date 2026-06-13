@@ -53,7 +53,7 @@ be considered a cold-forged weapon for harming fey creatures. Thus, most bullets
 and other modern items wouldn’t be treated as cold iron by this definition, but
 some would fit the bill.
 
-## Characters
+## Personnages
 
 ### FORM VS. FUNCTION
 
@@ -71,7 +71,7 @@ addition to your Cypher System stats—being small, for example, does not
 inherently mean you’re stealthy—you’ll want to choose your stats to emphasize
 the bit of your character that you want to play.
 
-### SKILLS
+### COMPÉTENCES
 
 As described in the Cypher System Rulebook, there is no definitive list of
 skills. Characters can choose to become skilled in anything they like (with the
@@ -1063,7 +1063,7 @@ situation.
 | 10  | An item in the character’s hand or bag starts to replicate itself over and over.                                                                                         |
 
 
-### PLAYER INTRUSIONS
+### Intrusions de joueur
 
 A player intrusion occurs when a player chooses to alter something in the story,
 making things easier for a player character. It’s kind of a reverse GM
@@ -3483,7 +3483,7 @@ fire” or similar item. Come up with your own or roll a quirk on the table belo
 | 10  | Causes flowers to grow wherever it is stored or set down.                                                               |
 
 
-## Creatures
+## Les Créatures
 
 ### Basic CREATURES AND NPCs FOR A FAIRY TALE GAME
 

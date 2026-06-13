@@ -1,12 +1,14 @@
-Call in Favor (4 Intellect points) #Ability #CompanionAbility #High #Core
+Demande d'une faveur (4 points d'Intellect) #Ability #CompanionAbility #High
+#Core
 
-A guard, doctor, technician, or hired thug in the employ of or allied with a foe
-is secretly your ally or owes you a favor. When you call in the favor, the
-target does what they can to help you out of a specific fix (unties you, slips
-you a knife, leaves a cell door unlocked) in a way that minimizes their risk of
-revealing their divided loyalties to their employer or other allies. This
-ability is a difficulty 3 Intellect task. Each additional time you use this
-ability, the task is hindered by an additional step. The difficulty returns to 3
-after you rest for ten hours.
+Un garde, un médecin, un technicien ou un voyou employé ou allié avec un ennemi
+est secrètement votre allié ou vous doit une faveur. Lorsque vous demandez la
+faveur, la cible fait ce qu'elle peut pour vous aider à sortir d'une situation
+spécifique (vous détache, vous glisse un couteau, laisse une porte de cellule
+ouverte) de manière à minimiser son risque de révéler sa loyauté partagée à son
+égard. employeur ou d'autres alliés. Cette capacité est une tâche de difficulté
+3 d' Intellect. Chaque fois que vous utilisez cette capacité, la tâche est
+entravée par une étape supplémentaire. La difficulté revient à 3 après dix
+heures de repos.
 
 Action.

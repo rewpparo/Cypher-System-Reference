@@ -1,7 +1,8 @@
-Blinding Attack (3 Speed points) #Ability #SpecialAttackAbility #High #Core
+Attaque aveuglante (3 points de Célérité) #Ability #SpecialAttackAbility #High
+#Core
 
-If you have a source of light, you can use it to make a melee attack against a
-target. If successful, the attack deals no damage, but the target is blinded for
-one minute.
+Si vous disposez d'une source de lumière, vous pouvez l'utiliser pour effectuer
+une attaque au corps à corps contre une cible. En cas de réussite, l'attaque
+n'inflige aucun dégât, mais la cible est aveuglée pendant une minute.
 
 Action.

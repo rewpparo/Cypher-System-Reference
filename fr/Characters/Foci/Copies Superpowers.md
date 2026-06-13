@@ -1,18 +1,19 @@
-Copies Superpowers #Focus #Core #SuperHeroes
+Copie des Superpouvoirs #Focus #Core #SuperHeroes
 
-You can copy others’ skills, abilities, and superpowers.
+Vous pouvez copier les compétences, les capacités et les super pouvoirs des
+autres.
 
-- Tier 1: [Flex Skill](../Abilities/Flex%20Skill.md)
-- Tier 1: [Flex Skill](../Abilities/Flex%20Skill.md)
-- Tier 2: [Copy Power](../Abilities/Copy%20Power.md)
-- Tier 3: [Steal Power](../Abilities/Steal%20Power.md) or [Wildcard
-  Powers](../Abilities/Wildcard%20Powers.md)
-- Tier 4: [Improved Copying](../Abilities/Improved%20Copying.md)
-- Tier 5: [Power Memory](../Abilities/Power%20Memory.md)
-- Tier 6: [Amazing Copying](../Abilities/Amazing%20Copying.md) or [Multiple
-  Copying](../Abilities/Multiple%20Copying.md)
+- Rang 1 : [Compétences en Gage](../Abilities/Flex%20Skill.md)
+- Rang 1 : [Compétences en Gage](../Abilities/Flex%20Skill.md)
+- Rang 2 : [Pouvoir de copie](../Abilities/Copy%20Power.md)
+- Rang 3 : [Voler le pouvoir](../Abilities/Steal%20Power.md) ou [Pouvoirs
+  génériques](../Abilities/Wildcard%20Powers.md)
+- Rang 4 : [Copie Améliorée](../Abilities/Improved%20Copying.md)
+- Rang 5 : [Mémoire de Pouvoir Copié](../Abilities/Power%20Memory.md)
+- Rang 6 : [Copie étonnante](../Abilities/Amazing%20Copying.md) ou [Copie
+  multiple](../Abilities/Multiple%20Copying.md)
 
-Copying GM Intrusions: A copied power ends unexpectedly or goes out of control.
-A copied power doesn’t bring secondary powers with it (like gaining superspeed
-without protection from air friction, or not being immune to the heat from your
-own fire bolts).
+Intrusions de la Meneuse : Un pouvoir copié se termine de manière inattendue ou
+devient incontrôlable. Un pouvoir copié n'apporte pas de pouvoirs secondaires
+(comme gagner une super vitesse sans protection contre la friction de l'air, ou
+ne pas être immunisé contre la chaleur de vos propres éclairs de feu).

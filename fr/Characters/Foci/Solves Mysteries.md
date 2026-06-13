@@ -1,16 +1,18 @@
-Solves Mysteries #Focus #InfluenceFocus #Core
+Résout des Mystères #Focus #InfluenceFocus #Core
 
-You’re a master of deduction, using evidence to find the answer.
+Vous maîtrisez la déduction et utilisez des faits et des indices pour trouver la
+réponse.
 
-- Tier 1: [Investigator](../Abilities/Investigator.md)
-- Tier 1: [Sleuth](../Abilities/Sleuth.md)
-- Tier 2: [Out of Harm’s Way](../Abilities/Out%20of%20Harm’s%20Way.md)
-- Tier 3: [You Studied](../Abilities/You%20Studied.md) or [Skill With
-  Attacks](../Abilities/Skill%20With%20Attacks.md)
-- Tier 4: [Draw Conclusion](../Abilities/Draw%20Conclusion.md)
-- Tier 5: [Defuse Situation](../Abilities/Defuse%20Situation.md)
-- Tier 6: [Seize the Initiative](../Abilities/Seize%20the%20Initiative.md) or
-  [Greater Skill With Defense](../Abilities/Greater%20Skill%20With%20Defense.md)
+- Rang 1 : [Enquêteur](../Abilities/Investigator.md)
+- Rang 1 : [Détective](../Abilities/Sleuth.md)
+- Rang 2 : [Hors de danger](../Abilities/Out%20of%20Harm’s%20Way.md)
+- Rang 3 :[Vous avez étudié](../Abilities/You%20Studied.md) ou [Compétence avec
+  les attaques](../Abilities/Skill%20With%20Attacks.md)
+- Rang 4 : [Tirer une conclusion](../Abilities/Draw%20Conclusion.md)
+- Rang 5 : [Désamorcer la situation](../Abilities/Defuse%20Situation.md)
+- Rang 6 : [Compétence en Défense
+  Supérieure](../Abilities/Seize%20the%20Initiative.md) ou [Prendre
+  l'initiative](../Abilities/Greater%20Skill%20With%20Defense.md)
 
-GM Intrusions: Evidence disappears, red herrings confuse, and witnesses lie.
-Initial research can be faulty.
+Intrusions de la Meneuse : Les preuves disparaissent, les fausses pistes
+confondent et les témoins mentent. La recherche initiale peut être erronée.

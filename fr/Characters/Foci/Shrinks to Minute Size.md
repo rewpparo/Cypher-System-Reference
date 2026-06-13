@@ -1,22 +1,25 @@
-Shrinks to Minute Size #Focus #Core #SuperHeroes
+Se Réduit à une Taille Infime #Focus #Core #SuperHeroes
 
-You can shrink down to the size of a bug and, with enough experience, even
-smaller.
+Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience,
+encore plus petit.
 
-- Tier 1: [Shrink](../Abilities/Shrink.md)
-- Tier 1: [Beneath Notice](../Abilities/Beneath%20Notice.md)
-- Tier 2: [Smaller](../Abilities/Smaller.md)
-- Tier 2: [Advantages of Being
-  Small](../Abilities/Advantages%20of%20Being%20Small.md)
-- Tier 3: [Enlarge](../Abilities/Enlarge.md) or [Quick
-  Switch](../Abilities/Quick%20Switch.md)
-- Tier 4: [Small Flight](../Abilities/Small%20Flight.md)
-- Tier 5: [Shrink Others](../Abilities/Shrink%20Others.md)
-- Tier 6: [Bigger](../Abilities/Bigger.md) or [Tiny](../Abilities/Tiny.md)
+- Rang 1 : [Rétrécir](../Abilities/Shrink.md)
+- Rang 1 : [Sans être remarqué](../Abilities/Beneath%20Notice.md)
+- Rang 2 : [Plus petit](../Abilities/Smaller.md)
+- Rang 2 : [Avantages d'être
+  petit](../Abilities/Advantages%20of%20Being%20Small.md)
+- Rang 3 : [Agrandir](../Abilities/Enlarge.md) ou [Changements
+  Rapides](../Abilities/Quick%20Switch.md)
+- Rang 4 : [Petit vol](../Abilities/Small%20Flight.md)
+- Rang 5 : [Rétrécir les autres](../Abilities/Shrink%20Others.md)
+- Rang 6 : [Plus grand](../Abilities/Bigger.md) ou
+  [Minuscule](../Abilities/Tiny.md)
 
-GM Intrusions: A creature thinks the small character is potential food. The
-small character gets trapped in a tiny space or under a falling object.
+Intrusions de la Meneuse : Une créature pense que le petit personnage est de la
+nourriture potentielle. Le petit personnage se retrouve coincé dans un espace
+minuscule ou sous un objet qui tombe.
 
-A character who Shrinks to Minute Size who chooses to learn abilities like
-Enlarge will never be quite as big as one who Grows to Towering Heights, but
-they can enjoy the advantages of being big or small as needed.
+Un personnage qui Se Réduit à une Taille Infime et qui choisit d'apprendre des
+capacités comme Agrandir ne sera jamais aussi grand que celui qui Grandit
+Jusqu'au Ciel, mais il peut profiter des Avantages d'être grand ou petit selon
+ses besoins.

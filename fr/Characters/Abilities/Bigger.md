@@ -1,6 +1,7 @@
-Bigger #Ability #TransformAbility #Low #Core
+Plus grand #Ability #TransformAbility #Low #Core
 
-When you use [Enlarge](Enlarge.md), you can choose to grow up to 12 feet (4 m)
-in height, and you add 3 more temporary points to your Might Pool.
+Lorsque vous utilisez Agrandir, vous pouvez choisir de grandir jusqu'à 12 pieds
+(4 m) de hauteur et vous ajoutez 3 points temporaires supplémentaires à votre
+réserve de Puissance.
 
 Facilitateur.

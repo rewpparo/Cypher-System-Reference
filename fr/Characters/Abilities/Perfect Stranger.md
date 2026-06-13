@@ -1,10 +1,11 @@
-Perfect Stranger (3 Intellect points) #Ability #MetaAbility #SocialAbility #Mid
+Parfait Inconnu (3points d'Intellect) #Ability #MetaAbility #SocialAbility #Mid
 #Core
 
-You alter your posture and way of speaking and make a small but real alteration
-to an outfit (such as putting on or taking off a hat, reversing a cloak, and so
-on). For the next hour (or as long as you keep up the alteration), even
-creatures that know you well don’t recognize you. All tasks related to hiding
-your true identity during this period gain one free level of Effort.
+Vous changez votre posture, votre manière de parler et faites une altération
+petite mais réelle de vos vêtements (comme mettre ou enlever un chapeau,
+retourner une cape, etc). Pendant une heure (ou tant que vous conservez les
+altérations), même les créatures qui vous connaissent bien ne vous reconnaissent
+pas. Toutes les tâches liées à la dissimulation de votre identité pendant cette
+période gagnent un niveau d'Effort gratuit.
 
 Action pour initier.

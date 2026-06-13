@@ -11,7 +11,7 @@ strike, the long-awaited robot uprising, a powerful solar flare that burns out
 the world’s power grids and communications, or even something as prosaic as a
 global disease pandemic.
 
-## Characters
+## Personnages
 
 ### SUGGESTED TYPES FOR A POST-APOCALYPTIC GAME
 
@@ -3399,7 +3399,7 @@ roll.
 Depletion: 1 in 1d20 (check after each day of use)
 
 
-## Creatures
+## Les Créatures
 
 Basic CREATURES AND NPCs FOR A POST-APOCALYPTIC GAME
 - Crazy loner: level 3, deception and attacks as level 5

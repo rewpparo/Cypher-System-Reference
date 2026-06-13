@@ -7,4 +7,4 @@ the entire time). You can’t use this ability again until after you’ve taken 
 ten-hour recovery action. You can still use Magical Repertoire to fill your
 cypher slots.
 
-Action to initiate, ten minutes to complete.
+Action pour initier, dix minutes pour terminer.

@@ -1,9 +1,10 @@
-Countermeasures (4 Intellect points) #Ability #ProtectionAbility #Mid #Core
+Contre-mesures (4 points d'Intellect) #Ability #ProtectionAbility #Mid #Core
 
-You immediately end one ongoing effect (such as an effect created by a character
-ability) within immediate range. Alternatively, you can use this as a defense
-action to cancel any incoming ability targeted at you, or you can cancel any
-device or the effect of any device for 1d6 rounds. You must touch the effect or
-device to cancel it.
+Vous mettez immédiatement fin à un effet en cours (comme un effet créé par une
+aptitude de personnage) à portée immédiate. Alternativement, vous pouvez
+utiliser cette aptitude comme une action de défense pour annuler une aptitude
+qui est en train d'être lancée sur vous, ou pour annuler n'importe quel appareil
+ou effet d'un appareil pendant 1d6 rounds. Vous devez toucher l'effet ou
+l'appareil pour l'annuler.
 
 Action.

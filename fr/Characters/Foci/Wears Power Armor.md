@@ -1,16 +1,18 @@
-Wears Power Armor #Focus #Core
+Porte une Armure Mécanique #Focus #Core
 
-- Tier 1: [Powered Armor](../Abilities/Powered%20Armor.md)
-- Tier 1: [Enhanced Might](../Abilities/Enhanced%20Might.md)
-- Tier 2: [Heads-Up Display](../Abilities/Heads-Up%20Display.md)
-- Tier 3: [Fusion Armor](../Abilities/Fusion%20Armor.md) or [Incredible
-  Health](../Abilities/Incredible%20Health.md)
-- Tier 4: [Force Blast](../Abilities/Force%20Blast.md)
-- Tier 5: [Field-Reinforced Armor](../Abilities/Field-Reinforced%20Armor.md)
-- Tier 6: [Masterful Armor
-  Modification](../Abilities/Masterful%20Armor%20Modification.md) (Jet Assisted
-  Flight) or [Masterful Armor
-  Modification](../Abilities/Masterful%20Armor%20Modification.md) (Cypher Pod)
+- Rang 1 : [Armure motorisée](../Abilities/Powered%20Armor.md)
+- Rang 1 : [Puissance Améliorée](../Abilities/Enhanced%20Might.md)
+- Rang 2 : [Affichage Tête Haute](../Abilities/Heads-Up%20Display.md)
+- Rang 3 : [Armure Corporelle](../Abilities/Fusion%20Armor.md) ou [Santé
+  incroyable](../Abilities/Incredible%20Health.md)
+- Rang 4 : [Explosion de Force](../Abilities/Force%20Blast.md)
+- Rang 5 : [Armure Renforcée par Champs de
+  Force](../Abilities/Field-Reinforced%20Armor.md)
+- Rang 6 : [Modification magistrale de
+  l'armure](../Abilities/Masterful%20Armor%20Modification.md) (Vol Assisté par
+  Propulseur) ou [Modification magistrale de
+  l'armure](../Abilities/Masterful%20Armor%20Modification.md) (Cypher Pod)
 
-GM Intrusions: The armor won’t come off. The armor acts under its own power. The
-armor suffers a momentary power loss. NPCs are scared by the power armor.
+Intrusions de la Meneuse : L'armure ne s'enlève pas. L'armure agit par ses
+propres moyens. L'armure subit une perte de puissance momentanée. Les PNJs ont
+peur de l'armure assistée.

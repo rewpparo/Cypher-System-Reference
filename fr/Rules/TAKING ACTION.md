@@ -1,535 +1,601 @@
-Each character gets one turn each round. On a character’s turn, they can do one
-thing—an action. All actions fall into one of three categories: Might, Speed, or
-Intellect (just like the three stats). Many actions require die rolls—rolling a
-d20.
+Chaque personnage a un tour à chaque round. Pendant le tour d'un personnage, il
+peut réaliser une chose—une action. Toutes les actions sont réparties en trois
+catégories : Puissance, Célérité, ou Intelligence (exactement pour les trois
+caractéristiques). Beaucoup d'actions nécessitent des jets de dé—jeter un d20.
 
-Every action performs a task, and every task has a difficulty that determines
-what number a character must reach or surpass with a die roll to succeed.
+Chaque action réalise une tâche, et chaque tâche a une difficulté qui détermine
+quel nombre le PJ doit atteindre ou dépasser avec un jet de dé pour réussir.
 
-Most tasks have a difficulty of 0, which means the character succeeds
-automatically. For example, walking across a room, opening a door, and throwing
-a stone into a nearby bucket are all actions, but none of them requires a roll.
-Actions that are usually difficult or that become difficult due to the situation
-(such as shooting at a target in a blizzard) have a higher difficulty. These
-actions usually require a roll.
+La plupart des tâches ont une difficulté de 0, ce qui signifie que le personnage
+réussit automatiquement. Par exemple, marcher dans une pièce, ouvrir une porte,
+lancer une pierre dans un baquet sur le côté, sont toutes des actions, mais
+aucune ne nécessite un jet de dé. Les actions qui sont difficiles
+habituellement, ou qui le deviennent à cause de la situation (comme de tirer sur
+une cible dans le brouillard) ont une plus grande difficulté. Ces actions
+nécessitent un jet de dé.
 
-Some actions require a minimum expenditure of Might, Speed, or Intellect points.
-If a character cannot spend the minimum number of points needed to complete the
-action, they automatically fail at the task.
+Certaines actions ont besoin de dépenser un minimum de points de Puissance, de
+Célérité, ou d'Intellect. Si un personnage ne peut pas dépenser ce minimum de
+points requis pour accomplir l'action, il échoue automatiquement.
 
-# DETERMINING TASK STAT
+# DÉTERMINER LA CARACTÉRISTIQUE POUR UNE TÂCHE
 
-Every task relates to one of a character’s three stats: Might, Speed, or
-Intellect. Physical activities that require strength, power, or endurance relate
-to Might. Physical activities that require agility, flexibility, or fast
-reflexes relate to Speed. Mental activities that require force of will, memory,
-or mental power relate to Intellect. This means you can generalize tasks into
-three categories: Might tasks, Speed tasks, and Intellect tasks. You can also
-generalize rolls into three categories: Might rolls, Speed rolls, and Intellect
-rolls.
+Chaque tâche est associée à une des trois caractéristiques du personnage :
+Puissance, Célérité ou Intellect. Les activités physiques qui demandent de la
+force, de la puissance ou de l'endurance sont associées à la Puissance. Les
+activités qui demandent de l'agilité, de la flexibilité ou des bons réflexes
+sont associées à la Célérité. Les activités mentales qui demandent de la
+volonté, de la mémoire ou un pouvoir mentaux sont associées à l'Intellect. Cela
+signifie que vous pouvez généraliser les tâches en trois catégories : les tâches
+de Puissance, les tâches de Célérité, et les tâches d'Intelligence. Vous pouvez
+aussi généraliser les jets de dé en trois catégories : jets de Puissance, jets
+de Célérité, et jets d'Intelligence.
 
-The category of the task or roll determines what kind of Effort you can apply to
-the roll and may determine how a character’s other abilities affect the roll.
-For example, an Adept may have an ability that makes them better at Intellect
-rolls, and a Warrior may have an ability that makes them better at Speed rolls.
+La catégorie de la tâche ou du jet de dé détermine quel genre d'Effort pour
+pouvez appliquer au jet de dé et peut déterminer comment les autres capacités du
+personnage peuvent affecter le jet de dé. Par exemple, un Adepte peut avoir une
+capacité qui le rend meilleur aux jets d'Intelligence, et un Guerrier peut avoir
+une capacité qui le rend meilleur aux jets de Célérité.
 
-# DETERMINING TASK DIFFICULTY
+# DÉTERMINER LA DIFFICULTÉ DE LA TÂCHE
 
-The most frequent thing a GM does during the game—and probably the most
-important thing—is set a task’s difficulty. To make the job easier, use the Task
-Difficulty table, which associates a difficulty rating with a descriptive name,
-a target number, and general guidance about the difficulty.
+La chose la plus fréquente que la Meneuse fait pendant le jeu—et probablement la
+chose la plus importante—est de définir la difficulté d'une tâche. Pour vous
+rendre la vie plus facile, utilisez la table de Difficulté des Tâches, qui
+associe un niveau de difficulté à une description, un nombre cible et un guide
+général à propos de la difficulté.
 
-Every difficulty from 1 to 10 has a target number associated with it. The target
-number is easy to remember: it’s always three times the difficulty. The target
-number is the minimum number a player needs to roll on a d20 to succeed at the
-task. Moving up or down on the table is called hindering or easing, which is
-measured in steps.
+Chaque difficulté de 1 à 10 a un nombre seuil cible qui lui est associé. Le
+nombre seuil est facile à se souvenir : c'est toujours trois fois le niveau de
+difficulté. Le nombre seuil est le nombre minimum que le joueur a besoin
+d'obtenir en lançant un d20 pour réussir la tâche. Se déplacer vers le haut ou
+le bas de la table est appelé désavantager ou faciliter, et est mesuré en crans.
 
-For example, reducing a difficulty 5 task to a difficulty 4 task is “easing the
-difficulty by one step” or just “easing the difficulty” or “easing the task.”
-Most modifiers affect the difficulty rather than the player’s roll. This has two
-consequences:
+Par exemple, réduire la difficulté d'une tâche du niveau 5 au niveau 4 est
+appelé "faciliter la difficulté d'un cran" ou simplement "faciliter la
+difficulté" ou "faciliter la tâche". La plupart des modificateurs affectent la
+difficulté plutôt que le jet de dé du joueur. Cela a deux conséquences :
 
-Low target numbers such as 3 or 6, which would be boring in most games that use
-a d20, are not boring in the Cypher System. For example, if you need to roll a 6
-or higher, you still have a 25% chance to fail.
+Les nombres seuils peu élevés comme 3 ou 6, qui pourraient être ennuyeux dans la
+plupart des jeux utilisant un d20, ne sont pas ennuyeux dans le Cypher System.
+Par exemple, si vous avez besoin de faire un 6 ou plus au jet de dé, vous avez
+toujours 25% de chance d'échouer.
 
-The upper levels of difficulty (7, 8, 9, and 10) are all but impossible because
-the target numbers are 21 or higher, which you can’t roll on a d20. However,
-it’s common for PCs to have abilities or equipment that ease a task and thus
-lower the target number to something they _can_ roll on a d20.
+Les plus hauts niveaux de difficultés (7, 8, 9, et 10) ne devraient pas être
+possible car les nombres seuils sont supérieurs ou égaux à 21, que vous ne
+pouvez pas sortir avec un d20. Toutefois, il est commun pour les PJs d'avoir des
+capacités ou de l'équipement qui facilitent un tâche et ainsi diminuent le
+nombre seuil à quelque chose que le joueurs peuvent sortir avec un d20.
 
-A character’s tier does not determine a task’s level. Things don’t get more
-difficult just because a character’s tier increases—the world doesn’t instantly
-become a more difficult place. Fourth-tier characters don’t deal only with level
-4 creatures or difficulty 4 tasks (although a fourth-tier character probably has
-a better shot at success than a first-tier character does). Just because
-something is level 4 doesn’t necessarily mean it’s meant only for fourth-tier
-characters. Similarly, depending on the situation, a fifth-tier character could
-find a difficulty 2 task just as challenging as a second-tier character does.
+Un rang de personnage ne détermine pas le niveau de la tâche. Les choses ne
+deviennent pas plus difficiles si le rang d'un personnage augmente—le monde
+n'est pas soudainement devenu un endroit plus difficile. Les personnages de
+quatrième rang ne rencontrent pas seulement des créatures de niveau 4 ou des
+tâches de difficulté 4 (bien que le personnage de rang 4 aura plus de chance de
+réussir qu'un personnage de rang 1). Ce n'est pas parce que quelque chose est de
+niveau 4 que c'est forcément et uniquement pour des personnages de niveau 4. De
+manière similaire, en fonction de la situation, un personnage de rang 5 pourrait
+trouver un tâche de difficulté 2 tout aussi compliquée que pour un personnage de
+rang 2.
 
-Therefore, when setting the difficulty of a task, the GM should rate the task on
-its own merits, not on the power of the characters.
+Ainsi, quand elle définit la difficulté d'une tâche, la Meneuse devrait évaluer
+la tâche en tant que telle, et non en fonction de la puissance des personnages.
 
-# MODIFYING THE DIFFICULTY
+# MODIFIER LA DIFFICULTÉ
 
-After the GM sets the difficulty for a task, the player can try to modify it for
-their character. Any such modification applies only to this particular attempt
-at the task. In other words, rewiring an electronic door lock normally might be
-difficulty 6, but since the character doing the work is skilled in such tasks,
-has the right tools, and has another character assisting them, the difficulty in
-this instance might be much lower. That’s why it’s important for the GM to set a
-task’s difficulty without taking the character into account. The character comes
-in at this step.
+Après que la Meneuse a défini la difficulté d'une tâche, le joueur peut essayer
+de la modifier pour son personnage. N'importe laquelle de ces modifications ne
+s'applique que pour cette tentative bien particulière pour cette tâche. En
+d'autres mots, essayer un court-circuit sur une serrure électronique devrait
+être de difficulté 6, mais comme le personnage qui s'y attelle est compétent
+dans ce type de tâche, qu'il a les bons outils, et qu'un autre personnage
+l'assiste, la difficulté dans ce cas particulier peut être plus basse. C'est
+pourquoi il est important pour la Meneuse d'évaluer la difficulté d'une tâche
+sans tenir compte du personnage. Le personnage n'intervient qu'après cette
+évaluation.
 
-By using skills and assets, working together, and—perhaps most
-important—applying Effort, a character can ease a task by multiple steps to make
-it easier. Rather than adding bonuses to the player’s roll, reducing the
-difficulty lowers the target number. If they can reduce the difficulty of a task
-to 0, no roll is needed; success is automatic. (An exception is if the GM
-decides to use a GM intrusion on the task, in which case the player would have
-to make a roll at the original difficulty.)
+Par l'utilisation de ses compétences et atouts, en travaillant ensemble,
+et—peut-être le plus important—en appliquant de l'Effort, un personnage peut
+faciliter une tâche de plusieurs crans pour la rendre plus facile. Plutôt que
+d'ajouter des bonus au jet de dé du joueur, réduire la difficulté permet de
+diminuer le nombre seuil. Si un PJ peut réduire la difficulté de la tâche à 0,
+aucun jet de dé n'est nécessaire ; la réussite est automatique. (Il y a une
+exception si la Meneuse décide d'utiliser un Intrusion de MJ sur la tâche, dans
+ce cas, le joueur devra faire un jet de dé contre la difficulté originale.)
 
-There are three basic ways in which a character can ease a task: skills, assets,
-and Effort. Each method eases the task by at least one step—never in smaller
-increments.
+Il y a trois manières de base avec lesquelles le personnage peut faciliter une
+tâche : les compétences, les atouts et l'Effort. Chaque méthode facilite la
+tâche d'au moins un cran—jamais par plus petit que 1.
 
-(By using skills, assets, and Effort, a character can ease a task by a maximum
-of ten steps: one or two steps from skills, one or two steps from assets, and
-one to six steps from Effort.)
+(Par l'utilisation des compétences, atouts et Effort, un personnage peut
+faciliter une tâche d'un maximum de 10 crans : un ou deux crans par les
+compétences, on ou deux par les atouts, et entre un et six par l'Effort.)
 
-## SKILLS
+## COMPÉTENCES
 
-Characters may be skilled at performing a specific task. A skill can vary from
-character to character. For example, one character might be skilled at lying,
-another might be skilled at trickery, and a third might be skilled in all
-interpersonal interactions. The first level of being skilled is called being
-trained, and it eases that task by one step. More rarely, a character can be
-incredibly skilled at performing a task. This is called being specialized, and
-it eases the task by two steps instead of one. Skills can never decrease a task
-by more than two steps—any more than two steps from being trained and
-specialized don’t count.
+Les personnages peuvent être compétents pour accomplir une tâche spécifique. Une
+compétence peut varier en fonction du personnage. Par exemple, un personnage
+peut être compétent pour mentir, n autre peut être compétent pour la tricherie,
+et un troisième peut être compétent dans toutes les interactions
+interpersonnelles. Le premier niveau de compétence est d'être entraîné, et il
+facilite la tâche d'un cran. Plus rarement, un personnage peut être
+incroyablement doué pour accomplir une tâche. Ce cas est appelé être spécialisé,
+et cela facilite la tâche de deux crans au lieu d'un. Les compétences ne peuvent
+jamais diminuer un tâche de plus de deux crans—tout de qui donne plus de deux
+crans par des compétences n'est pas pris en compte.
 
-## ASSETS
+## ATOUTS
 
-An asset is anything that helps a character with a task, such as having a really
-good crowbar when trying to force open a door or being in a rainstorm when
-trying to put out a fire. Appropriate assets vary from task to task. The perfect
-awl might help when woodworking, but it won’t make a dance performance much
-better. An asset usually eases a task by one step. Assets can never ease a task
-by more than two steps—any more than two steps from assets don’t count.
+Un atout est tout ce qui peut aider un personnage dans une tâche, tel qu'avoir
+un bon pied-de-biche quand on veut forcer une porte, ou être sous une pluie
+torrentielle quand on veut éteindre un feu. Les atouts appropriés varient
+suivant la tâche. Un ciseau bien aiguisé peut aider pour travailler le bois,
+mais il ne pourra pas améliorer une chorégraphie de danse. Habituellement, un
+atout facilite une tâche d'un cran. Les atouts ne peuvent pas faciliter une
+tâche de plus de deux crans—tout de qui donne plus de deux crans par des atouts
+n'est pas pris en compte.
 
-(The important thing to remember is that a skill can reduce the difficulty by no
-more than two steps, and assets can reduce the difficulty by no more than two
-steps, regardless of the situation. Thus, no task’s difficulty will ever be
-reduced by more than four steps without using Effort.)
+(La chose importante à se rappeler est qu'une compétence ne peut réduire la
+difficulté d'une tâche que de deux crans maximum, et que les atouts ne peuvent
+pas réduire la difficulté d'une tâche de plus de deux crans, quelle que soit la
+situation. Ainsi, aucune difficulté pour une tâche ne peut être réduite de plus
+de quatre crans sans l'utilisation de l'Effort.)
 
 ## EFFORT
 
-A player can apply Effort to ease a task. To do this, the player spends points
-from the stat Pool that’s most appropriate to the task. For example, applying
-Effort to push a heavy rock off a cliff requires a player to spend points from
-the character’s Might Pool; applying Effort to activate an unusual machine
-interface requires them to spend points from the character’s Intellect Pool. For
-every level of Effort spent on a task, the task is eased. It costs 3 points from
-a stat Pool to apply one level of Effort, and it costs 2 additional points for
-every level thereafter (so it costs 5 points for two levels of Effort, 7 points
-for three levels of Effort, and so on). A character must spend points from the
-same stat Pool as the type of task or roll—Might points for a Might roll, Speed
-points for a Speed roll, or Intellect points for an Intellect roll.
+Un joueur peut appliquer de l'Effort pour faciliter une tâche. Pour ce faire, un
+joueur dépense des points de la Réserve de stat qui est la plus appropriée pour
+la tâche. Par exemple, appliquer de l'effort pour pousser un gros rocher
+par-dessus un rebord nécessite qu'un joueur doive dépenser des points de sa
+Réserve de Puissance ; applique de l'Effort pour activer l'interface d'une
+machine étrange nécessite de dépenser des points de la Réserve d'Intellect. Pour
+tout niveau d'Effort dépensé pour une tâche, cette dernière est facilitée. Cela
+coûte 3 points de votre Réserve de caractéristique pour appliquer un niveau
+d'Effort, et cela coûte 2 points supplémentaires pour chaque niveau d'Effort
+appliqué en plus (donc cela coûte 5 points pour deux niveaux d'Effort, 7 points
+pour trois niveaux d'Effort, et ainsi de suite). Un personnage doit dépenser des
+points de la même Réserve que celle associée à la tâche ou jet de dé---des
+points de Réserve de Puissance pour un jet de Puissance, des points de Réserve
+de Célérité pour un jet de Célérité, ou de points de Réserve d'Intellect pour un
+jet d'Intellect.
 
-Every character has a maximum level of Effort they can apply to a single task.
-Effort can never ease a task by more than six steps—any more than six steps from
-applying Effort doesn’t count.
+Chaque personnage a un niveau maximum d'Effort qu'il peut appliquer à une seule
+tâche. L'Effort ne peut pas faciliter une tâche de plus de six crans—tout de qui
+donne plus de six crans par l'Effort n'est pas pris en compte.
 
-Free Level of Effort: A few abilities give you a free level of Effort (these
-usually require you to apply at least one level of Effort to a task). In effect,
-you’re getting one more level of Effort than what you paid for. This free level
-of Effort can exceed the Effort limit for your character, but not the six-step
-limit for easing a task.
+Niveaux Gratuit d'Effort : Il y a quelques capacités qui peuvent vous donner un
+niveau d'Effort gratuit (en général elles vous demandent d'appliquer au moins un
+niveau d'Effort pour la tâche). En pratique, vous gagnez un niveau d'Effort
+supplémentaire en plus de ce que pourquoi vous avez payé. Ce niveau d'Effort
+gratuit peut dépasser la limite de l'Effort pour votre personnage, mais pas la
+limite des six crans d'Effort maximum pour faciliter une tâche.
 
-# ROLLING THE DIE
+# LANCER LE DÉ
 
-To determine success or failure, a player rolls a die (always a d20). If they
-roll the target number or higher, they succeed. Most of the time, that’s the end
-of it—nothing else needs to be done. Rarely, a character might apply a small
-modifier to the roll. If they have a +2 bonus when attempting specific actions,
-they add 2 to the number rolled. However, the original roll matters if it’s a
-special roll.
+Pour déterminer si une action réussit ou échoue, un joueur lance un dé (toujours
+un d20). Si le résultat du dé est supérieur ou égal au nombre seuil, c'est une
+réussite. La plupart du temps, c'est tout, il n'y a rien d'autre à faire. Dans
+certains cas assez rares, le personnage peut appliquer un petit modificateur au
+résultat du dé. Si il a un bonus de +2 quand il accomplit des actions
+spécifiques, il ajoute alors 2 au résultat du dé. Toutefois, c'est le résultat
+du dé qui importe dans le cas d'un jet de dé spécial.
 
-If a character applies a modifier to the die roll, it’s possible to get a result
-of 21 or higher, in which case they can attempt a task with a target number
-above 20. But if there is no possibility for success—if not even rolling a
-natural 20 (meaning the d20 shows that number) is sufficient to accomplish the
-task—then no roll is made. Otherwise, characters would have a chance to succeed
-at everything, even impossible or ridiculous tasks such as climbing moonbeams,
-throwing elephants, or hitting a target on the opposite side of a mountain with
-an arrow.
+Si un personnage applique un modificateur au résultat du jet de dé, il est
+possible d'obtenir un résultat de 21 ou plus, ce qui implique que le personnages
+peuvent essayer d'accomplir un tâche dont le nombre seuil est supérieur à 20.
+Mais si il n'y a aucune possibilité de réussite—si même avec un 20 naturel
+(c'est à dire que le dé indique ce nombre) ce n'est pas suffisant pour réussir
+la tâche—alors aucun jet de dé n'est réalisé. Autrement les personnages auraient
+toujours une chance de réussir n'importe quoi, même les tâches impossibles ou
+ridicules comme de grimper sur de la lumière, lancer des éléphants, ou toucher
+une cible de l'autre côté de la montagne avec une flèche.
 
-If a character’s modifiers add up to +3, treat them as an asset instead. In
-other words, instead of adding a +3 bonus to the roll, reduce the difficulty by
-one step. For example, if a Warrior has a +1 bonus to attack rolls from a minor
-effect, a +1 bonus to attack rolls from a special weapon quality, and a +1 bonus
-to attack rolls from a special ability, they do not add 3 to their attack
-roll—instead, they reduce the difficulty of the attack by one step. So if they
-attack a level 3 foe, they would normally roll against difficulty 3 and try to
-reach a target number of 9, but thanks to their asset, they roll against
-difficulty 2 and try to reach a target number of 6.
+Si la somme des modificateurs du personnage est égale à +3, considérez les comme
+un atout à la place. En d'autres mots, au lieu d'ajouter un bonus de +3 a un dé,
+réduisez la difficulté d'un cran. Par exemple, si un Guerrier a un bonus de +1 à
+un jet d'attaque grâce à un effet mineur, un bonus de +1 au jet d'attaque
+provenant de la qualité élevée de son arme, et un bonus de +1 venant d'une
+capacité spéciale, il n'ajoutera pas 3 à son jet de dé pour l'attaque---à la
+place, il réduira la difficulté de l'attaque d'un cran. Ainsi, si il attaque un
+adversaire de niveau 3, il aurait dû lancer un dé contre une difficulté 3 et
+essayer d'atteindre le nombre seuil de 9, mais grâce à ses avantages, il lancera
+un dé contre une difficulté de 2 en essayant d'atteindre le nombre seuil de 6.
 
-This distinction is important when stacking skills and assets to decrease the
-difficulty of an action, especially since reducing the difficulty to 0 or lower
-means no roll is needed.
+La distinction est importante quand on empile les compétences et les atouts pour
+diminuer la difficulté d'une action, particulièrement pour réduire la difficulté
+à 0 ou moins car aucun jet de dé n'est nécessaire.
 
-# THE PLAYER ALWAYS ROLLS
+# C'EST TOUJOURS LE JOUEUR QUI LANCE LE DÉ
 
-In the Cypher System, players always drive the action. That means they make all
-the die rolls. If a PC leaps out of a moving vehicle, the player rolls to see if
-they succeed. If a PC searches for a hidden panel, the player rolls to determine
-whether they find it. If a rockslide falls on a PC, the player rolls to try to
-get out of the way. If a PC and an NPC arm wrestle, the player rolls, and the
-NPC’s level determines the target number. If a PC attacks a foe, the player
-rolls to see if they hit. If a foe attacks the PC, the player rolls to see if
-they dodge the blow.
+Dans le Cypher system, ce sont les joueurs qui dirigent l'action. Cela signifie
+qu'ils font tous les jets de dé. Si un PJ saute d'une véhicule en mouvement, le
+joueur lance un dé pour savoir si il réussit. Si un PJ cherche un panneau caché,
+le joueur lance un dé pour déterminer si il trouve. Si une pierre tombe sur un
+PJ, le joueur lance un dé pour essayer de l'éviter. Si un PJ et un PNJ luttent
+ensembles, le joueur lance le dé, et le niveau du PNJ détermine le nombre seuil.
+Si le PJ attaque un adversaire, le joueur lance le dé pour savoir si il touche.
+Si un adversaire attaque un PJ, le joueur lance le dé pour savoir si il évite le
+coup.
 
-As shown by the last two examples, the PC rolls whether they are attacking or
-defending. Thus, something that improves defenses might ease or hinder their
-rolls. For example, if a PC uses a low wall to gain cover from attacks, the wall
-eases the player’s defense rolls. If a foe uses the wall to gain cover from the
-PC’s attacks, it hinders the player’s attack rolls.
+Comme vu dans les deux derniers exemples ci-dessus, le PJ lance le dé que ce
+soit pour l'attaque ou la défense. Ainsi, quelque chose qui améliore la défense
+peut faciliter ou désavantager le jet de dé. Par exemple, si un PJ utilise un
+muret pour se protéger de l'attaque, le mur facilite le jet de défense du
+joueur. Si l'adversaire utilise le muret pour se protéger de l'attaque du pJ,
+cela désavantage le jet d'attaque.
 
 # LANCERS SPÉCIAUX
 
-If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that
-number), special rules come into play. These are explained in more detail in the
-following sections.
+Si le résultat du jet de dé du joueur est un 1, 17, 18, 19 ou 20 (le d20 indique
+un de ces nombres), alors des règles spéciales s'appliquent. Elles ont
+détaillées dans les sections suivantes.
 
-1: GM Intrusion. The GM makes a free intrusion (see below) and doesn’t award
-experience points (XP) for it.
+1 : Intrusion de la Meneuse.La Meneuse a une intrusion gratuite (voir plus bas)
+et ne donne pas de points d'expérience (XP) en échange.
 
-17: Damage Bonus. If the roll was a damage-dealing attack, it deals 1 additional
-point of damage.
+17 : Bonus aux dommages. Si le jet était pour une attaque faisant des dommages,
+cela augmente les dommages de 1 point supplémentaire.
 
-18: Damage Bonus. If the roll was a damage-dealing attack, it deals 2 additional
-points of damage.
+18 : Bonus aux dommages. Si le jet était pour une attaque faisant des dommages,
+cela augmente les dommages de 2 points supplémentaires.
 
-19: Minor Effect. If the roll was a damage-dealing attack, it deals 3 additional
-points of damage or the PC gets a minor effect in addition to the normal results
-of the task. If the roll was something other than an attack, the PC gets a minor
-effect in addition to the normal results of the task.
+19 : Effet Mineur. Si le jet était pour une attaque faisant des dommages, cela
+augmente les dommages de 3 points supplémentaires ou alors le PJ dispose d'un
+effet mineur en plus des dommages normaux. Si le jet de dé était pour autre
+chose qu'une attaque, le PJ dispose d'un effet mineur en plus du résultat normal
+de la tâche.
 
-20: Major Effect. If the roll was a damage-dealing attack, it deals 4 additional
-points of damage or the PC gets a major or minor effect in addition to the
-normal results of the task. If the roll was something other than an attack, the
-PC gets a major effect in addition to the normal results of the task. If the PC
-spent points from a stat Pool on the action, the point cost for the action
-decreases to 0, meaning the character regains those points as if they had not
-spent them at all.
+20 : Effet Majeur. Si le jet était pour une attaque faisant des dommages, cela
+augmente les dommages de 4 points supplémentaires ou alors le PJ dispose d'un
+effet majeur ou d'un effet mineur en plus des dommages normaux. Si le jet de dé
+était pour autre chose qu'une attaque, le PJ dispose d'un effet majeur en plus
+du résultat normal de la tâche. Si le PJ a dépensé des points de sa Réserve de
+caractéristique pour l'action, le coût de ces points devient nul, ce qui
+signifie que le personnage regagne ces points comme si il ne les avait pas
+dépensé.
 
-# GM INTRUSION
+# INTRUSION DE LA MENEUSE
 
-GM intrusion is explained in more detail in the Running the Cypher System
-chapter, but essentially it means that something occurs to complicate the
-character’s life. The character hasn’t necessarily fumbled or done anything
-wrong (although perhaps they did). It could just be that the task presents an
-unexpected difficulty or something unrelated affects the current situation.
+L'intrusion de MJ est expliquée en détail dans le Chapitre Running the Cypher
+System, mais essentiellement, cela veut dire que quelque chose survient pour
+compliquer la vie du personnage. Le personnage n'a pas nécessairement fait un
+échec critique ou fait quelque chose de mal. Cela peut simplement être que la
+tâche en cours présente une difficulté imprévue ou quelque chose d'autre modifie
+la situation actuelle.
 
-For GM intrusion on a defense roll, a roll of 1 might mean that the PC takes 2
-additional points of damage from the attack, indicating that the opponent got in
-a lucky blow.
+Pour une intrusion de MJ sur une jet de défense, un 1 signifie que le personnage
+perd 2 points de dommages supplémentaires de l'attaque, car l'adversaire a eu un
+coup chanceux.
 
-(For complete details about GM intrusion and how to use it to best effect in the
-game, see the Running the Cypher System chapter.)
+(pour plus de détails concernant les intrusions de MJ et de comment les utiliser
+pour de meilleurs effets dans une session, veuillez vous référer au chapitre
+Running the Cypher System.)
 
-# MINOR EFFECT
+# EFFET MINEUR
 
-A minor effect happens when a player rolls a natural 19. Most of the time, a
-minor effect is slightly beneficial to the PC, but not overwhelming.
+Un effet mineur survient quand un joueur obtient un 19 naturel. La plupart du
+temps, un effet mineur est légèrement bénéfique pour le PJ, mais pas de façon
+démesurée.
 
-A climber gets up the steep slope a bit faster. A repaired machine works a bit
-better. A character jumping down into a pit lands on their feet. Either the GM
-or the player can come up with a possible minor effect that fits the situation,
-but both must agree on what it should be.
+Un grimpeur peut franchir une pente plus rapidement. Une machine réparée
+fonctionne un peu mieux. Un personnage sautant dans un puit atterri sur ses
+pieds. La meneuse ou le joueur peuvent inventer un effet mineur possible qui
+correspond à la situation, les tous les doivent être d'accord.
 
-Don’t waste a lot of time thinking of a minor effect if nothing appropriate
-suggests itself. Sometimes, in cases where only success or failure matters, it’s
-okay to have no minor effect. Keep the game moving at an exciting pace.
+Ne passez pas trop de temps à penser à un effet mineur si rien d'approprié ne
+survient. Quelque fois, si seul le succès ou l'échec importe, il est
+parfaitement acceptable de ne pas avoir d'effet mineur. Gardez le mouvement dans
+le jeu à un rythme excitant.
 
-In combat, the easiest and most straightforward minor effect is dealing 3
-additional points of damage with an attack. The following are other common minor
-effects for combat:
+En combat, l'effet mineur le plus simple est d'infliger 3 points de dommages
+supplémentaires à l'attaque. Voici ci-dessous d'autres effets mineurs possibles
+en combat :
 
-Damage object: Instead of striking the foe, the attack strikes what the foe is
-holding. If the attack hits, the character makes a Might roll with a difficulty
-equal to the object’s level. On a success, the object moves one or more steps
-down the object damage track.
+Objet endommagé : Au lieu de frapper la cible, l'attaque frappe ce que tient la
+cible. Si l'attaque touche, le personnage peut faire un jet de Puissance contre
+une difficulté égale au niveau de l'objet. Sur un succès, l'objet descend d'un
+ou deux crans sur le suivi des dommages aux objets.
 
-Distract: For one round, all of the foe’s tasks are hindered.
+Cible Distraite : Pendant un round, toutes les tâches de la cible sont
+désavantagées.
 
-Knock back: The foe is knocked or forced back a few feet. Most of the time, this
-doesn’t matter much, but if the fight takes place on a ledge or next to a pit of
-lava, the effect can be significant.
+Cible Repoussée : La cible est repoussée de un ou deux mètres. La plupart du
+temps cela n'a pas beaucoup d'importance, mais si le combat a lieu près d'un
+rebord ou à côté d'un puits de lave l'effet peut importer.
 
-Move past: The character can move a short distance at the end of the attack.
-This effect is useful to get past a foe guarding a door, for example.
+Dépasser la cible : Le personnage peut bouger sur une courte distance à la fin
+de l'attaque. Cet effet est utile pour dépasser un adversaire gardant une porte
+par exemple.
 
-Strike a specific body part: The attacker strikes a specific spot on the
-defender’s body. The GM rules what special effect, if any, results. For example,
-hitting a creature’s tentacle that is wrapped around an ally might make it
-easier for the ally to escape. Hitting a foe in the eye might blind it for one
-round. Hitting a creature in its one vulnerable spot might ignore Armor.
+Frapper une partie du corps spécifique : L'attaquant frappe un endroit
+spécifique du corps de l'adversaire. La Meneuse définit la nature de l'effet
+spécial, si il y en a, qui en découle. Par exemple, frapper le tentacule d'une
+créature qui est enroulé autour d'un allié peut rendre sa fuite plus facile.
+Frapper un adversaire dans les yeux peut l'aveugler pendant un round. Frapper un
+créature à l'un de ses points faibles peut ignorer l'Armure.
 
-Usually, the GM just has the desired minor effect occur. For example, rolling a
-19 against a relatively weak foe means it is knocked off the cliff. The effect
-makes the round more exciting, but the defeat of a minor creature has no
-significant impact on the story. Other times, the GM might rule that an
-additional roll is needed to achieve the effect—the special roll only gives the
-PC the _opportunity_ for a minor effect. This mostly happens when the desired
-effect is very unlikely, such as pushing a 50-ton battle automaton off a cliff.
-If the player just wants to deal 3 additional points of damage as the minor
-effect, no extra roll is needed.
+D'habitude, la Meneuse juge que seule l'effet mineur se produit. Par exemple,
+obtenir un 19 contre un adversaire relativement faible signifie qu'il tombe de
+la falaise. L'effet rend le round plus intéressant, mais la défaite d'une
+créature mineure n'a pas impact significatif sur l'histoire. Dans d'autres cas,
+la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire pour
+réussir l'effet—le jet de dé spécial ne fait que donner au personnage
+l'opportunité d'un effet mineur. Cela arrive souvent quand l'effet souhaité est
+très improbable, comme de pousser un robot de combat de 50 tonnes par-dessus le
+rebord de la falaise. Si le joueur veut simplement 3 points de dommages
+supplémentaires comme effet mineur, pas besoin de jet de dé en plus.
 
-# MAJOR EFFECT
+# EFFET MAJEUR
 
-A major effect happens when a player rolls a natural 20. Most of the time, a
-major effect is quite beneficial to the character. A climber gets up the steep
-slope in half the time. A jumper lands with such panache that those nearby are
-impressed and possibly intimidated. A defender makes a free attack on a foe.
+Un effet majeur survient quand un joueur obtient un 20 naturel au dé. La plupart
+du temps, un effet majeur est un bénéfice important pour le personnage. Un
+grimpeur atteint le sommet en moitié moins de temps. Un sauteur atterri avec un
+tel panache que les spectateurs sont impressionnés et sans doute intimidés. Un
+défenseur peut faire une attaque gratuite sur un adversaire.
 
-Either the GM or the player can come up with a possible major effect that fits
-the situation, but both must agree on what it should be. As with minor effects,
-don’t spend a lot of time agonizing over the details of a major effect. In cases
-where only success or failure matters, a major effect might offer the character
-a one-time asset (a modification of one step) to use the next time they attempt
-a similar action. When nothing else seems appropriate, the GM can simply grant
-the PC an additional action on their turn that same round.
+La meneuse ou le joueur peuvent inventer un effet majeur possible qui correspond
+à la situation, les tous les doivent être d'accord. Comme pour les effets
+mineurs, ne passez pas trop de temps à vous triturer le cerveau sur les détails
+de l'effet majeur. Dans les cas où seuls le succès ou l'échec est important, un
+effet majeur peut simplement offrir au personnage un atout à usage unique (une
+modification d'un cran) à utiliser la prochaine fois qu'il tente la même action.
+Si rien d'autre ne semble approprié, la Meneuse peut aussi simplement donner au
+PJ une action supplémentaire dans son tour pour ce round.
 
-In combat, the easiest and most straightforward\
-major effect is dealing 4 additional points of damage with an attack. The
-following are other common major effects for combat.
+En combat, l'effet majeur le plus simple et direct est d’occasionner 4 points de
+dommages supplémentaires pendant l'attaque. La liste ci-dessous donnent des
+effets majeurs communs dans un combat.
 
-Disarm: The foe drops one object that it is holding.
+Désarmer : L'adversaire laisse tomber un objet qu'il tenait.
 
-Impair: For the rest of the combat, all tasks the foe attempts are hindered.
+Blesser : Pour le reste du combat, toutes les tâches de l’adversaire sont
+atténuées.
 
-Knock down: The foe is knocked prone. It can get up on its turn.
+Renverser : L'adversaire est mis à terre. Il peut se relever à son prochain
+tour.
 
-Stun: The foe loses its next action.
+Assommer : L'adversaire perd sa prochaine action.
 
-As with minor effects, usually the GM just has the desired major effect occur,
-but sometimes the GM might require an extra roll if the major effect is unusual
-or unlikely.
+Comme pour les effets mineurs, la Meneuse juge, en général, que seul l'effet
+majeur se produit, mais dans certains cas, la Meneuse peut décider qu'un jet de
+dé supplémentaire est nécessaire si l'effet majeur est inhabituel ou improbable.
 
-# Retrying a Task after failure
+# Retenter une tâche après un échec
 
-If a character fails a task (whether it’s climbing a wall, picking a lock,
-trying to figure out a mysterious device, or something else) they can attempt it
-again, but they must apply at least one level of Effort when retrying that task.
-A retry is a new action, not part of the same action that failed, and it takes
-the same amount of time as the first attempt did.
+Si un personnage échoue à accomplir une tâche (que ce soit de grimper un mur,
+crocheter une serrure, identifier un appareil mystérieux, ou autre), il peut
+retenter sa chance, mais il doit appliquer au moins un niveau d'effort pour
+cette nouvelle tentative. Un nouvel essai est une nouvelle action, différente de
+l'action qui a échoué, et qui prendra le même temps à accomplir que pour la
+première fois.
 
-Sometimes the GM might rule that retries are impossible. Perhaps a character has
-one chance to convince the leader of a group of thugs not to attack, and after
-that, no amount of talking will stop them.
+Dans certains cas, la Meneuse peut décider qu'un nouvel essai est impossible.
+Peut-être que le personnage n'a qu'une seule chance de convaincre le chef d'un
+groupe de bandits de ne pas attaquer, et après ça, aucune discussion ne les
+arrêtera.
 
-This rule doesn’t apply to something like attacking a foe in combat because
-combat is always changing and fluid. Each round’s situation is new, not a repeat
-of a previous situation, so a missed attack can’t be retried.
+Cette règle ne s'applique pas au combat cas un combat est toujours changeant.
+Chaque situation de chaque round est nouvelle, ce n'est pas la répétition de la
+situation précédente, et donc une attaque ratée ne peut pas être retentée.
 
-# INITIAL COST
+# COÛT INITIAL
 
-The GM can assign a point cost to a task just for trying it. Called an initial
-cost, it’s simply an indication that the task is particularly taxing. For
-example, let’s say a character wants to try a Might action to open a heavy
-cellar door that is partially rusted shut. The GM says that forcing the door
-open is a difficulty 5 task, and there’s an initial cost of 3 Might points
-simply to try. This initial cost is in addition to any points the character
-chooses to spend on the roll (such as when applying Effort), and the initial
-cost points do not affect the difficulty of the task. In other words, the
-character must spend 3 Might points to attempt the task at all, but that doesn’t
-help them open the door. If they want to apply Effort to ease the task, they
-have to spend more points from their Might Pool.
+La Meneuse peut assigner un nombre de points pour essayer d'accomplir une tâche.
+Ce nombre de points est appelé coût initial et c'est simplement une indication
+qu'une tâche est particulièrement difficile. Par exemple, disons qu'un
+personnage veut tenter une action de Puissance pour ouvrir une lourde porte de
+cellule qui en partie scellée par la rouille. La Meneuse répond que forcer la
+porte est une tâche de difficulté 5, et qu'il y a un coût initial de 3 points de
+Puissance pour simplement Effort. Ce coût initial vient en plus de tout point
+que e personnage choisi de dépenser pour le jet de dé (comme pour appliquer de
+l'Effort), et le coût initial n'affecte pas la difficulté de la tâche. En
+d'autres mots, le personnage doit dépenser 3 points de Puissance pour ne faire
+que tenter d'accomplir la tâche, mais cela ne l'aide aucunement à ouvrir la
+porte. Si il veut appliquer de l'Effort pour faciliter la tâche, il devra
+dépenser plus de points de sa Réserve de Puissance.
 
-Edge helps with the initial cost of a task, just as it does with any expenditure
-from a character’s Pool. In the previous example, if the character had a Might
-Edge of 2, they would have to spend only 1 point (3 points minus 2 from their
-Might Edge) for the initial cost to attempt the task. If they also applied a
-level of Effort to open the door, they couldn’t use their Edge again—Edge
-applies only once per action—so using the Effort would cost the full 3 points.
-Thus, they’d spend a total of 4 points (1 for the initial cost plus 3 for the
-Effort) from their Might Pool.
+L'Avantage permet de diminuer le coût initial d'une tâche, comme il le fait pour
+toute dépense de points de Réserve de stat. Dans l'exemple précédent, si le
+personnage a un Avantage de Puissance de 2, il pourrait n'avoir à dépenser que
+seulement 1 point (3 points moins 2 de l'Avantage de Puissance) du coût initial
+pour tenter d'accomplir la tâche. si il applique aussi un niveau d'effort pour
+ouvrir la porte, il ne pourrait pas utiliser à nouveau son Avantage—l'Avantage
+ne s'applique qu'une seule fois par action—et ainsi l'Effort couterait
+l'inégralité des 3 points de Réserve. Ainsi, il dépenserait un total de 4 points
+(1 pour le coût initial plus 3 pour l'Effort) de sa Réserve de Puissance.
 
-The rationale of the initial cost rule is that even in the Cypher System, where
-things like Effort can help a character succeed on an action, logic still
-suggests that some actions are very difficult and taxing, particularly for some
-PCs more than others.
+La raison principale pour le coût initial est que même dans le Cypher System,
+quand les choses telles que l'Effort peut aider un personnage à réussir une
+action, la logique suggère néanmoins que certaines actions sont particulièrement
+difficiles et exigeantes, en particulier pour certains PJs.
 
 # DISTANCE
 
-Distance is simplified into four basic categories: immediate, short, long, and
-very long.
+Les distances (ou portées) sont simplifiées en quatre catégories de base :
+immédiate, courte, longue et très longue.
 
-Immediate distance from a character is within reach or within a few steps; if a
-character stands in a small room, everything in the room is within immediate
-distance. At most, immediate distance is 10 feet (3 m). Immediate distance is
-sometimes referred to as close, or even\
-point-blank, particularly when referring to ranges.
+Une distance immédiate à partir d'un personnage est à portée de main ou à
+quelques pas ; si le personnage se tient dans une petite pièce, tout ce qui est
+dans la pièce est à distance immédiate. Au plus, une distance immédiate est de 3
+m (10 pieds). Distance immédiate est quelque fois appelée proche, ou même à bout
+portant, particulièrement quand on se réfère à des portées.
 
-(The words “immediate” and “close” can be used interchangeably to talk about
-distance. If a creature or object is within arm’s reach of the character, it can
-be considered both immediate and close.)
+'Les mots "immédiate" et "proche" peuvent être utilisés de manière
+interchangeable pour parler de distance. Si une créature ou un objet est à
+portée de main d'un personnage, ils peuvent être considérés comme à portée
+immédiate ou proche.)
 - La distance courte est tout ce qui est plus loin que la distance immédiate,
   mais moins de 15m environ.
 - La distance longue est tout ce qui est plus loin que la distance courte, mais
   moins de 30m environ.
-- Very long distance is anything greater than long distance but less than 500
-  feet (150 m) or so.
-- Beyond that range, distances are always specified—1,000 feet (300 m), 1 mile
-  (1.5 km), and so on.
+- Une très longue distance est supérieure à une longue distance mais inférieure
+  à 150 m (500 pieds) environ.
+- Au-delà de cette portée, les distances sont toujours spécifiées—300 m (1000
+  pieds), 1,5 km (1 mile), et ainsi de suite.
 
-All weapons and special abilities use these terms for ranges. For example, all
-melee weapons have immediate range—they are close-combat weapons, and you can
-use them to attack anyone within immediate distance. A thrown knife (and most
-other thrown weapons) has short range. A small handgun also has short range. A
-rifle has long range.
+Toutes les armes et capacités spéciales utilisent ces termes pour les portées ou
+distances. Par exemple, toutes les armes de mêlées ont une portée immédiate---ce
+sont des armes de combat rapproché, et vous pouvez les utiliser contre quiconque
+se trouve à portée immédiate. Un couteau de lancer (et la plupart des armes de
+lancer) ont une courte portée. Un petit pistolet a aussi une courte portée. Un
+fusil a une longue portée.
 
-A character can move an immediate distance as a part of another action. In other
-words, they can take a few steps to the light switch and flip it on. They can
-lunge across a small room to attack a foe. They can open a door and step
-through.
+Un personnage peut se déplacer sur une distance immédiate pendant le déroulement
+d'une action. En d'autres mots, il peut faire quelques pas jusqu'à
+l'interrupteur pour le basculer. Il peut aussi se fendre au travers d'une petit
+pièce pour attaquer un adversaire. Il peut ouvrir une porte et la traverser.
 
-A character can move a short distance as their entire action for a turn. They
-can also try to move a long distance as their entire action, but the player
-might have to roll to see if the character slips, trips, or stumbles for moving
-so far so quickly.
+Un personnage peut se déplacer sur une courte distance en tant qu'action unique
+pendant son tour. Il peut aussi essayer de se déplacer sur une longe distance en
+tant qu'action, mais le joueur devrait faire une jet de dé pour voir si le
+personnage glisse ou trébuche en déplaçant aussi vite.
 
-GMs and players don’t need to determine exact distances. For example, if the PCs
-are fighting a group of guards, any character can likely attack any foe in the
-general melee—they’re all within immediate range. However, if one trooper stays
-back to fire a blaster, a character might have to use their entire action to
-move the short distance required to attack that foe. It doesn’t matter if the
-trooper is 20 feet (6 m) or 40 feet (12 m) away—it’s simply considered short
-distance. It does matter if the trooper is more than 50 feet (15 m) away because
-that distance would require a long move.
+Les Meneuses et les joueurs n'ont pas besoin de déterminer les distances
+exactes. Par exemple, si les PJs se battent contre un groupe de gardes,
+n'importe quel personnage peut attaquer n'importe quel adversaire dans une mêlée
+générale—ils sont tous dans une portée immédiate. Toutefois, si un soldat se
+retire pour faire feu avec son blaster, un personnage peut avoir à utiliser
+toute son action pour se déplacer sur une courte distance pour pouvoir
+l'attaquer. Ce n'est pas vraiment important de savoir si le soldat est à 6 m ou
+12 m—il faut simplement considérer une courte distance. Ce sera important si le
+soldat est à plus de 15 m de distance car dans ce cas cela nécessitera un
+déplacement sur une longue distance.
 
-OTHER DISTANCES
+AUTRES DISTANCES
 
-In rare cases where distances beyond very long are needed, real-world distances
-are best (1 mile, 100 kilometers, and so on). However, the following shorthand
-distances can be useful in some settings:
-- Planetary: On the same planet.
-- Interplanetary: Within the same solar system.
-- Interstellar: Within the same galaxy.
-- Intergalactic: Anywhere in the same universe.
-- Interdimensional: Anywhere.
+Dans de rares cas quand les distances au-delà de "très longue" sont nécessaire,
+les distances du monde réel sont celles qui fonctionnent le mieux (10 km, 100 k,
+...). Toutefois, les noms de distances si-dessous peuvent être utiles dans
+certains cadre de campagne :
+- Planétaire : Sur la même planète.
+- Interplanétaire : Dans le même système solaire.
+- Interstellaire : Dans la même galaxie.
+- Intergalactique : N'importe où dans le même univers.
+- Interdimensionnelle : N'importe où.
 
-# TIMEKEEPING
+# COMPTER LE TEMPS
 
-Generally, keep time the same way that you normally would, using minutes, hours,
-days, and weeks. Thus, if the characters walk overland for 15 miles (24 km),
-about eight hours pass, even though the journey can be described in only a few
-seconds at the game table. Precision timekeeping is rarely important. Most of
-the time, saying things like “That takes about an hour” works fine.
+En général, vous pouvez compter le temps comme vous le ferez normalement, en
+utilisant des minutes, heures, jours et semaines. Ainsi, si les personnages
+marchent sur 24 km, alors environ 8 heures sont passées, même si le voyage peut
+être décrit en seulement quelques secondes autour de la table. Compter le temps
+avec précision est rarement important. La plupart du temps, dire quelque chose
+comme "Cela prend environ une heure" suffit largement.
 
-This is true even when a special ability has a specific duration. In an
-encounter, a duration of “one minute” is mostly the same as saying “the rest of
-the encounter.” You don’t have to track each round that ticks by if you don’t
-want to. Likewise, an ability that lasts for ten minutes can safely be
-considered the length of an in-depth conversation, the time it takes to quickly
-explore a small area, or the time it takes to rest after a strenuous activity.
+C'est particulièrement vrai quand une capacité spéciale a une durée spécifique.
+Dans une rencontre, une durée de "une minute" est généralement la même chose que
+de dire "le reste de la rencontre". Vous n'avez pas besoin de décompter chaque
+round qui passe si vous ne voulez pas. De la même manière, une capacité qui dure
+pendant 10 minutes peut sans problème être considérée comme ayant la durée d'une
+longue conversation, le temps qu'il faut pour explorer rapidement une petite
+zone, ou le temps qu'il faut pour se reposer après une activité fatigante.
 
-TIMEKEEPING
+COMPTER LE TEMPS
 
-| Action                                                          | Time Usually Required                         |
-| --------------------------------------------------------------- | --------------------------------------------- |
-| Walking a mile over easy terrain                                | About fifteen minutes                         |
-| Walking a mile over rough terrain (forest, snow, hills)         | About half an hour                            |
-| Walking a mile over difficult terrain (mountains, thick jungle) | About forty-five minutes                      |
-| Moving from one significant location in a city to another       | About fifteen minutes                         |
-| Sneaking into a guarded location                                | About fifteen minutes                         |
-| Observing a new location to get salient details                 | About fifteen minutes                         |
-| Having an in-depth discussion                                   | About ten minutes                             |
-| Resting after a fight or other strenuous activity               | About ten minutes                             |
-| Resting and having a quick meal                                 | About half an hour                            |
-| Making or breaking camp                                         | About half an hour                            |
-| Shopping for supplies in a market or store                      | About an hour                                 |
-| Meeting with an important contact                               | About half an hour                            |
-| Referencing a book or website                                   | About half an hour                            |
-| Searching a room for hidden things                              | At least half an hour, perhaps one hour       |
-| Searching for cyphers or other valuables amid a lot of stuff    | About an hour                                 |
-| Identifying and understanding a cypher                          | Fifteen minutes to half an hour               |
-| Identifying and understanding an artifact                       | At least fifteen minutes, perhaps three hours |
-| Repairing a device (assuming parts and tools available)         | At least an hour, perhaps a day               |
-| Building a device (assuming parts and tools available)          | At least a day, perhaps a week                |
+| Action                                                                       | Temps nécessaire habituellement           |
+| ---------------------------------------------------------------------------- | ----------------------------------------- |
+| Marcher sur 1,5 km sur un terrain facile                                     | Environ 15 minutes                        |
+| Marcher sur 1,5 km sur un terrain accidenté (forêt, neige, collines)         | Environ 30 minutes                        |
+| Marcher sur 1,5 km sur un terrain difficile (montagne, jungle dense)         | Environ 45 minutes                        |
+| Se déplacer depuis un endroit important d'une cité dans un autre             | Environ 15 minutes                        |
+| S'introduire dans un endroit gardé                                           | Environ 15 minutes                        |
+| Surveiller un nouvel endroit pour révéler des informations importantes       | Environ 15 minutes                        |
+| Avoir une discussion en profondeur                                           | Environ 10 minutes                        |
+| Se reposer après un combat ou une activité fatigante                         | Environ 10 minutes                        |
+| Se reposer et prendre un repas rapide                                        | Environ 30 minutes                        |
+| Monter ou démonter le camp                                                   | Environ 30 minutes                        |
+| Acheter du ravitaillement sur un marché ou dans une boutique                 | Environ une heure                         |
+| Rencontrer un contact important                                              | Environ 30 minutes                        |
+| Rechercher un livre ou un site web                                           | Environ 30 minutes                        |
+| Chercher des éléments cachés dans une pièce                                  | Au moins 30 minutes, peut-être une heure  |
+| Chercher des Cyphers ou des objets de valeur                                 | Environ une heure                         |
+| Identifier et comprendre un cypher                                           | Entre 15 et 30 minutes                    |
+| Identifier et comprendre un artifact                                         | Au moins 15 minutes, peut-être 3 heures   |
+| Réparer un appareil (avec des pièces détachées et des outils disponibles)    | Au moins une heure, peut-être une journée |
+| Construire un appareil (avec des pièces détachées et des outils disponibles) | Au moins un jour, peut-être une semaine   |
 
-# ENCOUNTERS, ROUNDS, AND INITIATIVE
+# RENCONTRES, ROUNDS, ET INITIATIVE
 
-Sometimes in the course of the game, the GM or players will refer to an
-“encounter.” Encounters are not so much measurements of time as they are events
-or instances in which something happens, like a scene of a movie or a chapter in
-a book. An encounter might be a fight with a foe, a dramatic crossing of a
-raging river, or a stressful negotiation with an important official. It’s useful
-to use the word when referring to a specific scene, as in “My Might Pool is low
-after that encounter with the soul sorcerer yesterday.”
+De temps en temps dans le jeu, la Meneuse ou les joueurs vont faire référence à
+une "rencontre." Les rencontres ne sont pas tant des mesures du temps qu'elles
+sont des évènements ou des moments qui indiquent que quelque chose survient,
+comme une scène dans un film ou un chapitre dans un livre. Une rencontre peut
+être un combat avec un adversaire, le franchissement d'une rivière en crue, ou
+une négociation stressante avec un notable important. Il est pratique d'utiliser
+ce mot pour faire référence à une scène spécifique, comme dans "Ma Réserve de
+Puissance est faible après cette rencontre hier avec le sorcier des âmes."
 
-A round is about five to ten seconds. The length of time is variable because
-sometimes one round might be a bit longer than another. You don’t need to
-measure time more precisely than that. You can estimate that on average there
-are about ten rounds in a minute. In a round, everyone—each character and
-NPC—gets to take one action.
+Un round s'étend entre 5 et 10 secondes. La longueur de cette durée est variable
+car dans certains cas, un round peut être d'une durée plus longue qu'un autre
+round. Vous n'avez pas besoin de mesurer le temps plus précisément que ça. Vous
+pouvez estimer qu'en moyenne, il y a environ 10 rounds dans une minute. En un
+round, tout le monde—chaque personnage et PNJ—peut accomplir une action.
 
-To determine who goes first, second, and so on in a round, each player makes a
-Speed roll called an initiative roll. Most of the time, it’s only important to
-know which characters act before the NPCs and which act after the NPCs. On an
-initiative roll, a character who rolls higher than an NPC’s target number takes
-their action before the NPC does. As with all target numbers, an NPC’s target
-number for an initiative roll is three times the NPC’s level. Many times, the GM
-will have all NPCs take their actions at the same time, using the highest target
-number from among all the NPCs. Using this method, any characters who rolled
-higher than the target number act first, then all the NPCs act, and finally any
-characters who rolled lower than the target number act.
+Pour déterminer qui va en premier, en second, et ainsi de suite dans un round,
+chaque joueur fait un jet de Célérité appelé un jet d'initiative. La plupart du
+temps, ce n'est important que pour savoir quels personnages vont agir avant les
+PNJs et lesquels agissent après les PNJs. Sur un jet d'initiative, les
+personnage qui font un résultat supérieur au nombre seuil de l'adversaire font
+leurs actions avant les PNJs. Comme tous les nombres seuils, le nombre seuil
+d'un PNJ pour un jet d'initiative est trois fois le niveau du PNJ. Il peut
+souvent arriver que la Meneuse fasse en sorte que tous les PNJs effectuent leurs
+actions en même temps, en utilisant le plus grand nombre seuil de tous les PNJs.
+Avec cette méthode, tout personnage qui fait un jet d'initiative plus élevé que
+le nombre seuil commence en premier, puis tous les PNJs agissent, en finalement,
+tous les PJs ayant un résultat d'initiative plus bas que le nombre seuil
+agissent.
 
-(An initiative roll is a d20 roll. Since your initiative depends on how fast you
-are, if you spend Effort on the roll, the points come from your Speed Pool.)
+(Un jet d'initiative est un jet de d20. Comme votre initiative dépend d'à quel
+point vous êtes rapide, si vous dépensez de l'Effort pour ce jet de dé, les
+points viendront de votre Réserve de Célérité.)
 
-The order in which the characters act usually isn’t important. If the players
-want to go in a precise order, they can act in initiative order (highest to
-lowest), by going around the table, by going oldest to youngest, and so on.
+L'ordre dans lequel les personnages agissent n'est pas important. Si les joueurs
+veulent commencer dans un ordre précis, ils peuvent agir dans l'ordre de leur
+jet d'initiative (du plus grand au plus petit), ou en fonction du placement des
+joueurs autour le table, ou du plus vieux au plus jeune, etc.
 
-For example, Charles, Tammie, and Shanna’s characters are in combat with two
-level 2 security guards. The GM has the players make Speed rolls to determine
-initiative. Charles rolls an 8, Shanna rolls a 15, and Tammie rolls a 4. The
-target number for a level 2 creature is 6, so each round Charles and Shanna act
-before the guards, then the guards act, and finally Tammie acts. It doesn’t
-matter whether Charles acts before or after Shanna, as long as they think it’s
-fair.
+Par exemple, les personnages de Charles, Tammie et Shanna sont dans une
+situation de combat avec deux gardes de niveau 2. La Meneuse a demandé aux
+joueurs de faire un jet de Célérité pour déterminer l'initiative. Charles a fait
+un 8, Shanna un 15 et Tammie a obtenu un 4. Comme le nombre seuil pour une
+créature de niveau 2 est de 6, chaque round, Charles et Shanna agiront avant les
+gardes, puis les gardes agiront, et finalement Tammie agira. Cela n'a pas
+d'importance de savoir si Charles agit avant Shanna ou après, du moment qu'ils
+pensent que c'est juste.
 
-After everyone—all PCs and NPCs—in the combat has had a turn, the round ends and
-a new round begins. In all rounds after the first, everyone acts in the same
-order as they did in the first round. The characters cycle through this order
-until the logical end of the encounter (the end of the fight or the completion
-of the event) or until the GM asks them to make new initiative rolls. The GM can
-call for new initiative rolls at the beginning of any new round when conditions
-drastically change. For example, if the NPCs gain reinforcements, the
-environment changes (perhaps the lights go out), the terrain changes (maybe part
-of the balcony collapses under the PCs), or something similar occurs, the GM can
-call for new initiative rolls.
+Quand tout le monde—tous les PJS et PNJs—qui sont dans un combat ont terminé
+leur tour, le round se termine et un nouveau commence. Dans tous les rounds
+après le premier, chacun agit dans le même ordre que celui du premier round. Les
+personnages prennent ainsi leur tour de manière cyclique jusqu'à la fin logique
+de la rencontre (la fin du combat ou celui de l'évènenement) ou jusqu'à ce que
+la Meneuse leur demande de faire un nouveau jet d'initiative. La Meneuse peut
+demander un jet d'initiative au début de chaque nouveau round si les conditions
+changent de manière dramatique. Par exemple, si les PNJs reçoivent des renforts,
+si l'environnement change (peut-être que les lumières s'éteignent), si le
+terrain change (peut-être que le balcon s'écroule sous les PJs), ou quelque
+chose de similaire se produit, la Meneuse peut demander de nouveaux jets
+d'initiative.
 
-Since the action moves as a cycle, anything that lasts for a round ends where it
-started in the cycle. If Umberto uses an ability on an opponent that hinders its
-defenses for one round, the effect lasts until Umberto acts on his next turn.
+Comme l'action se déroule de manière cyclique, tout ce qui ne dure qu'un round
+se termine quand cela a commencé dans le cycle. Si Umberto utilise une capacité
+sur un adversaire qui lui entrave sa défense pour un round, l'effet dure jusqu'à
+ce que Umberto commence son prochain tour.
 
-# A CLOSER LOOK AT SITUATIONS THAT DON’T INVOLVE PCs
+# REGARDONS DE PLUS PRÈS LES SITUATIONS QUI N’IMPLIQUENT PAS DE PJ
 
-Ultimately, the GM is the arbiter of conflicts that do not involve the PCs. They
-should be adjudicated in the most interesting, logical, and story-based way
-possible. When in doubt, match the level of the NPCs (characters or creatures)
-or their respective effects to determine the results. Thus, if a level 4 NPC
-fights a level 3 NPC, the level 4 NPC will win, but if they face a level 7 NPC,
-they’ll lose. Likewise, a level 4 creature resists poisons or devices of level 3
-or lower but not those of level 5 and above.
+Dans tous les cas, c'est la Meneuse qui est l'arbitre dans les conflits qui
+n'impliquent pas les PJs. Ils devraient être résolus de la manière la plus
+intéressante, logique et centrée sur la narration qu'il soit possible. En cas de
+doute, alignez le niveau des PNJs (personnages ou créatures), ou leurs effets
+respectifs, pour déterminer les résultats. Ainsi, si un PNJ de niveau 4 combat
+un PNJ de niveau 3, les PNJ de niveau 4 gagnera toujours, mais si il fait face à
+un PNJ de niveau 7, il perdra. De la même manière, une créature de niveau 4
+résistera à des poisons ou des appareils de niveau3 ou moins, mais pas à ceux de
+niveau 5 ou plus.
 
-The essence is this: in the Cypher System, it doesn’t matter if something is a
-creature, a poison, or a gravity-dispelling ray. If it’s a higher level, it
-wins; if it’s a lower level, it loses. If two things of equal level oppose each
-other, there might be a long, drawn-out battle that could go either way.
+Le principe est le suivant : avec le Cypher System, cela n'a pas d'importance si
+quelque chose est une créature, un poison, ou un rayon annulant la gravité. Si
+c'est d'un niveau plus élevé, ce quelque chose va gagner ; si c'est de niveau
+inférieur, ce quelque chose va perdre. Si deux choses de niveau égal s'opposent
+l'un l'autre, il peut y avoir une longue et pénible bataille qui que l'un ou
+l'autre peut gagner.

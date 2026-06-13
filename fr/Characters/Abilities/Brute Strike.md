@@ -1,6 +1,6 @@
-Brute Strike (4 Might points) #Ability #Core
+Coup brutal (4 points de Puissance) #Ability #Core
 
-You deal 4 additional points of damage with all melee attacks until the end of
-the next round.
+Vous infligez 4 points de dégâts supplémentaires avec toutes les attaques de
+mêlée jusqu'à la fin du tour suivant.
 
 Facilitateur.

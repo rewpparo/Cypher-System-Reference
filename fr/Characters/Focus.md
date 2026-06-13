@@ -263,33 +263,32 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or
 something similar appropriate to the genre.
 
 TIER 1
-- [Choc](../Abilities/Bash.md)
-- [Enhanced Potential](Abilities/Enhanced%20Potential.md)
+- [Prouesse de combat](Abilities/Combat%20Prowess.md)
+- [Potentiel amélioré](Abilities/Enhanced%20Potential.md)
 
 TIER 2
 - Lower-tier ability: choose any tier 1 replacement ability, above.
-- - [Compétence en défense](../Abilities/Skill%20With%20Defense.md)
-- - [Pratique de toutes les
-  armes](../Abilities/Practiced%20With%20All%20Weapons.md)
-- [Coup écrasant](../Abilities/Crushing%20Blow.md)
+- [Doué en défense](Abilities/Skill%20With%20Defense.md)
+- [Exercé avec Toutes les Armes](Abilities/Practiced%20With%20All%20Weapons.md)
+- [Doué à l'attaque](Abilities/Skill%20With%20Attacks.md)
 
 TIER 3
 - Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
-- [Incredible Health](Abilities/Incredible%20Health.md)
-- [Fusion Armor](Abilities/Fusion%20Armor.md)
+- [Santé incroyable](Abilities/Incredible%20Health.md)
+- [Armure Corporelle](Abilities/Fusion%20Armor.md)
 
 TIER 4
 - Lower-tier ability: choose any tier 1, 2, or 3 replacement ability, above.
-- [Poison Resistance](Abilities/Poison%20Resistance.md)
-- [Built-in Weaponry](Abilities/Built-in%20Weaponry.md)
+- [Résistance au poison](Abilities/Poison%20Resistance.md)
+- [Armes intégrées](Abilities/Built-in%20Weaponry.md)
 
 TIER 5
 - Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
 - [Adaptation](Abilities/Adaptation.md)
-- [Defensive Field](Abilities/Defensive%20Field.md)
+- [Champ défensif](Abilities/Defensive%20Field.md)
 
 TIER 6
 - Lower-tier ability: choose any tier 1, 2, 3, 4, or 5 replacement ability,
   above.
-- [Reactive Field](Abilities/Reactive%20Field.md)
+- [Champ réactif](Abilities/Reactive%20Field.md)
 

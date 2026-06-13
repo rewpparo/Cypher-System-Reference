@@ -1,6 +1,6 @@
-Quick Wits #Ability #MetaAbility #Mid #Core
+Vif d'esprit #Ability #MetaAbility #Mid #Core
 
-When performing a task that would normally require spending points from your
-Intellect Pool, you can spend points from your Speed Pool instead.
+Quand vous faites une tâche qui demande d'utiliser des points d'Intellect, vous
+pouvez dépenser des points de Célérité à la place.
 
 Facilitateur.

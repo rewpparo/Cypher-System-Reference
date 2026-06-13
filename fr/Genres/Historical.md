@@ -82,7 +82,7 @@ historical game, here are some possible ideas: prehistory, classical antiquity,
 ancient Egypt, the American revolution, ancient China, World War II, Edo Period
 Japan, Medieval Europe, and the American Old West.
 
-## Characters
+## Personnages
 
 SUGGESTED TYPES FOR A HISTORICAL GAME
 
@@ -113,7 +113,7 @@ periods—contained fascinating and useful objects that were anachronistic for
 their period. Most such artifacts were likely the creations of philosophers,
 lone geniuses, and similar figures.
 
-## Creatures
+## Les Créatures
 
 Basic CREATURES AND NPCs FOR A HISTORICAL GAME
 - Cat: level 1, Speed defense as level 3

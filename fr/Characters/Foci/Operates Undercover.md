@@ -1,19 +1,20 @@
-Operates Undercover #Focus #ExplorationFocus #Core
+Opère sous Couverture #Focus #ExplorationFocus #Core
 
-Under the guise of someone else, you seek to find answers the powerful do not
-want divulged.
+Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des réponses que
+les puissants ne veulent pas divulguer.
 
-(Someone who Operates Undercover might have additional equipment that includes a
-disguise kit.)
+(Quelqu'un qui Opère sous Couverture pourrait avoir un équipement supplémentaire
+comprenant un kit de déguisement.)
 
-- Tier 1: [Investigate](../Abilities/Investigate.md)
-- Tier 2: [Disguise](../Abilities/Disguise.md)
-- Tier 3: [Agent Provocateur](../Abilities/Agent%20Provocateur.md) or [Run and
-  Fight](../Abilities/Run%20and%20Fight.md)
-- Tier 4: [Pull a Fast One](../Abilities/Pull%20a%20Fast%20One.md)
-- Tier 5: [Using What’s Available](../Abilities/Using%20What’s%20Available.md)
-- Tier 6: [Trust to Luck](../Abilities/Trust%20to%20Luck.md) or [Deadly
-  Strike](../Abilities/Deadly%20Strike.md)
+- Rang 1 : [Enquêter](../Abilities/Investigate.md)
+- Rang 2 : [Déguisement](../Abilities/Disguise.md)
+- Rang 3 : [Agent Provocateur](../Abilities/Agent%20Provocateur.md) ou [Courir
+  et combattre](../Abilities/Run%20and%20Fight.md)
+- Rang 4 : [Rapide Tromperie](../Abilities/Pull%20a%20Fast%20One.md)
+- Rang 5 : [Utiliser ce qui est
+  disponible](../Abilities/Using%20What’s%20Available.md)
+- Rang 6 : [Faites confiance à la chance](../Abilities/Trust%20to%20Luck.md) ou
+  [Frappe mortelle](../Abilities/Deadly%20Strike.md)
 
-GM Intrusions: Bad luck can ruin the best plans. Disguises fail. Allies are
-revealed to be agents, too.
+Intrusions de la Meneuse : La malchance peut ruiner les meilleurs projets. Les
+déguisements échouent. Les alliés se révèlent également être des agents.

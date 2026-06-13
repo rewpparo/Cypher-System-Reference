@@ -1,0 +1,1 @@
+Sack #Item #Container #Inexpensive #Core #Fantasy 1gp

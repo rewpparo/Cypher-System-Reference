@@ -1,15 +1,17 @@
-Rides the Lightning #Focus #EnergyFocus #Core
+Façonne la Foudre #Focus #EnergyFocus #Core
 
-You create and discharge electrical power.
+Vous créez et déchargez de l’énergie électrique.
 
-- Tier 1: [Shock](../Abilities/Shock.md)
-- Tier 1: [Charge](../Abilities/Charge.md)
-- Tier 2: [Bolt Rider](../Abilities/Bolt%20Rider.md)
-- Tier 3: [Electric Armor](../Abilities/Electric%20Armor.md) or [Drain
-  Charge](../Abilities/Drain%20Charge.md)
-- Tier 4: [Bolts of Power](../Abilities/Bolts%20of%20Power.md)
-- Tier 5: [Electrical Flight](../Abilities/Electrical%20Flight.md)
-- Tier 6: [Flash Across the Miles](../Abilities/Flash%20Across%20the%20Miles.md)
-  or [Wall of Lightning](../Abilities/Wall%20of%20Lightning.md)
+- Rang 1 : [Choc Electrique](../Abilities/Shock.md)
+- Rang 1 : [Charge](../Abilities/Charge.md)
+- Rang 2 : [Comme l'éclair](../Abilities/Bolt%20Rider.md)
+- Rang 3 : [Armure électrique](../Abilities/Electric%20Armor.md) ou [Charge
+  Drainante](../Abilities/Drain%20Charge.md)
+- Rang 4 : [Eclairs de Puissance](../Abilities/Bolts%20of%20Power.md)
+- Rang 5 : [Vol électrique](../Abilities/Electrical%20Flight.md)
+- Rang 6 : [Aussi Rapide que
+  l'Eclair](../Abilities/Flash%20Across%20the%20Miles.md) ou [Mur de
+  foudre](../Abilities/Wall%20of%20Lightning.md)
 
-GM Intrusions: Targets other than those intended are shocked. Objects explode.
+Intrusions de la Meneuse : Les cibles autres que celles prévues sont choquées.
+Les objets explosent.

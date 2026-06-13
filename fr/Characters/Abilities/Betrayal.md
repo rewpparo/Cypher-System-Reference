@@ -1,6 +1,7 @@
-Betrayal #Ability #MetaAbility #SocialAbility #Mid #Core
+Trahison #Ability #MetaAbility #SocialAbility #Mid #Core
 
-Any time you convince a foe that you are not a threat and then suddenly attack
-it (without provocation), the attack deals 4 additional points of damage.
+Chaque fois que vous convainquez un ennemi que vous n'êtes pas une menace et que
+vous l'attaquez soudainement (sans provocation), l'attaque inflige 4 points de
+dégâts supplémentaires.
 
 Facilitateur.

@@ -1,8 +1,8 @@
-Fire and Ice (4 Intellect points) #Ability #SpecialAttackAbility #Mid #Core
+Feu et Glace (4 points d'Intellect) #Ability #SpecialAttackAbility #Mid #Core
 
-You cause a target within short range to become either very hot or very cold
-(your choice). The target suffers 3 points of ambient damage (ignores Armor)
-each round for up to three rounds, although a new roll is required each round to
-continue to affect the target.
+Vous rendez une réchauffez ou refroidissez (au choix) une cible à portée courte.
+La cible subit 3 points de dégâts ambiants (qui ignorent l'armure) chaque round
+pendant 3 rounds maximum, mais un nouveau jet est nécessaire chaque round pour
+continuer à affecter la cible.
 
 Action pour initier.

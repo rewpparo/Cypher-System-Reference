@@ -1,12 +1,12 @@
-Terrifying Presence (2+ Intellect points) #Ability #ControlAbility #Low #Core
+Présence Terrifiante (2+ points d'Intellect) #Ability #ControlAbility #Low #Core
 
-You convince one intelligent target of level 3 or lower that you are its worst
-nightmare. The target must be within short range and be able to understand you.
-For as long as you do nothing but speak (you can’t even move), the target is
-paralyzed with fear, runs away, or takes some other action appropriate to the
-circumstances. In addition to the normal options for using Effort, you can
-choose to use Effort to increase the maximum level of the target. Thus, to
-terrorize a level 5 target (two levels above the normal limit), you must apply
-two levels of Effort.
+Vous persuadez une créature intelligente de niveau 3 ou moins que vous êtes son
+pire cauchemar. La cible doit être à portée courte et être capable de vous
+entendre. Tant que vous ne faites rien d'autre que parler (vous ne pouvez même
+pas vous déplacer), la cible est paralysée par la peur, ou fait une autre action
+appropriée aux circonstances. En plus des options normales pour l'usage de
+l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau
+maximum de la cible. Donc, pour terroriser une cible de niveau 5 (deux niveaux
+au dessus de la limite), vous devez mettre deux niveaux d'Effort.
 
 Action.

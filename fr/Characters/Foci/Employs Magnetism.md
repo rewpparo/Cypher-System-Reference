@@ -1,15 +1,16 @@
-Employs Magnetism #Focus #EnvironmentFocus #Core
+Contrôle le Magnétisme #Focus #EnvironmentFocus #Core
 
-You command metal and the power of magnetism.
+Vous maîtrisez le métal et le pouvoir du magnétisme.
 
-- Tier 1: [Move Metal](../Abilities/Move%20Metal.md)
-- Tier 2: [Repel Metal](../Abilities/Repel%20Metal.md)
-- Tier 3: [Destroy Metal](../Abilities/Destroy%20Metal.md) or [Guide
-  Bolt](../Abilities/Guide%20Bolt.md)
-- Tier 4: [Magnetic Field](../Abilities/Magnetic%20Field.md)
-- Tier 5: [Command Metal](../Abilities/Command%20Metal.md)
-- Tier 6: [Diamagnetism](../Abilities/Diamagnetism.md) or [Iron
-  Punch](../Abilities/Iron%20Punch.md)
+- Rang 1 : [Déplacer le métal](../Abilities/Move%20Metal.md)
+- Rang 2 : [Repousser le métal](../Abilities/Repel%20Metal.md)
+- Rang 3 : [Détruire le métal](../Abilities/Destroy%20Metal.md) ou [Tir
+  Guidé](../Abilities/Guide%20Bolt.md)
+- Rang 4 : [Champ magnétique](../Abilities/Magnetic%20Field.md)
+- Rang 5 : [Commander le Métal](../Abilities/Command%20Metal.md)
+- Rang 6 : [Diamagnétisme](../Abilities/Diamagnetism.md) ou [Lancer Objet en
+  Fer](../Abilities/Iron%20Punch.md)
 
-GM Intrusions: The metal twists, bends, or produces shrapnel. A lapse in
-concentration might cause something to slip or drop at just the wrong time.
+Intrusions de la Meneuse : Le métal se tord, se plie ou produit des éclats
+d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au
+mauvais moment.

@@ -1,5 +1,5 @@
-Blink of an Eye (4 Speed points) #Ability #MovementAbility #Mid #Core
+En un Clin d'oeil (4 points de Célérité) #Ability #MovementAbility #Mid #Core
 
-You move up to 1,000 feet (300 m) in one round.
+Vous vous déplacez jusqu'à 1 000 pieds (300 m) en un round.
 
 Action.

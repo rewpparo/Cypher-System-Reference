@@ -1,18 +1,20 @@
-Keeps a Magic Ally #Focus #Core
+Dispose d'un Allié Magique #Focus #Core
 
-An allied magic creature bound to an object (such as a minor djinn in a lamp, or
-a ghost in a pipe) is your friend, protector, and weapon.
+Une créature magique alliée liée à un objet (comme un djinn mineur dans une
+lampe, ou un fantôme dans une pipe) est votre ami, votre Protecteur et votre
+arme.
 
-- Tier 1: [Bound Magic Creature](../Abilities/Bound%20Magic%20Creature.md)
-- Tier 2: [Object Bond](../Abilities/Object%20Bond.md)
-- Tier 2: [Hidden Closet](../Abilities/Hidden%20Closet.md)
-- Tier 3: [Minor Wish](../Abilities/Minor%20Wish.md) or
-  [Mount](../Abilities/Mount.md)
-- Tier 4: [Improved Object Bond](../Abilities/Improved%20Object%20Bond.md)
-- Tier 5: [Moderate Wish](../Abilities/Moderate%20Wish.md)
-- Tier 6: [Object Bond Mastery](../Abilities/Object%20Bond%20Mastery.md) or
-  [Trust to Luck](../Abilities/Trust%20to%20Luck.md)
+- Rang 1 : [Créature magique liée](../Abilities/Bound%20Magic%20Creature.md)
+- Rang 2 : [Lien d'objet](../Abilities/Object%20Bond.md)
+- Rang 2 : [Placard caché](../Abilities/Hidden%20Closet.md)
+- Rang 3 : [Souhait mineur](../Abilities/Minor%20Wish.md) ou
+  [Monture](../Abilities/Mount.md)
+- Rang 4 : [Lien d'Objet Amélioré](../Abilities/Improved%20Object%20Bond.md)
+- Rang 5 : [Souhait modéré](../Abilities/Moderate%20Wish.md)
+- Rang 6 : [Maîtrise des liens d'objet](../Abilities/Object%20Bond%20Mastery.md)
+  ou [Faites confiance à la chance](../Abilities/Trust%20to%20Luck.md)
 
-GM Intrusions: The creature unexpectedly disappears into its bound object. The
-bound object cracks. The creature disagrees and doesn’t do as asked. The
-creature says it’s leaving unless a task is performed for it.
+Intrusions de la Meneuse : La créature disparaît de manière inattendue dans son
+objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas
+ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne
+soit accomplie pour elle.

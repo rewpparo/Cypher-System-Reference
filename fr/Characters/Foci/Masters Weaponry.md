@@ -1,20 +1,20 @@
-Masters Weaponry #Focus #StrikerFocus #Core
+Maîtrise l'Armement #Focus #StrikerFocus #Core
 
-You are a master user of a particular type of weapon, be it a sword, whip,
-dagger, gun, or something else.
+Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une
+épée, d'un fouet, d'un poignard, d'un pistolet ou autre.
 
-(Someone who Masters Weaponry might have additional equipment, including a high-
-quality weapon.)
+(Quelqu’un qui Maîtrise l'Armement peut disposer d’un équipement supplémentaire,
+notamment une arme de haute qualité.)
 
-- Tier 1: [Weapon Master](../Abilities/Weapon%20Master.md)
-- Tier 1: [Weapon Crafter](../Abilities/Weapon%20Crafter.md)
-- Tier 2: [Weapon Defense](../Abilities/Weapon%20Defense.md)
-- Tier 3: [Rapid Attack](../Abilities/Rapid%20Attack.md) or [Disarming
-  Strike](../Abilities/Disarming%20Strike.md)
-- Tier 4: [Never Fumble](../Abilities/Never%20Fumble.md)
-- Tier 5: [Extreme Mastery](../Abilities/Extreme%20Mastery.md)
-- Tier 6: [Murderer](../../../fr/Characters/Abilities/Murderer.md) or [Deadly
-  Strike](../Abilities/Deadly%20Strike.md)
+- Rang 1 : [Maître d'Arme](../Abilities/Weapon%20Master.md)
+- Rang 1 : [Fabricant d'armes](../Abilities/Weapon%20Crafter.md)
+- Rang 2 : [Défense avec Arme](../Abilities/Weapon%20Defense.md)
+- Rang 3 : [Attaque rapide](../Abilities/Rapid%20Attack.md) ou [Frappe
+  désarmante](../Abilities/Disarming%20Strike.md)
+- Rang 4 : [Ne jamais échouer](../Abilities/Never%20Fumble.md)
+- Rang 5 : [Maîtrise extrême](../Abilities/Extreme%20Mastery.md)
+- Rang 6 : [Meurtrier](../../../fr/Characters/Abilities/Murderer.md) ou [Frappe
+  mortelle](../Abilities/Deadly%20Strike.md)
 
-GM Intrusions: Weapons break. Weapons can be stolen. Weapons can be dropped or
-forced out of your hand.
+Intrusions de la Meneuse : Les armes se brisent. Les armes peuvent être volées.
+Les armes peuvent être lâchées ou arrachées de votre main.

@@ -1,59 +1,62 @@
-Magic #Flavor #Core
+Magie #Flavor #Core
 
-You know a little about magic. You might not be a wizard, but you know the
-basics—how it works, and how to accomplish a few wondrous things. Of course, in
-your setting, “magic” might actually mean psychic powers, mutant abilities,
-weird alien tech, or anything else that produces interesting and useful effects.
+Vous connaissez un peu la magie. Vous n'êtes peut-être pas un sorcier, mais vous
+connaissez les bases : comment cela fonctionne et comment accomplir quelques
+choses merveilleuses. Bien sûr, dans votre environnement, « magie » peut en fait
+signifier des pouvoirs psychiques, des capacités mutantes, une technologie
+extraterrestre étrange ou tout autre chose qui produit des effets intéressants
+et utiles.
 
-An Explorer flavored with magic might be a wizard-hunter, and a Speaker with
-magical flavor might be a sorcerer-bard. Although an Adept flavored with magic
-is still an Adept, you might find that swapping some of the type’s basic
-abilities with those given here tailors the character in desirable ways.
+Un explorateur à la Préférence magique pourrait être un chasseur de sorciers, et
+un orateur à la Préférence magique pourrait être un barde sorcier. Bien qu'un
+Adepte aromatisé à la magie reste un Adepte, vous constaterez peut-être
+qu'échanger certaines des capacités de base du type avec celles données ici
+permet d'adapter le personnage de manière souhaitable.
 
-# FIRST-TIER MAGIC ABILITIES
+# Capacités de Magie de Premier Rang
 
-- [Blessing of the Gods](../Abilities/Blessing%20of%20the%20Gods.md)
-- [Closed Mind](../Abilities/Closed%20Mind.md)
-- [Entangling Force](../Abilities/Entangling%20Force.md)
-- [Hedge Magic](../Abilities/Hedge%20Magic.md)
-- [Magic Training](../Abilities/Magic%20Training.md)
-- [Mental Link](../Abilities/Mental%20Link.md)
-- [Premonition](../Abilities/Premonition.md)
+- [Bénédiction des Dieux](../Abilities/Blessing%20of%20the%20Gods.md)
+- [Esprit fermé](../Abilities/Closed%20Mind.md)
+- [Force enchevêtrante](../Abilities/Entangling%20Force.md)
+- [Magie Prosaïque](../Abilities/Hedge%20Magic.md)
+- [Formation magique](../Abilities/Magic%20Training.md)
+- [Lien mental](../Abilities/Mental%20Link.md)
+- [Prémonition](../Abilities/Premonition.md)
 
-# SECOND-TIER MAGIC ABILITIES
+# Capacités de Magie de Second Rang
 
-- [Concussive Blast](../Abilities/Concussive%20Blast.md)
-- [Fetch](../Abilities/Fetch.md)
-- [FORCE FIELD](../../Game%20Mastering/Cyphers/FORCE%20FIELD.md)
-- [Lock](../Abilities/Lock.md)
-- [Repair Flesh](../Abilities/Repair%20Flesh.md)
+- [Explosion commotionnelle](../Abilities/Concussive%20Blast.md)
+- [Récupérer](../Abilities/Fetch.md)
+- [Champ de force](../../Game%20Mastering/Cyphers/FORCE%20FIELD.md)
+- [Verrouiller une Serrure](../Abilities/Lock.md)
+- [Réparer la chair](../Abilities/Repair%20Flesh.md)
 
-# THIRD-TIER MAGIC ABILITIES
+# Capacités de Magie de Troisième Rang
 
-- [Distance Viewing](../Abilities/Distance%20Viewing.md)
-- [Fire Bloom](../Abilities/Fire%20Bloom.md)
-- [Fling](../Abilities/Fling.md)
-- [Force at Distance](../Abilities/Force%20at%20Distance.md)
-- [Summon Giant Spider](../Abilities/Summon%20Giant%20Spider.md)
+- [Oeil de Mage](../Abilities/Distance%20Viewing.md)
+- [Cube de flammes](../Abilities/Fire%20Bloom.md)
+- [Envoyer](../Abilities/Fling.md)
+- [Force à distance](../Abilities/Force%20at%20Distance.md)
+- [Invoquer une araignée géante](../Abilities/Summon%20Giant%20Spider.md)
 
-# FOURTH-TIER MAGIC ABILITIES
+# Capacités de Magie de Quatrième Rang
 
-- [Elemental Protection](../Abilities/Elemental%20Protection.md)
-- [Ignition](../Abilities/Ignition.md)
-- [Pry Open](../Abilities/Pry%20Open.md)
+- [Protection élémentaire](../Abilities/Elemental%20Protection.md)
+- [Allumage](../Abilities/Ignition.md)
+- [Forcer](../Abilities/Pry%20Open.md)
 
-# FIFTH-TIER MAGIC ABILITIES
+# Capacités de Magie de Cinquième Rang
 
-- [Create](../Abilities/Create.md)
-- [Divine Intervention](../Abilities/Divine%20Intervention.md)
-- [Dragon’s Maw](../Abilities/Dragon’s%20Maw.md)
-- [Fast Travel](../Abilities/Fast%20Travel.md)
-- [True Senses](../Abilities/True%20Senses.md)
+- [Créer](../Abilities/Create.md)
+- [Intervention divine](../Abilities/Divine%20Intervention.md)
+- [Gueule de Dragon](../Abilities/Dragon’s%20Maw.md)
+- [Voyage rapide](../Abilities/Fast%20Travel.md)
+- [Sens Véritables](../Abilities/True%20Senses.md)
 
-# SIXTH-TIER MAGIC ABILITIES
+# Capacités de Magie de Sixième Rang
 
-- [Relocate](../Abilities/Relocate.md)
-- [Summon Demon](../Abilities/Summon%20Demon.md)
-- [Traverse the Worlds](../Abilities/Traverse%20the%20Worlds.md)
-- [Word of Death](../Abilities/Word%20of%20Death.md)
+- [Relocaliser](../Abilities/Relocate.md)
+- [Invoquer un démon](../Abilities/Summon%20Demon.md)
+- [Traversez les mondes](../Abilities/Traverse%20the%20Worlds.md)
+- [Mot de mort](../Abilities/Word%20of%20Death.md)
 

@@ -1,8 +1,8 @@
-Targeting Eye #Ability #TaskAbility #Mid #Core
+Oeil Cibleur #Ability #TaskAbility #Mid #Core
 
-You are trained in any physical ranged attack that is a character ability or
-comes from a device. For example, you are trained when using an Onslaught force
-blast because it’s a physical attack, but not when using an Onslaught mindslice
-because it’s a mental attack.
+Vous êtes entrainé dans toutes les attaques physiques à distance qui sont des
+aptitudes de personnage ou proviennent d'un appareil. Par exemple, vous êtes
+entrainé quand vous utilisez l'attaque physique d'Assaut, mais pas quand vous
+utilisez l'attaque mentale d'Assaut.
 
 Facilitateur.

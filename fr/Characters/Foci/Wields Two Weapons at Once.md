@@ -1,16 +1,16 @@
-Wields Two Weapons at Once #Focus #StrikerFocus #Core
+Se Bat avec Deux Armes à la fois #Focus #StrikerFocus #Core
 
-You bear steel with both hands, ready to take on any foe.
+Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennemi.
 
-- Tier 1: [Dual Light Wield](../Abilities/Dual%20Light%20Wield.md)
-- Tier 2: [Double Strike](../Abilities/Double%20Strike.md)
-- Tier 2: [Infiltrator](../Abilities/Infiltrator.md)
-- Tier 3: [Dual Medium Wield](../Abilities/Dual%20Medium%20Wield.md) or [Precise
-  Cut](../Abilities/Precise%20Cut.md)
-- Tier 4: [Dual Defense](../Abilities/Dual%20Defense.md)
-- Tier 5: [Dual Distraction](../Abilities/Dual%20Distraction.md)
-- Tier 6: [Disarming Attack](../Abilities/Disarming%20Attack.md) or [Spin
-  Attack](../Abilities/Spin%20Attack.md)
+- Rang 1 : [Deux Armes Légères](../Abilities/Dual%20Light%20Wield.md)
+- Rang 2 : [Double frappe](../Abilities/Double%20Strike.md)
+- Rang 2 : [Infiltrateur](../Abilities/Infiltrator.md)
+- Rang 3 : [Deux Armes Moyennes](../Abilities/Dual%20Medium%20Wield.md) ou
+  [Coupe Précise](../Abilities/Precise%20Cut.md)
+- Rang 4 : [Double défense](../Abilities/Dual%20Defense.md)
+- Rang 5 : [Double Distraction](../Abilities/Dual%20Distraction.md)
+- Rang 6 : [Attaque de désarmement](../Abilities/Disarming%20Attack.md) ou
+  [Attaque Tournoyante](../Abilities/Spin%20Attack.md)
 
-GM Intrusions: A blade snaps in two or a weapon flies loose from its bearer’s
-grip.
+Intrusions de la Meneuse : Une lame se brise en deux ou une arme se détache de
+la poigne de son porteur.

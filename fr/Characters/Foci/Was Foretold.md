@@ -1,18 +1,20 @@
-Was Foretold #Focus #Core
+A été Choisi(e) #Focus #Core
 
-You are the “chosen one,” and prophecy, prediction, prognostication, or some
-other method of determination expects great things of you one day.
+Vous êtes « l’élu.e » et la prophétie, la prédiction, le pronostic ou toute
+autre méthode de détermination attend de vous de grandes choses un jour.
 
-- Tier 1: [Interaction Skills](../Abilities/Interaction%20Skills.md)
-- Tier 1: [Knowing](../Abilities/Knowing.md)
-- Tier 2: [Destined for Greatness](../Abilities/Destined%20for%20Greatness.md)
-- Tier 3: [Overcome All Obstacles](../Abilities/Overcome%20All%20Obstacles.md)
-  or [Hard-Won Resilience](../Abilities/Hard-Won%20Resilience.md)
-- Tier 4: [Center of Attention](../Abilities/Center%20of%20Attention.md)
-- Tier 5: [Show Them the Way](../Abilities/Show%20Them%20the%20Way.md)
-- Tier 6: [As Foretold in
-  Prophecy](../Abilities/As%20Foretold%20in%20Prophecy.md) or [Greater Enhanced
-  Potential](../Abilities/Greater%20Enhanced%20Potential.md)
+- Rang 1 : [Compétences d'interaction](../Abilities/Interaction%20Skills.md)
+- Rang 1 : [Connaître](../Abilities/Knowing.md)
+- Rang 2 : [Destiné à la grandeur](../Abilities/Destined%20for%20Greatness.md)
+- Rang 3 : [Résilience durement
+  gagnée](../Abilities/Overcome%20All%20Obstacles.md) ou [Surmontez tous les
+  obstacles](../Abilities/Hard-Won%20Resilience.md)
+- Rang 4 : [Centre d'attention](../Abilities/Center%20of%20Attention.md)
+- Rang 5 : [Montrez-leur le chemin](../Abilities/Show%20Them%20the%20Way.md)
+- Rang 6 : [Comme le prédit la
+  prophétie](../Abilities/As%20Foretold%20in%20Prophecy.md) ou [Potentiel
+  amélioré plus important](../Abilities/Greater%20Enhanced%20Potential.md)
 
-GM Intrusions: An enemy described in prophecy appears. Unbelievers threaten to
-ruin the moment. The character gains a reputation in outside circles as a fraud.
+Intrusions de la Meneuse : Un ennemi décrit dans la prophétie apparaît. Les
+incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation
+de fraudeur dans les cercles extérieurs.

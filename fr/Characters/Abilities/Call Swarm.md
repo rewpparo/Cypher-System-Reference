@@ -1,10 +1,10 @@
-Call Swarm (4 Intellect points) #Ability #CompanionAbility #Mid #Core
+Appeller un essaim (4 points d'Intellect) #Ability #CompanionAbility #Mid #Core
 
-If you’re in a location where it’s possible for the creatures from your
-[Influence Swarm](Influence%20Swarm.md) ability to come, you call a swarm of
-them for one hour. During this hour, they do as you telepathically command as
-long as they are within long range. They can swarm about and hinder any or all
-opponents’ tasks. While the creatures are in long range, you can speak to them
-telepathically and perceive through their senses.
+Si vous vous trouvez dans un endroit où il est possible que les créatures de
+votre capacité Contrôle d'Essaim arrivent, vous en appelez un essaim pendant une
+heure. Pendant cette heure, ils font ce que vous commandez par télépathie tant
+qu'ils sont à longue portée. Ils peuvent envahir et gêner n'importe quelle tâche
+de l'adversaire. Lorsque les créatures se trouvent à longue portée, vous pouvez
+leur parler par télépathie et percevoir à travers leurs sens.
 
 Action pour initier.

@@ -1,17 +1,17 @@
-Ignores Physical Distance #Focus #Core #SuperHeroes
+Ignore les Distances Physiques #Focus #Core #SuperHeroes
 
-You can teleport from one place to another by briefly passing through a parallel
-dimension.
+Vous pouvez vous téléporter d'un endroit à un autre en traversant brièvement une
+dimension parallèle.
 
-- Tier 1: [Dimensional Squeeze](../Abilities/Dimensional%20Squeeze.md)
-- Tier 2: [Opportunist](../Abilities/Opportunist.md)
-- Tier 3: [Defensive Blinking](../Abilities/Defensive%20Blinking.md) or
-  [Teleportation Burst](../Abilities/Teleportation%20Burst.md)
-- Tier 4: [Short Teleportation](../Abilities/Short%20Teleportation.md)
-- Tier 5: [Medium Teleportation](../Abilities/Medium%20Teleportation.md)
-- Tier 6: [Teleportation](../Abilities/Teleportation.md) or [Teleportive
-  Wound](../Abilities/Teleportive%20Wound.md)
+- Rang 1 : [Compression dimensionnelle](../Abilities/Dimensional%20Squeeze.md)
+- Rang 2 : [Opportuniste](../Abilities/Opportunist.md)
+- Rang 3 : [Clignotement défensif](../Abilities/Defensive%20Blinking.md) ou
+  [Sauts de Téléportation](../Abilities/Teleportation%20Burst.md)
+- Rang 4 : [Téléportation courte](../Abilities/Short%20Teleportation.md)
+- Rang 5 : [Téléportation moyenne](../Abilities/Medium%20Teleportation.md)
+- Rang 6 : [Téléportation](../Abilities/Teleportation.md) ou [Blessure de
+  téléportation](../Abilities/Teleportive%20Wound.md)
 
-GM Intrusions: A teleport goes awry, landing the character in a dangerous place.
-Inertia (such as from falling) continues through the teleport, injuring the
-character.
+Intrusions de la Meneuse : Une téléportation tourne mal et le personnage se
+retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant
+la téléportation, blessant le personnage.

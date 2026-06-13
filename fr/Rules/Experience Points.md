@@ -6,7 +6,7 @@ a typical session, a player might earn 2 to 4 XP, and between sessions, perhaps
 another 2 XP (on average). The exact amounts depend on the events of the
 session.
 
-# GM INTRUSION
+# INTRUSION DE LA MENEUSE
 
 At any time, the GM can introduce an unexpected complication for a character.
 When they intrude in this way, they must give that character 2 XP. That player,
@@ -273,10 +273,10 @@ steps and advance to the next tier before they can buy the same steps again.
 - Increasing Capabilities: You gain 4 new points to add to your stat Pools. You
   can allocate the points among your Pools however you wish.
 
-- Moving Toward Perfection: You add 1 to your Might Edge, your Speed Edge, or
-  your Intellect Edge (your choice).
+- Avancer vers la Perfection : Vous ajoutez 1 à votre Avantage, votre Avantage
+  de Célérité ou à votre Avantage d'Intellect (à vous de choisir).
 
-- Extra Effort: Your Effort score increases by 1.
+- Extra Effort : Votre score d' Effort augmente de 1.
 
 - Skills: Choose one skill other than attacks or defense, such as climbing,
   jumping, persuading, sneaking, or history. You become trained in that skill.
@@ -304,7 +304,7 @@ steps and advance to the next tier before they can buy the same steps again.
   other categories. The special options are as follows:
     - Reduce the cost for wearing armor. This option lowers the Speed penalty
       for wearing armor by 1.
-    - Add 2 to your recovery rolls.
+    - Ajouter 2 à votre jets de récupération.
     - Select another focus ability available to you at tier 3. (You must be tier
       3 or higher to do this. Characters advancing beyond tier 6 can use this
       option to select their other tier 6 focus ability.)

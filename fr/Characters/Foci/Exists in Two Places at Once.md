@@ -1,15 +1,16 @@
-Exists in Two Places at Once #Focus #AllyFocus #Core
+Existe en Deux Endroits en Même Temps #Focus #AllyFocus #Core
 
-You exist in two places at once.
+Vous existez en deux endroits en même temps.
 
-- Tier 1: [Duplicate](../Abilities/Duplicate.md)
-- Tier 2: [Share Senses](../Abilities/Share%20Senses.md)
-- Tier 3: [Superior Duplicate](../Abilities/Superior%20Duplicate.md) or
-  [Resilient Duplicate](../Abilities/Resilient%20Duplicate.md)
-- Tier 4: [Damage Transference](../Abilities/Damage%20Transference.md)
-- Tier 5: [Coordinated Effort](../Abilities/Coordinated%20Effort.md)
-- Tier 6: [Multiplicity](../Abilities/Multiplicity.md) or [Resilient
-  Duplicate](../Abilities/Resilient%20Duplicate.md)
+- Rang 1 : [Duplicata](../Abilities/Duplicate.md)
+- Rang 2 : [Partager les sens](../Abilities/Share%20Senses.md)
+- Rang 3 : [Duplication Supérieure](../Abilities/Superior%20Duplicate.md) ou
+  [Duplicata résilient](../Abilities/Resilient%20Duplicate.md)
+- Rang 4 : [Transfert de dégâts](../Abilities/Damage%20Transference.md)
+- Rang 5 : [Effort coordonné](../Abilities/Coordinated%20Effort.md)
+- Rang 6 : [Multiplicité](../Abilities/Multiplicity.md) ou [Duplicata
+  résilient](../Abilities/Resilient%20Duplicate.md)
 
-GM Intrusions: Perceiving the world from two different places disorients the
-character, causing momentary vertigo, nausea, or confusion.
+Intrusions de la Meneuse : Percevoir le monde à partir de deux endroits
+différents désoriente le personnage, provoquant des vertiges momentanés, des
+nausées ou une confusion.

@@ -1,6 +1,6 @@
-Flee (6 Intellect points) #Ability #ControlAbility #High #Core
+Fuir (6 points d'Intellect) #Ability #ControlAbility #High #Core
 
-All non-allies within short distance who can hear your dreadful, intimidating
-words flee from you at top speed for one minute.
+Tous ceux qui ne sont pas vos alliés à distance courte et qui entendent vos mots
+effroyables et intimidants vous fuient à toute vitesse pendant une minute.
 
 Action.

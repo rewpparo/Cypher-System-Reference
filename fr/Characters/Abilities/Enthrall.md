@@ -1,8 +1,8 @@
-Enthrall (1 Intellect point) #Ability #SpecialAttackAbility #Low #Core
+Envoutement (1 point d'Intellect) #Ability #SpecialAttackAbility #Low #Core
 
-While talking, you grab and keep another creature’s attention, even if the
-creature can’t understand you. For as long as you do nothing but speak (you
-can’t even move), the other creature takes no actions other than to defend
-itself, even over multiple rounds. If the creature is attacked, the effect ends.
+Quand vous parlez, vous captez et gardez l'attention de la créature, même si la
+créature ne vous comprend pas. Tant que vous ne faites que parler (vous ne
+pouvez pas bouger), l'autre créature ne fait pas d'autre action que se défendre,
+même pendant plusieurs rounds. Si la créature est attaquée, l'effet se termine.
 
 Action.

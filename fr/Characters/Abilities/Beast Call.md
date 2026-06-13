@@ -1,9 +1,10 @@
-Beast Call (5 Intellect points) #Ability #CompanionAbility #High #Core
+Appel de Bête (5 points d'Intellect) #Ability #CompanionAbility #High #Core
 
-You summon a horde of small animals or a single level 4 beast to help you
-temporarily. These creatures do your bidding for as long as you focus your
-attention, but you must use your action each turn to direct them. Creatures are
-native to the area and arrive under their own power, so if you’re in an
-unreachable place, this ability won’t work.
+Vous invoquez une horde de petits animaux ou une seule bête de niveau 4 pour
+vous aider temporairement. Ces créatures exécutent vos ordres aussi longtemps
+que vous concentrez votre attention, mais vous devez utiliser votre action à
+chaque tour pour les diriger. Les créatures sont originaires de la région et
+arrivent par leurs propres moyens, donc si vous vous trouvez dans un endroit
+inaccessible, cette capacité ne fonctionnera pas.
 
 Action.

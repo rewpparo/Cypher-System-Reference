@@ -1,17 +1,20 @@
-Absorbs Energy #Focus #EnergyFocus #Core
+Absorbe l'Energie #Focus #EnergyFocus #Core
 
-You can harness kinetic energy and transform it into other kinds of energy.
+Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres types
+d’énergie.
 
-- Tier 1: [Absorb Kinetic Energy](../Abilities/Absorb%20Kinetic%20Energy.md)
-- Tier 1: [Release Energy](../Abilities/Release%20Energy.md)
-- Tier 2: [Energize Object](../Abilities/Energize%20Object.md)
-- Tier 3: [Absorb Pure Energy](../Abilities/Absorb%20Pure%20Energy.md) or
-  [Improved Absorb Kinetic
-  Energy](../Abilities/Improved%20Absorb%20Kinetic%20Energy.md)
-- Tier 4: [Overcharge Energy](../Abilities/Overcharge%20Energy.md)
-- Tier 5: [Energize Creature](../Abilities/Energize%20Creature.md)
-- Tier 6: [Energize Crowd](../Abilities/Energize%20Crowd.md) or [Overcharge
-  Device](../Abilities/Overcharge%20Device.md)
+- Rang 1 : [Absorber l'énergie
+  cinétique](../Abilities/Absorb%20Kinetic%20Energy.md)
+- Rang 1 : [Libération d'énergie](../Abilities/Release%20Energy.md)
+- Rang 2 : [Dynamiser un objet](../Abilities/Energize%20Object.md)
+- Rang 3 : [Absorber l'énergie pure](../Abilities/Absorb%20Pure%20Energy.md) ou
+  [Absorption d'énergie cinétique
+  améliorée](../Abilities/Improved%20Absorb%20Kinetic%20Energy.md)
+- Rang 4 : [Surcharge d'énergie](../Abilities/Overcharge%20Energy.md)
+- Rang 5 : [Energiser la créature](../Abilities/Energize%20Creature.md)
+- Rang 6 : [Energiser la foule](../Abilities/Energize%20Crowd.md) ou [Surcharge
+  d'Appareil](../Abilities/Overcharge%20Device.md)
 
-GM Intrusions: Energy goes to ground in a destructive way. Some predators feed
-directly on energy. An unintended item is drained of energy.
+Intrusions de la Meneuse : L'énergie va au sol de manière destructrice. Certains
+prédateurs se nourrissent directement d'énergie. Un élément involontaire est
+vidé de son énergie.

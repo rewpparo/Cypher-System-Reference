@@ -1,23 +1,25 @@
-Crafts Unique Objects #Focus #EnvironmentFocus #Core
+Façonne des Objets Uniques #Focus #EnvironmentFocus #Core
 
-You’re an inventor of strange and useful objects.
+Vous êtes un inventeur d'objets étranges et utiles.
 
-- Tier 1: [Crafter](../Abilities/Crafter.md)
-- Tier 1: [Master Identifier](../Abilities/Master%20Identifier.md)
-- Tier 2: [Artifact Tinkerer](../Abilities/Artifact%20Tinkerer.md)
-- Tier 2: [Quick Work](../Abilities/Quick%20Work.md)
-- Tier 3: [Master Crafter](../Abilities/Master%20Crafter.md) or [Built-in
-  Weaponry](../Abilities/Built-in%20Weaponry.md)
-- Tier 4: [Cyphersmith](../Abilities/Cyphersmith.md)
-- Tier 5: [Innovator](../Abilities/Innovator.md)
-- Tier 6: [Inventor](../Abilities/Inventor.md) or [Fusion
-  Armor](../Abilities/Fusion%20Armor.md)
+- Rang 1 : [Artisan](../Abilities/Crafter.md)
+- Rang 1 : [Maîtrise de l'Identification des
+  appareils](../Abilities/Master%20Identifier.md)
+- Rang 2 : [Bricoleur d'artefacts](../Abilities/Artifact%20Tinkerer.md)
+- Rang 2 : [Travail rapide](../Abilities/Quick%20Work.md)
+- Rang 3 : [Maître artisan](../Abilities/Master%20Crafter.md) ou [Armes
+  intégrées](../Abilities/Built-in%20Weaponry.md)
+- Rang 4 : [Maîtrise des Cyphers](../Abilities/Cyphersmith.md)
+- Rang 5 : [Innovateur](../Abilities/Innovator.md)
+- Rang 6 : [Inventeur](../Abilities/Inventor.md) ou [Armure
+  Corporelle](../Abilities/Fusion%20Armor.md)
 
-GM Intrusions: The object malfunctions, breaks, or suffers catastrophic or
-unexpected failure.
+Intrusions de la Meneuse : L'objet fonctionne mal, se casse, ou subit une panne
+catastrophique ou inattendue.
 
-([Cyphersmith](../Abilities/Cyphersmith.md) works only in a setting where the
-cyphers are physical objects. If this isn’t the case, this ability should
-probably be replaced with something akin to [Weird Science
-Breakthrough](../Abilities/Weird%20Science%20Breakthrough.md) from the [Conducts
-Weird Science](Conducts%20Weird%20Science.md) focus.)
+([Maîtrise des Cyphers](../Abilities/Cyphersmith.md) fonctionne uniquement dans
+un contexte où les chiffres sont des objets physiques. Si ce n'est pas le cas,
+cette capacité devrait probablement être remplacée par quelque chose qui
+s'apparente à [Percée scientifique
+étrange](../Abilities/Weird%20Science%20Breakthrough.md) du focus [Poursuit des
+Sciences Etranges](Conducts%20Weird%20Science.md).)

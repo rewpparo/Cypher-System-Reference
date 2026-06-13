@@ -3434,7 +3434,7 @@ to fire the weapon at least once as part of helping.
 Unless otherwise stated, a firearm holds ten bullets. Reloading a weapon (either
 with individual bullets or swapping in a new clip) is an action.
 
-## Characters
+## Personnages
 
 ### Cyberpunk Types
 

@@ -1,16 +1,18 @@
-Brainwashing (6+ Intellect points) #Ability #ControlAbility #High #Core
+Lavage de cerveau (6+ points d'Intellect) #Ability #ControlAbility #High #Core
 
-You use trickery, well-spoken lies, and mind-affecting chemicals (or other
-means, like magic or high technology) to make others temporarily do what you
-want them to do. You control the actions of another creature you touch. This
-effect lasts for one minute. The target must be level 3 or lower. You can allow
-it to act freely or override its control on a case-by-case basis as long as you
-can see it. In addition to the normal options for using Effort, you can choose
-to use Effort to increase the maximum level of the target or increase the
-duration by one minute. Thus, to control the mind of a level 6 target (three
-levels above the normal limit) or control a target for four minutes (three
-minutes above the normal duration), you must apply three levels of Effort. When
-the duration ends, the creature doesn’t remember being controlled or anything it
-did while under your influence.
+Vous utilisez la ruse, des mensonges bien prononcés et des produits chimiques
+affectant l'esprit (ou d'autres moyens, comme la magie ou la haute technologie)
+pour obliger les autres à faire temporairement ce que vous voulez qu'ils
+fassent. Vous contrôlez les actions d'une autre créature que vous touchez. Cet
+effet dure une minute. La cible doit être de niveau 3 ou inférieur. Vous pouvez
+lui permettre d'agir librement ou outrepasser son contrôle au cas par cas, à
+condition que vous puissiez le voir. En plus des options normales d'utilisation
+de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau
+maximum de la cible ou augmenter la durée d'une minute. Ainsi, pour contrôler
+l'esprit d'une cible de niveau 6 (trois niveaux au-dessus de la limite normale)
+ou contrôler une cible pendant quatre minutes (trois minutes au-dessus de la
+durée normale), vous devez appliquer trois niveaux d'Effort. Lorsque la durée se
+termine, la créature ne se souvient pas d'avoir été contrôlée ou de quoi que ce
+soit qu'elle ait fait sous votre influence.
 
 Action pour initier.

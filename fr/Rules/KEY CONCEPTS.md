@@ -1,112 +1,124 @@
 # ACTION
 
-Anything a character does that is significant—punch a foe, leap a chasm,
-activate a device, use a special power, and so on. Each character can take one
-action in a round.
+Tout ce qu'un personnage fait qui soit significatif—frapper un adversaire,
+sauter par-dessus un torrent, activer un appareil, utiliser un pouvoir spécial,
+et ainsi de suite. Chaque personnage peut faire une action en un round.
 
-# CHARACTER
+# PERSONNAGE
 
-Any creature in the game capable of acting, whether it is a player character
-(PC) run by a player or a nonplayer character (NPC) run by the game master (GM).
-In the Cypher System, even bizarre creatures, sentient machines, and living
-energy beings can be “characters.”
+Toute créature qui peut être interprétée, que ce soit un personnage-jour (PJ)
+interprété par un joueur, ou un personnage-non-joueur (PNJ) interprété par la
+Meneuse. Dans le Cypher System, les créature bizarres, les machines conscientes,
+et l'énergie vivante, peuvent toutes être des personnages.
 
-# DIFFICULTY
+# DIFFICULTÉ
 
-A measure of how easy it is to accomplish a task. Difficulty is rated on a scale
-from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder
-is called “hindering.” Altering it to make a task easier is called “easing.” All
-changes in difficulty are measured in steps. Difficulty often equates directly
-with level, so opening a level 3 locked door probably has a difficulty of 3.
+Une mesure de la facilité d'accomplir une tâche. La difficulté est évaluée sur
+une échelle de 1 (le plus facile) à 10 (le plus difficile). Modifier la
+difficulté pour rendre une tâche plus difficile est appelé "désavantager". La
+rendre plus facile est appelé "faciliter". Un changement de la difficulté est
+mesuré en crans. La difficulté est souvent égale au niveau, donc ouvrir une
+porte fermée de niveau 3 aura probablement une difficulté de 3.
 
-# EASE
+# FACILITER
 
-A decrease in a task’s difficulty, usually by one step. If something doesn’t say
-how many steps it eases a task, then it reduces the difficulty by one step.
+Une diminution de la difficulté d'une tâche, d'habitude d'un cran. Si il n'est
+pas indiqué de combien de cran une tâche est facilitée, alors la difficulté est
+réduite de un cran.
 
 # EFFORT
 
-Spending points from a stat Pool to reduce the difficulty of a task. A PC
-decides whether or not to apply Effort on their turn before the roll is made.
-NPCs never apply Effort.
+Dépenser des points d'une Réserve de stat pour réduire la difficulté d'une
+tâche. Un PJ peut décider si, oui ou non, il applique de l'Effort pendant son
+tour avant que le jet de dé soit effecté. Les PNJs n'applique jamais d'Effort.
 
-# HINDER
+# ENTRAVER
 
-An increase in a task’s difficulty, usually by one step. If something doesn’t
-say how many steps it hinders a task, then it increases the difficulty by one
-step.
+Une augmentation de la difficulté de la tâche, d'habitude d'un cran. Si il n'est
+pas indiqué de combien de cran une tâche est désavantagée, alors la difficulté
+est augmentée de un cran.
 
-# INABILITY
+# INAPTITUDE
 
-The opposite of trained—you’re hindered whenever you attempt a task that you
-have an inability in. If you also become trained in the task, the training and
-the inability cancel each other out and you become practiced.
+L'opposé d'être entraîné—vous êtes désavantagé à achque fois que vous tentez
+d'accomplir une tâche pour laquelle vous êtes inapte. Si vous devenez entraîné à
+cette tâche, l'entraînement et l'inaptitude se compensent l'un l'autre et vous
+avez maintenant de la pratique dans la tâche.
 
-# LEVEL
+# NIVEAU
 
-A way to measure the strength, difficulty, power, or challenge of something in
-the game. Everything in the game has a level. NPCs and objects have levels that
-determine the difficulty of any task related to them. For example, an opponent’s
-level determines how hard they are to hit or avoid in combat. A door’s level
-indicates how hard it is to break down. A lock’s level determines how hard it is
-to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers
-are a little like levels, but they go only from 1 to 6 and mechanically work
-very differently than levels—for example, a PC’s tier does not determine a
-task’s difficulty.
+Une façon de mesurer la force, la difficulté, la puissance, le défi de quelque
+chose dans le jeu. Tout, dans le jeu, a un niveau. Les PNJs, et les objets ont
+un niveau pour déterminer la difficulté de toute tâche les concernant. Par
+exemple, le niveau d'un adversaire définit à quel point il est difficile à
+toucher ou à éviter dans un combat. Le niveau d'une porte indique à quel point
+il est difficile de la briser. Le niveau d'une serrure définit la difficulté de
+la crocheter. Les niveaux sont définis sur une échelle de 1 (le plus facile) à
+10 (le plus difficile). Les rangs des personnages sont un petit peu comme les
+niveaux mais ne cont que de 1 à 6 et mécaniquement fonctionne de manière très
+différente des niveaux—par exemple, le rang d'un personnage ne détermine pas la
+difficulté d'une tâche.
 
-# PRACTICED
+# EXERCÉ
 
-The normal, unmodified ability to use a skill—not trained, specialized, or an
-inability. Your type determines what weapon skills you’re practiced in; if you
-aren’t practiced with a type of weapon, you have an inability in it.
+La capacité normale, non-altérée, d'utiliser une compétence—non-entraîné,
+non-spécialisé, sans inaptitude. Votre type détermine quelles sont vos
+compétences en arme pour lesquelles vous avez de la pratique ; si vous n'avez
+pas de pratique dans un type d'arme, vous être inapte avec lui.
 
-# ROLL
+# JET DE DÉ
 
-A d20 roll made by a PC to determine whether an action is successful. Although
-the game occasionally uses other dice, when the text simply refers to “a roll,”
-it always means a d20 roll.
+Un jet de d20 fait par un PJ pour déterminer si une action est un succès. Bien
+que le jeu utilise occasionnellement d'autres dés, quand le texte fait
+simplement fait référence à "un jet de dé" c'est toujours un jet de d20.
 
 # ROUND
 
-A length of time about five to ten seconds long. There are about ten rounds in a
-minute. When it’s really important to track precise time, use rounds. Basically,
-it’s the length of time to take an action in the game, but since everyone more
-or less acts simultaneously, all characters get to take an action each round.
+Une durée entre 5 et 10 secondes. Il y a environ 10 rounds dans une minute.
+Quand il est très important de suivre le temps de manière précise, utilisez le
+round. En pratique, c'est la durée que prend une action dans le jeu, mais comme
+tout le monde agit plus ou moins de manière simultanée, tous les personnages
+peuvent effectuer une action chaque round.
 
-# SPECIALIZED
+# SPÉCIALISÉ
 
-Having an exceptional amount of skill in a task. Being specialized eases the
-task by two steps. So, if you are specialized in climbing, all your climbing
-tasks are eased by two steps.
+Avoir un niveau exceptionnel dans la compétence pour une tâche. Être spécialisé
+facilite la tâche de deux crans. Donc, si vous êtes spécialisé dans l'escalade,
+toutes les tâches d'escalade sont facilités de deux crans.
 
-# STAT
+# CARACTÉRISTIQUE
 
-One of the three defining characteristics for PCs: Might, Speed, or Intellect.
-Each stat has two values: Pool and Edge. Your Pool represents your raw, innate
-ability, and your Edge represents knowing how to use what you have. Each stat
-Pool can increase or decrease over the course of play—for example, you can lose
-points from your Might Pool when struck by an opponent, spend points from your
-Intellect Pool to activate a special ability, or rest to recover points in your
-Speed Pool after a long day of marching. Anything that damages a stat, restores
-a stat, or boosts or penalizes a stat affects the stat’s Pool.
+Une des trois caractéristiques définies pour les PJs : Puissance, Célérité, ou
+Intellect. Chaque caractéristique a deux valeurs : Réserve et Avantage. Votre
+Réserve représente votre faculté pure et innée, tandis que votre Avantage
+représente votre habilité à utiliser votre faculté. Chaque Réserve de
+caractéristique pour augmenter ou diminuer au cours du jeu---par exemple, vous
+pouvez perdre des points de votre Réserve de Puissance quand vous êtes frappé
+par un adversaire, ou vous pouvez dépensez des points de votre Réserve
+d'Intelligence pour activer une capacité spéciale, ou vous reposez pour
+récupérer des points de Réserve de Célérité après un long jour de marche. Tout
+ce qui diminue, restaure, améliore ou pénalise une caractéristique affecte la
+Réserve de la caractéristique.
 
-# TASK
+# TÂCHE
 
-Any action that a PC attempts. The GM determines the difficulty of the task. In
-general, a task is something that you do and an action is you performing that
-task, but in most cases they mean the same thing.
+Toute action qu'un PJ essaie d'accomplir. La Meneuse détermine la difficulté
+d'une tâche. En général, une tâche est quelque chose que vous faîtes, et une
+action est votre accomplissement de cette tâche, mais dans la plupart des cas
+ils signifient la même chose.
 
-# TRAINED
+# ENTRAÎNÉ
 
-Having a reasonable amount of skill in a task. Being trained eases the task. For
-example, if you are trained in climbing, all climbing tasks for you are eased.
-If you become very skilled at that task, you become specialized instead of
-trained. You do not need to be trained to attempt a task.
+Avoir un niveau raisonnable dans la compétence pour une tâche. Être entraîné
+facilite la tâche. Par exemple, si vous êtes entraîné en escalade, toutes les
+tâches d'escalade sont facilités pour vous. Si vous devenez très entraîné à
+cette tâche, vous devenez spécialisé à la place d'entraîné. Vous n'avez pas
+besoin d'être entraîné pour tenter d'accomplir une tâche.
 
-# TURN
+# TOUR
 
-The part of the round when a character or creature takes its actions. For
-example, if a Warrior and an Adept are fighting an orc, each round the Warrior
-takes an action on their turn, the Adept takes an action on their turn, and the
-orc takes an action on its turn. Some abilities or effects last only one turn,
-or end when the next turn is started.
+La partie du round pendant laquelle le personnage ou la créature réalise ses
+actions. Par exemple, si un Guerrier et un Adepte combattent un orc, le Guerrier
+fait une action pendant son tour, l'Adepte fait une action pendant son tour, et
+l'orc fait son action pendant son tour. Certaines capacités spéciales ou effets
+durent seulement pendant un tour, ou se termine quand le prochain tour démarre.

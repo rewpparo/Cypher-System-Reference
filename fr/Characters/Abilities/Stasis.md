@@ -1,8 +1,8 @@
-Stasis (3 Intellect points) #Ability #SpecialAttackAbility #Low #Core
+Stase (3 points d'Intellect) #Ability #SpecialAttackAbility #Low #Core
 
-You surround a foe of your size or smaller with scintillating energy, keeping it
-from moving or acting for one minute, as if frozen solid. You must be able to
-see the target, and it must be within short range. While in stasis, the target
-is impervious to harm, cannot be moved, and is immune to all effects.
+Vous entourez un ennemi de votre taille ou moins avec une énergie scintillante,
+l’empêchant de se déplacer ou d'agir pendant une minute, comme s'il était gelé
+sur place. Vous devez voir la cible, et elle doit être à portée courte. Pendant
+sa stase, la cible est invincible, inamovible, et immunisé à tous les effets.
 
 Action.

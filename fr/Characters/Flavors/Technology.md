@@ -1,58 +1,60 @@
-Technology #Flavor #Core
+Technologie #Flavor #Core
 
-Characters with a flavor of technology typically are from science fiction or at
-least modern-day\
-settings (although anything is possible). They excel at using, dealing with, and
-building machines. An Explorer with technology flavor might be a starship pilot,
-and a Speaker flavored with technology could be a techno-priest.
+Les personnages ayant une Préférence de technologie sont généralement issus d'un
+cadre de campagne de science-fiction ou du moins des temps modernes (même si
+tout est possible). Ils excellent dans l’utilisation, la manipulation et la
+construction de machines. Un explorateur doté d'une Préférence technologique
+pourrait être un pilote de vaisseau spatial, et un orateur doté d'une Préférence
+technologique pourrait être un techno-prêtre.
 
-Some of the less computer-oriented abilities might be appropriate for a
-steampunk character, while a modern-day character could use some of the
-abilities that don’t involve starships or ultratech.
+Certaines des capacités les moins orientées vers l'ordinateur pourraient
+convenir à un personnage steampunk, tandis qu'un personnage moderne pourrait
+utiliser certaines des capacités qui n'impliquent pas de vaisseaux spatiaux ou
+d'ultratechnologie.
 
-# FIRST-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Premier Rang
 
 - [Datajack](../Abilities/Datajack.md)
 - [Hacker](../../Game%20Mastering/NPCs/Hacker.md)
-- [Machine Interface](../Abilities/Machine%20Interface.md)
-- [Scramble Machine](../Abilities/Scramble%20Machine.md)
-- [Tech Skills](../Abilities/Tech%20Skills.md)
-- [Tinker](../Abilities/Tinker.md)
+- [Interface Machine](../Abilities/Machine%20Interface.md)
+- [Brouiller une Machine](../Abilities/Scramble%20Machine.md)
+- [Compétences techniques](../Abilities/Tech%20Skills.md)
+- [Bricoleur](../Abilities/Tinker.md)
 
-# SECOND-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Second Rang
 
-- [Distant Interface](../Abilities/Distant%20Interface.md)
-- [Machine Efficiency](../Abilities/Machine%20Efficiency.md)
-- [Overload Machine](../Abilities/Overload%20Machine.md)
+- [Interface distante](../Abilities/Distant%20Interface.md)
+- [Efficacité de la machine](../Abilities/Machine%20Efficiency.md)
+- [Surcharge de Machine](../Abilities/Overload%20Machine.md)
 - [Serv-0](../Abilities/Serv-0.md)
-- [Serv-0 Defender](../Abilities/Serv-0%20Defender.md)
-- [Serv-0 Repair](../Abilities/Serv-0%20Repair.md)
-- [Tool Mastery](../Abilities/Tool%20Mastery.md)
+- [Serv-0 Defenseur](../Abilities/Serv-0%20Defender.md)
+- [Serv-0 Réparateur](../Abilities/Serv-0%20Repair.md)
+- [Maîtrise des outils](../Abilities/Tool%20Mastery.md)
 
-# THIRD-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Troisième Rang
 
-- [Mechanical Telepathy](../Abilities/Mechanical%20Telepathy.md)
+- [Télépathie mécanique](../Abilities/Mechanical%20Telepathy.md)
 - [Serv-0 Scanner](../Abilities/Serv-0%20Scanner.md)
-- [Ship Footing](../Abilities/Ship%20Footing.md)
-- [Shipspeak](../Abilities/Shipspeak.md)
-- [Spray](../Abilities/Spray.md)
+- [A l'Aise à Bord](../Abilities/Ship%20Footing.md)
+- [Ordonner au Vaisseau](../Abilities/Shipspeak.md)
+- [Arroser ](../Abilities/Spray.md)
 
-# FOURTH-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Quatrième Rang
 
-- [Machine Bond](../Abilities/Machine%20Bond.md)
-- [Robot Fighter](../Abilities/Robot%20Fighter.md)
-- [Serv-0 Aim](../Abilities/Serv-0%20Aim.md)
-- [Serv-0 Brawler](../Abilities/Serv-0%20Brawler.md)
-- [Serv-0 Spy](../Abilities/Serv-0%20Spy.md)
+- [Liaison machine](../Abilities/Machine%20Bond.md)
+- [Combattant de Robot](../Abilities/Robot%20Fighter.md)
+- [Serv-0 Viser](../Abilities/Serv-0%20Aim.md)
+- {Serv-0 Bagarreur](../Abilities/Serv-0%20Brawler.md)
+- [Serv-0 Espion](../Abilities/Serv-0%20Spy.md)
 
-# FIFTH-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Cinquième Rang
 
-- [Control Machine](../Abilities/Control%20Machine.md)
-- [Jury-Rig](../Abilities/Jury-Rig.md)
-- [Machine Companion](../Abilities/Machine%20Companion.md)
+- [Contrôle de Machine](../Abilities/Control%20Machine.md)
+- [Comme McGyver](../Abilities/Jury-Rig.md)
+- [Compagnon machine](../Abilities/Machine%20Companion.md)
 
-# SIXTH-TIER TECHNOLOGY ABILITIES
+# Capacités de Technologie de Sixième Rang
 
-- [Information Gathering](../Abilities/Information%20Gathering.md)
-- [Master Machine](../Abilities/Master%20Machine.md)
+- [Collecte d'informations](../Abilities/Information%20Gathering.md)
+- [Maîtrise des Machines](../Abilities/Master%20Machine.md)
 

@@ -1,7 +1,8 @@
-True Senses #Ability #SensesAbility #High #Core
+Sens Véritable #Ability #SensesAbility #High #Core
 
-You can see in complete darkness up to 50 feet (15 m) as if it were dim light.
-You recognize holograms, disguises, optical illusions, sound mimicry, and other
-such tricks (for all senses) for what they are.
+Vous pouvez voir dans l'obscurité totale à une distance de 15m comme si c'était
+une faible illumination. Vous reconnaissez les hologrammes, les déguisements,
+les illusions optique, l’imitation d'un son, et autres tromperies des sens pour
+ce qu'elles sont.
 
 Facilitateur.

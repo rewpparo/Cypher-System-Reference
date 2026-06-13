@@ -1,21 +1,23 @@
-Travels Through Time #Focus #MovementFocus #Core
+Voyage à Travers le Temps #Focus #MovementFocus #Core
 
-You can see through time, try to reach through it, and eventually even travel
-through it.
+Vous pouvez voir à travers le temps, essayer de le traverser et éventuellement
+même le parcourir.
 
-(Although all character choices are subject to GM approval, Travels Through Time
-is a focus that the GM and player should probably have a long conversation about
-ahead of time, so the player knows the rules of time travel (if any) that exist
-in the GM’s setting. A character with this focus can drastically alter a
-setting, if the rules of time travel allow it.)
+(Bien que tous les choix de personnages soient soumis à l'approbation du MJ,
+Voyage à Travers le Temps est un sujet sur lequel le MJ et le joueur devraient
+probablement avoir une longue conversation à l'avance, afin que le joueur
+connaisse les règles du voyage dans le temps (le cas échéant) qui existent dans
+le réglage du MJ. Un personnage avec ce Focus peut modifier radicalement la
+campagne, si les règles du voyage dans le temps le permettent.)
 
-- Tier 1: [Anticipation](../Abilities/Anticipation.md)
-- Tier 2: [See History](../Abilities/See%20History.md)
-- Tier 3: [Temporal Acceleration](../Abilities/Temporal%20Acceleration.md) or
-  [Time Loop](../Abilities/Time%20Loop.md)
-- Tier 4: [Temporal Dislocation](../Abilities/Temporal%20Dislocation.md)
-- Tier 5: [Time Doppelganger](../Abilities/Time%20Doppelganger.md)
-- Tier 6: [Call Through Time](../Abilities/Call%20Through%20Time.md) or [Time
-  Travel](../Abilities/Time%20Travel.md)
+- Rang 1 : [Anticipation](../Abilities/Anticipation.md)
+- Rang 2 : [Voir Historique](../Abilities/See%20History.md)
+- Rang 3 : [Accélération temporelle](../Abilities/Temporal%20Acceleration.md) ou
+  [Boucle temporelle](../Abilities/Time%20Loop.md)
+- Rang 4 : [Dislocation temporelle](../Abilities/Temporal%20Dislocation.md)
+- Rang 5 : [Doppelganger Temporel](../Abilities/Time%20Doppelganger.md)
+- Rang 6 : [Appel à travers le temps](../Abilities/Call%20Through%20Time.md) ou
+  [Voyage dans le temps](../Abilities/Time%20Travel.md)
 
-GM Intrusions: Paradoxes are created. Others remember past events differently.
+Intrusions de la Meneuse : Des paradoxes se créent. D'autres se souviennent
+différemment des événements passés.

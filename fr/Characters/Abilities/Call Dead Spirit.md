@@ -1,15 +1,16 @@
-Call Dead Spirit (6 Intellect points) #Ability #CompanionAbility #High #Core
+Appeler l'esprit d'un mort (6 points d'Intellect) #Ability #CompanionAbility
+#High #Core
 
-At your touch, the remains of a creature dead no longer than seven days appears
-as a manifest (and apparently physical) spirit, whose level is the same as it
-had in life. The raised spirit persists for up to a day (or less, if it
-accomplishes something important to it before then), after which it fades away
-and cannot return again.
+À votre contact, les restes d'une créature morte depuis moins de sept jours
+apparaissent comme un esprit manifeste (et apparemment physique), dont le niveau
+est le même que celui de son vivant. L'esprit ressuscité persiste jusqu'à un
+jour (ou moins, s'il accomplit quelque chose d'important pour lui avant cette
+date), après quoi il disparaît et ne peut plus revenir.
 
-The raised spirit remembers everything it knew in life and possesses most of its
-previous abilities (though not necessarily its equipment). In addition, it gains
-the ability to become insubstantial as an action for up to a minute at a time.
-The raised spirit is not beholden to you, and it does not need to stay near you
-to remain manifest.
+L'esprit appelé se souvient de tout ce qu'il a connu dans la vie et possède la
+plupart de ses capacités antérieures (mais pas nécessairement son équipement).
+De plus, il acquiert la capacité de devenir immatériel en tant qu'action pendant
+une minute à la fois. L'esprit appelé ne vous est pas redevable et il n'a pas
+besoin de rester près de vous pour ne pas repartir.
 
 Action pour initier.

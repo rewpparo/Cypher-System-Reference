@@ -1,0 +1,1 @@
+Wooden Pole #Item #Inexpensive #Core #Fantasy 5cp

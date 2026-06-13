@@ -1,47 +1,50 @@
 Combat #Flavor #Core
 
-Combat flavor makes a character more martial. A Speaker with combat flavor in a
-fantasy setting would be a battle bard. An Explorer with combat flavor in a
-historical game might be a pirate. An Adept flavored with combat in a science
-fiction setting could be a veteran of a thousand psychic wars.
+La Préférence de combat rend un personnage plus martial. Un Orateur avec une
+Préférence de combat dans un décor fantastique serait un barde de combat. Un
+explorateur avec Préférence de combat dans un jeu historique pourrait être un
+pirate. Un Adepte passionné de combat dans un décor de science-fiction pourrait
+être un vétéran de mille guerres psychiques.
 
-# FIRST-TIER COMBAT ABILITIES
+# Capacités de Combat de Premier Rang
 
-- [Danger Sense](../Abilities/Danger%20Sense.md)
-- [Practiced in Armor](../Abilities/Practiced%20in%20Armor.md)
-- [Practiced With Medium
-  Weapons](../Abilities/Practiced%20With%20Medium%20Weapons.md)
+- [Sens du Danger](../Abilities/Danger%20Sense.md)
+- [Exercé au Port des Armures](../Abilities/Practiced%20in%20Armor.md)
+- [Exercé avec les Armes
+  Moyennes](../Abilities/Practiced%20With%20Medium%20Weapons.md)
 
-# SECOND-TIER COMBAT ABILITIES
+# Capacités de Combat de Second Rang
 
-- [Bloodlust](../Abilities/Bloodlust.md)
-- [Combat Prowess](../Abilities/Combat%20Prowess.md)
-- [Trained Without Armor](../Abilities/Trained%20Without%20Armor.md)
+- [Soif de sang](../Abilities/Bloodlust.md)
+- [Prouesse de combat](../Abilities/Combat%20Prowess.md)
+- [Entrainé sans armure](../Abilities/Trained%20Without%20Armor.md)
 
-# THIRD-TIER COMBAT ABILITIES
+# Capacités de Combat de Troisième Rang
 
-- [Practiced With All Weapons](../Abilities/Practiced%20With%20All%20Weapons.md)
-- [Skill With Attacks](../Abilities/Skill%20With%20Attacks.md)
-- [Skill With Defense](../Abilities/Skill%20With%20Defense.md)
-- [Successive Attack](../Abilities/Successive%20Attack.md)
+- [Exercé avec Toutes les
+  Armes](../Abilities/Practiced%20With%20All%20Weapons.md)
+- [Doué à l'attaque](../Abilities/Skill%20With%20Attacks.md)
+- [Doué en défense](../Abilities/Skill%20With%20Defense.md)
+- [Attaque successive](../Abilities/Successive%20Attack.md)
 
-# FOURTH-TIER COMBAT ABILITIES
+# Capacités de Combat de Quatrième Rang
 
-- [Capable Warrior](../Abilities/Capable%20Warrior.md)
-- [Deadly Aim](../Abilities/Deadly%20Aim.md)
-- [Fury](../Abilities/Fury.md)
-- [Misdirect](../Abilities/Misdirect.md)
-- [Spray](../Abilities/Spray.md)
+- [Guerrier Compétent](../Abilities/Capable%20Warrior.md)
+- [Visée mortelle](../Abilities/Deadly%20Aim.md)
+- [Furie](../Abilities/Fury.md)
+- [Détournement](../Abilities/Misdirect.md)
+- [Arroser ](../Abilities/Spray.md)
 
-# FIFTH-TIER COMBAT ABILITIES
+# Capacités de Combat de Cinquième Rang
 
-- [Experienced Defender](../Abilities/Experienced%20Defender.md)
-- [Hard Target](../Abilities/Hard%20Target.md)
-- [Parry](../Abilities/Parry.md)
+- [Défenseur expérimenté](../Abilities/Experienced%20Defender.md)
+- [Cible difficile](../Abilities/Hard%20Target.md)
+- [Parade](../Abilities/Parry.md)
 
-# SIXTH-TIER COMBAT ABILITIES
+# Capacités de Combat de Sixième Rang
 
-- [Greater Skill With Attacks](../Abilities/Greater%20Skill%20With%20Attacks.md)
-- [Mastery in Armor](../Abilities/Mastery%20in%20Armor.md)
-- [Mastery With Defense](../Abilities/Mastery%20With%20Defense.md)
+- [Compétence en Attaque
+  Supérieure](../Abilities/Greater%20Skill%20With%20Attacks.md)
+- [Maitrise des armures](../Abilities/Mastery%20in%20Armor.md)
+- [Maitrise en défense](../Abilities/Mastery%20With%20Defense.md)
 

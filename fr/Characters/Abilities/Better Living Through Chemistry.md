@@ -1,12 +1,13 @@
 Mieux vivre par la chimie (4 points d'Intellect) #Ability #MetaAbility #Mid
 #Core
 
-You’ve developed drug cocktails specifically designed to work with your own
-biochemistry. Depending on which one you inject, it makes you smarter, faster,
-or tougher, but when it wears off, the crash is a doozy, so you use it only in
-desperate situations. You gain 2 to your Might Edge, Speed Edge, or Intellect
-Edge for one minute, after which you can’t gain the benefit again for one hour.
-During this follow-up hour, every time you spend points from a Pool, increase
-the cost by 1.
+Vous avez développé des cocktails de médicaments spécialement conçus pour
+fonctionner avec votre propre biochimie. Selon celui que vous injectez, cela
+vous rend plus intelligent, plus rapide ou plus résistant, mais quand cela
+s'estompe, le crash est un désastre, vous ne l'utilisez donc que dans des
+situations désespérées. Vous gagnez 2 à votre Avantage de Puissance, Speed Edge
+ou Intellect Edge pendant une minute, après quoi vous ne pouvez plus bénéficier
+de cet avantage pendant une heure. Pendant cette heure de suivi, chaque fois que
+vous dépensez des points d'un Pool, augmentez le coût de 1.
 
 Action.

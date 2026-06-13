@@ -1,6 +1,6 @@
-Blood Fever #Ability #AttackAbility #ProtectionAbility #Mid #Core
+Fièvre sanguinolente #Ability #AttackAbility #ProtectionAbility #Mid #Core
 
-When you have no points in one or two Pools, you gain an asset to attacks or
-defense rolls (your choice).
+Lorsque vous n'avez aucun point dans une ou deux Réserves, vous gagnez un atout
+aux jets d'attaque ou de défense (au choix).
 
 Facilitateur.

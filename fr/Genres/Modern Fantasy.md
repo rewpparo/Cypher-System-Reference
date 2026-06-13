@@ -1,6 +1,6 @@
 ## Univers
 
-## Characters
+## Personnages
 
 ### DESCRIPTORS
 
@@ -4705,7 +4705,7 @@ each use)
 
 
 
-## Creatures
+## Les Créatures
 
 BARGAINER FIEND 3 (9)
 

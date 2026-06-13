@@ -1,8 +1,9 @@
-Oratory (4 Intellect points) #Ability #SocialAbility #Mid #Core
+Éloquence (4 points d'Intellect) #Ability #SocialAbility #Mid #Core
 
-When speaking with a group of intelligent creatures that can understand you and
-aren’t hostile, you convince them to take one reasonable action in the next
-round. A reasonable action should not put the creatures or their allies in
-obvious danger or be wildly out of character.
+Quand vous parlez avec un groupe de créatures intelligentes qui vous comprennent
+et ne sont pas hostiles, vous les persuadez de faire une action raisonnable dans
+le prochain tour. Une action raisonnable ne doit pas mettre les créatures ou
+leurs alliés dans un danger évident et ne doit pas être complètement incohérent
+avec leur personnalité.
 
 Action.

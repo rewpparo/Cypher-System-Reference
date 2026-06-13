@@ -1,10 +1,10 @@
-Mind Reading (2 Intellect points) #Ability #InformationAbility #Low #Core
+Lire les pensées (2 points d'Intellect) #Ability #InformationAbility #Low #Core
 
-You can read the surface thoughts of a creature within short range, even if the
-target doesn’t want you to. You must be able to see your target. Once you have
-established contact, you can read the target’s thoughts for up to one minute. If
-you also have the [Mind Reading](Mind%20Reading.md) special ability from another
-source, you can use this ability at long range, and you don’t need to be able to
-see the target (but you do have to know that the target is within range).
+Vous pouvez lire les pensées de surface d'une créature à distance courte, même
+si la cible ne le veut pas. Vous devez voir la cible. Une fois le contact
+établi, vous pouvez lire dans les pensées de la cible pendant une minute. Si
+vous avez aussi l'aptitude [Lire les Pensées](Mind%20Reading.md) d'une autre
+source, vous pouvez utiliser cette aptitude à longue portée, et vous n'avez pas
+besoin de le voir la cible (mais vous devez savoir que la cible est à portée).
 
 Action pour initier.

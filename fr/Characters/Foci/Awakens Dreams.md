@@ -1,16 +1,17 @@
-Awakens Dreams #Focus #EnvironmentFocus #Core
+Réveille les rêves #Focus #EnvironmentFocus #Core
 
-You can pull images from dreams and bring them to life in the waking world.
+Vous pouvez extraire des images de rêves et leur donner vie dans le monde
+éveillé.
 
-- Tier 1: [Dreamcraft](../Abilities/Dreamcraft.md)
-- Tier 1: [Oneirochemy](../Abilities/Oneirochemy.md)
-- Tier 2: [Dream Thief](../Abilities/Dream%20Thief.md)
-- Tier 3: [Dream Becomes Reality](../Abilities/Dream%20Becomes%20Reality.md) or
-  [Enhanced Intellect](../Abilities/Enhanced%20Intellect.md)
-- Tier 4: [Daydream](../Abilities/Daydream.md)
-- Tier 5: [Nightmare](../Abilities/Nightmare.md)
-- Tier 6: [Chamber of Dreams](../Abilities/Chamber%20of%20Dreams.md) or
-  [Reactive Field](../Abilities/Reactive%20Field.md)
+- Rang 1 : [Artisanat des Rêves](../Abilities/Dreamcraft.md)
+- Rang 1 : [Science du Sommeil](../Abilities/Oneirochemy.md)
+- Rang 2 : [Voleur de rêves](../Abilities/Dream%20Thief.md)
+- Rang 3 : [Intellect amélioré](../Abilities/Dream%20Becomes%20Reality.md) ou
+  [Le rêve devient réalité](../Abilities/Enhanced%20Intellect.md)
+- Rang 4 : [Rêverie](../Abilities/Daydream.md)
+- Rang 5 : [Cauchemar](../Abilities/Nightmare.md)
+- Rang 6 : [Chambre des rêves](../Abilities/Chamber%20of%20Dreams.md) ou [Champ
+  réactif](../Abilities/Reactive%20Field.md)
 
-GM Intrusions: An unexpected sleepwalking episode puts the character into a
-dangerous situation. A nightmare breaks free of a dream.
+Intrusions de la Meneuse : Un épisode de somnambulisme inattendu met le
+personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.

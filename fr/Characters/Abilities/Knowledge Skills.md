@@ -1,8 +1,9 @@
-Knowledge Skills #Ability #TaskAbility #Low #Core
+Compétences en Connaissances #Ability #TaskAbility #Low #Core
 
-You are trained in two skills in which you are not already trained. Choose two
-areas of knowledge such as history, geography, archeology, and so on. You can
-select this ability multiple times. Each time you select it, you must choose two
-different skills.
+Vous êtes entrainé dans deux compétences pour lesquelles vous n'êtes pas déjà
+entrainé. Choisissez deux domaines de connaissance comme la histoire, la
+géographie, l'archéologie, etc. Vous pouvez choisir cette aptitude plusieurs
+fois. Chaque fois que vous la choisissez, vous devez choisir deux compétences
+différentes.
 
 Facilitateur.

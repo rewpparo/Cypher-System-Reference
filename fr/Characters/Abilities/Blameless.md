@@ -1,5 +1,6 @@
-Blameless #Ability #TaskAbility #Low #Core
+Irréprochable #Ability #TaskAbility #Low #Core
 
-You are trained in one of the following: deception, stealth, or disguise.
+Vous êtes entraîné dans l'un des domaines suivants : tromperie, furtivité ou
+déguisement.
 
 Facilitateur.

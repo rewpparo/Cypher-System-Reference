@@ -1,12 +1,12 @@
-Overload Machine (3+ Intellect points) #Ability #MetaAbility #Low #Core
+Surcharger une Machine (3+ points d'Intellect) #Ability #MetaAbility #Low #Core
 
-Through the robot assistant from your Serv-0 ability, you infuse a powered
-device of level 3 or lower with more energy than it can handle. If affected, the
-device is destroyed or disabled for at least one minute, depending on its size
-and complexity. The GM may rule that the disabling effect lasts until the device
-is repaired. In addition to the normal options for using Effort, you can choose
-to use Effort to increase the maximum level of the target. Thus, to overload a
-level 5 device (two levels above the normal limit), you must apply two levels of
-Effort.
+Avec l'assistance de votre assistant robot de votre aptitude Serv-0, vous servez
+à un appareil de niveau 3 ou moins plus d'énergie qu'il ne peut en stocker. S'il
+est affecté, l'appareil est détruit ou désactivé pendant au moins une minute,
+selon sa taille et sa complexité. Le MJ peut décider que la désactivation dure
+jusqu'à ce que l'appareil soit réparé. En plus des options normales pour l'usage
+de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau
+maximum de la cible. Donc, pour surcharger une machine de niveau 5 (deux niveaux
+au dessus de la limite), vous devez mettre deux niveaux d'Effort.
 
 Action.

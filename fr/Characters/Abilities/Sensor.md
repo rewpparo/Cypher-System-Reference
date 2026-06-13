@@ -1,9 +1,9 @@
-Sensor (4 Intellect points) #Ability #InformationAbility #Mid #Core
+Senseur (4 points d'Intellect) #Ability #InformationAbility #Mid #Core
 
-You create an immobile, invisible sensor within immediate range that lasts for
-24 hours. At any time during that duration, you can concentrate to see, hear,
-and smell through the sensor, no matter how far you move from it. The sensor
-doesn’t grant you sensory capabilities beyond the norm. If you also have this
-ability from another source, it lasts twice as long.
+Vous créez un senseur immobile et invisible à portée immédiate qui dure 24
+heures. A n'importe quel moment pendant cette durée, vous pouvez vous concentrer
+pour voir, écouter et sentir à travers le senseur, peu importe votre distance.
+Le senseur ne vous donne pas de capacité sensorielles au delà de la norme. Si
+vous obtenez cette aptitude d'une autre source, elle dure 2 fois plus longtemps.
 
-Action to create; action to check.
+Action pour activer, action pour vérifier.
